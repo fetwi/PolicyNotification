@@ -1,0 +1,94 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Introduction</h2>
+<p>This Policy Notification (PN)-43R supersedes PN-43U released March 19, 2001.  As client departments increase their project management capacities and capabilities relating to construction and architectural and engineering (A&amp;E) services, it is incumbent upon Public Works and Government Services Canada (PWGSC) to remove barriers to using our contracting services and recognize the willingness of client departments in accepting responsibility and accountability for their requirements.  As such, PN-43U requires updating for a clearer and more formal definition of the roles and responsibilities of the client departments, Real Property Branch (RPB) and Real Property Contracting (RPC) Acquisitions Branch (AB).  Consequently, the Client Responsibilities Certification introduced in 2001 is replaced by a formal Memorandum of Understanding.</p>
+<h2>Background</h2>
+<p>This PN was first issued in 1999 and updated in March 2001.  It was designed to reduce the risk to government in contracting for construction, and architectural and engineering (A&amp;E) services (a definition of coverage is attached as <a href="#PN-43Ra1">Annex A</a>) as these requirements can deal with complex technical, health and safety, and project management issues.</p>
+<p>As construction and A&amp;E contracting authorities had previously only been given to the former Department of Public Works for their use while using their own technical resources, it was perceived that any other department accessing these higher contracting authorities may pose a risk, not only to the individual department but also to PWGSC.</p>
+<p>PN-43 was therefore created to ensure that for such contracts for which <abbr title="Public Works and Government Services Canada">PWGSC</abbr> was the contracting authority, AB contracting community used adequate risk management approaches to ensure, in advance, that projects managed by client department technical authorities were undertaken with an appropriate level of: (i) contracting; and (ii) technical expertise.</p>
+<p>In situations where RPB was the technical authority, AB accepted that the appropriate level of understanding and technical expertise existed to ensure an acceptable level of risk to Canada.  However, where a client department was to be the technical authority, AB was to assess the risks inherent in the planned procurement.  This analysis was to include a confirmation that the client had the required capacity (including the appropriate construction management capabilities and procedures), and that the client was willing to accept the related responsibilities.  RPB was to assist AB in the overall assessment of the client department's required capacity.</p>
+<p>Upon obtaining a favourable assessment, the Director of the client department responsible for the project was to sign a short certification document outlining the responsibilities of the client department allowing AB to proceed with the requirement.  If the assessment was unfavourable, the client department was informed in writing of the reason(s) for which contracting services from AB would not be provided.  The client department would then have to make internal modifications or avail themselves of the RPB technical services to carry-out the project.</p>
+<h2>Recent Events</h2>
+<p>Until recently, there have been few requests from client departments to come directly to AB for A&amp;E or construction contracts.  Two recent events may result in an increase in the number of requests:(a) the Treasury Board's Earned Independence Initiative whereby departments can obtain increased program authority after demonstrating internal project management capacity, and, (b) the Accelerated Infrastructure Program announced in the Budget 2009.</p>
+<p>In order to deal with the potential increase in requests from client departments to use AB contracting services, the assessment function of RPB is being replaced by a formal Memorandum of Understanding (MOU) with a clear definition of roles and responsibilities.  Accountabilities must be clearly defined, understood and assigned before AB contracting services are used.</p>
+<h2>Application</h2>
+<p>When RPB is the technical authority/project manager for a construction or A&amp;E services project, it is accepted that the appropriate level of technical expertise will be applied to the development and management of the project.  RPC of AB will therefore provide its full range of real property contracting services to RPB.</p>
+<p>When a client department intends to serve as the technical authority/project manager for a construction or A&amp;E services contract put in place under the authority of the Minister of PWGSC, RPC will require that the risks inherent in the planned procurement be assessed before commencing contracting activities.  The risk analysis is to determine that the client has the required capacity (including the appropriate construction management capabilities and procedures).  The division of responsibilities between the technical authority and the contracting authority are clearly defined in the document entitled <em>Real Property Contracting with Public Works and Government Services Canada</em>.  (<strong>NOTE</strong>: This document will be available in electronic version in the very near future on the Acquisitions on Publiservice Website, under the heading <a href="http://gcintranet.tpsgc-pwgsc.gc.ca/acquisitions/text/tools-e.html" rel="external">Acquisition Tools and Guides</a> <img alt="This link is available only to clients with access to Publiservice, the Government of Canada extranet." height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/>.)  The client department and RPC will work together to formalize a project specific MOU using the template in <a href="#PN-43Ra2">Annex B</a>.  This MOU will confirm that the client has the required capacity and accepts the related accountabilities and responsibilities.  It must be signed before <abbr title="Public Works and Government Services Canada">PWGSC</abbr> agrees to undertake the work specified in  the  requisition. </p>
+<p>In cases where it is determined that the level of technical competence proposed by the client department does not adequately address the identified risks, RPC will decline, at the manager level or above, to provide contracting services until the required level of technical expertise is made available.  In these cases, the client department is to receive written confirmation of the reason(s) for which contracting services will not be provided. </p>
+<h2>Revisions to Supply Manual</h2>
+<p>The content of this PN will be reflected in the next release of the new <em>Supply Manual</em>.</p>
+<h2>Contacts</h2>
+<p>Any inquiries are to be addressed to Anne Gauthier, Acquisition Policy and Process Directorate, by phone at 819-956-1025, or by e-mail at: <a href="mailto:Anne.Gauthier2@pwgsc-tpsgc.gc.ca" rel="external">Anne.Gauthier2@pwgsc-tpsgc.gc.ca</a>; <strong>OR</strong> Shawn Gardner, Real Property Contracting Directorate, by phone at: 819-956-6149, or by e-mail at: <a href="mailto:Shawn.Gardner@pwgsc-tpsgc.gc.ca" rel="external">Shawn.Gardner@pwgsc-tpsgc.gc.ca</a>.</p>
+<h2 id="PN-43Ra1">Annex A</h2>
+<h3>Definition of Coverage</h3>
+<p>The following, based on the <em>Government Contracts Regulations</em> (GCRs), defines the construction and architectural and engineering services covered in this PN:</p>
+<ol>
+<li>
+<p>PN-43R applies to any contract that fits the GCRs definition of a <strong>construction</strong> contract, as follows:</p>
+<p>"construction contract" (marché de travaux publics) - means a contract entered into for the construction, repair, renovation or restoration of any work except a vessel and includes:</p>
+<ol type="a">
+<li>a contract for the supply and erection of a prefabricated structure;</li>
+<li>a contract for dredging;</li>
+<li>a contract for demolition;</li>
+<li>a contract for environmental services related to a real property; or,</li>
+<li>a contract for the hire of equipment to be used in or incidentally to the execution of any contract referred to in this definition.</li>
+</ol>
+</li>
+<li>If a project comprises one or more of the following events, it is covered by PN-43R:<br/>
+<ol type="a">
+<li>the implementation of a design provided by an architect or an engineer; </li>
+<li>the control of the site being turned over to a contractor; </li>
+<li>the procedure being carried out is invasive to a building, bridge or other facility; or </li>
+<li>the contractor is a general contractor who will be employing sub-trades. </li>
+</ol>
+</li>
+<li>With respect to questions raised about the acquisition of services such as cleaning, waste removal, snow removal or lawn care, etc., approval and entry into these types of contracts fall under the "services" contracting authority: they are not by definition a contract subject to this PN.</li>
+<li>
+<p>PN-43R does not cover the acquisition, including standing offers, of maintenance services (e.g. carpenters, plumbers, electricians, etc.), where these agreements will be used by other government departments to supplement their in-house maintenance personnel and where the work carried out under these agreements is minor or non-invasive in nature.  Examples are replacement of flooring, replacement of lighting or plumbing fixtures, painting rooms, etc. - all activities normally associated with the maintenance of a facility.</p>
+<p>Note, however, that a client should never have more than one trade at the same site at the same time. In such a situation, the contracting authority becomes a general contractor, with all the attendant legal responsibilities for the site - and, in fact, the proposed contract(s) would then be covered by this PN.</p>
+</li>
+<li>
+<p>PN-43R applies to any <strong>architectural and engineering services</strong> contract, which can be defined as follows:</p>
+<p>"architectural and engineering service contract" (marché de services d'architectes et d'ingénieurs) - a contract for the provision of services in respect of the planning, design, preparation, or supervision of the construction, repair, renovation or restoration of a work. </p>
+</li>
+</ol>
+<h2 id="PN-43Ra2">Annex B</h2>
+<div class="alignCenter">
+<h3><strong>Memorandum of Understanding<br/>
+				Between<br/>
+				Real Property Contracting,<br/>
+				Acquisitions Branch,<br/>
+				Public Works and Government Services Canada<br/>
+				And<br/>
+				("Client Department name")</strong></h3>
+</div>
+<h4>1.0	Identification of Parties</h4>
+<p>The "Client Department name" (referred to as "Client") and Real Property Contracting, Public Works and Government Services Canada (referred to as "PWGSC").</p>
+<h4>2.0	Purpose</h4>
+<p>The purpose of the Memorandum of Understanding (MOU) is to formalize the contracting services to be provided to the Client by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> for the work identified in the attached PWGSC-TPSGC 9200 Requisition No. ________________________, as well as to have the Client provide a technical certification and identification of the Technical Authority. </p>
+<h4>3.0	Responsibilities</h4>
+<p>The client has overall responsibility for the completion of the work and the costs incurred.  <abbr title="Public Works and Government Services Canada">PWGSC</abbr> operates in support of the Client by performing certain contracting functions.  The specific responsibilities of the Client and <abbr title="Public Works and Government Services Canada">PWGSC</abbr> are set forth in the document entitled <em>Real Property Contracting with Public Works and Government Services Canada</em>. </p>
+<h4>4.0	Expenditures</h4>
+<p>PWGSC is funded by both appropriations and cost recovery.  Expenditures to be recovered from the Client will be determined and agreed by both parties prior to the commencement of any work.  It will be recognized by both parties that the number of days of effort will be mutually agreed upon and resources assigned will not be required to complete time sheets.</p>
+<h4>5.0	Dispute Resolution</h4>
+<p>Any disputes involving the MOU will be resolved at the respective director level within each organization and should the dispute not be resolved at that level the dispute must be escalated to a higher managerial level within each organization respectively.</p>
+<h4>6.0	Technical Certification and Identification of Technical Authority</h4>
+<p>I, as the Director with overall responsibility for the project identified, hereby certify that the person named below is fully qualified as to education and experience and has the necessary authority to carry out the responsibilities as the Technical Authority ("Departmental Representative") as set forth in the document entitled <em>Real Property Contracting with Public Works and Government Services Canada</em>.</p>
+<h4>Responsibilities</h4>
+<p>I further agree that the Technical Authority will be responsible for the work and more particularly for those items identified in the document <em>Real Property Contracting with Public Works and Government Services Canada</em>.  It is agreed that PWGSC's contracting practices, procedures and terms and conditions will be strictly adhered to on this project.</p>
+<p>Mr./Mrs./Ms ___________ is hereby designated as the Technical Authority ("Departmental Representative") for the purposes of the work/services and may be reached at _____-_______-_______.</p>
+<h4>7.0	Signatures</h4>
+<h5>For the Client:</h5>
+<p>The undersigned is the representative of this MOU, and understands, and acknowledges,  and agrees to the Client's responsibilities specified herein.</p>
+<p>Name: ____________________</p>
+<p>Title: ____________________</p>
+<p>Signature: ____________________</p>
+<p>Date: ____________________</p>
+<h5>For PWGSC:</h5>
+<p>The undersigned is the representative of this MOU, and acknowledges and agrees to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> responsibilities specified herein.</p>
+<p>Name: ____________________</p>
+<p>Title: ____________________</p>
+<p>Signature: ____________________</p>
+<p>Date: ____________________</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

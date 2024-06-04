@@ -1,0 +1,287 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Introduction </h2>
+<p>L'Avis relatif aux politiques 99 vise à informer les agents de négociation des contrats de ce qui suit :</p>
+<ol>
+<li>nouvelle  liste de contrôle des demandes (<a href="http://publiservice-app.pwgsc.gc.ca/forms/pdf/195.pdf" rel="external">PWGSC-TPSGC 195</a>) pour les clients; </li>
+<li>nouveau  processus d'accusé de réception des demandes; </li>
+<li>mise  en œuvre de nouvelles normes de service pour accuser réception des demandes.</li>
+</ol>
+<h2>Contexte</h2>
+<p>Dans le cadre de ses efforts pour  moderniser la fonction d'approvisionnement, le Bureau du renouvellement des  achats de la Direction générale des approvisionnements a formé un groupe de  travail en vue d'élaborer des solutions pour simplifier les processus  d'approvisionnement. Au cours des deux dernières années, le Groupe de travail  sur la modernisation des solutions d'approvisionnement (MSA),  composé de représentants des secteurs et des régions, a examiné les processus  d'approvisionnement pour les achats de base et normalisés en vue de favoriser  une approche simplifiée et d'améliorer notre niveau de service.</p>
+<h2>Date d'entrée en vigueur</h2>
+<p>Le présent AP entre en vigueur immédiatement.</p>
+<h2>Politique</h2>
+<p>Veuillez consulter  l'<a href="#AP-99anna">Annexe A</a> (Modifications  du Guide des approvisionnements) qui énonce les nouvelles procédures concernant  la liste de contrôle des demandes du client ainsi que le nouveau processus et  les nouvelles normes de services pour accuser réception des demandes. </p>
+<p>Les agents de négociation des contrats de TPSGC doivent encore examiner chaque demande afin de vérifier si elle est acceptable et complète pour que les activités d'achat puissent être poursuivies. Les agents de négociation des contrats de TPSGC peuvent encore utiliser la liste de contrôle des demandes qui figure à l'<a href="#AP-99anna21">annexe 2.1</a> du Guide des approvisionnements.</p>
+<p>L'<a href="#AP-99annb">Annexe B</a> contient les  coordonnées relatives aux modules d'attribution (MA) de TPSGC.</p>
+<h2>Personnes-ressources</h2>
+<p>Pour plus de précisions, veuillez communiquer avec le Groupe de travail sur la modernisation des solutions d'approvisionnement (MSA) à l'adresse courriel suivante : <a href="mailto:Modernisonsensemble.Modernizingtogether@tpsgc-pwgsc.gc.ca" rel="external">Modernisonsensemble.Modernizingtogether@tpsgc-pwgsc.gc.ca</a>.</p>
+<h2 id="AP-99anna">Annexe A – Modifications apportées au Guide des approvisionnements</h2>
+<p>Les changements entrent en vigueur immédiatement et seront  incorporés dans la prochaine version du Guide des approvisionnements.</p>
+<h3>2.30 Réception des demandes</h3>
+<ol class="double-space" type="a">
+<li>Les ministères clients doivent remplir le formulaire Demande de biens et de services, et construction (<a href="http://publiservice-app.pwgsc.gc.ca/forms/index.cfm?fuseaction=search.details&amp;lang=f&amp;display=5451" rel="external">PWGSC-TPSGC 9200</a>) et le transmettre au module des attributions (MA) de TPSGC. La liste  de contrôle des demandes (<a href="http://publiservice-app.pwgsc.gc.ca/forms/pdf/195.pdf" rel="external">PWGSC-TPSGC 195</a>) est un outil facultatif qui peut aider les ministères clients à remplir la demande et à déterminer les documents à l'appui requis.</li>
+<li>Les ministères clients doivent transmettre leurs demandes remplies au MA par courriel, par télécopieur ou par courrier, bien que la transmission par courriel soit le mode de transmission préférable. Les agents de négociation des contrats qui reçoivent une demande directement du client doivent la transmettre au MA et informer le ministère client des procédures à suivre. Le MA accusera réception d'une demande auprès du ministère client dans un délai d'un jour ouvrable pour les demandes soumises par voie électronique (courriel), et dans un délai de deux jours ouvrables pour les demandes papier (télécopieur/courriel). Lors du traitement de la demande, le MA communiquera avec le ministère client pour obtenir tout renseignement et/ou document manquant. Lorsque le traitement d'une demande est terminé, le MA entrera la demande dans l'Environnement automatisé de l'acheteur (EAA), et celle-ci sera assignée au bureau d'approvisionnement pertinent dans les régions ou dans le secteur de la capitale nationale. </li>
+<li>Dans les cinq jours ouvrables suivant la réception d'une demande d'un module d'attribution par un bureau d'approvisionnement, l'agent de négociation des contrats responsable doit informer le ministère client que la demande lui a été assigné et lui faire part de ses coordonnées.</li>
+</ol>
+<p><strong>2.30.1 Financement</strong> (demeure tel quel)</p>
+<p><strong>2.30.5 Attribution des demandes à TPSGC</strong></p>
+<ol class="double-space" type="a">
+<li>Les ministères clients peuvent normalement acheminer des demandes et des demandes de prix et de disponibilité directement au module d'attribution de Travaux publics et Services gouvernementaux Canada (TPSGC) de leur choix (au Canada seulement). </li>
+<li>Lorsque le client indique le bureau de TPSGC de son choix sur sa demande, cette dernière sera normalement attribuée à ce bureau. Les principales exceptions sont les suivantes :
+    <ol class="noBullet" type="i">
+<li>Produits soumis à des restrictions :
+        <p>Les  produits soumis à des restrictions sont : la publicité, la recherche sur  l'opinion publique, la production audio-visuelle, les achats en vrac de  carburant et de véhicules, et les ventes de matériel militaire des États-Unis  (É.-U.) à l'étranger. Les demandes seront attribuées comme suit :</p>
+<ol class="double-space" type="A">
+<li> lorsque la demande est  seulement pour un produit soumis à des restrictions, la demande sera attribuée  à la <a href="http://pad.contractscanada.gc.ca/index-fra.cfm?af=ZnVzZWFjdGlvbj1pbmZvLmludHJvJmlkPTE=&amp;lang=fra#il" rel="external">division  ou à la section de l'administration centrale</a> responsable de ces codes  <a href="http://www.nato.int/STRUCTUR/AC/135/ncs_guide/french/f_1-6-5.htm" rel="external">Numéro de nomenclature de l'OTAN</a> (NNO) <em><a href="http://www.tpsgc-pwgsc.gc.ca/comm/ai-in-fra.html#hyprlns-hyprlnk" rel="external">www</a></em> ou <a href="https://achatsetventes.gc.ca/codesproduits">Numéro d'identification des biens et services</a>; </li>
+<li>lorsqu'il y a plusieurs  articles d'un produit soumis à des restrictions, la demande sera attribuée à la  division ou à la section de l'administration centrale responsable de l'article  ayant la plus haute valeur qui est soumis à des restrictions; </li>
+<li>lorsqu'il est impossible  d'établir la valeur des articles, la demande sera attribuée à la division ou à  la section de l'administration centrale responsable du code NIBS du premier article  qui représente un produit soumis à des restrictions;</li>
+<li>lorsqu'il faut faire appel  à un fournisseur unique dans le cadre du Programme de vente de matériel  miliaire des É.U. à l'étranger, voir le <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-approvisionnements/section">chapitre 9</a>.</li>
+</ol>
+</li>
+<li>Gestionnaires de biens et  services
+        <p>Lorsqu'une demande vise un produit  déterminé (p. ex., moniteurs ou imprimantes) ou un client dans un lieu  géographique déterminé (p. ex., Territoires du Nord-Ouest), TPSGC doit  habituellement informer le client que la demande sera acheminée au bureau de  gestion des biens et services précis qui peut satisfaire à sa demande.</p>
+</li>
+<li>Grands projets
+        <p>Si la demande concerne un  grand projet, elle sera attribuée au bureau responsable de ce projet.</p>
+</li>
+</ol>
+</li>
+<li>Si le client n'indique pas  sa préférence, les règles suivantes s'appliquent :
+    <ol class="double-space" type="i">
+<li>lorsqu'il n'existe qu'un seul point de destination, la demande sera attribuée au bureau de TPSGC le plus près du destinataire dans le même secteur régional. Si le bureau de TPSGC le plus près est l'administration centrale, la demande sera attribuée conformément aux procédures de l'administration centrale de TPSGC ;</li>
+<li>lorsqu'une demande  provient d'une région où il y a plusieurs destinataires dans le même secteur  régional, elle sera attribuée à un bureau désigné par le directeur régional d'approvisionnements;</li>
+<li>lorsqu'il y a plusieurs points de destination dans le même secteur régional et que ces points ne sont pas près d'un bureau de TPSGC, la demande sera attribuée à un bureau désigné par le directeur régional des Approvisionnements. Lorsque plusieurs points de destination sont près du même bureau de TPSGC, la demande sera attribuée à ce bureau;</li>
+<li>lorsque les noms de destinataires dans deux secteurs régionaux ou plus figurent sur une même demande, celle-ci sera attribuée au bureau de TPSGC le plus près de l'auteur de la demande;</li>
+<li>s'il y a plusieurs destinataires et que les bureaux de TPSGC les plus près se trouvent dans deux secteurs régionaux ou plus, la demande sera attribuée au bureau de TPSGC le plus près de l'auteur de la demande, en fonction du numéro de demande du bureau demandeur. Si le bureau de TPSGC le plus près est l'administration centrale, la demande sera attribuée conformément aux procédures de l'administration centrale de TPSGC; </li>
+<li>les demandes envoyées à l'administration centrale seront attribuées à la section responsable des articles de plus grande valeur en fonction des NNO/NIBS de l'article;</li>
+<li>si les valeurs des articles sont égales, ou ne peuvent être déterminées autrement, la demande sera attribuée au bureau ou à la division ou section responsable du code NIBS pour le premier article sur la demande (les clients devraient être encouragés à entrer les codes NNO/NIBS pour chaque article sur leur demande).</li>
+</ol>
+</li>
+</ol>
+<h2 id="AP-99anna21">Annexe 2.1 : Liste de contrôle des demandes</h2>
+<p>15. Est-ce  que des normes, des spécifications ou des descriptions d'achat adéquates ont  été incorporées ? Dans la négative, on peut utiliser des normes, des  spécifications ou des descriptions d'achat existantes; ou</p>
+<ol class="double-space" type="a">
+<li>Est-il  nécessaire d'élaborer une nouvelle norme, spécification ou description d'achat? </li>
+<li>Est-ce que le <a href="http://www.nato.int/STRUCTUR/AC/135/ncs_guide/french/f_1-6-5.htm" rel="external">Numéro de nomenclature de l'OTAN</a> (NNO) <em><a href="http://www.tpsgc-pwgsc.gc.ca/comm/ai-in-fra.html#hyprlns-hyprlnk" rel="external">www</a></em> ou le <a href="https://achatsetventes.gc.ca/codesproduits">Numéro  d'identification des biens et services</a> (NIBS) des produits est indiqué?
+    <p>Remarque : Même si les clients doivent indiquer le NIBS dans la demande, en raison des  implications des accords commerciaux, l'agent de négociation des contrats doit  s'assurer que le NIBS est exact conformément aux codes biens est services  publiés sur le <a href="https://achatsetventes.gc.ca/codesproduits#20">site Achats et ventes</a>.</p>
+</li>
+</ol>
+<p>(<em>Le  reste de l'Annexe 2.1 demeure inchangé</em>.)</p>
+<h2 id="AP-99annb">Annexe B - Liste des Modules des attributions de TPSGC</h2>
+<p><strong>Notes</strong> : Vous trouverez ces renseignements dans l'Annexe 2.3 du Guide des  approvisionnements.</p>
+<table class="basic">
+<caption>
+  Administration centrale
+  <p>Contient les coordonnées relatives aux modules d'attribution (MA) de TPGSC au Canada.</p>
+</caption>
+<tbody><tr>
+<th scope="col">Adresse postale</th>
+<th scope="col">Numéro de télécopieur</th>
+<th scope="col">Adresse de courriel</th>
+</tr>
+<tr>
+<td><p>Module des attributions  centralisées <br/>
+        0A1, Portage III<br/>
+        11, rue Laurier<br/>
+        Gatineau (Québec) K1A 0S5</p></td>
+<td><p>819-956-5175</p></td>
+<td><p><a href="mailto:RCNAttributionsCentralisees.NCRCentralAllocations@tpsgc-pwgsc.gc.ca" rel="external">RCNAttributionsCentralisees.NCRCentralAllocations@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<th colspan="3">Région de l'Atlantique</th>
+</tr>
+<tr>
+<td><p>TPSGC, Approvisionnements <br/>
+        3, rue Queen <br/>
+        Charlottetown (Île-du-Prince-Édouard) C1A 7M8</p></td>
+<td><p>902-566-7514</p></td>
+<td><p><a href="mailto:Darlene.reay@tpsgc-pwgsc.gc.ca" rel="external">Darlene.reay@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>TPSGC, Approvisionnements <br/>
+        C.P. 2247 <br/>
+        Halifax (Nouvelle-Écosse) B3J 3C9</p></td>
+<td><p>902-496-5016</p></td>
+<td><p><a href="mailto:ATL.NSRequisitions@tpsgc-pwgsc.gc.ca" rel="external">ATL.NSRequisitions@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>TPSGC, Approvisionnements <br/>
+        1045, rue Main, 3<sup>e</sup> étage<br/>
+        Moncton (Nouveau-Brunswick) E1C 1H1 </p></td>
+<td><p>506-851-6759</p></td>
+<td><p><a href="mailto:Carol.justason@tpsgc-pwgsc.gc.ca" rel="external">Carol.justason@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>TPSGC, Approvisionnements <br/>
+        Pièce 421, 189, rue Prince William<br/>
+        Saint John (Nouveau-Brunswick) E2L 2B9</p></td>
+<td><p>506-636-4376</p></td>
+<td><p><a href="mailto:Linda.Morrison@tpsgc-pwgsc.gc.ca" rel="external">Linda.Morrison@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>TPSGC, Approvisionnements<br/>
+        C.P. 4600 <br/>
+        St. John's (Terre-Neuve) A1C 5T2</p></td>
+<td><p>709-772-2932</p></td>
+<td><p><a href="mailto:Rhonda.Manning@tpsgc-pwgsc.gc.ca" rel="external">Rhonda.Manning@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<th colspan="3">Région de l'Ontario</th>
+</tr>
+<tr>
+<td><p>TPSGC, Approvisionnements <br/>
+        33, chemin  City Centre, pièce 480C <br/>
+        Mississauga (Ontario) 
+        L5B 2N5 </p></td>
+<td><p>905-615-2060</p></td>
+<td><p><a href="mailto:ONT9200MIS@tpsgc-pwgsc.gc.ca" rel="external">ONT9200MIS@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>TPSGC,  Approvisionnements<br/>
+        86, rue  Clarence, 2<sup>e</sup> étage <br/>
+        Kingston (Ontario) K7L 1X3</p></td>
+<td><p>613-545-8067</p></td>
+<td><p><a href="mailto:ONT9200KIN@tpsgc-pwgsc.gc.ca" rel="external">ONT9200KIN@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>TPSGC,  Approvisionnements<br/>
+        Attribution  des marchés immobiliers<br/>
+        4900, rue Yonge, 12<sup>e</sup> étage<br/>
+        Toronto (Ontario) M2N 6A6</p></td>
+<td><p>416-512-5862</p></td>
+<td><p><a href="mailto:ONT9200RPC-SAMI@tpsgc-pwgsc.gc.ca" rel="external">ONT9200RPC-SAMI@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>TPSGC, Approvisionnements Base des  forces canadiennes (BFC) Borden<br/>
+        16, route Ramillies, pièce 239<br/>
+        Borden (Ontario) L0M 1C0</p></td>
+<td><p>705-423-3032</p></td>
+<td><p><a href="mailto:ONT9200BOR@tpsgc-pwgsc.gc.ca" rel="external">ONT9200BOR@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>TPSGC, Approvisionnements Immeuble de  TPSGC S-111, C114<br/>
+        BFC Petawawa<br/>
+        Petawawa (Ontario) K8H 2X3</p></td>
+<td><p>613-687-6656</p></td>
+<td><p><a href="mailto:ONT9200PET@tpsgc-pwgsc.gc.ca" rel="external">ONT9200PET@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>TPSGC, Approvisionnements <br/>
+        107, avenue Shirreff, bureau 204<br/>
+        North Bay (Ontario)  P1B 7K8</p></td>
+<td><p>705-476-0778</p></td>
+<td><p><a href="mailto:ONT9200NB@tpsgc-pwgsc.gc.ca" rel="external">ONT9200NB@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>TPSGC,  Approvisionnements<br/>
+        Attribution  des marchés immobiliers<br/>
+        457, rue Richmond, 6<sup>e</sup> étage<br/>
+        London (Ontario) N6A 3E3</p></td>
+<td><p>519-645-4306</p></td>
+<td><p><a href="mailto:ONT9200LON@tpsgc-pwgsc.gc.ca" rel="external">ONT9200LON@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<th colspan="3">Région du Québec</th>
+</tr>
+<tr>
+<td><p>Place  Bonaventure, Portail sud-est, bureau 7300<br/>
+        800,  de La Gauchetière Ouest <br/>
+        Montréal (Québec)  H5A 1L6 </p></td>
+<td><p>514-496-3822</p></td>
+<td><p><a href="mailto:QueRequisitionsMontreal.QueMontrealRequisitions@tpsgc-pwgsc.gc.ca" rel="external">QueRequisitionsMontreal.QueMontrealRequisitions@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>1550, avenue D'Estimauville<br/>
+        Québec (Québec) G1J 5E9 </p></td>
+<td><p>418-648-2209</p></td>
+<td><p><a href="mailto:QueRequisitionsQuebec.QueQuebecRequisitions@tpsgc-pwgsc.gc.ca" rel="external">QueRequisitionsQuebec.QueQuebecRequisitions@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<th colspan="3">Région de l'Ouest</th>
+</tr>
+<tr>
+<td><p>TPSGC, Approvisionnements, <strong>Calgary</strong> <br/>
+        Réception et attributions des demandes<br/>
+      (Par  courriel ou télécopieur seulement)</p></td>
+<td><p>403-292-5786</p></td>
+<td><p><a href="mailto:WST-PA-CAL@tpsgc-pwgsc.gc.ca" rel="external">WST-PA-CAL@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>TPSGC, Approvisionnements, <strong>Edmonton<br/>
+</strong>Réception et attributions des demandes<br/>
+        (Par  courriel ou télécopieur seulement)</p></td>
+<td><p>780-497-3510</p></td>
+<td><p><a href="mailto:WST-PA-EDM@tpsgc-pwgsc.gc.ca" rel="external">WST-PA-EDM@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>TPSGC, Approvisionnements, <strong>Saskatchewan<br/>
+</strong>Réception et attributions des demandes<br/>
+        (Par  courriel ou télécopieur seulement)</p></td>
+<td><p>306-780-5601</p></td>
+<td><p><a href="mailto:WST-PA-SK@tpsgc-pwgsc.gc.ca" rel="external">WST-PA-SK@tpsgc-pwgsc.gc.ca</a>
+</p>
+</td>
+</tr>
+<tr>
+<td><p>TPSGC, Approvisionnements, <strong>Winnipeg</strong><br/> 
+      Réception et attributions des demandes<br/>
+        (Par  courriel ou télécopieur seulement)</p></td>
+<td><p>204-983-7796</p></td>
+<td><p><a href="mailto:WST-PA-WPG@tpsgc-pwgsc.gc.ca" rel="external">WST-PA-WPG@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<!-- <tr>
+    <td><p>TPSGC, Approvisionnements, Edmonton <br />
+        R&eacute;ception et attributions  des demandes <br />
+        (Par courriel ou t&eacute;l&eacute;copieur seulement)</p></td>
+    <td><p>780-497-3510</p></td>
+    <td><p><a rel="external" href="mailto:WST-PA-EDM@tpsgc-pwgsc.gc.ca">WST-PA-EDM@tpsgc-pwgsc.gc.ca</a></p></td>
+  </tr>
+<tr>
+    <td><p>TPSGC, Approvisionnements, Saskatchewan <br />
+        R&eacute;ception et attributions  des demandes <br />
+        (Par courriel ou  t&eacute;l&eacute;copieur seulement)</p></td>
+    <td><p>306-780-5601</p></td>
+    <td><p><a rel="external" href="mailto:WST-PA-SK@tpsgc-pwgsc.gc.ca">WST-PA-SK@tpsgc-pwgsc.gc.ca</a></p></td>
+  </tr>
+<tr>
+    <td><p>TPSGC, Approvisionnements, Winnipeg <br />
+        R&eacute;ception et attributions  des demandes <br />
+        (Par courriel ou t&eacute;l&eacute;copieur seulement)</p></td>
+    <td><p>204-983-7796</p></td>
+    <td><p><a rel="external" href="mailto:WST-PA-WPG@tpsgc-pwgsc.gc.ca">WST-PA-WPG@tpsgc-pwgsc.gc.ca</a></p></td>
+  </tr>-->
+<tr>
+<th colspan="3">Région du Pacifique</th>
+</tr>
+<tr>
+<td><p>Approvisionnement militaire comprenant  l'achat, la construction, le radoub ou la réparation des bâtiments pour les  bateaux de toutes les tailles, et autre matériel maritime connexe.</p>
+<p>401 – 1230, rue Government <br/>
+        Victoria  (Colombie-Britannique) V8W 3X4 </p></td>
+<td><p>250-363-3960</p></td>
+<td><p><a href="mailto:Pac.Marine@tpsgc-pwgsc.gc.ca" rel="external">Pac.Marine@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>Biens ou services offerts sur le marché,  y compris les services professionnels et la Recherche et développement (R-D)  sur l'Île de Vancouver ou dans le territoire du Yukon</p>
+<p>401 – 1230, rue Government <br/>
+        Victoria  (Colombie-Britannique) V8W 3X4</p></td>
+<td><p>250-363-0395</p></td>
+<td><p><a href="mailto:Pac.Vicca@tpsgc-pwgsc.gc.ca" rel="external">Pac.Vicca@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>Biens ou services offerts sur le  marché, y compris les services professionnels et la R-D sur la partie  continentale de la Colombie-Britannique</p>
+<p>641 – 800, rue Burrard <br/>
+        Vancouver (Colombie-Britannique) V6Z 2V8</p></td>
+<td><p>604-775-7548</p></td>
+<td><p><a href="mailto:Pac.Vanca@tpsgc-pwgsc.gc.ca" rel="external">Pac.Vanca@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>Pour les demandes relatives aux marchés  immobiliers (construction, maintenance et services d'architecture et  d'ingénierie)</p>
+<p>641 – 800, rue Burrard <br/>
+        Vancouver  (Colombie-Britannique) V6Z 2V8</p></td>
+<td><p>604-775-3366</p></td>
+<td><p><a href="mailto:Pac.Rpc@tpsgc-pwgsc.gc.ca" rel="external">Pac.Rpc@tpsgc-pwgsc.gc.ca</a></p></td>
+</tr>
+</tbody></table> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

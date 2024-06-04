@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<p>Effective April 1, 1998, a new procedure is being implemented to provide key information to the Minister, on approved procurements plans, revisions to procurement plans, and proposed awards. Regional and Sector Directors General are responsible for providing information on each procurement plan and award valued above the thresholds specified in Annex "A". A copy of the Procurement Information Form (PIF) that will be used for reporting to the Minister is also attached.</p>
+<p>The PIF is intended to provide only key information on procurement plans and awards; it is not intended to provide the level of detail that is required in a CPAA, a Formal Procurement Plan, or a Contract Request. The PIF is divided into two distinct sections, one for reporting the planning information and the other for reporting the award information. With the exception of the Client Reference No. which refers to a specific identifier that the clients may include on their requisition, the data fields are based on information that is commonly used in the procurement process.</p>
+<p>The first section of the PIF, entitled Planning Information, is prepared at the same time as the Contract Planning and Advance Approval (CPAA) or formal Procurement Plan and is included with the plan for which approval is being sought. Upon approval of the plan, the PIF shall be transmitted, as an e-mail attachment to the " &lt;PIF" e-mail account, in accordance with the Regional or Sector procedures. A PIF is required for all procurement plans exceeding the thresholds specified in Annex "A", that are approved on or after April 1, 1998.</p>
+<p>A PIF is required for each approved revision to a procurement plan for which a PIF was previously submitted. A PIF is also required for any revision to a procurement plan which was originally valued less than the thresholds specified in Annex "A", but will, by virtue of the revision in question, exceed these thresholds.</p>
+<p>At the award stage, the Award Information section of the PIF shall be completed and transmitted (along with the Planning Information) as an e-mail attachment to the "PIF" e-mail account, in accordance with Regional or Sector procedures, 48 hours prior to the actual award. In the event that, due to operational requirements, the award must be made immediately and the PIF cannot be submitted 48 hours prior to award, then it shall be submitted at the same time as the award is made. A PIF is required for all awards made on or after April 1, 1998, which exceed the thresholds specified in Annex "A".</p>
+<p>The requirement to report on a specific plan is based on the estimated value for which approval is being sought (including any options or advance approvals). The requirement to report on a specific award is based on the total estimated value of the award. In some circumstances a PIF will be prepared at the planning stage, but subsequent awards which fall below the specified thresholds will not require a PIF. Similarly, a PIF may not be prepared at the planning stage, because the value is less than the thresholds - but a subsequent award valued in excess of the thresholds will require a PIF. In this latter situation, the Planning Information must be completed at the same time as the Award Information.</p>
+<p>A hard copy of the PIF shall be retained on the procurement file. Procurement officers shall also retain electronic files of all PIFs prepared. To assist in identifying electronic files, a naming convention consisting of 8 characters has been developed. The first character will identify whether the PIF reports on a Plan, a Revision to a plan, or an Award. The second and third characters will identify the Sector or Region, based on either the first two letters of the name for the Region or province where the procurement originated (in accordance with Regional procedures), or the first two letters of the Sector name acronym. The last five characters shall be the last five characters included in the requisition number (if a requisition number is not available the last five characters of the Tender ID may be used). For example PIF file: pam8baok, followed by the extension applicable to the software product being used would reflect a PIF which was prepared for a procurement plan approved in AMES for a requisition with a number ending in 8-BA0K.</p>
+<p>The Procurement Information Form (_pif0498.) is available as an Ami Pro style sheet and as a Word Pro master and has been distributed to all Regions and Sectors to be made available on all procurement work stations prior to April 1, 1998.</p>
+<p>In light of this new reporting procedure, the requirement for distribution to senior management of procurement plans and contract award summaries valued at $1 million or more, and the procedures for reporting Contract Highlights are under review; however, they are at this time, unchanged.</p>
+<p>If you require additional information please contact Jean McCadden in Supply Policy Directorate at 819-956-0889.</p>
+<hr/>
+<h3>Annex A</h3>
+<h4>Thresholds for Reporting Using the Procurement Information Form</h4>
+<p>A Procurement Information Form must be completed for all procurement plans and awards valued in excess of the contract entry authorities specified below.</p>
+<dl>
+<dt><strong>Electronic Bidding</strong></dt>
+<dd>Services - $2.5M</dd>
+<dd>Goods - $5M</dd>
+<dd>Construction - $2.5M</dd>
+<dd>Telecommunications - $25M</dd>
+<dd>A &amp; E Services - $250K</dd>
+<dt><strong>Competitive</strong></dt>
+<dd>Services - $1.25M</dd>
+<dd>Goods - $1.25M</dd>
+<dd>Construction - $1.25M</dd>
+<dd>Telecommunications - $2.5M</dd>
+<dd>A &amp; E Services - $125K</dd>
+<dt><strong>Non-Competitive</strong></dt>
+<dd>Services - $375K</dd>
+<dd>Goods - $250K</dd>
+<dd>Construction - $62.5K</dd>
+<dd>Telecommunications - $375K</dd>
+<dd>A &amp; E Services - $12.5K</dd>
+</dl>
+<p>For procurement plans and awards approved utilizing exceptional authorities such as Repair and Overhaul, Foreign Military Sales, or Munitions Supply, the PIF must be completed for all plans and awards that exceed 25% of the exceptional authority.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

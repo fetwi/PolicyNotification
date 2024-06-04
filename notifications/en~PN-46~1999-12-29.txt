@@ -1,0 +1,41 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<p>1. Treasury Board Secretariat has provided notice of the amendment of previously established thresholds for the international trade agreements. The new thresholds are applicable for two years, January 1, 2000 to December 31, 2001.</p>
+<p>2. Revised thresholds:</p>
+<ol type="a">
+<li>Departments and Agencies </li>
+<li>Entreprises (Crown Corporations)</li>
+</ol>
+<h3><acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym></h3>
+<p>Goods</p>
+<ul>
+<li>(a) CAN    $261 200 </li>
+</ul>
+<p>Services</p>
+<ul>
+<li>(a) CAN     $261 200</li>
+</ul>
+<p>Construction</p>
+<ul>
+<li>(a) CAN  $10 000 000</li>
+</ul>
+<h3>NAFTA</h3>
+<p>Goods</p>
+<ul>
+<li>(a) CAN          $37 200</li>
+<li>(b) CAN         $404 600</li>
+</ul>
+<p>Services</p>
+<ul>
+<li>(a) CAN          $80 900</li>
+<li>(b) CAN         $404 600</li>
+</ul>
+<p>Construction</p>
+<ul>
+<li>(a) CAN  $10 500 000</li>
+<li>(b) CAN  $12 900 000</li>
+</ul>
+<p>3. The Supply Manual will be revised to reflect this change.</p>
+<p>4. The thresholds for the AIT remain unchanged at $25,000 for goods and $100,000 for services and construction.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

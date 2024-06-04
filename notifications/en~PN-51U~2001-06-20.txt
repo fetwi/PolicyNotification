@@ -1,0 +1,125 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h3>PN-51U supersedes PN-51 dated 30 April 2001</h3>
+<p>Bill S-25 amended the Defence Production Act (DPA) by adding two new parts to the Act which established a new regime for regulating access to certain controlled military and military related goods and technology ("controlled goods" - <strong>see Annex D for definition</strong>). To meet this requirement, the Controlled Goods Registration Program (CGRP), a federal government program, was established under the DPA and the Controlled Goods Regulations. It requires all "persons" in Canada examining, possessing, or transferring "controlled goods", to another person in Canada to be registered or exempted from registration. The CGRP is administered by PWGSC. The Web site address for the CGRP may be found at: <a href="http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp" rel="external">http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp</a></p>
+<p>"Controlled goods" are highlighted below and are listed in the Export Control List (in full text) posted on the Department of Foreign Affairs and International Trade Web site at: <a href="http://www.dfait-maeci.gc.ca/~eicb/export/contente.htm" rel="external">http://www.dfait-maeci.gc.ca/~eicb/export/contente.htm</a></p>
+<ul>
+<li><strong>Group 2:</strong> goods listed in item 2001 that are prohibited firearms, as defined in paragraph (c) of the definition of "prohibited firearms" in sub-section 84(1) of the criminal code;</li>
+<li><strong>Group 2:</strong> goods listed in item 2003 that are ammunition with a calibre greater than 12.7mm;</li>
+<li><strong>Group 2:</strong> goods listed in items 2002, 2004 to 2022;</li>
+<li><strong>Group 5:</strong> goods listed in item 5504; and</li>
+<li><strong>Group 6:</strong> all goods listed.</li>
+</ul>
+<p>Under the Program, only those goods listed above (Group 2, not all; Group 5, Item 5504 only; and Group 6, all) qualify as "controlled goods".</p>
+<p><strong>Effective Date:</strong> The amended DPA and the Controlled Goods Regulations came into force on 30 April 2001.</p>
+<p>"Controlled goods" cannot be released to persons/firms that are not registered under the CGRP or excluded under the DPA. The CGRP web site identifies registered firms. It is the client department's responsibility to identify within any requisition that there are "controlled goods" aspects. "Controlled goods" shall not be released to a third party unless they are registered under the CGRP or excluded under the DPA. Similar provisions apply in the event of sales of "controlled goods" to persons/firms.</p>
+<p>The following clause must be included in the Notice of Proposed Procurement (NPP), ACANs and all bid solicitation documents:</p>
+<p>"The Controlled Goods Registration Program (CGRP) established under the Defence Production Act (DPA) applies to this procurement. In order to obtain the applicable "controlled goods", the Canadian bidder must be registered under the CGRP or excluded under the DPA. Registered firms may request "controlled goods" from the contracting officer identified herein. Details on how to register are available at: <a href='http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp"' rel="external">http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp"</a></p>
+<p>For contracts already in place, no new "controlled goods" can be provided after April 29, 2001 unless the persons/firms are registered under the CGRP. As a result firms, even those who have already been provided "controlled goods", are required to register under the CGRP. This may lead to delays, which may need to be accepted, in the contractual requirements unless the firm is already registered.</p>
+<p>Contractors have been advised of the CGRP. The requirement to register may lead to requests to extend the bidding period perhaps by a month or two and such requests must be discussed with the client department. If operational requirements permit, bid extensions should not be unreasonably withheld. Extensions would be mandatory in sole-source situations.</p>
+<p>In summary, contracting officers must:</p>
+<ol type="a">
+<li>review all requisitions received to determine if the requirement involves "controlled goods";</li>
+<li>advise the industry in the NPP and the Bid Solicitation document that the CGRP applies to the procurement;</li>
+<li>release bid sets which do not contain "controlled goods" via MERX;</li>
+<li>verify that the "controlled goods" are available for release; and</li>
+<li>verify prior to contract award that the successful firm is registered.</li>
+</ol>
+<p>To assist contracting officers in their dealings with the CGRP please find the attached documents:</p>
+<p> <strong>Annex A</strong> - CGRP Questions and Answers<br/>
+<strong>Annex B</strong> - CGRP Clause for new bid solicitation documents / contracts<br/>
+<strong>Annex C</strong> - CGRP Template - Notice to all Canadian Contractors with an existing contract requiring the examination, possession or transfer of "controlled goods"<br/>
+<strong>Annex D</strong> - CGRP Definitions </p>
+<hr/>
+<h3>Annex A</h3>
+<h4>Controlled Goods Registration Program</h4>
+<h4>Questions and Answers</h4>
+<p><strong>Q1: Where can I find information on Group 5, Item 5504?</strong></p>
+<p> A1: You may find information pertaining to Group 5, Item 5504 at the following Web site address:</p>
+<p> <a href="http://www.dfait-maeci.gc.ca/~eicb/export/contente.htm" rel="external">http://www.dfait-maeci.gc.ca/~eicb/export/contente.htm</a><br/>
+					Click on the sub-heading at the top of the page which reads: 26 April 2001 - SOR/2001-33 "Order Amending the Export Control List" (PDF format) See page 20 of 35 on your screen. </p>
+<p><strong>Q2: Do existing contracts involving "controlled goods" need to be amended?</strong></p>
+<p>A2: The law which came into effect 30 April 2001 automatically applies to existing contracts and specific amendments are not necessarily required. Contractors with existing contracts must be advised of their obligations to register under the CGRP. Contractors with an existing/ongoing contract containing "controlled goods" must demonstrate that they are already registered under CGRP.<br/>
+					No new "controlled goods" can be provided to contractors unless they are registered.</p>
+<p><strong>Q3: a) Does the CGRP apply to transportation firms?</strong></p>
+<p><strong>Q3: b) What are the security precautions for transferring "controlled goods"?</strong></p>
+<p>A3: a) No. "Controlled goods" can be transported by firms that are not registered.</p>
+<p>A3: b) Security precautions for transferring "controlled goods" will vary depending on the type and size of the "controlled goods". Safeguards chosen must adequately preclude the examination of "controlled goods" by a person who is not registered, excluded or exempted. These include:</p>
+<ol type="i">
+<li>using double envelopes, security seals and security-sealed containers;</li>
+<li>marking transfer containers with a return address;</li>
+<li>recording how the "controlled good" is being transferred;</li>
+<li>determining the reliability of a postal or courier service;</li>
+<li>transferring "controlled goods" by first class or registered mail, or by a reliable postal or courier service that offers: proof of mailing, a record while in transit, and a record of delivery;</li>
+<li>recording the "controlled good" being transferred and who is transferring it; or</li>
+<li>upon receipt, examining the packaging and sealing devices, and reporting tampering.</li>
+</ol>
+<p><strong>Q4: Can persons/firms in Canada not registered receive a bid solicitation package containing "controlled goods"?</strong></p>
+<p>A4: Not if they are persons/firms in Canada.</p>
+<ol type="a">
+<li>"Controlled goods" can only be released to persons/firms in Canada if they are registered under the CGRP or excluded under the DPA.</li>
+<li>Persons/firms outside Canada are not eligible to apply for registration. "Controlled goods" can only be released to persons/firms outside Canada if the appropriate export permits have been obtained.</li>
+</ol>
+<p><strong>Q5: Can persons/firms be awarded a contract involving "controlled goods" if they are not registered?</strong></p>
+<p>A5: No. Persons/firms in Canada cannot be awarded a contract involving "controlled goods" unless they are registered under the CGRP or excluded under the DPA.</p>
+<p><strong>Q6: Is the submission of an Application for Registration sufficient to allow the applicant to receive "controlled goods"?</strong></p>
+<p>A6: No </p>
+<p><strong>Q7: Can the Crown transfer "controlled goods" for repair to a non-registered firm?</strong></p>
+<p>A7: No.</p>
+<p><strong>Q8: Can the Crown transfer amended or new "controlled goods" to a non-registered person/firm?</strong></p>
+<p>A8: No.</p>
+<p><strong>Q9: Does the CGRP apply to contracts for consultants?</strong></p>
+<p>A9: If consultants are required to examine, possess or transfer "controlled goods" or could access "controlled goods", the CGRP applies and the consulting firm must be registered prior to contract award.</p>
+<p><strong>Q10: How do I find out if a firm has been registered under the CGRP? Is there an extension in the CIISD site where this information can be found?</strong></p>
+<p>A10: Yes, the link may be found in the CIISD site below. Click on CGRP and then "Registration Search" on the bar to the left. <a href="http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp" rel="external">http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp</a> If the person/firm information contained in the CIISD Web site differs from that available to the contracting officer it is recommended that the contracting officer consult the CGRP office at 819-956-2101 to validate the registration number.</p>
+<p><strong>Q11: A multi-year R&amp;O contract ending in 2002 was awarded to a foreign contractor prior to the CGRP. The contractor requires access outside Canada to "controlled goods" to perform work under the contract. Does this foreign contractor need to register under the CGRP?</strong></p>
+<p>A11: No. Foreign contractors are not eligible to apply for registration. Canadian export requirements will apply.</p>
+<p><strong>Q12: A bid solicitation has been advertised requesting potential bidders to obtain a Technical Data Package (TDP) directly from DND for bid preparation. The TDP contains "controlled goods". Requests for TDPs are received from Canadian and foreign firms. Who needs to register under the CGRP to receive the TDP ? Canadian firms only or both Canadian and foreign firms?</strong></p>
+<p>A12: Only the Canadian firms would have to register. Refer to A11 above for foreign firms.</p>
+<p><strong>Q13: Does the CGRP apply to requirements for client departments other than DND?</strong></p>
+<p>A13: Yes, the CGRP applies to all "controlled goods" regardless of who the end user might be.</p>
+<p><strong>Q14: Will there be any special clauses pertaining to other client departments when "controlled goods" are involved?</strong></p>
+<p>A14: Special clauses, if required, will be addressed in a future update to PN-51. When the Defense Production Act (DPA) is not incorporated into the solicitation/contract, contracting officers should add a clause indicating that Part 2 of the DPA applies.</p>
+<p><strong>Q15: Does the CGRP pertain only to the protection of "controlled goods" of U.S. origin?</strong></p>
+<p>A15: No. It pertains to all "controlled goods" in Canada, regardless of their country of origin. Therefore, it applies to Canadian firms dealing with another Canadian firm, an American or any other foreign firm when "controlled goods" are involved.</p>
+<p><strong>Q16: Do American companies have to register in order to provide "controlled goods" to Canada?</strong></p>
+<p>A16: American companies cannot register under the CGRP.</p>
+<p><strong>Q17: What happens in the case of a foreign firm providing "controlled goods" to a Canadian firm?</strong></p>
+<p>A17: CGRP does not apply to foreign firms, however, the Canadian firm must be registered to examine, possess or transfer "controlled goods".</p>
+<p><strong>Q18: What is meant by an "excluded person" under the CGRP?</strong></p>
+<p> A18: "Excluded Persons" under the CGRP are:<br/>
+					-Federal government employees,<br/>
+					-Provincial/territorial government employees, and<br/>
+					-Crown corporation employees.</p>
+<p><strong>Q19: What is meant by an "exempted person" under the CGRP?</strong></p>
+<p> A19: "Exempted persons" - see Annex D for definition - under the CGRP are:<br/>
+					-Temporary workers from a foreign country<br/>
+					-Visitors from a foreign country</p>
+<hr/>
+<h3>Annex B</h3>
+<h4>CGRP Clause for new bid solicitation documents / contracts:</h4>
+<p>The Controlled Goods Registration Program (CGRP) came into effect April 30th, 2001. The CGRP applies to this procurement. For persons/firms to be eligible to obtain "controlled goods" in the bid solicitation process, they must provide their CGRP registration number. The Canadian based contractor recognizes and accepts that only registered or exempt persons/firms may examine, possess, or transfer "controlled goods" in Canada. Details on how to register are available at: <a href="http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp" rel="external">http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp</a></p>
+<hr/>
+<h3>Annex C</h3>
+<h4>Notice to all Canadian Contractors with an existing contract requiring the examination, possession or transfer of "controlled goods"</h4>
+<p> Pursuant to the amended Defence Production Act, Chapter 31, Statutes of Canada 2000 and the Controlled Goods Regulations, the Controlled Goods Registration Program (CGRP) applies to this contract. Your firm must be registered under the CGRP. </p>
+<p> Details on how to register are available at the following Web site: <a href="http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp" rel="external">http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp</a> </p>
+<hr/>
+<h3>Annex D</h3>
+<h4>Controlled Goods Registration Program</h4>
+<h4>Definitions</h4>
+<p><strong>"Controlled goods"</strong> are specified in the Export Control List [ECL] (Group 2, not all; Group 5, Item 5504 only; and Group 6, all).</p>
+<p>Drawing from the ECL, in addition to hardware, which in most cases is self-evident, "technology" or "technical data", in certain cases, is also considered to be "controlled goods". In other words, "controlled goods" encompass certain technology or technical data. In order to avoid the use of various terms that have multiple meanings such as "technical specifications", "detailed technical information", "technical data packages", etc., <strong>it is important to agree to a common understanding for "controlled goods" which includes both hardware and related technical information as noted below.</strong></p>
+<p><strong>What "technology" IS considered a "controlled good":</strong></p>
+<p>"<strong>Technology</strong>" which is required for the development, production or use of a "controlled good" is itself a "controlled good". <strong>"Technology" takes the form of technical data or technical assistance</strong>. </p>
+<p>"<strong>Technical data</strong>" may take forms such as blueprints, plans, diagrams, models, formulae, tables, engineering designs and specifications, manuals, instructions written or recorded on other media or devices such as disk, tape and read-only memories. </p>
+<p>"<strong>Technical assistance</strong>" may take forms such as instructions, skills, training, working knowledge and consulting services."</p>
+<p><strong>What "technology" IS NOT considered a "controlled good":</strong></p>
+<p>"Technology" "in the public domain", or "basic scientific research", or the "minimum necessary information for patent applications" are <strong>not</strong> considered to be "controlled goods" even if directly related to "controlled goods". </p>
+<p>"<strong>In the public domain</strong>" means technology or software which has been made available without restrictions upon its further dissemination. (e.g., published information generally available to the public at newsstands, libraries or conferences, trade shows or exhibitions generally open to the public including basic marketing information on function or purpose or general systems descriptions of "controlled goods"). </p>
+<p>"<strong>Basic scientific research</strong>" means experimental or theoretical work undertaken principally to acquire new knowledge of the fundamental principles of phenomena or observable facts not primarily directed towards a specific practical aim or objective. (e.g., includes fundamental research in science and engineering at accredited institutions of higher learning and where the results are ordinarily published and shared broadly).</p>
+<p>"<strong>Minimum necessary information for patent applications</strong>" means patents available at any patent office.</p>
+<hr/>
+<p>"<strong>Exempted Person</strong>" (<em>see Question 19</em>) refers to a temporary worker or a visitor from a foreign country and these two categories of individuals do not fall within the scope of the Registered Person's registration. <strong>Such individuals must satisfy one of the two existing provisions under the Controlled Goods Regulations in order to examine or possess a "controlled good" in Canada</strong>. The <strong>first provision</strong> calls for the Registered Person in Canada to submit an Application for Exemption from Registration, on behalf of the temporary worker or visitor, to PWGSC's Controlled Goods Registration Program for consideration. If the application is approved, it will identify conditions under which the temporary worker or visitor concerned may examine, possess or transfer "controlled goods" in Canada and it will specify a period of validity. The second provision in the Controlled Goods Regulations exempts a class of individuals from registration, by regulation, and it is applicable to a director, an officer or an employee of a person registered to access "controlled goods" under the U.S. International Traffic in Arms Regulations (ITAR). In the latter scenario, evidence of the individual's employment status as a director, an officer or an employee and evidence of the ITAR registration of his or her employer must be provided to the Canadian Registered Person.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

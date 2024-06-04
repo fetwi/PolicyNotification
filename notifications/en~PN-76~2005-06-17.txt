@@ -1,0 +1,59 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<p>The <em>Standard Acquisitions Clauses and Conditions</em> (SACC) Manual update, Version 05-1 released June 10, 2005, issued a revised version of clauses M0000T and M0000C.  A problem has been identified in the wording of the revised version which makes it improper to use the clauses as revised.  As a result, the revised versions of clauses M0000T and M0000C released on June 10, 2005, are temporarily put on hold. </p>
+<p>Effective immediately, clauses M0000T and M0000C bearing the date "2005-06-10" shall not be used.  Contracting officers shall continue to use the prior version of these clauses until further notice: M0000T, released May 14, 2004; and M0000C, released December 12, 2003, which are either available electronically on the SACC Manual web site or as attached in Annex A.</p>
+<p>Contracting officers are advised that this is a temporary measure.  Acquisition Policy is continuing to work on the wording and will publish revised clauses shortly.</p>
+<h3>Summary of Revisions: </h3>
+<p><strong>Delete:</strong></p>
+<p>M0000T,  Instructions, Conditions and Clauses - Request for a Standing Offer (2005-06-10)<br/>
+					M0000C,  Instructions, Conditions and Clauses - Standing Offer (2005-06-10)</p>
+<p><strong>Replace:</strong></p>
+<p>M0000T, Standard Instructions and Conditions (2004-05-14)<br/>
+					M0000C, Standard Instructions and Conditions (2003-12-12)</p>
+<p><strong>Contact</strong></p>
+<p><strong>N/A</strong></p>
+<h2>Annex A<br/>
+					M0000T	(2004-05-14)	Standard Instructions and Conditions</h2>
+<h3>Remarks:</h3>
+<p>Use the following clause in all Requests for a Standing Offer in conjunction with clause K0000D "Conditions."</p>
+<p><strong>Text</strong></p>
+<p><strong>Standard Acquisition Clauses and Conditions Manual</strong></p>
+<p>All instructions, general terms, conditions and clauses identified herein by title, number and date are set out in the <em>Standard Acquisition Clauses and Conditions</em> Manual issued by Public Works and Government Services Canada (PWGSC).</p>
+<p>An electronic version is available on the PWGSC Web site: <strong><a href="http://sacc.pwgsc.gc.ca/sacc/index-e.jsp" rel="external">http://sacc.pwgsc.gc.ca/sacc/index-e.jsp</a></strong>.</p>
+<p><strong>Terms and Conditions - Standing Offer</strong></p>
+<ol>
+<li>
+<p>Pursuant to the <em>Department of Public Works and Government Services Act</em>, S.C. 1996, c.16,</p>
+<ol type="a">
+<li>
+<p>the general terms, conditions and clauses identified herein by number, date and title;</p>
+</li>
+<li>
+<p>the Instructions set out in Part A of the standard instructions and conditions 9403-6 (_____) (insert date and delete this instruction), and</p>
+</li>
+<li>
+<p>the Particulars of the Standing Offer set out in Part B and, for the purchase of goods, the Conditions set out in Part C of standard instructions and conditions 9403-6 (_____) (insert date and delete this instruction) </p>
+</li>
+</ol>
+<ul class="noBullet">
+<li>
+<p>are hereby incorporated by reference into and form part of this Request for Standing Offer as though expressly set out herein, subject to any other express terms and conditions herein contained.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Submission of a Standing Offer constitutes acknowledgment that the Offeror has read and agrees to be bound by such instructions.</p>
+</li>
+</ol>
+<h2>M0000C	(2003-12-12)	Standard Instructions and Conditions</h2>
+<h3>Remarks:</h3>
+<p>Use the following clause in all standing offers in conjunction with clause K0000D "Conditions."</p>
+<p><strong>Text</strong></p>
+<p><strong>Standard Acquisition Clauses and Conditions Manual</strong></p>
+<p>All instructions, general terms, conditions and clauses identified herein by title, number and date are set out in the <em>Standard Acquisition Clauses and Conditions</em> Manual issued by Public Works and Government Services Canada (PWGSC).</p>
+<p>An electronic version of the Manual is available on the PWGSC Web site:<br/>
+<a href="http://sacc.pwgsc.gc.ca/sacc/index-e.jsp" rel="external">http://sacc.pwgsc.gc.ca/sacc/index-e.jsp</a>.</p>
+<p><strong>Terms and Conditions - Standing Offer</strong></p>
+<p>Pursuant to the <em>Department of Public Works and Government Services Act</em>, S.C. 1996, c.16, the general terms, conditions and clauses identified herein by title, number and date, and the Particulars of the Standing Offer set out in Part B and, for the purchase of goods, the Conditions set out in Part C of standard instructions and conditions 9403-6 (_____) (insert date and delete this instruction) are hereby incorporated by reference into this Standing Offer and form part of any contract resulting from any call-up made pursuant to this Standing Offer as though expressly set out herein, subject to any other express terms and conditions herein contained.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

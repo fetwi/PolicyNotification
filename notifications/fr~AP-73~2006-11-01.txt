@@ -1,0 +1,135 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-73cont" name="cont"><br/>
+AP-73 : Avis aux soumissionnaires</a></h1> <div class="region region-site-wide-message">
+<section id="AP-73site-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-73site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-73site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 1 novembre 2006</h2>
+<h3>Introduction</h3>
+<p>Cet Avis relatif aux politiques (AP)-73 vient modifier la politique sur<br/>
+					les avis directs aux soumissionnaires éventuels lorsqu'un marché est<br/>
+					assujetti à un accord commercial. </p>
+<p>Jusqu'à présent, des approches différentes ont été utilisées<br/>
+					pour les marchés assujettis à un accord commercial et pour<br/>
+					les marchés qui ne le sont pas. En effet, les agents de négociation<br/>
+					des contrats peuvent aviser les fournisseurs éventuels d'une occasion<br/>
+					de marché lorsque le marché n'est <strong>pas</strong> assujetti à des<br/>
+					accords commerciaux, mais ne peuvent le faire lorsqu'un accord commercial<br/>
+					s'applique.</p>
+<p>À la suite de ce changement, l'approche sera la même pour<br/>
+					tous les marchés : les fournisseurs éventuels pourront être<br/>
+					avisés directement d'une occasion de marché, dans des circonstances<br/>
+					appropriées et de façon prudente, qu'un accord commercial<br/>
+					s'applique ou non.</p>
+<h3>Politique</h3>
+<p>À compter de maintenant, lorsqu'un marché est assujetti à un<br/>
+					accord commercial, les agents de négociation des contrats peuvent<br/>
+					aviser directement les fournisseurs qu'une occasion de marché a été publiée<br/>
+					par l'entremise du Service électronique d'appels d'offres du gouvernement<br/>
+					(SEAOG), lorsqu'il est nécessaire de favoriser la concurrence et<br/>
+					d'obtenir le meilleur rapport qualité-prix pour les contribuables<br/>
+					canadiens. </p>
+<p>Les critères particuliers établis pour décider si un avis direct est nécessaire ainsi que les procédures d'avis sont énoncées à <a href="#AP-73a">l'Annexe A</a> ci-jointe.  Tous les changements indiqués en rouge seront incorporés dans la prochaine version du Guide des approvisionnements.</p>
+<h3>Personne-ressource</h3>
+<p><strong>S/O</strong></p>
+<h2><a id="AP-73a" name="a"></a>l'Annexe A</h2>
+<h3>Changements apportés au Guide des approvisionnements</h3>
+<h4>Chapitre 5, Stratégie de sélection des fournisseurs</h4>
+<h5>Marchés assujettis aux accords commerciaux</h5>
+<p><strong>5.041 (xxxx-xx-xx)</strong> Pour les marchés<br/>
+					assujettis à l'ALENA, à l'AMP-OMC ou à l'ACI, ou encore à plusieurs<br/>
+					ou à l'ensemble de ces accords, on doit respecter les dispositions<br/>
+					qui y sont précisées relativement à la publicité et<br/>
+					aux avis publics à diffuser. La marche à suivre est généralement<br/>
+					la même pour tous ces accords. En cas de manque d'uniformité,<br/>
+					l'agent de négociation des contrats doit choisir les modalités<br/>
+					les plus rigoureuses pour ce qui est de l'ouverture des projets<br/>
+					de marchés,<br/>
+					par exemple la période d'invitation la plus longue.</p>
+<p>Les projets de marchés concurrentiels visés par l'ALENA,<strong>et (ou)</strong> par l'AMP-OMC <strong>et (ou) par l'ACI</strong> doivent être annoncés par l'entremise<br/>
+					du Service électronique d'appels d'offres du gouvernement (SEAOG) <strong>et dans le bulletin Marchés publics</strong> seulement. <strong>Les projets de marchés visés par l'ACI et (ou) l'ACCMT doivent être annoncés uniquement par l'entremise du SEAOG.  Tout projet de marché visé par l'ACI et (ou) l'ACCMT ainsi que par l'ALENA ou l'AMP-OMC doit être annoncé tant par l'entremise du SEAOG que dans le bulletin Marchés publics</strong>. <strong>À l'occasion, dans des circonstances particulières, les fournisseurs éventuels pourront être avisés directement lorsqu'une occasion de marché est publiée, conformément à la procédure 7B.188.</strong></p>
+<h5>Marchés non-assujettis aux accords commerciaux</h5>
+<p><strong>5.044 (xxxx-xx-xx)</strong> Le processus<br/>
+					que TPSGC préfère utiliser pour faire connaître un projet<br/>
+					de marché à des fournisseurs éventuels consiste à annoncer<br/>
+					publiquement le projet par l'entremise du SEAOG. (Voir 7B.160.)</p>
+<p>Lorsque la publicité faite par l'entremise du SEAOG ne permet pas<br/>
+					d'obtenir les résultats voulus, on peut songer à faire appel,<br/>
+					dans chaque cas particulier, à un autre moyen public (soit les journaux,<br/>
+					les revues professionnelles, et ainsi de suite), en plus ou à la<br/>
+					place du SEAOG. (Voir 5.048.)</p>
+<p>Lorsqu'on fait appel à des moyens de diffusion publique (SEAOG ou<br/>
+					autres), on peut faire connaître directement le projet de marché aux<br/>
+					fournisseurs éventuels, <strong>conformément à la procédure<br/>
+					7B.188.</strong></p>
+<h4>Chapitre 7,  Achats en régime de concurrence</h4>
+<h5>Section 7B : Publication d'une demande de soumissions</h5>
+<p><strong>7B.187 (xxxx-xx-xx)</strong> Les avis électroniques<br/>
+					reçus au SEAOG (MERX) avant 17 h chaque jour seront publiés<br/>
+					sur le site du SEAOG (MERX) le jour ouvrable suivant, à condition<br/>
+					que tous les éléments (avis, documents, pièces jointes)<br/>
+					soient exacts et qu'ils concordent. Les avis sont affichés sur<br/>
+					le site du SEAOG (MERX) une seule fois par jour, après minuit.</p>
+<p><strong>Le SEAOG (MERX) retourne à TPSGC une confirmation de l'affichage<br/>
+					sur une base quotidienne (voir 7B.191).</strong></p>
+<p>Il incombe à l'agent de négociation des contrats de s'assurer<br/>
+					que l'avis et le ou les demandes de soumissions ont bien été transmis<br/>
+					au SEAOG (MERX) et que l'avis a été affiché correctement.</p>
+<p><strong>7B.188 (xxxx-xx-xx)</strong> <strong>Le SEAOG (MERX) retourne à TPSGC une confirmation de l'affichage sur une base quotidienne. (Voir 7B.191).</strong></p>
+<p><strong>Sauf pour ce qui est des avis visés par l'ALENA, l'AMP-OMC et l'ACI, les agents de négociation des contrats peuvent envoyer un exemplaire de l'APM aux fournisseurs, lorsqu'il est jugé utile d'assurer une concurrence suffisante. Toutefois, les fournisseurs doivent acheter demandes de soumissions du SEAOG (MERX). Une lettre d'envoi devrait accompagner l'avis.</strong></p>
+<p><strong>À l'occasion, en se fondant sur sa connaissance d'un produit<br/>
+					ou du marché, un agent de négociation des contrats peut<br/>
+					juger qu'un fournisseur éventuel d'un bien ou d'un service ne verra<br/>
+					pas ou ne pourra pas répondre à une demande de soumissions<br/>
+					si celle-ci est affichée uniquement sur le site du SEAOG (MERX).<br/>
+					Dans ces cas, afin de favoriser la concurrence et d'obtenir le<br/>
+					meilleur rapport qualité-prix pour les contribuables canadiens,<br/>
+					l'agent de négociation des contrats peut communiquer avec ces fournisseurs<br/>
+					pour les aviser qu'une occasion de marché a été publiée.</strong></p>
+<p><strong>Cette communication doit se faire seulement après que l'avis de<br/>
+					projet de marchés ait été publié sur le site<br/>
+					du SEAOG (MERX); la communication devrait se faire aussitôt que<br/>
+					possible par la suite afin que les fournisseurs avisés aient le<br/>
+					temps d'y répondre. Afin de s'assurer qu'il n'y a aura pas de traitement<br/>
+					préférentiel, cette communication devrait se faire par écrit,<br/>
+					pour qu'il puisse être démontré que tous les fournisseurs<br/>
+					ont reçu la même information, en même temps.</strong></p>
+<p><strong>L'objectif particulier d'aviser les fournisseurs est de s'assurer qu'un<br/>
+					fournisseur est au courant qu'il y a une occasion disponible<br/>
+					en l'incitant à consulter<br/>
+					le site du SEAOG (MERX). Pour cette raison, l'avis ne doit contenir<br/>
+					que des renseignements sur le bien ou le service, de même qu'une<br/>
+					référence<br/>
+					appropriée (numéro de référence, identification<br/>
+					du demandeur ou numéro de la soumission). Il ne doit pas comprendre<br/>
+					d'information qui ne serait pas à la disposition des fournisseurs<br/>
+					qui sont mis au courant de l'occasion de marché en consultant directement<br/>
+					le SEAOG (MERX).</strong></p>
+<p><em><strong>Les agents de négociation des contrats doivent indiquer,<br/>
+					dans le dossier, le nom de chaque fournisseur avisé ainsi que<br/>
+					la date de l'avis.</strong></em></p>
+<h5>Annexe 7.6 : Exemples de lettres d'accompagnement</h5>
+<p><strong>SUPPRIMÉE</strong></p>
+<div class="topPage"><a href="#AP-73tphp" title="Retourner au haut de la page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+				Haut de la page</a></div>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

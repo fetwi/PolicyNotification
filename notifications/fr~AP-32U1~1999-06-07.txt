@@ -1,0 +1,128 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-32U1cont" name="cont"><br/>
+AP-32U1 : Formulaire de renseignements sur l'approvisionnement</a></h1> <div class="region region-site-wide-message">
+<section id="AP-32U1site-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-32U1site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-32U1site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 19 juin 1999</h2>
+<p>Cette avis relatif aux politiques fait référence aux politiques précédents au sujet du Formulaire de renseignements sur l'approvisionnement (AP-32 et AP-32U) et aussi la Révision des pouvoirs de modifier et de conclure un marché (AP-35).</p>
+<p><strong>Question 1</strong></p>
+<p>Doit-on se servir du chiffre indiqué dans la case « Valeur globale de la modification » du FRA pour établir le niveau des pouvoirs d'approbation ou la somme de tous les changements apportés à la valeur originale du contrat (y compris les options déjà approuvées et exécutées ou encore les modifications dont la valeur est négative)?</p>
+<p><strong>Réponse 1</strong></p>
+<p>La « Valeur globale de la modification » du FRA correspond au total de toutes les modifications <strong>exécutées,</strong> y compris les modifications positives, négatives et projetées, de même que les options exécutées et les contrats résiliés.</p>
+<p>Ce chiffre permet de faire connaître au ministre la valeur exacte en dollars qui a été engagée dans le cadre d'un projet et qui a été dépensée, sans reconsulter le dossier du contrat.</p>
+<p>Le titre de la case du FRA (« Valeur globale de la modification ») sera révisé afin de préciser clairement les variables à utiliser dans le calcul.</p>
+<p>La définition de la valeur globale de la modification pour les besoins de l'approbation reste la même.</p>
+<p><strong>Question 2</strong></p>
+<p>Quelles en sont les répercussions sur le chiffre à indiquer dans la case « Montant total révisé » du FRA?</p>
+<p><strong>Réponse 2</strong></p>
+<p>Le « Montant total révisé » comprend la valeur du marché attribué et toutes les modifications déjà exécutées <i>(positives et négatives)</i>, ainsi que la valeur de la modification proposée.</p>
+<p><strong>Question 3</strong></p>
+<p>Faut-il établir un FRA pour les marchés à faire approuver par le ministre ou par le Conseil du Trésor?</p>
+<p><strong>Réponse 3</strong></p>
+<p>Un FRA est requis pour les <strong>marchés</strong> à faire approuver par le ministre ou par le Conseil du Trésor.</p>
+<p>Les FRA relatifs aux <strong>modifications</strong> sont exigés seulement lorsque la valeur seuil en dollars et la valeur seuil en pourcentage sont dépassées. Il n'est pas nécessaire de remplir un FRA lorsque la valeur des modifications est négative ou nulle ou que les modifications ont été approuvées par le ministre.</p>
+<p>Si on doit établir un FRA pour faire connaître au ministre des projets de marchés et des contrats attribués, on signale au cabinet du ministre que les étapes indiquées dans la présentation se sont déroulées comme prévu. De plus, si le Ministère exerce des pouvoirs de modification qui n'ont « pas été approuvés au préalable » en ce qui a trait à un marché déjà approuvé par le ministre ou par le CT, le ministre souhaite qu'on le tienne au courant, puisqu'il a participé à l'approbation du marché.</p>
+<p><strong>Question 4</strong></p>
+<p>Quelle est la différence entre les modifications « déjà approuvées » et les modifications « approuvées au préalable »?</p>
+<p><strong>Réponse 4</strong></p>
+<p>Les modifications approuvées au préalable sont celles qui ont été approuvées avant une modification qu'on propose d'apporter et qui ont déjà fait l'objet d'un modificatif contractuel. Par contre, les modifications déjà approuvées sont celles pour lesquelles on a délivré une préapprobation mais on ne l'a pas encore exercée.</p>
+<p><strong>Question 5</strong></p>
+<p>Y a-t-il une différence de traitement entre les modificatifs établis dans le cadre d'une « option exercée » et les modificatifs établis dans le cadre d'un « montant réservé »?</p>
+<p><strong>Réponse 5</strong></p>
+<p>Les modificatifs déjà approuvés comprennent (entre autres) : les modificatifs établis pour permettre d'exercer une option portant sur des quantités ou des années supplémentaires comprises dans l'appel d'offres lancé à l'origine et approuvés dans le cadre de la présentation portant sur l'approbation du marché d'origine; les modificatifs portant sur des montants réservés pour des changements prévus, mais qui n'ont pas encore été clairement définis (par exemple les travaux nouveaux, les changements apportés à la conception et les travaux non prévus au calendrier) et qui ont été approuvés dans le cadre de la présentation portant sur l'approbation du marché d'origine. On doit attribuer à ces deux types de modificatifs le code de type de document 22 pour les modifications déjà approuvées.</p>
+<p>L'exercice d'une « option » est une possibilité prévue dans le contrat. Il s'agit d'une « option » qui a été définie, précisée dans les documents d'appel d'offres, à laquelle on a attribué un prix (selon des modalités particulières ou une formule mathématique) dans les propositions déposées et qui a été désignée expressément comme « option » dans le contrat. La décision d'exercer une option a un caractère essentiellement administratif, et seul le fondé de pouvoirs de signature compétent pour ce qui est du contrat doit l'approuver. Pour se prévaloir d'un montant réservé, on doit demander l'approbation du fondé de pouvoirs d'approbation pour la passation des marchés sans concurrence, qui doit se situer à l'échelon du directeur ou du fondé de pouvoirs d'approbation régional, selon le moindre de ces deux échelons, mais non à un échelon supérieur.</p>
+<p>Les modifications qui ne répondent pas à la description de l'approbation délivrée à l'origine ou qui débordent le cadre ou la valeur de l'approbation doivent être traitées (et codées) comme des modifications normales et doivent être approuvées au niveau du fondé de pouvoirs compétent, tel qu'établi selon les pouvoirs de modification délégués par le ministre.</p>
+<p><strong>Question 6</strong></p>
+<p>Qui peut approuver des modifications portant sur des sommes supérieures à la limite fixée par le Conseil du Trésor pour les modifications établies pour d'autres ministères et à 10 % de la valeur approuvée à l'origine?</p>
+<p><strong>Réponse 6</strong></p>
+<p>Seul le ministre peut approuver les modifications supérieures à la limite fixée par le Conseil du Trésor pour les modifications établies pour d'autres ministères et à 10 % de la valeur du marché d'origine.</p>
+<p><strong>Question 7</strong></p>
+<p>Quand on a dépassé la limite globale pour les pouvoirs de modification, faut-il demander l'approbation du ministre pour chacune des modifications à apporter par la suite, quel que soit le montant demandé?</p>
+<p><strong>Réponse 7</strong></p>
+<p>Lorsqu'on a atteint un niveau de pouvoirs d'approbation, on ne doit jamais faire appel à un niveau inférieur de pouvoirs d'approbation; il est donc exact d'affirmer qu'on doit demander l'approbation du ministre pour chaque modification à valeur positive, lorsqu'on dépasse la limite globale prévue pour les pouvoirs de modification, quelle que soit la valeur en dollars.</p>
+<p><strong>NOTA :</strong> Pour les modifications qui nécessitent et reçoivent l'approbation du CT, la valeur globale de la modification est remise à zéro.</p>
+<p><strong>Question 8</strong></p>
+<p>En quoi consistent les nouveaux pouvoirs d'approbation des dépenses de réparation et de révision?</p>
+<p><strong>Réponse 8</strong></p>
+<p>Le Conseil du Trésor a approuvé l'attribution, au ministre, de nouveaux pouvoirs de 50 M $ pour les dépenses de réparation et de révision; toutefois, ces pouvoirs continuent d'appartenir au ministre. Ils n'ont pas encore été délégués aux échelons inférieurs. Jusqu'à ce que ces pouvoirs soient délégués, on doit demander l'approbation du ministre pour toutes les sommes comprises entre plus de 25 M $ et moins de 50 M $. On doit établir un FRA pour tous les plans et tous les marchés représentant plus de 25 % par rapport aux pouvoirs exceptionnels d'approbation.</p>
+<p><strong>Question 9</strong></p>
+<p>Dans quels cas doit-on faire appel à la partie du FRA se rapportant aux achats axés sur les avantages (AAA)?</p>
+<p><strong>Réponse 9</strong></p>
+<p>Si l'agent des achats n'a pas fait état des AAA dans le plan d'achat, il ne doit pas remplir la section du FRA consacrée aux AAA, puisque l'information du FRA sur les AAA provient du plan d'achat.</p>
+<p><strong>Question 10</strong></p>
+<p>Quelle est la marche à suivre pour la désignation d'un FRA électronique lorsqu'une demande d'achat porte sur plusieurs contrats et qu'un contrat comporte plusieurs modificatifs?</p>
+<p><strong>Réponse 10</strong></p>
+<p>Cette situation a causé certains problèmes auparavant; toutefois, ces problèmes ne se posent plus si le fichier utilisé est en Lotus Word Pro Smartmaster, ce qui permet de donner au fichier le nom détaillé qui répond aux besoins.</p>
+<p>En s'inspirant des modalités définies dans le Guide des approvisionnements, (modification 99-1) on a mis au point la convention suivante pour la désignation des fichiers, afin de résoudre ces problèmes. (Note importante : Chaque bloc d'information doit être séparé par un trait d'union) :</p>
+<p> <strong>Premier bloc : </strong> « M » pour modification; <br/>
+<strong>Deuxième bloc : </strong> numéro de la modification (par exemple 2, 10 ou 25, etc.); <br/>
+<strong>Troisième bloc : </strong> code du secteur ou de la région; <br/>
+<strong>Quatrième et cinquième blocs :</strong> cinq derniers caractères du numéro de la demande d'achat (ou désignation de l'appel d'offres, si le numéro de la demande d'achat n'est pas disponible). <br/>
+<strong>Sixième bloc : </strong>le numéro de série du contrat (par exemple 1, 2, 3, etc., est utilisé pour enregistrer des contrats multiples dans un même dossier.) </p>
+<p>Exemple : M-99-SAME-8-BAOK-2</p>
+<p><strong>Question 11</strong></p>
+<p>En quoi consistent les « modifications à valeur négative » et doit-on en tenir compte dans le calcul de la valeur globale des modifications?</p>
+<p><strong>Réponse 11</strong></p>
+<p>Il s'agit des modifications qui ont pour effet de réduire la valeur du marché passé à l'origine. Elles n'entrent pas en ligne de compte dans le calcul de la valeur globale des modifications, et on n'en tient pas compte non plus lorsqu'on regroupe plusieurs types de changements dans un même modificatif contractuel. Toutefois, le Conseil du Trésor tient compte des modifications négatives dans ses calculs.</p>
+<p><strong>Question 12</strong></p>
+<p>Qu'entend-on par « valeur de l'approbation du marché d'origine »?</p>
+<p><strong>Réponse 12</strong></p>
+<p>Il s'agit de la valeur totale approuvée du marché, y compris toutes les modifications déjà approuvées (soit le contrat, les options, les montants réservés et les taxes).</p>
+<p><strong>Question 13</strong></p>
+<p>Quand on établit la valeur globale des modifications pour la faire approuver, doit-on tenir compte, dans le calcul, des modifications normales et des modifications déjà approuvées?</p>
+<p><strong>Réponse 13</strong></p>
+<p>Non. Pour les besoins de l'approbation, la valeur globale des modifications ne tient pas compte du total des modifications normales et des modifications déjà approuvées. On les calcule séparément.</p>
+<p><strong>Question 14</strong></p>
+<p>Pourquoi les niveaux des pouvoirs d'approbation du personnel aux échelons inférieurs à celui du SMA ont-ils été fixés à 50 % seulement des seuils en dollars précisés dans l'annexe A de l'AP-35?</p>
+<p><strong>Réponse 14</strong></p>
+<p>En adoptant les nouveaux pouvoirs ministériels délégués en juillet 1998, on a réduit les pouvoirs d'approbation des modifications portant sur les éléments de la ratification. Le SMA a pris la décision de réduire les niveaux des pouvoirs d'approbation afin d'encourager à améliorer la planification initiale et de décourager la rétroactivité. Le SMA et le ministre conservent tous leurs pouvoirs d'approbation pour toutes les modifications, y compris les ratifications.</p>
+<p>Veuillez noter que cette réduction de 50 % pour la ratification des contrats s'applique à tous les seuils exprimés en dollars. Même dans les calculs où on utilise le maximum de 10 %, on obtient une valeur en dollars qui est assujettie à la réduction de 50 %. La formule suivante pourrait se révéler utile lorsqu'il s'agit de connaître les limites des pouvoirs d'approbation dans la ratification des contrats :</p>
+<p>(<strong>X</strong> × .1) ÷ 2 = <strong>Y</strong></p>
+<p>(X représente la valeur du marché à l'origine et Y, la limite des pouvoirs d'approbation pour la ratification.)</p>
+<p>Par exemple, la limite des pouvoirs d'approbation du directeur pour une modification à ratifier correspondrait à 100 K $ ou à 10 % de la valeur d'origine, selon le plus élevé des deux, jusqu'à concurrence de 250 K $.</p>
+<p><strong>Question 15</strong></p>
+<p>Y a-t-il des considérations supplémentaires dont on doit tenir compte lorsqu'une modification proposée nécessite un niveau d'approbation supérieur?</p>
+<p><strong>Réponse 15</strong></p>
+<p>Tous les modificatifs contractuels proposés à faire approuver à un échelon supérieur doivent être approuvés <strong>avant</strong> d'être établis et <strong>avant</strong> le début des travaux. Par exemple, il faudrait ratifier une modification si les travaux autorisés s'expliquaient par un changement important dans l'étendue des travaux et avaient été entrepris avant de modifier le contrat. On soutient en effet que le changement apporté à l'étendue des travaux est assez important pour justifier éventuellement le relancement de l'appel d'offres.</p>
+<p><strong>Exemple</strong></p>
+<p>Marché concurrentiel de biens dont la <strong>valeur totale est de 500 000 $</strong> (selon le plan d'achat officiel)</p>
+<ul>
+<li>marché d'origine : 380 000 $ (préapprouvé)</li>
+<li>modification préalable (non préapprouvé) : 97 000 $ (chef)</li>
+<li>modification préalable (préapprouvée) : 100 000 $ (agent de négociation des contrats)</li>
+<li>modification proposée (ratification) : 50 000 $ (approbation du SMA)</li>
+<li>total global des modifications positives antérieures : 147 000 $</li>
+</ul>
+<p>Les pouvoirs d'approbation des modifications à ratifier s'établissent à 50 % du seuil précisé en dollars dans le total global des modifications apportées aux marchés passés en régime de concurrence, dans l'annexe A de l'AP-35, soit 100 K $. Le total global des modifications à valeur positive se chiffre à 147 K $; on doit donc demander l'approbation du SMA.</p>
+<p><strong>Question 16</strong></p>
+<p>Il semble que la politique rende plus difficile l'application du processus d'approbation des modifications rétroactives. Est-ce effectivement le cas?</p>
+<p><strong>Réponse 16</strong></p>
+<p>Dans la plupart des cas, dans le cadre des nouveaux pouvoirs délégués, les ratifications sont devenues inutiles et sont en fait tout à fait inadmissibles comme pratique opérationnelle viable. À maintes reprises auparavant, les ratifications s'expliquaient davantage par des lacunes dans la planification initiale, plutôt que par des imprévus. On s'attend à ce que cette nouvelle politique ait pour effet d'accroître le nombre de modifications préapprouvées ou approuvées en faisant appel au processus d'approbation juste à temps (PAJAT), aussitôt qu'on constate un besoin. La réalisation de l'un de ces deux scénarios entraînerait en fait l'élimination de la rétroactivité.</p>
+<p><strong>Question 17</strong></p>
+<p>L'AP-35, Révision des pouvoirs de modifier et de conclure un marché, a introduit un nouveau niveau d'examen et d'approbation pour les contrats nécessitant l'approbation des directeurs régionaux. Veuillez expliquer.</p>
+<p><strong>Réponse 17</strong></p>
+<p>Bien qu'il soit vrai qu'auparavant les directeurs régionaux bénéficiaient de pouvoirs d'approbation jusqu'à 2 M $ pour conclure des marchés et jusqu'à 300 K $ pour modifier les contrats (sans l'exigence d'un examen externe), leurs nouveaux pouvoirs sont bien plus élevés. (ex. 10 M $ pour les soumissions électroniques).</p>
+<p>Avec cette augmentation des pouvoirs, viens également une augmentation des responsabilités et une nouvelle exigence qui consiste à ce que chaque document nécessitant leur approbation soit examiné par les services juridiques et un analyste des coûts. L'effet final est que pour les contrats entre 1 et 2 M $, les directeurs régionaux doivent maintenant obtenir un examen externe, ce qui a occasionnellement provoqué des difficultés.</p>
+<p>La Direction de la politique des approvisionnements est consciente des délais occasionnés par ce processus et continuera de surveiller la situation.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

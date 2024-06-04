@@ -1,0 +1,34 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Objet</h2>
+<p><abbr title="avis relatif aux politiques">AP</abbr>-128U1 mises à jour <abbr title="avis relatif aux politiques">AP</abbr>-128R1.</p>
+<p>Les objectifs de l’avis relatif aux politiques 128U1 (<abbr title="avis relatif aux politiques">AP</abbr>-128U1) sont de : 1) modifier les modèles uniformisés d’approvisionnement afin d’ajouter une phrase pour préciser que l’adresse courriel de Connexion postel doit être employée uniquement avec le service Connexion postel et ne doit pas être utilisée pour présenter des soumissions directement; 2) modifier les instructions uniformisées de 2003, 2006 et 2008 pour informer les soumissionnaires que les Unités de réception des soumissions enverront un accusé de réception des soumissions reçues au moyen de la conversation du service Connexion postel; et fournir des informations sur la capacité de transmission du service Connexion postel.</p>
+<h2>Date d’entrée en vigueur</h2>
+<p>L’<abbr title="avis relatif aux politiques">AP</abbr>-128U1 entre en vigueur immédiatement.</p>
+<h2>Contexte</h2>
+<p>Le 22 mai 2018, le document <abbr title="avis relatif aux politiques">AP</abbr>-128R1 a été publié pour informer tous les agents de négociation des contrats du Programme des approvisionnements de Travaux publics et Services gouvernementaux Canada (TPSGC) de la mise en œuvre d’une méthode de réception supplémentaire dans les Unités de réception des soumissions (URS) à l’aide du service Connexion postel de la Société canadienne des postes, à l’échelle du Canada.</p>
+<h2>Politique</h2>
+<p>Les Unités de réception des soumissions enverront un accusé de réception standard aux fournisseurs au moyen de la conversation du service Connexion postel pour leur indiquer que leurs documents de soumissions ont été reçus. </p>
+<p>L’adresse courriel de Connexion postel doit être employée uniquement avec le service Connexion postel et ne doit pas être utilisée pour envoyer des soumissions directement.</p>
+<p>Le système Connexion postel a une limite de 1 Go par message individuel affiché et une limite de 20 Go par conversation.</p>
+<h2>Modifications aux modèles uniformisés d’approvisionnement visés :</h2>
+<ul>
+<li>Modèle de demande de soumissions et de contrat subséquent pour les besoins de complexité élevée (CE) </li>
+<li>Modèle de demande de soumissions et de contrat subséquent pour les besoins de complexité moyenne (CM) </li>
+<li>Modèle de demande de soumissions et de contrat subséquent de faible valeur (Simple)</li>
+<li>Modèle de demande d’offres à commandes (DOC) </li>
+<li>Modèle de demande d'offres à commandes (DOC) pour l’Initiative canadienne d’approvisionnement collaboratif (ICAC)</li>
+<li>Modèle de demande d’arrangements en matière d’approvisionnement (DAMA)</li>
+</ul> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-5ae594fe06a1c36598fa18d09087669d">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2003">ARCHIVÉE : 1.2003: Instructions uniformisées - biens ou services - besoins concurrentiels</a> </li>
+<li class="views-row views-row-2 views-row-even">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2006">ARCHIVÉE : 1.2006: Instructions uniformisées - demande d'offres à commandes - biens ou services - besoins concurrentiels</a> </li>
+<li class="views-row views-row-3 views-row-odd views-row-last">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2008">ARCHIVÉE : 1.2008: Instructions uniformisées - demande d'arrangements en matière d'approvisionnement - biens ou services</a> </li>
+</ul></div> </div>
+</div>
+</div>

@@ -1,0 +1,94 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Purpose</h2>
+<p>The purpose of PN-117 is to provide direction to contracting officers for the treatment of certifications, declarations and proof documents for all solicitations issued by Public Works and Government Services Canada (PWGSC)’s Acquisitions Program.</p>
+<p>Under this new policy, solicitations may request that bidders, offerors or suppliers provide mandatory certification, declaration or proof at bid closing, but these documents <strong>must not be required</strong> at bid closing unless identified as an exception listed below.</p>
+<h2>Background</h2>
+<p><abbr title="Public Works and Government Services Canda">PWGSC</abbr> is committed to developing policies and tools to support flexible bid compliance. The Department is reinforcing this commitment through this policy, which establishes a process for how and when bidders, offerors or suppliers  will be required to provide certifications, declarations and proofs and will ensure consistent treatment of these documents.</p>
+<h2>Definitions and examples</h2>
+<p>Certifications, declarations and proofs are standalone documents that substantiate information submitted with a bid, offer or arrangement. Standalone documents are independent from requirements for bid evaluation but they are mandatory to finalize the bid evaluation process.</p>
+<p>Examples of certifications, declarations and proof documents are provided below and are for illustration purposes only. Personal references may also be included under this policy but only if their use will not change the substance of a bid, offer or arrangement or introduce new information that could improve a score or ranking.</p>
+<table class="basic">
+<caption>Table 1: Examples of certifications, declaration and proof documents</caption>
+<thead>
+<tr>
+<th scope="col">Category</th>
+<th scope="col">Document</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td scope="row"><strong>Certifications and declarations</strong></td>
+<td><ul>
+<li>Former Public Servant (disclosure)</li>
+<li>List of Directors or name of Owner</li>
+<li>Joint venture (Members and Business Number)</li>
+<li>Federal Contractors Program for Employment Equity Certification</li>
+<li>Rate or Price Certification</li>
+<li>Workers’ Compensation Certification (Letter of Good Standing)</li>
+<li>Welding Certification</li>
+<li>Docking Facility Certification</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td scope="row"><strong>Proof</strong></td>
+<td><ul>
+<li>Insurance (Letter of Insurability)</li>
+<li>Licences; Membership to a trade or professional association</li>
+<li>Professional designation, accreditations, certification</li>
+<li>Academic qualifications; Quality/Environmental Management Systems Registration</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Evaluation process</h2>
+<p>Mandatory certifications, declarations or proof documents may be requested at bid closing. However, under this policy, bidders <strong>must not be required</strong> to provide these documents at bid closing unless the documentation being requested is included in the Exceptions section below. Contracting officers must ensure that all solicitation documents identify which certifications, declarations and proofs are required. If these documents have not been provided at bid closing, <abbr title="Public Works and Government Services Canda">PWGSC</abbr> will notify the bidder, offeror or supplier that they are required to provide them within two business days following notification by <abbr title="Public Works and Government Services Canda">PWGSC</abbr>. (Note: this time requirement reflects <abbr title="Public Works and Government Services Canda">PWGSC</abbr>’s expectation that these documents ought to be readily available to a bidder, offeror or supplier.)</p>
+<p>Once notified, any bidder, offeror or supplier that fails to provide the required document(s) within two business days will be informed by the Department that their bid, offer or arrangement is non-responsive and that it will be given no further consideration.</p>
+<h2>Exceptions</h2>
+<p>The following exceptions are permitted:</p>
+<ol>
+<li>Integrity Provisions - The bidder, offeror or supplier must provide a completed Declaration Form or list of directors or owners in accordance with conditions defined in <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/politique-policy-eng.html" rel="external">Ineligibility and Suspension Policy</a>.</li>
+<li>Procurement Strategy for Aboriginal Businesses (PSAB) - Bidders, offerors or suppliers must include with their bid, offer or arrangement certification that they meet the approved definition of an Aboriginal Business.</li>
+<li>Canadian Content Policy – The bidder, offeror or supplier must provide certification in accordance with conditions defined in the <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-3-annexes#_3-6">Canadian Content Policy</a>.</li>
+<li>Registry and Pre-qualification of Floating Plant – the bidder, offeror or supplier must provide certification with the bid as stated in Standard Acquisition Clause R2710T-GI06 General Instructions - Construction Services - Bid Security Requirements.</li>
+<li>Requests for Financial Capability documentation – Contracting officers in consultation with the Cost and Price Analysis Group determine what financial information will be required from a subset of bidders during the bid evaluation phase and the time frame for providing the information.</li>
+<li>Solicitations using Public Openings - the bidder, offeror or supplier must provide certifications, declarations and proofs with the bid as specified in the solicitation.</li>
+</ol>
+<h2>Supply Manual, Standard Acquisition Clauses and Conditions Manual and Standard Procurement Templates</h2>
+<p>The Supply Manual has been updated to reflect this new policy. See Affected Supply Manual sections below for a complete list of modified sections.</p>
+<p>The contracting authority must apply the ”two business days” time requirement to any <abbr title="Standard Acquisition Clauses and Conditions ">SACC</abbr> manual clause that currently allows for the contracting authority to stipulate the time to provide a certification, declaration or proof as defined by this policy notification. While no changes have been made to the <abbr title="Standard Acquisition Clauses and Conditions ">SACC</abbr> Manual, a non-comprehensive list of clauses affected by these changes is provided below for information purposes. No changes have been made to Standard Procurement Templates.</p>
+<h2>Contact information</h2>
+<p>Please direct any enquiries to the Strategic Policy Sector by email at the following address: <a href="mailto:TPSGC.DPPApublications-APPDpublications.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.DPPApublications-APPDpublications.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Affected Supply Manual sections</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-5b427be86337f724cc2366ac2c4aec47">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-5#_5-5">5.5.5: Certifications, declarations and proofs</a> </li>
+</ul></div> </div>
+</div>
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-09c2648e2eb1968738c020be0e1181c0">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#B9006T">5.B.B9006T: Docking Facility Certification</a> </li>
+<li class="views-row views-row-2 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#G1007T">5.G.G1007T: Insurance - Proof of Availability Prior to Contract Award</a> </li>
+<li class="views-row views-row-3 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#A3025T">ARCHIVED: 5.A.A3025T: Former Public Servant - Competitive Bid</a> </li>
+<li class="views-row views-row-4 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#A3026T">ARCHIVED: 5.A.A3026T: Former Public Servant  – Non-competitive Bid</a> </li>
+<li class="views-row views-row-5 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#A9056T">5.A.A9056T: Safety Measures for Fueling and Disembarking Fuel</a> </li>
+<li class="views-row views-row-6 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#B4075T">ARCHIVED: 5.B.B4075T: Welding Certification -  Bid</a> </li>
+<li class="views-row views-row-7 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#M3025T">ARCHIVED: 5.M.M3025T: Former Public Servant - Competitive - Offer</a> </li>
+<li class="views-row views-row-8 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#M3026T">ARCHIVED: 5.M.M3026T: Former Public Servant – Non-competitive - Offer</a> </li>
+<li class="views-row views-row-9 views-row-odd views-row-last">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#M9015T">5.M.M9015T: Insurance Requirements - Proof of Availability - Prior to issuance of a Standing Offer</a> </li>
+</ul></div> </div>
+</div>
+</div>

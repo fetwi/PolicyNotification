@@ -1,0 +1,114 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<p><strong>Nota :</strong> Le Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> et le <cite>Guide des approvisionnements</cite> ont subi plusieurs mises à jour suivant la publication initiale de l’AP-107R1, le 3 juillet 2015 :</p>
+<ul>
+<li>17 septembre 2015 : Les modifications fournies à l’Annexe A ont été mises à jour et intégrées au <cite>Guide des approvisionnements</cite>. Consulter le <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/archives-des-politiques-et-lignes-directrices/archives-des-resumes-des-modifications-au-guide-des-approvisionnements#15-3">Résumé des modifications au <cite>Guide des approvisionnements</cite> - Version 2015-3</a> pour connaître les détails.</li>
+<li>3 septembre 2015 : Des modifications ont été apportées à plusieurs conditions générales. Consulter le <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat/resume-des-modifications-aux-clauses-et-conditions-uniformisees-d-achat-ccua/#2015-5">Résumé des modifications aux clauses et conditions uniformisées d'achat (CCUA) - Version 2015-5</a> pour connaître tous les détails des modifications.</li>
+<li>9 juillet 2015 : Des modifications ont été apportées à deux clauses spécifiques à l’attribution des marchés immobiliers. <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat/resume-des-modifications-aux-clauses-et-conditions-uniformisees-d-achat-ccua/#2015-4">Consulter le Résumé des modifications au Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> – Version 2015-4</a> pour connaître tous les détails des modifications. Des modifications ont également été apportées à l’AP-107R1 en vue d’intégrer des corrections d’ordre rédactionnel, d’assurer l’uniformité avec le texte anglais équivalent et d’harmoniser la terminologie avec celle employée dans le régime d’intégrité du gouvernement du Canada. Ces modifications ne présentent aucune modification significative au contenu.</li>
+</ul>
+<h2>Introduction</h2>
+<p>Par l'entremise de cet Avis relatif aux politiques 107R1, Travaux publics et Services gouvernementaux Canada (TPSGC) met à jour les dispositions relatives à l'intégrité concernant les activités d'approvisionnement et les opérations immobilières  en vue de les harmoniser avec un nouveau <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/ci-if-fra.html" rel="external">régime d'intégrité</a> pangouvernemental. Les dispositions mises à jour comprennent de nouvelles règles concernant les suspensions, des modifications aux règles concernant la période d’inadmissibilité, l'établissement d’un processus d’examen et d’application régulière de la loi dans les cas d’inadmissibilité obligatoire, et encouragent les fournisseurs à déclarer volontairement les pratiques commerciales illégales.</p>
+<h2>Date d’entrée en vigueur</h2>
+<p>À compter de maintenant les agents de négociation des contrats doivent modifier leurs documents de demandes de soumissions afin de tenir compte de cette approche révisée.</p>
+<h2>Contexte</h2>
+<p>Au cours des dernières années, <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> a mis en place de nombreuses mesures visant à renforcer l'intégrité des processus d'approvisionnement et des biens immobiliers du Ministère.</p>
+<p>Au mois de juillet 2012, <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> a mis en place un Cadre d’intégrité formel, sous ses propres autorités ministérielles, afin de veiller à ce que le gouvernement ne conclue pas de marchés avec des fournisseurs qui ont été déclarés coupable d’une infraction criminelle au Canada. Des améliorations ont ensuite été apportées au Cadre en novembre 2012 (<a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/avis-relatifs-aux-politiques/AP-107">ARCHIVÉE- Dispositions relatives à l'intégrité – AP-107</a>) et en mars 2014 (<a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/avis-relatifs-aux-politiques/AP-107U1">ARCHIVÉE- Dispositions relatives à l’intégrité - AP-107U1</a>) dans le but d’élargir la portée et inclure des infractions commises à l’étranger ou commises par des affiliés du fournisseur et d'exiger que les fournisseurs soumettent leurs sous-traitants aux mêmes modalités.</p>
+<p>Le 3 juillet 2015, <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> poursuit cet effort et met en œuvre un nouveau <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/ci-if-fra.html" rel="external">régime d'intégrité</a> pangouvernemental (annoncé par le gouvernement du Canada dans le budget de 2015) pour ses activités d'approvisionnement et ses opérations immobilières afin de s’assurer que le gouvernement du Canada entreprenne des relations d’affaires avec des fournisseurs dont le comportement est conforme à l’éthique. Le nouveau régime d’intégrité constitue une approche fondée sur des politiques et sera appliqué à tous les ministères et organismes fédéraux par le biais de protocoles d'entente.</p>
+<h2>Résumé des modifications apportées aux dispositions relatives d’intégrité</h2>
+<p>Les dispositions relatives à l'intégrité sont mises à jour pour :</p>
+<ul>
+<li>supprimer l'inadmissibilité obligatoire d'un fournisseur pour les actions d'un affilié, à moins que le fournisseur exerce un niveau de contrôle sur l’affilié déclaré coupable d’une infraction;</li>
+<li>veiller à ce que les fournisseurs soient avisés de leur inadmissibilité obligatoire et permettre aux fournisseurs inadmissibles de réduire leur période d’inadmissibilité de cinq ans à la suite de leur collaboration avec les autorités chargées de l'application des lois ou de l'attestation par un tiers de l'amélioration de leur conduite et de leur comportement professionnels;</li>
+<li>permettre aux entreprises de volontairement déclarer leurs infractions afin d’enclencher la période d'inadmissibilité et le processus de mesures correctrices sans tarder;</li>
+<li>présenter une nouvelle disposition lorsqu’il est question d’une exception dans le but de l’intérêt public; cette dernière doit être accompagnée d'une entente administrative conclue avec le ministre de Travaux publics et Services gouvernementaux (TPSG) afin de garantir que des mesures correctrices seront appliquées;</li>
+<li>permettre à <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> de suspendre un soumissionnaire pour une durée maximale de 18 mois lorsque ce dernier a été accusé de l'une des infractions énumérées ou a reconnu ses torts;</li>
+<li>imposer une période d'inadmissibilité automatique de 10 ans pour avoir fourni des informations fausses ou trompeuses lors de l'attestation voulant que ni le fournisseur ni ses affiliés n'aient été déclarés coupable d’infractions au cours des trois dernières années;</li>
+<li>rendre un entrepreneur inadmissible pour une période de cinq ans s'il passe un contrat avec un sous-traitant inadmissible;</li>
+<li>permettre à <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> de rendre publique une liste de tous les fournisseurs inadmissibles et suspendus, y compris leur période d'inadmissibilité.</li>
+</ul>
+<p>Consulter le <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/ci-if-fra.html" rel="external">régime d'intégrité</a> du Ministère pour obtenir de plus amples détails sur les modifications à la politique ainsi que la nouvelle <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/politique-policy-fra.html" rel="external"><cite>Politique d’inadmissibilité et de suspension</cite></a>.</p>
+<h2>Guide des approvisionnements</h2>
+<p>Les détails précis concernant les modifications suivantes se trouvent dans l’Annexe A (consulter les <a href="http://www.gcpedia.gc.ca/wiki/Archives_du_Guide_des_approvisionnements" rel="external">Archives du <cite>Guide des approvisionnements</cite></a>). Ces modifications seront intégrées dans une version ultérieure du <cite>Guide des approvisionnements</cite>.</p>
+<ul>
+<li>Le directeur général ou le directeur général régional doit approuver les activités d'approvisionnement lorsqu'il y a possibilité d'un acte répréhensible. Dans certains cas, il faudra obtenir l'approbation du sous-ministre adjoint de la Direction générale des approvisionnements.</li>
+<li>L'article portant sur les exemptions aux dispositions relatives à l'intégrité est reformulé.</li>
+<li>De nouveaux articles sont ajoutés afin de tenir compte du nouveau régime d’intégrité et de la nouvelle <cite>Politique d’inadmissibilité et de suspension</cite> de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> (articles 3.51 Aperçu du régime d’intégrité, 3.52 Politique d’inadmissibilité et de suspension de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>, 4.21.1 Ententes administrative, 4.21.2 Exception relative à l’intérêt public, et 4.21.3 Passation de contrats avec des sous-traitants inadmissibles/faisant l’objet d’une suspension).</li>
+<li>L'Annexe 8.13 Lettres type concernant l'intégrité est mise à jour afin de tenir compte du nouveau régime d’intégrité et de la <cite>Politique d’inadmissibilité et de suspension</cite> de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>.</li>
+</ul>
+<p>Articles du <cite>Guide des approvisionnements</cite> visés :</p>
+<ul>
+<li>1.30.25 : Code de conduite pour l'approvisionnement</li>
+<li>3.22.5 : Exceptions aux processus dans une situation d'urgence</li>
+<li>3.35.1.40 : Autorisation et émission d'autorisations de tâches</li>
+<li>3.51 : Aperçu de l'intégrité</li>
+<li>3.52 : Politique d’inadmissibilité et de suspension de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> (NOUVEAU)</li>
+<li>4.21 : Dispositions relatives à l'intégrité</li>
+<li>4.21.1 : Ententes administrative (NOUVEAU)</li>
+<li>4.21.2 : Exception relative à l’intérêt public (NOUVEAU)</li>
+<li>4.21.3 : Passation de contrats avec des sous-traitants inadmissibles/faisant l’objet d’une suspension</li>
+<li>4.45 : Attestations </li>
+<li>4.45.1 : Code de conduite (attestation)</li>
+<li>5.16 : Conformité en matière d’intégrité</li>
+<li>6.4.1 : Annexe : Pouvoirs d'approbation et pouvoirs supplémentaires de signature des contrats à l'appui des programmes des clients seulement - autres que ceux de la Corporation commerciale canadienne</li>
+<li>8.70.2 : Conformité avec les dispositions relatives à l'intégrité</li>
+<li>8.70.5 : Modification des contrats</li>
+<li>8.13 : Annexe : Lettres type concernant l’intégrité</li>
+<li>Glossaire du <cite>Guide des approvisionnements</cite> (revisé)</li>
+</ul>
+<h2>Guide des clauses et conditions uniformisées d'achat (CCUA)</h2>
+<p>L'article Dispositions relatives à l'intégrité de toutes les instructions uniformisées, instructions générales et conditions générales est intégralement mis à jour afin de tenir compte des modifications à la politique décrites ci-dessus.</p>
+<p>Consulter la section Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés ci-dessous pour obtenir la liste complète des clauses modifiées.</p>
+<h2>Modèles uniformisés d'approvisionnement</h2>
+<p>Les révisions au régime d’intégrité de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> ont une incidence sur les cinq modèles uniformisés d’approvisionnement. Par conséquent, la partie 5 « Attestations » de tous les modèles, ainsi que les parties 1, 2 et 7 des modèles de demandes de soumissions pour les besoins de complexité élevée, les besoins de complexité moyenne et les besoins simples, et les parties 6A et 6B du modèle <abbr title="demande d'arrangements en matière d'approvisionnement">DAMA</abbr> ont été révisées.</p>
+<h2>Ressources</h2>
+<p>Pour toute question concernant le nouveau régime d'intégrité et la <cite>Politique d’inadmissibilité et de suspension</cite>, communiquer avec la Direction générale de la surveillance au 1-844-705-2084 ou à l'adresse suivante : <a href="mailto:PWGSC.O.integrity-TPSGC.O.integrite@tpsgc-pwgsc.gc.ca" rel="external">PWGSC.O.integrity-TPSGC.O.integrite@tpsgc-pwgsc.gc.ca</a>.</p>
+<p>Les demandes de renseignements concernant l'application des dispositions relatives à l'intégrité ainsi que les questions liées au <cite>Guide des approvisionnements</cite> peuvent être acheminées au Secteur de la politique, du risque, de l'intégrité et de la gestion stratégique (SPRIGS) à l’adresse suivante : <a href="mailto:DGAIntegrite.ABIntegrity@tpsgc-pwgsc.gc.ca" rel="external">DGAIntegrite.ABIntegrity@tpsgc-pwgsc.gc.ca</a>.</p>
+<p>Les questions liées au Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> ou aux modèles uniformisés d'approvisionnement peuvent être acheminées à la Division des politiques et outils relatifs aux approvisionnements à l'adresse suivante : <a href="mailto:Outilsd'approvisionnement.ProcurementTools@tpsgc-pwgsc.gc.ca" rel="external">Outilsd'approvisionnement.ProcurementTools@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-67ee817e0c46d4b74d7fdffb1408dd40">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2003">ARCHIVÉE : 1.2003: Instructions uniformisées - biens ou services - besoins concurrentiels</a> </li>
+<li class="views-row views-row-2 views-row-even">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2004">ARCHIVÉE : 1.2004: Instructions uniformisées - biens ou services - besoins non concurrentiels</a> </li>
+<li class="views-row views-row-3 views-row-odd">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2005">ARCHIVÉE : 3.2005: Conditions générales - offres à commandes - biens ou services</a> </li>
+<li class="views-row views-row-4 views-row-even">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2006">ARCHIVÉE : 1.2006: Instructions uniformisées - demande d'offres à commandes - biens ou services - besoins concurrentiels</a> </li>
+<li class="views-row views-row-5 views-row-odd">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2007">ARCHIVÉE : 1.2007: Instructions uniformisées - demande d'offres à commandes - biens ou services - besoins non concurrentiels</a> </li>
+<li class="views-row views-row-6 views-row-even">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2008">ARCHIVÉE : 1.2008: Instructions uniformisées - demande d'arrangements en matière d'approvisionnement - biens ou services</a> </li>
+<li class="views-row views-row-7 views-row-odd">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2010A">ARCHIVÉE : 3.2010A: Conditions générales - biens (complexité moyenne)</a> </li>
+<li class="views-row views-row-8 views-row-even">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2010B">ARCHIVÉE : 3.2010B: Conditions générales - services professionnels (complexité moyenne)</a> </li>
+<li class="views-row views-row-9 views-row-odd">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2010C">ARCHIVÉE : 3.2010C: Conditions générales - services (complexité moyenne)</a> </li>
+<li class="views-row views-row-10 views-row-even">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2020">ARCHIVÉE : 3.2020: Conditions générales - arrangements en matière d'approvisionnement - biens ou services</a> </li>
+<li class="views-row views-row-11 views-row-odd">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2029">ARCHIVÉE : 3.2029: Conditions générales - biens ou services (faible valeur)</a> </li>
+<li class="views-row views-row-12 views-row-even">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2030">ARCHIVÉE : 3.2030: Conditions générales - besoins plus complexes de biens</a> </li>
+<li class="views-row views-row-13 views-row-odd">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2035">ARCHIVÉE : 3.2035: Conditions générales - besoins plus complexes de services</a> </li>
+<li class="views-row views-row-14 views-row-even">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2040">ARCHIVÉE : 3.2040: Conditions générales - recherche et développement</a> </li>
+<li class="views-row views-row-15 views-row-odd">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#R1110T">ARCHIVÉE : 5.R.R1110T: Instructions générales (IG) – Services d’architecture et/ou de génie – Demande de proposition en deux phases</a> </li>
+<li class="views-row views-row-16 views-row-even">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#R1210D">ARCHIVÉE : 5.R.R1210D: Conditions générales (CG) 1 - Dispositions générales – Services d’architecture et/ou de génie</a> </li>
+<li class="views-row views-row-17 views-row-odd">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#R1410T">ARCHIVÉE : 5.R.R1410T: Instructions générales (IG) – Services d’architecture et/ou de génie – Demande de proposition</a> </li>
+<li class="views-row views-row-18 views-row-even">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#R2410T">ARCHIVÉE : 5.R.R2410T: Instructions générales - Services de construction</a> </li>
+<li class="views-row views-row-19 views-row-odd">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#R2710T">ARCHIVÉE : 5.R.R2710T: Instructions générales  - Services de construction - Exigences relatives à la garantie de soumission</a> </li>
+<li class="views-row views-row-20 views-row-even">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#R2810D">ARCHIVÉE : 5.R.R2810D: Conditions générales (CG) 1 - Dispositions générales – Services de construction</a> </li>
+<li class="views-row views-row-21 views-row-odd views-row-last">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#R5110T">ARCHIVÉE : 5.R.R5110T: Instructions générales - Modernisation d’ascenseurs</a> </li>
+</ul></div> </div>
+</div>
+</div>

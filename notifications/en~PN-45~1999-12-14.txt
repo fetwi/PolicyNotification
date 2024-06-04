@@ -1,0 +1,29 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h3>Policy Objective</h3>
+<p>The purpose of this policy is to make provision for independent trucking contractors and their subcontractors, working on federal government contracts, to be paid at least minimum haulage rates as and where established by the provincial and territorial governments across Canada.</p>
+<h3>Policy</h3>
+<p>Effective August 15, 1999, Treasury Board (TB), per Article 16.13 of the TB Contracting Policy Manual, committed the federal government to paying at least the minimum haulage rates as and where established by provincial and territorial governments, when contracting for the services of independent truckers for haulage work on federal projects, either directly or through subcontracts. Accordingly, PWGSC, when contracting on behalf of departments and agencies and/or when <acronym title="Public Works and Government Services Canada">PWGSC</acronym> is the client, will comply with the TB requirement for contracts containing haulage-type requirements. For haulage work between provinces and territories, the applicable rates are to be those that are in effect in the province or territory in which the project, the majority of the project or the largest component of the project is located.</p>
+<p>The <acronym title="Public Works and Government Services Canada">PWGSC</acronym> policy (<strong>Annex A</strong>) is effective upon the date of its publication in the form of a Policy Notification. It will apply to new federal projects only, where bid solicitation documents have not yet been issued.</p>
+<p>Therefore, for requirements involving work in whole or in part of a haulage nature, all contractual documents (Requests for Proposals, Tenders and Contracts, etc.) must contain a reference to the haulage rate requirements and must include the appropriate clauses as detailed in <strong>Annex B</strong>.</p>
+<h3>Standard Acquisition Contract Clause (SACC) Manual Clauses</h3>
+<p>Bidders and Contractors, as applicable, must agree to comply with the <acronym title="Public Works and Government Services Canada">PWGSC</acronym> Haulage Rates policy. All contractual documents (Requests for Proposal, Tenders and Contracts, etc.) must contain a reference to the Haulage Rates policy requirements, where the performance of the work will involve haulage. The attached clauses (Annex B), as applicable, should be included into contractual documents:</p>
+<h3>Incorporation into the Manuals</h3>
+<p>This policy, and related clauses, will be incorporated into the next <i>Supply Manual</i> and <i>Standard Acquisition Clauses and Conditions</i>Manual amendments, scheduled for release tentatively in May, 2000.</p>
+<h2>Annex A</h2>
+<h3>SECTION 7A - PREPARING A BID SOLICITATION</h3>
+<p><strong>Transportation Costs</strong></p>
+<p><strong>Requirements Involving Haulage</strong></p>
+<p>7.061 (<strong>xx/xx/xx</strong>) The purpose of this policy is to make provision for <i>independent trucking contractors and their subcontractors</i>, working on federal government contracts, to be paid at least minimum haulage rates as and where established by the provincial and territorial governments across Canada, as required by Article 16.13 (August 15/99) of the TB Contracting Manual. For haulage work between provinces and territories, the applicable rates are to be those that are in effect in the province or territory in which the project, the majority of the project or the largest component of the project is located.</p>
+<p>The <acronym title="Public Works and Government Services Canada">PWGSC</acronym> policy was effective December 14, 1999. It applies to new federal projects only, where bid solicitation documents had not yet been issued.</p>
+<p>Therefore, for requirements involving work in whole or in part of a haulage nature, bid solicitation documents must include clause C5205T and contract documents must incorporate the clause C5205C. Both the bid solicitation clause and the contract clause require the prime contractor to agree to pay its subcontractors under the contract, at least the minimum rates as established by the relevant Provincial/Territorial government.</p>
+<h2>Annex B</h2>
+<p><strong>Remarks:</strong> Use the following clause in bid solicitations documents where the performance of the work will involve haulage.</p>
+<p><strong>C5205T (xx/xx/xx) Haulage Rates</strong></p>
+<p>Bidders must comply with the federal government Haulage Rates policy where any resultant contract will have truck haulage as a component of the services to be provided. The Haulage Rates policy requires payment either directly to Contractors, or through prime Contractors to their Subcontractors working on federal contracts, of at least the minimum haulage rates as and where established by the provincial or territorial government in the geographical region in which the project, the majority of the project or the largest component of the project is located.</p>
+<hr/>
+<p><strong>Remarks:</strong> Use the following clause in contractual documents where the performance of the work will involve haulage.</p>
+<p><strong>C5205C (xx/xx/xx) Haulage Rates</strong></p>
+<p>The Contractor agrees that for work of a haulage nature under this Contract, it will pay its Subcontractors at least the minimum haul rates as and where established by provincial or territorial governments in the geographical region in which the project, the majority of the project or the largest component of the project is located.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

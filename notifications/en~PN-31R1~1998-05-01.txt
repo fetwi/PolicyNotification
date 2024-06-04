@@ -1,0 +1,44 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<p>Policy Notification (PN) No. 31 is hereby re-instated with the modifications indicated below, effective immediately.</p>
+<p>The original PN dated March 25, 1998 was issued in response to Treasury Board Information notices issued to Departments and Agencies' Senior Financial Officers on February 24, 1998 and on March 25, 1998 to advise them of the new service contract payment reporting requirements announced in the 1998 budget. Pursuant to paragraph 221 (1) (d) of the <em>Income Tax Act</em>, Departments and Agencies are required to prepare T4-A Supplementary Slips for all Individuals or Businesses receiving payments under service contracts during a calendar year, beginning with the period of January 1, 1998 to December 31, 1998. This directive was also to apply to contracts involving a mix of goods and services only when the value of the services component represented at least 10% of the total value of the contract.</p>
+<p>On the basis of consultations between Revenue Canada, the Treasury Board and other government departments, revisions to the original notices were made and a new notice was issued on April 30, 1998. The revisions related to the contracting process are as follows:</p>
+<p>1. The 10% rule for contracts involving a mix of goods and services has been eliminated. Instead, all contracts with a separate and clear service component will be affected regardless of the percentage of services involved. For example, a contract for computers which includes as a separate item, a maintenance agreement, will be included. However, the reporting requirement will not apply where service is included as part of the goods total purchase price, for example, a contract for any type of equipment which includes installation or training in the total purchase price.</p>
+<p>2. In addition, the following are excluded from the directive:`</p>
+<ul>
+<li>Purchases made by Acquisition Card;</li>
+<li>Purchases made by Local Purchase Order;</li>
+<li>Grants and contributions;</li>
+<li>Rentals (which includes public utilities and rental or leasing of office space and equipment, and other goods.</li>
+</ul>
+<p>3. For the purpose of the reporting requirement, Treasury Board Secretariate (TBS) has defined service contracts by standard objects (financial) as follows:</p>
+<ul>
+<li>02 Transportation and telecommunications</li>
+<li>03 Advertising Services</li>
+<li>04 Professional and Special Services</li>
+<li>06 Purchased Repair and Maintenance</li>
+</ul>
+<p>A further breakdown by economic objects, with their descriptions, is appended through hyperlinks to TBS information letter of April 30, 1998 which can be found at the following internet address: "<a href='http://www.tbs-sct.gc.ca/fin/fin_e.html"' rel="external">http://www.tbs-sct.gc.ca/fin/fin_e.html"</a>.</p>
+<p>4. To enable Departments and Agencies to comply with the reporting requirement for payments made to individuals or businesses pursuant to services contracts, it will be necessary for all applicable contracts to contain a term requiring contractors to provide the information which is essential to the preparation of the T4-A. <acronym title="Public Works and Government Services Canada">PWGSC</acronym> has decided to make its contractors provide the required information directly to customer departments via the invoicing procedure. This information includes the legal name of the contractor and its status, i.e. an individual, unincorporated business or a corporation; associated Social Insurance Number, or business number, Goods and Services Tax/Harmonized Sales Tax number, or alternatively, a T2 Corporate Tax number, as applicable; and, finally, a certification as to the completeness and accuracy of the information signed by the contractor or an authorized representative.</p>
+<p><em>Standard Acquisition Clauses and Conditions</em> (SACC) clause H3023D - Supplemental Invoicing Instructions (Annex A), has been modified:</p>
+<ol>
+<li>to delete from Remarks reference to the 10% rule with respect to contracts involving both goods and services;</li>
+<li>to delete from Remarks reference to non-resident contractors undertaking government contracts in Canada since such contracts are subject to the withholding tax requirement which ensures appropriate reporting to Revenue Canada by the non-resident contractor;</li>
+<li>to delete from Text the previous paragraph e) which required an indication as to the nature of the invoice since financial services did not consider this information necessary.</li>
+</ol>
+<p>The revised clause, attached as <strong>Annex A</strong>, will be incorporated to the SACC Manual, in amendment 98-3, which is scheduled for release on November 23, 1998.</p>
+<h2>Annex A</h2>
+<p><strong>Remarks:</strong> The following clause must appear in applicable solicitations and resultant service contracts, as well as contracts involving both goods and services. This includes contracts to Canadians undertaking government contracts abroad.</p>
+<p><strong>H3023D (__/__/98) Supplemental Invoicing Instructions</strong></p>
+<p>1. Pursuant to paragraph 221 (1)(d) of the <em>Income Tax Act</em>, payments made by departments and agencies under applicable services contracts (including contracts involving a mix of goods and services) must be reported on a T4-A supplementary slip. To enable departments and agencies to comply with this requirement, contractors are required to provide the following information on each invoice:</p>
+<ol type="a">
+<li>the legal name of  the entity or individual, as applicable, i.e. the name associated withthe Social Insurance Number (SIN) or Business Number (BN), as well as the address and the postal code;</li>
+<li>the status of the contractor, i.e. individual, unincorporated business, corporation or partnership;</li>
+<li>for individuals and unincorporated businesses, the contractor's SIN and, if applicable, the BN, or if applicable, the Goods and Services Tax (GST)/Harmonized Sales Tax (HST) number;</li>
+<li>for corporations, the BN, or if this is not available, the GST/HST number. If there is no BN or GST/HST number, the T2 Corporation Tax number must be shown; and,</li>
+<li>the following certification signed by the Contractor or an authorized officer:
+<p>"I certify that I have examined the information provided above, including the legal name, address, and Revenue Canada identifier, (c) or (d) as applicable, and that it is correct and complete, and fully discloses the identification of this Contractor."</p>
+</li>
+</ol>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

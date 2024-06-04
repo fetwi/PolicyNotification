@@ -1,0 +1,93 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-22Ucont" name="cont"><br/>
+AP-22U : Garantie de conversion - an 2000</a></h1> <div class="region region-site-wide-message">
+<section id="AP-22Usite-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-22Usite-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-22Usite-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 19 août 1998</h2>
+<p>Cette mise à jour de l'avis relatif aux politiques (AP) présente deux clauses supplémentaires relatives à la garantie de conversion à l'an 2000 (Annexe A) qui s'ajoutent aux clauses déjà incluses dans l'AP-22:</p>
+<p>1. K0043D (__/__/98) Garantie relative à l'an 2000 - biens non directement liés aux approvisionnements en matière de TI.</p>
+<p>2. K0044D (__/__/98) Garantie relative à l'an 2000 - services non directement liés aux approvisionnements en matière de TI.</p>
+<p>Les modifications qui seront apportées en conséquence au guide des<em> Clauses et conditions uniformisées d'achat</em>, et qui sont reproduites à <strong>l'annexe A</strong>, feront l'objet du modificatif 98-3 qui doit paraître le 23 novembre 1998.</p>
+<p>Les modifications qui seront apportées en conséquence au <em>Guide des approvisionnements</em>, et qui sont reproduites à <strong>l'annexe B</strong>, feront l'objet du modificatif 98-3 qui doit paraître le 23 novembre 1998.</p>
+<p>Cette mise à jour doit être lue et appliquée en sus de l'AP-22 original.</p>
+<h2>Annexe A</h2>
+<h3>CHANGEMENTS AU GUIDE DES CLAUSES ET CONDITIONS UNIFORMISÉES D'ACHAT</h3>
+<h3>BIENS PORTANT SUR LES SYSTÈMES DE TRAITEMENT ÉLECTRONIQUES</h3>
+<p><strong>Remarques :</strong> Utiliser la clause suivante si, ou lorsque, les produits décrits dans les documents contractuels sont des biens qui peuvent contenir des systèmes de traitement électroniques non directement liés à l'achat de systèmes en matière de technologie de l'information (TI).</p>
+<p>K0043D (__/__/98) Garantie relative à l'an 2000 - biens non directement liés aux approvisionnements en matière de TI</p>
+<p>1. L'entrepreneur garantit que tous les systèmes de traitement électroniques contenus dans ce document ou faisant partie des biens fournis dans le cadre de ce contrat seront conformes aux exigences contractuelles, en ce qu'ils traiteront automatiquement et avec exactitude toutes les dates et les données connexes en effectuant notamment le calcul, la comparaison et le classement de ces données, qu'elles datent du XX<sup>e</sup> ou du XXI<sup>e </sup>siècle, et des années 1999 et 2000, et que de tels traitements des données en fonction des dates tiendront compte du calcul des années bissextiles, lorsqu'ils seront utilisés conformément à la documentation fournie par l'entrepreneur et acceptée par le Canada.</p>
+<p>2. Les items sous garantie incluent mais ne se limitent pas:</p>
+<ul>
+<li>aux processeurs</li>
+<li>à la mémoire (RAM, ROM, PROM, EPROM, etc.)</li>
+<li>aux logiciels ou micrologiciels</li>
+<li>aux systèmes fiables ou à l'architecture</li>
+<li>aux circuits intégrés.</li>
+</ul>
+<p>3. À cette fin, l'entrepreneur garantit également que le traitement des données en fonction des dates n'entraînera pas, de quelque façon que ce soit, la non-conformité des biens aux exigences contractuelles, avant, pendant ou après l'an 2000. Le Canada peut, avant l'exécution des services et sans frais supplémentaires, demander à l'entrepreneur de faire une démonstration, des techniques et des processus d'essai qu'il compte utiliser pour se conformer à toutes les obligations décrites dans le présent document.</p>
+<p>4. Ces obligations s'appliquent aux services fournis par l'entrepreneur et ses sous-traitants dans le cadre de l'exécution du contrat.</p>
+<p>5. Les garanties contenues dans ce document sont distinctes des autres garanties mentionnées dans le contrat et ne sont assujetties à aucune stipulation d'exonération de garantie contenue dans le contrat, ses annexes, ses appendices ou dans tout autre document incorporé au contrat par référence.</p>
+<p>6. Nonobstant ce qui précède, les dispositions établies dans les conditions générales supplémentaires, dans la partie intitulée « garantie » s'appliquent, le cas échéant.</p>
+<p>7. Les garanties décrites dans le présent document prendront fin :</p>
+<ol type="a">
+<li>le 30 juin 2000;</li>
+<li>à la fin de la période de six mois suivant l'acceptation du matériel, des logiciels ou des micrologiciels; le délai le plus éloigné étant retenu.</li>
+</ol>
+<hr/>
+<h3>SERVICES PORTANT SUR LES SYSTÈMES DE TRAITEMENT ÉLECTRONIQUES</h3>
+<p><strong>Remarques :</strong> Utiliser la clause suivante si, ou lorsque, les produits décrits dans les documents contractuels sont des services non directement liés à l'achat de systèmes en matière de technologie de l'information (TI).</p>
+<p>K0044D (__/__/98) Garantie relative à l'an 2000 - services non directement liés aux approvisionnements en matière de TI</p>
+<p>1. L'entrepreneur garantit que tous les services fournis dans le cadre de ce contrat seront conformes aux exigences contractuelles, en ce qu'ils traiteront automatiquement et avec exactitude toutes les dates et les données connexes en effectuant notamment le calcul, la comparaison et le classement de ces données, qu'elles datent du XX<sup>e</sup> ou du XXI<sup>e </sup>siècle, et des années 1999 et 2000, et que de tels traitements des données en fonction des dates tiendront compte du calcul des années bissextiles, lorsqu'ils seront utilisés conformément à la documentation fournie par l'entrepreneur et acceptée par le Canada. À cette fin, l'entrepreneur garantit également que le traitement des données en fonction des dates n'entraînera pas, de quelque façon que ce soit, du matériel, la non-conformité des logiciels ou des micrologiciels aux exigences contractuelles, avant, pendant ou après l'an 2000. Le Canada peut, avant l'exécution des services et sans frais supplémentaires, demander à l'entrepreneur de faire une démonstration, des techniques et des processus d'essai qu'il compte utiliser pour se conformer à toutes les obligations décrites dans le présent document.</p>
+<p>2. Les items sous garantie incluent mais ne se limitent pas:</p>
+<ul>
+<li>aux processeurs</li>
+<li>à la mémoire (RAM, ROM, PROM, EPROM, etc.)</li>
+<li>aux logiciels ou micrologiciels</li>
+<li>aux systèmes fiables ou à l'architecture</li>
+<li>aux circuits intégrés.</li>
+</ul>
+<p>3. Ces obligations s'appliquent aux services fournis par l'entrepreneur et ses sous-traitants dans le cadre de l'exécution du contrat. Sous réserve d'exigences contractuelles précises, les obligations contenues dans le présent document ne s'appliquent pas aux systèmes de traitement électroniques appartenant au gouvernement et fournis par lui, à moins d'indication contraire dans le contrat.</p>
+<p>4. Les garanties contenues dans ce document sont distinctes des autres garanties mentionnées dans le contrat et ne sont assujetties à aucune stipulation d'exonération de garantie contenue dans le contrat, ses annexes, ses appendices ou dans tout autre document incorporé au contrat par référence. Nonobstant ce qui précède, les dispositions établies dans les conditions générales supplémentaires, dans la partie intitulée « garantie » s'appliquent, le cas échéant.</p>
+<p>5. Les garanties décrites dans le présent document prendront fin :</p>
+<ol type="a">
+<li>le 30 juin 2000;</li>
+<li>à la fin de la période de six mois suivant l'acceptation du matériel, des logiciels ou des micrologiciels; le délai le plus éloigné étant retenu.</li>
+</ol>
+<h2>Annexe B</h2>
+<h3>CHANGEMENTS AU GUIDE DES APPROVISIONNEMENTS</h3>
+<h3>Garantie relative à l'an 2000</h3>
+<p>6.332 (__/__/98) Pour ce qui est des achats de biens ou de services portant sur des travaux de traitement relatifs à la date et effectués avant, pendant ou après l'an 2000, l'agent de négociation des contrats doit reproduire, dans les invitations à soumissionner, les contrats et les offres à commandes, une ou plusieurs des clauses pertinentes suivantes, extraites du guide des CCUA :</p>
+<ol type="a">
+<li>clause K0039D pour les biens particuliers comme le matériel, les logiciels ou les micro programmes;</li>
+<li>clause K0040D pour les services de gestion des installations ou d'impartition;</li>
+<li>clause K0041D pour les services d'intégration des systèmes;</li>
+<li>clause K0042D pour les services;</li>
+<li>clause K0043D pour les biens non directement liés aux approvisionnements en matière de technologie de l'information (TI);</li>
+<li>clause K0044D pour les services non directement liés aux approvisionnements en matière de TI.</li>
+</ol>
+<p>Dans le cas des contrats ou des offres à commandes faisant appel à des fournisseurs uniques ou sans substitution et portant sur plusieurs produits, lorsque le fournisseur déclare que la garantie de conversion au nouveau millénaire ne s'applique pas à certains produits, l'agent de négociation des contrats doit désigner ces produits dans le contrat ou dans l'offre à commandes.</p>
+<p>Lorsqu'on fait appel à la concurrence, la clause de garantie de conversion au nouveau millénaire doit être incluse comme clause obligatoire dans le document de sollicitation.</p>
+<p>Pour éviter toute ambiguïté au sujet des obligations des entrepreneurs à l'égard des clauses approuvées de la garantie de conversion au nouveau millénaire, en situations de source unique ou d'aucun succédané, on doit respecter les pratiques suivantes lorsque l'agent de négociation des contrats négocie des modifications à apporter à ces clauses : les clauses modifiées doivent être examinées par les Services juridiques; le ministère qui lance la demande d'achat doit les accepter par écrit, selon les modalités ci-dessus; le titre de la clause ne doit pas comprendre les termes « Garantie de conversion au nouveau millénaire » ou « Garantie de conversion à l'an 2000 ».</p>
+<p>Dans les cas où un client demande que les clauses de la garantie de conversion au nouveau millénaire ne soient pas reproduites dans ses documents d'achat (par exemple lorsqu'on ne se sert pas d'un produit, d'une application ou de services connexes pour effectuer le traitement relatif à la date), le personnel des achats doit accéder à cette demande, à la condition que le directeur général de l'informatique ou son homologue auprès du ministère qui lance la demande d'achat donne par écrit des instructions à cette fin.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

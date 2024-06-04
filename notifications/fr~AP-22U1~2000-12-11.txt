@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-22U1cont" name="cont"><br/>
+AP-22U1: Date d'échéance des clauses de garantie de Y2K</a></h1> <div class="region region-site-wide-message">
+<section id="AP-22U1site-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-22U1site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-22U1site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 11 décembre 2000</h2>
+<p>Le Conseil du trésor a conclu que rien n'exige l'inclusion des clauses de garantie relative à l'an 2000 du CCUA dans les contrats et les offres à commandes, sauf si des travaux de réparation résiduels sont envisagés ou en cours concernant des biens ou des services qui nécessitaient une vérification du traitement de date avant, pendant ou après le passage à l'an 2000.</p>
+<p>Voici la liste des clauses du guide des CCUA qui ont été mises en œuvre pour les acquisitions susceptibles d'être touchées par le passage à l'an 2000. Jusqu'à nouvel ordre, ces clauses demeurent en vigueur pour les travaux de réparation résiduels :</p>
+<ul>
+<li>K0039D Garantie relative à l'an 2000 biens</li>
+<li>K0040D Garantie relative à l'an 2000 gestion des installations ou impartition</li>
+<li>K0041D Garantie relative à l'an 2000 intégration des systèmes</li>
+<li>K0042D Garantie relative à l'an 2000 services</li>
+<li>K0043D Garantie relative à l'an 2000 biens non directement liés aux approvisionnements en matière de TI</li>
+<li>K0044D Garantie relative à l'an 2000 services non directement liés aux approvisionnements en matière de TI</li>
+<li>Z0615T Garantie relative à l'an 2000</li>
+</ul>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

@@ -1,0 +1,344 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Introduction</h2>
+<p>L'avis relatif aux politiques (AP)-91 vise à mettre à  jour les instructions à l'intention des agents de négociation des contrats sur  la marche à suivre pour aviser les soumissionnaires, les offrants ou les  fournisseurs non retenus et leur fournir un compte rendu, ainsi que la  divulgation d'information.</p>
+<h2>Contexte</h2>
+<p>Ces modifications découlent de l'examen des pratiques  d'approvisionnement du gouvernement réalisé par le Bureau de l'ombudsman de  l'approvisionnement (BOA). Le <abbr title="Bureau de l'ombudsman de l'approvisionnement">BOA</abbr> est une organisation indépendante ayant un  mandat pangouvernemental, qui est défini dans la <em>Loi sur le ministère des Travaux publics et des Services  gouvernementaux</em>. Dans le cadre de son mandat, le <abbr title="Bureau de l'ombudsman de l'approvisionnement">BOA</abbr> examine les pratiques  d'acquisition de biens et de services des ministères fédéraux pour en évaluer  l'équité, l'ouverture et la transparence, et pour formuler des recommandations  visant à les améliorer. Cet examen a permis de faire des recommandations sur la  manière d'améliorer le processus des comptes rendus en se fondant sur les  commentaires reçus des fournisseurs et de la collectivité de  l'approvisionnement.</p>
+<h2>Date d'entrée en  vigueur</h2>
+<p>Le présent <abbr title="Avis relatifs aux politiques">AP</abbr> entre en vigueur  immédiatement.</p>
+<h2>Révision à la politique actuelle</h2>
+<p>Selon les  recommandations du <abbr title="Bureau de l'ombudsman de l'approvisionnement">BOA</abbr>, les instructions sur la marche à suivre en matière de  compte rendu ont été révisées afin de renforcer les liens entre les  fournisseurs et le gouvernement. Les changements importants suivants sont  apportés aux procédures :</p>
+<ol class="double-space" type="a">
+<li>Les fournisseurs seront informés de leur option de  demander un compte rendu en incluant dans chaque demande de soumissions et avis  de projet de marché de l'information sur les contraintes de temps, les  procédures et la personne ressource.</li>
+<li>Les agents de négociation des contrats informeront les  fournisseurs, sur demande seulement, de leurs options de faire appel au  Tribunal canadien du commerce extérieur (TCCE), au <abbr title="Bureau de l'ombudsman de l'approvisionnement">BOA</abbr> ou à d'autres procédures  judiciaires s'ils ne sont pas satisfaits avec le processus d'achat.</li>
+<li>Les instructions fournies aux agents de négociation  des contrats sur les comptes rendus, ainsi que les modèles de lettres de  regret.</li>
+<li>Des instructions sont maintenant fournies aux agents  de négociation des contrats sur les différentes options de donner les comptes  rendus aux soumissionnaires, offrants ou fournisseurs (c.-à-d. par écrit, par  téléphone ou en personne).</li>
+<li>La directive sur les échéanciers est fournie pour les  demandes et la présentation de comptes rendus, ainsi que pour informer les  soumissionnaires des demandes de soumissions annulées.</li>
+</ol>
+<p>Les révisions  détaillées sont contenues aux annexes suivantes :</p>
+<p><a href="#AP-91ann-a">Annexe  A</a> : contient les  changements apportés au <em>Guide des  approvisionnements</em> (GDA). Les procédures 5.177, 7B.180, 7D.467, 7F.705, 7F.719 du présent <abbr title="Guide des approvisionnements">GDA</abbr> sont supprimées  et les directives de cet <abbr title="Avis relatifs aux politiques">AP</abbr> s'appliquent.</p>
+<p><a href="#AP-91ann-b">Annexe B</a> : comprend deux exemples de lettres de  regret :</p>
+<p>Annexe 7.1 : Modèles de lettres de regret</p>
+<ul>
+<li>Appendice A : Lettre de regret adressée aux soumissionnaires, offrants ou  fournisseurs non retenus – soumission, offre ou arrangement <strong>recevable</strong></li>
+<li>Appendice B : Lettre  de refus adressée aux soumissionnaires, offrants ou fournisseurs non retenus – soumission,  offre ou arrangement <strong>non recevable</strong></li>
+</ul>
+<p><a href="#AP-91ann-c">Annexe C</a> : comprend les changements effectués à la section 2,  Modèles, du guide des <em>Clauses et  conditions uniformisées d'achat</em> : 2T-LDV1, 2T-MED1, 2T-HIGH1, 2T-RFSO1  et 2T-RFSA1, en ajoutant l'information pertinente sur les « comptes  rendus ».</p>
+<h3>Personnes-ressources</h3>
+<p>Pour plus de renseignements, communiquer avec Heather Bartlett, par téléphone au 819-956-0912 ou par courriel à : <a href="mailto:heather.bartlett@tpsgc-pwgsc.gc.ca" rel="external">heather.bartlett@tpsgc-pwgsc.gc.ca</a>;  ou avec Anne Gauthier, par téléphone au 819-956-1025,  ou par courriel à <a href="mailto:Anne.Gauthier2@tpsgc-pwgsc.gc.ca" rel="external">Anne.Gauthier2@tpsgc-pwgsc.gc.ca</a>.</p>
+<h2 id="AP-91ann-a">Annexe A</h2>
+<h3>Changements  au nouveau guide des approvisionnements</h3>
+<p><em>Le système de numérotation des articles ci-dessous correspond à  celui du nouveau Guide des approvisionnements, dont la parution est prévue en  janvier 2010.</em></p>
+<h4>Chapitre 4 – Processus de demandes de soumissions</h4>
+<h5 id="AP-91a-4-10-15">4.10.15 Demande de soumissions</h5>
+<p>(2010-xx-xx)</p>
+<ol class="double-space" type="a">
+<li>Une demande de  soumissions peut être utilisée pour les besoins de faible valeur et de  complexité moyenne et élevée, et lorsque la sélection des soumissionnaires est  fondée sur le prix ou sur le meilleur rapport qualité-prix. Les instructions uniformisées <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat/1/2003">2003</a> et <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat/1/2004">2004</a> du guide des <em>Clauses et conditions uniformisées d'achat</em> doivent être utilisées dans les demandes de soumissions pour les biens et(ou)  les services. Les modèles <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat/2/2T-LDV1">2T-LDV1</a>, <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat/2/2T-MED1">2T-MED1</a> et <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat/2/2T-HIGH1">2T-HIGH1</a> doivent être utilisés lorsqu'on établit une demande de  soumissions soumise aux procédures décrites dans le document 2T-PROC1.</li>
+<li>La demande de propositions (DP) est une forme de  demande de soumissions visant les besoins complexes, et est utilisée lorsque la  sélection des soumissionnaires est fondée sur le meilleur rapport qualité  plutôt que sur le prix seulement. On devrait avoir recours à la <abbr title="Demande de propositions">DP</abbr> lorsque, en  raison de la nature du besoin, les fournisseurs sont invités à proposer une  solution à un problème, un besoin ou un objectif, et que le choix de  l'entrepreneur repose sur l'efficacité de la solution proposée.</li>
+<li>Les soumissions  doivent être évaluées et le fournisseur retenu doit être choisi conformément à  certains critères et méthodes précisés dans la demande de soumissions.</li>
+<li>Une demande de  soumissions peut être émise pour solliciter des soumissions au moyen d'une  annonce publique sur le <abbr title="Service électronique d'appels d'offres du gouvernement">SEAOG</abbr>, d'une invitation directe aux fournisseurs  sélectionnés au moyen d'une liste de fournisseurs si cela est permis, ou d'une  invitation à un fournisseur unique si les conditions du processus non  concurrentiel ont été remplies.</li>
+<li>Les réponses à la  demande de soumissions peuvent donner lieu à des négociations préalables à  l'attribution du contrat lorsque la demande de soumissions précise le droit de  négocier conformément aux accords commerciaux internationaux.</li>
+<li>Souvent, la  préparation des soumissions coûte cher aux fournisseurs. Pour maintenir ces coûts le plus bas possible tout en  assurant un libre accès aux fournisseurs éventuels, on devrait émettre des  demandes de soumissions en deux étapes.
+    <ol class="double-space" type="i">
+<li>à la première étape,  on demande aux fournisseurs d'envoyer une lettre d'intérêt avec leurs  qualifications qui serviront à établir une liste restreinte de fournisseurs. À  la seconde étape, on demande aux fournisseurs inscrits sur cette liste de  présenter des soumissions détaillées;</li>
+<li>les fournisseurs qui  ne figurent pas sur la liste restreinte peuvent quand même obtenir la demande  de soumissions et présenter des soumissions.</li>
+</ol>
+</li>
+<li>Un  processus semblable peut être approprié lorsqu'on a identifié un grand nombre  de fournisseurs éventuels. Lorsqu'ils réalisent un processus  d'approvisionnement en deux étapes, les agents de négociation des contrats  doivent suivre la procédure exigée dans le cadre de l'Accord de libre-échange  nord-américain (ALENA) et de l'Accord sur les marchés publics de l'Organisation  mondiale du commerce (AMP-OMC) pour les demandes de soumissions sélectives.</li>
+<li>Une  demande de soumissions doit contenir, au minimum, les renseignements  suivants :
+    <ol class="double-space" type="i">
+<li>une  définition claire du besoin;</li>
+<li>les  instructions à l'intention des soumissionnaires;</li>
+<li>les  instructions pour la préparation des soumissions;</li>
+<li>les  procédures d'évaluation clairement définies;</li>
+<li>les  exigences relatives aux attestations;</li>
+<li>les  exigences en matière de sécurité et financières;</li>
+<li>validité  de la soumission;</li>
+<li>les  clauses du contrat subséquent;</li>
+<li> les instructions informant les fournisseurs qu'ils  peuvent demander des renseignements sur les résultats de la demande de  soumissions et sur l'évaluation de leur soumission. (Voir l'article  <a href="#AP-91a-7-40">7.40</a> pour les renseignements à inclure dans les comptes  rendus.).</li>
+</ol>
+</li>
+</ol>
+<h5 id="AP-91a-4-10-20">4.10.20 <strong>Demande d'offres à  commandes</strong></h5>
+<p>(2010-xx-xx)</p>
+<ol start="4" type="a">
+<li value="4">Une  <abbr title="Demande d'offres à commandes">DOC</abbr> devrait contenir, au minimum, les renseignements suivants :
+<ol class="double-space" type="i">
+<li>une définition claire du besoin et la période  durant laquelle on peut passer les commandes subséquentes;</li>
+<li>l'information sur le nombre d'offres à commandes  dont on veut autoriser l'utilisation;</li>
+<li>les instructions pour  la préparation des offres;</li>
+<li>les critères  d'évaluation précis;</li>
+<li>des procédures d'évaluation  et une méthode de sélection clairement définies;</li>
+<li>les instructions informant les offrants qu'ils peuvent  demander des renseignements sur les résultats de la <abbr title="Demande d'offres à commandes">DOC</abbr> et sur l'évaluation de  leur offre.  (Voir l'article  <a href="#AP-91a-7-40">7.40</a> pour les renseignements à inclure dans les comptes  rendus.);</li>
+<li>la méthode précise de classement, le cas échéant;</li>
+<li>un  processus de commande subséquente clairement défini, y compris la méthode  d'attribution des tâches pour les offres à commandes multiples;</li>
+<li>l'avis  aux offrants en ce qui concerne la divulgation de leurs prix unitaires (voir les conditions  générales <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat/3/2005">2005</a>) du guide des <abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr>);</li>
+<li>les conditions  applicables à la <abbr title="Demande d'offres à commandes">DOC</abbr>;</li>
+<li>les conditions applicables à l'offre à commandes;</li>
+<li>les clauses du contrat subséquent applicables aux  commandes subséquentes;</li>
+<li>une estimation du volume des biens ou des services à  commander, dans la mesure du possible.</li>
+</ol>
+</li>
+</ol>
+<h5 id="AP-91a-4-10-25">4.10.25 Demande  d'arrangements en matière d'approvisionnement</h5>
+<p>(2010-xx-xx)</p>
+<p>c. Une  <abbr title="Demande d'arrangements en matière d'approvisionnement">DAMA</abbr> doit contenir, au minimum, les renseignements suivants :</p>
+<ol class="double-space" type="i">
+<li>une  définition claire du besoin;</li>
+<li>les  instructions à l'intention des fournisseurs;</li>
+<li>les  instructions pour la préparation des arrangements;</li>
+<li>les  procédures d'évaluation et la méthode de sélection clairement définies pour  l'établissement de la liste des fournisseurs qualifiés;</li>
+<li>les  exigences relatives aux attestations;</li>
+<li>les  conditions pertinentes à l'arrangement en matière d'approvisionnement, y  compris les modalités de la demande de soumissions;</li>
+<li>les  clauses du contrat subséquent applicables à tout contrat subséquent à chaque  demande de soumissions;</li>
+<li>les instructions informant les fournisseurs qu'ils  peuvent demander des renseignements sur les résultats de la <abbr title="Demande d'arrangements en matière d'approvisionnement">DAMA</abbr> et sur  l'évaluation de leur offre. (Voir l'article <a href="#AP-91a-7-40">7.40</a> pour les renseignements à inclure dans les comptes  rendus).</li>
+</ol>
+<h5 id="AP-91a-4-75-15">4.75.15 Avis de projet de  marchés</h5>
+<p>(2010-xx-xx)</p>
+<ol class="double-space" type="a">
+<li>L'avis concernant la possibilité d'une demande de  soumissions est diffusé par l'intermédiaire d'un avis de projet de marchés  (APM) affiché sur le <abbr title="Service électronique d'appels d'offres du gouvernement">SEAOG</abbr>.</li>
+<li>L'<abbr title="Avis de projet de marchés">APM</abbr> est un résumé de la demande de  soumissions qui décrit brièvement le besoin et fournit des renseignements  pertinents qui aideront les soumissionnaires éventuels à définir leur intérêt à  combler le besoin et leur capacité de satisfaire aux conditions essentielles de  participation. Le cas échéant, les agents de négociation des contrats doivent  indiquer dans l'<abbr title="Avis de projet de marchés">APM</abbr> quels accords commerciaux ou autres ententes s'appliquent  ou si des restrictions en matière de contenu canadien s'appliquent. (Par exemple,  les demandes de soumissions peuvent préciser que le besoin a été réservé  conformément à la Stratégie d'approvisionnement auprès des entreprises  autochtones ou restreint aux fournisseurs établis au Canada en raison de  l'exception en matière de sécurité nationale. Dans ces cas, seuls les  fournisseurs autochtones ou les fournisseurs établis au Canada, respectivement,  seraient éligibles à soumissionner.)</li>
+<li>L'<abbr title="Avis de projet de marchés">APM</abbr> doit indiquer si des documents additionnels  seront expédiés ou sont disponibles sous pli séparé.</li>
+<li>De nombreuses unités d'achat ont établi des modèles  pour aider les agents de négociation des contrats à élaborer les <abbr title="Avis de projet de marchés">APM</abbr>. Les  agents de négociation des contrats devraient consulter leurs gestionnaires afin  de déterminer si les modèles sont couramment utilisés dans leur unité d'achat.</li>
+<li>L'<abbr title="Avis de projet de marchés">APM</abbr> devrait aviser les fournisseurs de leur option  de demander un compte rendu. Pour des exemples de textes suggérés, consulter  les modèles <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat/2/2T-LDV1">2T-LDV1</a>, <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat/2/2T-MED1">2T-MED1</a>, <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat/2/2T-HIGH1">2T-HIGH1</a>, <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat/2/2T-RFSO1">2T-RFSO1</a> et <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat/2/2T-RFSA1">2T-RFSA1</a> du guide des <abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr>.</li>
+<li>Le même énoncé doit figurer dans tous les avis  (notamment les journaux).</li>
+</ol>
+<h5 id="AP-91a-4-100">4.100 Annulation d'une  demande de soumissions et émission d'une nouvelle</h5>
+<p>(2010-xx-xx)</p>
+<ol start="3" type="a">
+<li value="3">Si l'annulation  intervient après la date de clôture, les fournisseurs devraient être informés  dans un délai de 10 jours civils suivant l'annulation de la demande.</li>
+</ol>
+<p>*****************</p>
+<h4 id="AP-91a-7">Chapitre 7 – Attribution de  contrats et émission d'offres à commandes et d'arrangements en matière  d'approvisionnement</h4>
+<h5 id="AP-91a-7-35">7.35 Avis aux  soumissionnaires, offrants, fournisseurs non retenus</h5>
+<p>(2010-xx-xx)</p>
+<p>Les agents de négociation des contrats devraient  informer les soumissionnaires, les offrants ou les fournisseurs qu'ils n'ont  pas été retenus dès que possible après l'attribution du contrat ou l'émission  d'une offre à commandes ou d'un arrangement en matière d'approvisionnement. Des  exemples de lettres de regret sont fournis à <a href="#AP-91ann-7-1">Annexe 7.1</a>.</p>
+<h5 id="AP-91a-7-40">7.40 Comptes rendus à  l'intention des soumissionnaires, offrants, fournisseurs non retenus</h5>
+<p>(2010-xx-xx)</p>
+<ol class="double-space" type="a">
+<li>Il faudrait informer les soumissionnaires, les  offrants ou les fournisseurs qu'ils seront avisés des résultats de la demande  de soumissions après l'attribution du marché (sur demande). Chaque demande de  soumissions devrait comporter un avis informant les soumissionnaires, les  offrants ou les fournisseurs qu'ils peuvent demander des renseignements sur les  résultats de la demande ou sur l'évaluation de leur soumission.</li>
+<li>Les comptes rendus peuvent fournir des conseils aux  soumissionnaires, offrants ou fournisseurs sur la manière d'améliorer leurs  soumissions en vue de marchés ultérieurs. Les renseignements fournis devraient  donc être suffisants pour permettre aux soumissionnaires, offrants ou  fournisseurs de bien comprendre les raisons du rejet de leur soumission ou  offre, et possiblement les aider à répondre à de futures demandes de  soumissions. Les comptes rendus démontrent  également aux soumissionnaires, offrants ou fournisseurs que le processus de  marchés publics du gouvernement fédéral est juste, ouvert et transparent. Grâce  aux comptes rendus, les agents de négociation des contrats peuvent également  améliorer les prochaines demandes de soumissions en étudiant les commentaires  formulés par les soumissionnaires, les offrants ou les fournisseurs.</li>
+<li>Les soumissionnaires, les offrants ou les fournisseurs  devraient demander des comptes rendus dans les 15 jours ouvrables suivant la  réception de l'avis les informant qu'ils n'ont pas été retenus. Il faut rendre  les renseignements accessibles aux soumissionnaires, offrants ou fournisseurs  non retenus le plus tôt possible, mais seulement après l'attribution d'un  contrat ou l'émission d'une <abbr title="Offre à commandes">OC</abbr> ou d'un <abbr title="Arrangement en matière d'approvisionnement">AA</abbr>. L'agent de négociation des contrats  devrait s'efforcer de communiquer cette information dans les 10 jours ouvrables  de la date de réception de la demande. Il faut faire preuve de prudence en  communiquant ces renseignements afin de protéger les renseignements  confidentiels relatifs à d'autres soumissions, offres ou arrangements. La  divulgation de renseignements relatifs à d'autres soumissions, offres ou  arrangements par les agents de négociation des contrats doit être conforme à  l'information portant sur le sujet décrite à l'article 7.45. Les agents de  négociation des contrats devraient conserver un dossier des renseignements  fournis dans le compte rendu, ce qui comprend notamment le procès-verbal d'une  réunion avec les soumissionnaires/offrants/fournisseurs ou tout commentaire de  ces derniers.</li>
+<li>Les comptes rendus peuvent être communiqués de trois  façons :
+    <ol class="double-space lower-roman">
+<li>par écrit,</li>
+<li>par téléphone;</li>
+<li>en personne.</li>
+</ol>
+</li>
+<li>L'agent  de négociation de contrats devrait utiliser la méthode qui correspond le mieux  à la complexité et à la valeur de l'achat; toutefois, l'agent de négociation  des contrats devrait fournir au moins un compte rendu par écrit, ce dernier  pouvant être accompagné d'une lettre de regret. Le compte rendu rédigé par  l'agent de négociation des contrats devrait renseigner le soumissionnaire,  l'offrant ou le fournisseur sur les personnes-ressources pouvant être jointes  pour obtenir de plus amples renseignements. Si un soumissionnaire, un offrant  ou un fournisseur demande de l'information supplémentaire, l'agent de  négociation des contrats devrait utiliser la méthode la plus efficace pour  fournir cette information, que ce soit par écrit, par téléphone ou en personne.  Il devrait également tenir compte de toute préférence du soumissionnaire, de  l'offrant ou du fournisseur à cet égard ainsi que d'autres facteurs comme la  complexité et la valeur de l'achat.</li>
+<li>Un  compte rendu devrait comprendre :
+    <ol class="double-space" type="i">
+<li>le  nom du soumissionnaire, de l'offrant ou du fournisseur retenu;</li>
+<li>la  valeur du contrat attribué ou de l'<abbr title="Offre à commandes">OC</abbr> ou de l'<abbr title="Arrangement en matière d'approvisionnement">AA</abbr> émis;</li>
+<li>le  résultat global de l'évaluation du soumissionnaire, de l'offrant ou du  fournisseur retenu;</li>
+<li>un  résumé des raisons pour lesquelles le soumissionnaire, l'offrant ou le  fournisseur n'a pas été retenu, en renvoyant aux critères d'évaluation et à la  méthode de sélection;</li>
+<li>s'il y a lieu, des  données très générales sur les avantages de l'offre ou de la soumission  retenue, en veillant à ne pas divulguer de renseignements commerciaux  confidentiels.</li>
+</ol>
+</li>
+<li>Si les soumissionnaires, les offrants ou les  fournisseurs le demandent, les agents de négociation des contrats devraient  fournir les données générales suivantes concernant les organismes judiciaires  ou quasijudiciaires auxquelles s'adresser en cas de contestation. Pour tout  achat, un fournisseur peut avoir recours à l'un des moyens suivants s'il désire  contester un processus d'achat :
+    <ol class="double-space" type="i">
+<li>Le <strong>Tribunal canadien du  commerce extérieur (TCCE)</strong> : La question de  savoir si le <abbr title="Tribunal canadien du commerce extérieur">TCCE</abbr> a ou n'a pas la compétence pour un besoin particulier  dépendra des facteurs tels que l'institution fédérale chargée de l'achat, la  valeur estimative de l'achat, ainsi que de la nature des biens, des services ou  des services de construction dont il est question.
+          <p>De plus amples renseignements peuvent être obtenus en  visitant le site Web du <a href="http://www.citt.gc.ca/fr" rel="external"><abbr title="Tribunal canadien du commerce extérieur">TCCE</abbr></a> et la page Web « Comment  déposer une plainte de marchés publics ».</p>
+</li>
+<li>Le <strong>Bureau de l'ombudsman  de l'approvisionnement (BOA)</strong> : Si la valeur de  l'achat est inférieur au seuil minimal établit en vertu de l'<em>Accord sur le commerce intérieu</em>r, le <abbr title="Bureau de l'ombudsman de l'approvisionnement">BOA</abbr>  peut avoir juridiction à procéder à un examen.
+        <p>De plus amples renseignements peuvent être obtenus en  visitant le site Web du <a href="http://opo-boa.gc.ca/index-fra.html" rel="external"><abbr title="Bureau de l'ombudsman de l'approvisionnement">BOA</abbr></a> et la page  Web « <a href="http://opo-boa.gc.ca/plainte-complaint-fra.html" rel="external">Déposer  une plainte</a> ».</p>
+</li>
+<li><strong>Demande de révision judiciaire par la Cour fédérale</strong> :  Visiter le site Web de la <a href="http://cas-ncr-nter03.cas-satj.gc.ca/portal/page/portal/fc_cf_fr/Index" rel="external">Cour  d'appel fédérale</a> et la page Web « <a href="http://cas-ncr-nter03.cas-satj.gc.ca/portal/page/portal/fc_cf_fr/Litigants" rel="external">Information  pour plaideurs</a> ».</li>
+<li>Une <strong>action devant une  cour supérieure provinciale ou devant la Cour fédérale :</strong> Chaque province a sa propre cour supérieure.</li>
+</ol>
+<p><strong><em>NOTA</em></strong><em> :</em><br/>
+<em>Les fournisseurs  peuvent consulter un avocat afin de déterminer la méthode de contestation  appropriée.</em></p>
+<p><em>Les fournisseurs  doivent savoir qu'il existe des dates d'échéance strictes en ce qui a trait aux  contestations relatives aux soumissions, et les périodes varieront selon  l'endroit où les contestations auront lieu.</em></p>
+</li>
+<li>Un compte rendu écrit prend souvent la forme d'une  lettre de regret envoyée à chaque soumissionnaire, offrant ou fournisseur non  retenu. Si une lettre de regret sert de compte rendu pour satisfaire toute  obligation d'accords commerciaux, l'agent de négociation des contrats doit  invoquer les dispositions particulières des accords commerciaux applicables.  L'information qui devra être fournie pour satisfaire à cette obligation dépend  des circonstances.</li>
+<li>Si on a eu recours au surveillant de l'équité au cours  du processus d'évaluation, l'agent de négociation de contrats doit alors  l'aviser et demander qu'il soit présent lors de tous les comptes rendus  communiqués par téléphone ou en personne.</li>
+<li>Si un conseiller juridique accompagne le fournisseur  durant le compte rendu communiqué par téléphone ou en personne, l'agent de  négociation des contrats est tenu d'en informer les Services juridiques et de  discuter de leur participation lors du compte rendu.</li>
+</ol>
+<h5 id="AP-91a-7-45">7.45 Divulgation des  renseignements</h5>
+<p>(2010-xx-xx)</p>
+<ol class="double-space" type="a">
+<li>Les agents de  négociation des contrats peuvent communiquer de façon systématique les  renseignements suivants après l'attribution d'un contrat ou l'émission d'une  offre à commandes ou d'un arrangement en matière d'approvisionnement :
+    <ol class="double-space" type="i">
+<li>pour toutes les  demandes de biens et de services, le nom du soumissionnaire, de l'offrant ou du  fournisseur retenu et non retenus, qu'elles aient été déclarées recevables ou  non, ainsi que le prix global évalué du soumissionnaire, de l'offrant ou du  fournisseur retenu et le pointage final, s'il y a lieu. Puisque les  renseignements relatifs aux soumissionnaires, offrants ou fournisseurs qui sont  des individus pourraient être exclus en vertu de la <em>Loi sur la protection  des renseignements personnels</em>, les demandes d'information à leur sujet  devraient être envoyées au Bureau de l'accès à l'information et de protection  des renseignements personnels, comme cela est indiqué en 7.45b);</li>
+<li>pour toutes les  demandes de biens et de services assujetties au dépouillement public, les  renseignements qui ont été divulgués lors du dépouillement public des  soumissions, comme le nom de chaque soumissionnaire et le montant total de leur  soumission;</li>
+<li>les renseignements  relatifs aux prix unitaires et les taux de main-d'œuvre contenus dans les  offres à commandes (voir les instructions à l'article 7.45c.).</li>
+</ol>
+</li>
+<li>Les demandes de  renseignements énumérées ci-dessous portant sur les soumissions, les contrats,  les offres à commandes ou les arrangements en matière d'approvisionnement  devraient être transmises au <a href="http://www.psc-cfp.gc.ca/abt-aps/atip-aiprp/index-fra.htm" rel="external">Bureau de l'accès  à l'information et de la protection des renseignements personnels</a> :
+    <ol class="double-space" type="i">
+<li>le nom des  soumissionnaires ou des offrants qui sont des individus et le contenu de leur  soumission ou de leur offre, y compris les prix, car cette information pourrait  être exclue en vertu de la <em><a href="http://laws-lois.justice.gc.ca/fra/lois/P-21/index.html" rel="external">Loi sur la  protection des renseignements personnels</a></em>;</li>
+<li>les copies des  soumissions ou des offres, y compris les catalogues, les manuels et les listes  de prix;</li>
+<li>les copies de  contrats, de commandes d'achat ou d'offres à commandes, y compris les  catalogues, les manuels et les guides d'achat publiés par Travaux publics et  Services gouvernementaux Canada (TPSGC);</li>
+<li>les renseignements  relatifs aux soumissions et aux contrats lorsqu'il s'agit de besoins  classifiés;</li>
+<li>les renseignements  contenus dans les soumissions, les offres ou les arrangements annulés ou  remplacés par des soumissions ou des offres ultérieures;</li>
+<li>les renseignements  relatifs aux prix unitaires, lorsqu'il s'agit de contrats et de commandes  d'achat portant sur des biens et des services, ou sur la construction;</li>
+<li>tout autre  renseignement non visé par l'alinéa a) ci-dessus.</li>
+</ol>
+<p><em>Tout renseignement  non transmis au Bureau de l'accès à l'information et de la protection des  renseignements personnels devrait d'abord faire l'objet de discussions avec les  Services juridiques</em>.</p>
+</li>
+<li>Afin d'assurer  l'uniformité des renseignements qui sont diffusé au grand public, <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>  divulguera de façon systématique les prix unitaires et les taux de main-d'œuvre  qui sont indiqués dans les offres à commandes portant sur des biens et des  services. Les offrants doivent être informés de l'intention de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> de  divulguer les prix unitaires et les taux de main-d'œuvre contenus dans les  offres retenues au cas d'une offre à commandes subséquente. Les conditions  générales <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/standard-acquisition-clauses-and-conditions-manual/3/2005%26lang%3Dfra">2005</a> du guide des<em> Clauses et conditions  uniformisées d'achat </em>(CCUA) comprennent une disposition du même  genre.
+    <p><em>Il peut se présenter  des situations où les dispositions relatives à la divulgation d'information,  telles que décrites ci-haut, ne peuvent être appliquées. De telles situations  doivent être traitées au cas par cas et nécessiteront l'approbation du  gestionnaire ou d'une autorité supérieure, selon l'autorité d'approbation,  avant d'émettre la <abbr title="Demande d'offres à commandes">DOC</abbr> ou la <abbr title="Demande d'arrangements en matière d'approvisionnement">DAMA</abbr></em>.</p>
+</li>
+</ol>
+<h2 id="AP-91ann-b">Annexe B</h2>
+<h3 id="AP-91ann-7-1">Annexe 7.1 : Modèles  de lettres de regret</h3>
+<p>(2010-xx-xx)</p>
+<h4 id="AP-91ann-7-1-a"><strong>Appendice  A : Lettre  de regret adressée aux soumissionnaires, offrants ou fournisseurs non retenus –  soumission, offre ou arrangement recevable</strong></h4>
+<p><strong><em>Remarque  à l'agent de négociation des contrats</em></strong><em> : Étant donné que la méthodologie d'évaluation  diffère pour chaque achat, la lettre devra être modifiée selon les besoins  individuels. La lettre a été rédigée en supposant que le soumissionnaire,  l'offrant ou le fournisseur, bien que non retenu, sa soumission, offre ou  arrangement a toutefois été déclaré recevable puisqu'il a satisfait à toutes  les exigences obligatoires. Les agents de négociation des contrats devraient  utiliser l'autre lettre de regret figurant à l'Appendice B si la soumission, l'offre ou l'arrangement a  été déclaré non recevable.</em></p>
+<p>_______________(<strong><em>inscrire l'adresse du ministère</em></strong>)</p>
+<p>_______________(<strong><em>inscrire la date</em></strong>)</p>
+<p>_______________(<strong><em>inscrire le nom et l'adresse du fournisseur</em></strong>)</p>
+<p>À l'attention de :  _______________ (<strong><em>inscrire le nom du destinataire</em></strong>)</p>
+<p>Monsieur/Madame   _______________ (<strong><em>insérer le nom du destinatair</em>e</strong>),</p>
+<p><strong>Objet</strong> :  Numéro de demande de soumissions _______________ </p>
+<p>Merci de votre _______________  (<strong><em>insérer</em></strong> « soumission » <strong><em>ou</em></strong> « offre » <strong><em>ou</em></strong> « arrangement »)  présenté(e) en réponse à notre demande de _______________  (<strong><em>inscrire une courte description  des biens ou des services</em></strong>).</p>
+<p>Nous tenons à vous informer qu'un(e) _______________ (<strong><em>insérer</em></strong> « contrat », « offre à commandes (OC) » <strong><em>ou</em></strong> « arrangement en matière d'approvisionnement (AA) ») ne vous sera pas  _______________ (<strong><em>insérer</em></strong> « attribué(e) » <strong><em>ou</em></strong> « émis(e) »)  dans le cadre du présent besoin. Un(e) _______________ (<strong><em>insérer</em></strong> « contrat », « <abbr title="Offre à commandes">OC</abbr> » ou « <abbr title="Arrangement en matière d'approvisionnement">AA</abbr> ») a été _______________ (<strong><em>insérer</em></strong> « attribué(e) » <strong><em>ou</em></strong> « émis(e) ») pour  _______________ (<strong><em>insérer</em></strong> « la soumission » <strong><em>ou</em></strong> « l'offre »<strong><em> ou</em></strong> « l'arrangement ») présenté(e) par _______________ (<strong><em>inscrire le nom du  soumissionnaire, de l'offrant ou du fournisseur retenu</em></strong>) en réponse à la  demande de soumissions précitée. Le montant _______________ (<strong><em>insérer</em></strong> « du  contrat », « de l'<abbr title="Offre à commandes">OC</abbr> » <strong><em>ou</em></strong> « de l'<abbr title="Arrangement en matière d'approvisionnement">AA</abbr> ») attribué(e)  ou émis(e) est de _______________ (<strong><em>inscrire la valeur du contrat attribué ou de  l'<abbr title="Offre à commandes">OC</abbr> ou de l'<abbr title="Arrangement en matière d'approvisionnement">AA</abbr> émis(e)</em></strong>), excluant la  taxe sur les produits et services ou la taxe sur la vente harmonisée, selon le  cas.</p>
+<p>Bien que votre _______________ <em>(<strong>insérer</strong> « </em>soumission »<em> <strong>ou</strong> « </em>offre » <strong><em>ou</em></strong> « arrangement ») ait été déclaré(e) conforme aux exigences  obligatoires de la demande de soumissions, elle ne s'est pas classée au premier  rang en fonction de la méthodologie d'évaluation décrite dans la demande de  soumissions.</p>
+<p>À titre d'information et pour vous aider à répondre à  de futures demandes de soumissions, je vous informe que votre _______________ <em>(<strong>insérer</strong> </em>« soumission » <strong><em>ou</em></strong>« offre » <strong><em>ou</em></strong> « arrangement ») a été  évalué(e) de la façon suivante, comparativement à _______________ <em>(<strong>insérer</strong> </em>« la soumission » <strong><em>ou</em></strong> « l'offre »<strong><em> ou</em></strong> « l'arrangement ») retenu(e) :</p>
+<table class="basic">
+<caption><p>Tableau donnant la cotation par point obtenue par le soumissionaire retenu comparativement avec le soumissionnaire non retenu.</p></caption>
+<tbody><tr>
+<td> </td>
+<th scope="col">Points techniques</th>
+<th scope="col"><strong>Points financiers</strong></th>
+</tr>
+<tr>
+<th scope="row"><em>________ (<strong>insérer</strong> « </em>soumission » <strong>ou</strong> « offre »<strong><em> ou</em></strong> « arrangement »)  retenu(e)</th>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<th scope="row">Votre _______ <em>(<strong>insérer</strong> « </em>soumission<em> » <strong>ou</strong> « </em>offre » <strong><em>ou</em></strong> « arrangement »)</th>
+<td> </td>
+<td> </td>
+</tr>
+</tbody></table>
+<p>Je désire vous remercier d'avoir présenté votre  _______________ (<strong><em>insérer</em></strong> « soumission » <strong>ou</strong> « offre » <strong><em>ou</em></strong> « arrangement ») et de l'intérêt que vous avez manifesté pour être  fournisseur du gouvernement du Canada. Je vous sais gré de votre participation  et j'espère que vous continuerez de répondre aux demandes de soumissions de  Travaux publics et Services gouvernementaux Canada.</p>
+<p>Si vous souhaitez obtenir de plus amples  renseignements sur l'évaluation de votre _______________ (<strong><em>insérer </em></strong>« soumission » <strong>ou</strong> « offre » <strong><em>ou</em></strong> « arrangement »), n'hésitez pas à communiquer avec moi.</p>
+<p>_______________(<strong><em>insérer le nom de l'autorité contractante</em></strong>)<br/>
+Autorité contractante</p>
+<p>Téléphone : _____-_____-______ </p>
+<p>Courriel :   _______________ @tpsgc-pwgsc.gc.ca</p>
+<p>c.c. : _______________ <em>(<strong>insérer les  noms des personnes devant recevoir une copie</strong>)</em></p>
+<h4 id="AP-91ann-7-1-b"><strong>Appendice B</strong> : <strong>Lettre de regret  adressée au soumissionnaire, offrant ou fournisseur non retenu – soumission,  offre ou arrangement non recevable</strong></h4>
+<p><strong><em>Remarque  à l'agent de négociation des contrats</em></strong><em> : Étant donné que la méthodologie d'évaluation  diffère pour chaque achat, la lettre devra être modifiée selon les besoins  individuels. La lettre a été rédigée en supposant que la soumission, l'offre ou  l'arrangement a été déclaré non recevable puisqu'il n'a pas satisfait à une ou  plusieurs des exigences obligatoires. Les agents de négociation des contrats  devraient utiliser l'autre lettre de regret figurant à l'Appendice A si la  soumission, l'offre ou l'arrangement a été déclaré recevable, mais n'a pas été  classé au premier rang.</em></p>
+<p>_______________ (<strong><em>insérer la date</em></strong>)</p>
+<p>_______________ (<strong><em>insérer l'adresse du ministère</em></strong>)</p>
+<p>_______________ (<strong><em>insérer le nom et l'adresse du fournisseur</em></strong>)</p>
+<p>Monsieur/Madame  _______________ (<strong><em>insert name of addressee</em></strong>)</p>
+<p><strong>Objet</strong> : Numéro de demande de soumissions _______________ </p>
+<p>Merci de votre _______________  (<strong><em>insérer</em></strong> « soumission » <strong>ou</strong> « offre »<strong><em> ou</em></strong> « arrangement ») présenté(e) en réponse à notre  demande de _______________  (<strong><em>insérer une courte description des biens ou  des services</em></strong>).</p>
+<p>Nous tenons à vous informer qu'un(e) _______________ (<strong><em>insérer</em></strong> « contrat », « offre à commandes (OC) » <strong><em>ou</em></strong> « arrangement en matière d'approvisionnement (AA) » ne vous sera pas  _______________ <em>(<strong>insérer</strong> « </em>attribué(e)<em> » <strong>ou</strong> « </em>émis(e) ») dans le cadre du présent  besoin. _______________ (<strong><em>insérer</em></strong> « Un contrat » <strong><em>ou</em></strong> « Une<em> <abbr title="Offre à commandes">OC</abbr> » <strong>ou</strong> </em>« Un <abbr title="Arrangement en matière d'approvisionnement">AA</abbr> ») a  été _______________ (<strong><em>insérer</em></strong> « attribué(e) » <strong><em>ou</em></strong> « émis(e) ») pour  _______________ (<strong><em>insérer</em></strong> « la soumission » <strong>ou</strong> « l'offre » <strong><em>ou</em></strong> « l'arrangement »)  présenté(e) par _______________ (<strong><em>insérer le  nom du soumissionnaire, de l'offrant ou du fournisseur retenu</em></strong>) en  réponse à la demande de soumissions précitée. Le montant _______________(<strong><em>insérer</em></strong> « du contrat » <strong><em>ou</em></strong> « de l'<abbr title="Offre à commandes">OC</abbr> »<em> <strong>ou</strong></em> « de l'<abbr title="Arrangement en matière d'approvisionnement">AA</abbr> »)est  de_______________ $ (<strong><em>insérer  la valeur du contrat, de l'<abbr title="Offre à commandes">OC</abbr> ou de l'<abbr title="Arrangement en matière d'approvisionnement">AA</abbr></em></strong> attribué/émis(e)), excluant la taxe sur les produits et services et la taxe sur la  vente harmonisée, selon le cas.</p>
+<p>Comme l'indiquait la demande de soumissions, _______________  (<strong><em>insérer</em></strong> « la soumission » <strong><em>ou</em></strong> « l'offre »<strong><em> ou</em></strong> « l'arrangement ») devait être conforme à toutes et à chacune des  exigences obligatoires. Malheureusement, l'équipe d'évaluation a conclu que  votre _______________ (<strong><em>insérer</em></strong> « soumission » <strong><em>ou</em></strong> « offre »<strong><em> ou</em></strong> « arrangement ») ne répondait pas à toutes les exigences obligatoires  de la demande de soumissions, incluant celles qui suivent :</p>
+<p><em>_______________</em> (<strong><em>Insérer la description des éléments non  conformes</em></strong>)</p>
+<p>Afin de vous fournir des données sur les  caractéristiques et les avantages relatifs de <em>_______________</em> (<strong><em>insérer</em></strong> « la soumission »<em> <strong>ou</strong> </em>« l'<abbr title="Offre à commandes">OC</abbr> »<em> <strong>ou</strong> </em>« l'<abbr title="Arrangement en matière d'approvisionnement">AA</abbr> »)  retenu(e), je vous informe que <em>_______________</em> (<strong><em>insérer</em></strong><em> « </em>la soumission<em> » <strong>ou</strong> « </em>l'<abbr title="Offre à commandes">OC</abbr><em> » <strong>ou</strong> « </em>l'<abbr title="Arrangement en matière d'approvisionnement">AA</abbr> » <strong><em>ou</em></strong> « l'arrangement » retenu(e) a satisfait à toutes les conditions  obligatoires de la demande de soumissions et a obtenu le résultat requis pour  les critères cotés par point <em>(<strong>insérer  le tableau ci-dessous, si applicable</strong></em>), comme suit :</p>
+<table class="basic">
+<caption><p>Tableau donnant la cotation par point obtenue par le soumissionaire retenu comparativement avec le soumissionnaire non retenu.</p></caption>
+<tbody><tr>
+<td> </td>
+<th scope="col">Points techniques</th>
+<th scope="col"><strong>Points financiers</strong></th>
+</tr>
+<tr>
+<th scope="row"><em>________ (<strong>insérer</strong> « </em>soumission » <strong>ou</strong> « offre »<strong><em> ou</em></strong> « arrangement »)  retenu(e)</th>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<th scope="row">Votre _______ <em>(<strong>insérer</strong> « </em>soumission<em> » <strong>ou</strong> « </em>offre » <strong><em>ou</em></strong> « arrangement »)</th>
+<td> </td>
+<td> </td>
+</tr>
+</tbody></table>
+<h5><strong>Instruction à l'agent de négociation des  contrats</strong> :</h5>
+<ol>
+<li><em>Si vous n'avez pas  attribué de pointage à la soumission ou l'offre parce qu'elle a été rejetée tôt  dans le processus, ajoutez la phrase suivante (i.e. Votre _______________) et supprimez  la seconde rangée du tableau qui précède (i.e. Votre _______________).</em></li>
+<li><em>Si vous fournissez au  soumissionnaire, à l'offrant ou au fournisseur non retenu les points obtenus,  supprimez la phrase suivante (i.e. Votre _______________)</em>.</li>
+</ol>
+<p>Votre <em>_______________</em> (<strong><em>insérer</em></strong>« soumission » <strong>ou</strong> « offre »<strong><em> ou</em></strong> « arrangement ») ayant été déclaré(e) non recevable, elle a été  rejeté(e) et le Canada n'a pas procédé à la poursuite de son évaluation et, par  conséquent, n'a pas déterminé les points techniques pour votre <em>_______________</em> (<strong><em>insérer</em></strong>« soumission » <strong>ou</strong> « offre »<strong><em> ou</em></strong> « arrangement »).</p>
+<p>Je désire vous remercier d'avoir présenté votre  <em>_______________</em> (<strong><em>insérer </em></strong>« soumission » <strong>ou</strong> « offre »<strong><em> ou</em></strong> « arrangement ») et de l'intérêt que vous avez manifesté pour être  fournisseur du gouvernement du Canada. Je vous sais gré de votre participation  et j'espère que vous continuerez à répondre aux projets de marché de Travaux  publics et Services gouvernementaux Canada.</p>
+Si vous souhaitez obtenir de plus amples  renseignements sur l'évaluation de votre <em>_______________</em> (<strong><em>insérer</em></strong> « soumission » <strong>ou </strong>« offre »<strong><em> ou</em></strong> « arrangement »), n'hésitez pas à  communiquer avec moi.
+<p>_______________(<strong><em>insérer le nom de l'autorité contractante</em></strong>)<br/>
+Autorité contractante</p>
+<p>Téléphone : _____-_____-______ </p>
+<p>Courriel : _______________ @tpsgc-pwgsc.gc.ca</p>
+<p>c.c. : _______________ <em>(<strong>insérer les  noms des personnes devant recevoir une copie</strong>)</em></p>
+<h2 id="AP-91ann-c">Annexe C</h2>
+<h3>Modifications  apportées au guide des <abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr></h3>
+<h4>2T-LDV1 Modèle  de demande de soumissions et de contrat subséquent de faible valeur</h4>
+<p>Modifications au modèle  2T-LDV1 comme suit :</p>
+<ol>
+<li>Modifier la Partie 1 - Renseignements et Instructions  - afin d'ajouter le nouvel article comme suit :</li>
+</ol>
+<p><strong><em>Remarque à l'intention de l'autorité  contractante :</em></strong><em> Consulter les articles 7.35, 7.40 et 7.45 du  Guide des approvisionnements, ainsi que l'<abbr title="Avis relatifs aux politiques">AP</abbr>-91, Comptes rendus et lettres de  regret.</em></p>
+<h4>8. Séances de compte rendu</h4>
+<p>Après l'attribution du contrat, les soumissionnaires  peuvent demander un compte rendu sur les résultats de la demande de  soumissions. Les soumissionnaires devraient en faire la demande à l'autorité  contractante dans les 15 jours ouvrables, suivant la réception de l'avis les  informant que leur soumission n'a pas été retenue. Le compte rendu peut être  fourni par écrit, par téléphone ou en personne.</p>
+<p>*****************</p>
+<h4>2T-MED1 Modèle de demande de soumissions et de contrat  subséquent de complexité moyenne</h4>
+<p>Modifications au modèle  2T-MED1 comme suit :</p>
+<p>1. Modifier la Table des matières afin d'ajouter le nouvel  article comme suit :</p>
+<h5>Partie 1 - Renseignements  généraux</h5>
+<ol>
+<li>Exigences relatives à la sécurité</li>
+<li>Énoncé des travaux <strong><em>OU</em></strong> Besoin (<em>Choisir  selon le cas</em>)</li>
+<li>Marchés réservés aux bénéficiaires d'une entente sur  les revendications territoriales globales (<strong><em>s'il y a lieu</em></strong>)</li>
+<li>Marchés réservés en vertu de l'initiative du  gouvernement fédéral sur la Stratégie d'approvisionnement auprès des  entreprises autochtones (SAEA) (<strong><em>s'il y a lieu</em></strong>)</li>
+<li>Avis de communication</li>
+<li class="red">Séances de compte rendu</li>
+</ol>
+<p>2. Modifier la Partie 1 - Renseignements généraux - afin  d'ajouter le nouvel article comme suit :</p>
+<p><strong><em>Remarque à l'intention de l'autorité  contractante :</em></strong><em> Consulter les articles 7.35, 7.40 et 7.45 du  Guide des approvisionnements, ainsi que l'<abbr title="Avis relatifs aux politiques">AP</abbr>-91, Comptes rendus et lettres de  regret.</em></p>
+<h6>6. Séances de compte rendu</h6>
+<p>Après l'attribution du contrat, les soumissionnaires  peuvent demander un compte rendu sur les résultats de la demande de  soumissions. Les soumissionnaires devraient en faire la demande à l'autorité  contractante dans les 15 jours ouvrables, suivant la réception de l'avis les  informant que leur soumission n'a pas été retenue. Le compte rendu peut être  fourni par écrit, par téléphone ou en personne.</p>
+<p>*****************</p>
+<h4>2T-HIGH1 Modèle de demande de soumissions et de contrat subséquent  pour les besoins plus complexes</h4>
+<p>Modifications au modèle 2T-HIGH1 comme suit :</p>
+<p>1. Modifier la Table des matières afin d'ajouter le  nouvel article comme suit :</p>
+<h5>Partie  1 - Renseignements généraux</h5>
+<ol>
+<li>Introduction</li>
+<li>Sommaire</li>
+<li>Avis de communication</li>
+<li class="red">Séances de compte rendu</li>
+</ol>
+<p>2. Modifier la Partie 1 des Renseignements Généraux afin  d'ajouter le nouvel article comme suit :</p>
+<p><strong><em>Remarque à l'intention de l'autorité  contractante :</em></strong><em> Consulter les articles 7.35, 7.40 et 7.45 du  Guide des approvisionnements, ainsi que l'<abbr title="Avis relatifs aux politiques">AP</abbr>-91, Comptes rendus et lettres de  regret.</em></p>
+<h6>4. <strong>Séances de compte rendu</strong></h6>
+<p>Après l'attribution du contrat, les soumissionnaires  peuvent demander un compte rendu sur les résultats de la demande de  soumissions. Les soumissionnaires devraient en faire la demande à l'autorité  contractante dans les 15 jours ouvrables, suivant la réception de l'avis les  informant que leur soumission n'a pas été retenue. Le compte rendu peut être  fourni par écrit, par téléphone ou en personne.</p>
+<p>*****************</p>
+<h4>2T-RFSO1 Modèle de demande d'offres à commandes</h4>
+<p>Modifications au modèle  2T-RFSO1 comme suit :</p>
+<p>1. Modifier la Table des matières afin d'ajouter le  nouvel article comme suit :</p>
+<h5>Partie 1 - Renseignements  généraux</h5>
+<ul class="noBullet">
+<li>1. Introduction </li>
+<li>2. Sommaire</li>
+<li>3. Exigences relatives à la sécurité (<strong><em>s'il y a lieu</em></strong>)</li>
+<li>4. Avis de communication </li>
+<li class="red">5. Séance de compte rendu</li>
+<li>X. Termes-clés (<strong><em>s'il  y a lieu</em></strong>)</li>
+</ul>
+<p>2. Modifier la Partie 1 - Renseignements généraux - afin  d'ajouter le nouvel article comme suit : </p>
+<p><strong><em>Remarque  à l'intention du responsable de l'offre à commandes</em></strong><em> :  Consulter les articles 7.35, 7.40 et 7.45 du Guide des approvisionnements,  ainsi que l'<abbr title="Avis relatifs aux politiques">AP</abbr> 91, Comptes rendus et lettres de regret.</em></p>
+<h5>5. <strong>Séances de compte rendu</strong></h5>
+<p>Après l'émission d'une offre à commandes, les offrants  peuvent demander un compte rendu sur les résultats de la demande d'offre à  commandes. Les offrants devraient en faire la demande au responsable de l'offre à commande dans les 15 jours ouvrables,  suivant la réception de l'avis les informant que leur offre n'a pas été retenue.  Le compte rendu peut être fourni par écrit, par téléphone ou en personne.</p>
+<p>*****************</p>
+<h4>2T-<abbr title="Request for Supply Arrangements">RFSA</abbr>1 <strong>Modèle de demandes d'arrangements en matière  d'approvisionnement</strong></h4>
+<p>Modifications  au modèle 2T-RFSA1 comme suit :</p>
+<p>1. Modifier la Table des matières afin d'ajouter le  nouvel article comme suit :</p>
+<h5>Partie 1 - Renseignements  généraux</h5>
+<ul class="noBullet">
+<li>1. Introduction </li>
+<li>2. Sommaire</li>
+<li>3. Exigences relatives à la sécurité (<strong><em>s'il y a lieu</em></strong>)</li>
+<li>4. Contenu canadien (<strong><em>s'il y a lieu</em></strong>)</li>
+<li>5. Avis de communication</li>
+<li class="red">6. Séances de compte rendu</li>
+<li>X. Termes-clés (<strong><em>s'il  y a lieu</em></strong>)</li>
+</ul>
+<p>2. Modifier la Partie 1 - Renseignements généraux - afin  d'ajouter le nouvel article comme suit : </p>
+<p><strong><em>Remarque  à l'intention du responsable de l'arrangement en matière d'approvisionnement</em></strong><em> :  Consulter les articles 7.35, 7.40 et 7.45 du Guide des approvisionnements,  ainsi que l'<abbr title="Avis relatifs aux politiques">AP</abbr> 91, Comptes rendus et lettres de regret.</em></p>
+<h6>6. <strong>S</strong>éances de compte rendu</h6>
+<p>Après l'émission d'un arrangement en matière  d'approvisionnement, les fournisseurs peuvent demander un compte rendu sur les  résultats de la demande d'arrangement en matière d'approvisionnement. Les  fournisseurs devraient en faire la demande au responsable de l'arrangement en  matière d'approvisionnement dans les 15 jours ouvrables, suivant la réception  de l'avis les informant que leur arrangement n'a pas été retenu. Le compte  rendu peut être fourni par écrit, par téléphone ou en personne.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

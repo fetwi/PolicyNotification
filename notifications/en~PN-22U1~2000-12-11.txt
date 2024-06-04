@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<p>Under advisement from Treasury Board, there is no continuing requirement to include the Year 2000 Warranty SACC clauses in contracts and standing offers except where there is residual repair work either contemplated or in progress for procurements of goods or services which were thought to require date related processing prior to, during or after the Year 2000.</p>
+<p>The following list of SACC clauses were put into effect for the purpose of covering procurement into the year 2000 and will remain active for residual repair work until further notice:</p>
+<ul>
+<li>K0039D Y2000 Warranty - Goods</li>
+<li>K0040D Y2000 Warranty - Facility Management or Outsourcing</li>
+<li>K0041D Y2000 Warranty - System Integration</li>
+<li>K0042D Y2000 Warranty - Service</li>
+<li>K0043D Y2000 Warranty - Goods Not Directly Related to IT Procurements</li>
+<li>K0044D Y2000 Warranty - Services Not Directly Related to IT Procurements</li>
+<li>Z0615T Millennium Warranty Clause</li>
+</ul>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

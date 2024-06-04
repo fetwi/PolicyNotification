@@ -1,0 +1,59 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h3>Purpose</h3>
+<p>The purpose of the Policy Notification (PN) is to update the <em>Supply Manual</em> in advance of its next formal publication to bring it into line with current practice in invoking the national security exceptions (NSE) of the various trade agreements, particularly the use of the NSE in non-traditional areas, such as procurement of drugs to deal with potential bio-terror weapons. The PN provides for a streamlined process for requests to invoke NSEs that is separate from the Procurement Plan process.</p>
+<p>The revision also provides some context for the use of the NSE, noting, for instance, that invoking an NSE does not limit or define the choice of procurement method. For example, the use of the NSE does not dictate that the requirement must be sole-sourced or that where it is justified to sole source the requirement, an Advanced Contract Award Notice can not be used.</p>
+<p>This PN does not apply to circumstances pertaining to "excepting" a procurement from international trade agreements where:</p>
+<ol type="a">
+<li>necessary to protect public morals, order or safety;</li>
+<li>necessary to protect human, animal or plant life or health;</li>
+<li>necessary to protect intellectual property; or</li>
+<li>relating to goods or services of handicapped persons, of philanthropic institutions or of prison labour.</li>
+</ol>
+<p>Such exceptions do not require to be invoked. Their application must be fully justified and the contract file must be well documented in support of applying the exception to a procurement. Contracting personnel should be aware that the use of these exceptions is subject to Canadian International Trade Tribunal review. Accordingly, the narrowest interpretation of the exception should be used when determining whether to apply an exception to a particular procurement.</p>
+<p>The proposed changes to the Supply Manual will appear in Amendment 03-2, to be released December 12, 2003.</p>
+<h3>Inquiries</h3>
+<p><strong>N/A</strong></p>
+<h3>SUPPLY MANUAL</h3>
+<h4>CHAPTER 5 SOURCING STRATEGY</h4>
+<p><strong>Use of the National Security Exceptions</strong></p>
+<p>5.007 (<strong>new</strong>) The national security exceptions provided for in the North America Free Trade Agreement (NAFTA), the World Trade Organization-Agreement on Government Procurement (WTO-AGP), the Canada-Korea Procurement of Telecommunications Equipment Agreement (CKTEA) and the Agreement on Internal Trade (AIT) allow Canada to remove a procurement from some or all of the obligations of the relevant trade agreement(s) where Canada considers it necessary to do so in order to protect its national security interests specified in the text of the national security exceptions. The purpose of the national security exceptions is to ensure that parties to the agreements are not required in any way to compromise these interests through application of the obligations of the trade agreements.</p>
+<p>5.008 (<strong>new</strong>) Texts of the National Security Exceptions</p>
+<ol type="a">
+<li>NAFTA: Article 1018: Exceptions
+<p>"1. Nothing in this Chapter shall be construed to prevent a Party from taking any action or not disclosing any information which it considers necessary for the protection of its essential security interests relating to the procurement of arms, ammunition or war materials, or to procurement indispensable for national security or for national defense purposes."</p>
+</li>
+<li><acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>: Article XXIII: Exceptions to the Agreement
+<p>"1. Nothing in this Agreement shall be construed to prevent any Party from taking any action or not disclosing any information which it considers necessary for the protection of its essential security interests relating to the procurement of arms, ammunition or war materials, or to procurement indispensable for national security or for national defence purposes."</p>
+</li>
+<li>
+<p>CKTEA: Incorporates <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> Article XXIII by reference.</p>
+</li>
+<li>AIT: Article 1804: National Security
+<p>"Nothing in this Agreement shall be construed to:</p>
+<ol type="a">
+<li>require the Federal Government to provide, or allow access to, information the disclosure of which it determines to be contrary to national security; or</li>
+<li>prevent the Federal Government from taking any action that it considers necessary to protect national security interests or, pursuant to its international obligations, for the maintenance of international peace and security."</li>
+</ol>
+</li>
+</ol>
+<p>5.009 (<strong>new</strong>) The national security exceptions can be invoked to entirely remove the procurement from the obligations of the relevant trade agreements or to allow the use of some otherwise non-conforming measure.</p>
+<p>5.010 (<strong>xx/xx/xx</strong>) The Canadian International Trade Tribunal (CITT), in its decision PR-98-005, has found that "the most senior level of substantive policy formulation and advice to the department on all supply operations activities ..." has the authority to invoke the use of the national security exception, to exclude a procurement from the NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA and the AIT. For Public Works and Government Services Canada (PWGSC) that authority is the Assistant Deputy Minister of the Acquisition Program Branch (ADM/APB).</p>
+<p>5.011 (<strong>xx/xx/xx</strong>) Furthermore, <acronym title="Public Works and Government Services Canada">PWGSC</acronym> has decided that this specific authority will not be delegated to a lower level official because of the nature of the exception and having regard to s.24(2)(d) of the <em>Department of Public Works and Government Services Act.</em> In a continued effort to simplify interaction with client departments, the ADM Operations Branch (Ops) will act as the main contact for clients requesting the national security exception. Therefore, while client departments may request to invoke the national security exception through the ADM/Ops, internally a national security exception will not be invoked, by anyone other than the ADM/APB.</p>
+<p>5.012 (<strong>xx/xx/xx</strong>) Therefore, the following procedure is now in effect:</p>
+<ol type="a">
+<li>All requests to invoke the national security exceptions to exclude a procurement from the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, NAFTA, CKTEA or the AIT, or any combination of the agreements, will normally be submitted by the client department to the ADM/Ops for approval, regardless of dollar value.</li>
+<li>A request must be in the form of a letter from the responsible ADM, or equivalent to the ADM level, at the client department. The letter must explain the nature of the proposed procurement and, depending upon which trade agreement(s) applies, how it relates to:<br/>
+<ol type="i">
+<li>Canada's "national security interests" or, pursuant to Canada's international obligations, "the maintenance of international peace and security". (AIT: Article 1804(b)); and/or</li>
+<li>Canada's "essential security interests relating to the procurement of arms, ammunition or war materials, or to procurement indispensable for national security or for national defense purposes". (NAFTA Article 1018.1/ <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> Article XXIII).</li>
+</ol>
+</li>
+<li>In reviewing requests to invoke the national security exception, the ADM/APB will be considering only the issue of whether or not to invoke the national security exception and will not be considering, at that time, other matters such as procurement methods, Procurement Plans or authority to enter into the contract. Client departments should work with contracting officers in determining which method of procurement should be used, in parallel with any request for approval of a national security exception, bearing in mind that even in situations where the national security exception is invoked, it remains government policy to compete requirements, subject to the exceptions to competitive contracting provided in the <em>Government Contracts Regulations</em> (GCRs).</li>
+<li>The utilization of the national security exceptions must be documented. In documents used to seek authority to enter into contract, and on the file, contracting officers must explain clearly that the national security exception is being invoked, specifying each of the trade agreements from which the procurement is being excluded and include a copy of the NSE approval on the file.</li>
+</ol>
+<p>5.013 (<strong>xx/xx/xx</strong>) Contracting officers should bear in mind that invoking a national security exception to the trade agreements does not affect the obligation to comply with the GCRs in respect of such matters as sole source justifications, other sourcing strategy issues and contracting authority limits. Procurements for which an NSE is invoked remain subject to other relevant regulations and governmental and departmental policies, which may include posting a Notice of Proposed Procurement or an Advanced Contract Award Notice on the Government Electronic Tendering Services (GETS) where appropriate, though the requirements of security may, in some cases, preclude such actions.</p>
+<p>5.014 (<strong>new</strong>) Within PWGSC, the Program Performance Directorate (PPD) reviews, on behalf of the ADM/APB, requests to invoke the national security exception. Once approved, PPD will notify the ADM/Ops who, in turn, will provide a written confirmation to the client department that the national security exception has been invoked. </p>
+<p><em>Contracting officers seeking advice to aid client departments in properly framing and requesting a national security exception should contact PPD at 819-956-0869.</em></p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

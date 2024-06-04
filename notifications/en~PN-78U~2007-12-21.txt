@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Introduction</h2>
+<p>Bill C-28, "An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2007 and to implement certain provisions of the economic statement tabled in Parliament on October 30, 2007," which includes a reduction in the rate of the goods and services tax (GST) and the federal component of the harmonized sales tax (HST), received Royal Assent on December 14, 2007.  As a result, effective January 1, 2008, the rate of the GST is reduced from 6% to 5%, and the rate of the HST is reduced from 14% to 13%.</p>
+<h2>Procedures</h2>
+<p>Generally, the new GST/HST rates apply to the purchase of taxable goods and services in the following manner:</p>
+<ul>
+<li>If GST/HST becomes payable on or after January 1, 2008, or is paid without having become payable before that date, the 5% GST rate, or the 13% HST rate will apply.</li>
+<li>If GST/HST becomes payable, or is paid, in 2007, the 6% GST rate, or the 14% HST rate will apply.</li>
+</ul>
+<p>Generally, GST/HST becomes payable either on the date on the invoice or on the payment date under the contract, whichever is earlier.</p>
+<p>Other considerations applicable on the purchase of taxable goods and services:</p>
+<h3>1. Existing Contracts</h3>
+<p>Amounts paid or payable before January 1, 2008, under an existing contract will include GST at the rate of 6%, or HST at the rate of 14%. Amounts paid or payable under this contract on or after January 1, 2008, will include GST at the reduced rate of 5%, or HST at the reduced rate of 13%.</p>
+<p>Given that the GST/HST rate reduction is legislated, any amendments related to this tax change would be non-negotiable.  Therefore, contracting officers need not amend their existing contracts to reflect the change in tax.  Contracting officers may instead notify affected contractors of the GST/HST rate reduction either verbally or via a generic letter or e-mail.</p>
+<h3>2. Holdbacks</h3>
+<p>The rules that normally determine when GST/HST is payable will continue to apply to determine the appropriate rate of tax.</p>
+<p>Under contracts which contain holdback amounts, GST/HST is normally paid on the total amount claimed before any holdback is deducted. No GST/HST is paid when the holdback is released.  The rate of GST/HST payable will be that which is in effect either on the date the claim is paid or on the date the claim becomes due, whichever is earlier.</p>
+<p>The exception is a holdback under legislation or under a contract for the construction, renovation or repair of real property or a marine vessel.  In these cases, GST/HST calculated on the holdback amount becomes payable on the earlier of the day on which the holdback is paid or the day on which the holdback period expires. Therefore, if both of these days occur on or after January 1, 2008, GST/HST at the reduced rate of 5% or 13% will apply to the holdback amount.</p>
+<h3>Funding</h3>
+<p>Funds that clients have allocated to the GST/HST financial code that become unencumbered due to the rate reduction cannot be used to purchase additional goods or services under a contract or contract amendment.</p>
+<h3>Approvals</h3>
+<p>For aggregate contract amendment purposes, approved amounts should remain unadjusted. </p>
+<h2>Contact</h2>
+<p>Suppliers who have technical inquiries on the GST/HST are invited to visit the Canada Revenue Agency Website, or call 1-800-959-8287.</p>
+<p>PWGSC contracting officers may address inquiries to Veronica Nazareth, Acquisition Policy and Process Directorate, either by phone at 819-956-5024, or by e-mail at: <a href="mailto:veronica.nazareth@tpsgc-pwgsc.gc.ca" rel="external">veronica.nazareth@tpsgc-pwgsc.gc.ca</a>.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

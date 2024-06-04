@@ -1,0 +1,34 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Purpose</h2>
+<p><abbr title="Policy Notification">PN</abbr>-128U1 updates <abbr title="Policy Notification">PN</abbr>-128R1. </p>
+<p>The purpose of this Policy Notification (PN) 128U1 is to: 1) modify the Standard Procurement Templates to add a sentence to clarify that the epost Connect email address is for use with epost Connect service only and is not to be used to submit bids directly;  2) modify the 2003, 2006 and 2008 Standard Instructions to notify bidders that Bid Receiving Units will send an acknowledgement of bids received through the epost Connect conversation; and provide information on the transmission capacity of the epost Connect system.</p>
+<h2>Effective date</h2>
+<p><abbr title="Policy Notification">PN</abbr>-128U1 is effective immediately.</p>
+<h2>Background</h2>
+<p>On May 22, 2018, <abbr title="Policy Notification">PN</abbr>-128R1 was released to inform all Public Works and Government Services Canada (PWGSC) Acquisitions Program's contracting officers of the implementation of an additional receiving method using Canada Post Corporation's epost Connect service in Bid Receiving Units (BRU) across Canada. </p>
+<h2>Policy</h2>
+<p>Bid Receiving Units will provide a standard acknowledgement to suppliers via the epost Connect conversation activity that their bid document(s) have been received.</p>
+<p>The epost Connect email address is for use with epost Connect service only and is not to be used to submit bids directly.</p>
+<p>The epost Connect system has a limit of 1GB per single message posted and a limit of 20GB per conversation.</p>
+<h2>Affected standard procurement templates changes:</h2>
+<ul>
+<li>High Complexity Bid Solicitation and Resulting Contract Template (HC) </li>
+<li>Medium Complexity Bid Solicitation and Resulting Contract Template (MC) </li>
+<li>Low Dollar Value Bid Solicitation and Resulting Contract Template (Simple)</li>
+<li>Request for Standing Offers (RFSO)Template </li>
+<li>Request for Standing Offers (RFSO) Template for Canadian Collaborative Procurement Initiative (CCPI)</li>
+<li>Request for Supply Arrangements (RFSA) Template</li>
+</ul> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-366aff42be02b00a1df4f8c28da2ee64">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#2003">ARCHIVED: 1.2003: Standard Instructions - Goods or Services - Competitive Requirements</a> </li>
+<li class="views-row views-row-2 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#2006">ARCHIVED: 1.2006: Standard Instructions - Request for Standing Offers - Goods or Services - Competitive Requirements</a> </li>
+<li class="views-row views-row-3 views-row-odd views-row-last">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#2008">ARCHIVED: 1.2008: Standard Instructions - Request for Supply Arrangements - Goods or Services</a> </li>
+</ul></div> </div>
+</div>
+</div>

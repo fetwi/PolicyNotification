@@ -1,0 +1,111 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h3>Introduction</h3>
+<p>The purpose of Policy Notification (PN) 51U1 is to update the clauses and procedures related to controlled goods in the Standard Acquisition Clauses and Conditions (SACC) Manual and the Supply Manual (SM).</p>
+<p>PN-51 and PN-51U were promulgated on April 30, 2001 and June 20, 2001, respectively, announcing that Bill S-25 amended the Defence Production Act (DPA) and the Controlled Goods Regulations and that the amendment to the DPA resulted in the establishment of the Public Works and Government Services (PWGSC) Controlled Goods Program (CGP), which is a domestic industrial security program that addresses security issues in regard to the safeguarding of controlled goods within Canada's borders. </p>
+<h3>Update</h3>
+<p>The update to controlled goods information found in the SACC Manual and Supply Manual is detailed below.</p>
+<ul>
+<li>SACC Manual clauses A9130T and A9131C have been updated to include the following:
+<ul>
+<li>Subcontractor(s) are now to be registered under the CGP;</li>
+<li>The Contractor and any subcontractor have seven (7) working days from receipt of written notification of contract award to ensure the required application(s) for registration or exemption are submitted to the CGP;</li>
+<li>Proof must be provided, satisfactory to the Contracting Authority, of registration, exemption or exclusion under the CGP;</li>
+<li>Failure to provide such proof may result in Canada exercising its right to terminate the contract;</li>
+<li>Deletion of quotation marks around controlled goods.</li>
+<li>The SM has been updated to include the following:
+<ul>
+<li>New reporting and inspection requirements under the DPA;</li>
+<li>Requirement for identification of controlled goods on requisitions;</li>
+<li>Department of Foreign Affairs and International Trade name change to International Trade Canada;</li>
+<li>Updated security precautions concerning unauthorized transfer of controlled goods and evidence of tampering;</li>
+<li>Revised definition of exempt person, in respect of controlled goods;</li>
+<li>Deletion of quotation marks around controlled goods.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>The attached revised SACC clauses become effective immediately; therefore, contracting officers are to incorporate them into any future documents.</p>
+<p>All changes shown in Annexes A and B (highlighted in <em>red text</em>) will be incorporated into the next modification of the SACC Manual and SM.</p>
+<p><strong>NOTE:</strong> Contracting officers are reminded to change the red text to black prior to cutting and pasting the updated clauses into their procurement documents.</p>
+<h3>Background</h3>
+<p>Bill S-25 amended the DPA and as a result established a new regime for regulating access to certain controlled military and military related goods and technology. The amended DPA and the resultant Controlled Goods Regulations came into force on April 30, 2001. To meet the requirements of the DPA, the Controlled Goods Program (CGP), a federal government program, was established under the DPA and the Controlled Goods Regulations. The CGP, which is administered by PWGSC, requires all persons in Canada examining, possessing, or transferring controlled goods, to another person in Canada to be registered, exempt or excluded from registration under the CGP. Persons registered under the CGP are subject to the inspections as set out in section 42 of the DPA.</p>
+<h3>Contact</h3>
+<p><strong>N/A</strong></p>
+<hr/>
+<h3>Annex A Changes to SACC Manual</h3>
+<h4>A9130T Controlled Goods</h4>
+<p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Use the following clause in bid solicitation documents when there is production of <em>or</em> access to controlled goods.</p>
+<h4>Text: </h4>
+<p><em>1.</em> As the resulting contract will require the production of <em>or</em> access to controlled goods that are subject to the Defence Production Act, <em>bidders</em> are hereby advised that <em>within Canada</em> only persons who are registered, exempt or excluded under the Controlled Goods Program (CGP) are lawfully entitled to examine, possess or transfer controlled goods. <em>Details on how to register under the CGP are available at: <a href="http://www.cgp.gc.ca" rel="external">www.cgp.gc.ca</a>, and registration is carried out as follows:</em></p>
+<ul class="noBullet">
+<li>(a) When the bid solicitation document includes controlled goods information or technology, the Bidder must be registered, <em>exempt or excluded</em> under the CGP prior to receiving the bid solicitation document. Requests for Technical Data Packages or specifications related to the controlled goods should be made in writing to the Contracting Authority identified herein <em>and must contain the CGP registration number or written proof of exemption or exclusion of the Bidder and any other person to whom the Bidder will give access to the controlled goods.</em></li>
+<li><em>(b) When</em> the bid solicitation document does not include controlled goods information or technology but the resulting contract requires the production of <em>or</em> access to controlled goods, the potential contractor <em>and any subcontractor who will be producing or accessing</em> controlled goods must be registered, <em>exempt or excluded under the CGP prior to examining, possessing or transferring controlled goods.</em></li>
+<li><em>(c) When the Contractor and any subcontractor proposed to examine, possess or transfer controlled goods are not registered, exempt or excluded under the CGP at time of contract award, the Contractor and any subcontractor shall, within seven (7) working days from receipt of written notification of contract award, ensure the required application(s) for registration or exemption are submitted to the CGP. No examination, possession or transfer of controlled goods shall be performed until the Contractor has provided proof, satisfactory to the Contracting Authority, that the Contractor and any subcontractor are registered, exempt, or excluded under the CGP.</em>
+<p><em>Failure of the Contractor to provide proof, satisfactory to the Contracting Authority, that the Contractor and any subcontractor are registered, exempt or excluded under the CGP, within thirty (30) days from receipt of written notification of contract award, shall be a default under the Contract except to the extent that Canada is responsible for the failure due to delay in processing the application.</em></p>
+</li>
+</ul>
+<p>2. Bidders are advised that all information on the Application for Registration (or exemption) Form will be verified and errors or inaccuracies may cause significant delays and/or result in denial of registration or exemption.</p>
+<h4>A9131C Controlled Goods</h4>
+<p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Use the following clause in contracts when there is production of or access to controlled goods.</p>
+<h4>Text:</h4>
+<p>1. As this Contract requires production of or access to controlled goods that are subject to the <em>Defence Production Act</em>, the Contractor <em>and any subcontractor are</em> hereby advised that<em>, within Canada,</em> only persons, who are registered, exempt or excluded under the Controlled Goods Program (CGP) are lawfully entitled to examine, possess or transfer controlled goods. Details on how to register under the CGP are available at: <a href="http://www.cgp.gc.ca" rel="external">www.cgp.gc.ca</a>.</p>
+<p>2. When the Contractor and any subcontractor proposed to examine, possess or transfer controlled goods are not registered, exempt or excluded under the CGP at time of contract award, the Contractor and any subcontractor shall, within seven (7) working days from receipt of written notification of the contract award, ensure the required application(s) for registration or exemption are submitted to the CGP. No examination, possession or transfer of controlled goods shall be performed until the Contractor has provided proof, satisfactory to the Contracting Authority, that the Contractor and any subcontractor are registered, exempt or excluded under the CGP.</p>
+<p><em>Failure of the Contractor to provide proof, satisfactory to the Contracting Authority, that the Contractor and any subcontractor are registered, exempt or excluded under the CGP, within thirty (30) days from receipt of written notification of contract award, shall be a default under the Contract except to the extent that Canada is responsible for the failure due to delay in processing the application.</em></p>
+<p>3. The Contractor <em>and any subcontractor</em> must maintain registration, exemption <em>or exclusion</em> from the CGP for the duration of the Contract and in <em>any event for so long as they will examine, possess or transfer controlled goods.</em></p>
+<hr/>
+<h3>Annex B Changes to the Supply Manual</h3>
+<h4>CHAPTER 1 - OVERVIEW</h4>
+<p><strong>Defence Production Act</strong></p>
+<p>1.053 (xxxx-xx-xx) Section 40 deals with reporting and states that every registered person shall provide the Minister with any information prescribed by regulation, in the manner and time prescribed by regulation, <em>including reporting breaches of security.</em></p>
+<p>1.055 (xxxx-xx-xx) Section 42 deals with the inspection of facilities and outlines the powers of inspectors to ensure the compliance of the Program. It also states that inspectors may be accompanied by another person chosen by the inspector. <em>These powers include the power to require attendance and to question any individual, the power to obtain and copy documents, the power to detain or remove controlled goods, and the power to demand implementation of remedial measures.</em></p>
+<h4>CHAPTER 6; SECTION 6B - DEFINING THE REQUIREMENT</h4>
+<p><strong>Controlled Goods</strong></p>
+<p><em>6B.192 (xxxx-xx-xx) Controlled goods are listed in the Schedule to the Defence Production Act and are identified in the following groups on the Controlled Goods Program Website. The complete Export Control List is published on the International Trade Canada (ITCan) Website.</em></p>
+<ul>
+<li>Group 2: goods listed in item 2001 that are prohibited firearms, as defined in paragraph (c) of the definition of "prohibited firearms" in subsection 84(1) of the criminal code;</li>
+<li>Group 2: goods listed in item 2003 that are ammunition with a caliber greater than 12.7mm;</li>
+<li>Group 2: goods listed in items 2002, 2004 to 2022;</li>
+<li>Group 5: goods listed in item 5504; and</li>
+<li>Group 6: all goods listed.</li>
+</ul>
+<p>It is the client department's responsibility to identify within any requisition that there are controlled goods aspects. <em>For example, requisitions coming to Public Works and Government Services Canada from the Department of National Defence shall identify on the first line "this requisition involves controlled goods" or "this requisition does not involve controlled goods". In case of doubt, the ultimate authority for making this determination is the Export Controls Division of ITC (613-996-2387).</em></p>
+<h4>CHAPTER 7 - PREPARING A BID SOLICITATION</h4>
+<h4>Section 7A Controlled Goods</h4>
+<p>7A.130 (xxxx-xx-xx) SACC Manual clause <em>A9130T</em> must be<br/>
+					included in bid solicitation documents and clause A9131C must be included in contracts when there is access to controlled goods or when there is a requirement to produce or have access to controlled goods in the course of production.</p>
+<p>For more information on controlled goods, contracting officers should visit the Controlled Goods Program Website.</p>
+<h4>Section 7B - Issuing a Bid Solicitation</h4>
+<p><strong>Controlled Goods</strong></p>
+<p>7B.215 (2002-05-24) Controlled goods cannot be released to persons that are not registered, exempt or excluded under the Controlled Goods Program (CGP).</p>
+<p>7B.216 (xxxx-xx-xx) When the bid solicitation (e.g. Request for Proposal or Notice of Proposed Procurement) <em>involves</em> controlled goods (<em>*</em>e.g. like a <em>Technical Data Package {TDP}</em>, drawing or Statement of Work), only those controlled goods cannot be released (e.g. through the Government Electronic Tendering Service/MERX) to any persons that are not registered, exempt or excluded under the CGP; the remainder of the items are processed as usual.</p>
+<p><em>*NOTE: Not all drawings or Statements of Work in and of themselves include controlled technology.</em></p>
+<p>Registered persons are listed on the CGP Website. Once the contracting officer has <em>contacted the CGP office (Call Centre toll-free telephone number at 1-866-368-4646 or the National Capital Region telephone number at 948-4176) to verify</em> that the person requesting the controlled goods <em>has a valid registration number</em>, the bid sets, drawings, statements of work, etc. containing the controlled goods may then be released through adequate means to preclude the examination of controlled goods <em>by unauthorized persons.</em></p>
+<p>7B.217 (xxxx-xx-xx) An export permit to export a controlled <em>TDP</em> is required to all countries except, in most cases, the United States. Contracting officers must first determine if their TDP is, in fact, controlled. The <em>ultimate</em> authority for making this determination is the Export Controls Division of <em>International Trade Canada (ITC)</em>. A determination needs to be made as to whether or not the Contractor has access to controlled goods <em>in Canada</em> under the <em>Defence Production Act</em>.</p>
+<p>Generally, if the TDP contains technical information for the "development, production or use" of an item controlled under <em>the</em> Export Control List (ECL); Group 2 not all, Group 5 Item 5504 only; and Group 6 all, then the TDP is controlled as well. If the TDP is designed solely for the solicitation of bids, it is probably not controlled. Contracting officers should contact the Export Controls Division, <em>ITC</em> at <em>613</em>-996-2387 for assistance in making this determination.</p>
+<p>7B.218 (xxxx-xx-xx) Security precautions for transferring controlled goods will vary depending on the type and size of the controlled goods. Safeguards chosen must adequately preclude the examination or <em>unauthorized transfer</em> of controlled goods by a person who is not registered, exempt or excluded under the CGP and <em>should be such as to make tampering evident</em>. These include:</p>
+<ul class="noBullet">
+<li>(a) using double envelopes, security seals and security-sealed containers;</li>
+<li>(b) marking transfer containers with a return address; </li>
+<li>(c) recording how the controlled good is being transferred; </li>
+<li>(d) determining the reliability of a postal or courier service; </li>
+<li>(e) transferring controlled goods by first class or registered mail, or by a reliable postal or courier service that offers: proof of mailing, a record while in transit, and a record of delivery; </li>
+<li>(f) recording the controlled good being transferred and who is transferring it; or </li>
+<li>(g) upon receipt, examining the packaging and sealing devices, and reporting tampering. </li>
+</ul>
+<h4>CHAPTER 12 - GLOSSARY</h4>
+<p><strong>Controlled Goods</strong></p>
+<p>Controlled goods are defined under the Schedule to the DPA. The following goods listed in the Export Control List {ECL} (Group 2 not all; Group 5 Item 5504 only; and Group 6 all). (<span lang="fr"><strong><em>marchandises contrôlées</em></strong></span>) (xxxx-xx-xx)</p>
+<p>(1) examine means, in respect of controlled goods, to investigate controlled goods by any means so as to provide a person detailed knowledge of the controlled goods inherent properties and performance characteristics that would allow that person to use this knowledge so that the good could be reproduced or replicated, or the performance of a similar article could be improved. (<span lang="fr"><strong><em>examiner</em></strong></span>);</p>
+<p><em>(2) exempt person, in respect of controlled goods, includes temporary workers or visitors. These two categories of individuals are non-Canadians who must be sponsored by the registered person and in the case of a temporary worker, must undergo a security assessment. The registered person will make an application for exemption for these individuals. Approval of exemption resides within PWGSC, Controlled Goods Program. Also exempt are those individuals who are directors, officers, or employees of a person registered under ITAR. Such individuals are exempt from the day they supply: </em></p>
+<ul class="noBullet">
+<li>(i) evidence of the individual's employment status as a director, an officer or an employee of the person registered under ITAR;</li>
+<li>(ii) evidence of the ITAR registration and eligibility of that person under ITAR</li>
+<li>(iii) evidence of the eligibility of the individual under the ITAR." <em>(<span lang="fr"><strong>personne exemptée</strong></span>)</em> </li>
+</ul>
+<p>(3) possess means, in respect of controlled goods, either actual possession, where the person has direct physical control over a controlled good at a given time, or constructive possession, where the person has the power and the intention at a given time to exercise control over a controlled good, either directly or through another person or persons. (<span lang="fr"><strong><em>posséder</em></strong></span>);</p>
+<p>(4) transfer means, in respect of controlled goods, to dispose of it or disclose its content in any manner. (<span lang="fr"><strong><em>transférer</em></strong></span>); </p>
+<p>(5) excluded persons, under the CGP, are individuals occupying a position in the federal public service; employed by her Majesty in right of a province or federal Crown corporation or <em>prescribed by regulation</em>. (<span lang="fr"><strong><em>personnes exclues</em></strong></span>).</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

@@ -1,0 +1,951 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-35cont" name="cont"><br/>
+AP-35 : Révision des pouvoirs de modifier et de conclure un marché</a></h1> <div class="region region-site-wide-message">
+<section id="AP-35site-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-35site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-35site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 17 juillet 1998</h2>
+<p>Le 2 juillet, le ministre a approuvé la nouvelle délégation de pouvoirs dévolus au Ministère. Cette nouvelle délégation reflète les changements importants dans les contrats et les pouvoirs de modifier les contrats qui entreront en vigueur le 17 juillet. Cet avis relatif aux politiques énumère les pouvoirs révisés et les procédures connexes relatifs à la mise en œuvre de la nouvelle délégation en vertu des domaines suivants:</p>
+<ol>
+<li>Nouveaux tableaux relatifs aux pouvoirs d'approbation de modifier et de conclure un contrat</li>
+<li>Révision des pouvoirs de modifier les contrats</li>
+<li>Pouvoirs particuliers</li>
+<li>Pouvoirs de signature</li>
+<li>Restrictions relatives à lapolitique</li>
+<li>Procédures relatives à la présentation des contrats et des modifications</li>
+<li>Information sur l'approvisionnement au ministre</li>
+</ol>
+<h3>1. Nouveaux tableaux relatifs aux pouvoirs d'approbation de modifier et de conclure un contrat</h3>
+<p>À compter du 17 juillet 1998, le personnel de l'approvisionnement sera autorisé à exercer les pouvoirs révisés d'approbation relatif à la modification et à la conclusion d'un contrat énumérés dans les tableaux à l'annexe A. Les pouvoirs de conclure des marchés sont suffisamment explicites. Une explication détaillée des pouvoirs révisés de modifier les contrats suit.</p>
+<p>Les pouvoirs d'approbation indiqués pour les titres de postes à l'échelon du Directeur et supérieurs à cet échelon reflètent la nouvelle délégation du ministre ainsi que les restrictions. Les pouvoirs indiqués pour les titres de postes inférieurs à l'échelon du Directeur, reflètent uniquement les modifications qui entraînent une diminution des pouvoirs. Dès que la nouvelle délégation de pouvoirs est entièrement mise en œuvre et que les processus d'achat sont modifiés pour appuyer les changements dans les pouvoirs, d'autres décisions quant aux changements des pouvoirs relatifs aux postes inférieurs à l'échelon du Directeur, seront faites. Tous les changements aux pouvoirs existants sont indiqués en<strong> caractères gras</strong>.</p>
+<p><strong>NOTA: Les pouvoirs doivent être utilisés à compter du 17 juillet 1998; pour les postes autres que ceux des Directeurs généraux et Directeurs, il n'y a aucune augmentation jusqu'à présent.</strong></p>
+<h3>2. Révision des pouvoirs de modifier les contrats</h3>
+<p>La nouvelle délégation entraîne des modifications considérables des pouvoirs d'approbation relatifs aux modifications. Le but de cette délégation réduite est d'augmenter la concurrence et l'ouverture en encourageant l'identification des tous les besoins connus, y compris les changements possibles, à l'étape de planification des achats. Lorsque des modifications éventuelles sont approuvées préalablement, elles peuvent être exercées conformément aux procédures relatives à l'exercice des options et à l'utilisation des montants mis de côté.</p>
+<p>Les nouveaux pouvoirs d'approbations relatifs aux modifications sont basés sur la valeur globale des modifications. Les pouvoirs relatifs aux modifications sont décrits soit comme une valeur seuil en dollars unique, ou en termes de: « x $ ou 10% de la valeur de la présentation des contrats approuvés à l'origine, ne dépassant pas le maximum de y $ ».</p>
+<p>Le montant décrit comme x $ dans cette formule (provenant du plafond du Conseil du Trésor relatif aux modifications des contrats pour les autres ministères) est clairement déterminé dans le tableau des pouvoirs de modification. Le montant déterminé comme y $ est également déterminé dans le tableau des pouvoirs de modification et représente la valeur seuil maximale pour l'approbation des modifications.</p>
+<p>Il faut l'approbation du ministre ou du Conseil du trésor pour toutes les modifications supérieures à 1 million de dollars.</p>
+<p>Les modifications émises pour exercer une option qui a été approuvée antérieurement comme un contrat antérieur ou une présentation de modifications doivent être approuvées par les fondés de pouvoirs de signature du contrat.</p>
+<p>Les modifications émises pour utiliser un montant mis de côté pour des travaux imprévus, des tâches supplémentaires ou des modifications techniques, doivent être approuvées par le fondé de pouvoirs d'approbation de conclure un marché non concurrentiel, ne dépassant pas l'échelon du Directeur ou le fondé de pouvoir original.</p>
+<p>Tous les fondés de pouvoir d'approbation de la modification (pour les modifications non approuvées antérieurement) sont déterminés en fonction du montant cumulatif de la modification. Le processus de l'étape 3 utilisé pour établir le fondé de pouvoir d'approbation de la modification de contrat (tel que déterminé dans les alinéas 1 et 2 à l'annexe 6.1.5 du Guide des approvisionnements) ne doit pas être utilisé avec la nouvelle délégation des pouvoirs de modifications.</p>
+<p>Des exemples sur la façon d'établir le fondé de pouvoir d'approbation sont fournis à l'annexe C.</p>
+<h3>3. Pouvoirs particuliers</h3>
+<p><strong>Pouvoirs exceptionnels - </strong>La délégation des pouvoirs exceptionnels du ministre tel qu'indiqué aux alinéas 1.6 à 1.13 inclusivement à l'annexe 6.1.1 du Guide des approvisionnements demeure inchangée sauf que les Directeurs régionaux auront maintenant le même pouvoir que les Directeurs généraux régionaux. La récente augmentation du pouvoir portant sur la réparation ou la révision du matériel militaire à 50 millions de dollars n'a pas été déléguée jusqu'à présent.</p>
+<p><strong>Offres à commandes et pouvoirs relatifs aux arrangements en matière d'approvisionnement - </strong>Le sous-ministre adjoint de la DGSA a un pouvoir d'approbation illimité pour approuver les offres à commandes et les arrangements en matière d'approvisionnement et réviser les offres à commandes et les arrangements en matière d'approvisionnement, lorsque les commandes subséquentes n'exéderont pas les plafonds établis par le Conseil du Trésor.</p>
+<h3>4. Pouvoirs de signature</h3>
+<p>Les pouvoirs de signature ont été uniformisés pour les biens, les services, les services de télécommunications, les travaux de construction, et les services d'architecture et de génie.</p>
+<h3>5. Suppression des restrictions relatives à la politique</h3>
+<p>Les pouvoirs ministériels d'approuver des types précis de marchés non concurrentiels ou de modifications tels qu'indiqués dans les alinéas 1.1 (c), (d) et (e) de l'annexe 6.1.1 du Guide des approvisionnements, ne font pas partie de la nouvelle délégation et<strong> ne s'appliquent plus.</strong> Les employés de l'approvisionnement sont rappelés que les pouvoirs d'approbation d'attribution des marchés d'origine pour les marchés sans concurrence s'appliquent si une contestation valide au PAC est reçue, mais qu'une décision de poursuivre avec l'approvisionnement est prise.</p>
+<h3>6. Procédures relatives à la présentation des contrats et des modifications</h3>
+<p>Les présentations des contrats doivent être préparées et envoyées pour approbation conformément aux procédures existantes, sauf que le besoin relatif aux services juridiques, à un analyste des coûts et aux examens, de secteur ou de région, de l'assurance de la qualité, tel qu'indiqué à l'annexe 6.1 du Guide des approvisionnements, doit s'appliquer aux présentations des contrats nécessitant l'approbation des Directeurs régionaux, ainsi que les titres de postes déjà cités dans l'annexe 6.1. Les soumissions pour l'approbation à l'échelon du SMA ou supérieur à cet échelon seront assujettis à une révision de la Direction générale de la vérification et de l'examen (DGVE).</p>
+<p>Les procédures relatives à la préparation et à l'envoi de présentations des modifications de contrats sont actuellement à l'étude, et ont comme objectif de rationnaliser le processus dans un proche avenir.</p>
+<p>Jusqu'à qu'à la mise en œuvre d'une telle procédure, les présentations des modifications nécessitant l'approbation à l'échelon du SMA ou supérieur à cet échelon doivent être préparées en utilisant les formulaires de Demande de modification de contrat (séries DSS MAS 1151) celles-ci ne seront pas assujetties à un examen complet de la Direction générale de la vérification et de l'examen, par contre, elles seront acheminées par l'entremise du SMA de la DGSA. Les présentations des modifications de contrats nécessitant l'approbation du CT continueront à être assujetties à un examen de la DGVE.</p>
+<h3>7. Information sur l'approvisionnement au ministre</h3>
+<p>Les pouvoirs relatifs aux contrats et aux modifications de contrats ont été délégués à la condition que l'information sur l'approvisionnement soit transmise au bureau du ministre lorsque la valeur des contrats ou des modifications de contrats dépassent les seuils déterminés. Les procédures détaillées pour transmettre l'information au ministre sont décrites dans l'Avis relatif aux politiques 32, en date du 31 mars 1998, et dans la mise à jour de cet avis émise le 15 juillet 1998.</p>
+<p>La condition, pour annoncer à la haute direction les plans d'achat pour les achats d'une valeur prévue de 1 million de dollars ou plus, et le résumé de la Demande de contrat, 48 heures avant l'approbation du contrat, ne font pas partie de la nouvelle délégation et ne s'appliquent plus.</p>
+<p>Les plans d'achats formels qui résulteront en contrats qui nécessiteront l'approbation à l'échelon du SMA ou supérieur à cet échelon devront, toutefois, être révisés par la DGVE avant de les soumettre au Bureau du SMA.</p>
+<h3>Annexe A</h3>
+<h4>Plafonds des pouvoirs d'attribution des marchés de biens</h4>
+<h4>Contrats et modifications aux contrats</h4>
+<h4>En vigueur le 17 juillet 1998</h4>
+<table class="basic">
+<tbody><tr>
+<td rowspan="2"> </td>
+<th colspan="2" id="AP-35header1" scope="colgroup">Invitation électronique à soumissionner</th>
+<th colspan="2" id="AP-35header2" scope="colgroup">Avec concurrence</th>
+<th colspan="2" id="AP-35header3" scope="colgroup">Sans concurrence</th>
+</tr>
+<tr>
+<th id="AP-35header4" scope="col">Marché d'ori<br/>
+							gine</th>
+<th id="AP-35header5" scope="col">Ensemble des modifica<br/>
+							tions</th>
+<th id="AP-35header6" scope="col">Marché d'ori<br/>
+							gine</th>
+<th id="AP-35header7" scope="col">Ensemble des modifica<br/>
+							tions</th>
+<th id="AP-35header8" scope="col">Marché d'ori<br/>
+							gine</th>
+<th id="AP-35header9" scope="col">Ensemble des modifica<br/>
+							tions</th>
+</tr>
+<tr>
+<td scope="row">Plafond ministériel</td>
+<td align="center" headers="header1 header4">40 M$</td>
+<td align="center" headers="header1 header5">20 M$</td>
+<td align="center" headers="header2 header6">10 M$</td>
+<td align="center" headers="header2 header7">5 M$</td>
+<td align="center" headers="header3 header8">2 M$</td>
+<td align="center" headers="header3 header9">1 M$</td>
+</tr>
+<tr>
+<td scope="row">SMA</td>
+<td align="center" headers="header1 header4">20 M$</td>
+<td align="center" headers="header1 header5"><strong>200 k$ ou 10 % du marché d'origine jusqu'à conc. de 1 M$</strong></td>
+<td align="center" headers="header2 header6">5 M$</td>
+<td align="center" headers="header2 header7"><strong>200 k$ ou 10 % du marché d'origine jusqu'à conc. de 1 M$</strong></td>
+<td align="center" headers="header3 header8">1 M$</td>
+<td align="center" headers="header3 header9"><strong>40 k$ ou 10 % du marché d'origine jusqu'à conc. de 1 M$</strong></td>
+</tr>
+<tr>
+<td scope="row">DG, DGR, DR de l'approvi-<br/>
+							sionnement<br/>
+							Directeur de la DBC et de la DGGPA</td>
+<td align="center" headers="header1 header4">20 M$</td>
+<td align="center" headers="header1 header5"><strong>200 k$ ou 10 % du marché d'origine jusqu'à conc. de 500 k$</strong></td>
+<td align="center" headers="header2 header6">5 M$</td>
+<td align="center" headers="header2 header7"><strong>200 k$ ou 10 % du marché d'origine jusqu'à conc. de 500 k$</strong></td>
+<td align="center" headers="header3 header8">500 k $</td>
+<td align="center" headers="header3 header9"><strong>40 k$ ou 10 % du marché d'origine jusqu'à conc. de 500 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Directeurs principaux</td>
+<td align="center" headers="header1 header4">10 M$</td>
+<td align="center" headers="header1 header5"><strong>200 k$ ou 10 % du marché d'origine jusqu'à conc. de 500 k$</strong></td>
+<td align="center" headers="header2 header6">2,5 M$</td>
+<td align="center" headers="header2 header7"><strong>200 k$ ou 10 % du marché d'origine jusqu'à conc. de 500 k$</strong></td>
+<td align="center" headers="header3 header8">500 k$</td>
+<td align="center" headers="header3 header9"><strong>40 k$ ou 10 % du marché d'origine jusqu'à conc. de 500 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Directeurs</td>
+<td align="center" headers="header1 header4">10 M$</td>
+<td align="center" headers="header1 header5"><strong>200 k$ ou 10 % du marché d'origine jusqu'à conc. de 500 K$</strong></td>
+<td align="center" headers="header2 header6">2,5 M$</td>
+<td align="center" headers="header2 header7"><strong>200 k$ ou 10 % du marché d'origine jusqu'à conc. de 500 K$</strong></td>
+<td align="center" headers="header3 header8">500 k$</td>
+<td align="center" headers="header3 header9"><strong>40 k$ ou 10 % du marché d'origine jusqu'à conc. de 500 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Gestionnaires</td>
+<td align="center" headers="header1 header4">1 M$</td>
+<td align="center" headers="header1 header5">200 k$</td>
+<td align="center" headers="header2 header6">1 M$</td>
+<td align="center" headers="header2 header7">200 k$</td>
+<td align="center" headers="header3 header8">400 k$</td>
+<td align="center" headers="header3 header9"><strong>40 k$ ou 10 % du marché d'origine jusqu'à conc. de 200 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Chefs</td>
+<td align="center" headers="header1 header4">400 k$</td>
+<td align="center" headers="header1 header5">100 k$</td>
+<td align="center" headers="header2 header6">400 k$</td>
+<td align="center" headers="header2 header7">100 k$</td>
+<td align="center" headers="header3 header8">200 k$</td>
+<td align="center" headers="header3 header9"><strong>40 k$ ou 10 % du marché d'origine jusqu'à conc. de 100 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Agents principaux de gestion des contrats</td>
+<td align="center" headers="header1 header4">300 k$</td>
+<td align="center" headers="header1 header5">50 k$</td>
+<td align="center" headers="header2 header6">300 k$</td>
+<td align="center" headers="header2 header7">50 k$</td>
+<td align="center" headers="header3 header8">100 k$</td>
+<td align="center" headers="header3 header9"><strong>40 k$ ou 10 % du marché d'origine jusqu'à conc. de 50 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Agents de gestion des contrats</td>
+<td align="center" headers="header1 header4">200 k$</td>
+<td align="center" headers="header1 header5">25 k$</td>
+<td align="center" headers="header2 header6">200 k$</td>
+<td align="center" headers="header2 header7">25 k$</td>
+<td align="center" headers="header3 header8">50 k$</td>
+<td align="center" headers="header3 header9">25 k$</td>
+</tr>
+<tr>
+<td scope="row">Agents de négociation des contrats</td>
+<td align="center" headers="header1 header4">100 k$</td>
+<td align="center" headers="header1 header5">15 k$</td>
+<td align="center" headers="header2 header6">100 k$</td>
+<td align="center" headers="header2 header7">15 k$</td>
+<td align="center" headers="header3 header8">30 k$</td>
+<td align="center" headers="header3 header9">15 k$</td>
+</tr>
+<tr>
+<td scope="row">Acheteurs</td>
+<td align="center" headers="header1 header4">70 k$</td>
+<td align="center" headers="header1 header5">10 k$</td>
+<td align="center" headers="header2 header6">70 k$</td>
+<td align="center" headers="header2 header7">10 k$</td>
+<td align="center" headers="header3 header8">20 k$</td>
+<td align="center" headers="header3 header9">10 k$</td>
+</tr>
+<tr>
+<td scope="row">Adjoints principaux des achats</td>
+<td align="center" headers="header1 header4">40 k$</td>
+<td align="center" headers="header1 header5">5 k$</td>
+<td align="center" headers="header2 header6">40 k$</td>
+<td align="center" headers="header2 header7">5 k$</td>
+<td align="center" headers="header3 header8">10 k$</td>
+<td align="center" headers="header3 header9">5 k$</td>
+</tr>
+<tr>
+<td scope="row">Commis-<br/>
+							acheteurs</td>
+<td align="center" headers="header1 header4">10 k$</td>
+<td align="center" headers="header1 header5">2 k$</td>
+<td align="center" headers="header2 header6">10 k$</td>
+<td align="center" headers="header2 header7">2 k$</td>
+<td align="center" headers="header3 header8">4 k$</td>
+<td align="center" headers="header3 header9">2 k$</td>
+</tr>
+</tbody></table>
+<h3>Nota :</h3>
+<p><strong>Titres des postes : </strong>Les titres des postes indiqués si-dessus sont des exemples seulement - tous les postes équivalent (tels qu'indiqués à l'annexe B) ont les même pouvoirs tels que susmentionnés.</p>
+<p><strong>Ratifications : </strong>Les pouvoirs pour approuver les accords qui impliquent: un travail précontractuel, une ratification des engagements contractuels antérieurs, les confirmations de commandes, ou contrats/modifications qui comprennent les clauses de reconnaissement et de débit, ou toute autre élément rétroactif sont limités à 50 % des valeurs seuils en dollars précisés ci-dessus.  Le pouvoir d'approbation minimal est à l'echelon du Directeur.</p>
+<p>Les modifications des pouvoirs sont indiqués en caractères <strong>GRAS</strong>.</p>
+<hr/>
+<h4>Plafonds des pouvoirs d'attribution des marchés de services</h4>
+<h4>Contrats et modifications aux contrats</h4>
+<h4>En vigueur le 17 juillet 1998</h4>
+<table class="basic">
+<tbody><tr>
+<td rowspan="2"> </td>
+<th colspan="2" id="AP-35head1" scope="colgroup">Invitation électronique à soumissionner</th>
+<th colspan="2" id="AP-35head2" scope="colgroup">Avec concurrence</th>
+<th colspan="2" id="AP-35head3" scope="colgroup">Sans concurrence</th>
+</tr>
+<tr>
+<th id="AP-35head4" scope="col">Marché d'ori<br/>
+							gine</th>
+<th id="AP-35head5" scope="col">Ensemble des modifica<br/>
+							tions</th>
+<th id="AP-35head6" scope="col">Marché d'ori<br/>
+							gine</th>
+<th id="AP-35head7" scope="col">Ensemble des modifica<br/>
+							tions</th>
+<th id="AP-35head8" scope="col">Marché d'ori<br/>
+							gine</th>
+<th id="AP-35head9" scope="col">Ensemble des modifica<br/>
+							tions</th>
+</tr>
+<tr>
+<td scope="row">Plafond ministériel</td>
+<td align="center" headers="head1 head4">20 M$</td>
+<td align="center" headers="head1 head5">10 M$</td>
+<td align="center" headers="head2 head6">10 M$</td>
+<td align="center" headers="head2 head7">5 M$</td>
+<td align="center" headers="head3 head8">3 M$</td>
+<td align="center" headers="head3 head9">1,5 M$</td>
+</tr>
+<tr>
+<td scope="row">SMA</td>
+<td align="center" headers="head1 head4">10 M$</td>
+<td align="center" headers="head1 head5">1 M$</td>
+<td align="center" headers="head2 head6">5 M$</td>
+<td align="center" headers="head2 head7"><strong>200 k$ ou 10 % du marché d'origine jusqu'à conc. de 1 M$</strong></td>
+<td align="center" headers="head3 head8">1,5 M$</td>
+<td align="center" headers="head3 head9"><strong>50 k$ ou 10 % du marché d'origine jusqu'à conc. de 1M$</strong></td>
+</tr>
+<tr>
+<td scope="row">DG, DGR, DR de l'approvi-<br/>
+							sionnement<br/>
+							Directeur de la DBC et de la DGGPA</td>
+<td align="center" headers="head1 head4">10 M$</td>
+<td align="center" headers="head1 head5">800 k$</td>
+<td align="center" headers="head2 head6">5 M $</td>
+<td align="center" headers="head2 head7"><strong>200 k$ ou 10 % du marché d'origine jusqu'à conc. de 800 k$</strong></td>
+<td align="center" headers="head3 head8">800 k$</td>
+<td align="center" headers="head3 head9"><strong>50 k$ ou 10 % du marché d'origine jusqu'à conc. de 800 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Directeurs principaux</td>
+<td align="center" headers="head1 head4">5 M$</td>
+<td align="center" headers="head1 head5">400 k$</td>
+<td align="center" headers="head2 head6">2,5 M$</td>
+<td align="center" headers="head2 head7"><strong>200 k$ ou 10 % du marché d'origine jusqu'à conc. de 400 k$</strong></td>
+<td align="center" headers="head3 head8">400 k$</td>
+<td align="center" headers="head3 head9"><strong>50 k$ ou 10 % du marché d'origine jusqu'à conc. de 400 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Directeurs</td>
+<td align="center" headers="head1 head4">5 M$</td>
+<td align="center" headers="head1 head5">400 k$</td>
+<td align="center" headers="head2 head6">2,5 M$</td>
+<td align="center" headers="head2 head7"><strong>200 k$ ou 10 % du marché d'origine jusqu'à conc. de 400 k$</strong></td>
+<td align="center" headers="head3 head8">400 k$</td>
+<td align="center" headers="head3 head9"><strong>50 k$ ou 10 % du marché d'origine jusqu'à conc. de 400 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Gestionnaires</td>
+<td align="center" headers="head1 head4">1 M$</td>
+<td align="center" headers="head1 head5">200 k$</td>
+<td align="center" headers="head2 head6">1 M$</td>
+<td align="center" headers="head2 head7">200 k$</td>
+<td align="center" headers="head3 head8">400 k$</td>
+<td align="center" headers="head3 head9"><strong>50 k$ ou 10 % du marché d'origine jusqu'à conc. de 200 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Chefs</td>
+<td align="center" headers="head1 head4">400 k$</td>
+<td align="center" headers="head1 head5">100 k$</td>
+<td align="center" headers="head2 head6">400 k$</td>
+<td align="center" headers="head2 head7">100 k$</td>
+<td align="center" headers="head3 head8">200 k$</td>
+<td align="center" headers="head3 head9"><strong>50 k$ ou 10 % du marché d'origine jusqu'à conc. de 100 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Agents principaux de gestion des contrats</td>
+<td align="center" headers="head1 head4">300 k$</td>
+<td align="center" headers="head1 head5">50 k$</td>
+<td align="center" headers="head2 head6">300 k$</td>
+<td align="center" headers="head2 head7">50 k$</td>
+<td align="center" headers="head3 head8">100 k$</td>
+<td align="center" headers="head3 head9"><strong>50 k$ ou 10 % du marché d'origine jusqu'à conc. de 50 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Agents de gestion des contrats</td>
+<td align="center" headers="head1 head4">200 k$</td>
+<td align="center" headers="head1 head5">25 k$</td>
+<td align="center" headers="head2 head6">200 k$</td>
+<td align="center" headers="head2 head7">25 k$</td>
+<td align="center" headers="head3 head8">50 k$</td>
+<td align="center" headers="head3 head9">25 k$</td>
+</tr>
+<tr>
+<td scope="row">Agents de négociation des contrats</td>
+<td align="center" headers="head1 head4">100 k$</td>
+<td align="center" headers="head1 head5">15 k$</td>
+<td align="center" headers="head2 head6">100 k$</td>
+<td align="center" headers="head2 head7">15 k$</td>
+<td align="center" headers="head3 head8">30 k$</td>
+<td align="center" headers="head3 head9">15 k$</td>
+</tr>
+<tr>
+<td scope="row">Acheteurs</td>
+<td align="center" headers="head1 head4">70 k$</td>
+<td align="center" headers="head1 head5">10 k$</td>
+<td align="center" headers="head2 head6">70 k$</td>
+<td align="center" headers="head2 head7">10 k$</td>
+<td align="center" headers="head3 head8">20 k$</td>
+<td align="center" headers="head3 head9">10 k$</td>
+</tr>
+<tr>
+<td scope="row">Adjoints principaux des achats</td>
+<td align="center" headers="head1 head4">40 k$</td>
+<td align="center" headers="head1 head5">5 k$</td>
+<td align="center" headers="head2 head6">40 k$</td>
+<td align="center" headers="head2 head7">5 k$</td>
+<td align="center" headers="head3 head8">10 k$</td>
+<td align="center" headers="head3 head9">5 k$</td>
+</tr>
+<tr>
+<td scope="row">Commis-<br/>
+							acheteurs</td>
+<td align="center" headers="head1 head4">10 k$</td>
+<td align="center" headers="head1 head5">2 k$</td>
+<td align="center" headers="head2 head6">10 k$</td>
+<td align="center" headers="head2 head7">2 k$</td>
+<td align="center" headers="head3 head8">4 k$</td>
+<td align="center" headers="head3 head9">2 k$</td>
+</tr>
+</tbody></table>
+<h3>Nota :</h3>
+<p><strong>Titres des postes : </strong>Les titres des postes indiqués si-dessus sont des exemples seulement - tous les postes équivalents (tels qu'indiqués à l'annexe B) ont les mêmes pouvoirs tels que susmentionnés.</p>
+<p><strong>Ratifications </strong>: Les pouvoirs pour approuver les accords qui impliquent: un travail précontractuel, une ratification des engagements contractuels antérieurs, les confirmations de commandes, ou contrats/modifications qui comprennent les clauses de reconnaissement et de débit, ou toute autre élément rétroactif sont limités à 50 % des valeurs seuils en dollars précisés ci-dessus. Le pouvoir d'approbation minimal est à l'echelon du Directeur.</p>
+<p>Les modifications des pouvoirs sont indiqués en caractères <strong>GRAS.</strong></p>
+<hr/>
+<h4>Plafond des pouvoirs d'attribution des marchés de construction</h4>
+<h4>Contrats et modifications de contrats</h4>
+<h4>En vigueur le 17 juillet 1998</h4>
+<table class="basic">
+<tbody><tr>
+<td rowspan="2"> </td>
+<th colspan="2" id="AP-35tablehead1" scope="colgroup">Invitation électronique à soumissionner</th>
+<th colspan="2" id="AP-35tablehead2" scope="colgroup">Avec concurrence</th>
+<th colspan="2" id="AP-35tablehead3" scope="colgroup">Sans concurrence</th>
+</tr>
+<tr>
+<th id="AP-35tablehead4" scope="col">Marché d'ori<br/>
+							gine</th>
+<th id="AP-35tablehead5" scope="col">Ensemble des modifica<br/>
+							tions</th>
+<th id="AP-35tablehead6" scope="col">Marché d'ori<br/>
+							gine</th>
+<th id="AP-35tablehead7" scope="col">Ensemble des modifica<br/>
+							tions</th>
+<th id="AP-35tablehead8" scope="col">Marché d'ori<br/>
+							gine</th>
+<th id="AP-35tablehead9" scope="col">Ensemble des modifica<br/>
+							tions</th>
+</tr>
+<tr>
+<td scope="row">Plafond ministériel</td>
+<td align="center" headers="tablehead1 tablehead4">20 M$</td>
+<td align="center" headers="tablehead1 tablehead5">10 M$</td>
+<td align="center" headers="tablehead2 tablehead6">10 M$</td>
+<td align="center" headers="tablehead2 tablehead7">5 M$</td>
+<td align="center" headers="tablehead3 tablehead8">500 k$</td>
+<td align="center" headers="tablehead3 tablehead9">500 k$</td>
+</tr>
+<tr>
+<td scope="row">SMA</td>
+<td align="center" headers="tablehead1 tablehead4">10 M$</td>
+<td align="center" headers="tablehead1 tablehead5"><strong>200 k$ ou 10 % du marché d'origine jusqu'à conc. de 1 M$</strong></td>
+<td align="center" headers="tablehead2 tablehead6">5 M$</td>
+<td align="center" headers="tablehead2 tablehead7"><strong>200 k$ ou 10 % du marché d'origine jusqu'à conc. de 1 M$</strong></td>
+<td align="center" headers="tablehead3 tablehead8">250 k$</td>
+<td align="center" headers="tablehead3 tablehead9"><strong>40 k$ ou 10 % du marché d'origine jusqu'à conc. de 500 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">DG, DGR, DR de l'approvi-<br/>
+							sionnement<br/>
+							Directeur de la DBC et de la DGGPA</td>
+<td align="center" headers="tablehead1 tablehead4">10 M$</td>
+<td align="center" headers="tablehead1 tablehead5">125 k$</td>
+<td align="center" headers="tablehead2 tablehead6">5 M$</td>
+<td align="center" headers="tablehead2 tablehead7">125 k$</td>
+<td align="center" headers="tablehead3 tablehead8">125 k$</td>
+<td align="center" headers="tablehead3 tablehead9"><strong>40 k$ ou 10 % du marché d'origine jusqu'à conc. de 125 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Directeurs principaux</td>
+<td align="center" headers="tablehead1 tablehead4">5 M$</td>
+<td align="center" headers="tablehead1 tablehead5">125 k$</td>
+<td align="center" headers="tablehead2 tablehead6">2,5 M$</td>
+<td align="center" headers="tablehead2 tablehead7">125 k$</td>
+<td align="center" headers="tablehead3 tablehead8">125 k$</td>
+<td align="center" headers="tablehead3 tablehead9"><strong>40 k$ ou 10 % du marché d'origine jusqu'à conc. de 125 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Directeurs</td>
+<td align="center" headers="tablehead1 tablehead4">5 M$</td>
+<td align="center" headers="tablehead1 tablehead5">125 k$</td>
+<td align="center" headers="tablehead2 tablehead6">2,5 M$</td>
+<td align="center" headers="tablehead2 tablehead7">125 k$</td>
+<td align="center" headers="tablehead3 tablehead8">125 k$</td>
+<td align="center" headers="tablehead3 tablehead9"><strong>40 k$ ou 10 % du marché d'origine jusqu'à conc. de 125 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Gestionnaires</td>
+<td align="center" headers="tablehead1 tablehead4">5 M$</td>
+<td align="center" headers="tablehead1 tablehead5">125 k$</td>
+<td align="center" headers="tablehead2 tablehead6">2,5 M$</td>
+<td align="center" headers="tablehead2 tablehead7">125 k$</td>
+<td align="center" headers="tablehead3 tablehead8">125 k$</td>
+<td align="center" headers="tablehead3 tablehead9"><strong>40 k$ ou 10 % du marché d'origine jusqu'à conc. de 125 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Chefs</td>
+<td align="center" headers="tablehead1 tablehead4">1 M$</td>
+<td align="center" headers="tablehead1 tablehead5">50 k$</td>
+<td align="center" headers="tablehead2 tablehead6">1 M$</td>
+<td align="center" headers="tablehead2 tablehead7">50 k$</td>
+<td align="center" headers="tablehead3 tablehead8">30 k$</td>
+<td align="center" headers="tablehead3 tablehead9"><strong>40 k$ ou 10 % du marché d'origine jusqu'à conc. de 50 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Agents de négociation de contrats</td>
+<td align="center" headers="tablehead1 tablehead4">500 k$</td>
+<td align="center" headers="tablehead1 tablehead5">25 k$</td>
+<td align="center" headers="tablehead2 tablehead6">500 k$</td>
+<td align="center" headers="tablehead2 tablehead7">25 k$</td>
+<td align="center" headers="tablehead3 tablehead8">25 k$</td>
+<td align="center" headers="tablehead3 tablehead9">25 k$</td>
+</tr>
+</tbody></table>
+<h3>Nota :</h3>
+<p><strong>Titres des postes : </strong>Les titres des postes indiqués ci-dessus sont des exemples seulement - tous les postes équivalents (tels qu'indiqués à l'annexe B) ont les mêmes pouvoirs maximaux tels que susmentionnés. Les pouvoirs indiqués peuvent être restreints par des secteurs ou des régions. Veuillez communiquer avec votre agent responsable de l'assurance de la qualité afin de confirmer vos pouvoirs.</p>
+<p><strong>Ratifications : </strong>Les pouvoirs pour approuver les accords qui impliquent: un travail précontractuel, une ratification des engagements contractuels antérieurs, les confirmations de commandes, ou contrats/modifications qui comprennent les clauses de reconnaissement et de débit, ou toute autre élément rétroactif sont limités à 50 % des valeurs seuils en dollars précisés ci-dessus. Le pouvoir d'approbation minimal est à l'echelon du Directeur.</p>
+<p><strong>Construction de Défense Canada : </strong>Les pouvoirs d'attribution des marchés de construction, quand le client est le Ministère de la Défense nationale sont limités suite à une entente entre TPSGC et Construction de Défense Canada (CDC). Il a été convenu que TPSGC n'achètera des services de construction pour la Défense nationale que si la valeur est moins de 60,000 $. Si la valeur d'achat dépasse 60,000 $ l'approbation doit être obtenue de CDC.</p>
+<p>Les modifications des pouvoirs sont indiqués en caractères <strong>GRAS</strong>.</p>
+<hr/>
+<h4>Plafonds des pouvoirs d'attribution des marchés de services de télécommunications</h4>
+<h4>Contrats et modifications de contrats</h4>
+<h4>En vigueur le 17 juillet 1998</h4>
+<table class="basic">
+<tbody><tr>
+<td rowspan="2"> </td>
+<th colspan="2" id="AP-35thead1" scope="colgroup">Invitation électronique à soumissionner</th>
+<th colspan="2" id="AP-35thead2" scope="colgroup">Avec concurrence</th>
+<th colspan="2" id="AP-35thead3" scope="colgroup">Sans concurrence</th>
+</tr>
+<tr>
+<th id="AP-35thead4" scope="col">Marché d'ori<br/>
+							gine</th>
+<th id="AP-35thead5" scope="col">Ensemble des modifica<br/>
+							tions</th>
+<th id="AP-35thead6" scope="col">Marché d'ori<br/>
+							gine</th>
+<th id="AP-35thead7" scope="col">Ensemble des modifica<br/>
+							tions</th>
+<th id="AP-35thead8" scope="col">Marché d'ori<br/>
+							gine</th>
+<th id="AP-35thead9" scope="col">Ensemble des modifica<br/>
+							tions</th>
+</tr>
+<tr>
+<td scope="row">Plafond ministériel</td>
+<td align="center" headers="thead1 thead4">200 M$</td>
+<td align="center" headers="thead1 thead5">100 M$</td>
+<td align="center" headers="thead2 thead6">20 M$</td>
+<td align="center" headers="thead2 thead7">10 M$</td>
+<td align="center" headers="thead3 thead8">3 M$</td>
+<td align="center" headers="thead3 thead9">1,5 M$</td>
+</tr>
+<tr>
+<td scope="row">SMA</td>
+<td align="center" headers="thead1 thead4">100 M$</td>
+<td align="center" headers="thead1 thead5">1 M$</td>
+<td align="center" headers="thead2 thead6">10 M$</td>
+<td align="center" headers="thead2 thead7"><strong>200 k$ ou 10 % du marché d'origine jusqu'à conc. de 1 M$</strong></td>
+<td align="center" headers="thead3 thead8">1,5 M$</td>
+<td align="center" headers="thead3 thead9"><strong>50 k$ ou 10 % du marché d'origine jusqu'à conc. de 1 M$</strong></td>
+</tr>
+<tr>
+<td scope="row">DG, DGR, DR de l'approvi-<br/>
+							sionnement<br/>
+							Directeur de la DBC et de la DGGPA</td>
+<td align="center" headers="thead1 thead4">100 M$</td>
+<td align="center" headers="thead1 thead5">800 k$</td>
+<td align="center" headers="thead2 thead6">10 M$</td>
+<td align="center" headers="thead2 thead7"><strong>200 k$ ou 10 % du marché d'origine jusqu'à conc. de 800 K$</strong></td>
+<td align="center" headers="thead3 thead8">800 k$</td>
+<td align="center" headers="thead3 thead9"><strong>50 k$ ou 10 % du marché d'origine jusqu'à conc. de 800 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Directeurs principaux</td>
+<td align="center" headers="thead1 thead4">50 M$</td>
+<td align="center" headers="thead1 thead5">400 k$</td>
+<td align="center" headers="thead2 thead6">5 M$</td>
+<td align="center" headers="thead2 thead7"><strong>200 k$ ou 10 % du marché d'origine jusqu'à conc. de 400 k$</strong></td>
+<td align="center" headers="thead3 thead8">400 k$</td>
+<td align="center" headers="thead3 thead9"><strong>50 k$ ou 10 % du marché d'origine jusqu'à conc. de 400 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Directeurs</td>
+<td align="center" headers="thead1 thead4">50 M$</td>
+<td align="center" headers="thead1 thead5"><strong>200 k$ ou 10 % du marché d'origine jusqu'à conc. de 400 k$</strong></td>
+<td align="center" headers="thead2 thead6">5 M$</td>
+<td align="center" headers="thead2 thead7"><strong>200 k$ ou 10 % du marché d'origine jusqu'à conc. de 400 k$</strong></td>
+<td align="center" headers="thead3 thead8">400 k$</td>
+<td align="center" headers="thead3 thead9"><strong>50 k$ ou 10 % du marché d'origine jusqu'à conc. de 400 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Gestionnaires</td>
+<td align="center" headers="thead1 thead4">1 M$</td>
+<td align="center" headers="thead1 thead5">200 k$</td>
+<td align="center" headers="thead2 thead6">1 M$</td>
+<td align="center" headers="thead2 thead7">200 k$</td>
+<td align="center" headers="thead3 thead8">400 k$</td>
+<td align="center" headers="thead3 thead9"><strong>50 k$ ou 10 % du marché d'origine jusqu'à conc. de 200 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Chefs</td>
+<td align="center" headers="thead1 thead4">400 k$</td>
+<td align="center" headers="thead1 thead5">100 k$</td>
+<td align="center" headers="thead2 thead6">400 k$</td>
+<td align="center" headers="thead2 thead7">100 k$</td>
+<td align="center" headers="thead3 thead8">200 k$</td>
+<td align="center" headers="thead3 thead9"><strong>50 k$ ou 10 % du marché d'origine jusqu'à conc. de 100 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Agents principaux de gestion des contrats</td>
+<td align="center" headers="thead1 thead4">300 k$</td>
+<td align="center" headers="thead1 thead5">50 k$</td>
+<td align="center" headers="thead2 thead6">300 k$</td>
+<td align="center" headers="thead2 thead7">50 k$</td>
+<td align="center" headers="thead3 thead8">100 k$</td>
+<td align="center" headers="thead3 thead9"><strong>50 k$ ou 10 % du marché d'origine jusqu'à conc. de 50 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Agents de gestion des contrats</td>
+<td align="center" headers="thead1 thead4">200 k$</td>
+<td align="center" headers="thead1 thead5">25 k$</td>
+<td align="center" headers="thead2 thead6">200 k$</td>
+<td align="center" headers="thead2 thead7">25 K$</td>
+<td align="center" headers="thead3 thead8">50 k$</td>
+<td align="center" headers="thead3 thead9">25 k$</td>
+</tr>
+<tr>
+<td scope="row">Agents de négociation des contrats</td>
+<td align="center" headers="thead1 thead4">100 k$</td>
+<td align="center" headers="thead1 thead5">15 k$</td>
+<td align="center" headers="thead2 thead6">100 k$</td>
+<td align="center" headers="thead2 thead7">15 k$</td>
+<td align="center" headers="thead3 thead8">30 k$</td>
+<td align="center" headers="thead3 thead9">15 k$</td>
+</tr>
+<tr>
+<td scope="row">Acheteurs</td>
+<td align="center" headers="thead1 thead4">70 k$</td>
+<td align="center" headers="thead1 thead5">10 k$</td>
+<td align="center" headers="thead2 thead6">70 k$</td>
+<td align="center" headers="thead2 thead7">10 k$</td>
+<td align="center" headers="thead3 thead8">20 k$</td>
+<td align="center" headers="thead3 thead9">10 k$</td>
+</tr>
+<tr>
+<td scope="row">Adjoints principaux des achats</td>
+<td align="center" headers="thead1 thead4">40 k$</td>
+<td align="center" headers="thead1 thead5">5 k$</td>
+<td align="center" headers="thead2 thead6">40 k$</td>
+<td align="center" headers="thead2 thead7">5 k$</td>
+<td align="center" headers="thead3 thead8">10 k$</td>
+<td align="center" headers="thead3 thead9">5 k$</td>
+</tr>
+<tr>
+<td scope="row">Commis-<br/>
+							acheteurs</td>
+<td align="center" headers="thead1 thead4">10 k$</td>
+<td align="center" headers="thead1 thead5">2 k$</td>
+<td align="center" headers="thead2 thead6">10 k$</td>
+<td align="center" headers="thead2 thead7">2 k$</td>
+<td align="center" headers="thead3 thead8">4 k$</td>
+<td align="center" headers="thead3 thead9">2 k$</td>
+</tr>
+</tbody></table>
+<h3>Nota:</h3>
+<p><strong>Titres des postes : </strong>Les titres des postes indiqués si-dessus sont des exemples seulement - tous les postes équivalents (tels qu'indiqués à l'annexe B) ont les mêmes pouvoirs tels que susmentionnés.</p>
+<p><strong>Ratifications : </strong>Les pouvoirs pour approuver les accords qui impliquent: un travail précontractuel, une ratification des engagements contractuels antérieurs, les confirmations de commandes, ou contrats/modifications qui comprennent les clauses de reconnaissement et de débit, ou toute autre élément rétroactif sont limités à 50 % des valeurs seuils en dollars précisés ci-dessus. Le pouvoir d'approbation minimal est à l'echelon du Directeur.</p>
+<p>Les modifications des pouvoirs sont indiqués en caractères <strong>GRAS.</strong></p>
+<hr/>
+<h4>Plafonds des pouvoirs d'attribution des marchés de services d'architecture et de génie</h4>
+<h4>Contrats et modifications de contrats</h4>
+<h4>En vigueur le 17 juillet 1998</h4>
+<table class="basic">
+<tbody><tr>
+<td rowspan="2"> </td>
+<th colspan="2" id="AP-35header10" scope="colgroup">Invitation électronique à soumissionner</th>
+<th colspan="2" id="AP-35header11" scope="colgroup">Avec concurrence</th>
+<th colspan="2" id="AP-35header12" scope="colgroup">Sans concurrence</th>
+</tr>
+<tr>
+<th id="AP-35header13" scope="col">Marché d'ori<br/>
+							gine</th>
+<th id="AP-35header14" scope="col">Ensemble des modifica<br/>
+							tions</th>
+<th id="AP-35header15" scope="col">Marché d'ori<br/>
+							gine</th>
+<th id="AP-35header16" scope="col">Ensemble des modifica<br/>
+							tions</th>
+<th id="AP-35header17" scope="col">Marché d'ori<br/>
+							gine</th>
+<th id="AP-35header18" scope="col">Ensemble des modifica<br/>
+							tions</th>
+</tr>
+<tr>
+<td scope="row">Plafond ministériel</td>
+<td align="center" headers="header10 header13">2 M$</td>
+<td align="center" headers="header10 header14"><strong>1 M$ ou 25 % du marché d'origine jusqu'à conc. de 2 M$</strong></td>
+<td align="center" headers="header11 header15">1 M$</td>
+<td align="center" headers="header11 header16"><strong>250 k$ ou 25 % du marché d'origine jusqu'à conc. de 1 M$</strong></td>
+<td align="center" headers="header12 header17">100 k$</td>
+<td align="center" headers="header12 header18">100 k$</td>
+</tr>
+<tr>
+<td scope="row">SMA</td>
+<td align="center" headers="header10 header13">1 M$</td>
+<td align="center" headers="header10 header14"><strong>20 k$ ou 10% du marché d'origine jusqu'à conc. de 1 M$</strong></td>
+<td align="center" headers="header11 header15">500 k$</td>
+<td align="center" headers="header11 header16"><strong>20 k$ ou 10 % du marché d'origine jusqu'à conc. de 1 M$</strong></td>
+<td align="center" headers="header12 header17">50 k$</td>
+<td align="center" headers="header12 header18"><strong>20 k$ ou 10 % du marché d'origine jusqu'à conc. de 100 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">DG, DGR, DR de l'approvi-<br/>
+							sionnement<br/>
+							Directeur de la DBC et de la DGGPA</td>
+<td align="center" headers="header10 header13">1 M$</td>
+<td align="center" headers="header10 header14"><strong>20 k$ ou 10 % du marché d'origine jusqu'à conc. de 50 k$</strong></td>
+<td align="center" headers="header11 header15">500 k$</td>
+<td align="center" headers="header11 header16"><strong>20 k$ ou 10 % du marché d'origine jusqu'à conc. de 50 k$</strong></td>
+<td align="center" headers="header12 header17">50 k$</td>
+<td align="center" headers="header12 header18"><strong>20 k$ ou 10 % du marché d'origine jusqu'à conc. de 50 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Directeurs principaux</td>
+<td align="center" headers="header10 header13">500 k$</td>
+<td align="center" headers="header10 header14"><strong>20 k$ ou 10 % du marché d'origine jusqu'à conc. de 50 k$</strong></td>
+<td align="center" headers="header11 header15">500 k$</td>
+<td align="center" headers="header11 header16"><strong>20 k$ ou 10 % du marché d'origine jusqu'à conc. de 50 k$</strong></td>
+<td align="center" headers="header12 header17">50 k$</td>
+<td align="center" headers="header12 header18"><strong>20 k$ ou 10 % du marché d'origine jusqu'à conc. de 50 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Directeurs</td>
+<td align="center" headers="header10 header13">500 k$</td>
+<td align="center" headers="header10 header14"><strong>20 k$ ou 10 % du marché d'origine jusqu'à conc. de 50 k$</strong></td>
+<td align="center" headers="header11 header15">500 k$</td>
+<td align="center" headers="header11 header16"><strong>20 k$ ou 10 % du marché d'origine jusqu'à conc. de 50 k$</strong></td>
+<td align="center" headers="header12 header17">50 k$</td>
+<td align="center" headers="header12 header18"><strong>20 k$ ou 10 % du marché d'origine jusqu'à conc. de 50 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Gestionnaires</td>
+<td align="center" headers="header10 header13">500 k$</td>
+<td align="center" headers="header10 header14"><strong>20 k$ ou 10 % du marché d'origine jusqu'à conc. de 50 k$</strong></td>
+<td align="center" headers="header11 header15">500 k$</td>
+<td align="center" headers="header11 header16"><strong>20 k$ ou 10 % du marché d'origine jusqu'à conc. de 50 k$</strong></td>
+<td align="center" headers="header12 header17">50 k$</td>
+<td align="center" headers="header12 header18"><strong>20 k$ ou 10 % du marché d'origine jusqu'à conc. de 50 k$</strong></td>
+</tr>
+<tr>
+<td scope="row">Chefs</td>
+<td align="center" headers="header10 header13">250 k$</td>
+<td align="center" headers="header10 header14"><strong>20 k$ ou 10 % du marché d'origine jusqu'à conc. de 50 k$</strong></td>
+<td align="center" headers="header11 header15">125 k$</td>
+<td align="center" headers="header11 header16"><strong>20 k$ ou 10 % du marché d'origine jusqu'à conc. de 50 k$</strong></td>
+<td align="center" headers="header12 header17">50 k$</td>
+<td align="center" headers="header12 header18">10 k$</td>
+</tr>
+<tr>
+<td scope="row">Agents de négociation des contrats</td>
+<td align="center" headers="header10 header13">100 k$</td>
+<td align="center" headers="header10 header14"> </td>
+<td align="center" headers="header11 header15">70 k$</td>
+<td align="center" headers="header11 header16"> </td>
+<td align="center" headers="header12 header17">25 k$</td>
+<td align="center" headers="header12 header18"> </td>
+</tr>
+</tbody></table>
+<h3>Nota :</h3>
+<p><strong>Titres des postes : </strong>Les titres des postes indiqués ci-dessus sont des exemples seulement - tous les postes équivalents (tels qu'indiqués à l'annexe B) ont les mêmes pouvoirs maximaux tels que susmentionnés. Les pouvoirs indiqués peuvent être restreints par des secteurs ou des régions. Veuillez communiquer avec votre agent responsable de l'assurance de la qualité afin de confirmer vos pouvoirs.</p>
+<p><strong>Ratifications : </strong>Les pouvoirs pour approuver les accords qui impliquent: un travail précontractuel, une ratification des engagements contractuels antérieurs, les confirmations de commandes, ou contrats/modifications qui comprennent les clauses de reconnaissement et de débit, ou toute autre élément rétroactif sont limités à 50 % des valeurs seuils en dollars précisés ci-dessus. Le pouvoir d'approbation minimal est à l'echelon du Directeur.</p>
+<p>Les modifications des pouvoirs sont indiqués en caractères <strong>GRAS</strong>.</p>
+<h3>Annexe B</h3>
+<h4>Tableau des postes équivalents</h4>
+<p>SMA, Services des approvisionnements <br/>
+					Directeur exécutif, SCC </p>
+<p>Directeur général, Services des approvisionnements <br/>
+					Directeur général, SCC <br/>
+					Directeur général régional <br/>
+					Directeur régional, Approvisionnements <br/>
+					Directeur, Aliénation des biens de la Couronne <br/>
+					Directeur, Gestion des biens immobiliers <br/>
+					Directeur, Région de l'Europe* <br/>
+					Directeur, Région de Washington* </p>
+<p>Directeur principal, Direction des achats <br/>
+					Directeur, Services des approvisionnements <br/>
+					Directeur, SCC <br/>
+					Sous-directeur <br/>
+					Gestionnaire de projets <br/>
+					Gestionnaire des achats, Washington </p>
+<p>Gestionnaire <br/>
+					Gestionnaire de projet et des denrées <br/>
+					Producteur exécutif, SCC <br/>
+					Planificateur des approvisionnements <br/>
+					Analyste de la composition <br/>
+					Conseiller principal des comptes <br/>
+					Agent principal de négociation de contrats, Washington </p>
+<p>Chefs <br/>
+					Chef, Distribution des biens de la Couronne <br/>
+					Producteur associé, SCC <br/>
+					Gestionnaire des services à la clientèle et des denrées, Produits industriels et commerciaux </p>
+<p>Superviseur <br/>
+					Agent principal des approvisionnements <br/>
+					Agent principal de gestion des contrats <br/>
+					Chef d'équipe <br/>
+					Agent principal des dossiers <br/>
+					Agent de projets de génie <br/>
+					Agent des approvisionnements <br/>
+					Agents de gestion des marchés <br/>
+					Inspecteurs techniques de la Marine (lorsqu'ils exercent des fonctions d'achat) <br/>
+					Agents de négociation des contrats, Washington <br/>
+					Représentants, Biens saisis <br/>
+					Agent principal de négociation des marchés <br/>
+					Agent des dossiers <br/>
+					Spécialiste en recyclage </p>
+<p>Producteur, SCC <br/>
+					Agent des contrats <br/>
+					Agent de négociation des contrats <br/>
+					Agent du transport <br/>
+					Agent des services <br/>
+					Mandataires des achats <br/>
+					Agent des achats <br/>
+					Agent des produits d'imprimerie <br/>
+					Superviseur d'imprimerie </p>
+<p>Commis au transport <br/>
+					Acheteur </p>
+<p>Adjoint principal des achats</p>
+<p>Adjoint de production, SCC <br/>
+					Adjoint des achats <br/>
+					Représentant commercial, Distribution des biens de la Couronne <br/>
+					Représentant, Biens mobiliers saisis <br/>
+					Commis de projet <br/>
+					Commis de marchés <br/>
+					Commis à la négociation des marchés <br/>
+					Commis aux achats </p>
+<h3>Annexe C</h3>
+<h4>Établissement du pouvoir d'approbation des modifications</h4>
+<p>Voici un exemple sur la façon d'établir le fondé de pouvoir compétent pour une modification:</p>
+<p>Modification numéro 1 à un contrat de biens évalués à 250 000 $. La modification n'était pas approuvée antérieurement. La présentation du contrat initial a été approuvée à 3 millions de dollars - ce montant comprenait la valeur du contrat initial de 1 500 000 $ et une autre valeur de 1 500 000 $ approuvée pour les options à être exercées durant les deux années suivantes. Afin de déterminer le pouvoir d'approbation de la modification, veuillez procéder comme suit :</p>
+<ol>
+<li>Fixer lequel ou lesquels des titres de postes ont le pouvoir d'approbation de la modification global de 250 000 $ ou plus. (à l'échelon du Directeur ou supérieurs à cet échelon)</li>
+<li>Determiner le plafond du pouvoir d'approbation global du Directeur, soit 200 000 $ et 10 % de la présentation du contrat approuvé à l'origine (soit 10 % de 3 000 000 $ ou 300 000 $). En se basant sur cette comparaison, le Directeur peut approuver une valeur globale de la modification allant jusqu'à 300 000 $, et a le pouvoir d'approuver la modification numéro 1.</li>
+</ol>
+<p>La modification numéro 2 est évaluée à 110 000 $. Cette modification n'a pas été approuvée antérieurement. Afin de déterminer le pouvoir d'approbation de la modification , veuillez procéder comme suit :</p>
+<ol>
+<li>Déterminer lequel ou lesquels des titres de postes ont un pouvoir d'approbation global de la modification maximale de 360 000 $ (soit 250 000 $ plus 110 000 $). Dans ce cas, le pouvoir d'approbation se situe à l'échelon du directeur ou est supérieur à cet échelon.</li>
+<li>Fixer le plafond de pouvoir d'approbation de la modification établi par le Conseil du Trésor pour les autres ministères (200 000 $) et 10 % de la présentation du contrat initial approuvé (soit 10 % de 3 000 000 $ et 300 000 $). Dans le cas de ce contrat particulier, le pouvoir d'approbation global de la modification est évalué à 300 000 $. Seul le ministre peut approuver les modifications qui dépassent le plafond établi par le Conseil du Trésor pour les modifications et 10 % de la valeur initiale approuvée.</li>
+</ol>
+<p>La modification numéro 3 est évaluée à 2 000 $. Cette modification n'a pas été approuvée antérieurement. Dès que le ministre a approuvé une modification, toutes les modifications positives ultérieures qui n'ont pas été approuvées antérieurement nécessitent l'approbation du ministre. Par conséquent, il faut l'approbation du ministre.</p>
+<p>Veuillez prendre note que toutes les modifications évaluées à plus de 1 000 000 $ doivent être approuvées par le ministre.</p>
+<h3>Annexe D</h3>
+<h4>Plafonds du pouvoir d'approbation et de signature des contrats et des modifications de contrats.</h4>
+<h4>Les biens, les services, les services de télécommunications, les services d'architecture et de génie et les services de construction</h4>
+<table class="basic">
+<tbody><tr>
+<td rowspan="2"> </td>
+<th colspan="2" id="AP-35head10" scope="colgroup">Invitation électronique à soumissionner</th>
+<th colspan="2" id="AP-35head11" scope="colgroup">Avec concurrence</th>
+<th colspan="2" id="AP-35head12" scope="colgroup">Sans concurrence</th>
+</tr>
+<tr>
+<th id="AP-35head13" scope="col">Marché d'ori<br/>
+							gine</th>
+<th id="AP-35head14" scope="col">Ensemble des modifica<br/>
+							tions</th>
+<th id="AP-35head15" scope="col">Marché d'ori<br/>
+							gine</th>
+<th id="AP-35head16" scope="col">Ensemble des modifica<br/>
+							tions</th>
+<th id="AP-35head17" scope="col">Marché d'ori<br/>
+							gine</th>
+<th id="AP-35head18" scope="col">Ensemble des modifica<br/>
+							tions</th>
+</tr>
+<tr>
+<td scope="row">Plafond ministériel</td>
+<td align="center" headers="head10 head13">Pouvoirs complets</td>
+<td align="center" headers="head10 head14">Pouvoirs complets</td>
+<td align="center" headers="head11 head15">Pouvoirs complets</td>
+<td align="center" headers="head11 head16">Pouvoirs complets</td>
+<td align="center" headers="head12 head17">Pouvoirs complets</td>
+<td align="center" headers="head12 head18">Pouvoirs complets</td>
+</tr>
+<tr>
+<td scope="row">SMA</td>
+<td align="center" headers="head10 head13">Pouvoirs complets</td>
+<td align="center" headers="head10 head14">Pouvoirs complets</td>
+<td align="center" headers="head11 head15">Pouvoirs complets</td>
+<td align="center" headers="head11 head16">Pouvoirs complets</td>
+<td align="center" headers="head12 head17">Pouvoirs complets</td>
+<td align="center" headers="head12 head18">Pouvoirs complets</td>
+</tr>
+<tr>
+<td scope="row">DG, DGR, DR de l'approvi-<br/>
+							sionnement<br/>
+							Directeur de la DBC et de la DGGPA</td>
+<td align="center" headers="head10 head13">Pouvoirs complets</td>
+<td align="center" headers="head10 head14">Pouvoirs complets</td>
+<td align="center" headers="head11 head15">Pouvoirs complets</td>
+<td align="center" headers="head11 head16">Pouvoirs complets</td>
+<td align="center" headers="head12 head17">Pouvoirs complets</td>
+<td align="center" headers="head12 head18">Pouvoirs complets</td>
+</tr>
+<tr>
+<td scope="row">Directeurs principaux</td>
+<td align="center" headers="head10 head13">Pouvoirs complets</td>
+<td align="center" headers="head10 head14">Pouvoirs complets</td>
+<td align="center" headers="head11 head15">Pouvoirs complets</td>
+<td align="center" headers="head11 head16">Pouvoirs complets</td>
+<td align="center" headers="head12 head17">Pouvoirs complets</td>
+<td align="center" headers="head12 head18">Pouvoirs complets</td>
+</tr>
+<tr>
+<td scope="row">Directeurs</td>
+<td align="center" headers="head10 head13">Pouvoirs complets</td>
+<td align="center" headers="head10 head14">Pouvoirs complets</td>
+<td align="center" headers="head11 head15">Pouvoirs complets</td>
+<td align="center" headers="head11 head16">Pouvoirs complets</td>
+<td align="center" headers="head12 head17">Pouvoirs complets</td>
+<td align="center" headers="head12 head18">Pouvoirs complets</td>
+</tr>
+<tr>
+<td scope="row">Gestionnaires<br/>
+							Chefs régionaux</td>
+<td align="center" headers="head10 head13">Pouvoirs complets</td>
+<td align="center" headers="head10 head14">Pouvoirs complets</td>
+<td align="center" headers="head11 head15">Pouvoirs complets</td>
+<td align="center" headers="head11 head16">Pouvoirs complets</td>
+<td align="center" headers="head12 head17">Pouvoirs complets</td>
+<td align="center" headers="head12 head18">Pouvoirs complets</td>
+</tr>
+<tr>
+<td scope="row">Chefs</td>
+<td align="center" headers="head10 head13"><strong>1 M$</strong></td>
+<td align="center" headers="head10 head14"><strong>1 M$</strong></td>
+<td align="center" headers="head11 head15"><strong>1 M$</strong></td>
+<td align="center" headers="head11 head16"><strong>1 M$</strong></td>
+<td align="center" headers="head12 head17"><strong>1 M$</strong></td>
+<td align="center" headers="head12 head18"><strong>1 M$</strong></td>
+</tr>
+<tr>
+<td scope="row">Agents principaux de gestion des contrats</td>
+<td align="center" headers="head10 head13">800 k$</td>
+<td align="center" headers="head10 head14">200 k$</td>
+<td align="center" headers="head11 head15">800 k$</td>
+<td align="center" headers="head11 head16">200 k$</td>
+<td align="center" headers="head12 head17">400 k$</td>
+<td align="center" headers="head12 head18">200 k$</td>
+</tr>
+<tr>
+<td scope="row">Agents de gestion des contrats</td>
+<td align="center" headers="head10 head13">500 k$</td>
+<td align="center" headers="head10 head14">125 k$</td>
+<td align="center" headers="head11 head15">500 k$</td>
+<td align="center" headers="head11 head16">125 k$</td>
+<td align="center" headers="head12 head17">250 k$</td>
+<td align="center" headers="head12 head18">125 k$</td>
+</tr>
+<tr>
+<td scope="row">Agents de négociation des contrats</td>
+<td align="center" headers="head10 head13">200 k$</td>
+<td align="center" headers="head10 head14">50 k$</td>
+<td align="center" headers="head11 head15">200 k $</td>
+<td align="center" headers="head11 head16">50 k$</td>
+<td align="center" headers="head12 head17">100 k$</td>
+<td align="center" headers="head12 head18">50 k$</td>
+</tr>
+<tr>
+<td scope="row">Acheteurs</td>
+<td align="center" headers="head10 head13">100 k$</td>
+<td align="center" headers="head11 head14">25 k$</td>
+<td align="center" headers="head11 head15">100 k$</td>
+<td align="center" headers="head11 head16">25 k$</td>
+<td align="center" headers="head12 head17">50 k$</td>
+<td align="center" headers="head12 head18">25 k$</td>
+</tr>
+<tr>
+<td scope="row">Adjoints principaux des achats</td>
+<td align="center" headers="head10 head13">60 k$</td>
+<td align="center" headers="head10 head14">15 k$</td>
+<td align="center" headers="head11 head15">60 k$</td>
+<td align="center" headers="head11 head16">15 k$</td>
+<td align="center" headers="head12 head17">30 k$</td>
+<td align="center" headers="head12 head18">15 k$</td>
+</tr>
+<tr>
+<td scope="row">Commis-acheteurs</td>
+<td align="center" headers="head10 head13">20 k$</td>
+<td align="center" headers="head10 head14">5 k$</td>
+<td align="center" headers="head11 head15">20 k$</td>
+<td align="center" headers="head11 head16">5 k$</td>
+<td align="center" headers="head12 head17">10 k$</td>
+<td align="center" headers="head12 head18">5 k$</td>
+</tr>
+</tbody></table>
+<h3>Nota:</h3>
+<p><strong>Titres des postes : </strong>Les titres des postes indiqués si-dessus sont des exemples seulement - tous les postes équivalent (tels qu'indiqué\    s à l'annexe B) ont les même pouvoirs tels que susmentionnés.</p>
+<p>Les modifications des pouvoirs sont indiqués en caractères <strong>GRAS.</strong></p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

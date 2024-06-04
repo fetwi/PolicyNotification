@@ -1,0 +1,289 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<p>This Policy Notification (PN) Update provides:</p>
+<p>1. A Quick Reference Guide to determine when a Procurement Information Form (PIF) is required, attached as <strong>Annex A</strong>;</p>
+<p>2. Details of changes that have been introduced to the PIF and related procedures, as described below; and,</p>
+<p>3. Additional information and clarifications in the form of questions and answers, attached as <strong>Annex B</strong>.</p>
+<p>This Update is to be read and applied in addition to the original PN 32; where there is a discrepancy between the original PN and the Update, instructions provided in the Update shall apply.</p>
+<h3>Changes to the Procurement Information Form and Procedures</h3>
+<p>The PIF form and procedures have been revised as indicated below. The revised form (see revised PIF form # _PIF0798.STY (AMI) attached as <strong>Appendix A</strong>) shall be implemented no later than 17 July 1998.</p>
+<p><strong>Amendments to Contracts and Other Awards </strong>- Effective 17 July 1998, the PIF form will be used to provide information to the Minister's Office on proposed amendments (including previously approved amendments) to contracts and other types of awards when the aggregate value of all amendments including the proposed amendment exceeds the PIF thresholds indicated below.</p>
+<h3>PIF Thresholds for Amendments</h3>
+<p>The PIF threshold for <strong>amendments to competitive contracts</strong> (including contracts approved using electronic bidding authorities) is:</p>
+<ul>
+<li>$25,000 and 10% of the originally approved value, at the time of award.</li>
+</ul>
+<p>The PIF threshold for <strong>amendments to non-competitive contracts</strong>, when an ACAN was not published, is:</p>
+<ul>
+<li>$10,000 and 10% of the originally approved value, at the time of award.</li>
+</ul>
+<p>PIFs for amendments are only required when both the dollar and the percentage thresholds are exceeded. PIFs are not required for negative or nil value amendments, or for amendments that were approved by the Minister.</p>
+<h3>Timing and Distribution of PIFs for Amendments</h3>
+<p>PIFs for amendments not previously approved must be submitted to the "PIF" e-mail address 48 hours prior to the Expected Issue Date for the amendment. PIFs for amendments that were previously approved, and amendments on behalf of CCC shall be submitted on the same date as the amendment is issued. The electronic file naming convention detailed in PN-32 shall apply to PIFs for amendments. The letter "M" will be the first character in the file name assigned for amendments.</p>
+<h3>PIF Changes</h3>
+<p>The top portion of the PIF form has been revised to include two new fields, one to identify the type of document as an Amendment to an Award and one to identify the Amendment Number. A new section entitled Amendment Information (including five self-explanatory fields) has been added in the second page of the PIF.</p>
+<p>The Brief Description and Rationale for issuing an amendment must indicate whether the amendment was previously approved, and, for amendments that were not previously approved, it must include the reasons why the principles of competition and openness cannot be upheld.</p>
+<p>In addition to the information on the proposed amendment, PIFs for amendments must include all applicable information in the Planning and Award sections of the PIF regardless of whether any PIFs were previously submitted for that procurement.</p>
+<p><strong>Set-asides - </strong>The descriptions of set-asides included in the PIF have been modified to make it clear that there are two distinct types of set-asides; one related to the Land Claims Agreements (LCSA); and one which is part of the Program for Aboriginal Business (Aboriginal Set-aside). The descriptions reflect terminology that is commonly employed within SOS.</p>
+<p><strong>Limited Tendering Reasons - </strong>A new information field entitled Limited Tendering Reasons has been added after the "Non-competitive" field, to identify reasons for pursuing a non-competitive or limited competition procurement. This field will be used to identify one of the 15 Limited Tendering Reasons detailed in <strong>Appendix B</strong>. Architectural and engineering services requirements that were previously identified as being sourced using SPEC (Selection, Prequalification and Evaluation of Consultants) will now be identified as Limited Tendering Reason # 85, which makes reference to the TB Exception to the requirement to solicit bids for A&amp;ES that do not exceed $100,000 (TB Contracting Policy, Ref. 10.2.1 (b)).</p>
+<p><strong>Benefits Driven Procurement</strong> (BDP) - The Planning Information Section of the PIF has been revised to include information on when elements of BDP are being used. For each procurement, officers will specify which of the elements of the BDP approach (Front-End; Context; Accountability; Payment) will be utilized in the procurement.</p>
+<p><strong>Contract Award Process (CAP) </strong>- A new information field will be added at the end of the space provided for Type of Award to indicate the CAP Code in accordance with the list provided at <strong>Appendix C</strong>. Where Limited Tendering has been used, this code will be the same as entered in the planning stage as the Limited Tendering Reason.</p>
+<p><strong>Timing For Submission of PIFs -</strong> All PIFs shall be transmitted to the &gt;PIF e-mail address within the time frames indicated below. The PIF File number shall be included on the subject line of the accompanying e-mail.</p>
+<p><strong>For procurement plans</strong> - PIFs shall be transmitted no later than 48 hours prior to the anticipated solicitation issuance date.</p>
+<p><strong>For awards</strong> - PIFs shall be transmitted no later than 48 hours prior to the anticipated award, with the exception that awards on behalf of CCC shall be transmitted at the time of the award.</p>
+<p><strong>For amendments not previously approved </strong>- PIFs shall be transmitted no later than 48 hours prior to the anticipated amendment issuance date.</p>
+<p><strong>For amendments that were previously approved, and amendments on behalf of CCC </strong>- PIFs shall be submitted at the time the amendment is issued.</p>
+<h3>Annex A</h3>
+<h4>Quick Reference Guide for When to use a Procurement Information Form (PIF)</h4>
+<p><strong>Types of Procurement Approval Requests Which Require a PIF</strong></p>
+<p>Procurement Information Forms are used to provide information on:</p>
+<ul>
+<li>procurement plans, and revisions to plans;</li>
+<li>awards; and,</li>
+<li>amendments to contracts (and other types of awards)</li>
+</ul>
+<h4>Thresholds above which PIFs are Required</h4>
+<p>Procurements plans and awards that exceed the commodity specific thresholds indicated below require a PIF. PIF thresholds for all amendments are indicated at the bottom of the chart. PIFs are not required for amendments approved by the Minister.</p>
+<dl>
+<dt><strong>Electronic Bidding</strong></dt>
+<dd>Services - $2.5M</dd>
+<dd>Goods - $5M</dd>
+<dd>Construction - $2.5M</dd>
+<dd>Telecommunications - $25M</dd>
+<dd>A &amp; E Services - $250K</dd>
+<dd>PIF's for Amendments - $25K and 10% of orig.</dd>
+<dt><strong>Competitive</strong></dt>
+<dd>Services - $1.25M</dd>
+<dd>Goods - $1.25M</dd>
+<dd>Construction - $1.25M</dd>
+<dd>Telecommunications - $2.5M</dd>
+<dd>A &amp; E Services - $125K</dd>
+<dd>PIF's for Amendments - $25K and 10% of orig.</dd>
+<dt><strong>Non-Competitive</strong></dt>
+<dd>Services - $375K</dd>
+<dd>Goods - $250K</dd>
+<dd>Construction - $62.5K</dd>
+<dd>Telecommunications - $375K</dd>
+<dd>A &amp; E Services - $12.5K</dd>
+<dd>PIF's for Amendments - $10K and 10% of orig.</dd>
+</dl>
+<p>For procurements approved utilizing exceptional authorities such as Repair and Overhaul, or Energy Management, a PIF must be completed for all plans and awards that exceed 25% of the exceptional authority. PIFs are required for amendments approved using these exceptional authorities, using the thresholds specified above.</p>
+<p>For procurements on behalf of CCC, a PIF must be completed for awards that exceed the dollar levels established for "Goods", based on the known solicitation method (i.e. Electronic Bidding, Competitive or Non-competitive). A PIF is not required for the certification of bids.</p>
+<p>PIFs are also required for amendments that were previously approved.</p>
+<h4>Timing and Distribution of PIFs</h4>
+<p>PIFs shall be transmitted to the &gt;PIF e-mail address 48 hours prior to:</p>
+<ul>
+<li>the anticipated solicitation issuance date (for procurement plans);</li>
+<li>the anticipated award date (except awards on behalf of CCC, which shall be transmitted at the time of the award);</li>
+<li>the anticipated amendment issuance date (except for previously approved amendments and CCC contract amendments, which shall be transmitted at the time the amendment is issued).</li>
+</ul>
+<h3>Annex B</h3>
+<h4>Questions and Answers on the PIF Procedures</h4>
+<p><strong>1.QAre PIFs required in cases which will result in a Memorandum to the Minister?</strong></p>
+<p>1.A Yes, if Ministerial approval of a plan or award is sought via a Memorandum to the Minister, then a PIF should be prepared. The requirement to prepare a PIF is not altered by the type of approval document prepared.</p>
+<p><strong>2.Q Are PIFs required for amendments to contractual documents?</strong></p>
+<p>2.A Yes, effective 17 July 1998, the PIF form will be used for reporting information on contract amendments (and amendments to other types of awards) that exceed the following thresholds:</p>
+<ol type="a">
+<li>The PIF threshold for <strong>amendments to competitive contracts</strong> (including contracts approved using electronic bidding authorities) is:
+<p>$25,000 and 10% of the originally approved value, at the time of award.</p>
+</li>
+<li>The PIF threshold for <strong>amendments to non-competitive contracts</strong>, when an ACAN was not published, is:
+<p>$10,000 and 10% of the originally approved value, at the time of award.</p>
+</li>
+</ol>
+<p>PIFs are not required for negative or nil value amendments, or for amendments which were approved by the Minister.</p>
+<p><strong>NOTE</strong>: Negative amendments are excluded from the calculation of the aggregate amendment value.</p>
+<p><strong>3.Q Are PIFs required for standing offers?</strong></p>
+<p>3.A Yes, a PIF shall be prepared for each standing offer or other similar arrangement, regardless of whether it is considered to be a legally binding contract or not. The requirement to prepare a PIF for these procurements is based on the thresholds specified in PN-32.</p>
+<p><strong>4.Q Is a PIF required for CCC procurements?</strong></p>
+<p>4.A Yes, however, as there is no delegation of contract approval authority for CCC awards the PIF reporting threshold has been arbitrarily set to match the "Goods" threshold for PIFs. When the foreign government's solicitation method is known, the applicable threshold (i.e. Electronic Bidding, Competitive, or Non-competitive) shall apply; when the solicitation method is not known the non-competitive threshold is used.</p>
+<p>PIFs for back-to-back contract awards and amendments, that reflect CCC's obligations under a contract with a foreign government, shall be submitted on the same day as the contract award or issuance of the amendment; this will avoid delays in fulfilling CCC's contractual obligations. The Brief Procurement Description in the PIF must indicate that the award or amendments is a "Back-to-back" contract on behalf of CCC.</p>
+<p><strong>5.Q What information should be included in the Brief Procurement Description?</strong></p>
+<p>5.A The Brief Procurement Description should include a general description of the goods and/or services being purchased and should indicate whether the procurement provides for the approval of options to be exercised at a later date or for the approval of set-aside amounts. Where approval is sought for a set-aside amount to be used for unscheduled work, design changes or work arising, the purpose of these amounts shall be indicated.</p>
+<p><strong>6.Q How should major, or well known, projects be described?</strong></p>
+<p>6.A When the procurement plan or contract is in relation to a well-known project, the commonly used name of the project must be included at the start of the Brief Procurement Description, e.g. Parliamentary Precinct or TRUMP.</p>
+<p><strong>7.Q Does the contract award value have to match the estimated value shown for the procurement plan?</strong></p>
+<p>7.A No, on many occasions the award that is being reported under the PIF will have a significantly different value than the procurement plan. Some of the reasons for this difference include:</p>
+<ul>
+<li>award of multiple contracts as a result of a single solicitation;</li>
+<li>procurement plans may include various options, which are included in the estimated value for approval purposes; the subsequent contract price may not include such options.</li>
+</ul>
+<p><strong>8.Q What PIF thresholds apply to a non-competitive procurement published in an ACAN?</strong></p>
+<p>8.A The Electronic Bidding Thresholds apply to all procurements that are published on the Government Electronic Tendering System, regardless of whether they are competitive or non-competitive.</p>
+<p><strong>9.Q When are the CLCA (Comprehensive Land Claims Agreement) and LCSA (Land Claims Set-aside) boxes on the PIF used?</strong></p>
+<p>9.A The CLCA box is checked off for all procurements that are subject to a CLCA. The LCSA box is checked off when a procurement that is subject to a CLCA (including National Park Agreements or DND Co-operation Agreements) is within the scope of the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> or NAFTA and is being set-aside from these agreements. When the LCSA box is used the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> and NAFTA boxes on the PIF are left blank. When a requirement is subject to a CLCA and the AIT, the AIT box will also be checked off; there is no land claims set-aside under the AIT.</p>
+<p><strong>10.Q What is a CAP Code?</strong></p>
+<p>10.A A CAP (Contract Award Process) Code provides a description of the type of competitive or non-competitive selection process and rationale for limited or sole source procurement. A list of CAP Codes is included in <strong>Appendix C</strong> to PN-32U.</p>
+<p><strong>11.Q What is SPEC (A&amp;ES)?</strong></p>
+<p>11.A SPEC (Selection, Prequalification and Evaluation of Consultants) is the <acronym title="Public Works and Government Services Canada">PWGSC</acronym> method for selecting qualified consulting firms for specific commissions valued below the NAFTA threshold for services. It consists of a computer-assisted system based on a data bank of information on consulting firms in architecture, engineering and related fields (called the A&amp;E Index), together with a set of policies and procedures.</p>
+<p><strong>12.Q When does the new section on Benefits Driven Procurement have to be completed?</strong></p>
+<p>12.A BDP is a new approach to the way that we do business. Elements of BDP can be used in any procurement. When one or more of those elements (Front-End; Context; Accountability; Payment) is going to be used, this is to be identified on the PIF form.</p>
+<h3>Appendix B</h3>
+<h4>LIMITED TENDERING REASONS</h4>
+<table class="basic">
+<tbody><tr>
+<th id="PN-32Uheading1" scope="col">Coverage</th>
+<th id="PN-32Uheading2" scope="col">Permissible CAP Code</th>
+<th id="PN-32Uheading3" scope="col">Abbreviated Limited Tendering Reason</th>
+<th id="PN-32Uheading4" scope="col">Actual TB/Agreement Reference</th>
+</tr>
+<tr>
+<td headers="heading1" rowspan="8"><strong>NAFTA
+<p> <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, AIT,</p>
+<p>							or any combination thereof; or</p>
+<p>							ABSA*; or</p>
+<p>							None*</p></strong></td>
+<td align="center" headers="heading2">5</td>
+<td headers="heading3">no responsesto bid solicitation...</td>
+<td headers="heading4">NAFTA 1016.2 (a)<br/>
+<acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> XV.1 (a)<br/>
+							AIT 506.11 (f)</td>
+</tr>
+<tr>
+<td align="center" headers="heading2">20</td>
+<td headers="heading3">goods purchased on a commodity market...</td>
+<td headers="heading4">NAFTA 1016.2 (f)<br/>
+<acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> XV.1 (h)<br/>
+							AIT 506.12 (d)</td>
+</tr>
+<tr>
+<td align="center" headers="heading2">21</td>
+<td headers="heading3">purchases made under exceptionally advantageous conditions, short term...</td>
+<td headers="heading4">NAFTA 1016.2 (g)<br/>
+<acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> XV.1 (i)<br/>
+							AIT 506.12 (i)</td>
+</tr>
+<tr>
+<td align="center" headers="heading2">22</td>
+<td headers="heading3">awarded to the winner of a design contest...</td>
+<td headers="heading4">NAFTA 1016.2 (h)<br/>
+<acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> XV.1 (j)<br/>
+							AIT 506.12 (g)</td>
+</tr>
+<tr>
+<td align="center" headers="heading2">71</td>
+<td headers="heading3">exclusive rights...</td>
+<td headers="heading4">TB Man. 10.2.1 (d)<br/>
+							NAFTA 1016.2 (b)<br/>
+<acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> XV.1 (b)<br/>
+							AIT 506.12 (b)(j)</td>
+</tr>
+<tr>
+<td align="center" headers="heading2">72</td>
+<td headers="heading3">prototype purchase...</td>
+<td headers="heading4">NAFTA 1016.2 (e)<br/>
+<acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> XV.1 (e)<br/>
+							AIT 506.12 (h)</td>
+</tr>
+<tr>
+<td align="center" headers="heading2">74</td>
+<td headers="heading3">interchangeable parts...</td>
+<td headers="heading4">NAFTA 1016.2 (d)<br/>
+<acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> XV.1 (d)<br/>
+							AIT 506.12 (a)</td>
+</tr>
+<tr>
+<td align="center" headers="heading2">81</td>
+<td headers="heading3">extreme urgency...</td>
+<td headers="heading4">TB Man. 10.2.1 (a)<br/>
+							NAFTA 1016.2 (c)<br/>
+<acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> XV.1 (c)<br/>
+							AIT 506.11 (a)</td>
+</tr>
+<tr>
+<td headers="heading1"><strong>NAFTA and/or AIT</strong></td>
+<td align="center" headers="heading2">23</td>
+<td headers="heading3">consulting services regarding matters of a confidential nature...</td>
+<td headers="heading4">NAFTA 1016.2 (i)<br/>
+							AIT 506.11 (b)</td>
+</tr>
+<tr>
+<td headers="heading1" rowspan="2"><strong><acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> only</strong></td>
+<td align="center" headers="heading2">24</td>
+<td headers="heading3">additional construction services...</td>
+<td headers="heading4"><acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> XV.1 (f)</td>
+</tr>
+<tr>
+<td align="center" headers="heading2">25</td>
+<td headers="heading3">new construction services...</td>
+<td headers="heading4"><acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> XV.1 (g)</td>
+</tr>
+<tr>
+<td headers="heading1" rowspan="2"><strong>AIT only</strong></td>
+<td align="center" headers="heading2">86</td>
+<td headers="heading3">prices and/or sources fixed by government regulations...</td>
+<td headers="heading4">AIT 506.12 (c)</td>
+</tr>
+<tr>
+<td align="center" headers="heading2">90</td>
+<td headers="heading3">protection of human, animal, or plant life or health... </td>
+<td headers="heading4">AIT 506.11 (e)</td>
+</tr>
+<tr>
+<td headers="heading1"><strong>AIT and/or None*<br/>
+							ABSA*</strong></td>
+<td align="center" headers="heading2">87</td>
+<td headers="heading3">government objectives representing best interests / value to government...</td>
+<td headers="heading4">TB Man. 10.2.1 (c)<br/>
+							TB CPN 1997-3<br/>
+							AIT 506.11 (c)(d)<br/>
+							AIT 506.12 (e)(f)(k)(l)</td>
+</tr>
+<tr>
+<td headers="heading1"><strong>ABSA*<br/>
+							None*</strong></td>
+<td align="center" headers="heading2">85</td>
+<td headers="heading3">low dollar value...</td>
+<td headers="heading3">TB Man. 10.2.1 (b)</td>
+</tr>
+</tbody></table>
+<p>* For ABSA and None, only TB Reasons are permissible. (See CAP Codes 71, 81, 85 and 87);</p>
+<h3>Appendix C</h3>
+<h4>CONTRACT AWARD PROCESS (CAP) CODES</h4>
+<p>Listed below are the permissible Contract Award Process (CAP) Codes and the reason for using a particular CAP Code. <em>(Revised 01/01/96)</em></p>
+<p><strong>CAP Code: 01</strong> <br/>
+					Lowest/lower Bid</p>
+<p><strong>CAP Code: 04</strong> <br/>
+					Best Overall Proposal</p>
+<p><strong>CAP Code: 05</strong> <br/>
+					In the absence of tenders in response to a competitive bid solicitation or when bids submitted have been either collusive or assessed as non-responsive or received from non-qualified suppliers.</p>
+<p><strong>CAP Code: 06</strong> <br/>
+					Only One Response to Bid Solicitation</p>
+<p><strong>CAP Code: 10</strong> <br/>
+					Rotational Sourcing</p>
+<p><strong>CAP Code: 11</strong> <br/>
+					Subsequent/Follow-on Contracts</p>
+<p><strong>CAP Code: 20</strong> <br/>
+					For goods purchased on a commodity market.</p>
+<p><strong>CAP Code: 21</strong> <br/>
+					For purchases made under exceptionally advantageous conditions that only arise in the very short term, such as unusual disposals by enterprises that are not normally suppliers or disposal of assets of businesses in liquidation or receivership, but not routine purchases from regular suppliers.</p>
+<p><strong>CAP Code: 22</strong> <br/>
+					To be awarded to the winner of a design contest.</p>
+<p><strong>CAP Code: 23</strong> <br/>
+					For consulting services regarding matters of a confidential nature.</p>
+<p><strong>CAP Code: 24</strong> <br/>
+					When additional construction services which were not included in the initial contract but which were within the objectives of the original tender documentation.</p>
+<p><strong>CAP Code: 25</strong> <br/>
+					For new construction services consisting of the repetition of similar construction services which conform to a basic project for which an initial contract was awarded.</p>
+<p><strong>CAP Code: 71</strong> <br/>
+					For reasons connected with protection of exclusive rights, such as patents and copyrights, and no reasonable alternative or substitute existed.</p>
+<p><strong>CAP Code: 72</strong> <br/>
+					For reasons involving the procurement of prototypes or a first product which is developed under a contract for research, experiment, study or original development.</p>
+<p><strong>CAP Code: 74</strong> <br/>
+					For logistic reasons (i.e. where additional deliveries by the original supplier are intended either as replacement parts for existing supplies, or installations, or for continuing services, or as the extension of existing supplies, services or installations, where a change of supplier would compel the client to procure equipment or services not meeting requirements of interchangeability with already existing equipment or services).</p>
+<p><strong>CAP Code: 81</strong> <br/>
+					For reasons connected with extreme urgency, brought about by events unforeseeable by the client, where time did not permit competitive solicitation.</p>
+<p><strong>CAP Code: 85</strong> <br/>
+					Low Dollar Value</p>
+<p><strong>CAP Code: 86</strong> <br/>
+					Prices and/or sources fixed by Government regulations</p>
+<p><strong>CAP Code: 87</strong> <br/>
+					Government objectives representing best interests/value to Government.</p>
+<p><strong>CAP Code: 88</strong> <br/>
+					National Security Consideration</p>
+<p><strong>CAP Code: 89</strong> <br/>
+					Exceptional circumstances under AIT Article 508(l) </p>
+<p><strong>CAP CODE: 90</strong> <br/>
+					Protection of human, animal, or plant life or health under AIT Article 506.11 (e)</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

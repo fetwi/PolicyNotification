@@ -1,0 +1,531 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-74cont" name="cont"><br/>
+AP-74 : Partage des responsabilités entre TPSGC et le MDN pour<br/>
+			l'acquisition de matériel et de services</a></h1> <div class="region region-site-wide-message">
+<section id="AP-74site-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-74site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-74site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 15 avril 2005</h2>
+<h3>Politique</h3>
+<p>La section <em>«  Partage des responsabilités entre TPSGC et<br/>
+			le MDN pour l'acquisition de matériel et de services »</em> est<br/>
+			revue conformément à l'annexe A ci-jointe, à la suite d'un<br/>
+			projet de collaboration entre Travaux publics et Services gouvernementaux<br/>
+			Canada (TPSGC) et le ministère de la Défense nationale (MDN).</p>
+<p>En vigueur immédiatement, l'annexe A remplace les annexe 3.1 et 3.1.1<br/>
+			du Guide des approvisionnements. L'annexe A sera incorporée dans la<br/>
+			version du Guide des approvisionnements qui sera publiée le 10 juin<br/>
+			2005.</p>
+<p>La section <em>«  Partage des responsabilités entre TPSGC et le MDN pour l'assurance de la qualité du matériel et des services »</em> (Guide des approvisionnements, annexe 3.2) demeure inchangée.</p>
+<h3>Personne-ressource</h3>
+<p><strong>S/O</strong></p>
+<h2>Annexe 3 : Modifications apportées au Guide des approvisionnements
+</h2><p>			Annexe 3.1 : Partage des responsabilités entre TPSGC et le MDN pour l'acquisition<br/>
+			de matériel et de services
+</p><p>3.1(i) La présente matrice décrit le partage des responsabilités<br/>
+			attribuées, accepté par les ministres du ministère de<br/>
+			la Défense nationale (MDN) et de Travaux publics et Services gouvernementaux<br/>
+			Canada (TPSGC).* Elle constitue le fondement d'une relation de partenariat<br/>
+			efficiente et efficace entre les personnes responsables des activités<br/>
+			dans le cadre du processus d'approvisionnement.</p>
+<ul class="noBullet">
+<li>* (a) La matrice ne représente pas une délégation de<br/>
+				pouvoirs en matière d'achat par le ministre de TPSGC et n'a aucune<br/>
+				incidence sur les responsabilités de l'agent de négociation<br/>
+				des contrats, telles que définies dans la politique en matière<br/>
+				de passation de marchés du Conseil du Trésor (CT).
+</li>
+<li>(b) Les lois, les règlements et les politiques prévaudront sur<br/>
+				cette matrice s'il y a ambiguïté.</li>
+</ul>
+<p> 3.1(ii) Cette matrice devra être utilisée pour tous les biens<br/>
+			et services du MDN achetés par TPSGC. La lettre «  X » représente<br/>
+			l'assignation de chaque activité à un ministère « principal » et à un<br/>
+			ministère « participant ».<br/>
+			La lettre « G » représente la norme pour ce qui est des grands<br/>
+			projets de l'État et des projets de ce type.</p>
+<p>3.1(iii) L'assignation de chaque activité à un ministère « principal » et à un<br/>
+			ministère « participant » tel qu'indiqué dans ce<br/>
+			tableau, constitue la façon habituelle de procéder. Cependant, étant<br/>
+			donné que chaque marché et contrat connexe est différent<br/>
+			en ce qui a trait à la complexité, aux risques, à la valeur<br/>
+			et à la disponibilité de ressources qualifiées, les parties<br/>
+			peuvent accepter à l'avance qu'il y ait des divergences, en autant qu'elles<br/>
+			soient justifiées formellement dans une entente conclue entre les deux<br/>
+			ministères, qui précise les raisons pour lesquelles on ne peut<br/>
+			procéder normalement dans certains cas..</p>
+<p>3.1(iv) Dans le cadre de toutes les activités, chaque ministère « principal » devra<br/>
+			toujours traiter de façon prudente les communications continues avec<br/>
+			les représentants des approvisionnements de l'autre ministère,<br/>
+			même s'il y a un « X » uniquement pour le ministère<br/>
+			principal. Enfin, il est important de prendre note que cette matrice des responsabilités<br/>
+			attribuées n'est pas nécessairement séquentielle.</p>
+<p>3.1(v) Il faut établir des communications efficaces entre le MDN<br/>
+			et TPSGC, projet par projet. La matrice ci-dessous énonce les responsabilités<br/>
+			internes prévues du MDN. Pour tout projet, jusqu'à ce que des<br/>
+			communications particulières au projet soient établies, le MDN<br/>
+			exige que les communications se fassent par l'entremise du responsable fonctionnel<br/>
+			des approvisionnements, soit le gestionnaire / agent pertinent du MDN, à moins<br/>
+			qu'il en ait été décidé autrement avec ce responsable.</p>
+<h3><a id="AP-74materiel" name="materiel"></a>Matrice des responsabilités du<br/>
+			MDN/TPSGC</h3>
+<p><strong>AA</strong> (Agent d'approvisionnement)<br/>
+<strong>GP</strong> (Gestionnaire de projet)<br/>
+<strong>AF</strong> (Autorité fonctionnelle - y compris le GCVM)<br/>
+<strong>DP</strong> (Directeur de projet)<br/>
+<strong>G</strong> (signifie les GPE ou d'autres projets similaires ou le rôle<br/>
+			est défini dans le PGP)<br/>
+<strong>GP/AF</strong> signifie que c'est le GP qui veille habituellement au projet<br/>
+			d'acquisition d'immobilisations d'AN et l'AF pour l'acquisition sur<br/>
+			place</p>
+<h4>1. DÉFINIR LES BESOINS OPÉRATIONNELS DU<br/>
+			MDN</h4>
+<p><strong>1.1 </strong>Définir les caractéristiques<br/>
+			essentielles – déficiences sur le plan de l'énoncé des<br/>
+			capacités ou de l'énoncé des besoins<strong><br/>
+				Responsabilité</strong><br/>
+			MDN : DP </p>
+<p> <strong>1.2 </strong>Solliciter des renseignements liés à l'approvisionnement<br/>
+			/ des conseils auprès de l'autorité fonctionnelle du MDN<strong><br/>
+</strong><strong>Responsabilité <br/>
+</strong>MDN : AA </p>
+<p><strong>1.3 </strong>Délimiter toutes les solutions possibles,<br/>
+			en tenant compte de la politique du gouvernement, afin de satisfaire<br/>
+			les besoins opérationnels (coûts approximatifs)<strong><br/>
+</strong><strong>Responsabilité <br/>
+</strong>MDN : DP<br/>
+			TPSGC participe normalement : G </p>
+<p> <strong>1.4 </strong>Déterminer le coût total du projet et les<br/>
+			prévisions établies pour la feuille de synthèse (FS(ID))<strong><br/>
+</strong><strong>Responsabilité <br/>
+</strong>MDN : AA </p>
+<p> <strong>1.5 </strong>Obtenir l'approbation opérationnelle pour poursuivre<br/>
+			le projet (FSID)<strong><br/>
+</strong><strong>Responsabilité <br/>
+</strong>MDN : DP </p>
+<p> <strong>1.6 </strong>Préparation d'une analyse coûts-avantages<br/>
+			y compris une analyse de coûts de la durée de vie utile de solutions<br/>
+			de rechange et d'incertitudes<strong><br/>
+</strong><strong>Responsabilité <br/>
+</strong>MDN : DP </p>
+<p> <strong>1.7 </strong>Déterminer quels sont les besoins en ce qui a<br/>
+			trait à la collaboration et la participation des autres ministères/pays<br/>
+			(sauf 3.5.9) <strong><br/>
+</strong><strong>Responsabilité <br/>
+</strong>MDN : DP </p>
+<p> <strong>1.8 </strong>Déterminer quelles sont les<br/>
+			obligations nationales et internationales applicables aux besoins opérationnels<strong><br/>
+</strong><strong>Responsabilité <br/>
+</strong>MDN : DP </p>
+<p> <strong>1.9 </strong>Déterminer les besoins des cycles échelonnés<br/>
+			pour la mise en vigueur des projets<strong><br/>
+</strong><strong>Responsabilité <br/>
+</strong>MDN : PM<br/>
+			TPSGC participe normalement : X </p>
+<p> <strong>1.10</strong> Déterminer les besoins liés à la<br/>
+			maintenance et au soutien<strong><br/>
+</strong><strong>Responsabilité <br/>
+</strong>MDN : GP/AF<br/>
+			TPSGC participe normalement : X </p>
+<p> <strong>1.11 </strong>Déterminer le total des besoins en ressources<br/>
+			du projet<strong><br/>
+</strong><strong>Responsabilité <br/>
+</strong>MDN : GP <br/>
+			TPSGC participe normalement : X </p>
+<p> <strong>1.12</strong> Déterminer les coût total du projet (réels)<br/>
+			et établir les prévisions</p>
+<p><strong>1.12.1</strong> Obtenir et assembler les coûts et établir<br/>
+			le calendrier des informations<strong><br/>
+</strong><strong>Responsabilité <br/>
+</strong>MDN : DP/AA <br/>
+			TPSGC participe normalement : X </p>
+<p> <strong>1.12.2</strong> Élaborer le coût total du projet et établir<br/>
+			les prévisions<strong><br/>
+</strong><strong>Responsabilité <br/>
+</strong>MDN : PO</p>
+<p> <strong>1.13 </strong>Initier un PGP(autrefois PMOP) (Matrice d'attribution<br/>
+			des responsabilités)<br/>
+<strong>Responsabilité <br/>
+</strong>MDN : GP <br/>
+			TPSGC participe normalement : X </p>
+<p> <strong>1.14 </strong>Élaborer un plan directeur d'approvisionnement<br/>
+			pour le MDN<strong><br/>
+</strong><strong>Responsabilité <br/>
+</strong>MDN : AA </p>
+<p> <strong>1.15 </strong>Obtenir l'approbation ( CSR et CEA/CCSP)<strong><br/>
+</strong><strong>Responsabilité <br/>
+</strong>MDN : GP <br/>
+			TPSGC participe normalement : X </p>
+<p> <strong>1.16 </strong>Préparer la présentation du projet et<br/>
+			obtenir l'approbation (CGP, FS (APP), FS(ADP) et énoncés de projet)<strong><br/>
+</strong><strong>Responsabilité <br/>
+</strong>MDN : DP/GP &amp; AA</p>
+<p><strong>1.17 </strong>Préparer des notes de services au Cabinet<br/>
+			(pour des GPE seulement)<br/>
+<strong>Responsabilité <br/>
+</strong>MDN : G <br/>
+			TPSGC participe normalement : G </p>
+<p> <strong>1.18 </strong>Souscrire au plan directeur du MDN<strong><br/>
+</strong><strong>Responsabilité <br/>
+</strong>MDN : AA </p>
+<h4>2. DÉFINIR LES BESOINS TECHNIQUES ET PRÉPARER LES DOCUMENTS<br/>
+			D'ACHAT</h4>
+<p><strong> 2.1 </strong>Mettre sur pied une équipe (officielle<br/>
+			ou officieuse au besoin) pour un document d'achat particulier, y compris<br/>
+			l'intervenant requis<br/>
+<strong>Responsabilité <br/>
+</strong>MDN : AA <br/>
+			TPSGC participe normalement : X </p>
+<p> <strong>2.2 </strong>Désigner les autorités pertinentes du<br/>
+			MDN dans le DA(par ex. réquisition, technique, AQ)<br/>
+<strong>Responsabilité <br/>
+</strong>MDN : AA </p>
+<p> <strong>2.3 </strong>Énoncé des travaux (ET)</p>
+<p> <strong>2.3.1 </strong>Définir l'ÉT et/ou les spécifications<br/>
+			de rendement en appui des besoins opérationnels<br/>
+<strong>Responsabilité <br/>
+</strong>MDN : GP/AF </p>
+<p> <strong>2.3.2 </strong>Déterminer les besoins en valeurs acquises<br/>
+			(pour les GPE et autres projets semblables) <br/>
+<strong>Responsabilité <br/>
+</strong>MDN : G </p>
+<p> <strong>2.3.3 </strong>Réviser et mettre au point l'ÉT<br/>
+<strong>Responsabilité <br/>
+</strong>MDN : AA <br/>
+			TPSGC participe normalement : X </p>
+<p> <strong>2.4 </strong>Définir les ressources fournies par le gouvernement<br/>
+			(par ex. outils, équipement d'essai)<br/>
+<strong>Responsabilité <br/>
+</strong>MDN : GP/AF </p>
+<p> <strong>2.5 </strong>Définir les besoins en assurance de la qualité et<br/>
+			en acceptation<br/>
+<strong>Responsabilité <br/>
+</strong>MDN : GP/AF </p>
+<p> <strong>2.6 </strong>Définir d'autres besoins techniques (par ex.<br/>
+			la garantie, la formation, la documentation, l'approvisionnement initial, etc.)<br/>
+<strong>Responsabilité <br/>
+</strong>MDN : GP/AF </p>
+<p> <strong>2.7 </strong>Définir les critères d'évaluation<br/>
+			techniques<br/>
+<strong>Responsabilité <br/>
+</strong>MDN : GP/AF</p>
+<p> <strong>2.8 </strong>Préparer les documents d'achat et documents pertinents</p>
+<p><strong>2.8.1 </strong>Valider l'évaluation des coûts et garantir<br/>
+			pour ce DA<br/>
+<strong>Responsabilité <br/>
+</strong>MDN : AA </p>
+<p><strong>2.8.2 </strong>Élaborer un plan d'évaluation de soumissions<br/>
+			techniques<br/>
+<strong>Responsabilité <br/>
+</strong>MDN : GP/AF<br/>
+			TPSGC participe normalement : X </p>
+<p><strong>2.8.3 </strong>Établir une équipe d'évaluation<br/>
+			des soumissions techniques<br/>
+<strong>Responsabilité <br/>
+</strong>MDN : GP/AF<br/>
+			TPSGC participe normalement : X </p>
+<p> <strong>2.8.4 </strong>Élaborer un échéancier des acquisition<br/>
+			proposées (activités et échéanciers) pour ce DA<br/>
+<strong>Responsabilité <br/>
+</strong>MDN : GP/AF</p>
+<p> <strong>2.8.5 </strong>Déterminer et limiter les risques du MDN associés à ce<br/>
+			DA<br/>
+<strong>Responsabilité <br/>
+</strong>MDN : AA </p>
+<p><strong>2.8.6 </strong>Élaborer le contenu du document d'achat<br/>
+<strong>Responsabilité <br/>
+</strong>MDN : AA </p>
+<p> <strong>2.8.7 </strong>Réviser l'ébauche du document d'achat<br/>
+<strong>Responsabilité <br/>
+</strong>MDN : AA <br/>
+			TPSGC participe normalement : X </p>
+<p><strong>2.9 </strong>Approuver le document d'achat (Réquisition)<strong><br/>
+			Responsabilité <br/>
+</strong>MDN : AA</p>
+<h4>3. ÉLABORER LE PLAN D'ACHAT(*basé sur le document d'achat<br/>
+			du MDN)</h4>
+<p><strong> 3.1 </strong>Évaluer le potentiel industriel *<br/>
+<strong>Responsabilité <br/>
+</strong>TPSGC : X</p>
+<p><strong>3.2 </strong>Déterminer la principale politique contractuelle<br/>
+			qui doit être envisagée pour réaliser l'achat *<br/>
+<strong>Responsabilité <br/>
+</strong>TPSGC : X</p>
+<p> <strong>3.3 </strong>Examiner les cas semblables ayant déjà été soumis<br/>
+			au TCCE et à la cour fédérale sur les réglementations<br/>
+			en matière d'approvisionnement<br/>
+<strong>Responsabilité <br/>
+</strong>TPSGC : X<br/>
+			MDN participe normalement : AA </p>
+<p> <strong>3.4 </strong>Examiner les problèmes potentiels reliés<br/>
+			aux licences, aux permis, aux royautés et aux transferts de technologie<br/>
+<strong>Responsabilité <br/>
+</strong>TPSGC : X<br/>
+			MDN : GP/AF </p>
+<p> <strong>3.5 </strong>Élaborer un plan d'approvisionnement<br/>
+			comportant :</p>
+<p> <strong>3.5.1 </strong>Un échéancier de livraison<br/>
+			et des exigences en matière d'acceptation<br/>
+<strong>Responsabilité <br/>
+</strong>MDN : AA <br/>
+			TPSGC participe normalement : X </p>
+<p> <strong>3.5.2 </strong>Une approche contractuelle *<br/>
+<strong>Responsabilité <br/>
+</strong>TPSGC : X </p>
+<p> <strong>3.5.3 </strong>Coût prévu et plan des liquidités<br/>
+<strong>Responsabilité <br/>
+</strong> MDN : AA </p>
+<p> <strong>3.5.4 </strong>Énoncer les normes appropriées<br/>
+			de contrôle de la qualité et d'inspection et autorisations d'autorité<br/>
+<strong>Responsabilité <br/>
+</strong> MDN : GP/AF </p>
+<p> <strong>3.5.5 </strong>Stratégie communications (e.g.<br/>
+			communiqué de presse, etc.)<br/>
+<strong>Responsabilité <br/>
+</strong>TPSGC : X<br/>
+			MDN : GP/AF </p>
+<p> <strong>3.5.6 </strong>Gestion du risqué *<br/>
+<strong>Responsabilité <br/>
+</strong>TPSGC : X</p>
+<p> <strong>3.5.7 </strong>Méthodologie d'évaluation<br/>
+			*<br/>
+<strong>Responsabilité <br/>
+</strong>TPSGC : X</p>
+<p> <strong>3.5.8 </strong>Avantages industriels et profits<br/>
+<strong>Responsabilité <br/>
+</strong>TPSGC : X<br/>
+			MDN participe normalement : GP/AF</p>
+<p> <strong>3.5.9 </strong>Accords interministériels et internationaux<br/>
+			reliés au plan d'approvisionnement (excluant le MDN/TPSGC)<br/>
+<strong>Responsabilité <br/>
+</strong>MDN : GP/AF <br/>
+			TPSGC participe normalement : X </p>
+<p> <strong>3.6 </strong>Obtenir un plan d'approvisionnement<br/>
+<strong>Responsabilité <br/>
+</strong>TPSGC : X</p>
+<h4>4. PROCESSUS CONTRACTUEL</h4>
+<p><strong> 4.1 </strong>Examiner l'instrument de réquisition ou d'approvisionnement<br/>
+<strong>Responsabilité <br/>
+</strong>TPSGC : X<br/>
+			MDN participe normalement : AA </p>
+<p> <strong>4.2 </strong>Examiner l'énoncé de travail et les<br/>
+			critères d'évaluation technique afin d' évaluer s'il peut être<br/>
+			offert à contrat<br/>
+<strong>Responsabilité <br/>
+</strong>TPSGC : X<br/>
+			MDN participe normalement : PO </p>
+<p> <strong>4.3 </strong>Préparer la trousse de sollicitation</p>
+<p> <strong>4.3.1</strong> Identifier les modalités et les conditions<br/>
+			du contrat (y compris les modalités de paiement)<br/>
+<strong>Responsabilité <br/>
+</strong>TPSGC : X<br/>
+			MDN participe normalement : AA </p>
+<p> <strong>4.3.2 </strong>Élaborer les critères d'évaluation<br/>
+			de contrat (temps, finance incl. transition, plan d'évaluation contractuel<br/>
+			et consolidé)<br/>
+<strong>Responsabilité <br/>
+</strong>TPSGC : X<br/>
+			MDN participe normalement : AA </p>
+<p><strong>4.3.3 </strong>Énoncer les autorités appropriées<br/>
+			(e.g. réquisition, technique, contrat, qualité, etc., selon le<br/>
+			cas)<br/>
+<strong>Responsabilité <br/>
+</strong>TPSGC : X</p>
+<p> <strong>4.4 </strong>Faire parvenir de la documentation sur<br/>
+			les sollicitations (DP/Appels d'offres) au secteur privé et au MDN<br/>
+<strong>Responsabilité <br/>
+</strong>TPSGC : X</p>
+<p> <strong>4.5 </strong>Distribuer les trousses de données<br/>
+			techniques aux fournisseurs au besoin<br/>
+<strong>Responsabilité <br/>
+</strong> MDN : GP/AF<br/>
+			TPSGC participe normalement : X</p>
+<p> <strong>4.6 </strong>Lorsqu'il y a un concours (DP, appel d'offres<br/>
+			ou processus équivalent), évaluer les soumissions et recommander<br/>
+			le fournisseur</p>
+<p> <strong>4.6.1 </strong>Effectuer l'évaluation technique<br/>
+			(Énoncé de travail et modalités connexes) en fonction<br/>
+			du plan d'évaluation<br/>
+<strong>Responsabilité <br/>
+</strong> MDN : GP/AF<br/>
+			MDN participe normalement : X </p>
+<p> <strong>4.6.2 </strong>Effectuer l'évaluation du contrat<br/>
+			(y compris les modalités du contrat) conformément au plan d'évaluation<br/>
+<strong>Responsabilité <br/>
+</strong> TPSGC : X<br/>
+			MDN participe normalement : G </p>
+<p> <strong>4.6.3 </strong>Consolider l'évaluation et<br/>
+			recommander le fournisseur<br/>
+<strong>Responsabilité <br/>
+</strong>TPSGC : X<br/>
+			MDN participe normalement : AA </p>
+<p> <strong>4.7 </strong>S'il n y a qu'un seul fournisseur, négocier<br/>
+			le contrat.<br/>
+<strong>Responsabilité <br/>
+</strong>TPSGC : X <br/>
+			MDN participe normalement : AA &amp; GP/AF</p>
+<p> <strong>4.8 </strong>Examiner l'ébauche de la documentation<br/>
+			entourant les contrats.<br/>
+<strong>Responsabilité <br/>
+</strong> MDN : AA </p>
+<p><strong>4.9 </strong><strong>Obtenir l'autorisation du ministère ou<br/>
+			du CT au sujet du contrat<br/>
+			Responsabilité <br/>
+</strong>TPSGC : X<br/>
+			MDN participe normalement : G </p>
+<h4>5. ADMINISTRATION DU CONTRAT</h4>
+<p> <strong>5.1 </strong>Initier l'administration du contrat</p>
+<p><strong>5.1.1 </strong>Mettre en place les outils et les processus pour l'administration<br/>
+<strong>Responsabilité <br/>
+</strong> TPSGC : X <br/>
+			MDN : AA </p>
+<p> <strong>5.1.2 </strong>Réunions de lancement avec les parties intéressées<br/>
+<strong>Responsabilité <br/>
+</strong> TPSGC : X<br/>
+			MDN participe normalement : AA &amp; GP/AF</p>
+<p> <strong>5.2 </strong>Fournir des ressources fournies par le gouvernement<br/>
+			afin d'appuyer le travail à contrat<br/>
+<strong>Responsabilité <br/>
+</strong> MDN : AA <br/>
+			TPSGC participe normalement : X</p>
+<p><strong>5.3 </strong>Évaluer le rendement sous contrat</p>
+<p><strong> 5.3.1 </strong>Qualité des produits livrables<br/>
+<strong>Responsabilité <br/>
+</strong> MDN : GP/AF</p>
+<p> <strong>5.3.2 </strong>Génie de l'entrepreneur, Systèmes<br/>
+			de qualité et de production<br/>
+<strong>Responsabilité <br/>
+</strong> MDN : GP/AF</p>
+<p> <strong>5.3.3 </strong>Systèmes de gestion et systèmes<br/>
+			financiers de l'entrepreneur<br/>
+<strong>Responsabilité <br/>
+</strong> TPSGC : X</p>
+<p> <strong>5.3.4 </strong>Distribution de l'argent dans le cadre du contrat/Flot<br/>
+			monétaire</p>
+<p><strong>5.3.4.1 </strong>Flot monétaire réel versus flot monétaire<br/>
+			du contrat<br/>
+<strong>Responsabilité <br/>
+</strong> TPSGC : X<br/>
+			MDN participe normalement : G </p>
+<p> <strong>5.3.4.2 </strong>Flot monétaire actuel versus flot monétaire<br/>
+			planifié du MDN pour les prévisions financières<br/>
+<strong>Responsabilité <br/>
+</strong> MDN : AA </p>
+<p> <strong>5.3.4.3 </strong>Valeur gagnée (contrôler l'avancement<br/>
+			du travail versus le travail planifié et les coûts associés)<br/>
+			pour les GPE<br/>
+<strong>Responsabilité <br/>
+</strong> TPSGC : X<br/>
+			MDN : G </p>
+<p> <strong>5.3.5 </strong>Livraison</p>
+<p><strong>5.3.5.1 </strong>Contrôler la date de livraison du matériel<br/>
+			et des services<br/>
+<strong>Responsabilité <br/>
+</strong> MDN : AA </p>
+<p> <strong>5.3.5.2 </strong>Essais et tests d'acceptation<br/>
+<strong>Responsabilité <br/>
+</strong> MDN : GP/AF</p>
+<p> <strong>5.3.5.3 </strong>Conformité à l'horaire<br/>
+<strong>Responsabilité <br/>
+</strong> TPSGC : X<br/>
+			MDN : G </p>
+<p> <strong>5.3.6 </strong>Réunions pour l'examen du progrès<br/>
+			réalisé</p>
+<p><strong> 5.3.6.1 </strong>Exigences/Réunions du groupe de travail technique<br/>
+<strong>Responsabilité <br/>
+</strong> MDN : GP/AF<br/>
+			TPSGC participe normalement : X</p>
+<p> <strong>5.3.6.2 </strong>Réunions pour l'examen du progrès<br/>
+			réalisé avec l'entrepreneur<br/>
+<strong>Responsabilité <br/>
+</strong> TPSGC : X<br/>
+			MDN participe normalement : AA &amp; GP/AF</p>
+<p> <strong>5.4 </strong>Appliquer les dispositions et les processus du<br/>
+			contrat</p>
+<p><strong> 5.4.1 </strong>Interprétation et notifications<br/>
+<strong>Responsabilité <br/>
+</strong> TPSGC : X</p>
+<p> <strong>5.4.2 </strong>Contrôle du changement</p>
+<p><strong> 5.4.2.1 </strong>Technique (Avis/Propositions de changement en matière<br/>
+			de génie)<br/>
+<strong>Responsabilité <br/>
+</strong> MDN : GP/AF</p>
+<p> <strong>5.4.2.2 </strong>Modifications de contrat<br/>
+<strong>Responsabilité <br/>
+</strong> TPSGC : X<br/>
+			MDN participe normalement : AA </p>
+<p> <strong>5.4.3 </strong>Dispositions de la garantie</p>
+<p><strong> 5.4.3.1 </strong>Invoquer la garantie<br/>
+<strong>Responsabilité <br/>
+</strong> MDN : GP/AF</p>
+<p> <strong>5.4.3.2 </strong>Exécuter la garantie<br/>
+<strong>Responsabilité <br/>
+</strong> TPSGC : X</p>
+<p> <strong>5.4.4 </strong>Questions relatives au contrat</p>
+<p><strong> 5.4.4.1 </strong>Identifier les questions contractuelles<br/>
+<strong>Responsabilité <br/>
+</strong> TPSGC : X<br/>
+			MDN : AA </p>
+<p> <strong>5.4.4.2 </strong>Exécuter les questions contractuelles<br/>
+<strong>Responsabilité <br/>
+</strong> TPSGC : X</p>
+<p> <strong>5.4.5 </strong>Accepter les produits livrables relatifs au contrat<br/>
+<strong>Responsabilité <br/>
+</strong> MDN : GP/AF</p>
+<p> <strong>5.4.6 </strong>Authentifier et effectuer les paiements<br/>
+<strong>Responsabilité <br/>
+</strong> TPSGC : X<br/>
+			MDN : AA </p>
+<p> <strong>5.5 </strong>Terminer le contrat</p>
+<p><strong> 5.5.1 </strong>Disposition des actifs de la Couronne<br/>
+<strong>Responsabilité <br/>
+</strong> MDN : AA <br/>
+			TPSGC participe normalement : X</p>
+<p> <strong>5.5.2 </strong>Vérification finale du contrat<br/>
+<strong>Responsabilité <br/>
+</strong> TPSGC : X</p>
+<p> <strong>5.5.3 </strong>Paiement et modification finale<br/>
+<strong>Responsabilité <br/>
+</strong> TPSGC: X<br/>
+			MDN : AA </p>
+<p><strong>Liste des acronymes :</strong></p>
+<p>AN Approvisionnement national<br/>
+			CCSP Comité consultatif supérieur de projet<br/>
+			CEA Comité d'examen des acquisitions<br/>
+			CGP Conseil de gestion du programme<br/>
+			CSR Comité supérieur de révision<br/>
+			CT Conseil du Trésor<br/>
+			DA Document d'achat<br/>
+			DP Demande de proposition<br/>
+			ET Enoncé des travaux<br/>
+			FS(ADP) Feuille de synthèse (approbation définitive de projet)<br/>
+			FS(APP) Feuille de synthèse (approbation préliminaire de projet)<br/>
+			FS(ID) Feuille de synthèse (Identification)<br/>
+			GCVM Gestionnaire du cycle de vie du matériel<br/>
+			GPE Grand projet de l'État<br/>
+			MDN Ministère de la Défense nationale<br/>
+			PGP Plan de gestion des projets<br/>
+			PMOP Plan de mise en œuvre du projet<br/>
+			TCCE Tribunal canadien du commerce extérieur<br/>
+			TPSGC Travaux publics et Services gouvernementaux Canada</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

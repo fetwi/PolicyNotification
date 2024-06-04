@@ -1,0 +1,391 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<p>An agreement-in-principle was reached between officials of the Department of National Defence (DND) and Public Works and Government Services Canada (PWGSC) to use the Incoterm "FCA Free Carrier (... named place)", whenever possible, rather than Free on Board (FOB) Plant for all DND sole source contracts, and all Repair and Overhaul (R&amp;O) contracts where transportation is not part of the competitive bid. The current Incoterms are Incoterms 2000, hereinafter referred to as FCA. It was agreed that DND will manage the inbound logistics for these contracts by being responsible for the transportation arrangements and associated risks, becoming the importer of record, and being able to invoke Remission Orders. For United States (U.S.) Foreign Military Sales contracts only (not all U.S. contracts) FOB Plant will continue to be used and DND will manage the inbound logistic on those contracts as well.</p>
+<p>Effective immediately, all new DND requisitions for DND sole source contracts, and all Repair and Overhaul (R&amp;O) contracts where transportation is not part of the competitive bid<strong>, </strong>will contain FCA procedures and clauses.</p>
+<p>Current DND sole source contracts with a delivery date well into 2003 or later should be examined to see whether or not they should be amended to include the new Incoterms 2000 clauses. The decision to amend an existing contract should be dealt with on a case-by-case basis and with consultation from DND. There may be a requirement for <acronym title="Public Works and Government Services Canada">PWGSC</acronym> to revalidate administrative and management fees and overhead in those contracts where DND is now taking on the transportation function and associated risks.</p>
+<p>The Automated Buyer Environment (ABE) system will not be updated at this time. For all FCA requirements, under the field "F.O.B.", the term "See Herein" should be used (not the words "plant", "common carrier" or "destination") and the proper FCA clauses placed inside the bid solicitation/contract document(s).</p>
+<p>The FCA procedures and their related clauses and other miscellaneous shipping instructions clauses are provided at Annexes A, B and C, respectively, and will be incorporated into the next Supply Manual and Standard Acquisition Clauses and Conditions Manual amendments, scheduled for release in December 2003.</p>
+<h3>Background</h3>
+<p>Approximately one year ago, sectors and regions, started receiving requisitions from DND which requested that sole source contracts and R&amp;O contracts be awarded on a FCA basis. This term is somewhat equivalent to FOB Plant, which is not an Incoterm and therefore not precise.</p>
+<p><em><strong>NOTE:</strong> <acronym title="Public Works and Government Services Canada">PWGSC</acronym> has traditionally used the term FOB Plant; however, this term is no longer in line with common industry practice. Incoterms are increasingly used for both foreign and domestic shipments.</em></p>
+<p>Incoterms are internationally recognized Terms of Sale established by a 68-country membership of International Chamber of Commerce (ICC). They were created in 1936 as an attempt to standardize Trade Terms as an aide to simplify international transactions. Incoterms are periodically updated, most recently January 1, 2000, and are defined on the ICC Website: <a href="http://www.iccwbo.org/index_incoterms.asp" rel="external">http://www.iccwbo.org/index_incoterms.asp</a>. Incoterms are copyright protected but <acronym title="Public Works and Government Services Canada">PWGSC</acronym> has been given permission by the ICC to link to their Website.</p>
+<p>Directorates may find it useful to purchase their own copy of the Incoterms manual in order to familiarize themselves with the specific obligations of the buyer and seller. Details on how to order the Manual can be found on the ICC Website.</p>
+<h3>Rationale for the change</h3>
+<p>DND explained that they were experiencing numerous problems as a result of the FOB terminology (both FOB Plant and FOB Destination) and suggested that <acronym title="Public Works and Government Services Canada">PWGSC</acronym> consider the use of FCA whenever possible to clearly delineate the Buyer and Seller's responsibilities. The types of problems being experienced by DND include the following:</p>
+<ol type="a">
+<li>suppliers shipping goods COLLECT when they are contractually obliged to deliver the goods within their price;</li>
+<li>shipments to multiple consignees being delivered to the closest Canadian Forces (FC) location and left to DND to redistribute;</li>
+<li>shipments being turned away from the CF depots because they are arriving unforecasted/ unplanned for receipt;</li>
+<li>additional sufferance warehouse charges for shipments which could not be received when unforecasted delivery could not be accommodated; and,</li>
+<li>duplication of billings and payments.</li>
+</ol>
+<p>DND believes these problems will be reduced or eliminated by using FCA and DND inbound transportation procedures whenever possible. These changes were presented by the DND Transportation Management Directorate at a Working Group Meeting held on April 25, 2002, and subsequently tabled at the Acquisition Policy Council on April 30, 2002.</p>
+<h3>Contact</h3>
+<p><strong>N/A</strong></p>
+<hr/>
+<h3>Annex A<br/>
+					CHANGES TO SUPPLY MANUAL</h3>
+<h4>Chapter 6: Process</h4>
+<p><strong>Transportation Charges</strong></p>
+<p>6E.621 (10/12/01) No changes.</p>
+<p>6E.622 (xx/xx/xx) FCA Free Carrier (... named place) Incoterms 2000 is to be used for all Department of National Defence (DND) sole source contracts, and all Repair and Overhaul (R&amp;O) contracts where transportation is not part of the competitive bid. DND will manage the inbound logistics (coordinate, arrange and pay for all inbound transportation) for these contracts. For United States (U.S.) Foreign Military Sales contracts only (not all U.S. contracts) FOB Plant will continue to be used and DND will manage the inbound logistic on those contracts as well.</p>
+<p>The contractor is to deliver these goods FCA. For these contracts the named place shall always be the contractor's facility, unless otherwise directed by DND. The contracting officer shall include in the solicitation document and the contract one of the following SACC Manual transportation clauses: D0035D, D0037D, or D0038D. These clauses direct the contractor to obtain shipping instructions from DND and how to do so. Contractors may also contact DND Headquarters at 613-996-0454 or 613-995-6958 should they have any transportation queries.</p>
+<h4>Chapter 8 - ACAN/Negotiated Procurement</h4>
+<p><strong>DND Requirements</strong></p>
+<p>8.025 (xx/xx/xx) Department of National Defence (DND) requirements which are successfully processed through the use of an ACAN can be awarded on a FCA Free Carrier (... named place) Incoterms 2000 basis. If the ACAN is successfully challenged and gives way to an open competitive process, the contracting officer shall consider what alternatives to use in lieu of FCA for the bid solicitation and resultant contract.</p>
+<h4>Chapter 12 - Glossary</h4>
+<p><strong>carrier</strong></p>
+<p>Any person who, in a contract of carriage, undertakes to perform or to procure the performance of transport by rail, road, air, sea, inland waterway or by a combination of such modes. (xx/xx/xx) <strong><em>(transporteur)</em></strong></p>
+<p><strong>FCA (Free Carrier {...named place})</strong></p>
+<p>The book containing the International Chamber of Commerce (ICC) official rules for the interpretation of trade terms is entitled 'Incoterms 2000' and a summary for the description of FCA may be found on the ICC Website at: <a href="http://www.iccwbo.org/index_incoterms.asp" rel="external">http://www.iccwbo.org/index_incoterms.asp</a>. The responsible obligations of the Buyer and Seller cannot be found on the ICC Website, that information may only be found in the Incoterms 2000 book. (xx/xx/xx) <strong><em>(franco transporteur {... lieu convenu})</em></strong></p>
+<p><strong>FOB (Free on Board)</strong></p>
+<p>A mercantile term used extensively in both domestic and international trade.</p>
+<p>1. As a domestic trade term, used in both Canada and the United States, FOB ordinarily determines the place where the seller effects delivery of the goods, where title and risk of loss will pass and whether the seller or the buyer is required to pay freight charges (e.g. FOB New York) unless otherwise specified in the contract. Specific application of the term FOB either with reference to transfer of title, risk, or burden of freight charges, may vary according to applicable law, custom and usage or agreement of the parties concerned.</p>
+<p>2. As an Incoterm, FOB is defined by the International Chamber of Commerce (ICC) and can only be used for shipments by seagoing vessels. (Note: there are thirteen Incoterms, six of which can only be used for shipments by seagoing vessel.) The ICC Website can be accessed at: <a href="http://www.iccwbo.org/index_incoterms.asp" rel="external">http://www.iccwbo.org/index_incoterms.asp</a>. The contractual rights and obligations of this and similar mercantile terms are used in international commerce. (xx/xx/xx) <strong>(FOB - franco bord)</strong></p>
+<p><strong>inbound logistics</strong></p>
+<p>The definition of inbound logistics is a matter of perspective. Shipments to Canadian Forces from Repair and Overhaul facilities and shipments off new acquisitions are considered inbound. Inbound logistics does not have an agreed-upon definition in the industry. A shipment is inbound to the receiver; conversely, shipments that are sent out - as a raw materiel supplier, manufacturer or vendor might do - are outbound from the sender. For inbound logistics planning, the focus of transportation management is on planning the receipt of the shipment. The definition of inbound logistics, then is related not only to the controller of the shipment process, but also who takes ownership of the goods shipped. (xx/xx/xx) <strong><em>(logistique interne)</em></strong></p>
+<p><strong>Incoterms</strong></p>
+<p>Incoterms are defined on the International Chamber of Commerce (ICC) Website at <a href="http://www.iccwbo.org/index_incoterms.asp" rel="external">http://www.iccwbo.org/index_incoterms.asp</a>. Incoterms are standard trade definitions most commonly used in international sales contracts. They are protected by ICC copyright. (xx/xx/xx) <strong>(<em>Incoterms</em>)</strong></p>
+<hr/>
+<h3>Annex B<br/>
+					CHANGES TO SACC MANUAL - FCA (INCOTERMS 2000)</h3>
+<h4>D0035D (xx/xx/xx) Shipping Instructions - International - DND</h4>
+<p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Use the following clause for Department of National Defence (DND) sole source contracts, and all repair and overhaul contracts where transportation is not part of the competitive bid and when DND is responsible for shipping. This clause does not apply to United States Foreign Military Sales procurements (see clause <a href="#PN-62d0038d">D0038D</a>).</p>
+<h4>Text:</h4>
+<p>1. For contracts let on behalf of the Department of National Defence, delivery shall be FCA Free Carrier (... named place, e.g. Contractor's Facility) Incoterms 2000, and onward shipment from the delivery point to the consignee shall be the responsibility of Canada. <strong><em>(Choose only one of the shipping options under 1.(a) and delete the others.)</em></strong></p>
+<ol type="a">
+<li>At least ten (10) working days prior to the goods being available for shipment, or as soon as possible thereafter, the Contractor shall send notification in writing, or when urgency dictates by telephone or facsimile message confirmed in writing, to:<br/>
+<ol type="i">
+<li>For contracts let in United Kingdom and Ireland
+<p>Canadian Forces Support Unit (Europe)</p>
+<p> ATTENTION: WO IC Movements<br/>
+									CFSU(E) Daws Hill<br/>
+									RAF Daws Hill<br/>
+									P.O. Box 5051<br/>
+									High Wycombe, UK<br/>
+									Buckinghamshire HP11 1UY England </p>
+<p> Telephone: 011 44 1494 795668, OR<br/>
+									011 44 1494 795669, OR<br/>
+									011 44 1494 795670<br/>
+									Facsimile: 011 44 1494 795784 </p>
+</li>
+<li>For contracts let in Continental Europe, including Scandinavian Countries
+<p>TRANSCAR GLOBAL LOGISTICS AG</p>
+<p> ATTENTION: Canadian Forces Support Unit (Europe)<br/>
+									D-52511 Geilenkirchen </p>
+<p> Telephone: +49-(0)-2451-910625<br/>
+									Facsimile: +49-(0)-2451-910626 </p>
+</li>
+<li>For contracts let in the United States (not including FMS)
+<p>NDQAR TA TORONTO</p>
+<p> ATTENTION: Canadian Forces Quality Assurance<br/>
+									4900 Yonge Street<br/>
+									Toronto, Ontario<br/>
+									Canada M2M 6B7 </p>
+<p> Telephone: 1-877-447-7701 (TOLL FREE), OR<br/>
+									416-635-4405, ext. 6101 / 6102 / 6103 / 6104<br/>
+									Facsimile: 416-635-2757 / 2758<br/>
+									1-877-877-7409 (TOLL FREE) </p>
+</li>
+<li>For contracts let in all other locations (excluding those locations detailed above and Canada)
+<p>Department of National Defence</p>
+<p> National Defence Headquarters<br/>
+									ATTENTION: DLBM/TM 6<br/>
+									101 Colonel By Drive<br/>
+									Ottawa, Ontario<br/>
+									Canada K1A 0K2<br/>
+									Telephone: 613-995-2434<br/>
+									Facsimile: 613-945-0944</p>
+</li>
+</ol>
+</li>
+<li>The Contractor shall provide the following information:<br/>
+<ol type="i">
+<li>the Contract number and financial coding;</li>
+<li>the consignee address;</li>
+<li>a description of each item including item number, quantity, NATO Stock Number, part number and serial number (if applicable);</li>
+<li>the number of pieces or cases;</li>
+<li>the actual weights and dimensions including gross weight and total cubic measurement;</li>
+<li>the total value; and</li>
+<li>full details of, and signed certificates for, dangerous material, as required for shipment by the International Maritime Dangerous Goods Code, or International Air Transportation Association regulations or the applicable Canadian Dangerous Goods Shipping regulations.
+<p>The Contractor shall report separately any piece measuring over 2.74 metres (108 in.) long x 2.23 metres (88 in.) wide x 1.37 metres (54 in.) high and/or weighing 2.268 kg (5,000 lb.) or more.</p>
+</li>
+</ol>
+</li>
+<li>Following receipt of this information by Canada, Canada shall provide the appropriate shipping instructions, which may include the requirement for specific consignee address labelling, the marking of each piece with a Transportation Control Number, customs documentation, and delivery to the export port of loading.</li>
+<li>UNDER NO CIRCUMSTANCES SHALL THE CONTRACTOR SHIP GOODS PRIOR TO RECEIPT OF SHIPPING INSTRUCTIONS.</li>
+<li>Should the Contractor deliver the goods at a place and time which are not in accordance with the given delivery instructions or fail to fulfil reasonable delivery instructions given by Canada, the Contractor shall reimburse Canada any additional expenses and costs thereby incurred.</li>
+<li>Should delays by Canada delay delivery of the goods, ownership and risk shall transfer to Canada upon the expiry of thirty (30) days following the date on which a duly completed shipping application is received by Canada or its appointed forwarding agent, or thirty (30) days following the delivery date specified in the Contract, whichever is later.</li>
+</ol>
+<hr/>
+<h4>D0037D (xx/xx/xx) Shipping Instructions - Canada - DND</h4>
+<p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Use the following clause for Department of National Defence (DND) sole source contracts, and all repair and overhaul contracts where transportation is not part of the competitive bid, let in Canada when DND is responsible for shipping.</p>
+<h4>Text:</h4>
+<p>For contracts let on behalf of the Department of National Defence (DND) in the Canada, delivery shall be FCA Free Carrier (... named place, e.g. Contractor's Facility) Incoterms 2000, and onward shipment from the delivery point to the consignee shall be the responsibility of Canada.</p>
+<p><strong>Shipping Instructions</strong></p>
+<ol type="a">
+<li>The Incoterms 2000 that is applicable to the delivery on this contract is FCA Free Carrier (...named place, e.g. Contractor's Facility) Incoterms 2000. The Contractor will be responsible to load the materiel onto the DND designated carrier.</li>
+<li><strong>For materiel pick up:</strong> prior to shipping of materiel, the Contractor shall advise the following contact by telephone/message/fax to arrange for shipment:
+<p><strong>FOR CANADIAN CONTRACTORS</strong></p>
+<p>NDQAR TA TORONTO</p>
+<p> ATTENTION: Canadian Forces Quality Assurance<br/>
+							4900 Yonge Street<br/>
+							Toronto, Ontario<br/>
+							Canada M2M 6B7 </p>
+<p> DLBM Auto Attendant: 416-635-4405, ext. 6101 / 6102 / 6103 / 6104<br/>
+							Telephone: 1-877-447-7701 (TOLL FREE)<br/>
+							Facsimile: 416-635-2757 / 2758, OR<br/>
+							1-877-877-7409 (TOLL FREE) </p>
+</li>
+</ol>
+<hr/>
+<h4><a id="PN-62d0038d" name="d0038d"></a>D0038D (xx/xx/xx) Shipping Instructions - Foreign Military Sales - DND</h4>
+<p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Use this clause for United States Foreign Military Sales contracts when Department of National Defence is responsible for shipping.</p>
+<h4>Text:</h4>
+<p>Carrier selection for shipments of the material supplied on this Foreign Military Sales case is the responsibility of Canada. Instructions on how to obtain carrier selection from Canada is contained in United States Department of Defense 4000.25-8-M, Military Assistance Program Address Directory, Canadian Special Instructions Indicator (SII). No shipments are to be made until the SII has been complied with.</p>
+<hr/>
+<h3>Annex C<br/>
+					SACC Manual - Miscellaneous Shipping Instructions</h3>
+<h4>B4045D (xx/xx/xx) Shipping Containers</h4>
+<p><strong>DELETED.</strong></p>
+<hr/>
+<h4>C2600C (xx/xx/xx) Customs Duty - Aircraft</h4>
+<p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Use the following clause in competitive contracts, for aircraft and/or airborne aircraft equipment, when they are issued on a basis other than FCA Free Carrier (... named place) Incoterms 2000.</p>
+<h4>Text:</h4>
+<p>Items _____, as stated by the Department of National Defence, are for use in aircraft and/or airborne aircraft equipment. Canadian customs duty for these items is not included in the Contract Price. If <strong>chargeable</strong>, customs duty is extra and will be paid by the Contractor who will be reimbursed the amount of duty paid plus sales tax paid on importation, upon submission of an invoice supported by customs documents.</p>
+<hr/>
+<h4>C2600T (xx/xx/xx) Customs Duty - Aircraft</h4>
+<p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Use the following clause in bid solicitations, for aircraft and/or airborne aircraft equipment, when they are issued on a basis other than FCA Free Carrier (... named place) Incoterms 2000.</p>
+<h4>Text:</h4>
+<p>Items _____, as stated by the Department of National Defence, are for use in aircraft and/or airborne aircraft equipment; therefore, the prices quoted must not include customs duty.</p>
+<hr/>
+<h4>C2601D (xx/xx/xx) Customs Duty - Contractor Importer</h4>
+<p><strong>Remarks:</strong> Use the following clause in bid solicitations and contracts for defence supplies when the contractor is the importer and the contract will equal or exceed C$250,000.</p>
+<h4>Text:</h4>
+<p>1. As the goods to be supplied under the Contract are defence supplies, customs duties on importation to Canada may be remitted under the Tariff Item Number 9982.00.00 of the Schedule to the Customs Tariff.</p>
+<p>2. Remission of customs duty payable may be granted under the Tariff Item Number 9982.00.00 when the total contract value of the defence supplies is C$250,000 or more. This reflects the import value of the goods plus the duty that would be applicable in the absence of the Customs Tariff.</p>
+<p>3. The Contractor will be responsible for pre-arranging remission on importation or for paying customs duties on importation and applying to Canada Customs and Revenue Agency for a refund. The importer is responsible for applying to Public Works and Government Services Canada in good time for the certification required by the Customs Tariff.</p>
+<hr/>
+<h4>C2608D (xx/xx/xx) Canadian Customs Documentation</h4>
+<p><strong>Remarks: </strong>Use the following clause in contracts and bid solicitations when the Department of National Defence is to be the importer.</p>
+<h4>Text:</h4>
+<p><strong>GENERAL</strong></p>
+<p>1. The Contractor shall provide two (2) copies of the Canada Customs Invoice (CCI) or two (2) copies of the commercial invoice marked 'For Customs Purposes Only' for all shipments when the Department of National Defence is the importer.</p>
+<p>2. For shipments from the United States and/or Mexico which are of American, Mexican or Canadian origin, as defined by the North American Free Trade Agreement (NAFTA), proof of origin must be provided. This proof shall be in the form of a <acronym title="North American Free Trade Agreement">NAFTA</acronym> Certificate of Origin for shipments valued greater than C$1,600 or a simple statement on the invoice for shipments valued at less than C$1,600. In either case, the document shall include an original signature and shall reference the contract number.</p>
+<p><strong>NOTE:</strong> This certificate is not required for any valued shipment when the total <strong>contract</strong> value exceeds C$250,000.</p>
+<p>3. Commercial customs brokers shall not be employed to customs clear merchandise provided against any contract, unless authorized by the Directorate Business Logistics Management/Transportation Movements 2 at National Defence Headquarters, telephone: 613-995-0834, facsimile: 613-992-9921.</p>
+<p><strong>COMPLETION OF DOCUMENTS</strong></p>
+<p>4. The completed CCI or commercial invoice must include the following information:</p>
+<ol type="a">
+<li>complete description of the material being shipped, including the applicable export tariff number, Harmonized Code or, in the United States, the Schedule B number;</li>
+<li>value and terms of sale for each item (e.g. sale, loan, warranty, Incoterms 2000), including value of repairs, warranty repairs and/or replacement costs;</li>
+<li>all contract numbers and financial codes are to be shown (Use Field 3 on the CCI form);</li>
+<li>country of origin of goods; and</li>
+<li>when a <acronym title="North American Free Trade Agreement">NAFTA</acronym> Certificate of Origin has been prepared, the description field of the CCI or invoice shall include a statement confirming that it has been completed and is attached to that invoice.</li>
+</ol>
+<p><strong>DISTRIBUTION OF DOCUMENTS</strong></p>
+<p>5. The Contractor shall attach the following to shipping container No. 1 of all shipments using a waterproof envelope marked 'Canada Customs Documentation':</p>
+<ol type="a">
+<li>one (1) copy of the CCI or one (1) copy of the commercial invoice as applicable, and;</li>
+<li>one (1) copy of the <acronym title="North American Free Trade Agreement">NAFTA</acronym> Certificate of Origin (if applicable).</li>
+</ol>
+<p>6. The second copy of each of the above-mentioned forms shall be attached to the shipping documents.</p>
+<hr/>
+<h4>C2610D (xx/xx/xx) Customs Duty - DND Importer</h4>
+<p><strong>Remarks:</strong> Use the following clause in contracts and bid solicitations for defence supplies when the Department of National Defence is the importer, and the contract will equal or exceed C$250,000. Contracting officers should request prices with customs duty identified as a separate item.</p>
+<h4>Text:</h4>
+<p>1. As the goods to be supplied under the Contract are defence supplies, customs duties on importation to Canada may be remitted under the Tariff Item Number 9982.00.00 of the Schedule to the Customs Tariff.</p>
+<p>2. Remission of customs duty payable may be granted under the Tariff Item Number 9982.00.00 when the total contract value of the defence supplies is C$250,000 or more. This reflects the import value of the goods plus the duty that would be applicable in the absence of the Customs Tariff.</p>
+<p>3. The Department of National Defence will be responsible for prearranging remission on importation or for paying customs duties on importation and applying to Canada Customs and Revenue Agency for a refund. The importer is responsible for applying to Public Works and Government Services Canada in good time for the certification required by the Customs Tariff.</p>
+<hr/>
+<h4>C5200C (xx/xx/xx) Transportation Charges</h4>
+<p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Do not use this clause for Department of National Defence FCA Free Carrier (...named place) Incoterms 2000 requirements.</p>
+<p>Use the following clause if clause C5200T was used and where shipping instructions obtained from the Traffic Management Directorate were different from what the Contractor proposed and inserted as a fill-in.</p>
+<h4>Text:</h4>
+<p>Goods shall be shipped prepaid via _____, including all delivery charges to _____. Prepaid transportation charges shall be shown as a separate item on the invoice, supported by a certified copy of the prepaid transportation bill.</p>
+<hr/>
+<h4>C5200T (xx/xx/xx) Transportation Costs Information</h4>
+<p><strong>Remarks:</strong> Do not use this clause for Department of National Defence requirements.</p>
+<p>Use the following clause when transportation costs are to be submitted to the Traffic Management Directorate (TMD), National Programs Sector, for analysis. For information on when these costs are to be submitted to TMD, including the list of exceptions, refer to <em>Supply Manual</em> procedure 6E.621, and for additional information on the mandatory provisions for transportation cost information, refer to procedure 7D.409.</p>
+<h4>Text:</h4>
+<p>The Bidder shall provide the following information concerning transportation costs which may be incurred either by Canada or the Contractor in the delivery of the units to destination:</p>
+<ol type="a">
+<li>shipping weight per unit;</li>
+<li>number of items per unit;</li>
+<li>cubic measurement per unit;</li>
+<li>freight classification;</li>
+<li>name of shipping point;</li>
+<li>name of rail carrier, if shipment is by rail; and</li>
+<li>recommended method of shipment and its costs.</li>
+</ol>
+<hr/>
+<h4>C5201C (xx/xx/xx) Transportation Charges - Prepaid</h4>
+<p><strong>Remarks:</strong> Do not use this clause for Department of National Defence FCA Free Carrier (... named place) Incoterms 2000 requirements.</p>
+<p>Use the following clause in all cases where the contractor is to prepay freight charges and clause C5200C is not being included.</p>
+<h4>Text:</h4>
+<p>Transportation charges are to be prepaid by the Contractor and shown as a separate item on the invoice, supported by a certified copy of the prepaid transportation bill.</p>
+<hr/>
+<h4>D4000C (xx/xx/xx) Shipment - FOB (Origin) and FCA</h4>
+<p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Do not use this clause for Department of National Defence requirements.</p>
+<p>Use the following clause in contracts, standing offers and call-ups when Canada will be responsible for all delivery charges, administration, costs and risk of transport and customs clearance and customs duties (if applicable). In the first blank, specify the document (i.e. contract, standing offer or call-up) and in the second blank enter plant location.</p>
+<h4>Text:</h4>
+<p>1. Shipment shall be consigned to the destination specified in ________ and delivered:</p>
+<ol type="a">
+<li>Free on Board (Origin) common carrier ________ for shipments from the United States government, or</li>
+<li>FCA Free Carrier (... named place, e.g. Contractor's Facility) Incoterms 2000 for shipments from a commercial supplier.</li>
+</ol>
+<p>2. Canada will be responsible for all delivery charges, administration, costs and risk of transport and customs clearance and customs duties (if applicable).</p>
+<hr/>
+<h4>D4001C (xx/xx/xx) Shipment - Free on Board and Delivered Duty Paid</h4>
+<p><strong>Remarks:</strong> Do not use this clause for Department of National Defence requirements.</p>
+<p>Use the following clause when the contractor is responsible for all delivery charges, administration, costs and risks of transport and customs clearance, including the payment of customs duties and taxes.</p>
+<h4>Text:</h4>
+<p>1. Shipment shall be consigned to the destination specified in _________ and delivered:</p>
+<ol type="a">
+<li>Free on Board (Destination) common carrier ________ for shipments from the United States government, or</li>
+<li>DDP Delivered Duty Paid (... named place of destination) Incoterms 2000 for shipments from a commercial supplier.</li>
+</ol>
+<p>2. The Contractor will be responsible for all delivery charges, administration, costs and risk of transport and customs clearance, including the payment of customs duties and taxes.</p>
+<hr/>
+<h4>D5543D (xx/xx/xx) ISO 9001:2000 - Quality Management System - Requirements (QAC C)</h4>
+<p><strong>Remarks:</strong> Use the following clause when conformance with the contract requirements can adequately be determined at destination (identity, condition and count). In the event the requisition has multiple Quality Assurance (QA) codes, the contracting officer is to identify the line items that are associated with each QA clause.</p>
+<h4>Text:</h4>
+<p>The Contractor shall be responsible for implementing a quality system appropriate to the scope of the work to be performed. It is recommended that the quality system be based on ISO 9001:2000 - Quality Management System Requirements.</p>
+<p>The Contractor shall be responsible for performing or having performed all inspections and tests necessary to substantiate that the materiel or services provided conform to the drawings, specifications and contract requirements. The Contractor shall keep accurate and complete inspection records which shall, upon request, be made available to the authorized Department of National Defence (DND) representative, who may make copies thereof and take extracts therefrom during the performance of the Contract and for a period of one (1) year thereafter.</p>
+<p>The Contracting Authority and DND shall have access to the Work at any time during working hours where any part of the Work is being carried out and may make examinations and such tests of the Work as they may think fit under the circumstances. Should the Work or any part thereof not be in accordance with the requirements of the Contract, the authorized DND representative shall have the right to reject the Work and require its correction or replacement at the Contractor's expense. DND shall inform the Contractor of the motives for any such rejection.</p>
+<p>Notwithstanding the foregoing, all materiel is subject to verification and acceptance by DND at destination prior to payment. The authorized DND representative at destination may either be the consignee(s), the Technical Authority, or the Quality Assurance Authority.</p>
+<hr/>
+<h4>D6000D (xx/xx/xx) Shipping Instructions - United States Supplier</h4>
+<p><strong>Remarks:</strong> Do not use this clause for Department of National Defence requirements.</p>
+<p>Use the following clause in contracts and bid solicitations placed with a United States supplier. When requests for routing instructions are received from the supplier, the contracting officer will refer such requests to the Traffic Management Directorate, National Programs Sector, to obtain details of routing instructions.</p>
+<h4>Text:</h4>
+<p>1. In cases where the Contractor pays the shipping charges and absorbs these charges as part of the purchase price, the Contractor may ship the goods in accordance with its regular shipping practice.</p>
+<p>2. In cases where Canada either pays the shipping charges or the Contractor pays the shipping charges and Canada reimburses the Contractor for direct and identifiable shipping charges, Canada reserves the right to provide shipping instructions to the Contractor, as follows:</p>
+<ol type="a">
+<li>for shipments (truck/rail) weighing under 10,000 lb. and (air) under 1,000 lb., the Contractor shall, unless otherwise directed, ship the goods in accordance with its regular shipping practice,</li>
+<li>for shipments (truck/rail) weighing 10,000 lb. or over and (air) over 1,000 lb., the Contractor shall:<br/>
+<ol type="i">
+<li>provide at the first opportunity the Contracting Authority with the following information:
+<ul>
+<li>contract number;</li>
+<li>commodity and freight classification;</li>
+<li>gross weight and cube of shipment;</li>
+<li>name of railway serving the Contractor's plant site (if applicable);</li>
+<li>shipping point and address;</li>
+<li>date of availability;</li>
+<li>consignee and destination address;</li>
+<li>Contractor's recommended method of shipment and cost;</li>
+<li>type of packaging and dimensions of each package;</li>
+<li>if shipment is dangerous goods/hazardous materiel, the United Nations number, class, division, packing group and packing instructions;</li>
+<li>contact name and phone number; and</li>
+<li>not make any shipment prior to receiving directions from the Contracting Authority concerning mode of shipment, carrier, routing, and method of billing for transportation charges.</li>
+</ul>
+</li>
+</ol>
+</li>
+</ol>
+<hr/>
+<h4>D6006D (xx/xx/xx) Shipping Instructions - DND Ammunition</h4>
+<p><strong>Remarks:</strong> Use the following clause when contractors must obtain shipping instructions for ammunition.</p>
+<h4>Text:</h4>
+<p>1. At or prior to ammunition deliverable end items becoming available for shipment, the Contractor shall request shipping instructions from National Defence Quality Assurance Representative and provide the following information:</p>
+<ol type="a">
+<li>Work Order Number;</li>
+<li>NATO Stock Number and Description; and</li>
+<li>recommended method of shipment.</li>
+</ol>
+<p>2. The Contractor shall not ship any ammunition deliverable end items until instructions are received from:</p>
+<p>NDQAR TA TORONTO</p>
+<p>ATTENTION: Canadian Forces Quality Assurance<br/>
+					4900 Yonge Street<br/>
+					Toronto, Ontario<br/>
+					Canada M2M 6B7 </p>
+<p> Telephone: 1-877-447-7701 (TOLL FREE), OR<br/>
+					416-635-4405, ext. 6101/ 6102 / 6103 / 6104<br/>
+					Facsimile: 416-635-2757 / 2758, OR<br/>
+					1-877-877-7409 (TOLL FREE)</p>
+<hr/>
+<p><strong>D6009D (xx/xx/xx) Shipping Instructions - Delivery and Destination Schedules Unknown </strong></p>
+<p><strong>Remarks:</strong> Use the following clause in contracts and bid solicitations competed on behalf of Department of National Defence where destination and delivery schedules are not known at the time of execution.</p>
+<h4>Text:</h4>
+<p>1. The Contractor shall ship prepaid DDP Delivery Duty Paid (... named place). Unless otherwise directed, delivery shall be made by the most economical means. Shipping charges shall be shown as a separate item on the Contractor's invoice. The Contractor is responsible for all delivery charges, administration, costs and risks of transport and customs clearance, including the payment of customs duties and taxes.</p>
+<p>2. The Contractor shall make deliveries to Canadian Forces (CF) Supply Depots by appointment only. The Contractor or its carrier shall arrange delivery appointments by contacting the Depot Traffic Section at the appropriate location shown below. The consignee may refuse shipments when prior arrangements have not been made.</p>
+<ol type="a">
+<li>7 CF Supply Depot Lancaster Park
+<p>Edmonton, Alta<br/>
+							780-973-4011, ext. 4524</p>
+</li>
+<li>25 CF Supply Depot Montreal
+<p>Montreal, Qué.<br/>
+							514-252-2777, ext. 2363</p>
+</li>
+<li>2B1 CF Esquimalt
+<p>Esquimalt, B.C.<br/>
+							250-363-4963</p>
+</li>
+<li>7H1 CF Halifax
+<p>Halifax, N.S.<br/>
+							902-427-0550 </p>
+</li>
+</ol>
+<hr/>
+<h4>H1000D (xx/xx/xx) Method of Payment</h4>
+<p><strong>Remarks:</strong> Use the following clause in all contracts, standing offers, purchase orders or bid solicitations (EXCEPT construction and utility contracts and when general conditions 9329 are invoked) that provide for payment upon completion.</p>
+<h4>Text:</h4>
+<p>1. Payment by Canada for the Work shall be made within:</p>
+<ol type="a">
+<li>thirty (30) days following the date on which all of the Work has been delivered at the location(s), i.e. the delivery point, not the ultimate destination, specified in the Contract and all other Work required to be performed by the Contractor under the terms of the Contract has been completed; or</li>
+<li>thirty (30) days following the date on which an invoice and substantiating documentation are received according to the terms of the Contract;
+<p>whichever is later.</p>
+</li>
+</ol>
+<p>2. If Canada has any objection to the form of the invoice or the substantiating documentation, within fifteen (15) days of its receipt, Canada shall notify the Contractor of the nature of the objection. 'Form of the invoice' means an invoice which contains or is accompanied by such substantiating documentation as Canada requires. Failure by Canada to act within fifteen (15) days will only result in the date specified in paragraph 1 of the clause to apply for the sole purpose of calculating interest on overdue Accounts.</p>
+<hr/>
+<h4>P3035D (xx/xx/xx) Shipping</h4>
+<p><strong>DELETED.</strong></p>
+<hr/>
+<h4>Y4000D (xx/xx/xx) Shipping Instructions - Sea or Air</h4>
+<p><strong>Remarks:</strong> Use the following clause in all bid solicitations and contracts placed on behalf of Canada when shipment is by sea (FAS Port or FOB Plant) or by air (FOB Plant).</p>
+<h4>Text:</h4>
+<p>1. The Traffic Management Directorate (TMD) is responsible for the issue of shipping instructions and transportation overseas.</p>
+<p>Shipments shall not be effected until shipping instructions are received from TMD and these will not be issued to the Contractor until after documents identified in article 8 below are received.</p>
+<p>2. All documents are to reflect the financial code, Contract Number and Consignee Number. Invoices must reflect the Contract Item Number, Client Reference Number, description of the commodity and values. The packing list must detail the contents packed in each carton, box, etc., together with the individual dimensions, cubic displacement and gross weight per carton, box, etc.</p>
+<p>3. Documents are to be submitted covering each shipment and are to state whether shipment is partial or complete.</p>
+<p>4. A customs export entry form B-13, obtainable from the local Customs House or Post Office, is to be prepared for each shipment.</p>
+<p>5. Inland bills of lading:</p>
+<ol type="a">
+<li>For contracts with Incoterms other than EXW and FCA (FAS, FOB, CFR, CIF, CIP, DAF, DES, DEQ, DDU, DDP) - show the Contractor as the shipper.</li>
+<li>For EXW and FCA contracts, prepay inland transportation charges and show them as a separate item on the invoice - show Canada as the shipper.</li>
+</ol>
+<p><strong>DOCUMENTATION</strong></p>
+<p>Dangerous Goods:</p>
+<p>6. The nature, quantity and United Nations number of any dangerous good are to be included with each dangerous good, in accordance with the International Maritime Dangerous Goods Code and International Air Transport Association Regulations.</p>
+<p>7. Non-compliance with this requirement will render the supplier liable for any punitive action that may be taken by regulating authorities.</p>
+<p>8. Documents hereunder to accompany request for shipping instructions to:</p>
+<p> Traffic Management Directorate<br/>
+					National Programs Sector<br/>
+					Public Works and Government Services Canada<br/>
+					Place du Portage, Phase III<br/>
+					Gatineau, Quebec K1A 0S5 </p>
+<ol type="a">
+<li>seven (7) copies of the commercial invoice;</li>
+<li>seven (7) copies of the packing list;</li>
+<li>three (3) copies of the inspection report, if inspection is required by the Contract.</li>
+</ol>
+<p><strong> NOTE</strong>: The Contractor must give the location of the commodity(ies) to be shipped.</p>
+<p>9. (a) For sea shipments: one (1) copy of the inland bill of lading to TMD, AFTER SHIPMENT IS EFFECTED.</p>
+<p>(b) For air shipments: two (2) invoices and packing lists to accompany shipment(s) to the airport in an envelope addressed to the consignee/clearing agent, and annotated: <em>'Airlines: Clearing documents for consignee/clearing agent; please attach to the air waybill.'</em></p>
+<p>10. To the originating Department, at the address to which invoices are to be forwarded:</p>
+<ol type="a">
+<li>the original and four (4) copies of the commercial invoice;</li>
+<li>The Contractor shall include the following statement on all invoices:</li>
+<li>"We certify that prices on this invoice exclude the Goods and Services Tax, the Harmonized Sales Tax, sales tax, refundable customs duty and excise tax paid on goods or on parts and components incorporated in the goods."</li>
+<li>one (1) signed copy of the inspection report, if applicable;</li>
+<li>proof of delivery (wharf receipt, bill of lading or air waybill).</li>
+</ol>
+<p>11. To the Contracting Authority of Public Works and Government Services Canada: one (1) copy of the commercial invoice.</p>
+<hr/>
+<h4>Y4001D (xx/xx/xx) Documentation - FOB Panalpina Inc.</h4>
+<p><strong>DELETED.</strong></p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

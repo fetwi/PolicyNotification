@@ -1,0 +1,72 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Introduction</h2>
+<p>On May 8, 2003, the Treasury Board (TB) approved a new Policy entitled 'Policy on Decision Making in Limiting Contractor Liability in Crown Procurement Contracts.' The new Policy has come into effect on September 1, 2003, replacing the TB Interim Policy on Indemnification in Contracting adopted on August 15, 1995.</p>
+<h2>Policy</h2>
+<p>There has been a change in the Crown's default position on indemnification. The default position under the new TB Policy is to remain silent on indemnification. This replaces the 'full' indemnification of the Crown position that is commonly used in many contracts.</p>
+<h2>Effective Date</h2>
+<p>The new Policy has come into effect on September 1, 2003. It applies to Requests for Proposal (RFPs) that are issued on or after September 1, 2003.</p>
+<ol>
+<li><em>RFPs issued prior to September 1, including those posted to the GETS, will be subject to the TB Interim Policy.</em></li>
+<li><em>Call ups against standing offers that were issued prior to September 1, 2003, will be subject to the TB Interim Policy.</em></li>
+<li><em>Procurements initiated during the transition period - from the new Policy's May 8, 2003, approval date until its September 1, 2003, effective date - should use the current departmental approval regime that is allowed under the Interim Policy.</em></li>
+</ol>
+<h2>Overview</h2>
+<p>The main objective of the new TB Policy is to achieve a balance amongst the protection required by the Crown against certain risks and liabilities when entering into Crown procurement contracts, market place conditions and conditions important for assuring program and service delivery results.</p>
+<p>The new TB Policy has a risk focus. It provides a risk-based approach to decision making with respect to liability and indemnification provisions in contracts. Under the new Policy, risks are strategically identified and managed in order to meet program and service delivery needs for Canadians.</p>
+<p>The Policy deals with risks arising from contracting, managing the Crown's liabilities and the Crown's decision to limit Contractor's liabilities. It does not specifically address project management risks, e.g. - risks related to deadlines, budget and scope.</p>
+<h2>Application</h2>
+<p>This Policy applies to all Crown procurement contracts subject to the <em>Government Contract Regulations</em> and the TB Contracting Policy, and to:</p>
+<ol>
+<li>risks (and the resulting liabilities) that are under the control of the Contractor; and</li>
+<li>where acquisition cards are used to make payments against contracts, standing offers or supply arrangements, this policy applies and the indemnification or limitation of liability provisions of those contracting instruments also apply.</li>
+</ol>
+<p>The Policy <strong>does not</strong> apply to:</p>
+<ol>
+<li>the risks (and the resulting liabilities) that are under the control of the Crown;</li>
+<li>purchases using acquisition cards, where the only contract between the Crown and the Contractor is the bill of sales receipt, in which transfers of liability take place under the normal conditions of such sales; and</li>
+<li>leases and contracts for real property pursuant to the <em>Federal Real Property Act</em>.</li>
+</ol>
+<h2>Four Models for procurement under the Policy</h2>
+<p>One of the most important features of the new TB Policy is the four Models used to categorize all procurements falling under the Policy. The Policy recognizes that a simple construction project is not going to face the same types or severity of risk as a spacecraft development effort. Accordingly, the Policy splits all covered procurement contracts into four Models. The four risk-based Models have been developed to assist departments by providing administrative groupings for expeditious and consistent consideration of limitation of liability. </p>
+<ul>
+<li><strong>Model 1</strong> represents the most common type of procurement contract and accounts for about 90% of all Crown procurement contracts.
+<p>Within this Model, Commodity Groupings are a means of limiting liability for a class of commodities so that TB approval for individual procurements within that commodity would not be required. There are twenty-one (21) commodity models already in existence for which Public Works and Government Services Canada (<abbr title="Public Works and Government Services Canada">PWGSC</abbr>) has obtained Treasury Board Secretariat (TBS) concurrence, thus improving efficiency and saving time and costs. <abbr title="Public Works and Government Services Canada">PWGSC</abbr> has the authority to create new commodity models where appropriate, after consultation and a risk assessment.</p>
+</li>
+<li><strong>Model 2 - Complex:</strong> This Model includes complex procurements that have a high degree of uncertainty or risk because of the untested nature of the technology or the unproven, unique or developmental nature of the deliverable. The uncertainty or risk could also be magnified by the intended use of the deliverable by the federal government. These transactions also include procurements involving non-standard modifications of proven military or commercially available products and services.</li>
+<li><strong>Model 3</strong> includes contracts where there is limited scope for negotiating liability provisions, such as government-to-government agreements, or where no other viable alternative to serve a program requirement exists. </li>
+<li><strong>Model 4</strong> pertains to highly specialized services contracts in support of ensuring the health, safety and the economic well-being of Canadians.
+<p>At the meeting of May 8, 2003, <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s companion submission was also approved without amendment. This companion submission sought authority for <abbr title="Public Works and Government Services Canada">PWGSC</abbr> to exclude from the responsibility of contractors certain third party liabilities in Information Management and Information Technology (IM/IT) contracts. <em> (Note that <abbr title="Public Works and Government Services Canada">PWGSC</abbr> already has authority to limit first party liability as permitted by the new Policy, e.g. - the Crown may decide to limit a contractor's liability for damage to government furnished equipment while under the care, custody or control of the contractor.)</em> Contracting officers should determine if their contracts fit the IM/IT conditions in this submission so that the appropriate clauses can be incorporated into the contract for limiting the contractor's third party liabilities.</p>
+</li>
+</ul>
+<h2>Implementation</h2>
+<p>The contracting officer should check in the <em>Indemnification Deskbook</em> to be distributed by late September 2003, to help determine which Model applies, by using the decision tree that is included in the Deskbook. If the commodity fit into Model 1, the decision tree will also help to determine whether a commodity grouping applies and, if so, which one.</p>
+<p>In procurement situations where the decision is taken to stay 'silent', the Indemnity provisions contained in the general conditions and the supplemental general conditions of the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> <em>Standard Acquisition Clauses and Conditions</em> Manual should <strong>not</strong> be used; instead, contracting officers should use a <strong>new</strong> family of the general conditions (using the 9500 series) that will be specially developed, no later than September 30, 2003, and will contain a specific clause to address 'silence' in contracting.</p>
+<p>Full indemnification should be chosen in procurement situations where:</p>
+<ol>
+<li>it may not be in the Crown's financial interest to rely on Common Law or the Civil Code, e.g. - when the contractor would have full care, custody or control of government property; or</li>
+<li>a commodity grouping is used where it is already specified that the contractor will fully indemnify the Crown, i.e. Crown has decided not to limit Contractor's liability to the Crown.</li>
+</ol>
+<p>The new TB Policy also establishes a Framework for use in exceptional procurement circumstances where options other than staying 'silent' or the 'full' indemnification of the Crown or in the procurement documents can be considered. Should one of these exceptional circumstances apply and should the Crown assumes responsibility for part of the contractor's liability in extreme situations (e.g. emergency situations) the department for which the procurement is being carried out obtain its Senior Financial Officer's or his or her delegate's approval. Substantive transfer occurs where the limitation of liability of the contractor to be included in the contract is less than the potential liability that might reasonably be expected based on the circumstances and potential losses that might arise from specified risks taking into account their probability.</p>
+<h2>Management Capacity</h2>
+<ol>
+<li><em>Training</em>
+<p>Limitation of Contractor Liability training began in November 2002, and was initially delivered at headquarters and in the regions to procurement managers, quality assurance officers, risk experts and senior contracting officers as well as some senior project managers from client departments. Further training will be delivered to other <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting officers and their managers or clients on an as requested basis.</p>
+</li>
+<li><em>Information sessions to <abbr title="Public Works and Government Services Canada">PWGSC</abbr> clients</em>
+<p>In cooperation with <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Client Service Teams at the Operations Branch, Risk Advisory Services (RAS) will conduct a minimum of two bilingual sessions. The purpose of these sessions is to orient clients to <abbr title="Public Works and Government Services Canada">PWGSC</abbr> implementation of the new TB Policy and the roles-and-responsibilities matrix among <abbr title="Public Works and Government Services Canada">PWGSC</abbr>, clients and TB.</p>
+</li>
+<li><em>Indemnification Deskbook</em>
+<p>In order to streamline this policy information for <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting officers and project managers, a <abbr title="Public Works and Government Services Canada">PWGSC</abbr> <em>Indemnification Deskbook</em> will be developed by September 30, 2003, offering practical, micro-level advice and instructions for limitation of liability and indemnification of the contractor.</p>
+</li>
+<li><em>Web-based Risk Tools</em>
+<p>RAS has proposed the development of web-based tools to assist in training and communicating with contracting officers, client and suppliers about <abbr title="Public Works and Government Services Canada">PWGSC</abbr> implementation of the new TB Policy. Reference documents, training material, decision trees, checklists and Frequently Asked Questions will be posted on the website.</p>
+</li>
+<li><em>Support Team for the Transition Period</em>
+<p>The support team will consist of representatives from RAS, Risk and Quality Management Directorate in Operations Branch, TBS and representatives from two major client departments. The role of the team is to facilitate timely and effective implementation of the TB Policy. Contact information for the team will be communicated in late September 2003.</p>
+</li>
+</ol>
+<h2>Inquiries</h2>
+<p>Any inquiries are to be addressed to Helen Braiter, Risk Advisory Services, either by phone 819-956-4354 or by e-mail at:<a href="mailto:helen.braiter@pwgsc-tpsgc.gc.ca" rel="external">helen.braiter@pwgsc-tpsgc.gc.ca</a>.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

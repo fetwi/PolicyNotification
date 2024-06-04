@@ -1,0 +1,753 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Introduction</h2>
+<p>The purpose of Policy Notification (PN)-75R1 is to provide new direction to procurement personnel regarding contracts with task authorizations. The revised approach introduces new tools and  guidelines and includes changes to the <em>Supply Manual</em>(SM) and new clauses for the <em>Standard Acquisitions Clauses and  Conditions</em> (SACC) Manual.</p>
+<h2>Background</h2>
+<p>In the last few years, several government audits have  taken place that included reviews of contracts with task authorizations. These reviews raised issues relative to the  application of financial controls, separation of duties, contract amendments, employer-employee relationships, and adherence to contractual conditions. The Acquisitions Branch has decided to update  its procedures to improve the effectiveness and consistency with which  contracts with task authorizations are used and managed.</p>
+<h2>Effective Date</h2>
+<p>This <abbr title="Policy Notification">PN</abbr> is effective immediately. However, for existing procurements where the Contract Planning and Advance Approval document  or Procurement Plan has already been submitted for approval, the implementation  of the new instructions within this <abbr title="Policy Notification">PN</abbr> is at the contracting officer's  discretion, unless otherwise advised by management.</p>
+<h2>Revisions to the current policy</h2>
+<p>The following significant changes have been  made to the current policy on contracts with task authorizations:</p>
+<ol class="double-space" type="a">
+<li>Additional instructions are  provided to highlight the differences between contracts with task  authorizations, standing offers and supply arrangements. </li>
+<li>Previous  information related to contracts with task authorizations is now organized more  closely to the order of the steps involved in the procurement process.</li>
+<li>The <em>Supply Manual</em> will no longer state that Directors General have to maintain an  oversight of all contracting activity related to task authorizations within their sector/region.</li>
+<li>Directors  now may approve or prohibit classes of procurement in which task authorizations  may be used.</li>
+<li>There is no  longer a minimum approval authority for contracts with task authorizations at  the Director level. The approval  authority for contracts with task authorizations and for their modifications is  now in accordance with the approvals and authorities for contracts detailed in Chapter 6 of the <em>Supply Manual</em>.</li>
+<li>Contracting officers who have been delegated services  contract approval and signing authority now have no maximum limit on the dollar amount for  authorizing individual task authorizations up to the total approved contract  value, unless directed otherwise by management.</li>
+<li>The pertinent definitions in the Glossary have been revised.</li>
+<li>Procedural guidance is now  provided for Public Works and Government Services Canada (<abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s) clients  regarding contracts with task authorizations in the <em>Guide to Preparing and  Administering Task Authorizations – for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s clients</em>.</li>
+<li>A Record of Agreement template  is included to help in establishing the roles and responsibilities between the  contracting officers and the clients when contracts with task authorizations  are issued by <abbr title="Public Works and Government Services Canada">PWGSC</abbr>. </li>
+<li>A Task Authorization form <a href="http://publiservice-app.pwgsc.gc.ca/forms/index.cfm?fuseaction=search.details&amp;lang=e&amp;display=8891" rel="external"><abbr title="Public Works and Government Services Canada">PWGSC</abbr>-<abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> 572</a> <img alt="This link is available only to clients with access to Publiservice, the Government of Canada extranet." height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/> is provided for clients other than the Department of National  Defence (DND). The form <abbr title="Department of National Defence">DND</abbr> 626 Task  Authorization will still be used in contracts for <abbr title="Department of National Defence">DND</abbr>.</li>
+<li>New and  revised SACC Manual clauses have been included.</li>
+<li><abbr title="Public Works and Government Services Canada">PWGSC</abbr>  applies the principle of separation of duties to task authorizations issued for  <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s own needs; i.e. the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> individual who signs the task authorization  must not also certify the associated invoices.  In its <em>Guide to Preparing and Administerin</em><em>g Task  Authorizations -</em> <em>for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s Clients</em>,  <abbr title="Public Works and Government Services Canada">PWGSC</abbr> recommends this practice to all its clients. </li>
+</ol>
+<p><a href="#PN-75R1AnnexA">Annex A</a> contains all  the changes to the <em>Supply Manual</em>. The  previous procedures in 3.30, 3.35, 3.35.1, and Annex 3.4 have been replaced in  their entirety. Procedures 3.40, 3.45, 8.70.20 and two definitions of the Glossary have been revised. Procedure 6.25.40 has been deleted. </p>
+<p><a href="#PN-75R1AnnexB">Annex B</a> includes new and revised SACC Manual clauses.</p>
+<h2>Contact Persons</h2>
+<p>For more information on the <em>Supply Manual</em> changes, contact Veronica   Nazareth, by phone at 819-956-5024, or by e-mail at: <a href="mailto:veronica.nazareth@tpsgc-pwgsc.gc.ca" rel="external">veronica.nazareth@tpsgc-pwgsc.gc.ca</a>.</p>
+<p>For more information on the new SACC Manual clauses, contact Anne Villeneuve by phone at 819-956-0458, or by e-mail at: <a href="mailto:anne.villeneuve@tpsgc-pwgsc.gc.ca" rel="external">anne.villeneuve@tpsgc-pwgsc.gc.ca</a>.</p>
+<h2 id="PN-75R1AnnexA">Annex A - Changes to the Supply Manual</h2>
+<h3>Chapter 3 - Procurement Strategy</h3>
+<p><strong>3.30	Methods of Supply</strong><br/>
+		(2011-01-11)</p>
+<p>Public Works and Government Services Canada (PWGSC) uses a variety  of approaches to meet procurement requirements.  This spectrum ranges from specific contracts which precisely define the  deliverables to be provided to a specific client by a specific date, to various  procurement instruments for use by a single or many departments and agencies,  for needs which are sometimes less well defined at the outset.</p>
+<p>There are essentially three methods of  supply for procuring goods and services, which are:</p>
+<ol class="double-space" type="i">
+<li>contracts  (including contracts with task authorizations);</li>
+<li>standing offers, and</li>
+<li>supply arrangements.</li>
+</ol>
+<p>The contracting officer, in consultation with the client, chooses  the method of supply that best satisfies the client's requirements.</p>
+<p>For additional information on when to use a contract (including contracts with task authorizations), a standing offer or a supply  arrangement, see <a href="#PN-75R1a3_35">3.35</a>, <a href="#PN-75R1a3_40">3.40</a> and <a href="#PN-75R1a3_45">3.45</a>. Contracting officers should also consult the comparison table in <a href="#PN-75R1Annex3_8">Annex 3.8</a> to assist them in determining which method of supply should be used when the precise nature, quantity and/or timing of  the need cannot be set out in advance. </p>
+<p id="PN-75R1a3_35"><strong>3.35	Contracts</strong><br/>
+		(2011-01-11)</p>
+<p>Contracts for goods, services and construction are generally used to  meet unique, well-defined requirements for a single client but they may also be  used to meet the requirements of more than one client. They are used where a standing offer or  supply arrangement is not warranted.</p>
+<p>For more information on the required content of a contract, see Chapter 4.</p>
+<p id="PN-75R1a3_35_1"><strong>3.35.1 Contracts with Task Authorizations</strong></p>
+<p><strong>3.35.1.1	Definition</strong><br/>
+		(2011-01-11)</p>
+<p>A contract with Task Authorizations (<abbr title="Task Authorization">TA</abbr>s) is a method of supply for services under which all of the work or a portion of the work will be performed on an "as and when requested basis" through predetermined conditions including an administrative process involving task authorizations.  Contracts with <abbr title="Task Authorization">TA</abbr>s are used in service contracting situations when there is a defined need by a client to rapidly have access to one or more categories of service(s) that are expected to be needed on a repetitive basis during the period of the contract.  Under contracts with <abbr title="Task Authorization">TA</abbr>s, the work to be carried out can be defined but the exact nature and timeframes of the required services, activities and deliverables will only be known as and when the service(s) will be required during the period of the contract.  The contract with <abbr title="Task Authorization">TA</abbr>s must stipulate the conditions for issuing <abbr title="Task Authorization">TA</abbr>s.  A <abbr title="Task Authorization">TA</abbr> is a structured administrative tool enabling <abbr title="Public Works and Government Services Canada">PWGSC</abbr> or a client to authorize work by a contractor on an "as and when requested" basis in accordance with the conditions of the contract.  <abbr title="Task Authorization">TA</abbr>s are not individual contracts.</p>
+<p id="PN-75R1a3_35_1_5"><strong>3.35.1.5	Application</strong><br/>
+		(2011-01-11)</p>
+<p>Contracts with <abbr title="Task Authorization">TA</abbr>s may be used for service requirements such as:</p>
+<ol class="double-space" type="i">
+<li>Professional Services;</li>
+<li>Informatics  Professional Services;</li>
+<li>Technical  Investigation and Engineering Studies;</li>
+<li>some  types of Repair and Overhaul (R&amp;O) services where work authorizations  issued are considered task authorizations, i.e. Additional Work Requirements (AWR); Mobile Repair Party (MRP); Special  Investigations and Technical Studies (SITS); Project Work Order (PWO).</li>
+</ol>
+<p>Contracts with <abbr title="Task Authorization">TA</abbr>s are not to be used for shipbuilding or ship refits.  Nor are they to be used for those R&amp;O work authorizations that are not considered task authorizations, i.e. Selection Notice and Priority Summary (SNAPS); Repairable Materiel Request (RMR); Quartermaster Transfer Orders (QTO); and Vehicle Movement Orders (VMO).</p>
+<p>Although <abbr title="Task Authorization">TA</abbr>s are used for service requirements, they may be used to purchase incidental goods that are related to a specific service requirement when these goods will later become the property of the government.  When this incidental acquisition of goods will be necessary, the Contract Planning and Advanced Approval (CPAA) form or procurement plan (see 3.35.1.15) and the solicitation and resulting contract must address the conditions for this incidental acquisition of goods, with appropriate limitations defined.  <abbr title="Task Authorization">TA</abbr>s must not be used to have the contractor acquire goods on behalf of the client that are outside the scope of the work in order to circumvent the normal procurement process.  For instance, a contract with <abbr title="Task Authorization">TA</abbr>s for engineering services cannot be used to purchase software unless this requirement was part of the original solicitation and the related payment provisions of the contract.</p>
+<p>Directors may approve or prohibit classes of procurement in which <abbr title="Task Authorization">TA</abbr>s may be used.</p>
+<p id="PN-75R1a3_35_1_10"><strong>3.35.1.10 Conditions of Use</strong><br/>
+		(2011-01-11)</p>
+<p>Contracts with task authorizations that are improperly used can lead to major problems between the government and its suppliers, between <abbr title="Public Works and Government Services Canada">PWGSC</abbr> and its clients, and for the government in the eyes of the public.  When a contract with <abbr title="Task Authorization">TA</abbr>s is being considered as a method of supply for a particular procurement, before seeking approval for the procurement strategy, the contracting officer must follow all the applicable procedures detailed in <a href="#PN-75R1a3_35_1">3.35.1</a>  In instances when the <abbr title="Task Authorization">TA</abbr>s are issued only by <abbr title="Public Works and Government Services Canada">PWGSC</abbr>, some of these procedures may not apply (i.e. roles and responsibilities, setting client limits for issuing <abbr title="Task Authorization">TA</abbr>s, the guide for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s clients, the Record of Agreement, some reporting requirements).</p>
+<p>As conditions of use of contracts with <abbr title="Task Authorization">TA</abbr>s, the contracting officer must:</p>
+<ol class="double-space" type="i">
+<li>ensure the  contract with <abbr title="Task Authorization">TA</abbr>s is the appropriate method of supply for these services. (Refer to <a href="#PN-75R1a3_35_1_5">3.35.1.5</a> and <a href="#PN-75R1Annex3_8">Annex 3.8</a> attached, and other sections relative to methods of supply included in the Supply Manual).</li>
+<li>decide  whether to allow the client to issue <abbr title="Task Authorization">TA</abbr>s, and determine the financial limits  for issuing <abbr title="Task Authorization">TA</abbr>s by clients. These  decisions should be made by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> in consultation with the client in accordance with 3.35.1.30.</li>
+<li>provide the <em>Guide for Preparing and Administering Task Authorizations – for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s Clients</em> (Appendix A to Annex 3.4) to the client with an explanation of its  purpose and discuss as required.</li>
+<li>reach an  agreement with the client regarding the roles and responsibilities of both  organizations, including responsibilities for reporting. In this regard, the use of the <em>Record of  Agreement</em> template pertaining to the use of Task Authorizations (Appendix B  to Annex 3.4) is strongly encouraged. The agreement must include the provision for timely receipt of  documentation such as:<br/>
+<ol class="double-space" type="A">
+<li>copies of all <abbr title="Task Authorization">TA</abbr>s with their attachments;</li>
+<li>copies of all revisions to <abbr title="Task Authorization">TA</abbr>s with their attachments;</li>
+<li>copies of all claims/invoices, supported by reports.</li>
+</ol>
+</li>
+<li>follow the  procedures detailed in <a href="#PN-75R1a3_35_1_15">3.35.1.15</a> to <a href="#PN-75R1a3_35_1_60">3.35.1.60</a>.</li>
+<li>discuss, as required, the use  of contracts with <abbr title="Task Authorization">TA</abbr>s with the client, in particular the administrative process for authorizing and issuing <abbr title="Task Authorization">TA</abbr>s.</li>
+</ol>
+<p id="PN-75R1a3_35_1_15"><strong>3.35.1.15 Approval Documents for Contracts with Task Authorizations</strong><br/>
+		(2011-01-11)</p>
+<p>For contracts with <abbr title="Task Authorization">TA</abbr>s, the Contract Planning and Advanced Approval (CPAA) form or procurement plan for a contract with <abbr title="Task Authorization">TA</abbr>s must address the following, as applicable:</p>
+<ol class="double-space" type="i">
+<li>the reasons why the  services are deemed suitable for this method of supply.</li>
+<li>the justification for the proposed financial limits for issuing <abbr title="Task Authorization">TA</abbr>s by  clients.</li>
+<li>a statement confirming that the <em>Guide for Preparing and Administering  Task Authorizations – for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s Clients </em>was provided, and discussed with  the client, as required.</li>
+<li>a statement confirming that an agreement was reached with the client  regarding roles and responsibilities of both organizations or a  statement confirming the client's commitment to reaching such an agreement  before issuance of the bid solicitation.</li>
+<li>a statement confirming that discussions took place with the client on the  use of contracts with <abbr title="Task Authorization">TA</abbr>s, before the client authorizes the first task.</li>
+<li>a description of the contract monitoring process and activities to be  implemented or carried out.</li>
+</ol>
+<p>See Chapter 6 for additional instructions on the use and preparation of the CPAA form or procurement plan.</p>
+<p>The approval authority for contracts with <abbr title="Task Authorization">TA</abbr>s, and for amendments which will amend the provisions of a contract with <abbr title="Task Authorization">TA</abbr>s, is in accordance with the approvals and authorities for contracts detailed in Chapter 6.</p>
+<p id="PN-75R1a3_35_1_20"><strong>3.35.1.20 Bid Solicitations and Resulting Contract Documents</strong><br/>
+		(2011-01-11)</p>
+<p>Contracting officers must ensure that the bid solicitation and resulting contract document(s) that they issue and use to establish the subsequent contract with task authorizations follows the standard approach for issuing solicitations (see Chapters 3 and 4).  For any portion of work to be performed on an "as and when requested" basis, the bid solicitation and the resulting contract document must include the following:</p>
+<ol class="double-space" type="i">
+<li>a clear Statement of Work (SOW) describing, in broad terms, the scope of work that will be performed pursuant  to issued <abbr title="Task Authorization">TA</abbr>s.</li>
+<li>a description of the administrative process for authorizing  and issuing <abbr title="Task Authorization">TA</abbr>s and the applicable SACC Manual clauses relative to <abbr title="Task Authorization">TA</abbr>s. In the case of multiple contracts with <abbr title="Task Authorization">TA</abbr>s,  the evaluation portion of the solicitation must include the contractors' order  of ranking process (generally as part of the basis of selection clause) and,  the resulting contract portion must include the contractors' order of ranking  and the work allocation process (to be completed at the time of contract  award). The following SACC Manual clauses relative to <abbr title="Task Authorization">TA</abbr>s must be used, as applicable: B9051C, B9053C, B9054C, B9056C, and C9011C.</li>
+<li>the task authorization limits for authorizing and issuing <abbr title="Task Authorization">TA</abbr>s by the client in accordance with the guidance in <a href="#PN-75R1a3_35_1_30">3.35.1.30</a></li>
+<li>the applicable form for authorizing and issuing <abbr title="Task Authorization">TA</abbr>s. See <a href="#PN-75R1a3_35_1_25">3.35.1.25</a> for further guidance. </li>
+<li>the payment provisions applicable to the <abbr title="Task Authorization">TA</abbr> such as basis or bases of payment (for example,  SACC Manual clause C0206C) and method(s) of payment.</li>
+<li>Canada's obligation and Canada's total liability:<br/>
+<ol class="double-space" type="a">
+<li>all the work under a contract will be performed through <abbr title="Task Authorization">TA</abbr>s:
+<ul>
+<li>the SACC Manual clause B9030C must be used to limit Canada's obligation for <abbr title="Task Authorization">TA</abbr>s and to provide a minimum work guarantee to the Contractor; and, </li>
+<li>the SACC Manual clause C9010C must be used when the contract with <abbr title="Task Authorization">TA</abbr>s is subject to a Limitation of Expenditure to limit Canada's total liability under the contract for all approved <abbr title="Task Authorization">TA</abbr>s.  The "Total estimated cost" shown on the cover page of the contract document must equal the total of the limitation of expenditure stipulated under the clause.</li>
+</ul>
+</li>
+<li>when only a portion of the Work will be performed through task authorizations:
+<ul>
+<li>the SACC Manual clause B9031C must be used to limit Canada's obligation under the task authorizations; and, </li>
+<li>the SACC Manual clause C6001C must be used when the contract with <abbr title="Task Authorization">TA</abbr>s is subject to a Limitation of Expenditure to limit Canada's total liability under the contact.  The "Total estimated cost" shown on the cover page of the contract document must equal the total of the limitation of expenditure stipulated under the clause.</li>
+</ul>
+</li>
+</ol>
+</li>
+</ol>
+<p>  As contracting officers are responsible for monitoring the use of <abbr title="Task Authorization">TA</abbr>s, they must also consider including a provision for reporting of usage of <abbr title="Task Authorization">TA</abbr>s by the contractor (i.e. SACC Manual clause <a href="#PN-75R1B9056C">B9056C</a>). Also see <a href="#PN-75R1a8_70_20">8.70.20</a> (b) for details on administration of contracts with task authorizations.                </p>
+<p id="PN-75R1a3_35_1_25"><strong>3.35.1.25	Forms</strong><br/>
+		(2011-01-11)</p>
+<p>The contracting officer should use the form <a href="http://publiservice-app.pwgsc.gc.ca/forms/index.cfm?fuseaction=search.details&amp;lang=e&amp;display=8891" rel="external"><abbr title="Public Works and Government Services Canada">PWGSC</abbr>-<abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> 572</a> <img alt="This link is available only to clients with access to Publiservice, the Government of Canada extranet." height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/> Task Authorization, for the authorization of  tasks by both <abbr title="Public Works and Government Services Canada">PWGSC</abbr> and clients other than the Department of National Defence (DND). This form is available through  the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> <a href="http://publiservice-app.tpsgc-pwgsc.gc.ca/forms/text/search_for_forms-e.html" rel="external">Forms  Catalogue</a> <img alt="This link is available only to clients with access to Publiservice, the Government of Canada extranet." height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/> Web site. Alternatively,  any locally developed and approved task authorization forms may be used for  non-<abbr title="Department of National Defence">DND</abbr> contracts. The form <abbr title="Department of National Defence">DND</abbr> 626 Task Authorization must be used in contracts for  <abbr title="Department of National Defence">DND</abbr>. Forms <a href="http://publiservice-app.pwgsc.gc.ca/forms/index.cfm?fuseaction=search.details&amp;lang=e&amp;display=5875" rel="external"><abbr title="Public Works and Government Services Canada">PWGSC</abbr>-<abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> 942</a> <img alt="This link is available only to clients with access to Publiservice, the Government of Canada extranet." height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/> (Call-up against a Standing Offer), <a href="http://publiservice-app.pwgsc.gc.ca/forms/index.cfm?fuseaction=search.details&amp;lang=e&amp;display=6713" rel="external"><abbr title="Public Works and Government Services Canada">PWGSC</abbr>-<abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> 1379</a> <img alt="This link is available only to clients with access to Publiservice, the Government of Canada extranet." height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/> (Work Arising or New Work), and <a href="http://publiservice.tpsgc-pwgsc.gc.ca/gcforms/text/rep-dir/forms/pdf/gc111.pdf" rel="external">GC  111</a> <img alt="This link is available only to clients with access to Publiservice, the Government of Canada extranet." height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/> (Purchase Order) <strong>must not be  used</strong> as a task authorization form in a contract  with <abbr title="Task Authorization">TA</abbr>s. (NOTE: Only government employees have access to the above mentioned  forms.)</p>
+<p id="PN-75R1a3_35_1_30"><strong>3.35.1.30 Setting financial limits on Individual Task Authorizations</strong><br/>
+		(2011-01-11)</p>
+<p>Task authorizations may be authorized and issued by the client and/or <abbr title="Public Works and Government Services Canada">PWGSC</abbr>.  <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting officers who have been delegated services contract approval and signing authority have no maximum limit on the dollar amount for authorizing individual <abbr title="Task Authorization">TA</abbr>s up to the total approved contract value, unless directed otherwise by their management.  The decision to allow <abbr title="Task Authorization">TA</abbr>s to be issued by a client is made by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> in consultation with the client.  When the client will be allowed to authorize <abbr title="Task Authorization">TA</abbr>s, the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting officers must establish a maximum limit on the dollar amount of a <abbr title="Task Authorization">TA</abbr> (excluding Goods and Services Tax (GST) or Harmonized Sales Tax (HST)) authorized by the client.  In establishing such limits for individual <abbr title="Task Authorization">TA</abbr>s and any revisions to those <abbr title="Task Authorization">TA</abbr>s, contracting officers should seek to achieve a balance between operational effectiveness and contract risk management, and should consider the following when setting the client's <abbr title="Task Authorization">TA</abbr> limit:</p>
+<ol class="double-space" type="i">
+<li>whether  an agreement has been reached between the client and <abbr title="Public Works and Government Services Canada">PWGSC</abbr> on the conditions of  use of <abbr title="Task Authorization">TA</abbr>s. (See <a href="#PN-75R1a3_35_1_10">3.35.1.10</a>).</li>
+<li>the client and the industry's  past performance history relative to the effective use of contracts with <abbr title="Task Authorization">TA</abbr>s,  as experienced by the contracting officer and <abbr title="Public Works and Government Services Canada">PWGSC</abbr> colleagues/managers.
+</li>
+<li>the procurement/contract  management expertise that exists in the client department:<br/>
+<ol class="double-space" type="a">
+<li>Whether training is available/required.</li>
+<li>Whether the client department policies and procedures are in place  and whether these are enforced. For  example, the internal procedure for the administration of <abbr title="Task Authorization">TA</abbr>s for the  Department of National Defence (DND) is contained in article 3.3.2 of <abbr title="Department of National Defence">DND</abbr>'s <em>Procurement  Administration Manual</em> (PAM).</li>
+</ol>
+</li>
+<li>operational requirements, e.g. time sensitivity of tasks.</li>
+<li>contract scope and risk associated with individual tasks:<br/>
+<ol class="double-space" type="a">
+<li>The clarity and level of detail in the contract statement of work.</li>
+<li>Anticipated complexity and duration of individual tasks.</li>
+<li>Whether tasks can be easily priced.</li>
+<li>The average value of <abbr title="Task Authorization">TA</abbr>s, the frequency of tasks and the number of tasks anticipated during the period of the contract.</li>
+</ol>
+</li>
+<li>as applicable, the total estimated value of work that will be carried out through the portion of the work that is not performed through <abbr title="Task Authorization">TA</abbr>s in relation to the total estimated value of work that will be performed through <abbr title="Task Authorization">TA</abbr>s. </li>
+<li>the frequency of reporting on task authorizations.</li>
+</ol>
+<p>Furthermore, in setting the value at which <abbr title="Public Works and Government Services Canada">PWGSC</abbr> must authorize individual <abbr title="Task Authorization">TA</abbr>s, contracting officers must ensure that this <abbr title="Public Works and Government Services Canada">PWGSC</abbr> involvement will add value to the task authorization process while at the same time ensuring that <abbr title="Public Works and Government Services Canada">PWGSC</abbr> maintains adequate control over the <abbr title="Task Authorization">TA</abbr> process.  Added value can be in several forms, such as financial oversight or comparisons with similar contracts for other clients to ensure value for money.  Setting the client's <abbr title="Task Authorization">TA</abbr> limit should be subject to a department's experience in administering <abbr title="Task Authorization">TA</abbr>s and contracting officers may want to consider setting a limit such that <abbr title="Public Works and Government Services Canada">PWGSC</abbr> authorizes a representative amount of <abbr title="Task Authorization">TA</abbr>s.</p>
+<p id="PN-75R1a3_35_1_35"><strong>3.35.1.35	Separation of Duties</strong><br/>
+		(2011-01-11)</p>
+<p>The Treasury Board Directive on <a href="http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=17060" rel="external">Directive on Delegation of Financial Authorities for Disbursements</a> requires that the authority to  enter into contract or amendment must be separate from the certification  authority required under section 34 of the <em>Financial  Administration Act</em>. In Chapter 3 of the <a href="http://www.oag-bvg.gc.ca/internet/English/parl_oag_200812_03_e_31827.html" rel="external">2008 December Report of the Auditor General of Canada</a> , the Office of the  Auditor General raised  the issue of separation of duties  with respect to task authorizations and stated that combining procurement and  certification functions under the responsibility of one individual was not in  keeping with the Treasury Board Policy on Delegation. As a result, although task authorizations are  not individual contracts, <abbr title="Public Works and Government Services Canada">PWGSC</abbr> applies the principle of separation of duties  to task authorizations issued for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s own needs; i.e. the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> individual  who signs the task authorization must not also certify the associated invoices. In its <em>Guide to Preparing and  Administerin</em><em>g Task Authorizations -</em> <em>for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s Clients</em>, <abbr title="Public Works and Government Services Canada">PWGSC</abbr> recommends this practice to all its clients. However, as specified in the above-mentioned  <abbr title="Treasury Board">TB</abbr> Directive, where the client's current processes in place or other  circumstances do not allow such separation of duties, alternate control  measures may be implemented by the client.  The client is responsible to ensure that its current processes or  alternate control measures can withstand scrutiny under audit.</p>
+<p><strong>3.35.1.40	Authorizing and Issuing Task Authorizations</strong><br/>
+		(2011-01-11)</p>
+<p>The client organization authorized to issue tasks to the contractor is responsible for authorizing and issuing <abbr title="Task Authorization">TA</abbr>s in accordance with the process detailed in the contract.  As a minimum, the client organization is responsible for: </p>
+<ol class="double-space" type="i">
+<li>ensuring the work requirement of the <abbr title="Task Authorization">TA</abbr> including the deliverables and the schedule, as applicable, is in accordance with the scope of the contract.</li>
+<li>providing the contractor with the task description, the payment provisions and obtaining the level of effort, as applicable.
+<p>Setting dates or timeframes for completing tasks must take into consideration the expiry date of the contract.  A task must be completed on or before the expiry date of the contract, however, if a task cannot be completed by such date, a contract amendment to extend the contract period to the task completion date must be issued by the contracting officer before the <abbr title="Task Authorization">TA</abbr> can be issued.</p>
+</li>
+<li>finalizing the task authorization, including the total value of the <abbr title="Task Authorization">TA</abbr> (GST/HST extra), in accordance with the contract.</li>
+<li>obtaining all applicable signatures (client, or <abbr title="Public Works and Government Services Canada">PWGSC</abbr>, or both, as applicable; and contractor), and the date of these signatures on the <abbr title="Task Authorization">TA</abbr>. </li>
+</ol>
+<p><strong>3.35.1.45	Administration of the Task Authorizations by <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s Clients</strong><br/>
+		(2011-01-11)</p>
+<p>For details, see the <em>Guide to Preparing and Administering Task Authorizations - for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s Clients</em> at Appendix A to Annex 3.4.</p>
+<p><strong>3.35.1.50	Revision of a <abbr title="Task Authorization">TA</abbr> by the Client</strong><br/>
+		(2011-01-11)</p>
+<p>The client may revise a <abbr title="Task Authorization">TA</abbr> that it originally authorized subject to the work being within the scope and value of the contract as well as within the client authority limit set in the contract.  Any revision to the <abbr title="Task Authorization">TA</abbr> is subject to concurrence by the contractor.  A <abbr title="Task Authorization">TA</abbr> revision, which will bring the <abbr title="Task Authorization">TA</abbr> value above the client <abbr title="Task Authorization">TA</abbr> limit, must be referred to the contracting officer.</p>
+<p>An authorized <abbr title="Task Authorization">TA</abbr> may be revised to either reduce an activity (or activities) or to cancel the task in its entirety, however a <abbr title="Task Authorization">TA</abbr> cannot be terminated for default or for convenience.  In situations when the contractor is in default or for the convenience of Canada, the termination provisions of the applicable general conditions will apply and the contract may be terminated either entirely or in part for default or for convenience.  Such matters must be referred to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting officer.</p>
+<p><strong>3.35.1.55	Monitoring and Oversight</strong><br/>
+		(2011-01-11)</p>
+<p>Contracting officers must monitor issued <abbr title="Task Authorization">TA</abbr>s to ensure they comply with the contract conditions.  They must also review progress reports to ensure the work is being performed in accordance with the contract and the issued <abbr title="Task Authorization">TA</abbr>s and to monitor the amount expended against the contract value.</p>
+<p>If the monitoring of the authorized and issued <abbr title="Task Authorization">TA</abbr>s demonstrates that the <abbr title="Task Authorization">TA</abbr> process is not in accordance with the contract or the agreement with the client, the specific corrective measures must be implemented.  This is addressed in the Record of Agreement template at Appendix B to Annex 3.4, paragraph 5.  The contracting officer must notify the contractor when the limit of the client's authority specified in the contract is reduced or revoked.  Furthermore, invoking penalty or termination provisions should not be undertaken without consultation with Legal services.</p>
+<p id="PN-75R1a3_35_1_60"><strong>3.35.1.60	Reporting</strong><br/>
+		(2011-01-11)</p>
+<p>After issuing a contract with <abbr title="Task Authorization">TA</abbr>s or an amendment to this type of contract, contracting officers must report on the procurement as follows:</p>
+<ol class="double-space" type="a">
+<li>For Automated Buyer Environment (ABE) users: on the main page of the Procurement Summary, click on "Program ID", and select "Contract that allows Task Authorizations." </li>
+<li>For Automated Data Capture (ADC) users: include the following statement when submitting the ADC procurement report, "Program ID:  Contract that allows Task Authorizations."</li>
+</ol>
+<p id="PN-75R1a3_40"><strong>3.40 Standing Offers</strong><br/>
+		(2011-01-11)</p>
+<p>(a) and (b) No change.</p>
+<p>(c) This method of supply is used to satisfy the requirements of departments and agencies for a specified period, when precise details on expected quantities for the period are not known in advance.  <strong>Standing offers may authorize one or more clients to issue call-ups for goods or services directly to offerors up to the maximum call-up limits indicated in the standing offer.  If so stated in the standing offer, <abbr title="Public Works and Government Services Canada">PWGSC</abbr> may issue call-ups above the client call-up limit</strong>.</p>
+<p>(d) to (q) No change</p>
+<p id="PN-75R1a3_45"><strong>3.45 Supply Arrangements</strong><br/>
+		(2011-01-11)</p>
+<p>(a) and (b) No change.</p>
+<p>(c) An SA may be used when:</p>
+<ol class="double-space" type="i">
+<li><strong>the overall  requirement cannot be clearly defined at the outset and it is proposed to  establish a pool of screened suppliers from which clients and <abbr title="Public Works and Government Services Canada">PWGSC</abbr> solicit  bids for individual requirements;</strong></li>
+<li>a commodity is procured on a  regular basis (goods or services);</li>
+<li>a standing offer is not  suitable, due to variables in resulting call-ups (e.g. varying methods/basis of  payment, or the statement of work or commodity cannot be adequately defined in  advance);</li>
+<li>a simplified solicitation,  undertaken by users/clients, can be used to obtain competitive bids from the  pre-qualified suppliers;</li>
+<li>selection will be based on best  value, as described in the SA and the subsequent solicitation; and</li>
+<li>it is more efficient for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>  to operate as the provider of the framework on behalf of other users/clients  and not necessarily as the contracting officer.</li>
+</ol>
+<p>(d) to (f) No change</p>
+<h3>Annex 3.4: Contracts with Task Authorizations - Process<br/>
+(2011-01-11) </h3>
+<p>This annex includes the following appendices related to contracts with task authorizations:</p>
+<ol class="double-space">
+<li><a href="#PN-75R1aappendixA">Appendix A</a>: Guide to Preparing and Administering Task Authorizations – for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s  Clients</li>
+<li><a href="#PN-75R1aappendixB">Appendix B</a>: Record of Agreement template</li>
+</ol>
+<h3 id="PN-75R1aappendixA">Appendix A (to Annex 3.4):	A Guide to Preparing and Administering Task Authorizations - for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s Clients<br/>
+(2011-01-11) </h3>
+<p><strong>1.0	Purpose</strong></p>
+<p>The purpose of the<em> Guide to Preparing  and Administering Task Authorizations</em> is to provide procedural guidance to  Public Works and Government Services Canada's (<abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s) clients when contracts  for services containing task authorizations are issued by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> and the client  is authorized to issue individual task authorizations (<abbr title="Task Authorization">TA</abbr>s). This guide incorporates advice on preparing  and administering <abbr title="Task Authorization">TA</abbr>s. Many of the  principles discussed in this document equally apply to other mechanisms by which  goods or services are ordered under a contract on an “as and when requested”  basis such as a service order. For the  Department of National Defence (DND) requirements, this guide supplements the  internal procedure for administering <abbr title="Task Authorization">TA</abbr>s documented in article 3.3.2 of <abbr title="Department of National Defence">DND</abbr>'s <em>Procurement  Administration Manual</em> (PAM).</p>
+<p><strong>2.0 Definitions</strong></p>
+<p><strong>2.1	Contracts with Task Authorizations</strong></p>
+<p>A contract with Task Authorizations (<abbr title="Task Authorization">TA</abbr>s) is a method of supply for services under which all of the work or a portion of the work will be performed on an "as and when requested basis" through predetermined conditions including an administrative process involving task authorizations.</p>
+<p><strong>2.2 Task Authorization</strong></p>
+<p>A <abbr title="Task Authorization">TA</abbr> is a structured administrative tool enabling <abbr title="Public Works and Government Services Canada">PWGSC</abbr> or a client, or both to authorize work, by a contractor on an "as and when requested" basis in accordance with the conditions of the contract.</p>
+<p><strong>3.	Application of Contracts with Task Authorizations</strong></p>
+<ol class="double-space" type="a">
+<li>A contract with <abbr title="Task Authorization">TA</abbr>s may be used when there is a definite need for services but the exact nature, the timeframes of the required services, activities and deliverables will only be known when the service(s) will be required during the period of the contract.  <abbr title="Public Works and Government Services Canada">PWGSC</abbr> determines when the client's needs would be best addressed by the use of a contract with <abbr title="Task Authorization">TA</abbr>s.  If the client is authorized to issue <abbr title="Task Authorization">TA</abbr>s, the limit of this approval would be stipulated in the contract.  All <abbr title="Task Authorization">TA</abbr>s in excess of this limit have to be forwarded to <abbr title="Public Works and Government Services Canada">PWGSC</abbr> for authorization.  A contract with <abbr title="Task Authorization">TA</abbr>s can be set up to cover multiple years.  This approach can eliminate the need to establish a new contract every year.  Multiple contracts with task authorizations may be issued in certain circumstances when one contract would not be sufficient to fulfill all requirements.  In such cases, the contractors' order of ranking, the specific work allocation process, Canada's total liability for all issued <abbr title="Task Authorization">TA</abbr>s and the authorization limit would be identified in the contracts.</li>
+<li>Some examples of contracts with <abbr title="Task Authorization">TA</abbr>s are as follows:<br/>
+<ol class="double-space" type="i">
+<li>a requirement for translation where the work is generally defined and the specific tasks for translation (e.g. a required translation of 50,000 words) are on an as and when requested basis;</li>
+<li>a requirement for maintenance of equipment where the general maintenance work is defined in the contract and, when the equipment failure/issue occurs, the specific maintenance task is authorized on an as and when requested basis;</li>
+<li>a requirement for an informatics technology specialist over a defined period, but the specific activities and deliverables cannot be identified in advance nor the timing or level of effort predicted.</li>
+</ol>
+</li>
+<li>An advantage of using contracts with <abbr title="Task Authorization">TA</abbr>s is the mitigation of contractual risks as a result of better-defined tasks, the establishment of a level of effort on a per task basis and more precise pricing for each specific task thereby ensuring better management of the contract.</li>
+<li>When they are properly used, contracts with <abbr title="Task Authorization">TA</abbr>s provide a structured framework offering operational speed and flexibility to clients.  Contracts with <abbr title="Task Authorization">TA</abbr>s will be successful provided that there is a clear understanding and agreement between <abbr title="Public Works and Government Services Canada">PWGSC</abbr> and the client as to their respective roles and responsibilities relating to the management of the contract including for authorizing and issuing <abbr title="Task Authorization">TA</abbr>s and task authorization management..  The improper use of contracts with <abbr title="Task Authorization">TA</abbr>s can lead to major problems between the government and its suppliers, between <abbr title="Public Works and Government Services Canada">PWGSC</abbr> and its clients, and for the government in the eyes of the public.</li>
+</ol>
+<p><strong>4.	Conditions of Use</strong></p>
+<ol class="double-space" type="a">
+<li>As a condition of use of contracts with <abbr title="Task Authorization">TA</abbr>s, the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting officer will, as a minimum:<br/>
+<ol class="double-space" type="i">
+<li>ensure the contract with <abbr title="Task Authorization">TA</abbr>s is the appropriate method of supply for these required services in consultation with the client.</li>
+<li>decide whether the client will be allowed to authorize and issue <abbr title="Task Authorization">TA</abbr>s, and determine the financial limit of this authority.  These decisions will be made in consultation with the client and the associated provisions will be detailed in the contract.  All <abbr title="Task Authorization">TA</abbr>s in excess of the determined limit must be forwarded to <abbr title="Public Works and Government Services Canada">PWGSC</abbr> for authorization and issuance.</li>
+<li>consult with the client to reach an agreement on the roles and responsibilities of both organizations including the client's responsibilities for reporting. </li>
+<li>discuss, as required, the use of contracts with <abbr title="Task Authorization">TA</abbr>s with the client and in particular the administration of <abbr title="Task Authorization">TA</abbr>s.</li>
+</ol>
+</li>
+</ol>
+<p><strong>5.	Task Authorization Process and Administration </strong></p>
+<p>The client authorized to issue tasks to the contractor is responsible for issuing <abbr title="Task Authorization">TA</abbr>s in accordance with the <abbr title="Task Authorization">TA</abbr> process and administration of the <abbr title="Task Authorization">TA</abbr> detailed in the contract.  If the task does not seem to be within the scope of the work, <abbr title="Public Works and Government Services Canada">PWGSC</abbr> must be consulted before any <abbr title="Task Authorization">TA</abbr> is contemplated. </p>
+<p>The responsibilities of the client are detailed below:</p>
+<ol class="double-space" type="a">
+<li><abbr title="Task Authorization">TA</abbr> Statement of Work (SOW) or task description<br/>
+<ol class="double-space" type="i">
+<li>ensure the task (or revised task) description of the work required (activities to be performed, deliverables to be submitted, completion dates for major activities or submission dates for deliverables or, as applicable, both) included in the <abbr title="Task Authorization">TA</abbr> is in accordance with the contract Statement of Work (SoW).  This includes:<br/>
+<ul class="double-space">
+<li>ensuring that the text of the <abbr title="Task Authorization">TA</abbr> does not have the potential to create employer-employee relationships. See the Canada Revenue Agency publication <a href="http://www.cra-arc.gc.ca/E/pub/tg/rc4110/" rel="external">RC 4110 - Employee or  Self-Employed?</a>; and </li>
+<li>Setting dates or timeframes for completing tasks taking into consideration the expiry date of the contract.  A task must be completed on or before the expiry date of the contract; however, if a task cannot be completed by such date, a contract amendment to extend the contract period to the task completion date would have to be issued by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> before the <abbr title="Task Authorization">TA</abbr> can be authorized and issued.</li>
+</ul>
+</li>
+<li>provide to the contractor the task or description of the work , the schedule, the quantity, and the associated payment provisions, all in accordance with the conditions of the contract.</li>
+<li>facilitate knowledge transfer at the end of the work to reduce reliance on the same consultant or contractor. </li>
+<li>consult with the contractor and the contracting officer, as applicable.</li>
+</ol>
+</li>
+<li>Task Authorization Stage<br/>
+<ol class="double-space" type="i">
+<li>the response from the contractor must be reviewed by the client to ensure conformity with the conditions and payment provisions stipulated in the contract and its amendments, e.g. predetermined categories of resources and rates or pricing stipulated in the contract and its amendments are used by the contractor to quote on the level of effort for the specific task.</li>
+<li>if resources are named in the contract (i.e. specific individuals are identified for specific contract categories), replacement must be in accordance with the conditions of the contract or subsequent amendments and meet the criteria used in the selection of the individual.  However, for contracts that do not contain named resources, then the client should complete and retain on file an evaluation of such new named resource.  The evaluation must completely assess such resource ensuring he/she meets all qualifications as stipulated in the contract or its amendments.</li>
+<li>before authorizing a task, the client must ensure that:<br/>
+<ul class="double-space">
+<li>the task is within the client's authority limit; if the value of the task exceeds the client authorization limit contained in the contract and contract amendments, the <abbr title="Task Authorization">TA</abbr> must be forwarded to <abbr title="Public Works and Government Services Canada">PWGSC</abbr> for authorization.</li>
+<li>the task can be completed on or before the expiry date of the contract, and,</li>
+<li>the authorization of the task will not result in the cumulative value of all task authorizations to exceed the limitation of expenditure for all <abbr title="Task Authorization">TA</abbr>s.</li>
+</ul>
+</li>
+<li>the <abbr title="Task Authorization">TA</abbr> is finalized, including the total value of the <abbr title="Task Authorization">TA</abbr> task, in accordance with the conditions of the contract, and the client and/or <abbr title="Public Works and Government Services Canada">PWGSC</abbr> authorizes the <abbr title="Task Authorization">TA</abbr> by signing and dating the <abbr title="Task Authorization">TA</abbr>.</li>
+<li>the contractor signs and dates the <abbr title="Task Authorization">TA</abbr> authorized by the client and/or <abbr title="Public Works and Government Services Canada">PWGSC</abbr> and provides the signed original with their attachments and a copy as detailed in the contract.</li>
+</ol>
+</li>
+<li>Start of the work for a <abbr title="Task Authorization">TA</abbr>
+<p>Work on a <abbr title="Task Authorization">TA</abbr> cannot commence until a contract allowing task authorizations has been awarded and the <abbr title="Task Authorization">TA</abbr> has been authorized and issued in accordance with the conditions of the contract.  Contracts must never be awarded and <abbr title="Task Authorization">TA</abbr>s must never be authorized retroactively.  The <abbr title="Task Authorization">TA</abbr> form must be authorized by the client and/or, if required, by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> and signed by the contractor before the work starts.</p>
+</li>
+<li>Task Authorization Management<br/>
+<ol class="double-space" type="i">
+<li>before the contract is issued or the <abbr title="Task Authorization">TA</abbr> process implemented, the client must inform <abbr title="Public Works and Government Services Canada">PWGSC</abbr> when personnel other than the project or technical authority are involved in the <abbr title="Task Authorization">TA</abbr> process.  The client must also confirm that appropriate training on the use of <abbr title="Task Authorization">TA</abbr>s has been provided to such personnel.</li>
+<li> the client must notify the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting authority when the client authority named in the contract is to be replaced so that the contract can be amended.</li>
+<li> the client must create and update a record of all tasks authorized under a contract and provide such a record to <abbr title="Public Works and Government Services Canada">PWGSC</abbr> as agreed between the two organizations.</li>
+<li> the client must monitor task performance, work delivered, conduct proper cost review and provide reports to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting authority as agreed between both organizations.</li>
+<li>the client must have specific processes in place to ensure that billing rates and categories of resources or other payment provisions included in authorized and issued <abbr title="Task Authorization">TA</abbr>s are in accordance with the conditions of the contract.</li>
+<li> the client must provide complete and timely reporting of performance or arising issues under a <abbr title="Task Authorization">TA</abbr> to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting authority.</li>
+<li> the client must ensure that the dollar value does not exceed the individual <abbr title="Task Authorization">TA</abbr> financial/dollar limit(s) specified in the contract with task authorizations or any limit placed on the cumulative value of <abbr title="Task Authorization">TA</abbr>s under the contract.</li>
+<li> before authorizing payment of an invoice in accordance with departmental procedures for an authorized and issued <abbr title="Task Authorization">TA</abbr> , the client must ensure that:<br/>
+<ul class="double-space">
+<li>the timesheets are in accordance with the contract, where applicable;</li>
+<li>the services have been performed, received and accepted; if applicable, an individual who has direct knowledge of the level of effort reported must verify the level of effort reported on the timesheet for the contractor resource; </li>
+<li>the invoice is consistent with the conditions and payment provisions stipulated in the contract or subsequent amendments and all required substantiating documentation is completed, approved and on file. See paragraph 7 below relative to separation of duties.</li>
+</ul>
+</li>
+</ol>
+</li>
+</ol>
+<p><strong>6.	Revising a <abbr title="Task Authorization">TA</abbr> authorized by the client</strong></p>
+<ol class="double-space" type="a">
+<li>The client may revise a <abbr title="Task Authorization">TA</abbr> that it originally authorized subject to the work being within the scope and value of the contract as well as within the client authority limit set in the contract.  Any revision to the <abbr title="Task Authorization">TA</abbr> is subject to concurrence by the contractor. A <abbr title="Task Authorization">TA</abbr> revision, which will bring the <abbr title="Task Authorization">TA</abbr> value above the client <abbr title="Task Authorization">TA</abbr> limit, must be referred to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting officer.
+</li>
+<li>An authorized <abbr title="Task Authorization">TA</abbr> may be revised to either reduce an activity (or activities) or to cancel the task in its entirety, however a <abbr title="Task Authorization">TA</abbr> cannot be terminated for default or for convenience.  In situations when the contractor is in default or for the convenience of Canada, the termination provisions of the applicable general conditions will apply and the contract may be terminated either entirely or in part for default or for convenience.  Such matters must be referred to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Contracting Authority.  </li>
+</ol>
+<p><strong>7.	Separation of duties</strong></p>
+<p>The Treasury Board (TB) <a href="http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=17060" rel="external">Directive on Delegation of Financial Authorities for Disbursements</a> requires that the  authority to enter into contract or amendment must be separate from the  certification authority under section 34 of the <em>Financial Administration Act</em>.  In Chapter 3 of the <a href="http://www.oag-bvg.gc.ca/internet/English/parl_oag_200812_03_e_31827.html" rel="external">2008 December Report of the Auditor General of Canada</a>, the Office of the Auditor  General raised issues  relative to the application of  separation of duties with respect to task authorizations and stated that  combining procurement and certification functions under the responsibility of  one individual was not in keeping with the <abbr title="Treasury Board">TB</abbr> Policy on Delegation. As a result, although task authorizations are  not individual contracts, <abbr title="Public Works and Government Services Canada">PWGSC</abbr> applies the principle of separation of duties  to task authorizations issued for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s own needs; i.e. the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> individual  who signs the task authorization must not also certify the associated invoices. <abbr title="Public Works and Government Services Canada">PWGSC</abbr> recommends this  practice to all its clients. However, as specified in the above-mentioned <abbr title="Treasury Board">TB</abbr>  Directive, where the client's current  processes in place or other circumstances do not allow such separation of  duties, the client may implement alternate control measures. The client is responsible to ensure that its  current processes or alternate control measures can withstand scrutiny under  audit.</p>
+<p><strong>8.	Corrective measures</strong></p>
+<p>The <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Contracting Authority may take corrective measures such as reducing or revoking the client's authority to issue <abbr title="Task Authorization">TA</abbr>s where there are indications that the <abbr title="Task Authorization">TA</abbr> process is not working in accordance with the contract and the agreement between the client and <abbr title="Public Works and Government Services Canada">PWGSC</abbr>.</p>
+<p><strong>9.	Tips</strong></p>
+<p><strong>9.1 Method of Supply Planning</strong></p>
+<ol class="double-space" type="a">
+<li>Do not request that <abbr title="Public Works and Government Services Canada">PWGSC</abbr> establish more labour categories and contracts than are necessary.
+</li>
+<li>Do not add new contract categories to engage specific individuals.</li>
+</ol>
+<p><strong>9.2	Employer-Employee Relationships:</strong></p>
+<ol class="double-space" type="a">
+<li>Avoid using employment-type language in describing the work such as specifying the number of hours of work per day/week or the manner in which the work is to be conducted. </li>
+<li>Avoid long-term assignments or a continuing relationship where a steady income stream from the department or agency is involved; state clearly the start and completion dates and ensure the contractor sets his or her hours of work.</li>
+<li>Avoid controlling how the contractor carries out the work; work and results should only be overseen by the project/technical authority.</li>
+<li>Avoid having the contractor work on government premises.</li>
+</ol>
+<p><strong>9.3	Administration of Task Authorizations</strong></p>
+<ol class="double-space" type="a">
+<li>Do not split a requirement to get around the client authority limit stipulated in the contract.</li>
+<li>Avoid task descriptions for <abbr title="Task Authorization">TA</abbr>s that could create a conflict of interest.</li>
+<li>Ensure the price is fair and reasonable for the specific task and in accordance with the basis of payment in the contract.</li>
+<li>Ensure there are sufficient funds.</li>
+</ol>
+<h3 id="PN-75R1aappendixB">Appendix B (to Annex 3.4):	Record of Agreement Template - for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s Clients</h3>
+<p><strong>Remarks to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Contracting Authority:</strong><br/>
+<em>(Delete the instructions before forwarding to the client the completed e-mail and Record of Agreement).</em></p>
+<ol class="double-space">
+<li>A Record of Agreement should be used when it has been determined that the needs of the client would be best met through a contract with a Task Authorization (TA) process subject to any sector/regional operating procedures regarding its use.  To that effect, the following is a <abbr title="Task Authorization">TA</abbr> Record of Agreement template that would formalize the administrative procedures between the client and Public Works and Government Services Canada.</li>
+<li>The completed template may be sent as an e-mail to the appropriate client and client acceptance should be received before submission of the Contract Plan and Approval (CPAA) or Procurement Plan approval.</li>
+<li>An e-mail template is provided below:</li>
+</ol>
+<p><strong>Subject</strong>: Requisition No. ___________, e-mail <abbr title="Task Authorization">TA</abbr> Record of Agreement</p>
+<p>Dear _________ (<em>Insert  client name</em>)</p>
+<p>We considered that  your requirement contained under the above subject requisition would best be  met through a contract with a Task Authorization (TA) process. To that effect, the following is the <abbr title="Task Authorization">TA</abbr>  Record of Agreement that would formalize the administrative procedures between  our organizations for this requirement. A copy of the <em>Guide to Preparing and  Administering Task Authorizations for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s clients </em>is attached. </p>
+<p>In order to proceed with Public Works and  Government Services Canada's (PWGSC) internal approval of this proposed  procurement strategy, we require your department's confirmation that it agrees  to the <abbr title="Task Authorization">TA</abbr> Record of Agreement described below, namely that it understands its  roles, responsibilities and reporting requirement with respect to the proposed  <abbr title="Task Authorization">TA</abbr> process as well as <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s right to implement corrective actions if <abbr title="Public Works and Government Services Canada">PWGSC</abbr>  considers that necessary.</p>
+<p>Please confirm your  understanding of the <abbr title="Task Authorization">TA</abbr> process described herein, by return e-mail, preferably  by close of business ________ (<em>insert time and date</em>), as a delay in responding could impact the planned  solicitation release date.</p>
+<p>Should you wish to  discuss any of the items specified herein, please do not hesitate to contact  me.</p>
+<p>Yours truly,</p>
+<p>______________ (<em>Insert name of the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Contracting Authority</em>)</p>
+<p></p>
+<div class="alignCenter">
+<p><strong>RECORD OF AGREEMENT BETWEEN</strong></p>
+<p><strong>PUBLIC WORKS AND  GOVERNMENT SERVICES CANADA </strong><br/>
+<strong>_______________ </strong>(<em>insert <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Division name</em>) <strong>AND</strong> </p>
+<p><strong>__________________ </strong>(<em>Insert client name;  for <abbr title="Department of National Defence">DND</abbr>, insert <abbr title="Department of National Defence">DND</abbr>'S division name, e.g.: D MAR  P 3-5)</em></p>
+<p><strong>hereinafter identified as the Authorized Client)</strong></p>
+<p><strong>PERTAINING TO THE USE OF TASK AUTHORIZATIONS</strong></p>
+<p><strong>UNDER CONTRACT NO ____________ </strong>(<em>Insert  contract number</em>)</p>
+</div>
+<p><strong>1.	Purpose</strong></p>
+<p>The purpose of this document is to  formalize a Record of Agreement between <abbr title="Public Works and Government Services Canada">PWGSC</abbr> and the Authorized Client  regarding their respective roles and responsibilities when using the contract with task authorizations identified above (refer to the  “Matrix of Roles and Responsibilities” attached hereto). It is imperative that the Authorized Client  and the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting authority work closely together at all times during  the period of the contract.</p>
+<p><strong>2. Period of the Agreement</strong></p>
+<p>The conditions of this Record of Agreement  will be in effect for the entire duration of the contract.</p>
+<p><strong>3. Task Authorization </strong></p>
+<p>As specified in the contract (once  awarded), the Authorized Client's designated authority may authorize individual  task authorizations up to a limit of $ ______ (<em>insert amount</em>), Goods  and Services Tax (GST) or Harmonized Sales Tax (HST) extra, inclusive of any  revisions to the authorized <abbr title="Task Authorization">TA</abbr>s. Any <abbr title="Task Authorization">TA</abbr>  in excess of that limit or any revisions to the authorized <abbr title="Task Authorization">TA</abbr> that would  increase the <abbr title="Task Authorization">TA</abbr> total value above that limit must be authorized by ________ (<em>insert, as  applicable,</em> “the Authorized Client designated authority and  the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Contracting Authority"<em> or</em> "the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Contracting Authority") before issuance.</p>
+<p><strong>4. Contract Amendment Process</strong></p>
+<p>The Authorized Client understands that it  must not request the contractor to perform any work in excess of or outside the  scope of the contract and it must not issue <abbr title="Task Authorization">TA</abbr>s where the cumulative value of  all <abbr title="Task Authorization">TA</abbr>s would exceed the contract value.  Any anticipated changes to the contract must be authorized, in writing,  by the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting authority through the issuance of a contract amendment  before any additional work or <abbr title="Task Authorization">TA</abbr> is authorized. <strong>At any time during the contract  period, when there is a need to amend the contract, the Authorized Client must </strong>inform  the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting authority accordingly, in writing (e-mail), and provide  him/her the following:</p>
+<ol type="a">
+<li>a  clear and accurate rationale for amending the contract; e.g. the  reason why the work cannot be completed by the contract expiry date, why there  is a shortfall of funds, etc.;</li>
+<li>the cumulative value of all <abbr title="Task Authorization">TA</abbr>s (GST or HST extra) issued to date;</li>
+<li>the total contract expenditures (GST or HST extra) to date;</li>
+<li>the estimated price breakdown for any additional work required;</li>
+<li>the consequences of not amending;</li>
+<li>justification for  the required amendment versus initiating a new procurement; and</li>
+<li>the status of the  replacement procurement in the case of on-going work.</li>
+</ol>
+<p>If <abbr title="Public Works and Government Services Canada">PWGSC</abbr> determines that the contract will  not be amended, the Authorized Client will be advised accordingly. If the contract can be amended, the  Authorized Client will then forward to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting authority a duly  signed requisition amendment (PWGSC-TPSGC 9200).</p>
+<p><strong>5. Contract Management – Corrective  Measures</strong></p>
+<p>If there are indications that the  Authorized Client is not complying with the conditions of this agreement, the  <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting authority will discuss the matter with the Authorized  Client's designated representative, the contractor or both and take any of the  following corrective measures, deemed appropriate:</p>
+<ol type="a">
+<li>change the detail and/or frequency of the information reporting;</li>
+<li>discuss with the Authorized Client's staff responsible for issuing <abbr title="Task Authorization">TA</abbr>s, or with the contractor if needed;</li>
+<li>reduce any dollar limit that might have been placed on individual <abbr title="Task Authorization">TA</abbr>s and/or suspend or cancel the Authorized Client's authority limit for <abbr title="Task Authorization">TA</abbr> authorization.</li>
+</ol>
+<p>Both parties agree to comply with the conditions of this Record of Agreement.  Further, it is understood and agreed that this agreement may be amended from time to time, as necessary.  Except for any change resulting from a corrective measure specified in 5 (a) to (c) above, amendments will not be implemented until an amended Record of Agreement has been formalized and accepted via e-mail by both parties. </p>
+<table class="basic">
+<caption>Matrix of Roles and Responsibilities in Contracts with Task Authorizations
+<p>This table proposes the Roles and Responsibilities in Contracts with Task Authorizations, the Primary Responsability and the Supporting role.</p>
+</caption>
+<tbody><tr>
+<th id="PN-75R1un_0"> </th>
+<th id="PN-75R1un_1">Roles and Responsibilities<br/>
+	        X =  primarily responsible<br/>
+			S = supporting role</th>
+<th id="PN-75R1un_2">Authorized Client</th>
+<th id="PN-75R1un_3"><abbr title="Public Works and Government Services Canada">PWGSC</abbr></th>
+</tr>
+<tr>
+<td colspan="4"><strong>1.0 Task Authorization (TA) Process</strong></td>
+</tr>
+<tr>
+<td headers="un_0">1.1</td>
+<td headers="un_1">Ensure that the personnel  authorized to issue <abbr title="Task Authorization">TA</abbr>s are properly trained.</td>
+<td class="alignCenter" headers="un_2">X</td>
+<td class="alignCenter" headers="un_3"> </td>
+</tr>
+<tr>
+<td headers="un_0">1.2</td>
+<td headers="un_1">If more than one contract  is awarded for the same requirement, ensure that the work is allocated in  accordance with the contract. </td>
+<td class="alignCenter" headers="un_2">X</td>
+<td class="alignCenter" headers="un_3"> </td>
+</tr>
+<tr>
+<td headers="un_0">1.3</td>
+<td headers="un_1">Ensure that the work  required in each <abbr title="Task Authorization">TA</abbr> is within the scope of the contract.</td>
+<td class="alignCenter" headers="un_2">X</td>
+<td class="alignCenter" headers="un_3">S</td>
+</tr>
+<tr>
+<td headers="un_0">1.4</td>
+<td headers="un_1">Verify that there are still  sufficient uncommitted funds in the contract.</td>
+<td class="alignCenter" headers="un_2">X</td>
+<td class="alignCenter" headers="un_3"> </td>
+</tr>
+<tr>
+<td headers="un_0">1.5</td>
+<td headers="un_1">Ensure that the value  of the <abbr title="Task Authorization">TA</abbr> to be authorized does not exceed the Authorized Client's dollar limit  imposed on individual <abbr title="Task Authorization">TA</abbr>s. Refer any <abbr title="Task Authorization">TA</abbr>  exceeding that amount to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting authority for authorization.</td>
+<td class="alignCenter" headers="un_2">X</td>
+<td class="alignCenter" headers="un_3"> </td>
+</tr>
+<tr>
+<td headers="un_0">1.6</td>
+<td headers="un_1">Ensure that <abbr title="Task Authorization">TA</abbr>s are  issued in accordance with the task authorization process detailed in the  contract.</td>
+<td class="alignCenter" headers="un_2">X</td>
+<td class="alignCenter" headers="un_3"> </td>
+</tr>
+<tr>
+<td headers="un_0">1.7</td>
+<td headers="un_1">Ensure that the <abbr title="Task Authorization">TA</abbr>  delivery/completion date falls on or before the expiry date of the contract.</td>
+<td class="alignCenter" headers="un_2">X</td>
+<td class="alignCenter" headers="un_3"> </td>
+</tr>
+<tr>
+<td headers="un_0">1.8</td>
+<td headers="un_1">Ensure that the cost  breakdown or payment provisions and the categories of personnel provided by the  contractor are strictly in accordance with the conditions of the contract.</td>
+<td class="alignCenter" headers="un_2">X</td>
+<td class="alignCenter" headers="un_3"> </td>
+</tr>
+<tr>
+<td headers="un_0">1.9</td>
+<td headers="un_1">Ensure that the level  of effort and other elements of cost are commensurate with the work to be  performed.</td>
+<td class="alignCenter" headers="un_2">X</td>
+<td class="alignCenter" headers="un_3"> </td>
+</tr>
+<tr>
+<td colspan="4"><strong>2.0 Reporting Requirements</strong></td>
+</tr>
+<tr>
+<td headers="un_0">2.1</td>
+<td headers="un_1">Forward a copy of each duly  authorized and signed <abbr title="Task Authorization">TA</abbr> (including its attachments) and all revisions to  authorized <abbr title="Task Authorization">TA</abbr>s to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting authority, as soon as they are issued. </td>
+<td class="alignCenter" headers="un_2">X</td>
+<td class="alignCenter" headers="un_3"> </td>
+</tr>
+<tr>
+<td headers="un_0">2.2</td>
+<td headers="un_1">Provide to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr>  Contracting Authority a ________ (<em>insert</em> "monthly" <em>or</em> "quarterly", as applicable)  usage report, which will include as a minimum: a list of each issued <abbr title="Task Authorization">TA</abbr> and <abbr title="Task Authorization">TA</abbr>  revision, i.e. <abbr title="Task Authorization">TA</abbr> Number, <abbr title="Task Authorization">TA</abbr> revision number, a title and/or brief description  of each task, start and completion date for each task, the active status of  each task (completed or in progress), the total value committed and expended  for all <abbr title="Task Authorization">TA</abbr>s to date; the limitation of expenditure for each task, the  limitation of expenditure for all tasks as stated in the contract, and the  contract cumulative expenditure to date.</td>
+<td class="alignCenter" headers="un_2">X</td>
+<td class="alignCenter" headers="un_3"> </td>
+</tr>
+<tr>
+<td colspan="4"><strong>3.0 Contract Management</strong></td>
+</tr>
+<tr>
+<td headers="un_0">3.1</td>
+<td headers="un_1">Ensure the personnel  designated by the Authorized Client to administer the <abbr title="Task Authorization">TA</abbr> authorization process  understand the <abbr title="Task Authorization">TA</abbr> process, as required.</td>
+<td class="alignCenter" headers="un_2">X</td>
+<td class="alignCenter" headers="un_3">S</td>
+</tr>
+<tr>
+<td headers="un_0">3.2</td>
+<td headers="un_1">Report contractor  performance problems immediately to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting authority so that  appropriate remedial action may be taken in relation to the contract. A <abbr title="Task Authorization">TA</abbr> that the Authorized client originally authorized may be revised subject to the work being within the scope and value of the contract as  well as within the client authority limit set in the contract. Any revision to the <abbr title="Task Authorization">TA</abbr> is subject to concurrence by the contractor. A <abbr title="Task Authorization">TA</abbr> revision, which will bring  the <abbr title="Task Authorization">TA</abbr> value above the client <abbr title="Task Authorization">TA</abbr> limit, must be referred to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr>  contracting officer. An authorized <abbr title="Task Authorization">TA</abbr> may be revised to either reduce an activity  (or activities) or to cancel the task in its entirety, however a <abbr title="Task Authorization">TA</abbr> cannot be  terminated for default or for convenience. In situations when the contractor is in default or for the  convenience of Canada,  the termination provisions of the applicable general conditions will apply and  the contract may be terminated either entirely or in part for default or for  convenience. Such matters must be referred to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting authority.</td>
+<td class="alignCenter" headers="un_2">X</td>
+<td class="alignCenter" headers="un_3">X</td>
+</tr>
+<tr>
+<td headers="un_0">3.3</td>
+<td headers="un_1">Ensure that each  invoice is in accordance with the conditions of the contract and each  authorized and issued <abbr title="Task Authorization">TA</abbr>. For contracts  issued for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s own behalf, the  individual who signs the associated task authorization must not certify  associated invoices unless the current processes  in place or other circumstances do no allow such separations of duties; <abbr title="Public Works and Government Services Canada">PWGSC</abbr>  also recommends this practice to all its clients. Copies of all claims/invoices, supported by  reports are to be provided to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting authority.</td>
+<td class="alignCenter" headers="un_2">X</td>
+<td class="alignCenter" headers="un_3"> </td>
+</tr>
+<tr>
+<td headers="un_0">3.4</td>
+<td headers="un_1">Monitor the contract  closely to ensure that all authorized and issued tasks remain within the scope  of the contract.</td>
+<td class="alignCenter" headers="un_2"> </td>
+<td class="alignCenter" headers="un_3">X</td>
+</tr>
+<tr>
+<td headers="un_0">3.5</td>
+<td headers="un_1">Take any necessary  corrective measures if there are indications that the <abbr title="Task Authorization">TA</abbr> process is not working  as planned (refer to the article entitled “Contract Management – Corrective  Measures” in this Record of Agreement).</td>
+<td class="alignCenter" headers="un_2"> </td>
+<td class="alignCenter" headers="un_3">X</td>
+</tr>
+<tr>
+<td headers="un_0">3.6</td>
+<td headers="un_1">Ensure that the  contractor complies with the reporting requirements.</td>
+<td class="alignCenter" headers="un_2"> </td>
+<td class="alignCenter" headers="un_3">X</td>
+</tr>
+<tr>
+<td headers="un_0">3..7</td>
+<td headers="un_1">Compile usage reports  and keep up to date usage statistics, ensuring that the financial limitation of  the contract is never exceeded.</td>
+<td class="alignCenter" headers="un_2">X</td>
+<td class="alignCenter" headers="un_3">X</td>
+</tr>
+</tbody></table>
+<h3 id="PN-75R1Annex3_8">Annex 3.8: Comparison of Different Methods of Supply<br/>
+(2011-01-11) </h3>
+<p>The table below provides a comparison between the different methods of supply used when the precise nature, timing and/or quantity of the need cannot be set out in advance.</p>
+<table class="basic">
+<caption>
+<p>Table in this Annex represent the comparaison between the different methods of supply used when the precise nature, timing and/or quantity of the need cannot be set out in advance.</p>
+</caption>
+<tbody><tr>
+<th colspan="4" id="PN-75R1un_7">Comparison Table</th>
+</tr>
+<tr>
+<th headers="un_7" id="PN-75R1un_8">Methods of Supply</th>
+<th headers="un_7" id="PN-75R1un_9">Contract with Task Authorization</th>
+<th headers="un_7" id="PN-75R1un_10">Standing Offer</th>
+<th headers="un_7" id="PN-75R1un_11">Supply Arrangement</th>
+</tr>
+<tr>
+<td headers="un_7 un_8"><strong>Determining the Method to Use</strong></td>
+<td headers="un_7 un_9">A contract with Task  Authorizations (<abbr title="Task Authorization">TA</abbr>s) is a method of supply for services under which all of the  work or a portion of the work will be performed on an "as and when requested"  basis through predetermined conditions including an administrative process  involving task authorizations. Contracts  with <abbr title="Task Authorization">TA</abbr>s are used in service contracting situations when there is a defined  need by a client to rapidly have access to one or more category of service(s)  that are expected to be needed on a repetitive basis during the period of the  contract. Under contracts with <abbr title="Task Authorization">TA</abbr>s, the  work to be carried out can be defined but the exact nature and timeframes of  the required services, activities and deliverables will only be known as and  when the service(s) will be required during the period of the contract. The contract with <abbr title="Task Authorization">TA</abbr>s must stipulate the  conditions for issuing <abbr title="Task Authorization">TA</abbr>s. A <abbr title="Task Authorization">TA</abbr> is a structured administrative tool enabling  <abbr title="Public Works and Government Services Canada">PWGSC</abbr> or a client to authorize work by a contractor on an “as and when  requested” basis in accordance with the conditions of the contract. <abbr title="Task Authorization">TA</abbr>s are not individual contracts.</td>
+<td headers="un_7 un_10">The  standing offer method of supply is used when it is possible to clearly define the requirement but expected  quantities (level of effort) and timing are not known. It is used when the client/<abbr title="Public Works and Government Services Canada">PWGSC</abbr> is unwilling or unable to  offer a minimum work guarantee, or wants to maintain multiple sources of  supply. It is used to satisfy the  requirements of departments and agencies for commonly ordered, commercially  available goods, services or both, by arranging with suppliers to submit  standing offers to provide goods, services or both, during a specified  period. A call-up against a standing  offer is a contract.</td>
+<td headers="un_7 un_11">This  method of supply is used to establish a pool of suppliers when there is a  recurring need for a certain type of good or service, but a standing offer is  not suitable due to the inability to fully define the requirement in advance,  and there is a desire to compete the requirement. The supply arrangement (SA) establishes a framework that permits  expeditious processing of individual bid solicitations which result in  contracts.</td>
+</tr>
+<tr>
+<td headers="un_7 un_8"><strong>Solicitation Process and Evaluation Criteria</strong></td>
+<td headers="un_7 un_9">A  bid solicitation is used to select one or more bidder(s) to establish contracts  that will allow services to be carried out on an “as and when requested basis” through predetermined conditions and an  administrative process involving task authorizations. Multiple  contracts with task authorizations may be issued in certain circumstances when  one contract would not be sufficient to fulfill all requirements. The quantity and level of services specified  in the bid solicitation are only an approximation of the requirements, but the  contract will include a minimum work guarantee or some other form of consideration.</td>
+<td headers="un_7 un_10">A  Request for Standing Offer (RFSO) is used to select offeror(s), who meet the  stated evaluation criteria in the solicitation, to provide <abbr title="Public Works and Government Services Canada">PWGSC</abbr> with one or  more standing offers for the provision of goods or services or both at  predetermined pricing under set conditions.  The quantity of goods or the level of effort for services and if  applicable, the estimated expenditure specified in the RFSO is only an  approximation of the requirements</td>
+<td headers="un_7 un_11">A  Request for Supply Arrangement (RFSA) is used to establish a suitable pool of  suppliers (source list) who meet the stated evaluation criteria stipulated in  the solicitation and to establish supply arrangements. A SA is an arrangement between Canada and  pre-qualified suppliers that allows identified users to solicit bids from a  pool of pre-qualified suppliers for specific requirements within the scope of a  SA.</td>
+</tr>
+<tr>
+<td headers="un_7 un_8"><strong>Contractual Obligation</strong></td>
+<td headers="un_7 un_9">The  contract creates a contractual obligation and enough funding must be committed  at the outset to cover the total estimated cost of the contract since the  contract requires consideration. The  contract obligation is limited only by a minimum guarantee clause or by other  considerations in the contract.</td>
+<td headers="un_7 un_10">There  is no contractual obligation on the part of Canada until a call-up is made.  Each call-up is a separate contract and funds are committed at that time. The standing offer is not a contract. The offeror is bound by its offer unless its  offer is withdrawn.</td>
+<td headers="un_7 un_11">There  is no contractual obligation between Canada  and the supplier to buy goods or services at the SA stage. There is a contractual obligation with the  award of each contract.</td>
+</tr>
+<tr>
+<td headers="un_7 un_8"><strong>Binding Legal Agreement</strong></td>
+<td headers="un_7 un_9">The  signed contract is the binding legal agreement established between the  contracting department or agency and the Supplier. The task authorization is not an individual contract  but an administrative process that enables specific tasks to be carried out in  accordance with the conditions of the contract.</td>
+<td headers="un_7 un_10">The  call-up is the acceptance of the offer and is a binding contract established  between the contracting department and the offeror.</td>
+<td headers="un_7 un_11">Each  contract awarded will be considered to be a separate binding contract  established between the contracting department and the supplier.</td>
+</tr>
+<tr>
+<td headers="un_7 un_8"><strong>Work Authorization</strong></td>
+<td headers="un_7 un_9">The  work is authorized on an "as and when requested" basis when a <abbr title="Task Authorization">TA</abbr> is authorized  by the client or by <abbr title="Public Works and Government Services Canada">PWGSC</abbr>.</td>
+<td headers="un_7 un_10">The  work is authorized on an "if and when requested" basis when a call-up is  issued.</td>
+<td headers="un_7 un_11">When  individual needs are identified, individual bid solicitations are issued based  on the conditions of the SA and the work is authorized through the award of  individual SA contracts.</td>
+</tr>
+<tr>
+<td headers="un_7 un_8"><strong>Financial Limits</strong></td>
+<td headers="un_7 un_9">The  limit for the client for authorizing a <abbr title="Task Authorization">TA</abbr> is set in the contract. When the client requires specific services  described generally in the contract, a <abbr title="Task Authorization">TA</abbr> is issued to authorize the  performance of the work by a contractor as long as it is within the scope of  work of the contract and within the <abbr title="Task Authorization">TA</abbr> limit of the client; <abbr title="Public Works and Government Services Canada">PWGSC</abbr> can issue <abbr title="Task Authorization">TA</abbr>s  that are over the client limit.</td>
+<td headers="un_7 un_10">The Standing Offer Authority will set the call-up limit in the standing offer document for  the identified user(s) not to exceed the Treasury Board (TB) Contracts  Directive, Appendix C. See 4.10.20.1.a. for more details.</td>
+<td headers="un_7 un_11">The  Supply Arrangement Authority will set the contracting limits in the SAs for the  client or identified user(s), not to exceed TB Contracts Directive, Appendix C.  See 4.10.25.1. c. for more details.</td>
+</tr>
+<tr>
+<td headers="un_7 un_8"><strong>Minimum Guarantee or other Consideration</strong></td>
+<td headers="un_7 un_9">When  all the work under the contract will be authorized using <abbr title="Task Authorization">TA</abbr>s, the client must  commit to a minimum supply, and the contract must include a limit on the  contractor's expectations; e.g., a "minimum guarantee".</td>
+<td headers="un_7 un_10">Not  applicable</td>
+<td headers="un_7 un_11">Not  applicable</td>
+</tr>
+<tr>
+<td headers="un_7 un_8"><strong>Payment Provisions</strong></td>
+<td headers="un_7 un_9">The  payment provisions are firm:
+<ul>
+<li>basis of payment;</li>
+<li>method of payment;</li>
+<li>all inclusive firm  rates, etc.</li>
+</ul>
+</td>
+<td headers="un_7 un_10">The  payment provisions are firm:
+<ul>
+<li>basis of payment;</li>
+<li>method of payment;</li>
+<li>all inclusive firm  rates, etc.</li>
+</ul>
+</td>
+<td headers="un_7 un_11">The  pricing method(s) is (are) usually a ceiling price/rate, or sometimes no rates  are provided until individual requirements are competed. If the SA includes ceiling prices or rates,  suppliers will be allowed to lower their prices or rates based on the actual  requirement or statement of work described in the bid solicitation.</td>
+</tr>
+<tr>
+<td headers="un_7 un_8"><strong>Monitoring and Reporting</strong></td>
+<td headers="un_7 un_9">Monitoring and  reporting by the client of contractor performance, and of client usage of task  authorizations, is a condition of the client's use of the contract.</td>
+<td headers="un_7 un_10">Monitoring  and reporting by the client of performance, and of client usage by the client  or offeror, in accordance with the standing offer are a requirement of use by  the client of the standing offer.</td>
+<td headers="un_7 un_11">Monitoring  and reporting by the client of contractor performance, and of client usage, in  accordance with the SA are a requirement of use by the client of the SA.</td>
+</tr>
+</tbody></table>
+<h3>Chapter 6 - Approvals and Authorities</h3>
+<p><strong>6.25.40 Contracts with Task Authorizations</strong></p>
+<p>Deleted in its entirety.</p>
+<h3>Chapter 8 - Contract Management</h3>
+<p id="PN-75R1a8_70_20"><strong>8.70.20 Administration of Contracts with Task Authorizations </strong><br/>
+		(2010-XX-XX)</p>
+<ol type="a">
+<li>The following paragraphs highlight some considerations regarding the administration of task authorizations.  (See <a href="#PN-75R1a3_35_1">3.35.1</a> for information on issuing and monitoring contracts with task authorizations).</li>
+<li>A detailed and current record of all authorized tasks must be kept for each contract with a task authorization process.  The contractor or the client department is responsible to create and update this record, as established in consultation with the client department during the procurement planning stage.  This record may contain but is not limited to:</li>
+</ol>
+<p>For each authorized task:</p>
+<ol class="double-space" type="i">
+<li>the authorized task number and, as applicable, task revision number(s);</li>
+<li>a title or brief description of each authorized task, as applicable;</li>
+<li>the total estimated cost specified in the authorized TA of each task, GST or HST extra, as applicable;</li>
+<li>the total amount, GST or HST extra, expended to date against each authorized task (as applicable);</li>
+<li>as applicable, when a task is completed, the committed amount should be reduced to reflect the actual expenditure and the change should be reflected in the record of task authorizations;</li>
+<li>the start and completion date for each authorized task,as applicable;</li>
+<li>the active status of each authorized task.</li>
+</ol>
+<p>For all authorized tasks:</p>
+<ol class="double-space" type="i">
+<li>the amount (GST or HST extra) specified in the contract (as last amended, as applicable) as Canada's total liability to the contractor for all authorized <abbr title="Task Authorization">TA</abbr>s; and</li>
+<li>the total amount, GST or HST extra, expended to date against all authorized task authorizations</li>
+</ol>
+<p>Before authorizing a task, the organization authorized to issue the task to the contractor (normally the client) must ensure that:</p>
+<ol class="double-space" type="i">
+<li>the task can be completed on or before the expiry date of the contract with task authorizations.  If it cannot be, the task authorization cannot be issued until after the contracting officer amends the period of the contract with task authorizations;</li>
+<li>the total estimated cost of the <abbr title="Task Authorization">TA</abbr>, GST or HST extra, is within the client's authority limit relative to individual task authorizations specified in the contract (If the total value exceeds that limit, the <abbr title="Task Authorization">TA</abbr> must be forwarded to <abbr title="Public Works and Government Services Canada">PWGSC</abbr> for authorization and issuance); and</li>
+<li>the task authorization will not cause the exceeding of the amount (GST or HST extra) specified in the contract as Canada's total liability to the contractor for all authorized <abbr title="Task Authorization">TA</abbr>s.
+</li>
+</ol>
+<p>When a task is completed, the committed amount may be reduced to reflect the actual expenditure, and such changes must be reflected in the record of task authorizations.</p>
+<p>See <a href="#PN-75R1a3_35_1_35">3.35.1.35</a> relative to the separation of duties in <abbr title="Task Authorization">TA</abbr>s.</p>
+<h3>Glossary</h3>
+<p><strong>task authorization</strong><br/>
+       A <abbr title="Task Authorization">TA</abbr> is a structured  administrative tool enabling <abbr title="Public Works and Government Services Canada">PWGSC</abbr> or a client to authorize work by a  contractor on an “as and when requested” basis in accordance with the  conditions of the contract. <abbr title="Task Authorization">TA</abbr>s are not  individual contracts. (2010-XX-XX) <em><strong>(autorisation de tâches)</strong></em></p>
+<p><strong>task authorization  contracts</strong><br/>
+       A contract with task authorizations (<abbr title="Task Authorization">TA</abbr>s)  is a method of supply for services under which all of the work or a portion of  the work will be performed on an “as and when requested basis” through  predetermined conditions including an administrative process involving task  authorizations. Contracts with <abbr title="Task Authorization">TA</abbr>s are  used in service contracting situations when there is a defined need by a client  to rapidly have access to one or more category of service(s) that are expected  to be needed on a repetitive basis during the period of the contract. Under contracts with <abbr title="Task Authorization">TA</abbr>s, the work to be  carried out can be defined but the exact nature and timeframes of the required  services, activities and deliverables will only be known as and when the  service(s) will be required during the period of the contract. (2010-XX-XX) <em>(<strong>contrat avec autorisation de tâches</strong>)</em></p>
+<h2 id="PN-75R1AnnexB">Annex B - Changes to the SACC Manual</h2>
+<p><strong>(REVISED) B9030C Minimum Work Guarantee - All the Work - Task Authorizations<br/>
+</strong></p>
+<p><strong>Remarks:</strong></p>
+<p>Use the following clause to limit Canada's obligation under the contract to the amount stated in the clause when all the work under a contract is to be performed through task authorizations.  Use in conjunction with clause C9010C.</p>
+<p>Alternatively, use clause B9031C to limit Canada's obligation when only a  portion of the work is to be performed through task authorizations.</p>
+<p>For more information, consult <a href="#PN-75R1a3_35_1_20">3.35.1.20</a> (a) (vi) of the Supply  Manual.</p>
+<p><strong>Text:</strong></p>
+<ol class="double-space">
+<li>
+<p>In this clause,</p>
+<p>"Maximum Contract Value" means the amount specified in the "Limitation of Expenditure" clause set out in the Contract; and</p>
+<p>"Minimum  Contract Value" means ____ (<em>insert the  applicable percentage of the Maximum Contract Value or a fixed dollar amount).</em></p>
+</li>
+<li>Canada's obligation under the Contract is to request Work in the amount of the Minimum Contract Value or, at Canada's option, to pay the Contractor at the end of the Contract in accordance with paragraph 3.  In consideration of such obligation, the Contractor agrees to stand in readiness throughout the Contract period to perform the Work described in the Contract.  Canada's maximum liability for work performed under the Contract must not exceed the Maximum Contract Value, unless an increase is authorized in writing by the Contracting Authority.</li>
+<li>In the event that Canada does not request work in the amount of the Minimum Contract Value during the period of the Contract, Canada must pay the Contractor the difference between the Minimum Contract Value and the total cost of the Work requested.</li>
+<li>Canada will have no obligation to the Contractor under this clause if Canada terminates the Contract in whole or in part for default.</li>
+</ol>
+<p><strong>(NEW) B9031C	Canada's Obligation - Portion of the Work - Task Authorizations<br/>
+</strong></p>
+<p><strong>Remarks:</strong><br/> <br/>
+Use the  following clause when a portion of the work under a contract is to be performed  through task authorizations to limit Canada's obligation for the work  that is performed through task authorizations.</p>
+<p>Alternatively,  use clause B9030C when all the work is to be performed through task  authorizations.</p>
+<p>Use this  clause in conjunction with C6001C.</p>
+<p>For more  information, consult <a href="#PN-75R1a3_35_1_20">3.35.1.20</a> (a) (vi) of the Supply Manual.</p>
+<p><strong>Text:</strong><br/> <br/>
+Canada's obligation with respect to the portion of the Work under the Contract that is performed through task authorizations is limited to the total amount of the actual tasks performed by the Contractor.</p>
+<p><strong>(NEW) B9051C	Task Authorization - Department of National Defence</strong></p>
+<p><strong>Remarks:</strong><br/> <br/>
+Use the following clause in Department of National Defence contracts with task authorizations.</p>
+<p>For more information, consult <a href="#PN-75R1a3_35_1">3.35.1</a> of the Supply Manual.</p>
+<p><strong>Text:</strong><br/> <br/>
+The  administration of the Task Authorization process will be carried out by  _____________ (<em>insert:  the applicable Department of National Defence designation,</em> i.e. <em>D MAR P 4-6-8</em>). This process includes monitoring, controlling  and reporting on expenditures of the contract with task authorizations to the  Contracting Authority.</p>
+<p><strong>(NEW) B9053C	Task Authorization - Order of Ranking</strong></p>
+<p><strong>Remarks:</strong><br/> <br/>
+Use the  following clause in contracts with task authorizations when two or more  contracts will be awarded.</p>
+<p>Use this  clause in conjunction with B9054C.</p>
+<p>For more  information, consult <a href="#PN-75R1a3_35_1">3.35.1</a> of the Supply Manual.</p>
+<p><strong>Text:</strong><br/><strong>___ </strong><em>(insert number)</em> contracts were awarded as a result  of Public Works and Government Services Canada bid solicitation number: ___ <em>(insert number).</em> The contractors' order of ranking  is as follows:</p>
+<p>Ranked  first:____________<br/>
+  Ranked  second: ___________<br/>
+<em>(Insert as many lines as there are contractors)</em></p>
+<p><strong>(NEW) B9054C Task Authorization Process</strong></p>
+<p><strong>Remarks:</strong><br/>
+Use the  following clause in contracts with task authorizations.</p>
+<p>Contracting  officers may need to modify the text of this clause to address their specific  requirement. For Department of National  Defence (DND) contracts with task authorizations, contracting officers may need  to delete the reference to Project and Technical Authority and insert the name,  address and <abbr title="Department of National Defence">DND</abbr> designation, as applicable.</p>
+<p>For more  information, consult <a href="#PN-75R1a3_35_1">3.35.1</a> of the Supply Manual.</p>
+<p><strong>Text:</strong></p>
+<p><strong>Task Authorization:</strong><br/>
+The Work or a portion of the Work to be performed under the Contract will be on an "as and when requested basis" using a Task Authorization (TA).  The Work described in the <abbr title="Task Authorization">TA</abbr> must be in accordance with the scope of the Contract.</p>
+<p><strong><em>Instructions to contracting officers:</em></strong><em> Insert the following paragraph when more than  one contract will be awarded. </em><br/>
+As more  than one contract has been awarded for this requirement, a request to perform a  task will be sent to the first ranked contractor. If that contractor confirms  in writing that it is unable to perform the task as a result of previous  commitments under a <abbr title="Task Authorization">TA</abbr>, the request to perform a task will then be forwarded to  the contractor ranked second. This process will continue until the task can be  performed by another contractor. If no contractor can perform the task, Canada reserves  the right to acquire the required Work by other means. A contractor may advise  the __________ (<strong><em>insert </em></strong>"Project" <em>or</em> "Technical" Authority") and the Contracting Authority in writing that  it is unable to carry out additional tasks as a result of previous commitments  under a <abbr title="Task Authorization">TA</abbr> and no request to perform a task will be sent to that contractor  until that contractor has given notice in writing to the __________ (<strong><em>insert</em></strong> "Project" <em>or</em> "Technical" Authority") and the  Contracting Authority that it is available to perform additional tasks.</p>
+<p><strong>Task Authorization Process:</strong></p>
+<ol class="double-space">
+<li>The __________ (<strong><em>insert</em></strong> "Project" <em>or</em> "Technical" Authority) will provide  the Contractor with a description of the task using the "Task  Authorization Form for non-<abbr title="Department of National Defence">DND</abbr> clients" <em>or</em> "<abbr title="Department of National Defence">DND</abbr> 626, Task Authorization Form" <em>or</em> "Task Authorization" form specified in Annex __.
+ </li>
+<li>The Task Authorization (TA) will  contain the details of the activities to be performed, a description of the  deliverables, and a schedule indicating completion dates for the major  activities or submission dates for the deliverables. The <abbr title="Task Authorization">TA</abbr> will also include the applicable  basis(bases) and methods of payment as specified in the Contract.</li>
+<li>The Contractor must  provide the __________ (<strong><em>insert</em></strong> "Project" <em>or</em> "Technical" Authority), within __ calendar days of its receipt, the  proposed total estimated cost for performing the task and a breakdown of that  cost, established in accordance with the Basis of Payment specified in the  Contract. </li>
+<li>The Contractor must not commence  work until a <abbr title="Task Authorization">TA</abbr>, authorized by the __________ (<strong><em>insert</em></strong>"Project" <em>or</em> "Technical" Authority) has been received by the Contractor. The Contractor acknowledges that any work  performed before a <abbr title="Task Authorization">TA</abbr> has been received will be done at the Contractor's own  risk. </li>
+</ol>
+<p id="PN-75R1B9056C"><strong>(NEW) B9056C Periodic Usage Reports - Contracts with Task Authorization </strong></p>
+<p><strong>Remarks:</strong><br/>
+Use the following clause in  contracts with task authorizations when periodic usage reports are required  from the contractor.</p>
+<p>The reporting periods and the  number of calendar days by which each report must be submitted after the reporting  period must be indicated in the clause.</p>
+<p>The contracting officer must  ensure that the contractor fulfills all the reporting requirements detailed in <br/>
+  the contract.</p>
+<p>For more information, consult <a href="#PN-75R1a8_70_20">8.70.20</a> of the Supply Manual.
+</p>
+<p><strong>Text:</strong><br/> <br/>
+The  Contractor must compile and maintain records on its provision of services to  the federal government under authorized Task Authorizations issued under the  Contract. </p>
+<p>The  Contractor must provide this data in accordance with the reporting requirements  detailed below or in Annex "___".  If some data is not available, the reason must be indicated. If services are not provided during a given  period, the Contractor must still provide a "NIL" report.</p>
+<p>The data  must be submitted on a ___________ (<strong><em>insert</em></strong>"quarterly basis" <em>or specify an  alternate reporting period</em>) to the Contracting Authority. </p>
+<p><em>(If an alternate reporting period is required, delete the quarterly  periods provided below and define the alternate reporting period.)</em> <br/>
+The  quarterly periods are defined as follows: </p>
+<p>1st quarter: April 1 to June 30;<br/>
+2nd quarter: July 1 to September 30;<br/>
+3rd quarter: October 1 to December 31; and<br/>
+4th quarter: January 1 to March 31.</p>
+<p>The data  must be submitted to the Contracting Authority no later than ____ (<em>insert number of days</em>) calendar days after the  end of the reporting period.</p>
+<p><strong>Reporting  Requirement - Details</strong></p>
+<p>A  detailed and current record of all authorized tasks must be kept for each  contract with a task the authorization  process. This record must contain (<em>contracting authority to edit the text as applicable</em>):</p>
+<p><strong>For each authorized task:</strong></p>
+<ol class="double-space" type="a">
+<li>the authorized task number or task revision number(s);</li>
+<li>a title or a brief description of each  authorized task;</li>
+<li>the total estimated cost specified in the authorized Task  Authorization (TA) of each task, GST or HST extra;</li>
+<li>the total amount, GST or HST extra, expended to date against each authorized task;</li>
+<li>as  applicable, when a task is completed, the committed amount should be reduced to reflect the actual expenditure and the change should be reflected in the record of <abbr title="Task Authorization">TA</abbr>s;</li>
+<li>the start and completion date for each authorized task;and</li>
+<li>the active status of each authorized task,as applicable. </li>
+</ol>
+<p><strong>For all authorized tasks:</strong></p>
+<ol class="double-space" type="a">
+<li>the amount (GST or HST extra) specified in the contract, as Canada's total liability to the contractor for all authorized <abbr title="Task Authorization">TA</abbr>s; and</li>
+<li>the total amount, GST or HST extra, expended to date against all authorized <abbr title="Task Authorization">TA</abbr>s.</li>
+</ol>
+<p><strong>(NEW) C9010C Limitation of Expenditure - Cumulative Total of all Task Authorizations</strong></p>
+<p><strong>Remarks:</strong><br/> <br/>
+Use the  following clause in conjunction with B9030C when all the work will be performed  through task authorizations.  Alternatively, use clause C6001C in conjunction with B9031C whenonly  a portion the work is to be performed through task authorizations.</p>
+<p>For more  information, consult <a href="#PN-75R1a3_35_1_20">3.35.1.20</a> (a) (vi) of the Supply Manual.</p>
+<p><strong>Text:</strong></p>
+<ol class="double-space">
+<li>Canada's total liability to the  Contractor under the Contract for all approved Task Authorizations (TAs),  inclusive of any revisions, must not exceed the sum of $ _______. Customs duties are _____ <em>(<strong>insert</strong> "</em> included<em>", "</em>excluded<em>" or "</em>subject to exemption<em>, as applicable")</em> and the Goods and Services Tax or Harmonized Sales Tax is extra, if applicable.</li>
+<li>No increase in the total liability  of Canada  will be authorized or paid to the Contractor unless an increase has been  approved, in writing, by the Contracting Authority.</li>
+<li>The Contractor must notify the  Contracting Authority in writing as to the adequacy of this sum:<br/>
+<ol class="double-space" type="a">
+<li>when it is 75 percent committed, or </li>
+<li>four (4) months before the contract expiry date, </li>
+<li>as soon as the Contractor considers that the sum is inadequate for the completion of the Work required in all approved <abbr title="Task Authorization">TA</abbr>s, inclusive of any revisions,
+<p>whichever comes first.</p>
+</li>
+</ol>
+</li>
+<li>If the notification is for  inadequate contract funds, the Contractor must provide to the Contracting Authority, a written estimate for the  additional funds required. Provision of  such information by the Contractor does not increase Canada's liability.</li>
+</ol>
+<p><strong>(NEW) C9011C Task Authorization Limit </strong></p>
+<p><strong>Remarks:</strong><br/>
+Use the  following clause in contracts with task authorizations (TAs) when the project  or technical authority may authorize individual <abbr title="Task Authorization">TA</abbr>s up to a specific limit.</p>
+<p>Contracting  officers may need to modify the text of this clause to address their specific  requirement. For Department of National Defence (DND) contracts with task authorizations, contracting officers may need  to delete the reference to Project and Technical Authority and insert the name, address and <abbr title="Department of National Defence">DND</abbr> designation, as applicable.</p>
+<p>For more  information, consult <a href="#PN-75R1a3_35_1">3.35.1</a> of the Supply Manual.</p>
+<p><strong>Text:</strong><br/>
+The <em>__________ (<strong>insert:</strong></em>  "Project" <em>or</em> "Technical" Authority) may authorize individual task authorizations  up to a limit of $_______<em> (insert amount)</em>,  Goods and Services Tax or Harmonized Sales Tax included, inclusive of any  revisions. </p>
+<p>Any task authorization to be issued in excess of that limit must be authorized by the  _________ (<strong><em>insert </em></strong>"Project" <em>or </em>"Technical" Authority") and Contracting Authority <em>"<strong>or</strong>"</em> the Contracting Authority<em>")</em> before issuance.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

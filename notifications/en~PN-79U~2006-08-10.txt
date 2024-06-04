@@ -1,0 +1,76 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h3>Purpose</h3>
+<p>The purpose of Policy Notification (PN) 79U is:</p>
+<ol>
+<li>to revise the Request for Standing Offer (RFSO) template<br/>
+						as detailed in Annex A.</li>
+<li>to revise the French text of SACC Manual clause M7010C<br/>
+						and the remarks of clause M9105C as detailed in Annex B.</li>
+</ol>
+<h3>Contact</h3>
+<p><strong>N/A</strong></p>
+<h2>ANNEX A</h2>
+<h3>Modifications to Request for Standing Offer Template - Goods<br/>
+					or Services, 2T-RFSO1</h3>
+<p><strong>Part 3, Section II: Financial Offer, clause entitled Payment<br/>
+					by Credit Card</strong></p>
+<h4>Payment by Credit Card</h4>
+<p>The Offeror is requested to complete <strong>one<br/>
+					of</strong> the following:</p>
+<ul class="noBullet">
+<li>(a) ( )
+<p>Government of Canada Acquisition Cards<br/>
+							(credit cards) will be accepted for<br/>
+							payment of call-ups against the standing offer.<br/>
+							The following credit card(s) are accepted:<br/>
+							VISA _______<br/>
+							Master Card _______</p>
+<p><strong><del>OR</del></strong></p>
+</li>
+<li>(b) ( )
+<p>Government of Canada Acquisition Cards (credit<br/>
+							cards) <br/>
+							will <strong>not</strong> be accepted for payment of call-ups<br/>
+							against <br/>
+							the standing offer.</p>
+</li>
+</ul>
+<p>The Offeror is not obligated to accept payment by credit card.</p>
+<p>Acceptance of credit cards for payment of call-ups will not be<br/>
+					considered as an evaluation criterion.</p>
+<p><strong>Part 5B, Resulting Contract Clauses, under article 2.<br/>
+					Standard Clauses and Conditions</strong></p>
+<p><strong>If general conditions 9601, 9676 or 9624 apply to the<br/>
+					requirement, include the following article:</strong></p>
+<h4>2.3 International Sanctions</h4>
+<ol>
+<li>Persons in Canada, and Canadians outside of Canada,<br/>
+						are bound by economic sanctions imposed by Canada. As a result,<br/>
+						the Government of Canada cannot accept delivery of goods or services<br/>
+						that originate, either directly or indirectly, from the countries<br/>
+						or persons subject to economic sanctions. <br/>
+						Details on existing sanctions can be found at: <a href="http://www.international.gc.ca/sanctions/index.aspx?lang=eng" rel="external">http://www.international.gc.ca/sanctions/index.aspx?lang=eng</a>.</li>
+<li>The Contractor must not supply to the Government<br/>
+						of Canada any goods or services which are subject to economic<br/>
+						sanctions.</li>
+<li>By law, the Contractor must comply with changes to<br/>
+						the regulations imposed during the life of the Contract. During<br/>
+						the performance of the Contract, should the imposition of sanctions<br/>
+						against a country or person or the addition of a good or service<br/>
+						to the list of sanctioned goods or services cause an impossibility<br/>
+						of performance for the Contractor, the situation will be treated<br/>
+						by the Parties as a force majeure. The Contractor must immediately<br/>
+						inform Canada of the situation and the procedures applicable<br/>
+						to force majeure will then apply.</li>
+</ol>
+<h2>ANNEX B</h2>
+<h3>Changes to the SACC Manual</h3>
+<p><strong>The remarks of M9105C are revised as follows:</strong></p>
+<p><strong>M9105C Work Force Reduction Programs</strong></p>
+<h4>Remarks:</h4>
+<p>Use the following clause in standing offers where clauses <strong><del>9103T</del> M9103T</strong> or <strong><del>9104T</del> M9104T</strong> and<br/>
+					clause <strong><del>9106T</del> M9106T</strong> were<br/>
+					used.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

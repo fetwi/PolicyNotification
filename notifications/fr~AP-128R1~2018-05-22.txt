@@ -1,0 +1,73 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Objectif</h2>
+<p>La présente <abbr title="avis relatif aux politiques">AP</abbr>-128R1 remplace et annule <abbr title="avis relatif aux politiques">AP</abbr>-128.</p>
+<p>L'objectif de l'Avis relatif aux politiques (AP)-128R1 est d'aviser tous les agents de négociation des contrats du Programme des approvisionnements de Travaux publics et Services gouvernementaux Canada (TPSGC) de la mise en œuvre d'une méthode supplémentaire de réception des soumissions dans les Unités de réception des soumissions (URS) à l'aide du service Connexion postel de la Société canadienne des postes, à l'échelle du Canada.</p>
+<h2>Date d'entrée en vigueur </h2>
+<p>La présente <abbr title="avis relatif aux politiques">AP</abbr>-128R1 entre en vigueur immédiatement. </p>
+<p>Le Guide des approvisionnements, le Guide des clauses et conditions uniformisées d'achat (CCUA) ainsi que les modèles d'approvisionnement normalisés ont été mis-à-jour pour prendre en considération le présent <abbr title="avis relatif aux politiques">AP</abbr>.</p>
+<h2>Processus concurrentiel </h2>
+<p>L'introduction du service Connexion postel offre aux fournisseurs une option supplémentaire quant à la façon de soumettre leur soumission, leur offre ou leur arrangement, selon le cas, en réponse à une demande. Les fournisseurs peuvent choisir de ne pas l'utiliser et d'avoir plutôt recours à d'autres moyens, comme les services au comptoir, le télécopieur, les services postaux, les services de messagerie et les boîtes de dépôt des soumissions, sauf indication contraire dans la demande. </p>
+<p>Les instructions uniformisées de 2003, 2006 et 2008 ont été modifiées pour prendre en considération la mise en œuvre d'une méthode supplémentaire de réception des soumissions à l'aide du service Connexion postel de la Société canadienne des postes. Le <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> et le Guide des approvisionnements ont été modifiés afin de permettre l'utilisation du service Connexion postel pour la transmission électronique aux <abbr title="Unités de réception des soumissions">URS</abbr>. Les modèles d'approvisionnement normalisés ont été mis à jour afin de permettre la transmission électronique et de fournir aux agents de négociation des contrats des options de texte normalisées à inclure dans les soumissions. </p>
+<h2>Exceptions </h2>
+<p>Le service Connexion postel ne peut être utilisé pour acheminer des soumissions aux <abbr title="Unités de réception des soumissions">URS</abbr> dans les cas suivants : </p>
+<ul>
+<li>les approvisionnements touchant les dépouillements publics des soumissions </li>
+<li>les approvisionnements pour lesquels sont utilisés des garanties financières de soumission, comme un cautionnement de soumission ou un dépôt de garantie - par exemple, pour les passations de marchés de construction avec des termes et conditions spécialisés</li>
+<li>les approvisionnements de faible valeur </li>
+<li>les soumissions, les offres et les arrangements soumis en réponse à des processus d'achats non concurrentiels </li>
+<li>les approvisionnements pour lesquels les soumissions, les offres ou les arrangements comprendront des renseignements visés par une cote de sécurité supérieure au niveau Protégé B </li>
+</ul>
+<h2>Processus et responsabilité</h2>
+<p>Le service Connexion postel offert par la Société canadienne des postes permet aux fournisseurs d'acheminer leurs soumissions, leurs offres et leurs arrangements aux <abbr title="Unités de réception des soumissions">URS</abbr>. Il s'agit d'un service accessible en ligne qui permet le transfert électronique de fichiers volumineux allant jusqu'au niveau Protégé B (maximum de 1 Go par document, avec possibilité de déposer plusieurs documents en une seule transmission). </p>
+<p>L'utilisation du service Connexion postel ne fera qu'accroître le rôle des <abbr title="Unités de réception des soumissions">URS</abbr> dans le processus de passation de marchés en soutien aux activités du Programme des approvisionnements. Après avoir complété le processus administratif interne, les agents des <abbr title="Unités de réception des soumissions">URS</abbr> sauvegarderont les soumissions, les offres et les arrangements reçus au moyen du service Connexion postel dans GCdocs dans des dossiers d'approvisionnement. L'accès à un dossier spécifique pourra seulement se faire par l'équipe contractuelle dont fait partie l'agent de négociation des contrats qui a lancé le processus.</p>
+<p>En plus de recevoir les soumissions, les offres et les arrangements transmis électroniquement au moyen du service Connexion postel, les <abbr title="Unités de réception des soumissions">URS</abbr> continueront de recevoir les soumissions, les offres et les arrangements transmis par les moyens déjà établis. Les <abbr title="Unités de réception des soumissions">URS</abbr> traiteront et transféreront aux agents de négociation des contrats les soumissions, les offres et les arrangements dans le format dans lequel les documents ont été reçus. Par exemple, une soumission reçue en format papier au comptoir de réception de l'<abbr title="Unités de réception des soumissions">URS</abbr> sera transférée comme à l'habitude par l'<abbr title="Unités de réception des soumissions">URS</abbr> à l'agent de négociation des contrats dans son format papier original, tandis qu'une soumission reçue par voie électronique au moyen du service Connexion postel <strong>sera transférée par l'<abbr title="Unités de réception des soumissions">URS</abbr> à l'agent de négociation des contrats par l'intermédiaire de GCdocs. </strong>L'agent de négociation des contrats recevra un avis par courriel l'informant que des documents ont été déposés dans GCdocs. Les <abbr title="Unités de réception des soumissions">URS</abbr> continueront de fournir aux agents de négociation des contrats un sommaire du nombre de soumissions, d'offres ou d'arrangements reçus au total (y compris ceux transmis au moyen du service Connexion postel) en réponse à chaque demande de soumissions. </p>
+<p>Lorsque les agents de négociation des contrats obligent l'utilisation de modes électroniques pour la transmission des soumissions, offres et arrangements, ces derniers doivent autoriser la transmission par le service Connexion postel ainsi que par télécopieur dans la demande. Cette mesure assurera que les fournisseurs disposent d'une méthode électronique alternative pour présenter leur soumission, leur offre ou leur arrangement dans l'éventualité d'une panne du site Web de Connexion postel. </p>
+<h2>Résultats prévus</h2>
+<p>Cette méthode de transfert électronique permettra : </p>
+<ul>
+<li>d'offrir aux fournisseurs une façon pratique, sécuritaire et flexible de transmettre des soumissions, des offres et des arrangements </li>
+<li>de simplifier les procédures de transmission et de réception de soumissions, d'offres ou d'arrangements, en réduisant les délais et les coûts de livraison </li>
+<li>de maintenir l'intégrité des données reçues par l'intermédiaire du service Connexion postel par une piste de vérification fournie par GCdocs </li>
+<li>de contribuer aux efforts continus déployés par <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> pour moderniser les processus d'approvisionnement afin de les rendre plus simples, moins lourds sur le plan administratif, et d'y incorporer des pratiques répondant à des objectifs socioéconomiques, comme une écologisation des opérations </li>
+</ul>
+<h2>Résumé des modifications </h2>
+<h3> Modifications au Guide des clauses et conditions uniformisées d'achat :</h3>
+<p>En appui à l'<abbr title="avis relatif aux politiques">AP</abbr>-128R1, les modifications ont été apportées aux articles 05, 06, 07 et 08 des instructions uniformisées de 2003, 2006 et 2008 afin que les agents de négociation des contrats puissent proposer aux fournisseurs d'utiliser le service Connexion postel pour transmettre les soumissions, les offres et les arrangements dans le cadre des demandes. </p>
+<h3>Modifications au Guide des approvisionnements :</h3>
+<p>En appui à l'<abbr title="avis relatif aux politiques">AP</abbr>-128R1, les modifications ont été  apportées au Guide des approvisionnements afin que les agents de négociation des contrats puissent proposer aux fournisseurs d'utiliser le service Connexion postel pour transmettre les soumissions, les offres et les arrangements dans le cadre des demandes.</p>
+<h3>Modifications aux modèles uniformisés d'approvisionnement :</h3>
+<p>En appui à l'<abbr title="avis relatif aux politiques">AP</abbr>-128R1, les modifications ont été apportées aux modèles uniformisés d'approvisionnement suivants publiés par la Direction du développement et intégration de la politique stratégique : </p>
+<ul>
+<li>Modèle de demande de soumissions et de contrat subséquent de faible valeur (Simple)</li>
+<li>Modèle de demande de soumissions et de contrat subséquent pour les besoins de complexité moyenne (MC) </li>
+<li>Modèle de demande de soumissions et de contrat subséquent pour les besoins de complexité élevée (CE) </li>
+<li>Modèle de demande d'offres à commandes (DOC) </li>
+<li>Modèle de demande d'arrangements en matière d'approvisionnement (DAMA) </li>
+</ul>
+<h2>Personnes-ressources</h2>
+<p>Les questions liées à l'initiative de service Connexion postel peuvent être envoyées par courriel à l'adresse suivante : <a href="mailto:tpsgc.dgareceptiondessoumissions-abbidreceiving.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.dgareceptiondessoumissions-abbidreceiving.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p>
+<p>Les questions liées à l'avis relatif au politique <abbr title="avis relatif aux politiques">AP</abbr>-128R1, aux modèles uniformisés d'approvisionnement, au Guide des approvisionnements et au Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> peuvent être envoyées par courriel à l'adresse suivante : <a href="mailto:tpsgc.outilsdapprovisionnement-procurementtools.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.outilsdapprovisionnement-procurementtools.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p>
+<p>Les questions concernant l'utilisation de GCdocs pour les activités liées aux dossiers d'approvisionnement peuvent être transmises par courriel à l'adresse suivante : <a href="mailto:tpsgc.dgareceptiondessoumissions-abbidreceiving.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.dgareceptiondessoumissions-abbidreceiving.pwgsc@tpsgc-pwgsc.gc.ca</a>. </p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Sections du Guide des approvisionnements visées</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-bcf177c2bc5db7d8005f3de9f664bfbe">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-4#_4-15">4.15.10: Méthodes pour répondre à une demande de soumissions</a> </li>
+<li class="views-row views-row-2 views-row-even views-row-last">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-4#_4-85">4.85.1: Soumissions, offres ou arrangements en retard</a> </li>
+</ul></div> </div>
+</div>
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-bf3aed29c009e362ee8395b534a1ef02">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2003">ARCHIVÉE : 1.2003: Instructions uniformisées - biens ou services - besoins concurrentiels</a> </li>
+<li class="views-row views-row-2 views-row-even">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2006">ARCHIVÉE : 1.2006: Instructions uniformisées - demande d'offres à commandes - biens ou services - besoins concurrentiels</a> </li>
+<li class="views-row views-row-3 views-row-odd views-row-last">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2008">ARCHIVÉE : 1.2008: Instructions uniformisées - demande d'arrangements en matière d'approvisionnement - biens ou services</a> </li>
+</ul></div> </div>
+</div>
+</div>

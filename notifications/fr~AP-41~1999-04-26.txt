@@ -1,0 +1,94 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-41cont" name="cont"><br/>
+AP - 41 : Processus d'approbation des modifications contractuelles (PAMC)</a></h1> <div class="region region-site-wide-message">
+<section id="AP-41site-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-41site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-41site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 26 avril 1999</h2>
+<p>Le nouveau cadre ministériel de délégation des pouvoirs a été mis en œuvre le 17 juillet 1998. Un des principaux objectifs de ce nouveau cadre d'approbation consiste à promouvoir une pré-planification plus globale de l'ensemble des marchés. On s'attend à ce que ces changements permettent d'améliorer la définition et l'approbation préalable des options et des montants provisionnés pour les modifications prévues.</p>
+<p>Néanmoins, le cadre révisé entraînera également un accroissement du nombre de modifications à approuver par le ministre. À cause des incidences produites sur les ressources par cet accroissement du volume des modifications, il a fallu revoir et mettre à jour le PAMC afin de réaliser un meilleur équilibre entre la nécessité de revoir en profondeur le processus d'une part et, d'autre part, le risque admissible.</p>
+<p>Le nouveau PAMC est le fruit de vastes consultations à l'administration centrale et dans les régions. Il est constitué de deux processus courants à appliquer dans les demandes d'approbation, lorsque les délais ne sont pas urgents et que le processus d'approbation juste-à-temps (PAJAT) pour répondre aux demandes urgentes et exceptionnelles oblige à prendre des décisions dans un délai de 48 heures. Nous expliquerons plus en détails le PAJAT dans AP-37 et AP-37U.</p>
+<h3>Champ d'application</h3>
+<p>À cause de l'accroissement prévu du volume de modifications à faire approuver par le ministre par l'entremise de la Direction générale de la vérification et de l'examen (DGVE), on a mis au point deux processus normalisés afin d'éliminer les goulots d'étranglement possibles et de veiller à prendre des décisions ponctuelles et efficaces. Alors qu'un processus prévoit un examen obligatoire de la DGVE et de l'avocat général principal (AGP), l'autre processus n'exige pas cet examen. On s'attend à ce que ces nouvelles procédures<strong> permettent non seulement de réduire le nombre de modificatifs contractuels à ratifier</strong>, mais aussi de donner le plus de temps possible pour prendre de nouvelles dispositions contractuelles sans porter atteinte aux activités du client ou au projet dans l'éventualité où une demande de modification est refusée.</p>
+<p><strong><em>On ne doit pas faire appel au processus d'approbation de manière à placer le fondé de pouvoir d'approbation dans une situation intenable en ce qui concerne la demande de modification.</em></strong></p>
+<p>La DGVE et l'AGP continueront d'assurer les services complets d'examen pour les Plans d'achat officiels et les contrats soumis à l'approbation du SMA de la DGSA ou d'un fondé de pouvoir à un échelon supérieur.</p>
+<p><strong>La DGVE et l'AGP examineront</strong>les demandes de modification de contrat d'après les critères suivants :</p>
+<ol type="a">
+<li>modificatifs contractuels nécessitant l'approbation du Conseil du Trésor;</li>
+<li>modificatifs contractuels nécessitant l'approbation du SMA, du SM, du ministre et du Conseil du Trésor (seulement lorsqu'ils comportent des éléments de ratification);</li>
+<li>modificatifs contractuels pour les marchés de biens et de services et de télécommunications dont la valeur globale est supérieure à 5 M $;</li>
+<li>modificatifs contractuels pour les marchés de services d'architecture et de génie et de travaux de construction dont la valeur globale est supérieure à 1 M $.</li>
+</ol>
+<p>La DGVE et l'AGP examineront les autres présentations portant sur des modificatifs contractuels sur demande.</p>
+<p>La DGVE et l'AGP n'examineront pas les demandes de modifications dont la valeur est inférieure aux seuils de 5 M $ et de 1 M $ précisés ci-dessus.</p>
+<p>En décidant s'il faut faire intervenir ou non la DGVE et l'AGP, les DG et DGR doivent (de concert avec les gestionnaires du CQC) tenir compte des facteurs de risque ou de vulnérabilité suivants :</p>
+<ul>
+<li>dérogations au Plan d'achat ou au Relevé d'examen du CEA ou du CSA;</li>
+<li>dérogations à la politique du CT ou de TPSGC;</li>
+<li>changements apportés aux Conditions générales et aux Conditions générales supplémentaires;</li>
+<li>observations du conseiller juridique;</li>
+<li>préoccupations soulevées par l'analyste des coûts;</li>
+<li>possibilité de créer une relation patronale-salariale;</li>
+<li>frais de transition;</li>
+<li>paiements supplémentaires;</li>
+<li>plaintes déposées auprès du ECCE ou d'autres organismes;</li>
+<li>attention des médias;</li>
+<li>autres facteurs de risque ou de vulnérabilité.</li>
+</ul>
+<h3>Processus d'approbation des modificatifs contractuels (PAMC)</h3>
+<p>Le nouveau processus d'approbation des modificatifs est constitué de trois éléments :</p>
+<ul>
+<li>un processus d'approbation clair et normalisé, prévoyant des délais fixes;</li>
+<li>une démarche rationalisée en matière de documentation;</li>
+<li>le PAJAT pour répondre aux impératifs urgents, lorsqu'il faut prendre une décision plus rapidement que ce que permet le système d'approbation normal. Veuillez consulter AP-37 et AP-37U pour des détails complets.</li>
+</ul>
+<p>La sélection judicieuse d'un processus de modification adéquat permet de réduire au minimum le volume des modifications, de prendre des décisions efficaces et ponctuelles et d'éviter de donner éventuellement un effet rétroactif aux différents documents.</p>
+<p>Les délais maximums suggérés sont prévus pour chaque niveau d'approbation.</p>
+<p>Voici le cheminement et les délais en ce qui concerne les modificatifs contractuels soumis au processus d'examen de la DGVE et de l'AGP :</p>
+<p>Directeur général au DGVE* (deux jours pour les modificatifs simples et cinq jours pour les modificatifs complexes);</p>
+<p>DGVE au AGP (deux jours);</p>
+<p>AGP au SMA (un jour);</p>
+<p>SMA au SM (cinq jours);</p>
+<p>SM au ministre (cinq jours).</p>
+<p><strong>Remarque : </strong>Le processus d'examen de la DGVE prévoit des consultations avec la Direction générale des communications.</p>
+<p>Le délai maximum pour les demandes de modifications soumises au processus d'examen de la DGVE et de l'AGP est fixé à trois semaines et trois jours. Toutefois, ce délai doit être souple, à cause du degré de complexité propre à chaque modification, de l'impact imprévu des facteurs externes, des délais à respecter pour donner suite aux demandes de renseignements complémentaires et des autres délais.</p>
+<p>Voici le cheminement et les délais en ce qui concerne les demandes de modifications qui ne sont pas soumises au processus d'examen de la DGVE et de l'AGC :</p>
+<p>Directeur général au SMA (un jour);</p>
+<p>SMA au SM (cinq jours);</p>
+<p>SM au ministre (cinq jours).</p>
+<p>Le délai prévu pour le traitement des demandes de modifications qui ne sont pas soumises au processus d'examen de la DGVE et de l'AGC est fixé à deux semaines, sous réserve des conditions exposées ci-dessus en ce qui concerne la souplesse.</p>
+<p>Il faut préciser que pour les soumissions non soumis à l'examen de la DGVE et de l'AGC, ce processus entraînera probablement un examen moins indépendant de chaque cas. Les employés des secteurs et des régions pourront, s'ils le souhaitent, compenser cet effet en mettant davantage l'accent sur les processus d'examen internes. Ils pourront notamment instituer, à titre obligatoire, une analyse des coûts et (ou) des examens juridiques sectoriels pour toutes les demandes de modifications.</p>
+<p>Toutes les demandes de modifications examinées par la DGVE sont transmises à l'AGC pour examen juridique final. Dans le cas des modifications à signer par l'AGC, il est impératif qu'elles soient d'abord examinées et signées par le représentant juridique compétent du Secteur.</p>
+<h3>Documentation</h3>
+<p>Le PAMC s'applique à<strong>toutes</strong>les demandes de modifications à approuver aux échelons supérieurs à celui du directeur général.</p>
+<p>Les demandes de modificatif contractuel à faire approuver par le CT doivent toujours être préparées sous forme bilingue, au moyen du formulaire DSS-MAS 1151.</p>
+<p>On peut se servir du Formulaire d'approbation des modifications (FAM) pour faire approuver les modifications par le directeur général et par les échelons inférieurs, à la discrétion de chaque secteur. Pour les approbations à délivrer à un échelon supérieur à celui du directeur général, on doit réunir toutes les signatures demandées dans les deux pages prévues à cette fin.</p>
+<p>On a mis au point le FAM pour faciliter la consignation des demandes de modification. Ce formulaire existe en feuille de style Ami Pro (AAF10_98.STY) et en original Word Pro (AAF10_98.MWP); il a été distribué parmi l'ensemble des Régions et des Secteurs pour être diffusé sur tous les postes de travail des responsables des achats avant le 1<sup>er</sup>mai 1999.</p>
+<p><strong>Remarque : </strong>Nous avons fait savoir à la Direction des systèmes d'approvisionnement que nous souhaitions que le FAM soit intégré dans le système ABE. Lorsqu'on aura soumis à des essais fructueux une version de ce formulaire après avoir mis en œuvre la politique, on pourra amorcer les entretiens sur la viabilité, le coût et les délais d'intégration de ce formulaire dans le système ABE.</p>
+<p>On doit verser le FAM dans une chemise à dossier standard,<strong>sans</strong>les pièces justificatives. Chaque chemise doit aussi comprendre deux feuilles permettant de réunir les signatures nécessaires.</p>
+<p>La première feuille de signature permet de noter les approbations délivrées par le directeur général et les fondés de pouvoir, jusqu'au ministre (s'il y a lieu).</p>
+<p>La deuxième feuille de signature permet de réunir la signature de l'agent de négociation des contrats, jusqu'au niveau du directeur général (y compris);</p>
+<p><strong>Remarque : </strong>Les directeurs généraux doivent signer la première ou la deuxième feuille seulement.</p>
+<p>Pour les soumissions à approuver à un échelon supérieur à celui du SMA, toutes les signatures (y compris celles des fondés de pouvoir aux échelons inférieurs à celui du DG) doivent continuer de figurer dans la présentation.</p>
+<p>(Personne-ressource: <strong>S/O</strong>)</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

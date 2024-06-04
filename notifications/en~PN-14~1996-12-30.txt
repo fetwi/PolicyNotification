@@ -1,0 +1,94 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<p>On December 19, 1996, Minister Diane Marleau, with Mr. André Lafond, President of the Shipbuilding Association of Canada, announced amendments to the <acronym title="Public Works and Government Services Canada">PWGSC</acronym> policy on Ship Repair, Refit and Modernization which will promote greater competition for federal government ship repair, refit and modernization contracts.</p>
+<p>The changes to the policy come into effect immediately. They were developed jointly by the federal government and Canada's shipbuilding industry in response to a proposal from the Shipbuilding Association of Canada (SAC) to Public Works and Government Services Canada (PWGSC).</p>
+<p>Previously, contracts above $5 million were either competed within Eastern Canada or Western Canada, depending on a vessel's area of origin. Under the policy, Eastern Canada includes Atlantic Canada, Quebec and Ontario. Western Canada includes all shipyards west of Ontario, and in the Yukon and Northwest Territories.</p>
+<p>The revised policy eliminates the $5 million, $200,000 thresholds and $40,000 thresholds. All projects above $25,000 will now be competed across Eastern Canada or Western Canada, depending on the home port of the vessel.</p>
+<p>In addition, vessel transfer costs -- fuel costs and, in some cases, the cost of transporting the delivery crew back to the home port -- will be included as an evaluation item when soliciting competitive bids for ship repair and refit work. These costs were not previously considered in the evaluation process because competition was confined to limited geographic areas.</p>
+<p> The revised policy statement, which will be included in an upcoming amendment to the Supply Manual, is attached as <strong>Annex A</strong>.</p>
+<p>Clause A0240T, to be used to establish vessel transfer costs is attached as <strong>Annex B</strong>. This clause will be included in an upcoming amendment to the SACC Manual.</p>
+<p>Contact: Tom Simper, Supply Policy Directorate, 819-956-0881.</p>
+<h2>Annex A</h2>
+<h3>Shipbuilding, Repair, Refit and Modernization</h3>
+<p>5.104 (19/12/96) The <acronym title="Public Works and Government Services Canada">PWGSC</acronym> procedures for sourcing suppliers for work on Canadian government vessels derive from the government's <strong>Shipbuilding Procurement Policy</strong>. The objective of the policy is to encourage competition amongst Canadian shipyards. For all competitive shipbuilding, repair and modernization requirements as defined in the Shipbuilding Procurement Policy, subject to AIT, contracting officers must ensure that the details of the restrictions or practices are highlighted in the Notice of Proposed Procurement (NPP)/solicitation documentation.</p>
+<p>The <strong>NPP/solicitation documentation</strong> must contain the following statement:</p>
+<blockquote><p>"The sourcing strategy relating to this procurement will be limited to suppliers in the (as applicable) Area of Origin in accordance with the Shipbuilding Procurement Policy."</p>
+</blockquote>
+<p>For procurement below $2 million subject to the Shipbuilding Procurement Policy, the Contract Award Notice (CAN) must also contain these details.</p>
+<p>For procurement below $25,000, competition may be limited to the Province or Territory of Origin of the vessel.</p>
+<p><em>The following procedures (5.105 to 5.110) apply only when the procurement is not subject to NAFTA or <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>. NAFTA Chapter 10, Annex 1001.2b, paragraph 1.(a) and <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> Annex 4 exempts "shipbuilding and repair".</em></p>
+<p>5.105 (19/12/96) Definitions specific to the sourcing strategy of shipbuilding, ship repair,refit and modernization procurements are as follows:</p>
+<ol type="a">
+<li>Origin of the vessel - the operational home port of the vessel.</li>
+<li>Area of Origin - the following Areas of Origin are recognized:<br/>
+						Eastern Canada: Atlantic Canada (Newfoundland and Labrador, Prince Edward Island, Nova Scotia and New Brunswick), Quebec and Ontario.<br/>
+						Western Canada: All shipyards west of Ontario and those in the Yukon, Nunavut and Northwest Territories.</li>
+<li>Province or Territory of Origin - the following Provinces or Territories of Origin are recognized:
+<ul>
+<li>Newfoundland</li>
+<li>Nova Scotia</li>
+<li>New Brunswick</li>
+<li>Prince Edward Island</li>
+<li>Quebec</li>
+<li>Ontario</li>
+<li>Manitoba</li>
+<li>Saskatchewan</li>
+<li>Alberta</li>
+<li>British Columbia</li>
+<li>Northwest Territories</li>
+<li>Yukon</li>
+</ul>
+</li>
+</ol>
+<p>5.106 (19/12/96) For new construction procurement over $25,000, competitions are to be conducted on a nation-wide basis when the following conditions are present:</p>
+<ol type="a">
+<li>The statement of requirement is sufficiently defined to permit assessment of competing bids by common standards.</li>
+<li>Available shipyards, both in Eastern Canada and in Western Canada, have the technical capability to perform the work.</li>
+<li>The vessel being procured is of a type that can be transferred and for which contingency costs are not unrealistic in relation to the total price.</li>
+</ol>
+<p><em>Contingency costs are all related costs and the time involved in transferring a vessel from one shipbuilding area to the destination, and are taken into account when assessing the bids.</em></p>
+<p>5.107 (19/12/96) For new construction procurement over $25,000, competitions are to be conducted within the Area of Origin when all conditions except 5.106(c) are present.</p>
+<p>5.108 (19/12/96) For ship repair, refit and modernization requirements over $25,000, competitions are to be conducted within the Area of Origin of the vessel, provided adequate competition exists.</p>
+<p>If adequate competition (two or more bidders) does not exist, the requirement may still remain in the Area of Origin provided a satisfactory contractual agreement can be reached with the one available capable shipyard. If a satisfactory contractual agreement cannot be reached, the competition is to be extended on a nation-wide basis.</p>
+<p>Contingency costs for ship repair, refit and modernization requirements shall be only those costs which are directly related with the transfer of the vessel as defined below:</p>
+<ol type="a">
+<li>For vessels that can be transported unmanned: Solicitation documents will specify the pick-up point and the delivery point. Bidders will be required to provide a cost to transport the vessel from the pick-up point and once the work is completed, a cost to transport the vessel to the delivery point. In cases where the Government will retain responsibility for delivery of the vessel to and from the shipyard/shiprepair facility and the vessel's homeport, using commercial towing, railway, highway transportation or other suitable means, solicitation documents will identify the cost of such transportation as the vessel transfer cost that will be added to the evaluation price. (See SACC clause A0240T)</li>
+<li>For vessels that are manned for transport: Solicitation documents will identify the contingency cost that will be added to the evaluation price for the transfer of the vessel and its minimum delivery crew based on the geographical distance to and from the vessel's home port location and the shipyard/shiprepair facility where the work will be undertaken, and:<br/>
+<ol type="i">
+<li>The fuel cost based on the current market price for fuel and the vessel's fuel consumption at its most economical speed.</li>
+<li>For unmanned refits, transportation costs for the minimum delivery crew base on the latest Treasury Board directives (see SACC clause A0240T).</li>
+<li>For manned refits, contingency costs shall only include the fuel costs for transferring the vessel and shall not include any costs for transporting the crew (see SACC clause A0240T).</li>
+</ol>
+</li>
+</ol>
+<p>5.109 <strong>Deleted</strong> (19/12/96)</p>
+<p>5.110 (19/12/96) Procurements by direct allocation of contracts to specific shipyards are to be made only in cases where conditions permitting nation-wide, area, and Province or Territory competitions are not present. Such cases will arise when one or more of the following conditions exists:</p>
+<ol type="a">
+<li>Only one shipyard is capable of performing the work.</li>
+<li>Performance of the work necessitates access to particular facilities that are adjacent to one shipyard.</li>
+<li>The statement of requirement is not sufficiently defined to permit assessment of competitive bids by common standards.</li>
+<li>Emergency requirements necessitate use of the nearest yard capable of performing the work.</li>
+<li>Special operational considerations of the client limit movement of the vessel beyond a specified location.</li>
+</ol>
+<h2>Annex B</h2>
+<h3>REMARKS:</h3>
+<p>1. Procurement Officers shall use the latest table (Eastern Canada or Western Canada) approved by the Director, Marine Directorate, to prepare the list of shipyard/shiprepair facilities, as required under 3.0 of this clause, where the Work could potentially be undertaken. Procurement Officers are to include from the table the applicable vessel transfer costs for each shipyard/shiprepair facility in the list based on the vessel's home port location and based on whether the Work is under a manned refit. Where the table does not provide a specific home port for the vessel or the name of a potential shipyard/shiprepair facility where Work could potentially be undertaken, Procurement Officers must contact the Director, Marine Directorate (Place du Portage Phase III - 6C2, Phone: 819-956-0664/ Fax: 819-956-0897) to obtain the necessary data.</p>
+<p>2. Procurement Officers are to enter the number of calendar days in section 2 (b).</p>
+<h4>A0240T VESSEL TRANSFER COSTS</h4>
+<p>1. The evaluation price shall include the cost for transferring the vessel from its home port to the shipyard/shiprepair facility where the majority of the Work will be undertaken and the cost of transferring the vessel to its home port following completion of the Work, in accordance with the following:</p>
+<p>2. (a) The Bidder shall enter below the location of the shipyard/shiprepair facility where it proposes to undertake the Work together with the applicable vessel transfer cost from the list provided under 3.0 of this clause:</p>
+<h5>BIDDER TO ENTER:</h5>
+<p>Proposed shipyard/shiprepair facility: _____</p>
+<p>Applicable vessel transfer cost: _____</p>
+<p>(b) Should the list in 3.0 of this clause not provide the shipyard/shiprepair location where the bidder intends to undertake the Work, then the bidder must advise the Contracting Authority, in writing, no later than <strong>(Procurement Officer to enter number of calendar days in this fill-in and delete this statement)</strong> days prior to the bid closing date, of its proposed location for undertaking the Work. The Contracting Authority will acknowledge within _____ calendar days to the bidder, in writing, the location of the shipyard/shiprepair and confirm the applicable vessel transfer cost.</p>
+<p><strong>A proposal that specifies a location for undertaking the Work which is not in the list under 3.0 of this clause, and for which a notification in writing has not been received by the Contracting Authority no later than _____ days</strong> (Procurement Officer to enter number of calendar days in this fill-in and delete this statement)<strong> prior to the bid closing date, shall be deemed to be non-responsive.</strong></p>
+<p><strong>3.0 List of shipyard/shiprepair facilities and applicable vessel transfer costs:</strong></p>
+<p>Note 1: Transfer costs in the case of vessels transferred using a government delivery crew include the fuel cost at the vessel's most economical speed of transit and crew transportation costs for the delivery crew based on the location of the vessel's homeport and the shipyard/shiprepair facility. Crew transportation costs do not include any members of the delivery crew who remain at the shipyard/shiprepair facility in order to discharge project responsibilities related to the vessel being transferred.</p>
+<p>Note 2: Transfer costs in the case of vessels transferred unmanned by either commercial towing, railway, highway or other suitable means of transportation shall be (i) included as part of the bidder's price proposal in the case where the bidder is responsible for the transfer, or (ii) identified as the applicable vessel transfer cost, as given in the list below, in the case where government is responsible for the transfer.</p>
+<p>(Procurement Officers are to enter the list of shipyard/shiprepair facilities where the Work could potentially be undertaken together with the applicable vessel transfer costs based on the latest approved table issued by the Marine Directorate and DELETE THIS STATEMENT)</p>
+<p>Shipyard/shiprepair facility<br/>
+				__________________________</p>
+<p>Applicable vessel transfer cost<br/>
+				__________________________</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

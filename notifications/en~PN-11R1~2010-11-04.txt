@@ -1,0 +1,390 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Introduction</h2>
+<p>The purpose of Policy Notification PN-11R1 is to update the Vendor Performance Policy (<abbr title="Vendor Performance Policy">VPP</abbr>) issued in 1996. <abbr title="Public Works and Government Services Canada">PWGSC</abbr> has clarified the purpose of the <abbr title="Vendor Performance Policy">VPP</abbr>, which is to mitigate risks for future contracts, and has further standardized the processes and procedures for the approval and application of a Vendor Performance Corrective Measure (<abbr title="Vendor Performance Corrective Measure">VPP</abbr>). The fair, open and transparent treatment of vendors will continue to be a fundamental principle of the <abbr title="Vendor Performance Policy">VPP</abbr>.</p>
+<p>Following the effective date of this <abbr title="Policy Notification">PN</abbr> there will be a trial period until March 31, 2011 during which no consequences against vendors under the revised <abbr title="Vendor Performance Policy">VPP</abbr> will be enforced. As of April 1, 2011, the revised <abbr title="Vendor Performance Policy">VPP</abbr> will be finalized and fully in effect.</p>
+<p>For the purpose of clarification it should be noted:</p>
+<ol class="double-space">
+<li>The revised <abbr title="Vendor Performance Policy">VPP</abbr> is in effect as of November 4, 2010 for:<br/>
+<ul class="single-space">
+<li>sole source contracts awarded on or after that date; and</li>
+<li>contracts awarded pursuant to competitive solicitations issued on or after that date.</li>
+</ul>
+</li>
+<li>The provisions of the <abbr title="Vendor Performance Policy">VPP</abbr> (1996) set out in the 2010-01-11 version of the Supply Manual remain in effect for:<br/>
+<ul class="single-space">
+<li>sole source contracts awarded prior to November 4, 2010; and</li>
+<li>contracts awarded pursuant to competitive solicitations issued prior to November 4, 2010.</li>
+</ul>
+</li>
+<li>The <abbr title="Vendor Performance Policy">VPP</abbr> applies to <abbr title="Public Works and Government Services Canada">PWGSC</abbr>-Acquisitions Branch as a common service provider.</li>
+</ol>
+<h2>Background</h2>
+<p>The application of corrective measures against vendors that do not fulfill their contractual obligations was introduced under the previous version of the <abbr title="Vendor Performance Policy">VPP</abbr>. Such measures have an impact on a vendor's ability to bid on future opportunities with, or receive contracts from <abbr title="Public Works and Government Services Canada">PWGSC</abbr>. Acquisition Branch's review of the policy indicated the need for clarification regarding processes, roles and responsibilities in assessing and potentially applying a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>. The review also underscored the need to position the role of the <abbr title="Vendor Performance Policy">VPP</abbr> in the overall context of procurement risk management.</p>
+<p>From the review it was noted that the following elements should be addressed: </p>
+<ol class="double-space" type="a">
+<li>a tool to assist the procurement community with assessing the need for applying a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>;</li>
+<li>the specific circumstances that will result in a note on a vendor in the Vendor Information Management (<abbr title="Vendor Information Managemen">VIM</abbr>) system;</li>
+<li>the specific <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> consequences and how the performance history in <abbr title="Vendor Information Management">VIM</abbr> will be taken into account;</li>
+<li>a framework for developing a regional or sector program tailored to a commodity or commodity groupings; and</li>
+<li>the specific steps in assessing the need for a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> and a rating approach.</li>
+</ol>
+<p>The key revisions to the previous version of the policy are as follows:</p>
+<ol class="double-space" type="a">
+<li>A conditional amendment, for the purpose of the <abbr title="Vendor Performance Policy">VPP</abbr>, is defined as an amendment issued for operational reasons in lieu of a termination for default because of a contractual poor performance issue.</li>
+<li>A note on a vendor in <abbr title="Vendor Information Management">VIM</abbr> will result from contracts with terminations for default, including partial terminations, and/or conditional amendments. (<abbr title="Public Works and Government Services Canada">PWGSC</abbr> reserves the right to put a note in <abbr title="Vendor Information Management">VIM</abbr> for other significant issues pertaining to the performance of a contract. However, this is not used with the <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment and Recommendation form and process.) </li>
+<li>Terminations for default, including partial terminations, and conditional amendments trigger the assessment process at the end of the contract to determine whether a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> will be applied.</li>
+<li>A <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment and Recommendation form has been developed. This form sets out the steps for assessing the need for a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>. These steps include rating the impact of the performance issue(s) for the contract where there has been termination(s) for default and/or conditional amendments. The categories of impact are: minor, medium or major. This will become part of the vendor's history (a note in <abbr title="Vendor Information Management">VIM</abbr>). If a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> is applied, it will also become part of the history. The history will be included in assessing the need for a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>.</li>
+<li>There are now only two types of <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>s for the purpose of the <abbr title="Vendor Performance Policy">VPP</abbr>: debarment and conditions. Suspension is no longer available.</li>
+<li>The <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> consequences are now specified as follows. Within the last six years:<br/>
+<ol class="single-space" type="i">
+<li>for the first <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>, there will be a 6 month debarment or conditions.</li>
+<li>for the second <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>, there will be a 18 month debarment or conditions.</li>
+<li>for the third <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>, there will be a 36 month debarment or conditions.</li>
+</ol>
+</li>
+<li>A framework has been developed to assist with developing a customized sector or regional program for a commodity or commodity grouping, where applicable.</li>
+<li><abbr title="Vendor Information Management">VIM</abbr> is now to be checked for <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>s at bid closing prior to bid evaluation as well as before contract award and contract amendments to confirm whether any <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>s exist.</li>
+<li>The contents of notes and information on <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> will be removed from <abbr title="Vendor Information Management">VIM</abbr> after six years instead of seven.</li>
+</ol>
+<h3>Revisions to the Supply Manual</h3>
+<p>The attached changes to the Supply Manual (Annex A) will be included in a future release of the Supply Manual.</p>
+<p>Updated Supply Manual sections 1.5.1, 3.100, 3.110, 5.55, 8.70, and 8.180; and Annexes 8.4, 8.6, 8.6a, 8.7 and 8.8 are attached.</p>
+<h3><abbr title="Electronic Forms">ELF</abbr> Documents</h3>
+<p>The two following documents are available on Electronic Forms <abbr title="Electronic Forms">ELF</abbr>:</p>
+<ul>
+<li>Direction for Adding Notes in <abbr title="Vendor Information Management">VIM</abbr> and Authorization to Proceed with <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment and Recommendation</li>
+<li><abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment and Recommendation</li>
+</ul>
+<h2>Contact Person </h2>
+<p>For more information, contact Alexandre Tremblay, within the Policy, Risk, Integrity and Strategic Management Sector at 819-956-0171 or by e-mail to: <a href="mailto:alexandre.tremblay@tpsgc-pwgsc.gc.ca" rel="external">alexandre.tremblay@tpsgc-pwgsc.gc.ca</a>.</p>
+<h2>Annex A - Revisions to the Supply Manual</h2>
+<p>Changes are effective immediately and will be included in a future release of the Supply Manual.</p>
+<h3>1.5.1 Organization of the Manual</h3>
+<p><strong>(2010-11-04)</strong></p>
+<p>Changes to this section are identified in bold in the following text:</p>
+<p>h) <strong>Chapter 8</strong>, Contract Management, offers <strong>[Delete: a quantity of] </strong>information regarding contract management during the contract. Non-exhaustive examples of this information are contract performance, progress payments, subcontracting, warranty work, disputes, terminations and <strong>the Vendor Performance Policy</strong>.</p>
+<h3>3.100 Vendor Performance Corrective Measures</h3>
+<p><strong>(2010-11-04)</strong></p>
+<p>Changes to this section are identified in bold in the following text:</p>
+<p>For more information on the Vendor Performance Policy, contracting officers should consult <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-8#_8-180" title="For more information, see 8.180.">8.180</a>. For more information on <strong>rejection of bids/offers/arrangements based on Vendor Performance Corrective Measures</strong>, see <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-5#_5-55" title="For more information, see 5.55.">5.55</a>.</p>
+<h3>3.110 Legal Services</h3>
+<p><strong>(2010-11-04)</strong></p>
+<p>This section remains unchanged except for the inclusion of article c. xiii, which is identified in bold in the following text:</p>
+<p>(c) Contracting officers must seek legal advice:</p>
+<p class="indent2"><strong>(xiii) for all conditional amendments (See 8.180.) </strong></p>
+<h3>5.55 Rejection of Bids/Offers/Arrangements [Title changed] </h3>
+<p>Changes to section 5.55 are identified in bold in the following text:</p>
+<h4>5.55.1 Role of the Contracting Officer</h4>
+<p><strong>(2010-11-04)</strong></p>
+<ol class="double-space" type="a">
+<li>The contracting officer<strong> must</strong> ascertain whether a bidder/offeror/supplier selected as a result of a competitive process or a supplier being considered for a sole source contract, is subject to any Vendor Performance Corrective Measure (<abbr title="Vendor Performance Corrective Measure">VPCM</abbr>), and <strong>must</strong> determine if that measure affects the procurement the contracting officer is working on. <strong>[Delete:  If so, then it may be that the contract award cannot be made or that there are conditions to be imposed with the award.]</strong></li>
+<li><strong>Bids/offers/arrangements received from vendors debarred from doing any business with <abbr title="Public Works and Government Services Canada">PWGSC</abbr> will not be considered for evaluation. Bids/offers/arrangements from vendors who are debarred in part will not be considered for evaluation, if the bids/offers/arrangements pertain to procurements from which the vendor has been debarred. Where a vendor is subject to conditions that have not been met, any bid/offers/arrangements from that vendor will not be considered for evaluation.</strong></li>
+<li><strong>A decision to reject a bid/offer/arrangement because of a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> can be made at any time up to </strong><strong>the awarding of a contract or the issuance of a standing offer or a supply arrangement. <abbr title="Vendor Information Management">VIM</abbr> is to be checked for a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> at closing for competitive solicitations and prior to contact for sole sourcing. In addition, <abbr title="Vendor Information Management">VIM</abbr> is to be rechecked prior to the awarding of a contract or the issuance of a standing offer or a supply arrangement. </strong></li>
+<li>When accessing the <abbr title="Vendor Information Management">VIM</abbr> file on a bidder/offeror/supplier, the contracting officer will have a clear notice of any <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>. The Automated Buyer Environment (<abbr title="Automated Buyer Environment">ABE</abbr>) will not interfere with the awarding of a contract or the issuance of a standing offer or a supply arrangement to a bidder/offeror/supplier subject to a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>. <strong>[Delete:  As the <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> details area is limited to about 250 characters, additional information may be contained on <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> type comments, which should also be consulted.]</strong></li>
+</ol>
+<h4>5.55.5 Authority to Reject a Bid/Offer/Arrangement</h4>
+<p><strong>(2010-11-04)</strong></p>
+<p>The authority to reject a bid/offer/arrangement, under the <strong>applicable </strong>section <strong>[Delete: on Vendor Performance contained in] of the</strong> <em>Standard Acquisition Clauses and Conditions</em> Manual standard instructions <a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/1/2003" title="For more information, see under 2003.">2003</a>, <a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/1/2004" title="For more information, see under 2004.">2004</a>, <a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/1/2006" title="For more information, see under 2006.">2006</a>, <a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/1/2007" title="For more information, see under 2007.">2007</a> and <a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/1/2008" title="For more information, see under 2008.">2008</a>, rests with the contracting officer responsible for evaluating the bids/offers/arrangements, except that in the case of bids/offers/arrangements being considered for rejection in accordance with 1.(<strong>c</strong>)(ii), (iii) or (iv), the authority to reject a bid/offer/arrangement rests with the appropriate director general.</p>
+<h4>5.55.10 Notice to the Bidder/Offeror/Supplier</h4>
+<p><strong>(2010-11-04)</strong></p>
+<ol class="double-space" type="a">
+<li>Notice of intent to reject a bid/offer/arrangement under the above-mentioned section should be given by telephone, and followed by confirming facsimile or letter. <strong>[Delete: except that a bidder/offeror/supplier excluded under the section on vendor performance contained in all <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual standard instructions will not be notified.] </strong>Notice of intent is considered to have been received by the rejected bidder/offeror/supplier at the time of the telephone call. The person making the call should note on the file the date and time of the call, and the person spoken to.</li>
+<li>The notice of intent must set out the facts and the reasons for the decision to reject the bid/offer/arrangement. <strong>[Delete: For example, when a bidder/offeror/supplier with a record of persistent lateness is excluded from a procurement where timeliness is critical, in accordance with 1.(d) of the section on vendor performance contained in all <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual standard instructions, the notice must cite the contracts on which the bidder/offeror/supplier was late (facts) and state that this record shows an unacceptable risk in light of the critical nature of the time requirement in the present procurement (reason).] </strong>However, when a bid/offer/arrangement is being rejected in accordance with 1.(b) or (c) of <strong>[Delete: that] the applicable </strong>section <strong>of the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual standard instructions</strong> because of a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> that is in place, it is sufficient to reference that <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>.</li>
+</ol>
+<h4>5.55.15 Review </h4>
+<p><strong>(2010-11-04)</strong></p>
+<ol class="double-space" type="a">
+<li>A bidder/offeror/supplier, except a bidder/offeror/supplier excluded in accordance with 1.(b) of the <strong>applicable </strong>section of <strong>[Delete: on Vendor Performance contained in all]</strong> the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual standard instructions, may request that the decision to reject the bid/offer/arrangement be reviewed by the Assistant Deputy Minister, Acquisitions Branch (<abbr title="Assistant Deputy Minister, Acquisitions Branch">ADM/AB</abbr>). It is entirely in the <abbr title="Assistant Deputy Minister, Acquisitions Branch">ADM/AB</abbr>'s discretion, whether the bid evaluation and contract award process will be held up, to give time to review the decision. </li>
+<li>A review by the <abbr title="Assistant Deputy Minister, Acquisitions Branch">ADM/AB</abbr> will result in an investigation, and a decision. Such a decision can have an effect beyond the particular procurement from which the bidder/offeror/supplier has been rejected. When the decision has been made, the bidder/offeror/supplier should be informed of the results, in writing.</li>
+</ol>
+<h2>8.70 Contract Administration Considerations</h2>
+<p>This section remains unchanged except for articles 8.70.5 and 8.70.10.</p>
+<p>Changes to articles 8.70.5 and 8.70.10 are identified in bold in the following text: </p>
+<h3>8.70.5 Amending Contracts</h3>
+<p><strong>(2010-11-04)</strong></p>
+<ol class="double-space" type="a">
+<li>Contract amendments are used to formally delete, modify, or introduce new conditions to the original contract. The need for an amendment may arise from continuing negotiations, changes in requirements, or to deal with an unforeseen circumstance. When amending a contract, Canada's best interest should be considered. Amendments are subject to agreement by both parties to the contract. <strong>An amendment cannot be issued where the vendor is subject to a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>.</strong> </li>
+<li><strong>In addition to the above regarding contract amendment in general, for the purpose of the Vendor Performance Policy (<abbr title="Vendor Performance Policy">VPP</abbr>), a conditional amendment is a specific type of contract amendment. It is used for operational reasons in lieu of a termination for default when there is a performance issue for which the vendor is primarily responsible. (See 8.180.10 for more information on conditional amendments, as well as 8.135.15 and Annex 8.4 on termination for default.) As with terminations for default, conditional amendments will trigger a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Impact Assessment and Recommendation process under the <abbr title="Vendor Performance Policy">VPP</abbr>. (See 8.180.)</strong></li>
+<li>The amendment format will follow the form of the original contract. The amendment should identify, by using complete clauses, any changes, additions, conditions or deletions.</li>
+<li>A single amendment may contain many individual changes.</li>
+<li>To reduce administrative costs, contracting officers and client departments should combine as many individual changes as possible into each amendment. For example, multiple design changes or deviations can be amended together.</li>
+<li>Amendments should receive the same distribution as the original contract. </li>
+</ol>
+<h3>8.70.10 Approval of Contract Amendments</h3>
+<p><strong>(2010-11-04)</strong></p>
+<ol class="double-space" type="a">
+<li>Amendments, which are making a significant change, must be approved at the appropriate authority level, except for options which are changes pre-approved or allowed for in the existing approval(s).</li>
+<li><strong>Legal services must be consulted for conditional amendments.</strong> </li>
+<li>For more information on forms of amendment requests and the appropriate approval levels, see <a href="https://buyandsell.gc.ca/policy-and-guidelines/supply-manual/section" title="For more information, see Chapter 6.">Chapter 6</a>.</li>
+</ol>
+<h2>8.180 Vendor Performance Policy </h2>
+<p>This section is replaced by the following text:</p>
+<h3>8.180.1 Introduction </h3>
+<p><strong>(2010-11-04)</strong></p>
+<ol class="double-space" type="a">
+<li>The purpose of the Vendor Performance Policy (<abbr title="Vendor Performance Policy">VPP</abbr>) is to assist the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> procurement community in mitigating procurement risk for future contracts.</li>
+<li>Vendor performance issues are an important component of procurement risk management. As shown in the Process Chart on the Risk Management Approach to Vendor Performance (see <strong>Annex 8.6</strong>), those issues have to be considered at all four phases of the contract management process.</li>
+<li>There are a number of tools for improving client service and mitigating procurement risk to Canada. They include clear requirements in bid solicitations and contracts, stop work orders, technical audits and contract amendments. The <abbr title="Vendor Performance Policy">VPP</abbr> is another such tool.</li>
+<li>The <abbr title="Vendor Performance Policy">VPP</abbr> focuses on using a vendor's performance information from closed contracts to assess the need for applying a corrective measure. These measures allow for the rejection of bids on future opportunities with <abbr title="Public Works and Government Services Canada">PWGSC</abbr>.</li>
+<li>In addition, the general information on the nature and extent of performance problems gained during the contract and post contract phases should be used in the other phases. In the pre-contractual phase this information will assist in the development of the procurement risk strategy. During that phase it will also assist with assessing the need for a customized or tailored program for managing vendor performance on specific commodity or commodity groupings. This information is also important in developing not only performance criteria but also any other risk mitigation terms for both solicitation and contract documents in the contracting phase.</li>
+</ol>
+<h3>8.180.5 Principles </h3>
+<p><strong>(2010-11-04)</strong></p>
+<ol class="double-space" type="a">
+<li><abbr title="Public Works and Government Services Canada">PWGSC</abbr> has the authority and the duty to take reasonable measures to ensure that it can rely on its vendors to perform their obligations. It has the same right as other purchasers in the market to assess a vendor's performance, and may take action to prevent future problems, based on the vendor's past performance. The discretion to take such action will be taken in a fair and reasonable manner.</li>
+<li>The <abbr title="Vendor Performance Policy">VPP</abbr> is founded on principles that support <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s commitment to carrying out contracting in a manner that enhances competition, fairness and transparency.</li>
+<li>Any corrective measure taken should rationally relate to the nature and severity of the problem for which it is applied.</li>
+</ol>
+<h3>8.180.10 Definitions </h3>
+<p><strong>(2010-11-04)</strong></p>
+<p>For the purpose of this policy, the following terms or expressions have the following meaning:</p>
+<ol class="double-space" type="a">
+<li><strong>Poor performance</strong>: means anything less than full performance of a contract by a vendor that results in either a termination for default or a conditional amendment. In both situations the vendor is primarily responsible for the poor performance. This extends to all aspects of performance that a contracting officer and the client want to consider and specify for evaluating the vendor's performance during the contract.</li>
+<li><strong>Conditional amendment: </strong>refers to an amendment to a contract being made for operational reasons in lieu of a termination for default because of poor performance. Such amendments will be made only on the condition that Canada reserves the right to consider the poor performance, which led to the amendment, for the purpose of assessing whether a Vendor Performance Corrective Measure (<abbr title="Vendor Performance Corrective Measure">VPCM</abbr>) will be placed against the vendor.</li>
+<li><strong>Vendor Performance Corrective Measure </strong>(<abbr title="Vendor Performance Corrective Measure">VPCM</abbr>): means a condition or limitation placed on a vendor's ability to contract with <abbr title="Public Works and Government Services Canada">PWGSC</abbr> in the future on the basis of <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s assessment of the vendor's reliability to perform a contract. In other words, it will have an impact on the vendor being able to bid on future opportunities or receive contracts or amendments. </li>
+<li><strong>Vendor Information Management System</strong> (<abbr title="Vendor Information Management">VIM</abbr>): is a database available to the users of the Automated Buyer Environment (<abbr title="Automated Buyer Environment">ABE</abbr>). It stores vendor information including <abbr title="Vendor Performance Policy">VPP</abbr> notes and <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>s.</li>
+</ol>
+<h3>8.180.15 Process </h3>
+<h4>8.180.15.1 Monitoring</h4>
+<p><strong>(2010-11-04)</strong></p>
+<ol class="double-space" type="a">
+<li>Contracting officers should enforce the terms of contracts wherever possible. The same incident may support: enforcement of the remedies available under the contract; a note to <abbr title="Vendor Information Management">VIM</abbr>; and a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>.</li>
+<li>The contracting officer will document vendor performance issues in the contract file, i.e., non-compliance with the performance criteria specified in the contract.</li>
+<li>The vendor is to be notified in writing of performance issues with a copy of the notification in the contract file. The notification must also include a reminder of the following:<br/>
+<ol type="i">
+<li>Terminations for default and conditional amendments will be noted in <abbr title="Vendor Information Management">VIM</abbr>.</li>
+<li>Terminations for default and conditional amendments trigger an assessment process at the end of the contract to determine whether a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> will be applied at that time.</li>
+</ol>
+</li>
+<li>The procedures on terminations for default are set out in <strong>8.135.15</strong> and <strong>Annex 8.4</strong>. For conditional amendments see <strong>8.70.5</strong>. Legal Services are to be consulted on both actions.</li>
+<li>If it is decided to either terminate for default all or any part of the contract and/or issue one or more conditional amendment(s), at the end of the contract the contracting officer will use the form <strong><span lang="fr"><abbr title="Public Works and Government Services Canada - Travaux publics et Services gouvernementaux Canada">PWGSC-TPSGC</abbr></span> 149 (10/2010)</strong> to direct the <abbr title="Vendor Performance Policy">VPP</abbr> <abbr title="Vendor Information Management">VIM</abbr> co-ordinator in PRISM to put a note in <abbr title="Vendor Information Management">VIM</abbr>.</li>
+<li>A note for a contract in which there was a termination(s) for default and/or a conditional amendment(s) will generally remain on <abbr title="Vendor Information Management">VIM</abbr> for six years. After that time, the contents will be removed from <abbr title="Vendor Information Management">VIM</abbr>. Performance information older than six years will not ordinarily be relevant to a decision whether to impose a corrective measure.</li>
+<li>A contract where there has been a termination(s) for default and/or a conditional amendment(s) triggers a mandatory assessment to determine whether a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> is to be applied. The contracting officer will follow the process set out in <strong>8.180.15.5</strong> before file close-out.</li>
+<li>In addition to the above, <abbr title="Public Works and Government Services Canada">PWGSC</abbr> reserves the right to put a note in <abbr title="Vendor Information Management">VIM</abbr> for other significant issues pertaining to the performance of a contract. The first instance of this type of note requires <abbr title="Director General">DG</abbr> approval to add the note to <abbr title="Vendor Information Management">VIM</abbr>. A note being added to <abbr title="Vendor Information Management">VIM</abbr> because of a second instance will require the approval of the Procurement Risk Management <abbr title="Director General">DG</abbr> Council. While such notes may result in the application of a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>, they are not considered for the purpose of the <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment and Recommendation form and process.</li>
+</ol>
+<h4>8.180.15.5 Assessment Process to Determine Need for Vendor Performance Corrective Measures </h4>
+<p><strong>(2010-11-04)</strong></p>
+<ol class="double-space" type="a">
+<li>Formal corrective measures should be considered when there is evidence that continued contracting with a vendor may pose a greater risk to Canada than is acceptable. This may be as a result of a major instance of poor performance of a contract that resulted in a termination for default or conditional amendment, or a cumulative record of terminations for default and/or conditional amendments. </li>
+<li>In determining whether a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> should be applied, the contracting officer on behalf of the director will:<br/>
+<ol type="i">
+<li>complete an assessment of the need for a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> in light of the nature and the severity of the risk of contracting with this vendor in the future. The <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment and Recommendation form <strong><span lang="fr"><abbr title="Public Works and Government Services Canada - Travaux publics et Services gouvernementaux Canada">PWGSC-TPSGC</abbr></span> 149-1 (10/2010)</strong> is to be used for this assessment. This step is another component of overall risk management. (The principal elements of the form are set out in Annex 8.7.) Based on the result, the ensuing consequence will be established pursuant to the <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> consequence grid in that form.</li>
+<li>complete the <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment and Recommendation form without considering any notes used as the basis for applying a previous <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>.</li>
+<li>consult Legal Services.</li>
+</ol>
+</li>
+<li>All steps of the <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment and Recommendation process, including the results and recommended consequence, if any at this time, must be fully documented in the file.</li>
+<li>Every assessment of the need for a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> is to be submitted to the relevant director who will decide if a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> is to be recommended.</li>
+<li>The assessment must be undertaken as soon as the contract ends. </li>
+</ol>
+<h4>8.180.15.10 Recommendation to Apply a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr></h4>
+<p><strong>(2010-11-04)</strong></p>
+<ol class="double-space" type="a">
+<li>A recommendation to apply a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> (see <strong>Annex 8.6a</strong> for the required procedure for applying a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> using the generic process) is based on the assessment to determine the need for a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> and whether it is in Canada's interest to continue dealing with the vendor without a restriction or conditions, i.e., a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>.</li>
+<li>For the purpose of the <abbr title="Vendor Performance Policy">VPP</abbr>, there are two types of <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>s:<br/>
+<ol type="i">
+<li>Debarment is the refusal by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> to do business with a vendor for a specified period. A debarment renders a vendor ineligible to bid on or receive contracts related to certain types of procurements. The period of each discrete debarment will generally not exceed three years.</li>
+<li>Conditions may be imposed on vendors in place of debarment, where considered more appropriate. Where a vendor is subject to conditions and has not met those conditions, the vendor is declared ineligible to bid on or to receive contracts, standing offers or supply arrangements.</li>
+</ol>
+</li>
+<li>For the right to reject a bid/offer/arrangement, see <strong>5.55</strong> on Rejection of Bids/Offers/Arrangements. See also the standard instructions relevant to the procurement in question in the Standard Acquisition Clauses and Conditions (<abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr>) Manual.</li>
+<li>A <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> can result from a contract awarded following either a competitive or non-competitive procurement.</li>
+<li>Based on the assessment of the need for a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>, the director will recommend to the director general/regional director general (<abbr title="Director General / Regional Director General">DG/RDG</abbr>) whether a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> should be applied. The <abbr title="Director General / Regional Director General">DG/RDG</abbr> will then accept, decline or modify the recommendation and inform the Procurement Risk Management <abbr title="Director General">DG</abbr> Council. The sector or region will notify the vendor of the intent to apply a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> and give the vendor 15 business days to respond in writing. At that time the vendor may also request to present orally to the <abbr title="Director General / Regional Director General">DG/RDG</abbr>.</li>
+<li>At any stage of the process, if it is determined that no <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> will be applied at this time, the vendor is to be notified. In addition, the vendor is to be informed of the category of impact and the associated score for the contract on which the <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment and Recommendation was completed. The vendor will also be informed that Canada reserves the right to take all contracts with terminations for default and conditional amendments into consideration if another assessment is triggered by a further termination for default or conditional amendment.</li>
+<li>A vendor will be given access to documents relevant to its performance on the same basis as would be available in a contract dispute.</li>
+<li>Both the file containing the recommendation to apply a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> and the notice of intent to the vendor must include, in addition to the measure being considered, the following:<br/>
+<ol type="i">
+<li>a list of:<br/>
+<ol type="A">
+<li>terminations for default and conditional amendments for the relevant contract;</li>
+<li>history of closed contracts with terminations for default and conditional amendments; and</li>
+<li>history of <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>s;</li>
+</ol>
+</li>
+<li>the procurements against which the recommended <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> would apply, i.e., whether the <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> will be across-the-board (affecting all aspects of the vendor's operations) or limited by product, division, geographic division, type of contract (such as urgent delivery requirement) or some other factor;</li>
+<li>when, and how if applicable, the recommended <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> will end;</li>
+<li>where conditions are recommended, who will determine that they have been satisfied; and </li>
+<li>a notification that the <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> is intended to preclude the vendor from obtaining any benefits from a <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contract through any other business arrangements including subcontracting, partnership and joint venture.</li>
+</ol>
+</li>
+<li>If, upon consideration of the response by the vendor and after having obtained advice from the Procurement Risk Management <abbr title="Director General">DG</abbr> Council, the <abbr title="Director General / Regional Director General">DG/RDG</abbr> determines that the <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> should be applied, such recommendation will be given to the Assistant Deputy Minister, Acquisitions Branch (<abbr title="Assistant Deputy Minister, Acquisitions Branch">ADM/AB</abbr>).</li>
+</ol>
+<h4>8.180.15.15 Assistant Deputy Minister Decision </h4>
+<p><strong>(2010-11-04)</strong></p>
+<ol class="double-space" type="a">
+<li>Except where there is an approved Sector/Region Vendor Performance Program, the <abbr title="Assistant Deputy Minister, Acquisitions Branch">ADM/AB</abbr> will review all recommendations to apply a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>, including information provided by the vendor, and may decide to vary the recommendation. </li>
+<li>The <abbr title="Assistant Deputy Minister, Acquisitions Branch">ADM/AB</abbr> will inform the vendor of the decision whether a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> will be applied. All sectors and regions that have a particular interest in the matter will also be informed.</li>
+</ol>
+<h4>8.180.15.20 Application of <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>s</h4>
+<p><strong>(2010-11-04)</strong></p>
+<ol class="double-space" type="a">
+<li>The contracting officer will send a copy of every completed <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment and Recommendation form to the <abbr title="Vendor Performance Policy">VPP</abbr> <abbr title="Vendor Information Management">VIM</abbr> co-ordinator. Information on a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> will only be entered into <abbr title="Vendor Information Management">VIM</abbr> by PRISM.</li>
+<li>Bids/offers/arrangements received from vendors debarred from doing any business with <abbr title="Public Works and Government Services Canada">PWGSC</abbr> will not be considered for evaluation. Bids/offers/arrangements from vendors who are debarred in part will not be considered for evaluation, if the bids pertain to procurements from which the vendor has been debarred. Where a vendor is subject to conditions that have not been met, any bid/offer/arrangement from that vendor will not be considered for evaluation.</li>
+<li>A decision to reject a bid/offer/arrangement because of a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> can be made at any time up to contract award or issuance of a standing offer or supply arrangement. <abbr title="Vendor Information Management">VIM</abbr> is to be checked for a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> at bid closing for competitive procurements and prior to contact for sole sourcing. In addition, <abbr title="Vendor Information Management">VIM</abbr> is to be rechecked prior to contract. The vendor must be informed of the decision to reject a bid/offer/arrangement because of a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>.</li>
+<li>The application of a new <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> does not affect existing contracts, though it does affect amendments.</li>
+<li><abbr title="Vendor Performance Corrective Measure">VPCM</abbr> information will remain on <abbr title="Vendor Information Management">VIM</abbr> for six years from the beginning of the debarment or from the date that the conditions are fulfilled. When a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> ends, the <abbr title="Vendor Performance Policy">VPP</abbr> <abbr title="Vendor Information Management">VIM</abbr> co-ordinator will notify the sector/region that initiated it, which is then responsible for promptly notifying the vendor.</li>
+<li>The applicable date for the provisions of the <abbr title="Vendor Performance Policy">VPP</abbr> is set out below.<br/>
+<ol class="double-space" type="i">
+<li>The revised <abbr title="Vendor Performance Policy">VPP</abbr> (2010-11-04) is in effect as of November 4, 2010 for:<br/>
+<ol class="single-space" type="A">
+<li>sole source contracts awarded on or after that date; and</li>
+<li>contracts awarded pursuant to competitive solicitations issued on or after that date.</li>
+</ol>
+</li>
+<li>The provisions of the <abbr title="Vendor Performance Policy">VPP</abbr> (1996) set out in the 2010-01-11 version of the Supply Manual remain in effect for:<br/>
+<ol class="single-space" type="A">
+<li>sole source contracts awarded prior to November 4, 2010; and</li>
+<li>contracts awarded pursuant to competitive solicitations issued prior to November 4, 2010.</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<h4>8.180.20 <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual Provisions for Stop Work Orders, Contract Suspensions and Other Reasons for Bid Rejection</h4>
+<p><strong>(2010-11-04)</strong></p>
+<p>No provisions under the <abbr title="Vendor Performance Policy">VPP</abbr> will in any way override <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s rights with respect to stop work orders, contract suspensions and other reasons for bid/offer/arrangement rejection set out in the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual.</p>
+<h4>8.180.25 Exceptions </h4>
+<p><strong>(2010-11-04)</strong></p>
+<p>In cases of emergency or great urgency in procurement, a <abbr title="Director General / Regional Director General">DG/RDG</abbr> may make a recommendation for an exception to a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>. In such cases, special care should be taken to protect Canada. Where an exception is made, the reason should be recorded on the contract file. Such exception must be approved by the <abbr title="Assistant Deputy Minister, Acquisitions Branch">ADM/AB</abbr> or the approval authority designated in a sector/region vendor performance program.</p>
+<h4>8.180.30 Sector/Region Vendor Performance Programs</h4>
+<p><strong>(2010-11-04)</strong></p>
+<ol class="double-space" type="a">
+<li>A sector/region may establish a customized or tailored program for evaluating vendor performance and determining appropriate measures to apply for specific commodities or commodity groupings. Where such a program has the approval of the <abbr title="Assistant Deputy Minister, Acquisitions Branch">ADM/AB</abbr>, it is not necessary that the <abbr title="Assistant Deputy Minister, Acquisitions Branch">ADM/AB</abbr> review the cases. The decision can be made by the persons delegated that authority under the program. </li>
+<li>The determination to have such a program will be made in the context of the procurement risk management strategy for the specific commodity during the pre-contractual phase of the procurement process. If it is determined that a sector/region program will be developed, until this program is operational, the contracting officer is to apply the generic <abbr title="Vendor Performance Policy">VPP</abbr> process.</li>
+<li>Once established, the customized vendor performance program is administered by the sector/region. Annex 8.8 provides a framework for developing such a program.</li>
+<li>The program may incorporate elements from the generic <abbr title="Vendor Performance Policy">VPP</abbr> process. </li>
+</ol>
+<h2>Annex 8.4 – Termination for Default </h2>
+<p><strong>(2010-11-04)</strong></p>
+<p>This section remains unchanged except for article (c)(iii)(C). The changes to article (c)(iii)(C) are identified in bold in the following text:</p>
+<p>a) Canada has the right to terminate all or any part of the contract for default if:</p>
+<p class="indent2">(iii) The contractor fails to deliver the goods or perform the services within the time specified in the contract.</p>
+<p class="indent3">(C) When there is reasonable assurance that delivery will be made, even though late, it may be desirable to discuss extension of the delivery time with client. If the delivery date is extended, negotiation for a reduction in the contract may be appropriate. <strong>This constitutes a conditional amendment (see 8.70.5), which triggers a note in <abbr title="Vendor Information Management">VIM</abbr> and a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr></strong> <strong>Assessment and Recommendation form and process.</strong></p>
+<h2 id="PN-11R1img1">Annex 8.6 – Risk Management Approach to Vendor Performance Process Chart</h2>
+<p><strong>(2010-11-04)</strong></p>
+<p id="PN-11R1ann86"><img alt="This chart titled Risk Management Approach to Vendor Performance Process Chart consist of Risks Considerations for applying VPP and a VPP Process which is divided into two phases: pre-contractual Phase, Contracting Phase and Contract Administration Phase, Post Contract Phase respectively" height="308" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" title="This chart titled Risk Management Approach to Vendor Performance Process Chart consist of Risks Considerations for applying VPP and a VPP Process which is divided into two phases: pre-contractual Phase, Contracting Phase and Contract Administration Phase, Post Contract Phase respectively" width="500"/></p>
+<p><em><a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap11r1-pn11r1-desc1-eng.html" rel="external">Text description for Annex 8.6 – Risk Management Approach to Vendor Performance Process Chart</a> is available on a separate page.</em> </p>
+<p><em><a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap11r1-pn11r1-tblcht-eng.html#ann86" rel="external">A larger view of this Chart</a> is available on a separate page. Due to the size of the image, it may not display properly.</em></p>
+<p><a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/documents/appn11r1-eng.pdf" rel="external"><abbr title="Portable Document Format">PDF</abbr> Version</a> ( 90KB)</p>
+<p class="smallFont"><em>Note 1: For sole source contracts, access <abbr title="Vendor Information Management">VIM</abbr> to verify if a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> applies prior to negotiation of terms and conditions.</em></p>
+<p class="smallFont"><em>Note 2: Until the program is operational, the contracting officer is to follow the generic stream. </em></p>
+<p class="smallFont"><em>Note 3: The right to reject also applies to offers and arrangements.</em></p>
+<p class="smallFont"><em>Note 4: "Other notes" are added when significant issues require a note as per 8.180.15.1(h). </em></p>
+<h2 id="PN-11R1img2">Annex 8.6a – Required Procedure for Applying a Vendor Performance Corrective Measure (<abbr title="Vendor Performance Corrective Measure">VPCM</abbr>)</h2>
+<p><strong>(2010-11-04)</strong></p>
+<p id="PN-11R1ann86a"><img alt="This chart titled Required Procedure for Applying a Vendor Performance Corrective Measure (VCPM), sets out procedures for applying a Vendor Performance Corrective Measure." height="301" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" title="This chart titled Required Procedure for Applying a Vendor Performance Corrective Measure (VCPM), sets out procedures for applying a Vendor Performance Corrective Measure." width="500"/></p>
+<p><em><a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap11r1-pn11r1-desc2-eng.html" rel="external">Text description for Annex 8.6a – Required Procedure for Applying a Vendor Performance Corrective Measure (<abbr title="Vendor Performance Corrective Measure">VPCM</abbr>)</a> is available on a separate page.</em> </p>
+<p><em>A <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap11r1-pn11r1-tblcht-eng.html#ann86a" rel="external">larger view of this Diagram</a> is available on a separate page. Due to the size of the image, it may not display properly.</em></p>
+<p><a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/documents/appn11r1-86a-eng.pdf" rel="external"><abbr title="Portable Document Format">PDF</abbr> Version</a> ( 81KB)</p>
+<p class="smallFont"><em>Note 1: <abbr title="Director General">DG</abbr> council refers to the <abbr title="Acquisitions Branch">AB</abbr> Procurement Risk Management <abbr title="Director General">DG</abbr> Council.</em></p>
+<h2>Annex 8.7 – Principal Elements of the <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment and Recommendation</h2>
+<h3>(2010-11-04)	</h3>
+<h3>1. Current Contract Impact Score</h3>
+<p>This refers to the impact of the poor performance issues that resulted in a termination(s) for default and/or conditional amendment(s) in the current contract. This impact score takes into account the relative importance of the requirement(s) in the overall context. There are three categories of performance issues for consideration and the following grid applies: </p>
+<ol type="i">
+<li>Not applicable   =   N/A</li>
+<li>Low impact   =   1 to 3</li>
+<li>Medium impact   =   4 to 6</li>
+<li>High impact   =   7 to 9</li>
+</ol>
+<h3>2. Conversion Score</h3>
+<p>Where a performance issue has been given an impact score of 9 points, this will have a Conversion Score equivalent to 40 points. This falls under the category of major impact from poor performance. Otherwise, the following will be used:</p>
+<table class="basic">
+<caption>
+<p>
+		In Annex 8.7 titled Principal Elements of the VCPM Assessment and Recommendation, table under Conversion Score describe the conversion score equivalency that falls under the category of major impact form poor performance.
+		</p>
+</caption>
+<tbody><tr>
+<th id="PN-11R1pn11R1a-ac1" scope="col">Total Current Contract Impact Score</th>
+<th id="PN-11R1pn11R1a-ac2" scope="col">Category of Impact</th>
+<th id="PN-11R1pn11R1a-ac3" scope="col">Conversion Score</th>
+</tr>
+<tr>
+<th headers="pn11R1a-ac1" id="PN-11R1pn11R1a-ar1" scope="row">Equal to or less than 9</th>
+<td headers="pn11R1a-ac1 pn11R1a-ar1 pn11R1a-ac2">Minor</td>
+<td headers="pn11R1a-ar1 pn11R1a-ac3">10 points</td>
+</tr>
+<tr>
+<th headers="pn11R1a-ac1" id="PN-11R1pn11R1a-ar2" scope="row">Greater than 9 but less than 15</th>
+<td headers="pn11R1a-ac1 pn11R1a-ar2 pn11R1a-ac2">Medium</td>
+<td headers="pn11R1a-ac1 pn11R1a-ar2 pn11R1a-ac3">20 points</td>
+</tr>
+<tr>
+<th headers="pn11R1a-ac1" id="PN-11R1pn11R1a-ar3" scope="row">15 or more</th>
+<td headers="pn11R1a-ac1 pn11R1a-ar3 pn11R1a-ac3">Major</td>
+<td headers="pn11R1a-ac1 pn11R1a-ar3 pn11R1a-ac3">40 points</td>
+</tr>
+</tbody></table>
+<h3>3. History Score</h3>
+<p>Contracts with termination(s) for default and/or conditional amendment(s) as well as <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>s are taken into account to calculate the Total History Score as follows:</p>
+<ol type="i">
+<li>10 points for each case of <abbr title="Vendor Performance Corrective Measure">VPCM</abbr></li>
+<li>10 points for each contract case with a minor impact of poor performance</li>
+<li>20 points for each contract case with a medium impact of poor performance</li>
+<li>40 points for each contract case with a major impact of poor performance</li>
+</ol>
+<h3>4. Total Impact Score and <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Consequences</h3>
+<p>This score is calculated by adding the Conversion Score and the Total History Score. If the Total Impact Score is 40 or more, the consequences are as follows:</p>
+<table class="basic">
+<caption>
+<p>In same Annex under Total Impact Score and VCPM Consequences, this table describes how the score is calculated by adding the Conversion Score and the Total history Score and the consequences if the total impact score is over 40 or more.</p>
+</caption>
+<tbody><tr>
+<th id="PN-11R1pn11R1b-ac1" scope="col"><abbr title="Vendor Performance Corrective Measure">VPCM</abbr> History</th>
+<th id="PN-11R1pn11R1b-ac2" scope="col">Consequence</th>
+</tr>
+<tr>
+<th headers="pn11R1b-ac1" id="PN-11R1pn11R1b-ar1" scope="row">No case within last six years</th>
+<td headers="pn11R1b-ac1 pn11R1b-ar1 pn11R1b-ac2">Debarment of 6 months (or <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> with conditions, if  appropriate)</td>
+</tr>
+<tr>
+<th id="PN-11R1pn11R1b-ar2" scope="row">One case within last six years</th>
+<td headers="pn11R1b-ac1 pn11R1b-ar2 pn11R1b-ac2">Debarment of 18 months (or <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> with conditions, if  appropriate)</td>
+</tr>
+<tr>
+<th id="PN-11R1pn11R1b-ar3" scope="row">Two cases within last six years</th>
+<td headers="pn11R1b-ac1 pn11R1b-ar3 pn11R1b-ac2">Debarment of 36 months (or <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> with conditions, if  appropriate)</td>
+</tr>
+</tbody></table>
+<h2>Annex 8.8 – Framework for Developing a Sector/<br/>
+		Region Vendor Performance Program</h2>
+<p><strong>(2010-11-04)</strong></p>
+<p>Customized past performance programs should address the following as appropriate and applicable to the circumstances:</p>
+<h3>1. Scope:</h3>
+<p>Under this section the sectors/regions will define the scope of each customized past performance program as it pertains to the commodity or commodities, type of procurement, dollar thresholds and contractual performance risk. This will also identify if the program is incorporated into any strategic procurement initiatives.</p>
+<h3>2. How the Customized Program Works:</h3>
+<p>This section will describe how the customized program works. The following are to be addressed when developing a program:</p>
+<ol class="double-space" type="i">
+<li>Engagement with relevant industry associations and/or vendors/potential vendors<br/>
+<ol type="A">
+<li>Describe how industry associations and/or vendors/potential vendors will be engaged in the process of developing the customized program.</li>
+<li>Describe how the terms of the program will be communicated to vendors/potential vendors.</li>
+</ol>
+</li>
+<li>Performance Criteria<br/>
+<ol type="A">
+<li>Provide a clear definition of performance criteria. Criteria must be objective, measurable and relevant to the commodity or commodity groupings.</li>
+<li>Describe the methodology and process for evaluating performance including level of monitoring, client's responsibility. The methodology must be relevant to the commodity or commodities.</li>
+</ol>
+</li>
+<li>Consequences from past performance<br/>
+<ol type="A">
+<li>Define what will trigger an action for consequences.</li>
+<li>Describe the consequences on opportunities to bid or obtain future contracts including its scope of application, time periods, etc. Justify the nature, severity and relevance of the consequences based on the risk assessment for the program.</li>
+</ol>
+</li>
+<li>Approval level for application of consequences - Establish the level of authority for such approval.</li>
+<li>Notification process<br/>
+<ol type="A">
+<li>Describe how and when vendors will be notified of consequences pursuant to the relevant customized program. This is conditional on having a notification process for each case of poor performance.</li>
+<li>The notification will describe the consequences and the extent of their scope in detail.</li>
+</ol>
+</li>
+<li>Recourse Mechanism - Establish a mechanism so that vendors have the opportunity to dispute the grounds for ensuing consequences.</li>
+<li>Accountability - Outline the roles and responsibilities for the stakeholders in the program.</li>
+<li>Documentation Revisions - All relevant and necessary documentation, such as solicitation and contract documents, must be revised to set out the application of the customized program.</li>
+</ol>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

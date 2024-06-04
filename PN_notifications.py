@@ -6,7 +6,7 @@ import pandas as pd
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
 # Define the source folder
-source_dir = os.path.join(dir_path, "source2")
+source_dir = os.path.join(dir_path, "source")
 target_dir = os.path.join(dir_path, "notifications")
 
 html_files = [f for f in os.listdir(source_dir) if f.endswith('.html')]
@@ -19,23 +19,21 @@ for html_file in html_files:
     language = language['lang'] if language else 'NA'
     id_tag = soup.find('dd')
     id = id_tag.text if id_tag else 'NA'
-    effective_date_tag = soup.find('dt', text=['Effective date', 'Date d\'effet'])
+    effective_date_tag = soup.find('dt', string=['Effective date', 'Date d\'effet'])
     effective_date = effective_date_tag.find_next_sibling('dd').text if effective_date_tag else 'NA'
 
 
     
-    output_filename = f'{language}~{id}~{effective_date}.html'
+    output_filename = f'{language}~{id}~{effective_date}.txt'
 
     if language.lower() == "en":
         see_revision_history = "No content."
-        remarks_label = "<h3 class=\"clause-heading\">Remarks – Recommended Use of SACC Item</h3>"
-        legal_text_label = "<h3 class=\"clause-heading\">Legal text for SACC item</h3>"
+        print_button = "<button class=\"print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right\"><span class=\"glyphicon glyphicon-print\"></span><span class=\"wb-inv\">Print</span></button>"
         sm_map = pd.read_csv(os.path.join(dir_path, "map/sm_map_en.csv"))
         sacc_map = pd.read_csv(os.path.join(dir_path, "map/sacc_map_en.csv"))
     elif language.lower() == "fr":
         see_revision_history = "Pas de contentu."
-        remarks_label = "<h3 class=\"clause-heading\">Remarques - Utilisation recommandée de l’item des CCUA</h3>"
-        legal_text_label = "<h3 class=\"clause-heading\">Le texte légal de l’item des CCUA</h3>"
+        print_button = "<button class=\"print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right\"><span class=\"glyphicon glyphicon-print\"></span><span class=\"wb-inv\">Imprimer</span></button>"
         sm_map = pd.read_csv(os.path.join(dir_path, "map/sm_map_fr.csv"))
         sacc_map = pd.read_csv(os.path.join(dir_path, "map/sacc_map_fr.csv"))
 
@@ -53,7 +51,7 @@ for html_file in html_files:
     if pn_main_tag is None:
         content = see_revision_history
     else:
-        content = ''.join([str(pn_main_tag), str(pn_sm_tag), str(pn_sacc_tag)]) if pn_main_tag else 'NA'
+        content = ''.join([str(print_button), str(pn_main_tag), str(pn_sm_tag), str(pn_sacc_tag)]) if pn_main_tag else 'NA'
         if not content:
             content = see_revision_history
 

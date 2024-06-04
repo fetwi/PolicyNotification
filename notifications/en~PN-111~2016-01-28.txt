@@ -1,0 +1,50 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Purpose</h2>
+<p>The purpose of Policy Notification 111 (PN-111) is to notify all Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) employees and any other persons providing procurement services on behalf of <abbr title="Acquisitions Program">AP</abbr> about the Public–Private Partnership (P3) procurement approach.</p>
+<h2>Effective date</h2>
+<p><abbr title="Policy Notification">PN</abbr>-111 and related changes to the <cite>Supply Manual</cite> are effective immediately.</p>
+<h2>Background</h2>
+<p>Budget 2011 presented the Government desire for Canada to be a leader in <abbr title="Public–Private Partnership">P3</abbr>. The Budget introduced new measures that made it mandatory for departments and agencies to evaluate the feasibility of delivering infrastructure projects through a <abbr title="Public–Private Partnership">P3</abbr> procurement approach. Budget 2011 states: "Going forward, federal departments and agencies will be required to evaluate the potential for using a <abbr title="Public–Private Partnership">P3</abbr> for large federal capital projects. All infrastructure projects creating an asset with a lifespan of at least 20 years and having a capital cost of $100 million or more, will be subjected to a <abbr title="Public–Private Partnership">P3</abbr> Screen to determine whether a <abbr title="Public–Private Partnership">P3</abbr> may be a suitable procurement option. Should the assessment conclude that there is <abbr title="Public–Private Partnership">P3</abbr> potential, the procuring department will be required to develop a <abbr title="Public–Private Partnership">P3</abbr> proposal among possible procurement options".
+</p>
+<h2>Summary of Changes</h2>
+<h3>Supply Manual</h3>
+<ul>
+<li>Public–Private Partnership (P3) procurements have been added to the list of special procurements under section 2.10 Special Procurements.</li>
+<li>New sections providing information on the <abbr title="Public–Private Partnership">P3</abbr> procurement approach (e.g. roles and responsibilities, screening, value for money, process) have been added to Chapter 9 – Special Procurements, under 9.60 Public–Private Partnership (P3) Procurements.</li>
+</ul>
+<p>For more details, refer to Affected <cite>Supply Manual</cite> Sections below.</p>
+<h3>Standard Acquisition Clauses and Conditions (SACC) Manual</h3>
+<p>There are no changes to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual.</p>
+<h3>Standard Procurement Templates</h3>
+<p>There are no changes to the Standard Procurement Templates.</p>
+<h2>Contact Information</h2>
+<p>Please direct any enquiries to the Policy, Risk, Integrity and Strategic Management (PRISM) Sector by email at the following address: <a href="mailto:dppapublications.appdpublications@tpsgc-pwgsc.gc.ca" rel="external">dppapublications.appdpublications@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Affected Supply Manual sections</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-20d71d224990df903a624e2509493915">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-2#_2-10">2.10: Special procurements</a> </li>
+<li class="views-row views-row-2 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-9#_9-60">9.60: Public–Private Partnership (P3) procurements</a> </li>
+<li class="views-row views-row-3 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-9#_9-60">9.60.5: Public–Private Partnerships delivery models</a> </li>
+<li class="views-row views-row-4 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-9#_9-60">9.60.10: Federal roles and responsibilities in Public–Private Partnerships</a> </li>
+<li class="views-row views-row-5 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-9#_9-60">9.60.15: Triage Tool</a> </li>
+<li class="views-row views-row-6 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-9#_9-60">9.60.20: Value for money</a> </li>
+<li class="views-row views-row-7 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-9#_9-60">9.60.25: Stages in Public–Private Partnership procurement process</a> </li>
+<li class="views-row views-row-8 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-9#_9-60">9.60.30: Public–Private Partnership procurements: Key differences</a> </li>
+<li class="views-row views-row-9 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-9#_9-60">9.60.35: Public–Private Partnership Treasury Board approvals</a> </li>
+<li class="views-row views-row-10 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-9#_9-60">9.60.40: Public–Private Partnership project team</a> </li>
+<li class="views-row views-row-11 views-row-odd views-row-last">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-9#_9-60">9.60.45: Payments in Public–Private Partnerships</a> </li>
+</ul></div> </div>
+</div>
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

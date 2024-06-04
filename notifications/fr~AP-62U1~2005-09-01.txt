@@ -1,0 +1,176 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-62U1cont" name="cont"><br/>
+AP-62U1 : Clauses relatives aux instructions d'expédition et à la facturation - mise à jour</a></h1> <div class="region region-site-wide-message">
+<section id="AP-62U1site-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-62U1site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-62U1site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 1<sup>er</sup> septembre 2005</h2>
+<h3>Introduction</h3>
+<p>Le présent Avis relatif aux politiques (AP-62U1) vise à mettre à jour les instructions d'expédition figurant dans la clause D0035D du guide des <em>Clauses et conditions uniformisées d'achat</em> (CCUA), étant donné que contrat du ministère de la Défense (MDN) portant sur des services d'expédition, conclu avec Transcar GMBH, viendra à échéance le 1er septembre 2005. Tous les documents d'achat, nouveaux et existants, portant sur des services d'expédition vers l'Europe à compter du 1er septembre 2005 devront comprendre la clause <a href="#AP-62U1D0035D">D0035D</a> révisée du guide des CCUA. </p>
+<p>En outre, veuillez prendre note que la Direction de la gestion des activités (Logistique) du MDN a fait l'objet d'une réorganisation opérationnelle et s'appelle maintenant la Direction des opérations de la chaîne d'approvisionnement (DOCA). Le paragraphe <a href="#AP-62U1a6e_622">6E.622</a> du <em>Guide des approvisionnements</em> (GA) et les clauses <a href="#AP-62U1D0037D">D0037D</a> et <a href="#AP-62U1C2608D">C2608D</a> du Guide des CCUA sont modifiés en conséquence. Tous les documents d'achat, nouveaux et existants, comportant les clauses <a href="#AP-62U1D0037D">D0037D</a> ou <a href="#AP-62U1C2608D">C2608D</a> du guide des CCUA, devraient comprendre les versions révisées de ces clauses.</p>
+<p>Toutes les modifications prennent effet immédiatement et seront intégrées à la prochaine édition du GA et du guide des CCUA de décembre 2005. Veuillez consulter les annexes A et B figurant ci-dessous pour prendre connaissance des modifications apportées au GA et au guide des CCUA. Les modifications sont indiquées en <span>rouge</span> et en <strong>caractères gras</strong>. </p>
+<h3>Personne-ressource</h3>
+<p><strong>S/O</strong></p>
+<h2>Annexe A</h2>
+<h3>Modifications apportées au Guide des approvisionnements</h3>
+<h3>Chapitre 6 :  Processus</h3>
+<h3>Renseignements relatifs au transport</h3>
+<p> <a id="AP-62U1a6e_622" name="a6e_622"></a></p>
+<p>6E.622  (xxxx-xx-xx)  Les conditions FCA franco transporteur (... lieu convenu) des Incoterms 2000 doivent s'appliquer dans tous les contrats attribués à des fournisseurs uniques par le ministère de la Défense nationale (MDN) et dans tous les contrats de réparation et de révision de ce ministère lorsque le transport ne fait pas partie de l'offre déposée en régime de concurrence. Le MDN gérera la logistique interne (soit la coordination, l'organisation et le paiement de tous les frais de transport à l'arrivée) dans le cadre de ces contrats. Pour les contrats de ventes militaires étrangères aux États-Unis seulement (et non pour tous les contrats passés avec les États-Unis), on continuera d'appliquer les modalités FOB usine et le MDN gérera également la logistique interne dans le cadre de ces contrats. <span>Si l'établissement de l'entrepreneur n'est pas situé au Canada, la clause <a href="#AP-62U1C2608D">C2608D</a> et, s'il y a lieu, la clause C2610D doivent être intégrées au contrat. </span></p>
+<p>L'entrepreneur doit livrer ces biens FCA. Pour ces contrats, le lieu convenu sera toujours l'établissement de l'entrepreneur, sauf indication contraire du MDN. L'agent de négociation des contrats doit s'assurer que la demande de soumission et le contrat comprennent l'une des clauses suivantes du guide des CCUA sur le transport : <a href="#AP-62U1D0035D">D0035D</a>, <a href="#AP-62U1D0037D">D0037D</a> ou D0038D. Ces clauses obligent l'entrepreneur à s'adresser au MDN pour obtenir des instructions sur l'expédition et pour connaître la marche à suivre. L'entrepreneur peut aussi contacter <span>le Quartier général du MDN (Directeur - Opérations de la chaîne d'approvisionnement [2-5], Opérations de distribution du matériel) au 819-994-9288 ou le Quartier général de la Logistique intégrée au 1-877-447-7701, poste 6101</span>, s'il a des demandes de renseignements à propos du transport.</p>
+<h2>Annexe B</h2>
+<h3>Modifications apportées au guide des CCUA </h3>
+<p> <a id="AP-62U1D0035D" name="D0035D"></a></p>
+<h4>D0035D	(xxxx-xx-xx)	Expédition à l'étranger - MDN - livraison au point d'origine</h4>
+<p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT.</strong> Utiliser la clause suivante pour les marchés de biens attribués à des fournisseurs uniques du ministère de la Défense nationale (MDN) et pour tous les contrats de service de réparation et de révision dans les cas où le transport ne fait pas partie de l'offre déposée en régime de concurrence et lorsque le MDN est responsable de l'expédition (les clauses <a href="#AP-62U1C2608D">C2608D</a> et C2610D peuvent s'appliquer).</p>
+<p>Cette clause ne s'applique pas aux marchés de ventes militaires étrangères des États-Unis. (Voir la clause D0038D.) Entre les parenthèses du premier alinéa, préciser les coordonnées de l'usine de l'entrepreneur.</p>
+<p><strong>Texte :</strong></p>
+<p>Pour les contrats attribués au nom du ministère de la Défense nationale, la livraison doit s'effectuer FCA franco transporteur (... lieu convenu, à savoir l'installation de l'entrepreneur) selon les Incoterms 2000; par la suite, l'expédition à partir du point de livraison jusqu'au destinataire constituera la responsabilité du Canada. <strong>[<em>Choisir une seule des options d'expédition en a) et supprimer les autres.</em>]</strong></p>
+<ol type="a">
+<li>Au moins dix (10) jours ouvrables avant que les biens soient prêts à être expédiés ou le plus tôt possible par la suite, l'entrepreneur doit envoyer une notification par écrit ou, dans les cas d'urgence, communiquer par téléphone ou confirmer par écrit le message par télécopieur comme suit :<br/>
+<ol type="i">
+<li>
+<p>Pour les contrats attribués au <em>Royaume-Uni</em> et en <em>Irlande</em></p>
+<p>Unité de soutien des Forces canadiennes (Europe)* (USFC[E])<br/>
+											À L'ATTENTION DE :  Adjudant responsable des mouvements<br/>
+											USFC(E) Daws Hill<br/>
+											RAF Daws Hill<br/>
+											C.P. 5051<br/>
+											High Wycombe, UK<br/>
+										Buckinghamshire HP11 1UY England</p>
+<p>Téléphone :	011 44 1494 795668, <br/>
+											011 44 1494 795669, <br/>
+											011 44 1494 795670<br/>
+											Télécopieur :	011 44 1494 795784<br/>
+											Courriel : <a href="mailto:DawsHillMovement@forces.gc.ca" rel="external">DawsHillMovement@forces.gc.ca</a><br/>
+										Site Web : <a href="http://www.cfsue.de/DawsHill/Welcome_f.htm" rel="external">http://www.cfsue.de/DawsHill/Welcome_f.htm</a></p>
+<p>* Pour tous les envois du Royaume-Uni et d'Irlande, l'entrepreneur devra envoyer un avis par écrit en remplissant le formulaire "<em> Shipping Advice and Export Certificate </em>" que l'on peut obtenir en envoyant un courriel à l'adresse <a href="mailto:DawsHillMovement@forces.gc.ca" rel="external">DawsHillMovement@forces.gc.ca</a>.  Ce formulaire figurera plus tard sur le site Web suivant : <a href="http://www.cfsue.de/DawsHill/Welcome_f.htm" rel="external">http://www.cfsue.de/DawsHill/Welcome_f.htm</a>.</p>
+</li>
+<li>
+<p>Pour les contrats attribués sur le <em>continent européen</em>, y compris les <em>pays scandinaves</em></p>
+<p>Secteur de l'Europe de la Logistique intégrée<br/>
+											À L'ATTENTION DE : l'Unité de soutien des Forces canadiennes (Europe)* (USFC[E])<br/>
+											Selfkant Kaserne<br/>
+											Quimperle Str 100<br/>
+										D-52511 Geilenkirchen, Germany</p>
+<p>Téléphone :	+49-(0)-2451-910625<br/>
+											Télécopieur :	+49-(0)-2451-910626<br/>
+										Courriel : <a href="mailto:CFSUEMovement@forces.gc.ca" rel="external">CFSUEMovement@forces.gc.ca</a></p>
+</li>
+<li>
+<p>Pour les contrats attribués aux <em>États-Unis (sauf les VME)</em> et <em>partout ailleurs</em> (à l'exception des pays précisés ci-dessus et au Canada)</p>
+<p>Quartier général de la Logistique intégrée<br/>
+											À L'ATTENTION DU : Directeur - Opérations de la chaîne d'approvisionnement (DOCA) des Forces canadiennes<br/>
+											4900, rue Yonge <br/>
+											Toronto (Ontario)<br/>
+										Canada   M2M 6B7</p>
+<p>Téléphone :	DOCA aide vocale : 416-635-4405, postes 6077 / 6103 / 6104 / 6111 / 6112 <br/>
+											Superviseur : 1-877-447-7701 (sans frais), poste 6101 <br/>
+											Télécopieur : 	416-635-2757 / 2758 ou 1-877-877-7409 (sans frais)<br/>
+										Courriel : <a href="mailto:QAToronto@forces.gc.ca" rel="external">QAToronto@forces.gc.ca</a></p>
+</li>
+</ol>
+</li>
+<li>L'entrepreneur doit fournir les renseignements suivants :<br/>
+<ol type="i">
+<li>le numéro du contrat et le code financier;</li>
+<li>l'adresse du destinataire;</li>
+<li>la description de chaque article, dont le numéro de l'article, la quantité, le numéro de nomenclature de l'OTAN, <span>le numéro tarifaire harmonisé/à l'exportation</span>, le numéro de pièce et le numéro de série (s'il y a lieu);<br/>
+<span>Nota : 	Aux États-Unis, Ie tarif à l'exportation est généralement appelé " Schedule B ", lequel figure à l'adresse :<br/>
+<a href="http://www.customs.ustreas.gov/xp/cgov/export" rel="external">http://www.customs.ustreas.gov/xp/cgov/export</a> et/ou <a href="http://www.census.gov/foreign-trade/" rel="external">http://www.census.gov/foreign-trade/</a><br/>
+									schedules/b/index.html.</span></li>
+<li>le nombre de pièces ou de caisses;</li>
+<li>le poids et les dimensions réels, dont le poids brut et le volume cubique total;</li>
+<li>la valeur totale; </li>
+<li>les détails complets et les certificats signés pour les matières dangereuses, conformément aux exigences du <em>Code maritime international des marchandises dangereuses</em>, du <em>Règlement de l'Association du transport aérien international</em> ou du <em>Règlement sur le transport des marchandises dangereuses du Canada</em> pertinent.</li>
+</ol>
+<p>L'entrepreneur doit déclarer distinctement tous les éléments de plus de 2,74 mètres (108 pouces) de longueur sur 2,23 mètres (88 pouces) de largeur sur 1,37 mètres (54 pouces) de hauteur et/ou dont le poids est égal ou supérieur à 2 268 kg (5 000 lb).</p>
+</li>
+<li>Après avoir reçu ces éléments d'information, le Canada fournira les instructions pertinentes pour l'expédition, qui pourront notamment obliger l'entrepreneur à apposer des étiquettes particulières pour l'adresse du destinataire, à inscrire sur chaque élément un numéro de contrôle pour le transport,<span>de même qu'à fournir des documents pour les douanes.</span> <span>et à livrer les biens au port de chargement pour l'exportation.</span></li>
+<li>L'entrepreneur ne doit en aucun cas expédier des biens avant d'avoir reçu les instructions pour l'expéditeur.</li>
+<li>Si l'entrepreneur livre les biens à un endroit et à une date qui ne sont pas conformes aux instructions fournies pour la livraison ou qu'il ne respecte pas les instructions de livraison raisonnables données par le Canada, l'entrepreneur devra rembourser à ce dernier tous les suppléments de frais et de coûts engagés à ce titre.</li>
+<li>Si le Canada accuse des retards qui ont pour effet de reporter la livraison des biens, la propriété et le risque relatifs à ces biens seront transférés au Canada à la fin du délai de trente (30) jours suivant la date à laquelle le Canada ou son mandataire transitaire désigné pour la livraison aura reçu une demande d'expédition remplie en bonne et due forme ou trente (30) jours suivant la date de livraison précisée dans le contrat, selon le dernier terme atteint.</li>
+<li>En ce qui concerne tous les envois du Royaume-Uni et d'Irlande, les articles de plus de 600 livres sterling (GPB) exportés du Royaume-Uni devront être dédouanés correctement à l'aide des nouveaux systèmes d'exportation " <em>Her Majesty's Customs &amp; Excise (HMCE) New Export Systems (NES)</em> ".  L'entrepreneur doit respecter les exigences de " <em>HMCE</em> " en s'enregistrant auprès de cette organisation ou en ayant un transitaire qui procède à l'entrée des envois au pays.  Une copie imprimée de la section " <em>Export Declaration</em> " dans les " <em>NES</em> ", indiquant clairement le numéro " <em>Declaration Unique Consignment Reference Number</em> ", doit être fournie par l'entrepreneur et jointe à l'envoi. Il incombe à l'entrepreneur de s'assurer que cette procédure est exécutée pour tous les fournisseurs, que les envois comprennent des achats initiaux ou des articles exportés de réparation et de révision.  Dans les cas où cette procédure n'est PAS suivie de façon intégrale et convenable, " <em>HMCE</em> " a donné l'ordre à l'USFC(E) de ne pas procéder aux préparatifs liés à l'expédition de l'envoi sans avoir obtenu toute la documentation requise.</li>
+</ol>
+<p> <a id="AP-62U1D0037D" name="D0037D"></a></p>
+<h4>D0037D	(xxxx-xx-xx)	Expédition au Canada - MDN - livraison au point d'origine</h4>
+<p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT.</strong> Utiliser la clause suivante dans les marchés attribués à des fournisseurs uniques du ministère de la Défense nationale (MDN) et dans tous les contrats de réparation et de révision de ce ministère lorsque le transport ne fait pas partie de l'offre déposée en régime de concurrence, dans les cas où ces marchés et contrats sont attribués au Canada et que le MDN est responsable de l'expédition. </p>
+<p>Entre les parenthèses dans le premier alinéa et en a), préciser les coordonnées de l'usine de l'entrepreneur.</p>
+<p><strong>Texte :</strong></p>
+<p>Pour les contrats attribués au nom du ministère de la Défense nationale (MDN) au Canada, la livraison doit s'effectuer FCA franco transporteur (... lieu convenu, à savoir l'installation de l'entrepreneur) selon les Incoterms 2000; par la suite, l'expédition à partir du point de livraison jusqu'au destinataire constituera la responsabilité du Canada.</p>
+<ol type="a">
+<li>
+<p><strong>Instructions pour l'expédition</strong></p>
+<p>Pour ce contrat, la livraison doit s'effectuer FCA franco transporteur (... lieu convenu, à savoir l'installation de l'entrepreneur) selon les Incoterms 2000.  L'entrepreneur devra charger le matériel dans les véhicules de l'entreprise de transport désignée par le MDN.</p>
+</li>
+<li>
+<p><strong>Pour le ramassage du matériel :</strong> avant l'expédition du matériel, l'entrepreneur devra communiquer avec le responsable suivant par téléphone ou par télécopieur, pour organiser la livraison :</p>
+<p><strong>Pour les entrepreneurs canadiens</strong></p>
+<p><span>Quartier général de la Logistique intégrée<br/>
+									À l'attention du : Directeur - Opérations de la chaîne d'approvisionnement  (DOCA) des Forces canadiennes</span><br/>
+									4900, rue Yonge <br/>
+									Toronto (Ontario)<br/>
+								Canada   M2M 6B7</p>
+<p>Téléphone : <span>DOCA aide vocale : 416-635-4405, postes 6077 / 6103 / 6104 / 6111 / 6112. <br/>
+								Superviseur : 1-877-447-7701 (sans frais), poste 6101 </span></p>
+<p>Télécopieur :	416-635-2757 / 2758 ou 1-877-877-7409 (sans frais)</p>
+</li>
+<li>L'entrepreneur ne doit en aucun cas expédier des biens avant d'avoir reçu les instructions pour l'expédition.</li>
+<li>Si l'entrepreneur livre les biens à un endroit et à une date qui ne sont pas conformes aux instructions fournies pour la livraison ou qu'il ne respecte pas les instructions de livraison raisonnables données par le Canada, l'entrepreneur devra rembourser à ce dernier tous les suppléments de frais et de coûts engagés à ce titre.</li>
+<li>Si le Canada accuse des retards qui ont pour effet de reporter la livraison des biens, la propriété et le risque relatifs à ces biens seront transférés au Canada à la fin du délai de trente (30) jours suivant la date à laquelle le Canada ou son mandataire transitaire désigné pour la livraison aura reçu une demande d'expédition remplie en bonne et due forme, ou trente (30) jours suivant la date de livraison précisée dans le contrat, selon le dernier terme atteint.</li>
+</ol>
+<p> <a id="AP-62U1C2608D" name="C2608D"></a></p>
+<h4>C2608D	(xxxx-xx-xx)	Documentation des douanes canadiennes</h4>
+<p>Utiliser la clause suivante dans les contrats et demandes de soumission lorsque le ministère de la Défense nationale est l'importateur. (Les clauses <a href="#AP-62U1D0035D">D0035D</a> ou D0038D peuvent s'appliquer.)</p>
+<p><strong>Texte :</strong></p>
+<p><strong>Généralités</strong></p>
+<ol>
+<li>L'entrepreneur fournira deux (2) exemplaires de la facture des douanes canadiennes ou deux (2) exemplaires de la facture commerciale portant la mention " Pour les douanes seulement " pour tous les envois lorsque le ministère de la Défense nationale (MDN) est l'importateur.</li>
+<li>En ce qui concerne les envois provenant des États-Unis ou du Mexique et qui sont d'origine américaine, mexicaine ou canadienne comme il est défini dans l'Accord de libre-échange nord-américain (ALENA), il faut en prouver l'origine. Cette preuve doit prendre la forme d'un certificat d'origine de l'ALENA pour les envois valant plus de 1 600 $CAN ou d'une simple déclaration sur la facture pour les envois valant moins de 1 600 $CAN.  Dans les deux cas, le document doit porter une signature originale et renvoyer au numéro de contrat.
+<p><strong>NOTA :</strong> Ce certificat n'est pas requis pour un envoi, quelle qu'en soit la valeur, lorsque la valeur totale du contrat dépasse 250 000 $CAN.</p>
+</li>
+<li>Il est interdit de faire appel à un courtier en douane privé pour dédouaner la marchandise expédiée aux termes d'un contrat, à moins d'avoir obtenu préalablement l'autorisation <span>du Directeur - Opérations de la chaîne d'approvisionnement / des douanes au Quartier général du MDN (téléphone : 613-995-0834, télécopieur : 613-992-9921).</span>
+<p><strong>Documents à remplir</strong></p>
+</li>
+<li>Voici les renseignements qui doivent figurer sur la facture des douanes canadiennes ou la facture commerciale :<br/>
+<ol type="a">
+<li>une description complète du matériel expédié, y compris le numéro tarifaire à l'exportation applicable, le code harmonisé ou, aux États-Unis, le numéro de l'Annexe B (" Schedule B Number ");</li>
+<li>la valeur et les conditions de vente de chaque article (p. ex. vente, prêt, garantie, Incoterms 2000), y compris la valeur des réparations, les réparations aux termes d'une garantie et/ou les coûts de remplacement;</li>
+<li>tous les numéros de contrat et les codes financiers doivent apparaître (utiliser la case 3 de la facture des douanes canadiennes);</li>
+<li>le pays d'où proviennent les biens;</li>
+<li>dans le cas où un certificat d'origine de l'ALENA a été produit, il faut confirmer à la case " Description " de la facture des douanes canadiennes ou de la facture commerciale qu'il a été rempli et annexé à la facture.</li>
+</ol>
+<p><strong>Distribution des documents</strong></p>
+</li>
+<li>L'entrepreneur doit joindre les documents ci-après au contenant nº 1 de tous les envois (dans une enveloppe étanche), en indiquant " Documentation des douanes canadiennes " :<br/>
+<ol type="a">
+<li>un (1) exemplaire de la facture des douanes canadiennes ou un (1) exemplaire de la facture commerciale, selon le cas;</li>
+<li>un (1) exemplaire du certificat d'origine de l'ALENA (s'il y a lieu).</li>
+</ol>
+</li>
+<li>Il faudra joindre le deuxième exemplaire de chacun des formulaires susmentionnés aux documents d'expédition.</li>
+<li>Lorsque le MDN commencera les envois conformément à la clause <a href="#AP-62U1D0035D">D0035D</a>, il faudra fournir une copie des documents de douane à la personne-ressource pertinente, dont le nom figure à l'alinéa a) de la clause <a href="#AP-62U1D0035D">D0035D</a>.</li>
+</ol>
+<div class="topPage"><a href="#AP-62U1tphp" title="Retourner au haut de la page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+				Haut de la page</a></div>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

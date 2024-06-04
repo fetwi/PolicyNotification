@@ -1,0 +1,29 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<ol>
+<li>Treasury Board Secretariat has provided notice of the amendment of previously established thresholds for the international trade agreements. The new thresholds in Canadian dollars are applicable for two years, from January 1, 2004 to December 31, 2005.</li>
+<li>Canada-Korea Telecommunications Equipment Procurement Agreement (CKTEA) has the same threshold for goods as the Agreement on Government Procurement of the World Trade Organization (<acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>); therefore, the CKTEA threshold in Canadian dollars has also changed.</li>
+<li>Revised thresholds:</li>
+</ol>
+<h3><acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> / CKTEA (goods only)</h3>
+<p><strong>Goods:</strong> Departments and Agencies - C$261,300<br/>
+<strong>Services:</strong> Departments and Agencies - C$261,300<br/>
+<strong>Construction:</strong> Departments and Agencies - C$10,000,000</p>
+<p><strong><em>NOTE: </em></strong>The <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> and CKTEA do not cover Crown Corporations.</p>
+<h3>North American Free Trade Agreement (NAFTA)</h3>
+<dl>
+<dt><strong>Goods:</strong></dt>
+<dd>Departments and Agencies - C$38,000</dd>
+<dd>Enterprises (Crown Corporations) - C$445,000</dd>
+<dt><strong>Services:</strong></dt>
+<dd>Departments and Agencies - C$89,000</dd>
+<dd>Enterprises (Crown Corporations) - C$445,000</dd>
+<dt><strong>Construction:</strong></dt>
+<dd>Departments and Agencies - C$11,500,000</dd>
+<dd>Enterprises (Crown Corporations) - C$14,200,000</dd>
+</dl>
+<p>The thresholds for the Agreement on Internal Trade remain unchanged at $25,000 for goods and $100,000 for services and construction.</p>
+<h3>Changes to Supply Manual</h3>
+<p>These changes will be reflected in next amendment of the Supply Manual, expected to be released in May 2004. </p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

@@ -1,0 +1,87 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Purpose</h2>
+<p><abbr title="Policy Notification">PN</abbr>-128R1 replaces and supersedes <abbr title="Policy Notification">PN</abbr>-128.</p>
+<p>The purpose of Policy Notification (PN) -128R1 is to inform all Public Works and Government Services Canada (PWGSC) Acquisitions Program's contracting officers of the implementation of an additional receiving method using Canada Post Corporation's epost Connect service in Bid Receiving Units (BRU) across Canada. </p>
+<h2>Effective date</h2>
+<p><abbr title="Policy Notification">PN</abbr>-128R1 is effective immediately. </p>
+<p>The Supply Manual, the Standard Acquisition Clauses and Conditions (SACC) Manual and the standard procurement templates have been updated to reflect the
+    <abbr title="Policy Notification">PN</abbr>.</p>
+<h2>Competitive process</h2>
+<p>The use of epost Connect service by
+    <abbr title="Bid Receiving Unit">BRU</abbr>s is to provide suppliers with an additional choice to submit bids, offers or arrangements, as the case may be, in response to solicitations. Suppliers may choose not to use the epost Connect service, and instead submit by other existing means, such as counter service, facsimile, mail, courier, and bid box unless otherwise specified in a solicitation. </p>
+<p>The 2003, 2006 and 2008 Standard Instructions have been amended to reflect the implementation of an additional receiving method using Canada Post Corporation's epost Connect service. Changes to the
+    <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual and Supply Manual, have been made to allow for electronic transmission through the epost Connect service to
+    <abbr title="Bid Receiving Unit">BRU</abbr>s. The standard procurement templates have been updated to allow for this electronic transmission method and to provide contracting officers with standardized text options to incorporate in solicitations.</p>
+<h2>Exceptions</h2>
+<p>Canada Post Corporation's epost Connect service for delivery to the
+    <abbr title="Bid Receiving Unit">BRU</abbr>s may not be used in solicitations for: </p>
+<ul>
+<li>procurements involving public opening of bids </li>
+<li>procurements where bid financial security such as bid bond or a security deposit are used, for example procurements for construction services using specialized terms and conditions</li>
+<li>low dollar value procurements</li>
+<li>bids, offers and arrangements submitted in response to non-competitive procurements</li>
+<li>procurements for which bids, offers or arrangements will contain information exceeding Protected B level </li>
+</ul>
+<h2>Process and responsibility</h2>
+<p>The epost Connect service provided by Canada Post Corporation allows suppliers to submit bids, offers and arrangements to
+    <abbr title="Bid Receiving Unit">BRU</abbr>s. This online accessible service enables the electronic transfer of large files up to Protected B level (up to 1GB per individual document with the capacity to submit multiple documents in a single transmission).</p>
+<p>The use of the epost Connect service will only enhance the role
+    <abbr title="Bid Receiving Unit">BRU</abbr>s fulfill in the contracting process in support of Acquisitions Program activities. After completing the internal administrative process, the
+    <abbr title="Bid Receiving Unit">BRU</abbr>s' agents will store the bids, offers and arrangements in GCdocs procurement files. The access to a specific procurement file will be given only to the specific contracting officer's procurement team unit who has initiated the process.</p>
+<p>In addition to receiving bids, offers and arrangements submitted through the use of epost Connect service,
+    <abbr title="Bid Receiving Unit">BRU</abbr>s will still receive bids, offers and arrangements by existing means.
+    <abbr title="Bid Receiving Unit">BRU</abbr>s will process and transfer to contracting officers bids, offers and arrangements in the format which they have been received. For example, a bid received in hard copy through
+    <abbr title="Bid Receiving Unit">BRU</abbr> counter service will be transferred as usual by a
+    <abbr title="Bid Receiving Unit">BRU</abbr> to a contracting officer in its original hard copy format and a bid received electronically through the use of epost Connect service <strong>will be transferred by a <abbr title="Bid Receiving Unit">BRU</abbr> to a contracting officer through GCdocs</strong>. An email notification of insertion into GCdocs will be sent to the contracting officer.
+    <abbr title="Bid Receiving Unit">BRU</abbr>s will continue to provide contracting officers with the summary sheet of how many bids or offers or arrangements (including those received through the epost Connect service) are received in total in response to each solicitation.</p>
+<p>In situations where contracting officers are limiting transmission of bids, offers and arrangements through electronic delivery methods only, the contracting officers must allow transmission of bids, offers and arrangements by the use of both epost Connect service and facsimile. This is to ensure suppliers have an alternative electronic method to submit their bids, offers or arrangements in the event that the epost Connect website is unavailable. </p>
+<h2>Expected results</h2>
+<p>This electronic delivery method will:</p>
+<ul>
+<li>offer to suppliers a convenient, secure and flexible way to deliver bids, offers and arrangements</li>
+<li>simplify bid, offer and arrangement submissions and reception procedures by reducing shipping time and cost</li>
+<li>maintain the integrity of data received through epost Connect service through a secure audit trail through GCdocs</li>
+<li>contribute to
+        <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s ongoing efforts to modernize procurement processes, so that these are simpler, less administratively burdensome and include practices that support socio-economic goals, such as greening operations</li>
+</ul>
+<h2>Summary of changes</h2>
+<h3>Standard Acquisition Clauses and Conditions Manual changes:</h3>
+<p>In support of <abbr title="Policy Notification">PN</abbr>-128R1, sections 05, 06, 07 and 08 of Standard Instructions 2003, 2006 and 2008 have been modified to allow contracting officers to offer in solicitations the use of the epost Connect service to suppliers for the delivery of bids, offers, and arrangements.</p>
+<h3>Supply Manual changes:</h3>
+<p>In support of <abbr title="Policy Notification">PN</abbr>-128R1, the Supply Manual has been modified to allow contracting officers to offer in solicitations the use of the epost Connect service to suppliers for the delivery of bids, offers, and arrangements.</p>
+<h3>Standard procurement templates changes:</h3>
+<p>In support of <abbr title="Policy Notification">PN</abbr>-128R1, modifications have been made to the following standard procurement templates published by the Strategic Policy Development and Integration Directorate:</p>
+<ul>
+<li>Low Dollar Value Bid Solicitation and Resulting Contract Template (Simple)</li>
+<li>Medium Complexity Bid Solicitation and Resulting Contract Template (MC) </li>
+<li>High Complexity Bid Solicitation and Resulting Contract Template (HC) </li>
+<li>Request for Standing Offers (RFSO)Template </li>
+<li>Request for Supply Arrangements (RFSA) Template </li>
+</ul>
+<h2>Contact persons</h2>
+<p>Questions related to the epost Connect service initiative can be sent by email to the following address: <a href="mailto:tpsgc.dgareceptiondessoumissions-abbidReceiving.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.dgareceptiondessoumissions-abbidReceiving.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p>
+<p>Questions related to Policy Notification <abbr title="Policy Notification">PN</abbr>-128R1, the Standard Procurement Templates, the Supply Manual and the
+    <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual can be sent by email to the following address: <a href="mailto:tpsgc.outilsdapprovisionnement-procurementtools.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.outilsdapprovisionnement-procurementtools.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p>
+<p>Questions related to the use of GCdocs for procurement file activities can be sent by email to the following address: <a href="mailto:tpsgc.gidga-abim.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.gidga-abim.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Affected Supply Manual sections</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-12158d300cd8ba456c53cf74b4f45577">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-4#_4-15">4.15.10: Methods of Responding to a Solicitation</a> </li>
+<li class="views-row views-row-2 views-row-even views-row-last">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-4#_4-85">4.85.1: Late Bids, Offers and Arrangements</a> </li>
+</ul></div> </div>
+</div>
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-661ce4a7843753d05784bc9d47bc9451">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#2003">ARCHIVED: 1.2003: Standard Instructions - Goods or Services - Competitive Requirements</a> </li>
+<li class="views-row views-row-2 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#2006">ARCHIVED: 1.2006: Standard Instructions - Request for Standing Offers - Goods or Services - Competitive Requirements</a> </li>
+<li class="views-row views-row-3 views-row-odd views-row-last">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#2008">ARCHIVED: 1.2008: Standard Instructions - Request for Supply Arrangements - Goods or Services</a> </li>
+</ul></div> </div>
+</div>
+</div>

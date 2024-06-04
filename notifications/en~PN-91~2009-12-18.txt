@@ -1,0 +1,350 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Introduction</h2>
+<p>The purpose of Policy Notification (PN)-91 is to update the instructions  to contracting officers on the process to notify unsuccessful  bidders/offerors/suppliers and on providing them with debriefings, and  on disclosure of information.</p>
+<h2>Background</h2>
+<p>These changes are a result of the review of government  procurement practices performed by the Office of the Procurement Ombudsman  (OPO). The <abbr title="Office of the Procurement Ombudsman">OPO</abbr> is an independent  organization with a government-wide mandate defined in the <em>Department of Public Works and Government Services Act</em>. As part of its mandate, the <abbr title="Office of the Procurement Ombudsman">OPO</abbr> reviews the  practices of departments for acquiring goods and services, to assess their  fairness, openness and transparency, and make recommendations for the  improvement of those practices. This  review provided re commendations on how to improve the debriefing process based  on feedback from suppliers and the procurement community.</p>
+<h2>Effective Date</h2>
+<p>This <abbr title="Policy Notification">PN</abbr> is effective immediately.</p>
+<h2>Revisions to the Current Policy</h2>
+<p>In accordance with the <abbr title="Office of the Procurement Ombudsman">OPO</abbr> recommendations, the instructions on providing  debriefings have been revised to strengthen the relationship between suppliers  and the government. The following  significant changes are made to the procedures:</p>
+<ol class="double-space" type="a">
+<li>Suppliers will be notified of their option to request a debriefing by  including in each bid solicitation and Notice of Proposed Procurement  information such as time constraints, procedures and the point of contact.</li>
+<li>Contracting officers will inform suppliers, upon their request only, of  their options to use the Canadian International Trade Tribunal (CITT), <abbr title="Office of the Procurement Ombudsman">OPO</abbr> or  other legal avenues should they be dissatisfied with the procurement process.</li>
+<li>Instructions provided to contracting officers on debriefings, as well as  templates for regret letters.</li>
+<li>Instructions are now provided to contracting officers on the different  options to provide debriefings to bidders/offerors/suppliers (i.e. written,  telephone, or in person).</li>
+<li>Guidance on timelines is provided for the activities of requesting and  giving debriefings, as well as for notifying bidders of cancelled  solicitations.</li>
+</ol>
+<p>The detailed revisions  are contained in the following annexes:</p>
+<p><a href="#PN-91ann-a">Annex  A</a>: contains the changes to the Supply Manual (SM). The current <abbr title="Supply Manual">SM</abbr> procedures 5.177, 7B.180,  7D.467, 7F.705, 7F.719  are deleted and the instructions in this <abbr title="Policy Notification">PN</abbr> now apply.</p>
+<p><a href="#PN-91ann-b">Annex B</a> : includes two samples of regret letters:</p>
+<p>Annex 7.1: Samples of Letters of Regret</p>
+<ul>
+<li>Appendix A: Regret  Letter to Unsuccessful Bidders/Offerors/Suppliers – <strong>Responsive</strong> Bid/Offer/Arrangement </li>
+<li>Appendix  B: Regret Letter to Unsuccessful  Bidders/Offerors/Suppliers – <strong>Non-responsive</strong> Bid/Offer/Arrangement</li>
+</ul>
+<p><a href="#PN-91ann-c">Annex  C</a>: includes changes, mainly by inserting pertinent information on  "debriefings", done to Section  2, Templates, of the <em>Standard Acquisition  Clauses and Conditions</em> Manual:  2T-LDV1, 2T-MED1, 2T-HIGH1, 2T-<abbr title="Request for Standing Offers">RFSO</abbr>1 and  2T-<abbr title="Request for Supply Arrangements">RFSA</abbr>1.</p>
+<h2>Contact Persons</h2>
+<p>For more information, contact Heather Bartlett, by phone at  819-956-0912 or by e-mail at: <a href="mailto:heather.bartlett@tpsgc-pwgsc.gc.ca" rel="external">heather.bartlett@tpsgc-pwgsc.gc.ca</a>;  or Anne Gauthier, by phone at 819-956-1025 or by e-mail at: <a href="mailto:Anne.Gauthier2@tpsgc-pwgsc.gc.ca" rel="external">Anne.Gauthier2@tpsgc-pwgsc.gc.ca</a>.</p>
+<h2 id="PN-91ann-a">Annex A</h2>
+<h3>Changes to the New  Supply Manual</h3>
+<p><em>The numbering of the  articles below follows the numbering of the new <abbr title="Supply Manual">SM</abbr>, to be released in January 2010.</em></p>
+<h4>Chapter 4 – Solicitation Process</h4>
+<h5 id="PN-91a-4-10-15">4.10.15 Bid  Solicitation</h5>
+<p>(2010-xx-xx)</p>
+<ol class="double-space" type="a">
+<li>A bid solicitation  may be used for low dollar value, medium and higher complexity  requirements. It can be used when the  bidder selection is based on price or best value. The standard instructions <a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/1/2003">2003</a> and <a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/1/2004">2004</a> of the <em>Standard Acquisition Clauses and  Conditions Manual</em> must be used in bid solicitations for goods and/or services. The templates <a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/2/2T-LDV1">2T-LDV1</a>, <a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/2/2T-MED1">2T-MED1</a> and <a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/2/2T-HIGH1">2T-HIGH1</a> must be used when establishing a  bid solicitation subject to the procedures outlined in 2T-PROC1.</li>
+<li>A Request for Proposal (RFP) is a form of bid  solicitation for complex requirements and is used when the bidder selection is  based on best value rather than on price alone.  A <abbr title="Request for Proposal">RFP</abbr> should be used when, owing to the nature of the requirement,  suppliers are invited to propose a solution to a problem, requirement or  objective, and the selection of the contractor is based on the effectiveness of  the proposed solution.</li>
+<li>Bids must be evaluated  and the successful supplier must be selected in accordance with specific  criteria and procedures as set out in the bid solicitation.</li>
+<li>A bid solicitation  can be used to solicit bids through public advertisement on <abbr title="Government Electronic Tendering Service">GETS</abbr>, through  direct invitation of selected suppliers by means of a source list where  permitted, or by invitation of one source only if conditions for a  non-competitive process have been met.</li>
+<li>Responses to the bid  solicitation may result in negotiations before contract award when the bid  solicitation states the right to negotiate in accordance with the international trade agreements.</li>
+<li>The preparation of bids is  often costly to suppliers. To keep the  total cost down while ensuring freedom of access to suppliers, consideration  should be given to soliciting bids in two steps.
+    <ol class="double-space" type="i">
+<li>during the first step  of this process, suppliers are requested to provide letters of interest and  qualifications, from which a short list is developed. During the second step, suppliers on the  short list are requested to submit detailed bids;</li>
+<li>suppliers not  included on the short list are still able to request the bid solicitation and  submit bids.</li>
+</ol>
+</li>
+<li>Such  a process might be appropriate where many suppliers are known. When doing a two-stage procurement, contracting  officers must follow procedures required under North American Free Trade  Agreement (NAFTA) and World Trade Organization Agreement on Government  Procurement (WTO-AGP) for selective tendering.</li>
+<li>The bid solicitation  should include, as a minimum, the following information:
+    <ol class="double-space" type="i">
+<li>a clear definition of the  requirement;</li>
+<li>bidder  instructions;</li>
+<li>bid preparation instructions;</li>
+<li>clear  evaluation procedures;</li>
+<li>certification  requirements; </li>
+<li>security  and financial requirements;</li>
+<li>validity of the bid;</li>
+<li> resulting contract clauses; and</li>
+<li> instructions informing bidders that they  may request information about the results of the <abbr title="Request for Proposal">RFP</abbr> and how their bid was  evaluated. (See <a href="#PN-91a-7-40">7.40</a> for information to  be included in debriefings.)</li>
+</ol>
+</li>
+</ol>
+<h5 id="PN-91a-4-10-20">4.10.20 Request  for Standing Offers</h5>
+<p>(2010-xx-xx)</p>
+<ol start="4" type="a">
+<li value="4">
+<abbr title="Request for Standing Offers">RFSO</abbr>  should include, as a minimum, the following information:
+<ol class="double-space" type="i">
+<li>a clear definition of  the requirement and the period for making call-ups;</li>
+<li>information on the number of standing offers intended to be authorized  for use;</li>
+<li>offer  preparation instructions;</li>
+<li>clear  evaluation criteria;</li>
+<li>clear  evaluation procedures and basis of selection;</li>
+<li>instructions informing  offerors that they may request information about the results of the <abbr title="Request for Standing Offers">RFSO</abbr> and  how their offer was evaluated. (See <a href="#PN-91a-7-40">7.40</a> for information to be included in  debriefings.);</li>
+<li>clear ranking methodology where applicable;</li>
+<li>clear  call-up procedure(s) including the method of allocating the work among multiple  standing offers;</li>
+<li>a  notice to offerors regarding disclosure of their unit prices (see <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual general conditions <a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/3/2005">2005</a>);</li>
+<li>conditions applicable  to the <abbr title="Request for Standing Offers">RFSO</abbr>;</li>
+<li>conditions applicable to  the standing offer;</li>
+<li>resulting contract clauses  applicable to ensuing call-ups; and</li>
+<li>the estimated utilization,  whenever practical.</li>
+</ol>
+</li>
+</ol>
+<h5 id="PN-91a-4-10-25">4.10.25 Request for Supply Arrangements</h5>
+<p>(2010-xx-xx)</p>
+<ol start="3" type="a">
+<li value="3">
+	The <abbr title="Request for Supply Arrangements">RFSA</abbr> should include, as a minimum, the following  information:
+<ol class="double-space" type="i">
+<li>a  clear definition of the requirement;</li>
+<li>supplier  instructions;</li>
+<li>arrangement  preparation instructions;</li>
+<li>clear  evaluation procedures and basis of selection for the establishment of the list  of qualified suppliers;</li>
+<li>certification  requirements;</li>
+<li>conditions  applicable to the supply arrangement, including the terms of the solicitation;</li>
+<li>resulting  contract clauses applicable to any contract resulting from each solicitation;  and</li>
+<li>instructions informing  suppliers that they may request information about the results of the <abbr title="Request for Supply Arrangements">RFSA</abbr> and  how their offer was evaluated. (See <a href="#PN-91a-7-40">7.40</a> for information to be included in  debriefings.)</li>
+</ol>
+</li>
+</ol>
+<h5 id="PN-91a-4-75-15">4.75.15 Notice  of Proposed Procurement</h5>
+<p>(2010-xx-xx)</p>
+<ol class="double-space" type="a">
+<li>Notification that a solicitation opportunity is  available occurs through the posting of a Notice of Proposed Procurement (NPP)  on <abbr title="Government Electronic Tendering Service">GETS</abbr>.</li>
+<li>An <abbr title="Notice of Proposed Procurement">NPP</abbr> is a  summary of the solicitation that briefly describes the requirement, and  provides pertinent information that will assist suppliers to determine their  interest in fulfilling the requirement and their ability to successfully meet  any key conditions for participating. If  applicable, contracting officers must indicate in the <abbr title="Notice of Proposed Procurement">NPP</abbr> which trade agreement  or agreements apply or if Canadian content restrictions apply. (For example,  solicitations may specify that the requirement has been set aside under the  Procurement Strategy for Aboriginal Business or restricted to Canadian-based  suppliers as a result of a National Security Exception. In these cases only aboriginal suppliers or  Canadian-based suppliers respectively would be eligible to bid.)</li>
+<li>The <abbr title="Notice of Proposed Procurement">NPP</abbr> must indicate whether additional material will  be sent or is available separately.</li>
+<li>Many procurement units have developed templates to  assist contracting officers to develop <abbr title="Notice of Proposed Procurement">NPP</abbr>s.  Contracting officers should consult with their managers to determine if  templates are routinely used in their procurement unit.</li>
+<li>The <abbr title="Notice of Proposed Procurement">NPP</abbr> should advise the suppliers of their option to  request a debriefing. For samples of  suggested text, refer to the templates <a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/2/2T-LDV1">2T-LDV1</a>, <a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/2/2T-MED1">2T-MED1</a>, <a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/2/2T-HIGH1">2T-HIGH1</a>, <a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/2/2T-RFSO1">2T-<abbr title="Request for Standing Offers">RFSO</abbr>1</a> and <a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/2/2T-RFSA1">2T-<abbr title="Request for Supply Arrangements">RFSA</abbr>1</a> of the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual.</li>
+<li>Any other notices (i.e. newspapers) should contain the  same statement.</li>
+</ol>
+<h5 id="PN-91a-4-100">4.100 Cancelling and Reissuing a  Solicitation</h5>
+<p>(2010-xx-xx)</p>
+<ol start="3" type="a">
+<li value="3">If the cancellation takes place after the closing  date, suppliers should be advised within 10 calendar  days of the cancellation of the solicitation.</li>
+</ol>
+<p>*****************</p>
+<h4 id="PN-91a-7">Chapter 7 – Award of Contracts and Issuance of  Standing Offers and Supply Arrangements</h4>
+<h5 id="PN-91a-7-35">7.35 Notification  to Unsuccessful Bidders/Offerors/Suppliers</h5>
+<p>(2010-xx-xx)</p>
+<p>Contracting  officers should notify unsuccessful bidders/offerors/suppliers as soon as  possible after contract award and issuance of a standing offer or supply  arrangement. Samples of regret letters are provided in <a href="#PN-91ann-7-1">Annex 7.1</a>.</p>
+<h5 id="PN-91a-7-40">7.40 Debriefings to  Unsuccessful Bidders/Offerors/Suppliers</h5>
+<p>(2010-xx-xx)</p>
+<ol class="double-space" type="a">
+<li>Bidders/offerors/suppliers should be informed that  they will be advised of the outcome to the solicitation following contract  award (upon request). A notice that  the bidders/offerors/suppliers may request a debriefing about the results of  the solicitation and the way in which their bid was evaluated should be included in  every solicitation.</li>
+<li>Debriefings can educate bidders/offerors/suppliers  regarding how their bids can be improved so those lessons can be applied in  response to future opportunities. Therefore, the information provided should be  sufficient to assist each bidder/offeror/supplier in understanding why their  bid/offer was not considered, which may assist them in responding to future  solicitations. Debriefings also demonstrate to bidders/offerors/suppliers that  the federal government contracting process is fair, open, and transparent.  Through debriefings, contracting officers may also be able to improve future  solicitations by using the feedback provided by bidders/offerors/suppliers.</li>
+<li>Debriefings should be requested by the  bidder/offeror/supplier within 15 working days of their receipt of the  notification that they were unsuccessful. Debriefing information should be made  available to the unsuccessful bidder/offeror/supplier soon after being  requested but only after contract award or issuance of a <abbr title="Standing Offer">SO</abbr> or <abbr title="Supply Arrangement">SA</abbr>. Efforts  should be made by the contracting officer to provide the information within 10  working days from the date the request was received. In providing debriefing information, care  must be taken to protect the confidentiality of information relating to other  bids/offers/arrangements. The release of  information relating to other bids/offers/arrangements by contracting officers  must comply with the disclosure of information outlined in 7.45. Contracting  officers should keep a record of the debriefing information provided,  including, but not limited to, minutes or a record of any meeting and comments  and suggestions from the bidder/offeror/supplier.</li>
+<li>There are three approaches that may be used for  debriefings:
+    <ol class="double-space" type="i">
+<li>in  writing,</li>
+<li>by  telephone, or</li>
+<li>in  person.</li>
+</ol>
+</li>
+<li>The approach should be tailored by the contracting  officer to the complexity and dollar value of the procurement; however, as a  minimum, the contracting officer should provide a written debriefing, which can  be combined with a regret letter. In any written debriefing, the contracting  officer should advise the bidder/offeror/supplier who can be contacted for  further information. If a bidder/offeror/supplier requests additional  information, the contracting officer should consider the most effective method  of providing that information, which may be in writing, by telephone, or in  person. The contracting officer should also consider any request from the  bidder/offeror/supplier to provide the information in a particular way, as well  as factors such as the complexity and dollar value of the procurement.</li>
+<li>A debriefing should include:
+    <ol class="double-space" type="i">
+<li>the  name of the successful bidder/offeror/supplier;</li>
+<li>the  value of the contract as awarded or the <abbr title="Supply Arrangement">SA</abbr> or <abbr title="Standing Offer">SO</abbr> as issued;</li>
+<li>the  overall evaluation result of the successful bidder/offeror/supplier,</li>
+<li>an  outline of the reasons the bidder/offeror/supplier was not successful, making  reference to the evaluation criteria and selection methodology;</li>
+<li>where appropriate,  very general information on the relative strengths of the successful bid/offer,  ensuring that any such statements do not provide any confidential commercial  information.</li>
+</ol>
+</li>
+<li>If requested by the unsuccessful  bidders/offerors/suppliers, the contracting officers should provide the  following general information about the judicial and quasi-judicial bodies to  which bid protests can be made. For any given procurement, one or more of the  following avenues may be available to a supplier that wishes to make a claim  regarding the conduct of the procurement:
+    <ol class="double-space" type="i">
+<li>The <strong>Canadian  International Trade Tribunal (CITT)</strong>: Whether or not the <abbr title="Canadian International Trade Tribunal">CITT</abbr> has  jurisdiction to conduct an inquiry regarding any particular procurement will  depend on factors such as the government institution conducting the  procurement, the estimated value of the procurement, and the nature of the  goods, services or construction services being procured.
+	  <p>More information can be obtained by visiting the <a href="http://www.citt.gc.ca/" rel="external">CITT</a> Website and the Web page "How to File a  Complaint".</p>
+</li>
+<li>The <strong>Office of  the Procurement Ombudsman (OPO)</strong>: If the value of the procurement is below  the monetary thresholds established under the <em>Agreement on Internal Trade</em>,  the <abbr title="Office of the Procurement Ombudsman">OPO</abbr> may have jurisdiction to conduct a review.
+	  <p>More information can be obtained by visiting the <a href="http://opo-boa.gc.ca/index-eng.html" rel="external"><abbr title="Office of the Procurement Ombudsman">OPO</abbr></a> Website and the Web page "<a href="http://opo-boa.gc.ca/plainte-complaint-eng.html" rel="external">Making a Complaint</a>".</p>
+</li>
+<li>An <strong>Application  for Judicial Review at Federal Court</strong>: Visit the <a href="http://cas-ncr-nter03.cas-satj.gc.ca/portal/page/portal/fc_cf_en/Index" rel="external">Federal  Court</a> Website and the Web page "<a href="http://cas-ncr-nter03.cas-satj.gc.ca/portal/page/portal/fc_cf_en/Litigants" rel="external">Information  for Litigants</a>".</li>
+<li>An <strong>Action in a  Provincial Superior Court or in Federal Court</strong>: Each province has a  provincial superior court.</li>
+</ol>
+<p><strong><em>NOTES</em></strong><em>:</em> <br/>
+<em>Suppliers may wish to consult with a lawyer regarding the appropriate  forum for bringing a bid protest in any given case.</em></p>
+<p><em>Suppliers should note that there are strict deadlines for bringing bid  protests, and the time periods vary depending on where the bid protest is  brought.</em></p>
+</li>
+<li>A written debriefing is usually done in the form  of a Regret Letter sent out to each unsuccessful bidder/offeror/supplier. If a Regret Letter is used to provide the  debriefing information required to satisfy any trade agreement obligations, the  contracting officer is required to provide the specific provisions required by  the applicable trade agreements. The  information that will need to be provided to satisfy this obligation will  depend on the circumstances.</li>
+<li>If a fairness monitor  was used during the evaluation process, then the contracting officer must  advise the fairness monitor and request its presence during any telephone or  in-person debriefings.</li>
+<li>If a legal counsel is to accompany the supplier to any  in-person debriefing or participate in a telephone debriefing, the contracting  officer must advise Legal Services and discuss their participation in the  debriefing.</li>
+</ol>
+<h5 id="PN-91a-7-45">7.45 Disclosure  of Information</h5>
+<p>(2010-xx-xx)</p>
+<ol class="double-space" type="a">
+<li>The following  information can be released by contracting officers on a routine basis, after  award of a contract or issuance of a Standing Offer or Supply Arrangement:
+<ol class="double-space" type="i">
+<li>for all solicitations  for goods and services, the name of the successful and unsuccessful  bidders/offerors/suppliers, responsive and non responsive, together with the  total evaluated price of the successful bidder/offeror/supplier and total  score, if applicable. Since information  on bidders/offerors/suppliers who are individuals may qualify for exemption  under the <em>Privacy Act</em>, such requests should be directed to the Access to  Information and Privacy Office as indicated in 7.45(b);</li>
+<li>for all goods and  services requirements subject to public opening, information which was released  at the public opening of bids; for example, name of each bidder and the total  amount of each bid; and</li>
+<li>individual unit  pricing information including labour rates contained in standing offers (see  instructions at 7.45(c)).</li>
+</ol>
+</li>
+<li>The following types  of requests for bid, contract or standing offer and supply arrangement  information should be referred to the <a href="http://www.psc-cfp.gc.ca/abt-aps/atip-aiprp/index-eng.htm" rel="external">Access to Information  and Privacy Office</a>:
+<ol class="double-space" type="i">
+<li>names of  bidders/offerors who are individuals and the content of their bids/offers,  including prices, since such information may be subject to an exemption under  the <em><a href="http://laws-lois.justice.gc.ca/eng/acts/P-21/index.html" rel="external">Privacy Act</a></em>;</li>
+<li>copies of  bids/offers, including any accompanying catalogues, handbooks or pricing  guides;</li>
+<li>copies of contracts,  purchase orders or standing offer documents, including any accompanying Public  Works and Government Services Canada (PWGSC)-produced catalogues, handbooks, or  acquisition guides;</li>
+<li>bid and contract  information pertaining to classified requirements;</li>
+<li>information contained  in bids/offers/arrangements that have been cancelled or superseded by later  bids/offers;</li>
+<li>individual unit pricing  pertaining to contracts or purchase orders for goods and services and  construction; and</li>
+<li>any other information  not covered in (a) above.</li>
+</ol>
+<p><em>Any disclosures not referred  to the Access to Information and Privacy Office should first be discussed with  Legal Services.</em></p>
+</li>
+<li>To ensure a  consistent approach to the public disclosure of information, <abbr title="Public Works and Government Services Canada ">PWGSC</abbr> will release  on a routine basis the unit prices and labour rates contained in standing  offers for goods and services. Offerors  must be informed of <abbr title="Public Works and Government Services Canada ">PWGSC</abbr>'s intention to disclose unit prices and labour rates  contained in successful offers in the event of a resulting standing offer. General conditions <a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/3/2005">2005</a> of the <em>Standard Acquisition Clauses and Conditions</em> (SACC) Manual include  a provision to this effect.
+<p><em>There may be  circumstances where the provisions related to the disclosure of information, as  set out above, cannot be applied. Such  circumstances must be handled on a case-by-case basis and would require the  approval of the manager or higher, depending on the approval authority, before  issuing the <abbr title="Request for Standing Offers">RFSO</abbr> or <abbr title="Request for Supply Arrangements">RFSA</abbr>.</em></p>
+</li>
+</ol>
+<h2 id="PN-91ann-b">Annex B</h2>
+<h3 id="PN-91ann-7-1">Annex 7.1: Samples  of Regret Letters</h3>
+<p>(2010-xx-xx)</p>
+<h4 id="PN-91ann-7-1-a">Appendix A: Regret Letter to Unsuccessful Bidders/Offerors/Suppliers – Responsive Bid/Offer/Arrangement</h4>
+<p><strong><em>Note to Contracting  Officer</em></strong><em>: Because the  evaluation methodology for different procurements varies, this letter will have  to be tailored to the individual requirement.  This letter has been drafted assuming that this bidder/offeror/supplier,  although unsuccessful, its bid/offer/arrangement was declared responsive  because it has met all mandatory requirements.  Contracting officers should use the other sample regret letter in  Appendix B if the bid/offer/arrangement was declared non-responsive.</em></p>
+<p>_______________ (<strong><em>insert date</em></strong>)</p>
+<p>_______________ (<strong><em>insert department address</em></strong>)</p>
+<p>_______________ (<strong><em>insert supplier's name and address</em></strong>)</p>
+<p>Attention: _______________ (<strong><em>insert name of addressee</em></strong>)</p>
+<p>Dear Mr./Mrs.  _______________ (<strong><em>insert the addressee's last name</em></strong>):</p>
+<p><strong>Subject</strong>: Solicitation No. _______________ </p>
+<p>Thank you for your _______________ (<strong><em>insert </em></strong>"bid" <strong><em>or</em></strong> "offer" <strong><em>or</em></strong> "arrangement")  submitted in response to our request for _______________ (<strong><em>insert  brief description of goods/services</em></strong>).</p>
+<p>This is to inform you that a  _______________ (<strong><em>insert</em></strong> "contract" <strong><em>or</em></strong> "Standing Offer (SO)" <strong><em>or</em></strong> "Supply Arrangement (SA)") will  not be _______________ (<strong><em>insert </em></strong>"awarded" <strong><em>or</em></strong> "issued") to you for this requirement. A _______________ (<strong><em>insert</em></strong> "contract" <strong><em>or</em></strong> "<abbr title="Standing Offer">SO</abbr>" <strong><em>or</em></strong> "<abbr title="Supply Arrangement">SA</abbr>") has been _______________ (<strong><em>insert</em></strong> "awarded" <strong><em>or</em></strong> "issued") to the successful _______________ (<strong><em>insert</em></strong> "bid" <strong><em>or</em></strong> "offer"<strong><em> or</em></strong> "arrangement") submitted by _______________ (<strong><em>insert name of successful  bidder/offeror/supplier</em></strong>) in response to  the above-noted solicitation. The price  of the awarded _______________ (<strong><em>insert</em></strong> "contract" or "<abbr title="Standing Offer">SO</abbr>" or "<abbr title="Supply Arrangement">SA</abbr>")  is $ _______________ (<strong><em>insert value of awarded contract or issued  <abbr title="Standing Offer">SO</abbr> or <abbr title="Supply Arrangement">SA</abbr></em></strong>), excluding Goods and Services Tax/Harmonized Sales Tax, as  applicable.</p>
+<p>Although your   _______________ <em>(<strong>insert</strong></em> "bid" <strong><em>or</em></strong> "offer"<strong><em> or</em></strong> "arrangement") was found to be  responsive to the mandatory requirements of the solicitation, it did not  achieve the highest-ranking under the evaluation methodology described in the  solicitation.</p>
+<p>For your information and to assist you in responding  to future solicitations, you are informed that your _______________ (<strong><em>insert</em></strong> "bid" <strong><em>or</em></strong> "offer"<strong><em> or</em></strong> "arrangement") was evaluated as  follows in comparison to the successful _______________ (<strong><em>insert</em></strong> "bid" <strong><em>or</em></strong> "offer" <strong><em>or</em></strong> "arrangement"<em>)</em>:</p>
+<table class="basic">
+<caption><p>Table showing the point rating scored by the successful bidder in comparison with the unsuccessful bidder.</p></caption>
+<tbody><tr>
+<td> </td>
+<th scope="col">Technical  Score</th>
+<th scope="col"><strong>Financial  Score</strong></th>
+</tr>
+<tr>
+<th scope="row">Successful _______ (<em>insert</em> "bid" <em>or</em> "offer"<em> or</em> "arrangement")</th>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<th scope="row">Your _______ (<em>insert</em> "bid" <em>or</em> "offer" <em>or</em> "arrangement")</th>
+<td> </td>
+<td> </td>
+</tr>
+</tbody></table>
+<p>I would like to thank you for submitting your _______________ (<strong><em>insert</em></strong> "bid" <strong><em>or</em></strong> "offer"<strong><em> or</em></strong> "arrangement") and  your interest in being a supplier to the Government of Canada. Your  participation is appreciated, and I hope that you will continue to bid on  procurement opportunities offered by Public Works and Government Services  Canada.</p>
+<p>Should  you require further information regarding the evaluation of your _______________ (<strong><em>insert</em></strong> "bid" <strong><em>or</em></strong> "offer"<strong><em> or</em></strong> "arrangement"),  please do not hesitate to contact me.</p>
+<p>_______________ (<strong><em>insert name of contracting authority)</em></strong><br/>
+Contracting Authority</p>
+<p>Telephone: _____-_____-______ </p>
+<p>E-mail:  _______________ @tpsgc-pwgsc.gc.ca</p>
+<p>cc: _______________ (<strong><em>insert any additional names of people who  should receive a copy</em></strong>)</p>
+<h4 id="PN-91ann-7-1-b">Appendix  B: Regret Letter to Unsuccessful  Bidders/Offerors/Suppliers - Non-responsive Bid/Offer/Arrangement</h4>
+<p><strong><em>Note to contracting  officer:</em></strong><em> Because the evaluation methodology for  different procurement varies, this letter will have to be tailored to the  individual requirement. This letter has  been drafted assuming that the bid/offer/arrangement was declared  non-responsive because it has not met one or more mandatory requirements.  Contracting officers should use the other sample regret letter provided in  Appendix A if the bid/offer/arrangement was declared responsive but simply  wasn't the highest-ranked.</em></p>
+<p>_______________ (<strong><em>insert department address</em></strong>)</p>
+<p>_______________ (<strong><em>insert date</em></strong>)</p>
+<p>_______________ (<strong><em>insert supplier's name and address</em></strong>)</p>
+<p>Attention: _______________ (<strong><em>insert name of addressee</em></strong>)</p>
+<p>Dear Mr./Mrs.  _______________ (<strong><em>insert the addressee's last name</em></strong>):</p>
+<p><strong>Subject</strong>: Solicitation No. _______________ </p>
+<p>Thank you for your _______________ (<strong><em>insert </em></strong>"bid" <strong><em>or</em></strong> "offer" <strong><em>or</em></strong> "arrangement")  submitted in response to our request for _______________ (<strong><em>insert  brief description of goods/services</em></strong>).</p>
+<p>This is to inform you that a  _______________ (<strong><em>insert</em></strong> "contract" <strong><em>or</em></strong> "Standing Offer (SO)" <strong><em>or</em></strong> "Supply Arrangement (SA)")will not be issued to you for this requirement. A _______________ (<strong><em>insert</em></strong> "contract" <strong><em>or</em></strong> "<abbr title="Standing Offer">SO</abbr>" <strong><em>or</em></strong> "<abbr title="Supply Arrangement">SA</abbr>") has been awarded to the successful _______________  (<strong><em>insert </em></strong>"bid" <strong><em>or</em></strong> "offer" <strong><em>or</em></strong> "arrangement") submitted by _______________  (<strong><em>insert  name of successful bidder/offeror/supplier</em></strong>) in response to the  above-noted solicitation. The price of  the awarded/issued _______________ (<strong><em>insert</em></strong> "contract" <strong><em>or</em></strong> "<abbr title="Standing Offer">SO</abbr>" <strong><em>or</em></strong> "<abbr title="Supply Arrangement">SA</abbr>") is $_______________  (<strong><em>insert value of awarded contract or <abbr title="Standing Offer">SO</abbr> or <abbr title="Supply Arrangement">SA</abbr></em></strong>) excluding Goods and Services Tax/Harmonized Sales  Tax, as applicable.</p>
+<p>As indicated in the solicitation, a <em>_______________ (<strong>insert</strong></em> "bid" <strong><em>or</em></strong> "offer"<strong><em> or</em></strong> "arrangement") was  required to meet each and every mandatory requirement. Unfortunately, the evaluating team determined  that your <em>_______________ (<strong>insert</strong></em> "bid" <strong><em>or</em></strong> "offer"<strong><em> or</em></strong> "arrangement")  did not comply with all the mandatory requirements of the solicitation,  including the following:</p>
+<p><em>_______________</em> (<strong><em>insert description of non-compliance</em></strong>)</p>
+<p>To provide you with information on the characteristics  and relative advantages of the successful <em>_______________</em>(<strong><em>insert</em></strong> "bid" <strong><em>or</em></strong> "<abbr title="Standing Offer">SO</abbr>" <strong><em>or</em></strong> "<abbr title="Supply Arrangement">SA</abbr>"), you are informed that the successful <em>_______________</em> (<strong><em>insert</em></strong> "bid" <strong><em>or</em></strong> "<abbr title="Standing Offer">SO</abbr>" <strong><em>or</em></strong> "<abbr title="Supply Arrangement">SA</abbr>") has satisfied all the mandatory requirements of the solicitation and  scored on the technical point-rated requirements <em>(insert table</em> below <em>if relevant</em>), as follows:</p>
+<table class="basic">
+<caption><p>Table showing the point rating scored by the successful bidder in comparison with the unsuccessful bidder.</p></caption>
+<tbody><tr>
+<td> </td>
+<th scope="col">Technical  Score</th>
+<th scope="col"><strong>Financial  Score</strong></th>
+</tr>
+<tr>
+<th scope="row">Successful _______ (<em>insert</em> "bid" <em>or</em> "offer"<em> or</em> "arrangement")</th>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<th scope="row">Your _______ (<em>insert</em> "bid" <em>or</em> "offer" <em>or</em> "arrangement")</th>
+<td> </td>
+<td> </td>
+</tr>
+</tbody></table>
+<h5>Instruction to contracting officer:</h5>
+<ol>
+<li><em>If you did not score  the bid/offer because it was disqualified early in the process, add the  following sentence (i.e. As a result of finding your …) and delete the second  row in the above table (i.e. Your _______________…).</em></li>
+<li><em>If you are providing  the unsuccessful bidder/offeror/supplier with its score, delete the following  sentence (i.e. As a result of finding your …).</em></li>
+</ol>
+<p>As a result of finding your <em>_______________ (<strong>insert</strong></em> "bid" <strong><em>or</em></strong> "offer"<strong><em> or</em></strong> "arrangement") to be non-responsive, your <em>_______________  (<strong>insert</strong></em> "bid" <strong><em>or</em></strong> "offer"<strong><em> or</em></strong> "arrangement") was  disqualified and Canada did not proceed with your evaluation and did not determine  a technical score for your <em>_______________ (<strong>insert</strong></em> "bid" <strong><em>or</em></strong> "offer"<strong><em> or</em></strong> "arrangement").</p>
+<p>I would like to thank you for submitting your <em>_______________</em> <em>(<strong>insert</strong></em> "bid" <strong><em>or</em></strong> "offer"<strong><em> or</em></strong> "arrangement") and  your interest in being a supplier to the Government of Canada. Your participation  is appreciated, and I hope that you will continue to bid on procurement  opportunities offered by Public Works and Government Services Canada.</p>
+Should  you require further information regarding the evaluation of your<em> _______________ (<strong>insert</strong></em> "bid" <strong><em>or</em></strong> "offer"<strong><em> or</em></strong> "arrangement"),  please do not hesitate to contact me.
+<p>_______________ (<strong><em>insert name of contracting authority)</em></strong><br/>
+Contracting Authority</p>
+<p>Telephone: _____-_____-______ </p>
+<p>E-mail:  _______________ @tpsgc-pwgsc.gc.ca</p>
+<p>cc: _______________ (<strong><em>insert any additional names of people who  should receive a copy</em></strong>)</p>
+<h2 id="PN-91ann-c">Annex C</h2>
+<h3>Changes to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr>  Manual</h3>
+<h4>2T-LDV1 Low Dollar Value Bid Solicitation and  Resulting Contract Template</h4>
+<p>Modify the 2T-LDV1 template as follows:</p>
+<ol>
+<li>Amend Part 1 - Information and Instructions - to add a  new article as follows:</li>
+</ol>
+<p><strong><em>Remark to Contracting Authority:</em></strong><em> Consult Supply  Manual 7.35, 7.40, 7.45 and <abbr title="Policy Notification">PN</abbr>-91, Debriefings and Regret Letters.</em></p>
+<h4>8. Debriefings</h4>
+<p>After contract award, bidders may request a debriefing  on the results of the bid solicitation. Bidders should make the request to the  Contracting Authority within 15 working days of receipt of notification that  their bid was unsuccessful. The debriefing may be provided in writing, by  telephone or in person.</p>
+<p>*****************</p>
+<h4>2T-MED1 Medium Complexity Bid Solicitation  and Resulting Contract Template</h4>
+<p>Modify the 2T-MED1 template as follows:</p>
+<p>1. Amend the Table of Contents to add a new article as  follows:</p>
+<h5>Part 1 - General  Information</h5>
+<ol>
+<li>Security Requirement</li>
+<li>Statement of Work <strong><em>OR</em></strong> Requirement (<strong><em>choose as applicable</em></strong>)</li>
+<li>Set-aside for Comprehensive Land Claims Agreement(s)  Beneficiaries (<strong><em>if applicable</em></strong>)</li>
+<li>Set-aside under the federal government's Procurement  Strategy for Aboriginal Business (PSAB) (<strong><em>if applicable</em></strong>)</li>
+<li>Communications Notification</li>
+<li class="red">Debriefings</li>
+</ol>
+<p>2. Amend Part 1 - General Information - to add a new  article as follows:</p>
+<p><strong><em>Remark to Contracting Authority</em></strong>: <em>Consult  Supply Manual 7.35, 7.40, 7.45, and <abbr title="Policy Notification">PN</abbr>-91, Debriefings and Regret Letters</em>.</p>
+<h6>6. Debriefings</h6>
+<p>After contract award, bidders may request a debriefing  on the results of the bid solicitation. Bidders should make the request to the  Contracting Authority within 15 working days of receipt of notification that  their bid was unsuccessful. The debriefing may be provided in writing, by  telephone or in person.</p>
+<p>*****************</p>
+<h4>2T-HIGH1 Higher Complexity Bid Solicitation and  Resulting Contract Template</h4>
+<p>Modify the 2T-HIGH1 template as follows:</p>
+<p>1. Amend  the Table of Contents to add a new article as follows:</p>
+<h5>Part 1 - General  Information</h5>
+<ol>
+<li>Introduction </li>
+<li> Summary</li>
+<li>Communications Notification</li>
+<li class="red">Debriefings</li>
+</ol>
+<p>2. Amend Part 1 - General Information to add to a new  article as follows:</p>
+<p><strong><em>Remark to Contracting Authority</em></strong>:<em> Consult Supply Manual 7.35,  7.40, 7.45, and <abbr title="Policy Notification">PN</abbr>-91, Debriefings and Regret Letters.</em></p>
+<h6>4. Debriefings</h6>
+<p>After contract award, bidders may request a debriefing  on the results of the bid solicitation. Bidders should make the request to the  Contracting Authority within 15 working days of receipt of notification that  their bid was unsuccessful. The debriefing may be provided in writing, by  telephone or in person.</p>
+<p>*****************</p>
+<h4>2T-<abbr title="Request for Standing Offers">RFSO</abbr>1 Request for Standing Offers Template</h4>
+<p>Modify the 2T-<abbr title="Request for Standing Offers">RFSO</abbr>1 template as follows: </p>
+<p>1. Amend the  Table of Contents to add a new article as follows: </p>
+<h5>Part 1 - General  Information</h5>
+<ul class="no-markers">
+<li>1. Introduction </li>
+<li>2. Summary</li>
+<li>3. Security  Requirement (<strong><em>if applicable</em></strong>) </li>
+<li>4. Communications  Notification </li>
+<li class="red">5. Debriefings</li>
+<li>X. Key Terms (<strong><em>if  applicable</em></strong>)</li>
+</ul>
+<p>2. Amend Part 1  - General Information - to add a new article as follows: </p>
+<p><strong><em>Remark to Standing Offer Authority</em></strong><em>: Consult Supply Manual 7.35, 7.40, 7.45, and <abbr title="Policy Notification">PN</abbr>-91, Debriefings and  Regret Letters.</em></p>
+<h5>5. Debriefings</h5>
+<p>After issuance of a standing offer, offerors may request a  debriefing on the results of the request for standing offers. Offerors should make the request to the  Standing Offer Authority within 15 working days of receipt of notification that  their offer was unsuccessful. The debriefing may be provided in writing, by  telephone or in person.</p>
+<p>*****************</p>
+<h4>2T-<abbr title="Request for Supply Arrangements">RFSA</abbr>1 Request for Supply Arrangements  Template</h4>
+<p>Modify the 2T-<abbr title="Request for Supply Arrangements">RFSA</abbr>1 template as follows: </p>
+<p>1. Amend the  Table of Contents to add a new article as follows: </p>
+<h5>Part 1 - General  Information</h5>
+<ul class="no-markers">
+<li>1. Introduction </li>
+<li>2. Summary</li>
+<li>3. Security  Requirement (<strong><em>if applicable</em></strong>)</li>
+<li>4. Canadian  Content (<strong><em>if applicable</em></strong>)</li>
+<li>5. Communications  Notification</li>
+<li class="red">6. Debriefings</li>
+<li>X. Key Terms  (if applicable)</li>
+</ul>
+<p>2. Amend Part 1  - General Information - to add a new article as follows: </p>
+<p><strong><em>Remark to Supply Arrangement Authority</em></strong><em>: Consult Supply Manual 7.35,  7.40, 7.45, and <abbr title="Policy Notification">PN</abbr>-91, Debriefings and Regret Letters</em>.</p>
+<h6>6. Debriefings</h6>
+<p>After  issuance of a supply arrangement, suppliers may request a debriefing on the  results of the request for supply arrangements.  Suppliers should make the request to the Supply Arrangement Authority  within 15 working days of receipt of notification that their arrangement was  unsuccessful. The debriefing may be  provided in writing, by telephone or in person.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

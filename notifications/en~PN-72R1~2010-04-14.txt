@@ -1,0 +1,153 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Purpose</h2>
+<p>Policy Notification (PN)-72R1 replaces PN-72R, dated November 14, 2006, in its entirety. PN-72R1 is a companion to, and should be read in conjunction with PN-92, Commodity Management Policy, and with the provisions of applicable chapters of the <em>Supply Manual</em>.  In case of conflict between the <em>Supply Manual</em> and this <abbr title="Policy Notification">PN</abbr>, the provisions of PN-72R1 will take precedence.</p>
+<p>PN-72R1 provides direction to contracting officers on the creation, renewal or extension of standing offers (SOs) (National Master Standing Offer [NMSO], National Individual Standing Offer [NISO], Regional Master Standing Offer [RMSO], Regional Individual Standing Offer [RISO], Departmental Individual Standing Offer [DISO]) and supply arrangements (SAs).</p>
+<p>Requests for all <abbr title="standing offers">SOs</abbr>/<abbr title="supply arrangements">SAs</abbr>, regardless of dollar value or transaction type, related to commodities covered by National Approaches are outside the scope of PN-72R1 and must be addressed by following the instructions provided in PN-92.</p>
+<p>PN-72R1 aims to reduce duplication of <abbr title="standing offers">SOs</abbr>/<abbr title="supply arrangements">SAs</abbr>, increase the effectiveness, efficiency and level of quality of <abbr title="standing offers">SOs</abbr>/<abbr title="supply arrangements">SAs</abbr>, and ensure that within each <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr>, applicable national/regional and social objectives are addressed.  It outlines the roles and responsibilities for individuals involved in the process.</p>
+<h2>Policy</h2>
+<p>Requests for the creation, renewal and extension of <strong><abbr title="standing offers">SOs</abbr></strong> (<abbr title="National Master Standing Offer">NMSO</abbr>, <abbr title="National Individual Standing Offer">NISO</abbr>, <abbr title="Regional Master Standing Offer">RMSO</abbr>, <abbr title="Regional Individual Standing Offer">RISO</abbr>, <abbr title="Departmental Individual Standing Offer">DISO</abbr>) and/or <strong><abbr title="supply arrangements">SAs</abbr></strong> require advance endorsement by either the designated Commodity Manager/Officer of Primary Interest (CM/OPI) identified for those goods or services, or if there is no CM/OPI, by a Regional Reviewer (RR) who is designated for each region.  If there is no CM/OPI/RR, the Manager, Commodity Coordination Division within the Performance, Spend and Commodity Management Directorate, will perform the review.</p>
+<p>All individuals conducting reviews of <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr> requests are referred to in this document as "Reviewer".  A list of reviewers is available and regularly updated in the <a href="http://soi.pwgsc.gc.ca/app/index.cfm?Fuseaction=prg.main&amp;altlang=-e" rel="external">Standing Offer Index</a> (SOI).</p>
+<h2>Application</h2>
+<ol class="double-space">
+<li>
+<strong>Review</strong>
+<p>Before the creation, renewal or extension of any <abbr title="standing offer">SO</abbr> (<abbr title="National Master Standing Offer">NMSO</abbr>, <abbr title="National Individual Standing Offer">NISO</abbr>, <abbr title="Regional Master Standing Offer">RMSO</abbr>, <abbr title="Regional Individual Standing Offer">RISO</abbr>, <abbr title="Departmental Individual Standing Offer">DISO</abbr>) and/or <abbr title="supply arrangement">SA</abbr>, and/or whether or not the extension period was pre-approved in the original document, the contracting officer must submit the "Request for Reviewer Endorsement"  (see <a href="#PN-72R1ann-a">Annex A</a>) to the appropriate Reviewer (see the <a href="http://soi.pwgsc.gc.ca/app/index.cfm?Fuseaction=prg.main&amp;altlang=-e" rel="external">Standing Offer Index</a> for complete listing).</p>
+<p>The Reviewer will:</p>
+<ol class="single-space" type="a">
+<li>"endorse without comment/recommendations"; or</li>
+<li>"endorse with comments/recommendations/conditions"; or</li>
+<li>"decline with supporting rationale".</li>
+</ol>
+<p>If endorsed with comments/recommendations/conditions or declined, contracting officers can revise their request and resubmit it to the Reviewer.</p>
+<p>The Reviewer's endorsement with or without comments/recommendations/conditions, or the rationale for declining, must be included in the Contract Planning and Advance Contract (CPAA) or Procurement Plan.</p>
+<p>Existing contract approval authorities remain in place and approval authorities must ensure that the Reviewer's comments/recommendations/conditions, or the rationale for declining, are included in the approval documentation for the new or amended <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr> before approving or not.</p>
+<p>Contracting officers are encouraged to contact the Reviewer during the planning phase in order to obtain input and possibly expedite the review process.</p>
+<p><a href="#PN-72R1ann-b">Annex B</a> provides instructions and reporting requirements for Reviewers.</p>
+</li>
+<li>
+<strong>Posting <abbr title="standing offers">SOs</abbr>/<abbr title="supply arrangements">SAs</abbr> Files</strong>
+<p>Managers are responsible for ensuring that:</p>
+<ol class="double-space" type="a">
+<li>all <abbr title="standing offers">SOs</abbr> (<abbr title="National Master Standing Offer">NMSO</abbr>, <abbr title="National Individual Standing Offer">NISO</abbr>, <abbr title="Regional Master Standing Offer">RMSO</abbr>, <abbr title="Regional Individual Standing Offer">RISO</abbr>, <abbr title="Departmental Individual Standing Offer">DISO</abbr>) and/or <abbr title="supply arrangements">SAs</abbr> are posted in the <a href="http://soi.pwgsc.gc.ca/app/index.cfm?Fuseaction=prg.main&amp;altlang=-e" rel="external">Standing Offer Index</a> (SOI);</li>
+<li>information posted on the <a href="http://soi.pwgsc.gc.ca/app/index.cfm?Fuseaction=prg.main&amp;altlang=-e" rel="external">Standing Offer Index</a> is accurate, includes the original <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr> document, sequence of amendments and tombstone documentation, such as contracting officer name and phone number.</li>
+</ol>
+</li>
+<li>
+<strong>Use of Departmental Standard Procurement Documents</strong>
+<p>Contracting officers must use the standard procurement templates available on the Departmental Standard Procurement Documents Web site for the issuance of Request for Standing Offers/Request for Supply Arrangements (RFSOs/RFSAs) for goods, services or both.  <em>Standard Acquisition Clauses and Conditions</em> (SACC) Manual clauses must be used in the development of procurement documents; however, other clauses may be included, if approved by Legal Services, for a specific requirement.  If such clauses are to be used on a regular basis, they must be included in the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual by submitting them to the Procurement Process Tools Division, Acquisition Policy and Process Directorate.</p>
+</li>
+<li>
+<strong>Usage Data Reporting</strong>
+<p>The previous version of this <abbr title="Policy Notification">PN</abbr> required that all <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr> usage data be reported to the Value Management Office (VMO); this is no longer required.</p>
+<p>Contracting officers should carefully think through the reporting requirements for <abbr title="standing offers">SOs</abbr>/<abbr title="supply arrangements">SAs</abbr>, so that they can manage and monitor such procurement methods adequately.  Once the reporting requirements have been identified, contracting officers should consider the best approach for meeting these requirements.  There are various sources available for usage reports, e.g. client departments, in-house tracking system, commodity management teams, office of prime interest, Spend Cube Application and offerors/suppliers.  There may even be instances where usage reports are not required.</p>
+<p>If it is determined that it would be necessary to obtain usage reports from offerors/suppliers, as is typically the case with multi-departmental <abbr title="standing offers">SOs</abbr>/<abbr title="supply arrangements">SAs</abbr>, contracting officers must:</p>
+<ol class="single-space" type="a">
+<li>provide a clear description of the reporting requirements in the <abbr title="Request for Standing Offers">RFSOs</abbr>/<abbr title="Request for Supply Arrangements">RFSAs</abbr> and subsequent <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr>, including the required data elements and the frequency of the reports;</li>
+<li>ensure that the information is provided as required in the <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr>;</li>
+<li>analyze the reports and take timely corrective measures as necessary; and,</li>
+<li>document procurement files adequately.</li>
+</ol>
+</li>
+</ol>
+<h2>Revisions to the Standing Offer Index (SOI), Supply Manual (SM) and Standard Acquisition Clauses and Conditions Manual (SACC)</h2>
+<p>Content of <a href="#PN-72R1ann-a">Annex A</a> and <a href="#PN-72R1ann-b">Annex B</a> will be incorporated in the <a href="http://soi.pwgsc.gc.ca/app/index.cfm?Fuseaction=prg.main&amp;altlang=-e" rel="external">Standing Offer Index</a> in the near future. Any changes to the procedures will be reflected in a future version of the <em>Supply Manual</em>.  Changes have been done to <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual clauses <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#M7010C">M7010C</a> and <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#S0010C">S0010C</a>, as part of Version 10-1, dated January 11, 2010.</p>
+<h2>Contact Person</h2>
+<p>Direct inquiries to the Manager, Commodity Coordination Division, Performance, Spend and Commodity Management Directorate, by e-mail at: <a href="mailto:DCBS-CCD@tpsgc-pwgsc.gc.ca" rel="external">DCBS-CCD@tpsgc-pwgsc.gc.ca</a>, or by telephone at: 819-956-0676.</p>
+<div class="alternate-format">Doc Version (73KB)<br/>
+<a class="help" href="https://buyandsell.gc.ca/help/accessibility-help#20">Help on File Formats</a></div>
+<h2 id="PN-72R1ann-a">Annex A - Commodity Management Request for Reviewer Endorsement</h2>
+<p>Requests for the creation, renewal or extension of <abbr title="standing offers">SOs</abbr> (<abbr title="National Master Standing Offer">NMSO</abbr>, <abbr title="National Individual Standing Offer">NISO</abbr>, <abbr title="Regional Master Standing Offer">RMSO</abbr>, <abbr title="Regional Individual Standing Offer">RISO</abbr>, <abbr title="Departmental Individual Standing Offer">DISO</abbr>) and/or <abbr title="supply arrangements">SAs</abbr> require advance endorsement by the applicable Reviewer.  The instructions provided in PN-92 must be followed if the request proposed for the creation, renewal or extension relates to a commodity covered by a National Approach as part of the Commodity Management Policy.</p>
+<p>In order to obtain endorsement, the contracting officer must complete the "Request for Reviewer Endorsement" below and forward it to the applicable Reviewer.  During the evaluation, the Reviewer may:</p>
+<ol class="single-space" type="a">
+<li>request further details, or</li>
+<li>"endorse without comment", or</li>
+<li>"endorse with comments/recommendations/conditions", or</li>
+<li>"decline with supporting rationale".</li>
+</ol>
+<h3>Commodity Management Request for Reviewer Endorsement</h3>
+<ol class="double-space" type="1">
+<li>To  direct this form to the appropriate Reviewer, consult the <a href="http://soi.pwgsc.gc.ca/app/index.cfm?Fuseaction=prg.main&amp;altlang=-e" rel="external">Standing Offer Index</a>, specifically the “Tables of Commodity Teams, Regional  Reviewers and Designated Commodities”.</li>
+<li>Provide  a succinct description of what is being procured, including geographical  location(s) of coverage.</li>
+<li>Requisition  Number: _________________________; <abbr title="Goods and Services Identification Number">GSIN</abbr>: _______________</li>
+<li>Type  of <abbr title="standing offer">SO</abbr> (<abbr title="National Master Standing Offer">NMSO</abbr>, <abbr title="National Individual Standing Offer">NISO</abbr>, <abbr title="Regional Master Standing Offer">RMSO</abbr>, <abbr title="Regional Individual Standing Offer">RISO</abbr>, <abbr title="Departmental Individual Standing Offer">DISO</abbr>)/<abbr title="supply arrangement">SA</abbr>: </li>
+<li>What is the estimated business  volume per year?<br/>
+What is the estimated “extended period” business  volume?</li>
+<li>What  dollar value ($) will appear on the face of the <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr> document(s)?</li>
+<li>Does  the proposed request for the creation, renewal or extension duplicate any other  <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr>/National Approach? If yes, a full explanation should be attached to this  request articulating why the duplication is required with timelines to  eliminate it. The Reviewer should not normally endorse duplication requests.</li>
+<li>Will  the <abbr title="standing offer">SO</abbr>s/<abbr title="supply arrangement">SA</abbr>s be available for use to all federal departments? If not, explain.</li>
+<li>Will  multiple <abbr title="standing offer">SO</abbr>s/<abbr title="supply arrangement">SA</abbr>s, for the same requirement(s) be issued to multiple  offerors/suppliers? If yes, explain how client departments will competitively  determine, at the point of each call-up/contract, which offeror/supplier to  select. Does <abbr title="Public Works and Government Services Canada">PWGSC</abbr> have a mechanism in  place to assist the client department in their selection? If there is no such  system, how will the client department competitively select the  offeror/supplier?</li>
+<li>If  bid pricing is not part of the offeror/supplier evaluation/selection process,  explain what process/system will be made available to the end user to facilitate competition.</li>
+</ol>
+<h4><em>If this is a request for endorsement associated  to an amendment to an existing SO/<abbr title="supply arrangement">SA</abbr>, skip to question 20. If not, continue</em>.</h4>
+<ol class="double-space" start="11" type="1">
+<li>What  is the procurement strategy (competitive/sole source)?</li>
+<li>Will  the Agreement on Internal Trade (AIT), the North American Free Trade Agreement  (NAFTA), the World Trade Organization Agreement on Government Procurement  (WTO-AGP) apply?  If so, indicate which  one(s) will apply?</li>
+<li>Will  the offerors/suppliers be providing usage reports? If yes, does the pricing  strategy include usage threshold discounts?</li>
+<li>Were  environmental performance considerations included in the solicitation strategy  and environment requirements integrated in the solicitation strategy and  decisions taken documented in the procurement file?  If not, explain.</li>
+<li>Were  small and medium enterprise considerations included in the solicitation  strategy and decisions taken documented in the procurement file? If not, explain.</li>
+<li>Were  Comprehensive Land Claims Agreements (CLCAs) considerations and/or the  set-aside under the Procurement Strategy for Aboriginal Business (PSAB)  included in the solicitation strategy and decisions taken documented in the  procurement file?  If not, explain.</li>
+<li>What is the total duration,  including proposed extensions, of the proposed <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr>? Why was this total  duration period chosen?
+<p> Is it the standard period for  this commodity and type of <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr>?  If  not, explain.  Any deviation will require  the next higher level of approval, the highest level being the ADM,  Acquisitions Branch.</p>
+<p>It is important to respect the established  standard period since it has been determined by taking into consideration all  relevant factors, including suppliers’ access to government procurement  opportunities by tendering requirements at reasonable intervals.</p>
+</li>
+<li>In  the event of multiple year <abbr title="standing offer">SO</abbr>s/<abbr title="supply arrangement">SA</abbr>s, how will the prices remain competitive  during the entire period?</li>
+<li>What  are the <abbr title="standing offer">SO</abbr> call-up/<abbr title="supply arrangement">SA</abbr> contract limits and why were these limits chosen?</li>
+</ol>
+<h4>Amendments to extend existing <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr></h4>
+<ol class="double-space" start="20" type="1">
+<li>Why  is this <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr> not being re-solicited?</li>
+<li>How  will the prices remain competitive during the extension period(s)?</li>
+<li>What  was the original <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr> duration and what is the proposed extension period?</li>
+<li>How  is the extension in the best interest of Canada?</li>
+</ol>
+<p>Name of contracting officer  (please print) ___________________</p>
+<p>Phone  number: ____________________</p>
+<h3>This section must be completed by the Reviewer</h3>
+<ol class="double-space" type="A">
+<li>Endorsed without  comment – The Reviewer,  _________________________ (<em>insert name of Reviewer</em>),  endorses this request for issuance of a <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr> or amendment for extension  ____________ (<em>insert </em><em>requisition number</em>), without  comment. The date of this endorsement is  ________________ (insert date).</li>
+<li>Endorsed with  comments/recommendations/conditions – Outline  comments/recommendations/conditions or attach in a separate document</li>
+<li>Declined – Outline the rationale for  the decision or attach in a separate document</li>
+<li>If any aspect of the  original request or the file has been modified as a result of Reviewer’s comments  or recommendations, summarize the main aspects of the changes in the box to the  right.
+ </li>
+</ol>
+<p>Contracting officers must include this request in the procurement file and the Reviewer comments must be included in the <abbr title="Contract Planning and Advance Contract">CPAA</abbr> or Procurement Plan submission.  Once endorsed with or without comments/recommendations/conditions or should the request be declined, the Reviewer will e-mail it back to the contracting officer with a copy to <a href="mailto:DCBS-CCD@tpsgc-pwgsc.gc.ca" rel="external">DCBS-CCD@tpsgc-pwgsc.gc.ca</a>. See <a href="#PN-72R1ann-b">Annex B</a> for further details.</p>
+<h2 id="PN-72R1ann-b">Annex B - Reviewer Instructions and Reporting Requirements</h2>
+<p>Reviews will be conducted in the following manner:</p>
+<ol class="double-space">
+<li>The Requestor will submit the "Request for Reviewer Endorsement" (see <a href="#PN-72R1ann-a">Annex A</a>) to the applicable Reviewer.  The Reviewer may add content to further clarify the request. If the Reviewer is the Commodity Manager/Officer of Primary Interest (CM/OPI), its additions must first be submitted to the following e-mail address: <a href="mailto:DCBS-CCD@tpsgc-pwgsc.gc.ca" rel="external">DCBS-CCD@tpsgc-pwgsc.gc.ca</a> for consideration before inclusion.</li>
+<li>Normally <strong>within 48 hours</strong>, the Reviewer will evaluate/re-evaluate the submitted documentation and advise the Requestor that the request is:<br/>
+<ol class="single-space" type="a">
+<li>endorsed without comments, or</li>
+<li>endorsed with comments/recommendations/conditions, or</li>
+<li>declined with supporting rationale.</li>
+</ol>
+<p>
+		The Reviewer's goal is to:</p>
+<ol class="single-space" type="a">
+<li>ensure adherence to instructions provided in the Commodity Management Policy, PN-92;</li>
+<li>reduce <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr> duplication;</li>
+<li>consider the potential for economies of scale;</li>
+<li>support the commodity management function by providing a copy of the request to the Performance, Spend and Commodity Management Directorate. These documents can be used to analyze trends and the performance of this policy in meeting its intended goals.</li>
+</ol>
+</li>
+<li>The Reviewer must ensure that any changes to the original approach are identified in box "D" of the request.</li>
+</ol>
+<h3>Reviewer Reporting</h3>
+<p>Once the request is completed, the Reviewer must at the same time as endorsement issuance, e-mail a copy to the Commodity Coordination Division at: <a href="mailto:DCBS-CCD@tpsgc-pwgsc.gc.ca" rel="external">DCBS-CCD@tpsgc-pwgsc.gc.ca</a>.</p>
+<h3>Commodity Coordination Division (CCD) Responsibilities</h3>
+<p><abbr title="Commodity Coordination Division">CCD</abbr> is responsible to:</p>
+<ol class="double-space" type="a">
+<li>ensure that, in the event of issues between the Reviewer and the Requestor, the Reviewer may consult the Manager of <abbr title="Commodity Coordination Division">CCD</abbr>, Performance, Spend and Commodity Management Directorate, for assistance.</li>
+<li>educate all reviewers of the process to follow when determining whether or not to endorse a request;</li>
+<li>communicate, on a regular basis, the new National Approaches and/or other pertinent methods of supply to ensure that Reviewers have all the information available to make informed decisions;</li>
+<li>analyse/assess procurement trends:<br/>
+<ol class="double-space" type="i">
+<li>With the data collected, work with the <abbr title="Commodity Manager">CM</abbr>/<abbr title="Officer of Primary Interest">OPI</abbr> to determine if the existing method of supply needs to be revised to include new commodities.</li>
+<li>Perform on a semi annual basis the analysis of data relating to endorsed requests. This data will be studied with the goal of identifying overall trends and making subsequent recommendations (as and if applicable) to the Assistant Deputy Minister, Acquisitions Branch, for potential additions to the <em>Annual Government-wide Plan for Commodity Management</em>.</li>
+</ol>
+</li>
+<li>perform, on a yearly basis, an overall review of all activities with the goal of identifying areas for improvement and proceeding with subsequent improvements.</li>
+</ol>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

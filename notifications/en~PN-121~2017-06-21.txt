@@ -1,0 +1,79 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Purpose</h2>
+<p>The purpose of Policy Notification (PN) 121 is to encourage the use of acquisition cards (Visa, MasterCard) as another option to procure goods and services under standing offers and supply arrangements (SO/SAs). The acquisition cards can be used instead of form 942 (Call-Up Against a Standing Offer) as the procurement tool. This means that the requirement for issuing form 942 when requesting goods and/or services is no longer mandatory but optional.</p>
+<p>The requirements in terms of the information to be provided as per the Treasury Board <a href="http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=14676" rel="external">Guidelines on the Proactive Disclosure of Contracts</a> for transactions above $10,000 remain the same and need to be respected.</p>
+<p>This <abbr title="Policy Notification">PN</abbr> provides information on amendments to clauses found in the Request for Standing Offers (RFSO) standard procurement template and Standard Acquisition Clauses and Conditions (SACC) Manual to enable the use of acquisition cards as a procurement instrument under <abbr title="standing offer">SO</abbr>s/<abbr title="supply arrangements">SA</abbr>s. The Supply Manual is also being amended to reflect the increase in scope of the use of acquisition cards.</p>
+<p>This <abbr title="Policy Notification">PN</abbr> also reinforces the fact that acquisition cards can be used as both, procurement instruments and payment instruments, which may result in additional efficiencies in many instances.</p>
+<p>This <abbr title="Policy Notification">PN</abbr> must be read in conjunction with the applicable policies from the Treasury Board Secretariat and Public Works and Government Services Canada (PWGSC) that set forth and define procurement and payment methods, tools and processes.</p>
+<h2>Effective date</h2>
+<p>This policy is effective immediately.</p>
+<p>PWGSC’s existing <abbr title="standing offer">SO</abbr>s/<abbr title="supply arrangements">SA</abbr>s will be amended to allow the use of acquisition cards as an equivalent to the issuance of the existing form and to allow for purchase and/or pay of goods and services when applicable.</p>
+<h2>Background</h2>
+<p>Previously, <abbr title="Public Works and Government Services Canada">PWGSC</abbr> has encouraged the use of acquisition cards as a payment instrument only to pay for goods and services through various communications such as the <a href="https://buyandsell.gc.ca/policy-and-guidelines/policy-notifications/PN-114">Policy Notification 114</a>. A review established that acquisition cards would bring additional savings if used as procurement instruments and/or payment instruments, especially for lower dollar value, lower risk and higher volume purchases. </p>
+<p>As a procurement instrument, acquisition cards:</p>
+<ul>
+<li>offer a convenient, secure and flexible way to procure goods and services in a timely and efficient manner in transactional based environments</li>
+<li>simplify procedures (example, reduces the number of steps in the procurement process)</li>
+<li>facilitate on-line transactions</li>
+<li>align with industry's practices</li>
+<li>move toward digital and paperless environments</li>
+<li>offer possible rebates based on the volume discount made with acquisition cards and</li>
+<li>allow for quick turnaround</li>
+</ul>
+<p>As a payment instrument, acquisition cards:</p>
+<ul>
+<li>offer a convenient, secure, and flexible way to pay suppliers</li>
+<li>reduce the need for a variety of paper-based processes, such as petty cash accounts and cheques</li>
+<li>lower transaction processing costs per purchase and</li>
+<li>offer possible rebates based on how fast the acquisition card invoices are paid</li>
+</ul>
+<h2>Summary of changes</h2>
+<ul>
+<li>Standard Procurement Templates: In support of this <abbr title="Policy Notification">PN</abbr>, two articles of the Request for Standing Offers standard template – Part 7A - Standing Offer and Resulting Contract Clauses were updated. The modified template can be found on the <a class="gov-auth-link" href="http://www.gcpedia.gc.ca/wiki/Standard_Procurement_Templates" rel="external">Standard Procurement Templates<img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a> page. No change is required for the Request for Supply Arrangements standard procurement template.
+		<ul>
+<li>7.9 entitled Call-up Instruments and</li>
+<li>7.10 entitled Limitation of Call-ups</li>
+</ul>
+</li>
+<li>Standard Acquisition Clauses and Conditions (SACC) Manual In support of this <abbr title="Policy Notification">PN</abbr>, two sections of the 2005 General Conditions – Standing Offers – Goods or Services listed below and one stand-alone clause were updated.
+		<ul>
+<li>Section 04 of GC 2005 entitled Offer</li>
+<li>Section 05 of GC 2005 entitled Call-ups</li>
+<li>Clause M7010C entitled Periodic Usage Reports – Standing Offer</li>
+</ul>
+</li>
+<li>Supply Manual:
+		<br/> In support of this <abbr title="Policy Notification">PN</abbr>, the sections of the Supply Manual listed below were updated:
+		<ul>
+<li>Section 3.155.1 Acquisition Cards in Contracting</li>
+<li>Section 4.70.55.10 Payment by Acquisition Card</li>
+<li>Section 7.10.1 Standing Offers</li>
+</ul>
+</li>
+</ul>
+<h2>Contact Persons</h2>
+<p>Enquiries related to this policy notification can be sent by email to the following address:
+	<a href="mailto:polprograpprovisionnements.acquisitionsprogrampolicy@tpsgc-pwgsc.gc.ca" rel="external">polprograpprovisionnements.acquisitionsprogrampolicy@tpsgc-pwgsc.gc.ca</a>.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Affected Supply Manual sections</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-976bc64346863564fc1a9c5e39176e61">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-3#_3-155">3.155.1: Acquisition Cards In Contracting</a> </li>
+<li class="views-row views-row-2 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-4#_4-70">4.70.55.10: Payment by acquisition card</a> </li>
+<li class="views-row views-row-3 views-row-odd views-row-last">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-7#_7-10">7.10.1: Standing Offers</a> </li>
+</ul></div> </div>
+</div>
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-733e2ad51cac345b6e59a99c42de42ef">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#2005">ARCHIVED: 3.2005: General Conditions - Standing Offers - Goods or Services</a> </li>
+<li class="views-row views-row-2 views-row-even views-row-last">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#M7010C">5.M.M7010C: Periodic Usage Reports: Standing Offer</a> </li>
+</ul></div> </div>
+</div>
+</div>

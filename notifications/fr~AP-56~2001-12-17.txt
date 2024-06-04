@@ -1,0 +1,182 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-56cont" name="cont"><br/>
+AP-56 : Conversion en EUROS</a></h1> <div class="region region-site-wide-message">
+<section id="AP-56site-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-56site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-56site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 17 décembre 2001</h2>
+<h3>Contrats de TPSGC passés en devises européennes nécessitant la conversion en euros.</h3>
+<p>La Communauté économique européenne (CEE) se dirige vers l'utilisation d'une monnaie commune. Les contrats de TPSGC passés en devises des pays membres de la CEE devront faire l'objet d'une conversion de la monnaie nationale d'origine en monnaie européenne.</p>
+<p>La CEE a établi un taux de conversion irrévocable pour chaque devise en question, qui doit être appliqué lors de l'achat ou de la vente de devises euros ou d'unités monétaires nationales. Les taux de conversion figurent ci-dessous.</p>
+<p>Les divers pays affectés par la conversion en euros ont établi les dates officielles auxquelles les unités monétaires actuelles cesseront d'avoir cours légal. Ces dates sont indiquées ci-dessous.</p>
+<h3>MESURES À PRENDRE</h3>
+<p>Les secteurs se chargeront d'apporter les changements nécessaires aux contrats de Travaux publics et Services gouvernementaux Canada (TPSGC) qui ont été passés en unités monétaires nationales, avant la date à laquelle celles-ci cesseront d'avoir cours légal.</p>
+<p>Les secteurs doivent déterminer les contrats visés par le présent Avis relatif aux politiques. Il y aura  peut-être lieu d'examiner les modalités des contrats pour déterminer si des mesures doivent être prises.</p>
+<h3>Conversion</h3>
+<p>Il est important de noter que, pour établir un montant en euros, il faut toujours diviser le montant de la devise nationale actuelle par le taux de conversion correspondant (établi par la CEE).</p>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td>Exemple :</td>
+<td>1 500 000 DM<br/>
+							------------------<br/>
+							1,95583</td>
+<td>=   766 937,82 euros</td>
+</tr>
+</tbody></table>
+<p>Le solde impayé en devises étrangères (c'est-à-dire les montants qui n'ont pas été facturés ou payés à la date officielle à laquelle la monnaie nationale cesse d'avoir cours légal) devra être établi. Il serait peut-être utile d'indiquer en euros, dans le document de modification, la valeur totale du contrat, le montant qui a été payé jusqu'à maintenant, et le montant qui n'a pas encore été facturé ou payé.</p>
+<p>Voici un exemple :</p>
+<table class="basic">
+<caption>
+					CONTRAT INITIAL<br/>
+</caption>
+<tbody><tr>
+<th scope="col">Contrat</th>
+<th scope="col">Montant</th>
+<th scope="col">Monnaie</th>
+</tr>
+<tr>
+<td>Valeur du contrat (en monnaie nationale originale)
+<p>							Montant du contrat payé à ce jour (en monnaie nationale originale)</p>
+<p>							Solde impayé du contrat (en monnaie nationale originale)</p></td>
+<td>1,500,000
+<p>
+							700,000</p>
+<p>
+							800,000</p></td>
+<td>mark allemand (DM) (Allemagne)</td>
+</tr>
+</tbody></table>
+<table class="basic">
+<caption>
+					MONTANT TRANSPOSÉ DU CONTRAT<br/>
+</caption>
+<tbody><tr>
+<th scope="col">Contrat</th>
+<th scope="col">Montant</th>
+<th scope="col">Monnaie</th>
+</tr>
+<tr>
+<td>Valeur de conversion du contrat en euros : 1 euro = 1,95583 DM
+<p>							Valeur de conversion du contrat, en euros, payée à ce jour, au taux de 1 euro = 1,95583 DM</p>
+<p>							Valeur de conversion du solde impayé du contrat, en euros, au taux de 1 euro = 1,95583 DM</p></td>
+<td>766,937.82
+<p>							357,904.31</p>
+<p>
+							409,033.50</p></td>
+<td>euros</td>
+</tr>
+</tbody></table>
+<table class="basic">
+<caption>
+					Taux de conversion en euros et dates auxquelles les monnaies nationales cesseront d'avoir cours légal:<br/>
+</caption>
+<tbody><tr>
+<th scope="col">Pays</th>
+<th scope="col">Monnaie courante</th>
+<th scope="col">Taux de conversion</th>
+<th scope="col">Date de clôture du cours légal</th>
+</tr>
+<tr>
+<td>Autriche</td>
+<td>schilling autrichien </td>
+<td>13.7603</td>
+<td>28 février 2002</td>
+</tr>
+<tr>
+<td>Belgique</td>
+<td>franc belge </td>
+<td>40.3399</td>
+<td>28 février 2002</td>
+</tr>
+<tr>
+<td>France</td>
+<td>franc français </td>
+<td>6.55957</td>
+<td>18 février 2002</td>
+</tr>
+<tr>
+<td>Finlande</td>
+<td>mark finlandais </td>
+<td>5.94573</td>
+<td>28 février 2002</td>
+</tr>
+<tr>
+<td>Allemagne</td>
+<td>mark allemand </td>
+<td>1.95583 </td>
+<td>31 décembre 2001</td>
+</tr>
+<tr>
+<td>Grèce</td>
+<td>drachme grecque </td>
+<td>340.750</td>
+<td>28 février 2002</td>
+</tr>
+<tr>
+<td>Pays-Bas</td>
+<td>florin néerlandais </td>
+<td>2.20371</td>
+<td>28 janvier 2002</td>
+</tr>
+<tr>
+<td>Irlande</td>
+<td>livre irlandaise</td>
+<td>0.787564</td>
+<td>9  février 2002</td>
+</tr>
+<tr>
+<td>Italie</td>
+<td>lire italienne</td>
+<td>1,936.27</td>
+<td>28 février 2002</td>
+</tr>
+<tr>
+<td>Luxembourg</td>
+<td>franc luxembourgeois </td>
+<td>40.3399</td>
+<td>28 février 2002</td>
+</tr>
+<tr>
+<td>Portugal</td>
+<td>escudo portugais </td>
+<td>200.482</td>
+<td>28 février 2002</td>
+</tr>
+<tr>
+<td>Espagne</td>
+<td>peseta espagnole </td>
+<td>166.386</td>
+<td>28 février 2002</td>
+</tr>
+</tbody></table>
+<h3>Règles d'arrondissement</h3>
+<p>La conversion d'unités monétaires nationales en euros est assujettie à des règles particulières afin d'assurer la clarté et l'équité. Chaque taux de conversion correspondant à un euro s'exprime sous la forme de six chiffres (p. ex., 1 euro = 40,3399 BEF). Seuls ces chiffres doivent être utilisés lorsqu'on effectue la conversion; on ne peut pas les arrondir ni les retrancher.</p>
+<p>Si, après la conversion en euros, la troisième décimale est inférieure à cinq, il faut arrondir au chiffre inférieur p. ex, 34,874 euros deviendra 34,87. Par contre, si la troisième décimale est cinq ou un chiffre plus élevé, on doit arrondir à un chiffre supérieur, p. ex., 34,875 deviendra 34,88 euros.</p>
+<h3>Factures et demandes de paiement non réglées avant la date à laquelle la monnaie cesse d'avoir cours légal</h3>
+<p>Lorsque TPSGC a reçu une facture ou une demande de paiement ayant trait à un contrat mais qu'en raison des délais de traitement, le paiement n'a pas été fait avant la date à laquelle la monnaie cesse d'avoir cours légal, le montant payable doit être converti et payé en euros. Les taux de conversion sont indiqués ci-dessus.</p>
+<p>Les paiements émis, dans l'unité monétaire nationale originale, à la date à laquelle la monnaie cesse d'avoir cours légal ou avant seront honorés par les établissements financiers pendant une période de six mois suivant la date d'émission.</p>
+<h3>Contrats comportant une clause d'ajustement du taux de change</h3>
+<p>Certains contrats de TPSGC peuvent comporter, comme modalité de paiement, une clause prévoyant les variations de change qui ont lieu pendant la durée du contrat. En pareil cas, les modalités du contrat devront être revues pour déterminer s'il y a lieu de modifier la clause.</p>
+<p>Dans certains cas où des monnaies nationales européennes sont utilisées, il sera peut-être nécessaire de modifier la clause pour tenir compte de la conversion d'unités monétaires nationales en euros.</p>
+<p>Dans ce cas, il faudra établir le montant en devises étrangères qui n'a pas été facturé, réclamé ou payé à ce jour. Ce montant devra être converti en euros à partir de l'unité monétaire nationale, en appliquant la méthode susmentionnée, qui servira alors de point de départ pour l'application de la clause d'ajustement du taux de change. Il faudra peut-être modifier la mention se rapportant au facteur de conversion du taux de change pour tenir compte de l'euro (c'est-à-dire le facteur de conversion indiqué entre autres dans le Globe and Mail, édition nationale).</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

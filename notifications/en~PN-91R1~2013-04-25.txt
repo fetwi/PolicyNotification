@@ -1,0 +1,40 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Purpose</h2>
+<p>The purpose of Policy Notification 91R1 (PN-91R1) is to provide updated guidance on the debriefing process.</p>
+<h2>Effective date</h2>
+<p><abbr title="Policy Notification">PN</abbr>-91R1 and the related changes to the <cite>Supply Manual</cite>, <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual and Standard Procurement Templates are effective immediately.</p>
+<h2>Policy</h2>
+<p>In addition to other changes, this <abbr title="Policy Notification">PN</abbr> includes specific direction on providing a feedback session instead of a debriefing when a solicitation is cancelled and reissued. When a solicitation is cancelled and reissued, it is very important that contracting officers provide the same information to all bidders/offerors/suppliers, in a generic format, to ensure fairness, openness and transparency throughout the procurement process.</p>
+<h2>Revisions to the <cite>Supply Manual</cite></h2>
+<p>In support of this <abbr title="Policy Notification">PN</abbr>, the <cite>Supply Manual</cite> has been updated. To view the modified sections, please refer to <a href="#PN-91R1affected_supply_manual_sections">Affected <cite>Supply Manual</cite> Section(s)</a> below.</p>
+<h2>Revisions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h2>
+<p>Changes have been made to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr>. To view the modified clauses, please refer to <a href="#PN-91R1affected_sacc_manual_sections">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual Section(s)</a> below. Contracting officers are to incorporate these changes into their procurement documents.</p>
+<h2>Revisions to the Standard Procurement Templates</h2>
+<p>The following <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#TEMPLATES">standard procurement templates</a> have been revised. Contracting officers are to incorporate these changes in their procurement documents.</p>
+<ul>
+<li>February 2013 Low Dollar Value Bid Solicitation and Resulting Contract Template (Simple)</li>
+<li>February 2013 Medium Complexity Bid Solicitation and Resulting Contract Template (MC)</li>
+<li>February 2013 Higher Complexity Bid Solicitation and Resulting Contract Template (HC)</li>
+<li>February 2013 Request for Standing Offers Template (RFSO)</li>
+<li>February 2013 Request for Supply Arrangements Template (RFSA)</li>
+</ul>
+<h2>Contact Information</h2>
+<p>Please direct any enquiries to the Policy, Risk, Integrity and Strategic Management (PRISM) Sector by email: <a href="mailto:dppapublications.appdpublications@tpsgc-pwgsc.gc.ca" rel="external">dppapublications.appdpublications@tpsgc-pwgsc.gc.ca</a>.</p>
+<p><a id="PN-91R1affected_supply_manual_sections"></a></p>
+<p><a id="PN-91R1affected_sacc_manual_sections"></a></p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Affected Supply Manual sections</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-3e25809ecac5aa410c75cd4a74e1d4c3">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-7#_7-40">7.40: Debriefing and feedback session to bidders/offerors/suppliers</a> </li>
+</ul></div> </div>
+</div>
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-d8afc2f1861b26839c7ff982589f8bf5">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#A9043T">5.A.A9043T: Reissue of Bid Solicitation</a> </li>
+</ul></div> </div>
+</div>
+</div>

@@ -1,0 +1,35 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<p>On April 1, 1996 the Treasury Board Payment on Due Date (PODD) Policy was revised. Interest on overdue accounts will now be paid at 3% plus the average Bank of Canada bank rate over the month preceding payment. In addition, the current 15-day interest-free grace period will be eliminated. Contractors will be paid interest automatically for the entire period, where payment is made after the 45<sup>th</sup> day. However, the centralized PODD system cannot calculate the interest owed when payment is made after the 30<sup>th</sup> day but before the 45<sup>th</sup> day. Changes to the system are not contemplated for several years. Therefore, contractors must request payment of interest on a case-by-case basis when payment has been made between the 30<sup>th</sup> and 45<sup>th</sup> days.</p>
+<p>To reflect the change in the PODD policy on April 1, 1996, the clauses below are to be used in all contracts other than those using Real Property Contracting Services' Standard Instructions, Terms and Conditions. Clauses for use in Real Property Contracting Services' Standard Instructions, Terms and Conditions will follow.</p>
+<p>Please have the clause below, entitled "Interest on Overdue Accounts" (Annex A) used in all solicitations, Standing Offers and contracts issued after April 1, 1996.</p>
+<p>Any contract amended for other reasons or renewed on or after April 1, 1996 must be amended to include the clause below (Annex B), entitled "Interest on Overdue Accounts - Amendment".</p>
+<p>In any situation where H0002D is used now,use the appropriate clause below, with "Contractor" changed to "Carrier."</p>
+<h2>Annex A</h2>
+<h3>Interest on Overdue Accounts</h3>
+<p>1. Where applicable, the General Conditions are amended by deleting the section entitled "Interest on Overdue Accounts" or "Payment", whichever forms part of the contract.</p>
+<p>2. For the purposes of this clause:</p>
+<ol type="a">
+<li>"Average Rate" means the simple arithmetic mean of the Bank Rates in effect at 4:00 p.m. Eastern Standard Time each day during the calendar month which immediately precedes the calendar month in which payment is made, where the "Bank Rate" means the rate of interest established from time to time by the Bank of Canada as the minimum rate at which the Bank of Canada makes short term advances to members of the Canadian Payments Association.</li>
+<li>"date of payment" means the date of the negotiable instrument drawn by the Receiver General for Canada and given for payment of an amount due and payable;</li>
+<li>an amount is "due and payable" when it is due and payable by Canada to the Contractor in accordance with the terms of the Contract; and</li>
+<li>an amount becomes "overdue" when it is unpaid on the first day following the day upon which it is due and payable.</li>
+</ol>
+<p>3. Canada shall be liable to pay to the Contractor simple interest at the Average Rate plus 3 percent per annum on any amount that is overdue, from the date such amount becomes overdue until the day prior to the date of payment, inclusive. Interest shall be paid without notice from the Contractor except in respect of payment which is less than 15 days overdue. No interest will be payable or paid in respect of payment made within such 15 days unless the Contractor so requests after payment has become due.</p>
+<p>4. Canada shall not be liable to pay interest in accordance with this clause if Canada is not responsible for the delay in paying the Contractor.</p>
+<p>5. Canada shall not be liable to pay interest on overdue advance payments.</p>
+<h2>Annex B</h2>
+<h3>Interest on Overdue Accounts - Amendment</h3>
+<p>1. This clause applies to all payments made after March 31, 1996.</p>
+<p>2. For the purposes of this clause:</p>
+<ol type="a">
+<li>"Average Rate" means the simple arithmetic mean of the Bank Rates in effect at 4:00 p.m. Eastern Standard Time each day during the calendar month which immediately precedes the calendar month in which payment is made, where the "Bank Rate" means the rate of interest established from time to time by the Bank of Canada as the minimum rate at which the Bank of Canada makes short term advances to members of the Canadian Payments Association.</li>
+<li>"date of payment" means the date of the negotiable instrument drawn by the Receiver General for Canada and given for payment of an amount due and payable;</li>
+<li>an amount is "due and payable" when it is due and payable by Canada to the Contractor in accordance with the terms of the Contract; and</li>
+<li>an amount becomes "overdue" when it is unpaid on the first day following the day upon which it is due and payable.</li>
+</ol>
+<p>3. Canada shall be liable to pay to the Contractor simple interest at the Average Rate plus 3 percent per annum on any amount that is overdue, from the date such amount becomes overdue until the day prior to the date of payment, inclusive. Interest shall be paid without notice from the Contractor except in respect of payment which is less than 15 days overdue. No interest will be payable or paid in respect of payment made within such 15 days unless the Contractor so requests after payment has become due.</p>
+<p>4. Canada shall not be liable to pay interest in accordance with this clause if Canada is not responsible for the delay in paying the Contractor.</p>
+<p>5. Canada shall not be liable to pay interest on overdue advance payments.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

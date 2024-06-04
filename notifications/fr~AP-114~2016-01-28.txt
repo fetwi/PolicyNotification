@@ -1,0 +1,78 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Objet</h2>
+<p>L’<abbr title="Avis relatif aux politiques">AP</abbr>-114 vise à inciter les employés du Programme des approvisionnements (PA) de Travaux publics et Services gouvernementaux Canada (TPSGC) ainsi que toute autre personne fournissant des services d’approvisionnement pour le compte du <abbr title="Programme des approvisionnements">PA</abbr> à recourir à des instruments de paiement électronique, sans papier.</p>
+<p>Les cartes d’achat peuvent être utilisées à la fois comme instrument d’approvisionnement et comme instrument de paiement et peuvent permettre de réaliser des gains d’efficience. Par conséquent, à n’importe quelle étape du processus d’approvisionnement mais de préférence au cours de l’étape de définition des besoins, les agents de négociation des contrats devraient analyser avec le client les possibilités qui existent quant à l’utilisation des instruments de paiement électronique.</p>
+<p>Le présent <abbr title="Avis relatif aux politiques">AP</abbr> doit être lu conjointement avec les politiques du Secrétariat du Conseil du Trésor et de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>, lesquelles établissent et définissent les méthodes, outils et processus d’approvisionnement et de paiement.</p>
+<h2>Renseignements généraux</h2>
+<p>Le gouvernement du Canada s'efforce continuellement d'améliorer l'efficacité de ses opérations. Grâce aux récentes avancées technologiques et aux innovations constantes offertes par le secteur des paiements, il est possible de réaliser d'autres gains d'efficience en ce qui concerne les instruments de paiement utilisés pour acheter des biens et des services.</p>
+<p>Le secteur des paiements actuel offre une vaste gamme d’instruments de paiement, y compris les paiements électroniques (comme le dépôt direct et les cartes d’achat). Ces instruments peuvent offrir de nombreux avantages, comme la réduction des coûts de traitement, la rapidité et la facilité d’utilisation. </p>
+<h2>Résumé des besoins</h2>
+<p>Lorsqu’ils doivent effectuer un paiement à un entrepreneur pour des biens et des services acquis par le gouvernement du Canada, les agents de négociation des contrats sont invités à utiliser les instruments de paiement électronique, sans papier, comme décrits ci-dessous, en remplacement d’un chèque.</p>
+<ol type="1">
+<li>Les instruments de paiement électronique comprennent ce qui suit :
+    	<ul>
+<li><strong>Carte d’achat du gouvernement du Canada</strong> - Les cartes Visa et MasterCard sont les deux principales cartes d’achat utilisées par le gouvernement du Canada.</li>
+<li><strong>Dépôt direct</strong> - Instrument de paiement privilégié par le gouvernement du Canada, qui peut être utilisé pour les transferts de fonds à l’échelle nationale et internationale. Les paiements par dépôt direct sont toujours versés en monnaie locale pour les transferts de fonds internationaux. Le dépôt direct n’est pas accompagné de relevé ou de renseignements sur les remises, cependant, les ministères et organismes peuvent maintenant envoyer par courriel une explication relative aux paiements aux fournisseurs.</li>
+<li><strong>Échange de données informatisées</strong> - Paiement électronique qui comprend des renseignements structurés sur les remises, ou un relevé concernant le paiement (p. ex. décrivant l’objet du paiement).</li>
+<li><strong>Virement télégraphique</strong> - Service établi par le receveur général pour des paiements versés dans des comptes. Le virement télégraphique est utilisé pour les paiements en devises étrangères de grande valeur, de faible volume et urgents ou pour les paiements devant être émis dans une devise autre que celle du pays de destination.</li>
+<li><strong>Système de transfert de paiements de grande valeur</strong> - Système électronique de virement télégraphique qui facilite le transfert des paiements de plus de 25 millions de dollars au Canada.</li>
+</ul>
+</li>
+<li>Cartes d’achat du gouvernement du Canada
+<p>Les cartes d’achat du gouvernement du Canada (Visa et MasterCard) peuvent être utilisées comme instrument d’achat et instrument de paiement. Dans certaines situations, leur utilisation peut permettre de réaliser des gains d’efficience supplémentaires en matière d’approvisionnement. Les cartes d’achat du gouvernement du Canada sont principalement utilisées pour l’achat de biens et de services de faible valeur (p. ex. moins de 10 000 $), à volume élevé et à faible risque, conformément aux exigences législatives et politiques applicables, comme la  <a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=17059" rel="external">Directive sur les cartes d’achat</a> du Conseil du Trésor.</p>
+<p>
+L’utilisation de la carte d’achat pour acquérir des biens ou des services présente de nombreux avantages :
+</p>
+<ul>
+<li>offre une façon pratique d’acquérir des biens et des services rapidement et efficacement;</li>
+<li>simplifie les procédures d’achat (p. ex. réduit le nombre d’étapes du processus d’approvisionnement);</li>
+<li>simplifie le cycle d’approvisionnement pour les achats fréquents; </li>
+<li>diminue les écritures liées aux demandes d’achat, aux bons de commande, etc.;</li>
+<li>simplifie les achats urgents et ponctuels;</li>
+<li>offre une segmentation plus adéquate des fournisseurs au moyen des codes de catégorie des commerçants;</li>
+<li>établit les limites individuelles par utilisateur de carte d’achat, produit ou service acheté, etc.</li>
+</ul>
+</li>
+</ol>
+<h2>Résumé des modifications</h2>
+<p>En appui à cet AP, les modifications suivantes sont apportées au <cite>Guide des approvisionnements</cite> : </p>
+<ul>
+<li>L’article 4.70.55 est mis à jour et devient l’article 4.70.55.10; un nouvel article 4.70.55 Instruments de paiement est créé.</li>
+<li>Les nouveaux articles suivants sont ajoutés : 4.70.55.5 Dépôt direct, 4.70.55.15 Échange de données informatisées, 4.70.55.20 Virements télégraphiques et  4.70.55.25 Système de transfert de paiements de grande valeur.</li>
+</ul>
+<p>Les clauses H3027T et H3027C du Guide des clauses et conditions uniformisées d’achat sont également mises à jour afin d’inclure les instruments de paiement électronique qui sont présentés dans cet avis relatif aux politiques.</p>
+<h2>Glossaire</h2>
+<p>Pour obtenir un lexique des termes, consulter le <a href="http://www.gcpedia.gc.ca/wiki/Suite_des_politiques_du_Programme_des_approvisionnements/D%C3%A9finitions" rel="external">Glossaire de la Suite des politiques du Programme des approvisionnements</a>.</p>
+<h2>Ressources</h2>
+<p>Pour toute question sur le contenu du présent AP, communiquer avec la Direction de la politique stratégique (DPS) du Secteur de la politique, du risque, de l’intégrité et de la gestion stratégique (SPRIGS) à l’adresse suivante : <a href="mailto:TPSGC.PolPrograpprovisionnements-AcquisitionsProgramPolicy.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PolPrograpprovisionnements-AcquisitionsProgramPolicy.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
+<p>
+Les questions concernant les instruments de paiement peuvent être acheminées au receveur général à l’adresse suivante : <a href="mailto:RGEnquire.RequetesRG@tpsgc-pwgsc.gc.ca" rel="external">RGEnquire.RequetesRG@tpsgc-pwgsc.gc.ca</a>.
+</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Sections du Guide des approvisionnements visées</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-039a03e83eba9be29877b3420e419058">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-4#_4-70">4.70.55: Instruments de paiement</a> </li>
+<li class="views-row views-row-2 views-row-even">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-4#_4-70">4.70.55.5: Dépôt direct</a> </li>
+<li class="views-row views-row-3 views-row-odd">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-4#_4-70">4.70.55.10: Paiement effectué par carte d’achat</a> </li>
+<li class="views-row views-row-4 views-row-even">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-4#_4-70">4.70.55.15: Échange de données informatisées</a> </li>
+<li class="views-row views-row-5 views-row-odd">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-4#_4-70">4.70.55.20: Virements télégraphiques</a> </li>
+<li class="views-row views-row-6 views-row-even views-row-last">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-4#_4-70">4.70.55.25: Système de transfert de paiements de grande valeur</a> </li>
+</ul></div> </div>
+</div>
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-a520c31c6a4a0bad50122313d8e2048b">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#H3027T">5.H.H3027T: Paiement électronique de factures - soumission</a> </li>
+<li class="views-row views-row-2 views-row-even views-row-last">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#H3027C">5.H.H3027C: Paiement électronique de factures - contrat</a> </li>
+</ul></div> </div>
+</div>
+</div>

@@ -1,0 +1,200 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Purpose</h2>
+<p>The purpose of this Policy Notification 105R1 (PN-105R1) is to notify all Acquisitions Program (AP) employees and any other persons providing procurement services on behalf of <abbr title="Acquisitions Program">AP</abbr> about the new procurement complexity levels, risk assessment, and approval authorities.</p>
+<p><abbr title="Policy Notification">PN</abbr>-105R1 introduces the expansion of the procurement complexity levels from three to five and provides clarification and standardization of delegated authorities across all complexity levels. The <cite>Supply Manual</cite> is being amended to reflect these changes.</p>
+<p>This Policy Notification (<abbr title="Policy Notification">PN</abbr>-105R1) supersedes Policy Notification <abbr title="Policy Notification">PN</abbr>-104 – Implementation of New Processes for Basic and Standard Procurements (dated 2011-10-04) and Policy Notification <abbr title="Policy Notification">PN</abbr>-105 – Chapter 6, Approvals and Authorities – Changes further to the New Processes for Basic and Standard Procurements (dated 2012-04-05).</p>
+<h2>Effective Date</h2>
+<p>These changes take effect on September 2, 2014.</p>
+<h2>Background</h2>
+<p>Public Works and Government Services Canada (PWGSC) continues to streamline the procurement process and improve the process efficiency by building on the changes implemented on October 4, 2011 (Phase 1), which established three (3) levels of procurement based on complexity: Basic, Standard and Complex.</p>
+<p>During Phase 1, procurements were classified by complexity (as determined by the <abbr title="Acquisitions Program">AP</abbr> Manager), and procurements that met the characteristics of a basic or standard procurement were required to undergo a risk assessment prior to seeking approval of the procurement strategy, contract award, or non-administrative contract amendments.</p>
+<p>The approval authority level required for a basic or standard procurement within departmental authority was established through the determination of the complexity level of a requirement and the completion of a risk assessment. For requirements that were deemed complex (which included all requirements not considered basic or standard, including those requiring Treasury Board approval), the current business processes remained unchanged. With the exception of <abbr title="Treasury Board">TB</abbr> submissions, complex requirements were not required to undergo a mandatory risk assessment and the determination of the approval authority was based only on the total value of the procurement.</p>
+<p>This <abbr title="Policy Notification">PN</abbr> introduces Phase 2, which establishes a more robust risk structure by extending the revisions established under <abbr title="Policy Notification">PN</abbr>-104 to encompass all complexity levels.</p>
+<h2>Summary of Revisions</h2>
+<p>The following provides an overview of the changes to the procurement process under Phase 2:</p>
+<ol type="1">
+<li>Complexity Streams and Assessment:
+<ul class="no-markers">
+<li>The naming of the existing complexity streams is transitioning from Basic, Standard, and Complex to a numbering system.  
+<ul>
+<li>Level 1 (former Basic);</li>
+<li>Level 2 (former Standard); and</li>
+</ul>
+</li>
+<li>The former Complex procurement classification is now divided into three (3) distinct levels:
+<ul>
+<li>Level 3 (Custom/Unique);</li>
+<li>Level 4 (Transformational – Enterprise); and</li>
+<li>Level 5 (Transformational – Public).</li>
+</ul>
+
+Phase 1 focused on the majority of the <abbr title="Acquisitions Program">AP</abbr> business volume, basic and standard procurements, while Phase 2 refines and provides clarity to the term complex.
+
+<br/>Identification of which level a procurement falls within is determined by reviewing the characteristics contained within the Procurement Complexity Assessment where complexity is measured based on risk rather than the dollar value of the requirement. The complexity assessment, along with further details on the changes between the previous and new complexity assessments, can be found in the Procurement Library.</li>
+</ul>
+</li>
+<li>Procurement Risk Assessments:
+
+<br/>Procurement risk assessments apply to all procurements regardless of complexity level and must be completed at the procurement strategy phase. Procurement officers may also use the risk assessment tools during the requirements definition phase when discussing a potential procurement with clients.  
+
+<br/>For Complexity Levels 1, 2, and 3, the revised procurement risk assessment tools are available in the <a class="gov-auth-link" href="http://intranet.tpsgc-pwgsc.gc.ca/app-acq/text/ca-pc/risque-risk-eng.html" rel="external">Procurement Tools<img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a> page on The Source,<abbr title="Public Works and Government Services Canada">PWGSC</abbr>’s intranet site (available internally only). All procurement risk assessments now identify <abbr title="Treasury Board">TB</abbr> as an approval authority, given that requiring <abbr title="Treasury Board">TB</abbr> approval does not necessarily mean a more complex procurement. In addition, risk factors that were only considered when developing <abbr title="Treasury Board">TB</abbr> submissions have now been incorporated, as appropriate, into all procurement risk assessment tools. These factors are identified at the procurement strategy phase rather than the contract entry phase, permitting earlier identification of risk and implementation of risk mitigation strategies. 
+
+<br/>For procurements that require the approval of <abbr title="Treasury Board">TB</abbr>, procurement officers must consult with the Risk Management Advisory Services (RMAS). <abbr title="Risk Management Advisory Services">RMAS</abbr> will work collaboratively with the procurement officer to ensure that all relevant medium, medium-high and high risks are identified appropriately within the <abbr title="Treasury Board">TB</abbr> submission.
+
+<br/>Due to the high level of risk and uncertainty associated with Complexity Levels 4 and 5, procurement officers must contact the <abbr title="Risk Management Advisory Services">RMAS</abbr> for assistance in completing a custom risk assessment, which may use tools such as the Risk Management Matrix Tool.</li>
+<li>Delegations of Authority and Oversight:
+<ol type="a">
+<li>Revisions to Chapters 2, 3, 4 and 5 of the <cite>Supply Manual</cite> (SM) reflect the transition to a numerical system of identifying complexity levels and the introduction of risk assessments for all levels of procurement complexity.</li>
+<li>Revisions to Chapter 6 of the <cite>Supply Manual</cite>, including Sub-Annexes of Annex 6.4 (Conditions Imposed on the Approval Authority Limits for <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Personnel) align contract entry limits across all complexity levels of procurement.</li>
+<li>To streamline the approval approach for all contract entry authorities, all tables under the formerly named “Complex” procurements that identified approval level by dollar value have been replaced with those used for the former Basic and Standard with the following adjustments:
+<ol type="i">
+<li>Complexity Levels 1, 2 and 3: The approval authority level is determined through the completion of a procurement risk assessment to identify and categorize the risks associated with procurement and the approval level required (including those requiring <abbr title="Treasury Board">TB</abbr> authority).</li>
+<li>Complexity Levels 4 and 5: The approval authority is set at Assistant Deputy Minister, Acquisitions Branch (ADM-AB) for approval of both the procurement strategy and contract entry, when a procurement is within departmental contract entry authorities. For procurements outside the departmental authorities, the procurement strategy must be approved by the <abbr title="Assistant Deputy Minister, Acquisitions Branch">ADM-AB</abbr>, with subsequent contract entry authority approved by <abbr title="Treasury Board">TB</abbr>.</li>
+<li>Complexity Levels 3, 4, and 5: Restrictions were removed for Complexity Levels 3, 4, and 5 (formerly “Complex”) procurements specified in Annex 6.4 (b), (c) and (d), to align with previously approved changes made during Phase 1 for Levels 1 and 2 (Basic and Standard). Current Directives and Policies that provide instruction on when procurement must, or should, consult Legal, Cost and Quality Control services remain in force. Notwithstanding any Directives and Policies, procurement officers should continue to call upon Legal, Cost and Quality Control services any time it is prudent to do so.</li>
+<li>Restrictions on ratifications within Departmental Authorities, identified in Section 6.30.5 (a), are now aligned with approved changes made to Levels 1 and 2 (Basic and Standard). In Phase 1, “complex” procurement contract entry authority was restricted to 50% of the non-competitive contract approval limits with the minimum approval authority set at Director’s level. Under Phase 2, the authority level is now determined by the procurement risk assessment and the non-competitive contract approval authority limits for Complexity Levels 1, 2 and 3; the authority level for Complexity Level 4 and 5 is set at <abbr title="Assistant Deputy Minister, Acquisitions Branch">ADM-AB</abbr> level.</li>
+<li>Restrictions on approval of Formal Procurement Plans, as listed in <abbr title="Policy Notification">PN</abbr>-95, have been lifted. <abbr title="Policy Notification">PN</abbr>-95 required <abbr title="Assistant Deputy Minister, Acquisitions Branch">ADM-AB</abbr> approval for all formal Procurement Plans of non-competitive procurements (including directed procurements with an Advance Contract Award Notice (ACAN). Directors General/Regional Directors General (DG/RDG) are the approval level for all procurement plans generated within their respective sector/region for Complexity Levels 1, 2 and 3, and those requiring <abbr title="Treasury Board">TB</abbr> contract approvals.
+
+<br/>A copy of the <abbr title="Directors General/Regional Directors General">DG/RDG</abbr> approved procurement plan for all non-competitive procurements (including those with posted <abbr title="Advance Contract Award Notice">ACAN</abbr>) must be forwarded to the <abbr title="Assistant Deputy Minister, Acquisitions Branch">ADM-AB</abbr> within 48 hours of the signing of the approval document. The transmission of the procurement plan will be co-ordinated through the appropriate Directors General/Regional Directors General offices.</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<h2>Individual Delegation Forms</h2>
+<p>As approval limits for Complexity Levels 3, 4 and 5 have changed, procurement officers who require delegation of authorities for the Complexity Level 3 must complete a new individual delegation form for their level and position and select appropriate commodities). Procurement officers forward the signed and dated delegation form for signature and date of the respective supervisor.</p>
+<p>The Delegation of Common Service Acquisition Authorities – Schedule 3 (PWGSC-TPSGC 524) form is available on <abbr title="Electronic Forms">ELF</abbr>.</p>
+<p>Supervisor must ensure that:</p>
+<ol type="1">
+<li>the new individual delegation form(s) is completed for each incumbent to reflect the revised authorities;</li>
+<li>the signed original individual delegation form is forwarded to the office of the Director General, <abbr title="Policy, Risk, Intregrity and Strategic Management Sector">PRISMS</abbr>, Attention: Susan Blakeney, Acquisition Policy and Process Directorate, (Regional offices are requested to forward a copy of the signed form); and</li>
+<li>a signed copy is kept on file in the procurement area or central location.</li>
+</ol>
+<h3>Clarification</h3>
+<p>Delegation of Authority forms currently in place for procurement officers conducting only Levels 1 and 2 procurements (formerly “Basic” and “Standard”) remain unchanged.</p>
+<p>A new delegation form is not required if the procurement officer procures only under Levels 1 and 2 and has a completed and signed delegation form on file (the “Basic and Standard Procurement” delegation form continues to be valid), and</p>
+<ol type="a">
+<li>there are no changes to the commodities; or</li>
+<li>the complexity level of the procurement has not changed; or</li>
+<li>the approval limits on the most recent completed and signed delegation form have not changed.</li>
+</ol>
+<p>Please check the current signed delegation form for your position to ensure a new form is not required.</p>
+<h2>Summary of changes</h2>
+<p><cite>Supply Manual</cite>:
+<br/>In support of this <abbr title="Policy Notification">PN</abbr>, the <cite>Supply Manual</cite> was updated. The modified sections are listed below in "Affected <cite>Supply Manual</cite> Sections".
+
+<br/>The detailed changes are described in the <a href="https://buyandsell.gc.ca/policy-and-guidelines/Supply-Manual/Supply-Manual-Synopsis"><cite>Supply Manual</cite> Synopsis</a> - Version 2014-4 (2014-09-25).</p>
+<p>Standard Acquisition Clauses and Conditions (SACC) Manual:
+<br/>There are no changes to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual.</p>
+<h2>Contact Persons</h2>
+<p>For more information about the changes to the Procurement Complexity Levels, and risk assessments introduced by the Strategic Policy Directorate, <abbr title="Policy, Risk, Intregrity and Strategic Management Sector">PRISMS</abbr>, please contact: <a href="mailto:Modernizingtogether.modernisonsensemble@tpsgc-pwgsc.gc.ca" rel="external">Modernizingtogether.modernisonsensemble@tpsgc-pwgsc.gc.ca</a>.</p>
+<p>For more information about the content of this Policy Notification, contact Jo-Anne Carriere, Strategic Policy Directorate, 819-956-1372 or by e-mail at <a href="mailto:jo-anne.carriere@tpsgc-pwgsc.gc.ca" rel="external">jo-anne.carriere@tpsgc-pwgsc.gc.ca</a>.</p>
+<p>For more information about the delegation of authorities and delegation forms, contact Susan Blakeney, Acquisition Policy and Process Directorate, 819-956-8235 or by e-mail at <a href="mailto:susan.blakeney@tpsgc-pwgsc.gc.ca" rel="external">susan.blakeney@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Affected Supply Manual sections</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-aebc91182cebfef4d0dde2bb1fdc849f">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-2#_2-1">2.1: Requirements definition</a> </li>
+<li class="views-row views-row-2 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-2#_2-26">2.26: Early Engagement with Clients, Suppliers and Public Works and Government Services Canada (PWGSC) Contracting Officers</a> </li>
+<li class="views-row views-row-3 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-2#_2-30">2.30.10: Allocation of Work by Complexity</a> </li>
+<li class="views-row views-row-4 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-2#_2-30">2.30.15: Complexity Code</a> </li>
+<li class="views-row views-row-5 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-2-annexes#_2-4">2.4: Annex: Characteristics of Acquisitions Program Procurement Complexity Levels</a> </li>
+<li class="views-row views-row-6 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-2-annexes#_2-5">2.5: Annex: Entering Complexity Code into the Automated Buyer Environment</a> </li>
+<li class="views-row views-row-7 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-3#_3-1">3.1.5: Procurement Risk Assessments for Complexity Level 1, 2 and 3 Procurements</a> </li>
+<li class="views-row views-row-8 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-3#_3-1">3.1.10: Addressing Identified Risks in the Approval Document</a> </li>
+<li class="views-row views-row-9 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-3#_3-1">3.1.15: Complex Procurement </a> </li>
+<li class="views-row views-row-10 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-3#_3-15">3.15.5.10: Statement of Capabilities (Challenge Process)</a> </li>
+<li class="views-row views-row-11 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-3#_3-60">3.60.1: Requirements</a> </li>
+<li class="views-row views-row-12 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-3#_3-90">3.90: Contracting with former public servants</a> </li>
+<li class="views-row views-row-13 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-3#_3-110">3.110: Legal Services</a> </li>
+<li class="views-row views-row-14 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-4#_4-15">4.15: Preparation of the Solicitation Documents</a> </li>
+<li class="views-row views-row-15 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-4#_4-100">4.100: Canceling and reissuing a solicitation</a> </li>
+<li class="views-row views-row-16 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-5#_5-35">5.35: Evaluating the bids</a> </li>
+<li class="views-row views-row-17 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-5#_5-45">5.45.1: Formal Peer Review Process</a> </li>
+<li class="views-row views-row-18 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-5">6.5: Procurement Approval Documents</a> </li>
+<li class="views-row views-row-19 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-5">6.5.1.1: Procurement Plan for Procurements below Director General Level</a> </li>
+<li class="views-row views-row-20 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-5">6.5.1.5: Formal Procurement Plan for Complexity Levels 4 and 5</a> </li>
+<li class="views-row views-row-21 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-5">6.5.5: Contract Planning and Advance Approval</a> </li>
+<li class="views-row views-row-22 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-5">6.5.5.1: Contract planning and advance approval instructions</a> </li>
+<li class="views-row views-row-23 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-5">6.5.5.5: Contract Request or Contract Planning and Advance Approval (CPAA) Resubmission</a> </li>
+<li class="views-row views-row-24 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-5">6.5.10: Contract Request</a> </li>
+<li class="views-row views-row-25 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-5">6.5.15.1: Procurements Requiring a Treasury Board Submission</a> </li>
+<li class="views-row views-row-26 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-10">6.10.1: Contract Quality Control Review</a> </li>
+<li class="views-row views-row-27 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-10">6.10.5: Legal Services Review</a> </li>
+<li class="views-row views-row-28 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-10">6.10.10: Cost and price analysis services</a> </li>
+<li class="views-row views-row-29 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-20">6.20: Contract Approval and Signing Authorities</a> </li>
+<li class="views-row views-row-30 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-20">6.20.1.5: Incumbent</a> </li>
+<li class="views-row views-row-31 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-25">6.25.25: Financial Evaluation of Bids/Offers/Arrangements</a> </li>
+<li class="views-row views-row-32 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-25">6.25.35: Stop Work Orders and Notices of Termination</a> </li>
+<li class="views-row views-row-33 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-25">6.25.60: Standing Offer</a> </li>
+<li class="views-row views-row-34 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-30">6.30.1: Ratification by Treasury Board</a> </li>
+<li class="views-row views-row-35 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-30">6.30.5: Ratifications within Departmental Authorities</a> </li>
+<li class="views-row views-row-36 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-30">6.30.10: Confirming Orders and Contracts Involving Pre-contractual Work</a> </li>
+<li class="views-row views-row-37 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-1">6.1: Annex: Procurement Plan Instructions</a> </li>
+<li class="views-row views-row-38 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-2">6.2: Annex: Contract request instructions</a> </li>
+<li class="views-row views-row-39 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-3">6.3: Annex: Preparation of Contract Amendment Approval Documents</a> </li>
+<li class="views-row views-row-40 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-4">6.4: Annex: Conditions Imposed on the Approval Authority Limits for Public Works and Government Services Canada Personnel</a> </li>
+<li class="views-row views-row-41 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-4">6.4.1: Annex: Approval authorities and additional signing authorities in support of clients' programs only - Other than for Canadian Commercial Corporation</a> </li>
+<li class="views-row views-row-42 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-4">6.4.2: Annex: Contracting limits including exceptional authorities</a> </li>
+<li class="views-row views-row-43 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-4">6.4.2.1: Annex: Contracting Limits for Basic and Standard Procurements</a> </li>
+<li class="views-row views-row-44 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-4">6.4.2.5: Annex: Contracting Limits for Complex Procurements</a> </li>
+<li class="views-row views-row-45 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-4">6.4.3: Annex: Exceptional Contracting Limits for Complex Procurements</a> </li>
+<li class="views-row views-row-46 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-4">6.4.4: Annex: Notes to Exceptional Contracting Limits for Complex Procurements</a> </li>
+<li class="views-row views-row-47 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-4">6.4.6: Annex: Contract Amendment Approval Instructions for Complexity Levels 1, 2 and 3</a> </li>
+<li class="views-row views-row-48 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-4">6.4.7: Annex: Complex Contract Amendment Approval Instructions</a> </li>
+<li class="views-row views-row-49 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-4">6.4.8: Annex: Amendment Approval Instructions for all Complexities</a> </li>
+<li class="views-row views-row-50 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-8#_8-70">8.70.10: Approval of Contract Amendments</a> </li>
+<li class="views-row views-row-51 views-row-odd views-row-last">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/glossary">1: Supply Manual Glossary</a> </li>
+</ul></div> </div>
+</div>
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

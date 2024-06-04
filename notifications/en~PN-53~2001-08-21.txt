@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<p>The requirement that requests for confirming orders be made at the Assistant Deputy Minister level no longer applies. Section 7F.692(a) of the Supply Manual will be amended by removing this requirement.</p>
+<hr/>
+<p><strong>7F.692 (xx/xx/xx)</strong> Public Works and Government Services Canada (PWGSC) is not in the business of placing contracts to confirm the actions of client departments. The practice of providing such service to client departments should be discouraged to the maximum extent practicable. However, acknowledging that in some instances it may be necessary for <acronym title="Public Works and Government Services Canada">PWGSC</acronym> to become involved because of its exclusive goods procurement authority, and that <acronym title="Public Works and Government Services Canada">PWGSC</acronym> may have some value to add in processing Confirming Orders or Contracts where the work is incomplete, the following procedures will apply:</p>
+<ol type="a">
+<li>Requests for Confirming Orders must be evaluated and processed on the basis of the circumstances surrounding each instance. Where the request is the result of attempts to circumvent normal procurement procedures, return of the request to the client should be a prime consideration.</li>
+<li>Confirming Orders processed by <acronym title="Public Works and Government Services Canada">PWGSC</acronym> will be reviewed by the assigned sector or regional legal counsel (see 6E.507) to ensure that, to the extent that the contract includes work beyond that arranged by the client, there is no backdating (retroactivity) of the terms relating to the additional or continuing work. In this respect, an "Acknowledgment and Release" clause (e.g. Standard Acquisition Clauses and Conditions [SACC] Manual clause A9092C), in which both parties acknowledge the work which has gone on before, confirm the price for this work and its method of payment, and in which the contractor releases the Crown from any future claims with respect to this work, should be considered.
+<p>Documents resulting from requests to confirm the contract will take the form of either:</p>
+<ul>
+<li>Confirming Order - containing only the information necessary to document the transaction - the parties, the subject, the date, and the amount; or</li>
+<li>Contract with Acknowledgement and Release - in which both parties acknowledge the work which has gone on before, confirm the price for this work and its method of payment, and in which the contractor releases the Crown from any future claims with respect to this work.</li>
+</ul>
+</li>
+<li>Confirming Orders processed by PWGSC, are to be approved by the appropriate Director or higher authority, as determined by the contract value and non-competitive contract approval authority limits.</li>
+<li>The Supply Program Management Sector will report to the Assistant Deputy Minister - Supply Operations Service, on an annual basis, requests received from client departments for Confirming Orders.</li>
+</ol>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

@@ -1,0 +1,776 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h3>Background:</h3>
+<p>The revised policy on <em>Title to Intellectual Property Arising<br/>
+					under Crown Procurement Contracts</em>, sponsored by Industry<br/>
+					Canada, was approved by Treasury Board (TB) June 1, 2000. The<br/>
+					revised Policy, which supersedes the less well-elaborated 1991<br/>
+					Policy, realizes a Red Book commitment to strengthen the potential<br/>
+					for commercial exploitation by the private sector of intellectual<br/>
+					property (IP) developed under contract with the Federal Government.</p>
+<p>Supply Policy Directorate (SPD) has been a member of the working<br/>
+					group that developed the new Intellectual Property (IP) Policy.<br/>
+					Our goal has been to ensure that the Policy will be implementable<br/>
+					and to incorporate in the Policy support for the approach Public<br/>
+					Works and Government Services Canada (PWGSC) took to implement<br/>
+					the 1991 Policy in contracts. SPD, together with Legal Services,<br/>
+					has drafted Model Clauses for IP to assist departments in revising<br/>
+					their contract terms and to ensure consistency with the revised<br/>
+					Policy. It is expected that the effect of the Policy revision on<br/>
+					Supply Operations common service organization function should be<br/>
+					minimal, as the most important changes are to the exceptions which<br/>
+					allow Crown ownership of IP. As with the 1991 Policy, the decision<br/>
+					on ownership is that of the client department.</p>
+<p>The approach taken in 1991 was to recognize that departments'<br/>
+					primary interest in procurement is in supporting their operations,<br/>
+					that the Policy did not require that departments compromise their<br/>
+					operations in order to promote commercialization of IP and that<br/>
+					IP should be commercialized by the private sector. From this, we<br/>
+					concluded that we should aim to facilitate contractor ownership<br/>
+					while maintaining departments' ability to use the IP for their<br/>
+					own operations much as if the Crown had owned the IP. The methods<br/>
+					used were to make contractor ownership the default position in<br/>
+					the Research &amp; Development General Conditions (DSS-MAS 9624)<br/>
+					and by writing IP terms that would provide the Crown with broad<br/>
+					rights to use the IP. By giving the Crown the right to use the<br/>
+					IP much as if the Crown owned the IP, it was hoped that reluctance<br/>
+					on the part of clients to allow the contractor to own the IP, based<br/>
+					on concern for their operations, would be reduced.</p>
+<h3>Policy</h3>
+<p>The new Policy is essentially the same as the old Policy (1991)<br/>
+					in that it maintains the presumption that IP is best commercialized<br/>
+					by the private sector, and that ownership by the private sector<br/>
+					is generally necessary to allow that commercialization. The new<br/>
+					Policy takes a much more rigorous approach than the old Policy.<br/>
+					While the old Policy effectively allows departments to claim ownership<br/>
+					of IP developed under contract whenever they wish to do so, the<br/>
+					new policy imposes a closed list of exceptions to contractor-owned<br/>
+					IP. A table comparing the exceptions allowing Crown-owned IP under<br/>
+					the 1991 and 2000 policies is attached at Appendix A. Under the<br/>
+					new Policy, a department wishing to own IP, under circumstances<br/>
+					that do not fall within one of the exceptions, will have to make<br/>
+					a TB submission to obtain approval.</p>
+<p>The Treasury Board Policy can be viewed at:<br/>
+<a href="http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/Contracting/ownprop_e.html" rel="external">http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/Contracting/ownprop_e.html</a></p>
+<p>The Treasury Board Secretariat Contract Policy Notice can be viewed<br/>
+					at:<br/>
+<a href="http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/ContPolNotices/cpn_00-2_e.html" rel="external">http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/ContPolNotices/cpn_00-2_e.html</a></p>
+<p>The Implementation Guide (which includes the Model Clauses) for<br/>
+					the Treasury Board Policy can be viewed at:<br/>
+<a href="http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/contracting/tipaucpc_ig_e.html" rel="external">http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/contracting/tipaucpc_ig_e.html</a></p>
+<h3>Implementation of the Policy</h3>
+<p>The new Policy is being implemented using a phased approach. All<br/>
+					ownership decisions taken on or after October 1, 2000, and all<br/>
+					Request for Proposals (RFPs) and contracts issued on or after December<br/>
+					31, 2000, must be in compliance with the new Policy. This phased<br/>
+					approach is to allow adequate time for training and orientation<br/>
+					for an effective implementation. It is recognized that some projects<br/>
+					with very long lead times may run into problems where the ownership<br/>
+					decision is made before October 1, 2000, but the contract is not<br/>
+					issued until on or after January 1, 2001. A department which has<br/>
+					selected Crown-owned IP under an exception to the 1991 Policy and<br/>
+					cannot justify the decision on the basis of the exceptions to the<br/>
+					2000 Policy will have to make a TB submission to cover the ownership<br/>
+					decision.</p>
+<p>The new Policy requires that Departments collect information on<br/>
+					the use of exceptions allowing for Crown-owned IP. The IP report<br/>
+					will be an element of the existing TB contracting reports. The<br/>
+					Supply Systems Directorate of Supply Operations Service Branch<br/>
+					is working to prepare for implementation of the reporting requirement,<br/>
+					scheduled to begin January 1, 2001. The contracting officer will<br/>
+					be able to indicate whether the IP will be contractor-owned or<br/>
+					Crown-owned (and if so, under what exception) by making a choice<br/>
+					from a drop down list in the Automated Buyer Environment system.</p>
+<h3>Supply Manual:</h3>
+<p>The revisions to the Supply Manual are attached at Appendix B.<br/>
+					These revisions will be incorporated into the next Supply Manual<br/>
+					amendment, scheduled to be released in the first quarter of 2001.</p>
+<h3>Standard Acquisition Clauses and Conditions (SACC) Manual:</h3>
+<p>SPD and Legal Services are amending the SACC Manual to produce<br/>
+					new IP terms (General Conditions, Supplemental General Conditions<br/>
+					and clauses) that will allow contracting officers to continue doing<br/>
+					as they have been with a minimum of disruption, but incorporating<br/>
+					the experience that the Department have gained over the past 8<br/>
+					years. These revised IP terms will be incorporated into the next<br/>
+					SACC amendment, scheduled to be released in the first quarter of<br/>
+					2001.</p>
+<p><strong><em>NOTE:</em></strong> Modifications to a number of IP<br/>
+					clauses will appear in Amendment 00-2 of the SACC Manual, to be<br/>
+					released in December. These modifications are housekeeping changes<br/>
+					and <strong>are not</strong> the new IP terms referred to above.</p>
+<p>Until then, contracting officers are to continue to use the existing<br/>
+					IP terms, including those for real property contracting. These<br/>
+					terms allow contracting officers to assemble contracts which are<br/>
+					consistent with the revised IP Policy. A concordance table of the<br/>
+					current IP terms and the Model Clauses is attached at Appendix<br/>
+					C. This concordance table is to aid contracting officers in dealing<br/>
+					with clients and in structuring contracts. As in any case in the<br/>
+					past, where a client department has a specific need not met by<br/>
+					the use of standard terms, advice from Legal Services should be<br/>
+					sought. The Model Clause language may be used as a basis for custom<br/>
+					terms in such cases.</p>
+<p>To deal with requisitions where the client department has made<br/>
+					its IP ownership decision based on the revised 2000 IP Policy rather<br/>
+					than the 1991 Policy, a revised clause K3200T is attached at Appendix<br/>
+					D. Where the client department indicates a reason for Crown ownership<br/>
+					based on the 1991 Policy, the current version of K3200T in the<br/>
+					SACC Manual should be used.</p>
+<h2>APPENDIX A</h2>
+<table class="basic">
+<caption>
+					Exceptions Allowing Crown Ownership<br/>
+</caption>
+<tbody><tr>
+<th id="PN-49policy2000" scope="col">2000 Policy</th>
+<th id="PN-49policy1991" scope="col">1991 Policy</th>
+</tr>
+<tr>
+<td headers="policy2000" scope="row"><strong>6.</strong> Exceptions<br/>
+							to Contractor Ownership</td>
+<td headers="policy1991"><strong>4.2</strong> Factors Indicating<br/>
+							Crown Title</td>
+</tr>
+<tr>
+<td headers="policy2000" scope="row"><strong>6.1</strong> national<br/>
+							security;</td>
+<td headers="policy1991"><strong>d)</strong>National security;</td>
+</tr>
+<tr>
+<td headers="policy2000" scope="row"><strong>6.2</strong>where<br/>
+							statutes, regulations, or prior obligations of the Crown to<br/>
+							a third party or parties preclude Contractor ownership of the<br/>
+							Foreground;</td>
+<td headers="policy1991"><strong>b)</strong> Prior obligations<br/>
+							to a third party or parties (such as a research partner or<br/>
+							research consortium) would preclude title vesting with the<br/>
+							contractor;</td>
+</tr>
+<tr>
+<td headers="policy2000" scope="row"><strong>6.3</strong> when<br/>
+							the Contractor declares in writing that he/she is not interested<br/>
+							in owning the Foreground</td>
+<td headers="policy1991"><strong>c)</strong>The contractor has<br/>
+							no intention or capability of pursuing commercialization in<br/>
+							a timely manner in Canada;</td>
+</tr>
+<tr>
+<td headers="policy2000" scope="row"><strong>6.4</strong>where<br/>
+							the main purpose of the Crown Procurement Contract, or of the<br/>
+							deliverables contracted for, is:</td>
+<td headers="policy1991"> </td>
+</tr>
+<tr>
+<td headers="policy2000" scope="row"><strong>6.4.1</strong>to<br/>
+							generate knowledge and information for public dissemination;</td>
+<td headers="policy1991"><strong>e)</strong>The main purpose<br/>
+							of the work is to generate knowledge and regulatory information<br/>
+							for public dissemination</td>
+</tr>
+<tr>
+<td headers="policy2000" scope="row"><strong>6.4.2</strong>to<br/>
+							augment an existing body of Crown Background as a prerequisite<br/>
+							to the transfer of the augmented Background to the private<br/>
+							sector, through licensing or assignment of ownership (not necessarily<br/>
+							to the original Contractor), for the purposes of Commercial<br/>
+							Exploitation;</td>
+<td headers="policy1991" rowspan="2"><strong>a)</strong>Title<br/>
+							to background technology vests with the Crown and the contractor<br/>
+							is simply adding to the technology package by providing a service;</td>
+</tr>
+<tr>
+<td headers="policy2000" scope="row"><strong>6.4.3 </strong>to<br/>
+							deliver a component or subsystem that will be incorporated<br/>
+							into a complete system at a later date (not necessarily by<br/>
+							the original Contractor), as a prerequisite to the planned<br/>
+							transfer of the complete system to the private sector (not<br/>
+							necessarily to the original Contractor), through licensing<br/>
+							or assignment of ownership, for the purposes of Commercial<br/>
+							Exploitation.</td>
+</tr>
+<tr>
+<td headers="policy2000" scope="row"><strong>6.5 </strong>where<br/>
+							the Foreground consists of material subject to copyright, with<br/>
+							the exception of computer software and all documentation pertaining<br/>
+							to that software.</td>
+<td headers="policy1991">Reflects existing Supply Operations<br/>
+							practice.</td>
+</tr>
+<tr>
+<td headers="policy2000" scope="row">Not retained in the revision</td>
+<td headers="policy1991"><strong>F)</strong>Mutual agreement</td>
+</tr>
+<tr>
+<td headers="policy2000" scope="row">Not retained in the revision</td>
+<td headers="policy1991"><strong>"Other"</strong> (departments<br/>
+							could make up their own exceptions)</td>
+</tr>
+</tbody></table>
+<h2>APPENDIX B</h2>
+<h3>Revisions to the Supply Manual</h3>
+<p> 6.174 (xx/xx/xx) "<strong>Policy - Objectives and Underlying<br/>
+					Principles</strong></p>
+<p><em>"10. Like the 1991 policy, the revised policy aims to increase<br/>
+					commercialization of IP. It recognizes that commercial exploitation<br/>
+					of IP can contribute to economic growth and job creation by having<br/>
+					contractors own the IP they create in the course of their work<br/>
+					under Crown procurement contracts, and it also recognizes that<br/>
+					there will be instances where the Crown will need to retain the<br/>
+					IP in order to act in the broader public interest.</em></p>
+<p><em>11. It further recognizes that the objective of commercializing<br/>
+					IP from government contracts takes place within the framework<br/>
+					of the government's Contracting Policy and its provisions with<br/>
+					respect to socio-economic objectives.</em></p>
+<p><em>12. Most importantly, the revised policy recognizes that the<br/>
+					primary objective of Crown procurement contracts is for the Crown<br/>
+					to receive the deliverables contracted for, and to be able to<br/>
+					use those deliverables and any arising IP for Government of Canada<br/>
+					activities."</em></p>
+<p class="alignRight"><em>(Derived from TBS Contracting Policy Notice<br/>
+					2000-2,<br/>
+					July 17, 2000</em>)</p>
+<p>Intellectual property (IP) is anything resulting from a contract<br/>
+					which can be copyrighted, trademarked, patented, licensed, etc.<br/>
+					Potentially, IP can result from any contract. The likelihood for<br/>
+					IP is much greater where the goal of the contract is something<br/>
+					new, or might incorporate new processes. IP considerations are<br/>
+					most relevant to research and development contracts, software development,<br/>
+					or where the production of new written material occurs.</p>
+<p>The government policy of allowing the contractor to retain the<br/>
+					rights to IP generated under a Crown contract is designed to promote<br/>
+					the development of new ideas, under the belief that the private<br/>
+					sector has a greater capacity to commercialize and benefit from<br/>
+					the IP. The Crown will not arbitrarily refuse to allow a contractor<br/>
+					to retain the rights to IP.</p>
+<p>The client department must decide to what extent IP rights are<br/>
+					to be retained by the Crown, and <acronym title="Public Works and Government Services Canada">PWGSC</acronym> plays no part in this determination.<br/>
+					However, the contracting officer must consult with the client department<br/>
+					in the case of research and development or software development<br/>
+					procurements, to determine the client department's position. Contracting<br/>
+					officers may wish to discuss their needs with client departments<br/>
+					to ensure that client departments are aware of the extent to which<br/>
+					we can obtain for them the rights they need to use the IP created<br/>
+					under their contract whether the Crown or Contractor owns the IP.<br/>
+					Subject to market conditions (which will also affect the ownership<br/>
+					terms that may be achieved) <acronym title="Public Works and Government Services Canada">PWGSC</acronym> contract terms are designed with<br/>
+					the goal of ensuring that even where the contractor owns the IP<br/>
+					this does not affect the client department's ability to use the<br/>
+					IP, with the exception of commercialization of the IP by the Crown.</p>
+<p>Client department may deal with IP rights in several ways:</p>
+<p>Research and Development (R&amp;D) contracts</p>
+<ul>
+<li>Contractor to retain ownership of IP</li>
+<li>Crown to retain ownership of IP</li>
+</ul>
+<p>Goods contract with associated R&amp;D</p>
+<ul>
+<li>Contractor to retain ownership of IP</li>
+<li>Crown to retain ownership of IP</li>
+</ul>
+<p>Goods contract with no R&amp;D expected</p>
+<ul>
+<li>Crown to retain copyright</li>
+<li>Contractor to retain all IP, including copyright</li>
+</ul>
+<p>Services contract with no R&amp;D expected</p>
+<ul>
+<li>Crown to retain copyright</li>
+<li>Contractor to retain all IP, including copyright</li>
+</ul>
+<h3>Intellectual Property</h3>
+<p>7.070 (xx/xx/xx) The bid solicitation should make clear to potential<br/>
+					bidders the ownership of any IP rights, as determined by the client<br/>
+					department. SACC Manual clauses may be used in conjunction with<br/>
+					the General Conditions and Supplemental General Conditions to meet<br/>
+					the client department's requirement (re: Annex 7.5). In the case<br/>
+					of low-dollar value procurements which use General Conditions DSS-MAS<br/>
+					9329 or DSS-MAS 9628, the contract would generally be silent on<br/>
+					IP, with the usual result being that the contractor would own any<br/>
+					IP they develop.</p>
+<p>7.570 (xx/xx/xx) Unless there has been a change in the client<br/>
+					department's IP position from the bid solicitation, contracting<br/>
+					officers must use, in the contract, the identical clauses used<br/>
+					in the bid solicitation, <strong>with the exception of clause K3200T,<br/>
+					which is needed only at the bid solicitation stage</strong> (re:<br/>
+					Annex 7.5).</p>
+<p>7.575 (xx/xx/xx) Starting January 1, 2001, each department will<br/>
+					have to maintain a record of all contracts valued over the threshold<br/>
+					for solicitation of bids as set out in the Government Contracting<br/>
+					Regulations. Each department will have to specify the contracts<br/>
+					that are contractor-owned IP and that are Crown-owned IP and the<br/>
+					exception(s) invoked (the same reason used in clause K3200T). The<br/>
+					report will be rolled up with the TB report on contracting.</p>
+<h3>Annex 7.5: INTELLECTUAL PROPERTY CLAUSES</h3>
+<p>An amendment to this Annex will be released at the same time as<br/>
+					the new clauses are released.</p>
+<h2>APPENDIX C</h2>
+<h3>Concordance Table between Existing IP Terms and Model Clauses</h3>
+<p><strong>1A: Research and Development Contracts</strong></p>
+<p><strong>Client Decision: Contractor Owns</strong></p>
+<table class="basic">
+<caption>General &amp; Supplemental General Conditions</caption>
+<tbody><tr>
+<th id="PN-49number" scope="col">Number</th>
+<th id="PN-49existing" scope="col">Existing IP Terms</th>
+<th id="PN-49clause" scope="col">Model Clause(s)</th>
+</tr>
+<tr>
+<td align="center" headers="number">9624</td>
+<td headers="existing">General Conditions - Research &amp; Development</td>
+<td headers="clause">Contractor to Own Intellectual Property<br/>
+							Rights in Foreground Information + Alternative Background Licence<br/>
+							(Broader) ("Contractor Owns" Version)</td>
+</tr>
+</tbody></table>
+<table class="basic">
+<caption>
+					Optional Clauses<br/>
+</caption>
+<tbody><tr>
+<th id="PN-49number1" scope="col">Number</th>
+<th id="PN-49existing1" scope="col">Existing IP Terms</th>
+<th id="PN-49clause1" scope="col">Model Clause(s)</th>
+</tr>
+<tr>
+<td headers="number1">K3005D</td>
+<td headers="existing1">Protection of Intellectual Property</td>
+<td headers="clause1">Protection of Intellectual Property</td>
+</tr>
+<tr>
+<td headers="number1">K3015D</td>
+<td headers="existing1">Technical Information - Confidentiality</td>
+<td headers="clause1">Foreground Information - Confidentiality</td>
+</tr>
+<tr>
+<td headers="number1">K3020D</td>
+<td headers="existing1">License to Canada's Information</td>
+<td headers="clause1">License to Canada's Information</td>
+</tr>
+<tr>
+<td headers="number1">K3415D</td>
+<td headers="existing1">Commercialisation in Canada</td>
+<td headers="clause1">Commercialization in Canada</td>
+</tr>
+<tr>
+<td headers="number1">K3420D</td>
+<td headers="existing1">Liquidated Damages</td>
+<td headers="clause1">Liquidated Damages</td>
+</tr>
+</tbody></table>
+<p><strong>1B: Research and Development Contracts</strong></p>
+<p><strong>Client Decision: Crown Owns</strong></p>
+<table class="basic">
+<caption>
+					General &amp; Supplement General Conditions<br/>
+</caption>
+<tbody><tr>
+<th id="PN-49number2" scope="col">Number</th>
+<th id="PN-49existing2" scope="col">Existing IP Terms</th>
+<th id="PN-49clause2" scope="col">Model Clause(s)</th>
+</tr>
+<tr>
+<td align="center" headers="number2">9624</td>
+<td headers="existing2">General Conditions - Research &amp; Development</td>
+<td headers="clause2">IP Terms replaced by 9601-7</td>
+</tr>
+<tr>
+<td align="center" headers="number2">9601-7</td>
+<td headers="existing2">Canada to Own Foreground Information</td>
+<td headers="clause2">Canada to Own Intellectual Property Rights<br/>
+							in Foreground Information</td>
+</tr>
+</tbody></table>
+<table class="basic">
+<caption>
+					Mandatory Fill-in Clause<br/>
+</caption>
+<tbody><tr>
+<th id="PN-49number3" scope="col">Number</th>
+<th id="PN-49existing3" scope="col">Existing IP Terms</th>
+<th id="PN-49clause3" scope="col">Model Clause(s)</th>
+</tr>
+<tr>
+<td headers="number3">K3200T</td>
+<td headers="existing3">Ownership of Intellectual Property<br/>
+<strong>Note: New version supplied with Policy Notification</strong></td>
+<td headers="clause3">Basis for Canada's Ownership of Intellectual<br/>
+							Property</td>
+</tr>
+</tbody></table>
+<table class="basic">
+<caption>
+					Optional Clauses<br/>
+</caption>
+<tbody><tr>
+<th id="PN-49number4" scope="col">Number</th>
+<th id="PN-49existing4" scope="col">Existing IP Terms</th>
+<th id="PN-49clause4" scope="col">Model Clause(s)</th>
+</tr>
+<tr>
+<td headers="number4">K3305D</td>
+<td headers="existing4">License to Foreground Information</td>
+<td headers="clause4">License to Intellectual Property Rights<br/>
+							in Foreground Information</td>
+</tr>
+<tr>
+<td headers="number4">K3310D</td>
+<td headers="existing4">No Right for Contractor to Sublicense</td>
+<td headers="clause4">No right for Contractor to Sub-license</td>
+</tr>
+<tr>
+<td headers="number4">K3315D</td>
+<td headers="existing4">License to Canada's Information</td>
+<td headers="clause4">License to Intellectual Property Rights<br/>
+							in Canada-owned Information</td>
+</tr>
+<tr>
+<td headers="number4"> </td>
+<td headers="existing4">No current equivalent clause</td>
+<td headers="clause4">Alternative Background Licence (Broader)<br/>
+							("Crown Owns" Version)</td>
+</tr>
+</tbody></table>
+<p><strong>2A: Goods Contract with associated Research and Development </strong></p>
+<p><strong>Client Decision: Contractor Owns</strong></p>
+<table class="basic">
+<caption>
+					General &amp; Supplemental General Conditions<br/>
+</caption>
+<tbody><tr>
+<th id="PN-49number5" scope="col">Number</th>
+<th id="PN-49existing5" scope="col">Existing IP Terms</th>
+<th id="PN-49clause5" scope="col">Model Clause(s)</th>
+</tr>
+<tr>
+<td align="center" headers="number5">9601</td>
+<td headers="existing5">General Conditions - Long Form</td>
+<td headers="clause5">IP Terms replaced by 9601-6</td>
+</tr>
+<tr>
+<td align="center" headers="number5">9601-6</td>
+<td headers="existing5">Contractor to Own Foreground Information</td>
+<td headers="clause5">Contractor to Own Intellectual Property<br/>
+							Rights in Foreground Information</td>
+</tr>
+</tbody></table>
+<table class="basic">
+<caption>
+					Optional Clauses<br/>
+</caption>
+<tbody><tr>
+<th id="PN-49number6" scope="col">Number</th>
+<th id="PN-49existing6" scope="col">Existing IP Terms</th>
+<th id="PN-49clause6" scope="col">Model Clause(s)</th>
+</tr>
+<tr>
+<td headers="number6">K3005D</td>
+<td headers="existing6">Protection of Intellectual Property</td>
+<td headers="clause6">Protection of Intellectual Property</td>
+</tr>
+<tr>
+<td headers="number6">K3015D</td>
+<td headers="existing6">Technical Information - Confidentiality</td>
+<td headers="clause6">Foreground Information - Confidentiality</td>
+</tr>
+<tr>
+<td headers="number6">K3020D</td>
+<td headers="existing6">License to Canada's Information</td>
+<td headers="clause6">License to Canada's Information</td>
+</tr>
+<tr>
+<td headers="number6">K3025D</td>
+<td headers="existing6">Background Information Development Licence</td>
+<td headers="clause6">Alternative Background Licence (Broader)<br/>
+							("Contractor Owns" version)</td>
+</tr>
+<tr>
+<td headers="number6">K3415D</td>
+<td headers="existing6">Commercialisation in Canada</td>
+<td headers="clause6">Commercialization in Canada</td>
+</tr>
+<tr>
+<td headers="number6">K3420D</td>
+<td headers="existing6">Liquidated Damages</td>
+<td headers="clause6">Liquidated Damages</td>
+</tr>
+</tbody></table>
+<p><strong>2B: Goods Contract with associated Research and Development</strong></p>
+<p><strong>Client Decision: Crown Owns</strong></p>
+<table class="basic">
+<caption>
+					General &amp; Supplemental General Conditions<br/>
+</caption>
+<tbody><tr>
+<th id="PN-49number7" scope="col">Number</th>
+<th id="PN-49existing7" scope="col">Existing IP Terms</th>
+<th id="PN-49clause7" scope="col">Model Clause(s)</th>
+</tr>
+<tr>
+<td align="center" headers="number7">9601</td>
+<td headers="existing7">General Conditions - Long Form</td>
+<td headers="clause7">IP Terms replaced by 9601-7</td>
+</tr>
+<tr>
+<td align="center" headers="number7">9601-7</td>
+<td headers="existing7">Canada to Own Foreground Information</td>
+<td headers="clause7">Canada to Own Intellectual Property Rights<br/>
+							in Foreground Information</td>
+</tr>
+</tbody></table>
+<table class="basic">
+<caption>
+					Mandatory Fill-in Clause<br/>
+</caption>
+<tbody><tr>
+<th id="PN-49number8" scope="col">Number</th>
+<th id="PN-49existing8" scope="col">Existing IP Terms</th>
+<th id="PN-49clause8" scope="col">Model Clause(s)</th>
+</tr>
+<tr>
+<td headers="number8">K3200T</td>
+<td headers="existing8">Ownership of Intellectual Property<br/>
+<strong>Note: New version supplied with Policy Notification</strong></td>
+<td headers="clause8">Basis for Canada's Ownership of Intellectual<br/>
+							Property</td>
+</tr>
+</tbody></table>
+<table class="basic">
+<caption>
+					Optional Clauses<br/>
+</caption>
+<tbody><tr>
+<th id="PN-49number9" scope="col">Number</th>
+<th id="PN-49existing9" scope="col">Existing IP Terms</th>
+<th id="PN-49clause9" scope="col">Model Clause(s)</th>
+</tr>
+<tr>
+<td headers="number9">K3305D</td>
+<td headers="existing9">License to Foreground Information</td>
+<td headers="clause9">License to Intellectual Property Rights<br/>
+							in Foreground Information</td>
+</tr>
+<tr>
+<td headers="number9">K3310D</td>
+<td headers="existing9">No Right for Contractor to Sublicense</td>
+<td headers="clause9">No Right for Contractor to Sub-license</td>
+</tr>
+<tr>
+<td headers="number9">K3315D</td>
+<td headers="existing9">License to Canada's Information</td>
+<td headers="clause9">License to Intellectual Property Rights<br/>
+							in Canada-owned Information</td>
+</tr>
+<tr>
+<td headers="number9"> </td>
+<td headers="existing9">No current clause equivalent</td>
+<td headers="clause9">Alternative Background License (Broader)<br/>
+							("Crown Owns" version)</td>
+</tr>
+</tbody></table>
+<p><strong>3A: Goods Contract with no Research and Development expected</strong></p>
+<p><strong>Client Decision: Contractor Owns, including Copyright</strong></p>
+<table class="basic">
+<caption>
+					General &amp; Supplemental General Conditions (Alternatives)<br/>
+</caption>
+<tbody><tr>
+<th id="PN-49number10" scope="col">Number</th>
+<th id="PN-49existing10" scope="col">Existing IP Terms</th>
+<th id="PN-49clause10" scope="col">Model Clause(s)</th>
+</tr>
+<tr>
+<td align="center" headers="number10">9601</td>
+<td headers="existing10">General Conditions - Long Form</td>
+<td headers="clause10">Copyright (Re: 6.5)</td>
+</tr>
+<tr>
+<td align="center" headers="number10">9601-10</td>
+<td headers="existing10">General Conditions - Medium Form</td>
+<td headers="clause10">Copyright (Re: 6.5)</td>
+</tr>
+</tbody></table>
+<p><strong>Note:</strong> The above terms provide Canada with ownership<br/>
+					of Foreground IP that is subject to Copyright, other than software<br/>
+					and its associated documentation. Contract is silent on other IP.</p>
+<table class="basic">
+<caption>
+					Clause Needed to effect Client's Decision<br/>
+</caption>
+<tbody><tr>
+<th id="PN-49number11" scope="col">Number</th>
+<th id="PN-49existing11" scope="col">Existing IP Terms</th>
+<th id="PN-49clause11" scope="col">Model Clause(s)</th>
+</tr>
+<tr>
+<td headers="number11">K3002D</td>
+<td headers="existing11">Intellectual Property Rights</td>
+<td headers="clause11">No equivalent Model Clause</td>
+</tr>
+</tbody></table>
+<p><strong>3B: Goods Contract with no Research and Development expected</strong></p>
+<p><strong>Client Decision: Crown Owns (including Copyright)</strong></p>
+<table class="basic">
+<caption>
+					General &amp; Supplemental General Conditions (Alternatives)<br/>
+</caption>
+<tbody><tr>
+<th id="PN-49number12" scope="col">Number</th>
+<th id="PN-49existing12" scope="col">Existing IP Terms</th>
+<th id="PN-49clause12" scope="col">Model Clause(s)</th>
+</tr>
+<tr>
+<td align="center" headers="number12">9601</td>
+<td headers="existing12">General Conditions - Long Form</td>
+<td headers="clause12">Copyright (Re: 6.5)</td>
+</tr>
+<tr>
+<td align="center" headers="number12">9601-10</td>
+<td headers="existing12">General Conditions - Medium Form</td>
+<td headers="clause12">Copyright (Re: 6.5)</td>
+</tr>
+</tbody></table>
+<p><strong>Note:</strong> The above terms provide Canada with ownership<br/>
+					of Foreground IP that is subject to Copyright, other than software<br/>
+					and its associated documentation. Contract is silent on other IP.</p>
+<table class="basic">
+<caption>
+					Mandatory Clause<br/>
+</caption>
+<tbody><tr>
+<th id="PN-49number13" scope="col">Number</th>
+<th id="PN-49existing13" scope="col">Existing IP Terms</th>
+<th id="PN-49clause13" scope="col">Model Clause(s)</th>
+</tr>
+<tr>
+<td headers="number13">K3200T</td>
+<td headers="existing13">Ownership of Intellectual Property<br/>
+<strong>Note: New version supplied with Policy Notification</strong></td>
+<td headers="clause13">Basis for Canada's Ownership of Intellectual<br/>
+							Property</td>
+</tr>
+</tbody></table>
+<p><strong>4A: Services Contract with no Research and Development<br/>
+					expected</strong></p>
+<p> <strong>Client Decision: Contractor Owns, including Copyright</strong></p>
+<table class="basic">
+<caption>
+					General &amp; Supplemental General Conditions (Alternatives)<br/>
+</caption>
+<tbody><tr>
+<th id="PN-49number14" scope="col">Number</th>
+<th id="PN-49existing14" scope="col">Existing IP Terms</th>
+<th id="PN-49clause14" scope="col">Model Clause(s)</th>
+</tr>
+<tr>
+<td align="center" headers="number14">9676</td>
+<td headers="existing14">General Conditions - Services</td>
+<td headers="clause14">Copyright (Re: 6.5)</td>
+</tr>
+<tr>
+<td headers="number14">9601-10</td>
+<td headers="existing14">General Conditions - Medium Form</td>
+<td headers="clause14">Copyright (Re: 6.5)</td>
+</tr>
+</tbody></table>
+<p><strong>Note:</strong> The above terms provide Canada with ownership<br/>
+					of Foreground IP that is subject to Copyright, other than software<br/>
+					and its associated documentation. Contract is silent on other IP</p>
+<table class="basic">
+<caption>
+					Clause Needed to effect Client's Decision<br/>
+</caption>
+<tbody><tr>
+<th id="PN-49number15" scope="col">Number</th>
+<th id="PN-49existing15" scope="col">Existing IP Terms</th>
+<th id="PN-49clause15" scope="col">Model Clause(s)</th>
+</tr>
+<tr>
+<td headers="number15">K3002D</td>
+<td headers="existing15">Intellectual Property Rights</td>
+<td headers="clause15">No equivalent Model Clause</td>
+</tr>
+</tbody></table>
+<p><strong>4B: Services Contract with no Research and Development<br/>
+					expected</strong></p>
+<p><strong>Client Decision: Crown Owns, including Copyright</strong></p>
+<table class="basic">
+<caption>
+					General &amp; Supplemental General Conditions (Alternatives)<br/>
+</caption>
+<tbody><tr>
+<th id="PN-49number16" scope="col">Number</th>
+<th id="PN-49existing16" scope="col">Existing IP Terms</th>
+<th id="PN-49clause16" scope="col">Model Clause(s)</th>
+</tr>
+<tr>
+<td align="center" headers="number16">9676</td>
+<td headers="existing16">General Conditions - Services</td>
+<td headers="clause16">Copyright (Re: 6.5)</td>
+</tr>
+<tr>
+<td align="center" headers="number16">9601-10</td>
+<td headers="existing16">General Conditions - Medium Form</td>
+<td headers="clause16">Copyright (Re: 6.5)</td>
+</tr>
+</tbody></table>
+<p><strong>Note:</strong> The above terms provide Canada with ownership<br/>
+					of Foreground IP that is subject to Copyright, other than software<br/>
+					and its associated documentation. Contract is silent on other IP.</p>
+<table class="basic">
+<caption>
+					Mandatory Clause<br/>
+</caption>
+<tbody><tr>
+<th id="PN-49number17" scope="col">Number</th>
+<th id="PN-49existing17" scope="col">Existing IP Terms</th>
+<th id="PN-49clause17" scope="col">Model Clause(s)</th>
+</tr>
+<tr>
+<td headers="number17">K3200T</td>
+<td headers="existing17">Ownership of Intellectual Property<br/>
+<strong>Note: New version supplied with Policy Notification</strong></td>
+<td headers="clause17">Basis for Canada's Ownership of Intellectual<br/>
+							Property</td>
+</tr>
+</tbody></table>
+<h2>APPENDIX D</h2>
+<p><strong>K3200T (xx/xx/xx)   Basis for Canada's<br/>
+					Ownership of Intellectual Property</strong></p>
+<p><strong>Remarks</strong>: <em>Use the following clause in all<br/>
+					bid solicitations in which the client department has determined<br/>
+					that Canada will own any intellectual property arising from the<br/>
+					work under the contract. The contracting officer will insert<br/>
+					the name of the client department or agency and one or more of<br/>
+					the following grounds for Canada ownership, as supplied by the<br/>
+					client department or agency</em><strong>(do not include the exception<br/>
+					number):</strong></p>
+<p>(6.1) national security;</p>
+<p>(6.2) statutes, regulations or prior obligations of Canada to<br/>
+					a third party or parties preclude Contractor ownership of the Intellectual<br/>
+					Property Rights in Foreground Information;</p>
+<p>(6.3) the Contractor has declared in writing that the Contractor<br/>
+					is not interested in owning the Intellectual Property Rights in<br/>
+					Foreground Information;</p>
+<p>(6.4.1) the main purpose of the Contract, or of the deliverables<br/>
+					contracted for, is to generate knowledge and information for public<br/>
+					dissemination;</p>
+<p>(6.4.2) the main purpose of the Contract, or of the deliverables<br/>
+					contracted for, is to augment an existing body of Canada's Background<br/>
+					Information rights as a prerequisite to their planned transfer<br/>
+					to the private sector, through licensing or assignment of ownership<br/>
+					to another person, for the purposes of commercial exploitation;</p>
+<p>(6.4.3) the main purpose of the Contract, or of the deliverables<br/>
+					contracted for, is to deliver a component or subsystem that will<br/>
+					be incorporated into a complete system at a later date, as a prerequisite<br/>
+					to the planned transfer of the complete system to the private sector,<br/>
+					through licensing or assignment of ownership, for the purposes<br/>
+					of commercial exploitation;</p>
+<p>(6.5) Canada has opted to own the Intellectual Property Rights<br/>
+					in Foreground Information which consists of material subject to<br/>
+					copyright except computer software or any documentation pertaining<br/>
+					to such software.</p>
+<p><strong>Text</strong></p>
+<p>The _____ has determined that any intellectual property arising<br/>
+					from the performance of the Work under the Contract will vest in<br/>
+					Canada, on the following grounds: _____.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

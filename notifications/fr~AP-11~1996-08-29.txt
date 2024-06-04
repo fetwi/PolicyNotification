@@ -1,0 +1,1669 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-11cont" name="cont"><br/>
+AP-11: Politique sur le rendement des fournisseurs</a></h1> <div class="region region-site-wide-message">
+<section id="AP-11site-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-11site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-11site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 29 août 1996</h2>
+<h3><strong>Introduction</strong></h3>
+<p>La Politique sur le rendement des fournisseurs vise à améliorer<br/>
+					le service offert à nos clients, en évitant que des<br/>
+					problèmes se produisent avec les fournisseurs. Bien qu'il<br/>
+					ne soit jamais possible de faire en sorte que le rendement ne soit<br/>
+					pas médiocre, nous pouvons améliorer le rendement<br/>
+					des fournisseurs en adoptant les mesures pertinentes en cas d'inexécution.</p>
+<h3>Principes</h3>
+<p>Travaux publics et Services gouvernementaux Canada (TPSGC) a le<br/>
+					pouvoir et la responsabilité de prendre les mesures raisonnables<br/>
+					pour s'assurer que ses entrepreneurs exécutent leurs obligations.<br/>
+					Dans le cadre de sa politique visant à avoirun processus<br/>
+					d'achat ouvert, accessible et équitable, le Ministère<br/>
+					a, autant que tout autre acheteur sur le marché, le droit<br/>
+					d'évaluer le rendement d'un fournisseur. Il peut, en se<br/>
+					fondant sur le rendement antérieur d'un fournisseur, prendre<br/>
+					des mesures afin d'éviter tout problème éventuel.<br/>
+					Le pouvoir discrétionnaire permettant prendre ces mesures<br/>
+					doit être exercé de façon juste et raisonnable<br/>
+					dans le cadre de cette politique. Toute mesure prise doit correspondre<br/>
+					logiquement à la nature et à la gravité du<br/>
+					problème afférent.</p>
+<h3>Définitions</h3>
+<p>On entend par :</p>
+<p>« <strong>rendement insatisfaisant</strong> » :<br/>
+					un contrat mal exécuté par un fournisseur.</p>
+<p><em>Remarque : Bien que l'on puisse constater des cas mineurs<br/>
+					de rendement insatisfaisant, en principe, on adopte des mesures à l'endroit<br/>
+					d'un fournisseur que dans les cas majeurs de rendement insatisfaisant<br/>
+					dans le cadre d'un marché ou lorsque le fournisseur fournit<br/>
+					un rendement insatisfaisant de façon chronique.</em></p>
+<p>« <strong>fournisseur</strong> » :<br/>
+					les sous-traitants, les propriétaires, les administrateurs,<br/>
+					les dirigeants, les employés, les agents, la société mère<br/>
+					ou une filiale d'un fournisseur qui pourraient être tenus<br/>
+					responsables du rendement insatisfaisant d'un fournisseur.</p>
+<p><em>Remarque : Bien que des personnes distinctes de l'entrepreneur<br/>
+					puissent être considérées comme des fournisseurs<br/>
+					en vertu de cette politique, on ne peut prendre des mesures à leur<br/>
+					endroit que lorsqu'on leur a signalé que leur rendement<br/>
+					est insatisfaisant, qu'on leur a fait connaître les mesures<br/>
+					projetées et qu'on leur a donné la même occasion<br/>
+					de réagir que celle que l'on offre à un entrepreneur.</em></p>
+<p>« <strong>Mesure corrective du rendement d'un fournisseur</strong> (MCRF) » :<br/>
+					toute condition ou restriction imposée à un fournisseur,<br/>
+					suite à l'évaluation de sa fiabilité faite<br/>
+					par TPSGC, limitant sa capacité à passer des marchés<br/>
+					avec TPSGC. On peut prendre des mesures correctives du rendement<br/>
+					d'un fournisseur en général ou seulement en ce qui<br/>
+					a trait à certains produits ou services, selon le cas. Il<br/>
+					y a trois types de mesures, soit :</p>
+<p><strong>La radiation</strong>, qui est le refus de TPSGC de faire<br/>
+					affaire avec un fournisseur pour une durée précise.<br/>
+					La radiation peut s'exprimer en fonction d'un certain nombre d'opérations<br/>
+					d'achat pertinentes et ne dépasse généralement<br/>
+					pas trois ans;</p>
+<p><strong>La suspension</strong>, qui est le refus de TPSGC de faire<br/>
+					affaire avec un fournisseur en attendant le résultat d'une<br/>
+					enquête sur des cas graves ou nombreux de rendement insatisfaisant,<br/>
+					ou jusqu'à ce que le fournisseur respecte les conditions<br/>
+					définies pour son rétablissement, telle qu'apporter<br/>
+					les corrections à un problème;</p>
+<p><strong>Les conditions</strong>, qui peuvent être imposées<br/>
+					au fournisseur qui veut faire affaire avec TPSGC, pour une durée<br/>
+					précisée, qui peut être exprimée en<br/>
+					fonction d'un certain nombre d'opérations d'achat pertinentes<br/>
+					et qui ne doit généralement pas dépasser trois<br/>
+					ans, ou qui s'étend jusqu'au moment où le fournisseur<br/>
+					respecte les conditions définies pour son rétablissement,<br/>
+					telle qu'apporter les corrections à un problème.</p>
+<p>Dans le cadre d'une MCRF, le fournisseur visé pourrait également être<br/>
+					soumis à une période d'essai au terme de la mesure.<br/>
+					En pareil cas, si le fournisseur fait à nouveau preuve de<br/>
+					rendement insatisfaisant, la mesure pourrait être prorogée<br/>
+					ou une autre mesure pourrait être prise.</p>
+<h3>Processus</h3>
+<h3>Surveillance</h3>
+<p>L'agent de négociation des contrats doit mettre en application<br/>
+					les modalités du marché toutes les fois que cela<br/>
+					est possible et approprié. Un même incident peut nécessiter<br/>
+					l'application des mesures correctives permises en vertu du contrat<br/>
+					en plus de l'imposition d'une MCRF. L'agent de négociation<br/>
+					des contrats versera par écrit, au dossier contractuel,<br/>
+					les faits pouvant constituer des cas de rendement insatisfaisant<br/>
+					d'un fournisseur.</p>
+<p>Lorsqu'un simple avis de rendement insatisfaisant au fournisseur<br/>
+					rend exécutoire les modalités du contrat, tant le<br/>
+					contrat que le fichier du fournisseur doivent en faire état,<br/>
+					en établissant les faits qui le justifient. Le fait qu'un<br/>
+					agent de négociation ait l'intention de recommander une<br/>
+					MCRF ne justifie pas que l'on néglige de faire respecter<br/>
+					les conditions du contrat. Le directeur compétent doit donner son approbation pour permettre de noter les cas de rendement insatisfaisant dans le<br/>
+					dossier du fournisseur, dans le cadre du Système de gestion<br/>
+					de l'information sur les fournisseurs (SGIF).</p>
+<p>La mention du rendement insatisfaisant dans le SGIF est accompagnée<br/>
+					du numéro de contrat, de l'objet de ce contrat, de la nature<br/>
+					du problème constaté, des mesures correctives adoptées<br/>
+					par le fournisseur, des conséquences et de la situation<br/>
+					du problème ou de la solution qui y a été apportée.</p>
+<p>Le directeur compétent doit faire connaître au fournisseur<br/>
+					chaque cas de rendement insatisfaisant; le fournisseur dispose<br/>
+					d'un délai de dix jours pour réagir avant que la<br/>
+					mention soit constatée dans le SGIF.</p>
+<p>Il faut signaler chaque cas où une mention de rendement<br/>
+					insatisfaisant est constatée dans le SGIF au fournisseur,<br/>
+					qui peut être différent de l'entrepreneur, mais qui<br/>
+					est responsable des cas où l'entrepreneur n'exécute<br/>
+					pas le contrat, en plus de lui faire savoir que TPSGC tiendra compte<br/>
+					du rendement antérieur dans ses rapports éventuels<br/>
+					avec les fournisseurs.</p>
+<p>Le fournisseur peut donner suite à l'avis dans lequel le<br/>
+					directeur lui fait connaître son intention de noter, dans<br/>
+					le SGIF, les cas de rendement insatisfaisant. Le directeur tiendra<br/>
+					compte de l'avis exprimé par le fournisseur pour décider<br/>
+					s'il faut ou non enregistrer cette information.</p>
+<p>Si un fournisseur offre un rendement exceptionnel, il faut aussi<br/>
+					le noter, puisque cela peut s'avérer utile pour faire l'évaluation<br/>
+					globale de son rendement dans l'éventualité où on<br/>
+					songe à prendre des mesures correctives à son endroit.</p>
+<p>Les mentions relatives au rendement sont généralement<br/>
+					versées au SGIF pendant sept ans. Passé ce délai,<br/>
+					le fournisseur peut demander que ces mentions soient enlevées.<br/>
+					Après plus de sept ans, le rendement, satisfaisant ou insatisfaisant,<br/>
+					n'est généralement pas pertinent dans les décisions à adopter<br/>
+					quant à savoir s'il faut imposer une mesure corrective.</p>
+<p>Étant donné que la politique sur le rendement des<br/>
+					fournisseurs se limite au rendement insatisfaisant, en cas d'inexécution<br/>
+					d'un contrat, l'agent de négociation des contrats doit s'assurer<br/>
+					que les contrats qu'il attribue prévoient tous les aspects<br/>
+					du rendement dont il voudra tenir compte dans l'évaluation<br/>
+					du rendement du fournisseur dans le cadre d'un marché.</p>
+<h3>Enquête en prévision de mesures correctives du rendement<br/>
+					d'un fournisseur</h3>
+<p>On doit songer à prendre des mesures correctives dans les<br/>
+					cas où il est évident que l'État court un<br/>
+					risque plus important en continuant d'avoir des relations contractuelles<br/>
+					avec un fournisseur. Cette recommandation peut s'expliquer par<br/>
+					un cas sérieux de rendement insatisfaisant dans le cadre<br/>
+					d'un marché ou par un rendement insatisfaisant chronique.<br/>
+					Les secteurs et les régions peuvent également adopter<br/>
+					des normes générales ou liées à un<br/>
+					produit ou service en particulier. Selon le respect ou le non-respect<br/>
+					de ces normes, on déterminera s'il est nécessaire<br/>
+					de prendre des mesures correctives du rendement d'un fournisseur<br/>
+					(voir également la rubrique sur les programmes de secteur<br/>
+					ci-après).</p>
+<p>En faisant enquête pour savoir s'il faut prendre des mesures<br/>
+					correctives, le secteur ou la région doit :</p>
+<ol type="a">
+<li>examiner attentivement le dossier du marché et revoir<br/>
+						le dossier du fournisseur en général;</li>
+<li>prévenir les autres secteurs ou régions et consulter<br/>
+						ceux ou celles qui s'intéressent en particulier à la<br/>
+						question;</li>
+<li>consulter les clients qui s'intéressent en particulier à la<br/>
+						question, à titre d'acheteurs importants des produits<br/>
+						ou des services du fournisseur ou d'auteurs des plaintes;</li>
+<li>consulter les Services juridiques quant aux éléments<br/>
+						de preuve qu'il faut réunir et au processus qu'il convient<br/>
+						d'utiliser dans un souci de justice, à la lumière<br/>
+						de toutes les circonstances en cause.</li>
+</ol>
+<p>Tous les éléments de l'enquête et les décisions<br/>
+					prises ultérieurement doivent être consignés<br/>
+					intégralement, en plus de noter la décision adoptée<br/>
+					dans le fichier du fournisseur dans le SGIF.</p>
+<h3>Décision sur prise de mesures correctives du rendement<br/>
+					du fournisseur</h3>
+<p>Il faut recommander de prendre des mesures correctives du rendement<br/>
+					du fournisseur (MCRF) dans les cas où, lorsque le rendement<br/>
+					est insatisfaisant de façon chronique, une personne avisée<br/>
+					agissant pour son propre compte cesserait de faire affaire avec<br/>
+					ce fournisseur ou ne continuerait pas de traiter avec lui sans<br/>
+					lui imposer des conditions particulières.</p>
+<p>Une MCRF peut se présenter sous l'une des formes suivantes :</p>
+<p><em>La radiation</em> : En radiant un fournisseur, TPSGC<br/>
+					refuse de faire affaire avec lui pour une durée précisée,<br/>
+					qui peut être exprimée en fonction d'un certain nombre<br/>
+					d'opérations d'achat pertinentes. On ferait appel à cette<br/>
+					mesure en cas de problèmes à caractère criminel<br/>
+					ou dans le cas d'un rendement insatisfaisant démontrant<br/>
+					qu'un fournisseur fait preuve de mauvaise foi dans l'exécution<br/>
+					de ses diverses obligations. Dans ce dernier cas, il ne serait<br/>
+					pas réaliste de le rétablir comme fournisseur même<br/>
+					s'il satisfaisait à certaines conditions. Généralement,<br/>
+					la radiation ne dépasserait pas une durée de trois<br/>
+					ans.</p>
+<p><em>La suspension</em> : En suspendant un fournisseur, TPSGC<br/>
+					refuse de faire affaire avec lui en attendant le résultat<br/>
+					d'une enquête portant sur des cas graves ou nombreux de rendement<br/>
+					insatisfaisant ou jusqu'à ce qu'il respecte les conditions<br/>
+					définies pour être rétabli à ce titre,<br/>
+					par exemple la correction d'un problème. La suspension serait<br/>
+					imposée dans les cas où le risque serait trop grand,<br/>
+					en faisant affaire avec un fournisseur avant qu'une enquête<br/>
+					soit terminée ou avant qu'il modifie ses activités,<br/>
+					que ce dernier ne s'acquitte pas de ses obligations en vertu de<br/>
+					marchés ultérieurs.</p>
+<p><em>Les conditions</em> : On peut imposer des conditions à des<br/>
+					fournisseurs qui veulent faire affaire avec TPSGC. Des conditions<br/>
+					pourraient être imposées en cas de problèmes<br/>
+					pouvant être évités par des mesures moins sévères<br/>
+					que le refus de faire affaire avec un fournisseur. Généralement,<br/>
+					ces conditions seraient imposées pour une durée qui<br/>
+					ne dépasserait pas trois ans.</p>
+<p>En faisant une enquête pour savoir s'il faut prendre une<br/>
+					MCRF, on doit réfléchir à la mesure dans laquelle<br/>
+					cette MCRF s'appliquera aux différents éléments<br/>
+					de l'entreprise du fournisseur et aux organismes connexes. Étant<br/>
+					donné que cette politique vise à éviter que<br/>
+					des problèmes se produisent avec les fournisseurs, le champ<br/>
+					d'application de la MCRF dépendra de la nature et de l'origine<br/>
+					du rendement insatisfaisant pour lequel on envisage de prendre<br/>
+					une MCRF.</p>
+<p><em>Remarque : Exemples : Lorsque le rendement insatisfaisant s'explique par la malhonnêteté au sein de la haute direction de l'entreprise d'un fournisseur, il serait sans doute pertinent d'imposer la MCRF à l'ensemble de l'entreprise. Lorsque le rendement insatisfaisant a trait à des problèmes de qualité des produits dans l'une des gammes de produits du fournisseur, dans les cas où ce dernier n'a pas délibérément manqué à son engagement de réaliser un produit convenable, il serait sans doute plus pertinent de recourir à une MCRF limitée à la gamme de produits à l'origine des problèmes. Lorsque le rendement insatisfaisant s'explique par des problèmes de sécurité qui résultent d'une politique adoptée par la société mère pour une filiale, il pourrait être pertinent, à la condition de le signifier au moyen d'un avis en bonne et due forme, de prendre une MCRF à la société mère et à toutes les filiales auprès desquelles des problèmes de sécurité comparables pourraient surgir. Ces exemples ne sont fournis que pour illustrer l'application de la politique. Les cas réels dépendent des situations particulières.</em></p>
+<p>Si, sur la foi d'une enquête, le directeur général<br/>
+					est d'avis qu'il faut prendre l'une de ces mesures, le secteur<br/>
+					ou la région doit alors faire connaître au fournisseur<br/>
+					la MCRF qui lui est imposée, de même que les raisons<br/>
+					la justifiant. Il doit de plus donner au fournisseur une occasion<br/>
+					raisonnable (y compris un délai raisonnable) de réagir.</p>
+<p>Ce qui constitue une occasion raisonnable de réagir varie<br/>
+					selon le cas. Il peut s'agir aussi bien d'un échange de<br/>
+					correspondance que de rencontres formelles. On peut permettre au<br/>
+					fournisseur d'avoir accès à des documents portant<br/>
+					sur son rendement selon les mêmes principes que ceux qui<br/>
+					s'appliqueraient si on mettait ces documents à sa disposition<br/>
+					dans le cadre d'un litige contractuel. En se demandant s'il faut<br/>
+					remettre un document particulier au fournisseur, il faut se rappeler<br/>
+					que si l'absence d'un document signifie que le fournisseur n'est<br/>
+					pas en mesure de donner suite aux allégations faites contre<br/>
+					lui, il pourrait contester avec succès, devant les tribunaux,<br/>
+					une décision ultérieure de prendre une MCRF.</p>
+<p>Dans l'avis signifié au fournisseur, il faut préciser,<br/>
+					en plus du type de mesure,</p>
+<ol type="a">
+<li>la liste des cas de rendement insatisfaisant qui justifie la<br/>
+						MCRF proposée et qui comporte suffisamment de détails<br/>
+						pour les désigner;</li>
+<li>les raisons pour lesquelles le dossier de rendement du fournisseur<br/>
+						justifie la MCRF proposée;</li>
+<li>si la MCRF doit avoir une portée générale<br/>
+						(c.-à-d. viser tous les aspects des opérations<br/>
+						du fournisseur) ou être limitée à un produit,<br/>
+						une division géographique ou autre, un type de marché (par<br/>
+						exemple, qui prévoirait des livraisons urgentes), ou en<br/>
+						fonction d'un autre facteur;</li>
+<li>quand et comment la MCRF doit prendre fin;</li>
+<li>si le fournisseur sera soumis à une période officielle<br/>
+						d'essai à la fin de la MCRF et le nom de la personne qui<br/>
+						déterminera si les conditions de l'essai ont été respectées ou non;</li>
+<li>dans le cas d'une MCRF qui peut prendre fin lorsque le fournisseur<br/>
+						répond aux conditions, le nom de la personne qui décidera<br/>
+						si les conditions ont été respectées.</li>
+</ol>
+<p>Si, après avoir tenu compte de la réaction du fournisseur,<br/>
+					le directeur général est toujours d'avis que les<br/>
+					MCRF proposées ou des mesures moins sévères<br/>
+					sont nécessaires, il recommande de les imposer. Si l'on<br/>
+					veut, après avoir pris connaissance de la réaction<br/>
+					du fournisseur, recommander une mesure plus sévère<br/>
+					que celle que l'on proposait à l'origine, il faut le faire<br/>
+					savoir au fournisseur et lui donner l'occasion raisonnable de réagir à ce changement.</p>
+<p>Dans la décision de recourir à une MCRF, il faut<br/>
+					préciser, en plus du type de mesure : </p>
+<ol type="a">
+<li>les opérations d'achat auxquelles le fournisseur n'est<br/>
+						pas admissible pour présenter une soumission ou se faire<br/>
+						attribuer un marché, à savoir si les MCRF doivent<br/>
+						avoir une portée générale (c.-à-d.,<br/>
+						viser tous les aspects des opérations du fournisseur)<br/>
+						ou être limitées à un produit, une division<br/>
+						géographique ou autre, un type de marché (par exemple,<br/>
+						qui prévoirait des livraisons urgentes), ou en fonction<br/>
+						d'un autre facteur;</li>
+<li>quand et comment la MCRF prendra fin;</li>
+<li>si le fournisseur sera soumis à une période officielle<br/>
+						d'essai à la fin de la MCRF et le nom de la personne qui<br/>
+						déterminera si les conditions de l'essai ont été respectées ou non;</li>
+<li>dans le cas d'une MCRF qui peut prendre fin lorsque le fournisseur<br/>
+						répond aux conditions, le nom de la personne qui décidera si les conditions ont été respectées.</li>
+</ol>
+<h3>Examen</h3>
+<p>Sauf lorsqu'un programme de secteur est approuvé (voir<br/>
+					plus loin), le sous-ministre adjoint, Direction générale<br/>
+					du service des approvisionnements (SMA/DGSA) examine toutes les<br/>
+					recommandations concernant l'imposition d'une MCRF, ainsi que les<br/>
+					autres démarches faites par le fournisseur, et peut décider<br/>
+					de modifier la décision prise. Si le SMA/DGSA a l'intention<br/>
+					d'imposer une MCRF plus sévère, le fournisseur doit<br/>
+					en être informé et on doit lui donner une occasion<br/>
+					raisonnable de réagir à ce changement.</p>
+<h3>Mise à exécution</h3>
+<p>Lorsqu'une MCRF est imposée à un fournisseur, le<br/>
+					SMA/DGSA (ou le directeur général, dans le cas d'un<br/>
+					programme de secteur) fera connaître la décision au<br/>
+					fournisseur. On informe aussi les secteurs, les régions<br/>
+					et les clients que la question intéresse particulièrement.</p>
+<p>Les mesures prises à l'endroit d'un fournisseur dans le<br/>
+					cadre de la politique sont publiées dans le SIOS et dans<br/>
+					le bulletin MP, avec les détails, mais non les motifs. Cet<br/>
+					avis sera diffusé pendant toute la durée d'application<br/>
+					de la mesure.</p>
+<p>Le fournisseur radié ou suspendu ne peut présenter<br/>
+					de soumission ni se faire attribuer de marchés pour certains<br/>
+					types d'opérations d'achat. Le fournisseur soumis à des<br/>
+					conditions qu'il ne peut pas respecter pour une opération<br/>
+					d'achat en particulier ne peut y participer.</p>
+<p>Le nom du fournisseur radié ou suspendu est retranché des<br/>
+					listes de fournisseurs correspondantes et dessystèmes automatisés<br/>
+					de rotation des fournisseurs, et il ne pourra plus participer aux<br/>
+					offres à commandes. Les soumissions adressées par<br/>
+					des fournisseurs dont le privilège de faire affaire avec<br/>
+					TPSGC a été radié ou suspendu ne seront pas évaluées.<br/>
+					Les soumissions adressées par un fournisseur radié ou<br/>
+					suspendu en partie ne seront pas évaluées si elles<br/>
+					ont trait à des approvisionnements pour lesquels il a été radié ou<br/>
+					suspendu. Les soumissions adressées par un fournisseur qui<br/>
+					ne respecte pas les conditions particulières qui lui ont été imposées<br/>
+					ne seront pas évaluées.</p>
+<p>Si elles n'ont pas d'incidence sur les marchés déjà attribués,<br/>
+					les MCRF influent par contre sur les modificatifs contractuels.<br/>
+					Dans les cas où la MCRF imposée à un fournisseur<br/>
+					aurait été pertinente dans l'attribution du marché si<br/>
+					cette MCRF avait été en vigueur à ce moment<br/>
+					ou qu'elle est pertinente en fonction de l'objet du modificatif<br/>
+					contractuel, ce modificatif doit alors être approuvé par<br/>
+					le directeur général compétent, à titre<br/>
+					de dérogation à la MCRF.</p>
+<p>Seul le Secteur de la gestion du programme des approvisionnements<br/>
+					(SGPA), responsable de la mise à jour de l'information sur<br/>
+					les MCRF (y compris l'enlèvement de l'avis dans le cas où une<br/>
+					MCRF a pris fin), peut enregistrer dans le SGIF l'information sur<br/>
+					une sanction imposée à un fournisseur. Quiconque<br/>
+					a accès à l'Environnement informatisé pour<br/>
+					les acheteurs (ABE) peut consulter ces renseignements.</p>
+<p>Quand une mesure prend fin, le secteur ou la région qui<br/>
+					l'a imposée doit prévenir le fournisseur sans tarder.</p>
+<h3>Rôle de l'agent de négociation des contrats</h3>
+<p>L'agent de négociation des contrats doit vérifier<br/>
+					si le soumissionnaire ou le fournisseur à qui on envisage<br/>
+					d'accorder un marché à fournisseur unique est visé par<br/>
+					une mesure corrective du rendement du fournisseur (MCRF) et si<br/>
+					cette mesure s'applique à l'opération d'achat dont<br/>
+					il s'occupe.</p>
+<p>En consultant le fichier d'un fournisseur sur le SGIF, l'agent<br/>
+					de négociation des contrats voit s'afficher un avis clair<br/>
+					confirmant qu'une sanction est en vigueur. L'ABE n'empêche<br/>
+					pas de passer un marché à un fournisseur visé par<br/>
+					une MCRF. Étant donné que la zone des détails<br/>
+					sur la MCRF est limitée à environ 250 caractères,<br/>
+					on peut reproduire d'autres renseignements dans les commentaires<br/>
+					portant sur la nature de la MCRF, commentaires qu'il faut également<br/>
+					consulter.</p>
+<h3>Suspensions dans les cas d'urgence</h3>
+<p>Lorsqu'un problème est particulièrement grave (par<br/>
+					exemple qui fait intervenir la négligence ou l'inconduite<br/>
+					délibérée du fournisseur, ou encore a des<br/>
+					répercussions sur la santé ou la sécurité),<br/>
+					le SMA/DGSA peut imposer aussitôt une suspension, sur les<br/>
+					conseils d'un directeur général, avant de procéder à une<br/>
+					enquête complète. La suspension reste en vigueur jusqu'à ce<br/>
+					que l'on prenne des mesures pour éliminer tous les risques<br/>
+					inadmissibles pour l'État ou le public. On prévient<br/>
+					aussitôt le fournisseur et on lui donne l'occasion de réagir<br/>
+					comme on le ferait s'il s'agissait de l'imposition d'une sanction.</p>
+<h3>Dérogations</h3>
+<p>Dans les cas d'urgence, un directeur général peut<br/>
+					permettre de déroger à la MCRF. En pareil cas, il<br/>
+					convient de prendre les précautions nécessaires pour<br/>
+					protéger l'État. Le motif de la dérogation<br/>
+					doit être noté dans le dossier du contrat et dans<br/>
+					le fichier du fournisseur. Le fait qu'un fournisseur visé par<br/>
+					une MCRF soit le soumissionnaire le moins disant ne justifie pas<br/>
+					une dérogation.</p>
+<h3>Programmes de secteur</h3>
+<p>Les responsables d'un secteur ou d'une région peuvent créer<br/>
+					un programme permettant d'évaluer le rendement des fournisseurs<br/>
+					et d'établir les mesures correctives du rendement du fournisseur<br/>
+					(MCRF) pertinentes à appliquer dans ce secteur ou cette<br/>
+					région. Si ce programme est approuvé par le SMA/DGSA,<br/>
+					il n'est pas nécessaire que ce dernier étudie chaque<br/>
+					cas. La décision peut être prise par les personnes à qui<br/>
+					ce pouvoir a été délégué en<br/>
+					vertu du programme.</p>
+<p>Les normes de rendement et les MCRF imposées à un<br/>
+					fournisseur sont établies selon le produit ou le service,<br/>
+					et il convient de consulter les autres secteurs du ministère<br/>
+					qui pourraient être touchés par le programme proposé.<br/>
+					On évite ainsi que les normes diffèrent d'un secteur<br/>
+					ou d'une région à l'autre pour les mêmes produits.<br/>
+					Une fois qu'il est établi, le programme est administré par<br/>
+					le secteur et la région conformément aux modalités<br/>
+					de la présente politique.</p>
+<h2>Annexe A</h2>
+<h3>FICHE D'INFORMATION</h3>
+<h4>Politique et Clause sur le rendement des fournisseurs</h4>
+<p>À compter du 1<sup>er </sup>septembre prochain, Travaux<br/>
+					publics et Services gouvernementaux Canada (TPSGC) mettra en œuvre<br/>
+					la Politique sur le rendement des fournisseurs et la Clause sur<br/>
+					le rendement des fournisseurs. Ces nouvelles dispositions ont pour<br/>
+					objet d'améliorer les services qu'offre TPSGC aux autres<br/>
+					ministères, en lui permettant de prendre des mesures à l'endroit<br/>
+					des fournisseurs dont le rendement est insatisfaisant.</p>
+<p>La Politique sur le rendement des fournisseurs met en place un<br/>
+					cadre de travail qui permettra à TPSGC d'évaluer<br/>
+					le rendement des fournisseurs et, au besoin, de prendre des mesures à l'endroit<br/>
+					des fournisseurs qui ne respectent pas leurs obligations contractuelles.<br/>
+					Ces mesures peuvent prendre la forme d'une exclusion ou d'une suspension<br/>
+					de toute relation commerciale avec TPSGC, ou encore de conditions<br/>
+					s'appliquant à des contrats ultérieurs avec TPSGC.</p>
+<p>La Clause sur le rendement des fournisseurs, qui sera intégrée<br/>
+					dans toutes les demandes de propositions en régime de concurrence émises<br/>
+					par le Service des approvisionnements de TPSGC, décrit les<br/>
+					situations (liées au rendement antérieur d'un fournisseur<br/>
+					ou à ses activités criminelles), qui pourront donner<br/>
+					lieu au rejet, par TPSGC, des soumissions et des propositions présentées<br/>
+					par les fournisseurs.</p>
+<p>La Politique et la Clause sur le rendement des fournisseurs constituent<br/>
+					une mise à jour de la politique antérieure. Elles<br/>
+					assurent une meilleure harmonisation avec les nouveaux accords<br/>
+					commerciaux et avec nos pratiques d'appels d'offres qui sont plus<br/>
+					ouvertes. De plus, elles viennent s'ajouter aux autres possibilités de recours pouvant être utilisées à l'endroit<br/>
+					des fournisseurs qui ne respectent pas leurs obligations contractuelles.<br/>
+					Par exemple, TPGSC a toujours été capable de prendre<br/>
+					des mesures correctives, mesures pouvant aller jusqu'à la<br/>
+					résiliation du contrat, lorsque des fournisseurs ne respectaient<br/>
+					pas leurs obligations contractuelles, et il continuera de recourir à ces<br/>
+					mesures, selon les circonstances particulières de chaque<br/>
+					contrat. La Politique et la Clause sur le rendement des fournisseurs<br/>
+					visent à prévenir les problèmes qui pourraient<br/>
+					surgir lorsque TPGSC doit faire affaire avec des fournisseurs dont<br/>
+					le rendement antérieur n'aurait pas été satisfaisant.</p>
+<p>La politique et la clause, qui ont été élaborées à la suite de consultations avec les principales associations industrielles<br/>
+					canadiennes, seront mises en application par le Service des approvisionnements<br/>
+					de TPSGC, qui est chargé de l'achat des biens et de la plupart<br/>
+					des services, tant à l'administration centrale à Ottawa<br/>
+					que dans les bureaux régionaux. Cette politique et cette<br/>
+					clause viennent s'ajouter au Système d'évaluation<br/>
+					du rendement des fournisseurs actuellement utilisé par le<br/>
+					groupe des services immobiliers de TPSGC responsable des contrats<br/>
+					de services de construction, d'architecture et de génie.<br/>
+					La politique ne s'appliquera pas aux trois organismes de services<br/>
+					spéciaux du Ministère, à savoir Conseils et<br/>
+					Vérification Canada, le Bureau de la traduction et le Groupe<br/>
+					Communication Canada.</p>
+<p>Le recours aux mesures prévues dans la politique ou dans<br/>
+					la clause sera exercé de façon juste et raisonnable,<br/>
+					et ne s'appliquera qu'au rendement des fournisseurs dans le cadre<br/>
+					d'un contrat avec TPSGC. En vertu de la Politique sur le rendement<br/>
+					des fournisseurs, des mesures ne peuvent être prises que<br/>
+					si un entrepreneur n'a pas respecté ses obligations contractuelles.<br/>
+					La politique constitue donc en soi une norme objective d'évaluation.</p>
+<p>Aucune recommandation visant à appliquer toute mesure découlant<br/>
+					de cette politique ne pourra être retenue tant qu'une enquête<br/>
+					approfondie n'aura pas été effectuée et que<br/>
+					le fournisseur n'aura pas eu la possibilité de réagir<br/>
+					aux cas présumés de problèmes qu'on lui reproche.</p>
+<p>Conscient de la gravité de ses décisions, le sous-ministre<br/>
+					adjoint, Direction générale du service des approvisionnements,<br/>
+					examinera toutes les recommandations concernant l'application d'une<br/>
+					mesure. En attribuant cette responsabilité à un haut<br/>
+					fonctionnaire, on assurera l'application uniforme de la politique<br/>
+					et de la clause au sein du Ministère.</p>
+<p>Chaque fois qu'une mesure sera prise à l'égard d'un<br/>
+					fournisseur, ce dernier sera informé par écrit des<br/>
+					raisons ayant donné lieu à son application, ainsi<br/>
+					que des conséquences de cette mesure. L'information transmise<br/>
+					au fournisseur précisera également la durée<br/>
+					de la mesure imposée ainsi que les conditions qui permettront<br/>
+					sa réintégration, pour qu'il obtienne à nouveau<br/>
+					des contrats à TPSGC.</p>
+<p>La Politique sur le rendement des fournisseurs et la Clause sur<br/>
+					le rendement des fournisseurs ne s'appliquent qu'aux fournisseurs<br/>
+					qui font affaire avec le Service des approvisionnements de TPSGC.<br/>
+					Elles ne s'appliquent pas aux fournisseurs qui font directement<br/>
+					affaire avec d'autres ministères ou organismes. Les autres<br/>
+					ministères et organismes pourront toutefois avoir accès<br/>
+					aux données de TPSGC sur le rendement des fournisseurs.</p>
+<p>L'efficacité de la Politique et de la Clause sur le rendement<br/>
+					des fournisseurs dépendra de la collaboration apportée<br/>
+					par des ministères et organismes clients. Ces derniers peuvent<br/>
+					faire de cette politique et de cette clause des outils efficaces<br/>
+					qui permettront de faire face aux fournisseurs dont le rendement<br/>
+					est insatisfaisant, en signalant sans délai à TPSGC<br/>
+					les problèmes qu'ils éprouvent avec ces fournisseurs.<br/>
+					Plus l'information fournie par les ministères et organismes<br/>
+					clients sera complète et exacte, plus TPSGC sera susceptible<br/>
+					de prendre des mesures efficaces dans le cadre de la Politique<br/>
+					et de la Clause sur le rendement des fournisseurs.</p>
+<p>Les ministères et les organismes qui font considérablement<br/>
+					appel aux produits ou aux services d'un fournisseur seront consultés<br/>
+					pendant l'enquête, avant que des mesures soient prises. Ils<br/>
+					seront également informés de toutes les mesures prises à l'égard<br/>
+					de celui-ci. Selon la nature des mesures appliquées, on<br/>
+					leur fera généralement connaître les cas où l'on<br/>
+					aura décidé d'appliquer des mesures en vertu de la<br/>
+					politique ou de la clause.</p>
+<p>Tout ministère ou organisme qui propose de faire appel à un<br/>
+					unique fournisseur, à l'endroit duquel une mesure a été appliquée,<br/>
+					sera mis au courant de cette mesure et de la raison qui l'a motivée.<br/>
+					Le personnel de négociation des contrats de TPSGC collaborera également<br/>
+					avec le ministère ou l'organisme pertinent pour mettre au<br/>
+					point une solution de rechange ou permettre une dérogation<br/>
+					afin de répondre aux besoins d'achats, en prenant les précautions<br/>
+					voulues pour protéger les intérêts de l'État.</p>
+<p>Pour de plus amples renseignements, veuillez communiquer avec<br/>
+					Susan Sheehan, Direction de la politique des approvisionnements,<br/>
+					Travaux publics et Services gouvernementaux Canada, au 819-956-0867.</p>
+<h2>Annexe B</h2>
+<h3>CLAUSE PORTANT SUR LE RENDEMENT DU FOURNISSEUR</h3>
+<h4>Application de la clause portant sur le rendement du fournisseur</h4>
+<h5>Pouvoir de rejeter une soumission</h5>
+<p>Le pouvoir de rejeter une soumission en vertu de la clause sur<br/>
+					le rendement du fournisseur (A9100T) appartient à l'agent<br/>
+					responsable de l'évaluation des soumissions; toutefois,<br/>
+					dans le cas des soumissions qu'on envisage de rejeter conformément<br/>
+					aux alinéas 1d)(2), 1d)(3) ou 1d)(4), ce pouvoir appartient<br/>
+					au directeur général compétent.</p>
+<h5>Avis adressé au soumissionnaire</h5>
+<p>L'avis d'intention de rejeter une soumission conformément à cette clause est transmis par téléphone; l'appel téléphonique<br/>
+					est confirmé par une télécopie ou une lettre;<br/>
+					toutefois, on n'envoie pas d'avis au soumissionnaire exclu au titre<br/>
+					de l'alinéa 1b). Il convient d'appeler un employédu<br/>
+					soumissionnaire qui s'acquitte de responsabilités de gestion<br/>
+					claires et directement liées à la soumission. Le<br/>
+					fournisseur dont la soumission est rejetée est réputé avoir<br/>
+					reçu cet avis au moment de l'appel téléphonique.<br/>
+					La personne qui fait l'appel doit noter dans le dossier la date<br/>
+					et l'heure de la communication, ainsi que le nom de son interlocuteur.</p>
+<h5>Teneur de l'avis</h5>
+<p>L'avis doit faire état des faits et des motifs de la décision<br/>
+					de rejeter la soumission. Par exemple, lorsqu'un fournisseur qui<br/>
+					accuse des retards chroniques, mais qui n'a pas encore été soumis à une<br/>
+					MCRF, est exclu d'un marché dans le cadre duquel les délais<br/>
+					sont impératifs, l'avis ferait état des marchés<br/>
+					au titre desquels le fournisseur a accusé des retards (les<br/>
+					faits) et préciserait que son dossier représente<br/>
+					un risque inadmissible, étant donné le caractère<br/>
+					critique des délais à respecter dans le marché à attribuer (les motifs).</p>
+<p>Lorsqu'une soumission est rejetée en vertu de l'alinéa 1c), il suffit d'invoquer la MCRF.</p>
+<h5>Examen</h5>
+<p>Le soumissionnaire, sauf s'il est exclu en vertu de l'alinéa 1b), peut demander au sous-ministre adjoint, Direction générale<br/>
+					du service des approvisionnements, d'examiner la décision<br/>
+					de rejet. La décision de mettre en attente le processus<br/>
+					d'évaluation des soumissions et d'attribution du marché,<br/>
+					pour qu'on puisse examiner la décision de rejet, est à l'entière discrétion du SMA/DGSA.</p>
+<p>L'examen effectué par le SMA, DGSA, donne lieu à une<br/>
+					enquête, puis à une décision. Cette décision<br/>
+					peut produire des effets qui débordent le cadre de l'opération<br/>
+					d'achat particulière dont le fournisseur est exclu. Lorsque<br/>
+					la décision est prise, on en fait connaître par écrit<br/>
+					les résultats au soumissionnaire.</p>
+<h3>A9100T Rendement du fournisseur</h3>
+<p><strong>Remarque</strong> : Cette clause doit être<br/>
+					reproduite dans toutes les invitations à soumissionner.</p>
+<p>1. Le Canada peut rejeter une soumission dans l'un ou l'autre<br/>
+					des cas suivants :</p>
+<ol type="a">
+<li>Le soumissionnaire ou l'un de ses employés ou sous-traitants<br/>
+						visé dans la soumission a été reconnu coupable<br/>
+						en vertu de l'article 121 (hFraudes envers le gouvernementi et<br/>
+						hEntrepreneur qui souscrit à une caisse électoralei),<br/>
+						124 (hAchat ou vente d'une chargei) ou 418 (hVente d'approvisionnements défectueux à Sa Majestéi) du <em>Code criminel</em>;
+<div class="alignRight">Responsable : évaluateur</div>
+</li>
+<li>Le soumissionnaire et assujetti à une mesure corrective<br/>
+						du rendement du fournisseur, en vertu de la politique sur le<br/>
+						rendement du fournisseur, ce qui le rend inadmissible pour déposer une soumission dans le cadre des travaux;
+<div class="alignRight">Responsable : évaluateur</div>
+</li>
+<li>L'employé ou un sous-traitant visé dans la soumission<br/>
+						est soumis à une mesure corrective du rendement du fournisseur,<br/>
+						en vertu de la Politique sur le rendement du fournisseur, ce<br/>
+						qui le rendrait inadmissible pour participer aux travaux ou à la<br/>
+						tranche des travaux que l'employé ou le sous-traitant<br/>
+						doit exécuter;
+<div class="alignRight">Responsable : évaluateur</div>
+</li>
+<li>Dans le cadre de transactions actuelles ou antérieures<br/>
+						avec le gouvernement du Canada :
+<ol>
+<li>le soumissionnaire déclare faillite ou ne peut, pour<br/>
+								quelque motif que ce soit, exercer ses activités pour<br/>
+								une durée prolongée;
+<div class="alignRight">Responsable : évaluateur</div>
+</li>
+<li>des preuves de fraude, de corruption ou de fausse déclaration<br/>
+								ou des preuves confirmant l'incapacité de respecter<br/>
+								des lois protégeant les personnes contre toute forme<br/>
+								de discrimination ont été déposées à la<br/>
+								satisfaction du Canada à l'égard du soumissionnaire,<br/>
+								de l'un quelconque de ses employés ou d'un sous-traitant<br/>
+								visé dans sa soumission;
+<div class="alignRight">Responsable : directeur général</div>
+</li>
+<li>le Canada a exercé ses recours contractuels de suspension<br/>
+								ou de résiliation pour inexécution à l'égard<br/>
+								d'un marché attribué au soumissionnaire, à l'un<br/>
+								quelconque de ses employés ou à un sous-traitant<br/>
+								visé dans sa soumission;
+<div class="alignRight">Responsable : directeur général</div>
+</li>
+<li>le Canada détermine que le rendement du soumissionnaire<br/>
+								dans le cadre d'autres marchés, notamment l'efficacité et<br/>
+								la qualité des travaux, ainsi que la mesure dans laquelle<br/>
+								le soumissionnaire a respecté les clauses et les conditions<br/>
+								contractuelles dans l'exécution des travaux, est suffisamment<br/>
+								médiocre pour qu'on le considère incapable de<br/>
+								répondre au besoin faisant l'objet de la soumission.
+<div class="alignRight">Responsable : directeur général</div>
+</li>
+</ol>
+</li>
+</ol>
+<p>2. Dans les cas où le Canada a l'intention de rejeter une<br/>
+					soumission conformément à l'alinéa 1 pour<br/>
+					des motifs distincts de ceux exposés à l'alinéa<br/>
+					1b), l'autorité contractante le fait savoir au soumissionnaire<br/>
+					et lui donne un délai de dix (10) jours pour faire valoir<br/>
+					son point de vue, avant de rendre une décision définitive<br/>
+					sur le rejet de la soumission.</p>
+<hr/>
+<h3>A9100T Rendement du fournisseur</h3>
+<p><strong>Remarque</strong> : Cette clause doit être<br/>
+					reproduite dans toutes les invitations à soumissionner.</p>
+<p>1. Le Canada peut rejeter une soumission dans l'un ou l'autre<br/>
+					des cas suivants :</p>
+<ol type="a">
+<li>Le soumissionnaire ou l'un de ses employés ou sous-traitants<br/>
+						visé dans la soumission a été reconnu coupable<br/>
+						en vertu de l'article 121 (« Fraudes envers le gouvernement » et « Entrepreneur<br/>
+						qui souscrit à une caisse électorale »),<br/>
+						124 (« Achat ou vente d'une charge ») ou<br/>
+						418 (« Vente d'approvisionnements défectueux à Sa Majesté ») du <em>Code criminel</em>;</li>
+<li>Le soumissionnaire et assujetti à une mesure corrective<br/>
+						du rendement du fournisseur, en vertu de la politique sur le<br/>
+						rendement du fournisseur, ce qui le rend inadmissible pour déposer<br/>
+						une soumission dans le cadre des travaux;</li>
+<li>L'employé ou un sous-traitant visé dans la soumission<br/>
+						est soumis à une mesure corrective du rendement du fournisseur,<br/>
+						en vertu de la Politique sur le rendement du fournisseur, ce<br/>
+						qui le rendrait inadmissible pour participer aux travaux ou à la<br/>
+						tranche des travaux que l'employé ou le sous-traitant<br/>
+						doit exécuter;</li>
+<li>Dans le cadre de transactions actuelles ou antérieures<br/>
+						avec le gouvernement du Canada :
+<ol>
+<li>le soumissionnaire déclare faillite ou ne peut, pour<br/>
+								quelque motif que ce soit, exercer ses activités pour<br/>
+								une durée prolongée;</li>
+<li>des preuves de fraude, de corruption ou de fausse déclaration<br/>
+								ou des preuves confirmant l'incapacité de respecter<br/>
+								des lois protégeant les personnes contre toute forme<br/>
+								de discrimination ont été déposées à la<br/>
+								satisfaction du Canada à l'égard du soumissionnaire,<br/>
+								de l'un quelconque de ses employés ou d'un sous-traitant<br/>
+								visé dans sa soumission;</li>
+<li>le Canada a exercé ses recours contractuels de suspension<br/>
+								ou de résiliation pour inexécution à l'égard<br/>
+								d'un marché attribué au soumissionnaire, à l'un<br/>
+								quelconque de ses employés ou à un sous-traitant<br/>
+								visé dans sa soumission;</li>
+<li>le Canada détermine que le rendement du soumissionnaire<br/>
+								dans le cadre d'autres marchés, notamment l'efficacité et<br/>
+								la qualité des travaux, ainsi que la mesure dans laqelle<br/>
+								le soumissionnaire a respecté les clauses et les conditions<br/>
+								contractuelles dans l'exécution des travaux, est suffisamment<br/>
+								médiocre pour qu'on le considère incapable de<br/>
+								répondre au besoin faisant l'objet de la soumission.</li>
+</ol>
+</li>
+</ol>
+<p>2. Dans les cas où le Canada a l'intention de rejeter une<br/>
+					soumission conformément à l'alinéa 1 pour<br/>
+					des motifs distincts de ceux exposés à l'alinéa<br/>
+					1b), l'autorité contractante le fait savoir au soumissionnaire<br/>
+					et lui donne un délai de dix (10) jours pour faire valoir<br/>
+					son point de vue, avant de rendre une décision définitive<br/>
+					sur le rejet de la soumission.</p>
+<h2>Annexe C</h2>
+<h3>POLITIQUE ET CLAUSE SUR LE RENDEMENT DES FOURNISSEURS QUESTIONS ET RÉPONSES</h3>
+<p><a href="#AP-11q1"><strong>Q1 - Q17</strong> La Politique et la Clause sur le rendement<br/>
+					des fournisseurs</a></p>
+<p><a href="#AP-11q18"><strong>Q18 - Q33</strong> Application des mesures</a></p>
+<p><a href="#AP-11q34"><strong>Q34</strong> Coûts pour les contribuables</a></p>
+<p><a href="#AP-11q35"><strong>Q35 - Q37</strong> Non-application de la Politique<br/>
+					et de la Clause par les autres ministères</a></p>
+<p><a href="#AP-11q38"><strong>Q38 - Q39</strong> Respect des politiques du Conseil<br/>
+					du Trésor et des accords commerciaux</a></p>
+<p><a href="#AP-11q40"><strong>Q40</strong> Avis aux fournisseurs au sujet de la mise<br/>
+					en œuvre de la Politique et de la Clause</a></p>
+<p><a href="#AP-11q41"><strong>Q41- Q43</strong> Rôle des autres ministères</a></p>
+<p><a href="#AP-11q44"><strong>Q44</strong> Principes</a></p>
+<p><a href="#AP-11q45"><strong>Q45 - Q52</strong> Types de mesures disponibles</a></p>
+<p><a href="#AP-11q53"><strong>Q53 - Q59</strong> Consignation des problèmes</a></p>
+<p><a href="#AP-11q60"><strong>Q60</strong> Il ne s'agit pas d'un système d'évaluation du rendement</a></p>
+<p><a href="#AP-11q61"><strong>Q61 </strong>Lien avec le Programme de contrats fédéraux et des sanctions au titre du commerce international</a></p>
+<hr/>
+<h3>LA POLITIQUE ET LA CLAUSE SUR LE RENDEMENT DES FOURNISSEURS</h3>
+<p id="AP-11q1"><strong>Q1. En quoi consiste la Politique sur le rendement des<br/>
+					fournisseurs?</strong></p>
+<p>R1. Cette politique vise à améliorer considérablement<br/>
+					le service offert aux ministères clients de TPSGC en permettant<br/>
+					au Ministère de prendre des mesures à l'endroit des<br/>
+					fournisseurs dont le rendement est insatisfaisant. Elle permettra<br/>
+					de réaliser cet objectif en définissant un cadre<br/>
+					grâce auquel TPSGC pourra évaluer le rendement des<br/>
+					fournisseurs et, le cas échéant, appliquer des mesures à l'endroit<br/>
+					de ceux dont le rendement laisse à désirer. Ces mesures<br/>
+					peuvent se présenter sous la forme d'une radiation ou d'une<br/>
+					suspension interdisant de faire affaire avec TPSGC, ou encore de<br/>
+					conditions imposées aux opérations ultérieures<br/>
+					conclues avec TPSGC.</p>
+<p><strong>Q2. Pourquoi cette politique n'existait-elle pas déjà à la<br/>
+					DGSA?</strong></p>
+<p>R2. Il existe effectivement une politique [Guide des achats 11.220<br/>
+					(23/06/94)] permettant de retrancher des fournisseurs des listes<br/>
+					de fournisseurs; or, il fallait actualiser cette politique afin<br/>
+					de l'harmoniser avec le Système des invitations ouvertes à soumissionner<br/>
+					et avec les opérations d'achat conclues dans le cadre des<br/>
+					accords commerciaux. Parce qu'il n'existait pas de système<br/>
+					informatisé pour le suivi et la consignation des problèmes éprouvés<br/>
+					avec les fournisseurs, on n'avait pu établir de politique<br/>
+					plus détaillée.</p>
+<p>Grâce au déploiement récent, à TPSGC,<br/>
+					de l'Environnement automatisé pour les acheteurs (EAA),<br/>
+					on peut désormais consigner et suivre systématiquement<br/>
+					les problèmes éprouvés avec les fournisseurs,<br/>
+					ce qui est nécessaire à l'application d'une politique<br/>
+					efficace sur le rendement des fournisseurs.</p>
+<p><strong>Q3. Quel sera le lien entre l'Environnement automatisé pour<br/>
+					les acheteurs et la Politique sur le rendement des fournisseurs?</strong></p>
+<p>R3. L'Environnement automatisé pour les acheteurs (EAA)<br/>
+					comprend un Système de gestion de l'information sur les<br/>
+					fournisseurs (SGIF), qui est une base de données sur les<br/>
+					fournisseurs accessible aux agents des achats de TPSGC. Grâce<br/>
+					au SGIF, les directeurs des achats pourront noter leurs observations<br/>
+					sur les fournisseurs et diffuser cette information parmi les groupes<br/>
+					chargés des achats à TPSGC. La haute direction de<br/>
+					la Direction générale du service des approvisionnements<br/>
+					consultera cette documentation et demandera conseil aux Services<br/>
+					juridiques pour savoir s'il faut ou non prendre des mesures à l'endroit<br/>
+					d'un fournisseur en vertu de la Politique sur le rendement des<br/>
+					fournisseurs.</p>
+<p><strong>Q4. Le vérificateur général du Canada<br/>
+					a recommandé en 1991 d'adopter cette politique :<br/>
+					pourquoi a-t-il fallu attendre jusqu'à maintenant pour<br/>
+					mettre en œuvre cette recommandation?</strong></p>
+<p>R4. Parce qu'il n'y avait pas de système informatisé permettant<br/>
+					de suivre et de consigner les problèmes éprouvés<br/>
+					avec les fournisseurs, on n'a pu adopter de politique plus détaillée<br/>
+					permettant de réaliser ce que le vérificateur général<br/>
+					du Canada recommandait.</p>
+<p>Grâce au déploiement, à TPSGC, de l'Environnement<br/>
+					automatisé pour les acheteurs (EAA), on peut désormais<br/>
+					consigner et suivre systématiquement les problèmes éprouvés<br/>
+					avec les fournisseurs, ce qui est nécessaire àl'application<br/>
+					d'une politique efficace sur le rendement des fournisseurs.</p>
+<p>L'Environnement automatisé pour les acheteurs (EAA) comprend<br/>
+					un Système de gestion de l'information sur les fournisseurs<br/>
+					(SGIF), qui est une base de données sur les fournisseurs<br/>
+					accessible à tous les agents des achats de TPSGC. Grâce<br/>
+					au SGIF, les directeurs des achats pourront noter leurs observations<br/>
+					sur les fournisseurs et diffuser cette information parmi les groupes<br/>
+					chargés des achats à TPSGC. La haute direction de<br/>
+					la Direction générale du service des approvisionnements<br/>
+					consultera cette documentation et demandera conseil aux Services<br/>
+					juridiques pour savoir s'il faut ou non prendre des mesures à l'endroit<br/>
+					d'un fournisseur en vertu de la Politique sur le rendement des<br/>
+					fournisseurs.</p>
+<p><strong>Q5. Les fournisseurs peuvent-ils consulter l'information<br/>
+					versée au dossier à leur sujet par TPSGC?</strong></p>
+<p>R5. Oui. Cette information sera mise à la disposition des<br/>
+					fournisseurs lorsqu'ils en feront la demande.</p>
+<p><strong>Q6. Lorsque des commentaires sur le rendement insatisfaisant<br/>
+					d'un fournisseur seront enregistrés dans le Système<br/>
+					de gestion de l'information sur les fournisseurs (SGIF), en sera-t-il<br/>
+					informé au préalable?</strong></p>
+<p>R6. Oui, chaque fois que des commentaires relatifs au rendement<br/>
+					insatisfaisant d'un fournisseur seront enregistrés dans<br/>
+					le SGIF, il en sera informé. Le fournisseur disposera d'un<br/>
+					délai de dix jours pour réagir avant que cette mention<br/>
+					figure dans le SGIF. On tiendra compte de sa réaction avant<br/>
+					de prendre une décision quant à savoir s'il faut<br/>
+					enregistrer ou non l'information.</p>
+<p>De même, pendant la conversion au nouveau système,<br/>
+					on fera connaître au fournisseur toutes les observations<br/>
+					enregistrées dans le SGIF au sujet de problèmes relatifs à son<br/>
+					rendement et qui se sont produits avant l'adoption de la politique<br/>
+					actualisée.</p>
+<p>En général, les observations sur le rendement seront<br/>
+					conservées dans le SGIF pendant sept ans. Passé ce<br/>
+					délai, le fournisseur pourra demander que ces observations<br/>
+					soient supprimées.</p>
+<p><strong>Q7. Est-ce que la décision d'appliquer des mesures à l'endroit<br/>
+					d'un fournisseur sera fondée strictement sur les problèmes<br/>
+					notés dans le Système de gestion de l'information<br/>
+					sur les fournisseurs (SGIF)?</strong></p>
+<p>R7. Oui. Durant la conversion au nouveau système, les observations<br/>
+					notées dans les dossiers existants au sujet du rendement<br/>
+					antérieur du fournisseur seront transférées<br/>
+					dans le SGIF. Les renseignements et commentaires sur le rendement<br/>
+					du fournisseur qui ont été versés au SGIF<br/>
+					après l'application de la nouvelle politique seront pris<br/>
+					en considération dans les rapports ultérieurs avec<br/>
+					ce fournisseur.</p>
+<p>Chaque fois que des commentaires relatifs au rendement insatisfaisant<br/>
+					d'un fournisseur seront enregistrés, le fournisseur en sera<br/>
+					informé. Il disposera d'un délai de dix jours pour<br/>
+					réagir avant qu'une mention soit notée dans le SGIF.<br/>
+					On tiendra compte de sa réaction avant de prendre une décision<br/>
+					quant à savoir s'il faut ou non enregistrer l'information.</p>
+<p>De même, pendant la conversion au nouveau système,<br/>
+					on fera connaître au fournisseur toutes les observations<br/>
+					enregistrées dans le SGIF au sujet de problèmes de<br/>
+					rendement qui se sont produits avant l'adoption de la politique<br/>
+					actualisée.</p>
+<p><strong>Q8. En quoi consiste la Clause sur le rendement des fournisseurs?</strong></p>
+<p>R8. La Clause sur le rendement des fournisseurs décrit<br/>
+					les situations liées au rendement antérieur d'un<br/>
+					fournisseur (par exemple, résiliation d'un contrat antérieur<br/>
+					pour défaut d'exécution) ou à des activités<br/>
+					criminelles (par exemple, fraude et corruption), qui pourront donner<br/>
+					lieu au rejet, par TPSGC, des soumissions et des propositions présentées par des fournisseurs.</p>
+<p>Cette clause, qui sera intégrée dans toutes les<br/>
+					demandes de propositions (DDP) émises par le Service des<br/>
+					approvisionnements de TPSGC, s'inspire du modèle d'une clause<br/>
+					utilisée dans les contrats de construction passés<br/>
+					par le Service des approvisionnements de TPSGC. La procédure<br/>
+					de mise en application des mesures prévues dans cette clause<br/>
+					est la même que celle qui est utilisée dans la Politique<br/>
+					sur le rendement des fournisseurs.</p>
+<p><strong>Q9. Quelle différence y-a-t-il entre la Clause<br/>
+					et la Politique?</strong></p>
+<p>R9. La principale différence entre la Clause et la Politique,<br/>
+					réside dans le fait que la clause est intégrée<br/>
+					directement dans les demandes de propositions (DDP) afin de faire<br/>
+					savoir aux fournisseurs que TPSGC s'attend à ce que les<br/>
+					fournisseurs respectent leurs obligations contractuelles, et qu'il<br/>
+					prendra, au besoin, des mesures à l'égard de ceux<br/>
+					dont le rendement est insatisfaisant.</p>
+<p>En vertu de cette clause, on peut rejeter la soumission d'un fournisseur<br/>
+					dans les cas où son rendement dans le cadre d'autres marchés,<br/>
+					notamment son efficacité et la qualité d'exécution<br/>
+					de ses travaux ainsi que la mesure dans laquelle le soumissionnaire<br/>
+					a exécuté les travaux conformément aux clauses<br/>
+					et conditions contractuelles, est suffisamment médiocre<br/>
+					pour porter atteinte au succès de l'achèvement du<br/>
+					marché afférent.</p>
+<p>La politique constitue un cadre qui permettra à TPSGC d'évaluer<br/>
+					le rendement des fournisseurs et, dans les cas utiles, de prendre<br/>
+					des mesures àl'endroit de ceux dont le rendement est insatisfaisant.<br/>
+					Ces mesures peuvent se présenter sous la forme d'une radiation<br/>
+					ou d'une suspension interdisant de faire affaire avec TPSGC, ou<br/>
+					encore de conditions imposées aux marchés conclus<br/>
+					avec TPSGC.</p>
+<p><strong>Q10. Cette politique et cette clause sont-elles le reflet<br/>
+					de la nouvelle attitude de fermeté adoptée par<br/>
+					le gouvernement fédéral à l'égard<br/>
+					des fournisseurs?</strong></p>
+<p>A10. Nous avons toujours été capables de prendre<br/>
+					des mesures correctives, mesures pouvant aller jusqu'à la<br/>
+					résiliation du contrat, lorsqu'un fournisseur ne respectait<br/>
+					pas ses obligations contractuelles, et nous continuerons de recourir à ces<br/>
+					mesures, au besoin, et selon les circonstances particulières<br/>
+					de chaque contrat. La Politique et la Clause sur le rendement des<br/>
+					fournisseurs permettent d'actualiser la politique antérieure,<br/>
+					en l'harmonisant avec l'environnement actuel des achats, qui fait<br/>
+					davantage appel à des pratiques d'invitation à soumissionner<br/>
+					et aux nouveaux accords commerciaux.</p>
+<p><strong>Q11. Quand la politique et la clause entreront-elles en<br/>
+					vigueur?</strong></p>
+<p>R11. Le 1<sup>er</sup> septembre 1996.</p>
+<p><strong>Q12. Est-ce que la Politique et la Clause seront utilisées<br/>
+					par tous les secteurs de TPSGC?</strong></p>
+<p>R12. Non. La Politique et la Clause seront mises en application<br/>
+					par l'administration centrale et les bureaux régionaux de<br/>
+					la Direction générale du service des approvisionnements.<br/>
+					Elles viennent s'ajouter au Système d'évaluation<br/>
+					du rendement des entrepreneurs actuellement utilisé par<br/>
+					le groupe des services immobiliers de TPSGC chargeé des<br/>
+					marchés de services de construction et d'architecture et<br/>
+					de génie. La politique ne s'appliquera pas aux trois organismes<br/>
+					de service spéciaux, à savoir, Conseils et Vérification<br/>
+					Canada, le Bureau de la traduction et le Groupe Communication Canada.</p>
+<p><strong>Q13. Quel est le rapport entre la Politique et la Clause<br/>
+					et le système actuel d'évaluation du rendement<br/>
+					(Système d'évaluation du rendement des entrepreneurs)<br/>
+					dans les cas des services de construction et d'architecture et<br/>
+					de génie?</strong></p>
+<p>R13. Le sytème d'évaluation actuel utilisé dans<br/>
+					les cas des services de construction et d'architecture et de génie<br/>
+					(Système d'évaluation du rendement des entrepreneurs<br/>
+					(SERE) ) demeurera en place. Le SERE illustre le type de programme<br/>
+					d'évaluation du rendement pour les produits et services<br/>
+					spécifiques fournis en vertu de la Politique sur le rendement<br/>
+					des fournisseurs. Cette politique constitue un cadre général<br/>
+					qui permet de prendre des décisions en ce qui concerne le<br/>
+					rendement des fournisseurs tandis que le SERE est un système<br/>
+					complet d'évaluation du rendement, qui comprend des lignes<br/>
+					directrices sur les cotes de rendement, que l'on retrouve dans<br/>
+					le formulaire du rapport d'évaluation du rendement des entrepreneurs<br/>
+					et qui est lié à des mesures spécifiques.<br/>
+					Le SERE est un des exemples de systèmes d'évaluation<br/>
+					du rendement que l'on peut mettre au point pour les produits et<br/>
+					services spécifiques en vertu de la Politique sur le rendement<br/>
+					des fournisseurs.</p>
+<p><strong>Q14. La Politique et la Clause viennent-elles se substituer<br/>
+					aux autres possibilités de recours déjà prévues<br/>
+					dans les contrats?</strong></p>
+<p>R14. Non. La Politique et la Clause viennent s'ajouter aux autres<br/>
+					possibilités de recours dont on peut se prévaloir<br/>
+					dans le cas des fournisseurs qui ne respectent pas leurs obligations<br/>
+					contractuelles. Nous avons toujours été capables<br/>
+					de prendre des mesures correctives, mesures pouvant aller jusqu'à la<br/>
+					résiliation du contrat, lorsque des fournisseurs ne respectaient<br/>
+					pas leurs obligations contractuelles, et nous allons continuer<br/>
+					de recourir à ces mesures, au besoin, et selon les circonstances<br/>
+					particulières de chaque contrat. La Politique et la Clause<br/>
+					sur le rendement des fournisseurs permettent d'empêcher que<br/>
+					des problèmes se produisent ultérieurement avec les<br/>
+					fournisseurs dont le rendement a été jugé insatisfaisant<br/>
+					par le passé.</p>
+<p><strong>Q15. TPSGC prendra-t-il des mesures à l'égard<br/>
+					des fournisseurs dont le rendement a été jugé insatisfaisant<br/>
+					avant l'entrée en vigueur de la politique et de la clause?</strong></p>
+<p>R15. Nous avons toujours été capables de prendre<br/>
+					des mesures correctives, mesures pouvant aller jusqu'à la<br/>
+					résiliation du contrat, lorsque des fournisseurs ne respectaient<br/>
+					pas leurs obligations contractuelles, et nous allons continuer<br/>
+					de recourir à ces mesures, au besoin, et selon les circonstances<br/>
+					particulières de chaque contrat. La Politique et la Clause<br/>
+					sur le rendement des fournisseurs permettent d'actualiser la politique<br/>
+					antérieure, en l'harmonisant avec l'environnement actuel<br/>
+					des achats, qui fait davantage appel à des pratiques d'invitation<br/>
+					ouverte à soumissionner et aux nouveaux accords commerciaux.</p>
+<p>En appliquant cette nouvelle politique, TPSGC continuera de tenir<br/>
+					compte du rendement antérieur du fournisseur.</p>
+<p><strong>Q16. Est-ce que TPSGC a l'intention d'appliquer immédiatement<br/>
+					des mesures àl'endroit d'un fournisseur en particulier?</strong></p>
+<p>R16. Non. Néanmoins, TPSGC continuera de tenir compte de<br/>
+					l'ensemble du rendement des fournisseurs et il utilisera cette<br/>
+					information pour prendre des décisions concernant les fournisseurs<br/>
+					qui ne s'acquittent pas de leurs obligations contractuelles.</p>
+<p><strong>Q17. Comment le Ministère traitera-t-il les compagnies<br/>
+					qui changent leur nom pour éviter d'être assujetties à des<br/>
+					mesures correctives?</strong></p>
+<p>R17. Il est possible qu'en changeant son nom, une compagnie puisse<br/>
+					s'éviter des mesures correctives temporairement. Néanmoins,<br/>
+					les spécialistes de TPSGC ont une connaissance telle de<br/>
+					leur domaine que cela ne pourrait se produire très fréquemment.<br/>
+					De plus, une des dispositions de la politique, qui stipule que<br/>
+					les employés d'une compagnie sont passibles de mesures correctives,<br/>
+					réduit en fait cette possibilité.</p>
+<h3>APPLICATION DES MESURES</h3>
+<p id="AP-11q18"><strong>Q18. Quelles sont les circonstances pouvant donner lieu à la<br/>
+					mise en application des mesures prévues dans la politique<br/>
+					et dans la clause?</strong></p>
+<p>R18. La mise en application des mesures prévues dans la<br/>
+					Politique sur le rendement des fournisseurs et dans la Clause sur<br/>
+					le rendement des fournisseurs pourrait être envisagée<br/>
+					dans les circonstances suivantes :</p>
+<p>1. Lorsque le rendement d'un fournisseur laisse à désirer,<br/>
+					un agent de negociation des contrats peut, afin d'éviter<br/>
+					d'autres problèmes, recommander à son directeur général<br/>
+					ou à son directeur général régional<br/>
+					que des mesures prévues dans la politique ou dans la clause<br/>
+					soient appliquées au fournisseur en question.</p>
+<p>2. Lorsqu'un secteur ou une région de TPSGC, qui est responsable<br/>
+					des approvisionnements, a adopté des normes générales<br/>
+					ou liées à certains types de produits et qu'un problème<br/>
+					ou un certain nombre de problèmes sont observés,<br/>
+					ou que l'évaluation d'un produit est inférieure à la<br/>
+					cote requise, l'application des mesures prévues dans la<br/>
+					Politique sur le rendement des fournisseurs ou la Clause sur le<br/>
+					rendement des fournisseurs peut être envisagée.</p>
+<p>Afin de déterminer si un fournisseur doit être soumis à l'application<br/>
+					des mesures prévues dans la politique et dans la clause,<br/>
+					le secteur ou la région doit :</p>
+<ol type="a">
+<li>examiner intégralement les dossiers de chacun des contrats<br/>
+						et revoir le dossier du fournisseur en général;</li>
+<li>prévenir les autres secteurs ou régions et consulter<br/>
+						ceux ou celles qui s'intéressent en particulier à la<br/>
+						question;</li>
+<li>consulter les autres ministères qui s'intéressent<br/>
+						en particulier à la question, à titre d'acheteurs<br/>
+						importants des produits ou des services du fournisseur ou à titre d'auteurs des plaintes.</li>
+</ol>
+<p>Les secteurs et régions de TPSGC doivent également<br/>
+					consulter les Services juridiques afin d'obtenir des renseignements<br/>
+					sur les éléments de preuve qu'il faut réunir<br/>
+					et sur le processus qu'il convient d'utiliser par souci de justice, àla lumière de toutes les circonstances en cause.</p>
+<p>Si l'enquête indique que des mesures doivent être<br/>
+					appliquées, le secteur ou la région doit en informer<br/>
+					le fournisseur et lui donner une occasion raisonnable, y compris<br/>
+					un délai raisonnable, de réagir.</p>
+<p>Aux termes de la Politique sur le rendement des fournisseurs,<br/>
+					ce qui constitue, pour un fournisseur, une possibilité et<br/>
+					un délai raisonnables de réagir dépend de<br/>
+					la nature des allégations portées contre lui, des<br/>
+					preuves recueillies, de l'urgence de la situation et de la sévérité des mesures qu'il est proposé de prendre à son endroit.</p>
+<p>Dans le cas de la Clause sur le rendement des fournisseurs, le<br/>
+					fournisseur dispose d'un délai de dix jours pour faire des<br/>
+					démarches avant que TPSGC ne prenne sa décision finale<br/>
+					concernant le rejet de la proposition. Pendant que le processus<br/>
+					d'évaluation des soumissions se poursuit, on n'attribue<br/>
+					aucun marché tant qu'on n'a pas apporté de solution à la plainte.</p>
+<p>Ainsi, tant la politique que la clause offrent au fournisseur<br/>
+					la possibilité de répondre aux allégations<br/>
+					qui sont portées contre lui et d'interrompre le processus,<br/>
+					le cas échéant.</p>
+<p>Toutes les étapes de l'enquête doivent être<br/>
+					consignées dans le dossier du fournisseur dans le SGIF,<br/>
+					sous forme de commentaires.</p>
+<p>Lorsque l'enquête est terminée, le directeur général ou le directeur général régional décide<br/>
+					de l'opportunité d'appliquer ou non les mesures prévues<br/>
+					dans la politique ou dans la clause, à la lumière<br/>
+					des conclusions du rapport d'enquête, et détermine<br/>
+					le type de mesure qui protégerait davantage le gouvernement<br/>
+					contre tout autre problème avec le fournisseur.</p>
+<p>Le sous-ministre adjoint de la Direction générale<br/>
+					du service des approvisionnements (SMA/DGSA) examine toutes les<br/>
+					recommandations concernant l'application d'une mesure et peut décider<br/>
+					de modifier la décision prise. S'il a l'intention d'appliquer<br/>
+					une mesure plus sévère, il doit en informer le fournisseur<br/>
+					et lui donner une possibilité raisonnable de réagir à ce changement.</p>
+<p><strong>Q19. Comment le fournisseur sera-t-il informé des<br/>
+					mesures qui seront prises à son endroit?</strong></p>
+<p>R19. Au moment où une mesure est prise à l'égard<br/>
+					d'un fournisseur, on lui fait connaître par écrit<br/>
+					les motifs et les conséquences de sa mise en application.<br/>
+					Cet avis précise la durée de la mesure et toutes<br/>
+					les conditions à respecter pour être rétabli<br/>
+					comme fournisseur.</p>
+<p><strong>Q20. Pourquoi la Politique et la Clause sur le rendement<br/>
+					des fournisseurs attribuent-elles aux DG et aux DGR le pouvoir<br/>
+					de mise en application des mesures?</strong></p>
+<p>R20. Ces pouvoirs sont conférés aux directeurs généraux et aux directeurs généraux régionaux parce<br/>
+					que ces cadres ont accès à toute l'information pertinente<br/>
+					fournie par les agents de négociation des contrats et par<br/>
+					le fournisseur.</p>
+<p>En outre, en attribuant ce pouvoir à un niveau supérieur,<br/>
+					on tient compte de l'importance de la décision de prendre<br/>
+					des mesures en vertu de la Politique ou de la Clause sur le rendement<br/>
+					des fournisseurs.</p>
+<p>Le SMA/DGSA examine toutes les recommandations concernant l'application<br/>
+					d'une mesure et peut décider de modifier la décision<br/>
+					prise. S'il a l'intention d'appliquer une mesure plus sévère, il doit en informer le fournisseur et lui donner une occasion raisonnable<br/>
+					de réagir à ce changement. Le rôle de supervision<br/>
+					dévolu au SMA/DGSA assurera l'application uniforme de la<br/>
+					politique et de la clause dans l'ensemble du Portefeuille des approvisionnements.</p>
+<p><strong>Q21. Cela n'a-t-il pas pour effet de confier un pouvoir<br/>
+					exceptionnel à des hauts fonctionnaires, ce qui crée<br/>
+					une possibilité d'abus?</strong></p>
+<p>R21. Le pouvoir discrétionnaire permettant d'appliquer<br/>
+					les mesures prévues dans la politique ou dans la clause<br/>
+					sera exercé de façon juste et raisonnable, et ne<br/>
+					sera lié qu'au rendement du fournisseur dans le cadre d'un<br/>
+					contrat. Aux termes de la Politique sur le rendement des fournisseurs,<br/>
+					des mesures ne peuvent être prises que si un entrepreneur<br/>
+					n'a pas respecté ses obligations contractuelles. La politique<br/>
+					constitue donc en soi une norme objective d'évaluation.</p>
+<p>Il faut préciser que la recommandation de prendre une mesure<br/>
+					ne sera pas mise en application tant qu'il n'y aura pas eu d'enquête approfondie et que le fournisseur n'aura pas eu une occasion raisonnable,<br/>
+					y compris un délai raisonnable, d'exprimer son point de<br/>
+					vue au sujet des problèmes qu'on lui reproche.</p>
+<p><strong>Q22. Sera-t-il possible de recourir à la Politique<br/>
+					sur le rendement des fournisseurs ou à la Clause sur le<br/>
+					rendement des fournisseurs pour « punir » les<br/>
+					entreprises qui n'ont pas la faveur des milieux politiques?</strong></p>
+<p>R22. Absolument pas. Le pouvoir discrétionnaire permettant<br/>
+					d'appliquer les mesures prévues dans la politique et dans<br/>
+					la clause sera exercé de façon juste et raisonnable,<br/>
+					et ne sera lié qu'au rendement du fournisseur dans le cadre<br/>
+					d'un contrat. Les mesures prévues dans la Politique sur<br/>
+					le rendement des fournisseurs ne peuvent être prises que<br/>
+					si un entrepreneur n'a pas respecté ses obligations contractuelles. La politique constitue donc en soi une norme objective d'évaluation.</p>
+<p>Il faut préciser que la recommandation de prendre des mesures<br/>
+					ne sera pas appliquée tant qu'il n'y aura pas eu d'enquête<br/>
+					approfondie et que le fournisseur n'aura pas eu l'occasion raisonnable,<br/>
+					y compris un délai raisonnable, d'exprimer son point de<br/>
+					vue au sujet des problèmes allégués.</p>
+<p><strong>Q23. Quels sont les contrôles en vigueur et les<br/>
+					moyens de recours qui s'offrent aux fournisseurs pour en appeler<br/>
+					des mesures imposées en vertu de la politique et du rejet<br/>
+					d'une soumission en vertu de la clause?</strong></p>
+<p>R23. En vertu de la politique, le SMA/DGSA examine toutes les<br/>
+					décisions concernant l'application d'une mesure et peut<br/>
+					décider de modifier la décision prise. S'il a l'intention<br/>
+					d'appliquer une mesure plus sévère, il doit en informer<br/>
+					le fournisseur et lui donner une occasion raisonnable de réagir à ce changement. La fonction d'examen du SMA/DGSA assurera l'application<br/>
+					uniforme de la politique et de la clause dans l'ensemble du Portefeuille<br/>
+					des approvisionnements.</p>
+<p>En vertu de la Clause, un fournisseur peut demander au SMA/DGSA<br/>
+					de revoir la décision de rejeter sa soumission. Le SMA/DGSA<br/>
+					peut exiger de remanier le processus d'évaluation des soumissions<br/>
+					et d'attribution du marché pour prévoir un délai<br/>
+					permettant de réviser la décision. À la fin<br/>
+					de la révision, on fait connaître les résultats<br/>
+					par écrit au soumissionnaire.</p>
+<p><strong>Q24. Pourquoi la Politique et la Clause sur le rendement<br/>
+					des fournisseurs ne prévoit-elle pas de processus de décision ou d'appel indépendant à l'intention des fournisseurs?</strong></p>
+<p>R24. La Politique et la Clause ne prévoient pas de processus<br/>
+					de décision ou d'appel indépendant pour les fournisseurs,<br/>
+					puisque la responsabilité qui consiste à établir<br/>
+					les fournisseurs fiables est indispensable à la fonction<br/>
+					de la ministre de TPSGC, à titre d'acheteur professionnel<br/>
+					pour le gouvernement. La délégation de cette fonction à un<br/>
+					tiers indépendant serait donc incompatible avec les responsabilités<br/>
+					attribuées à la ministre par le Parlement et déléguées<br/>
+					ensuite par cette dernière aux responsables des achats de<br/>
+					TPSGC.</p>
+<p><strong>Q25. Pourrait-il y avoir des cas où des mesures<br/>
+					seraient prises, en vertu de la Politique ou de la Clause sur<br/>
+					le rendement des fournisseurs, sans que le fournisseur ait l'occasion<br/>
+					de réagir aux allégations?</strong></p>
+<p>R25. Dans les cas où un problème serait particulièrement<br/>
+					grave et serait lié à la négligence ou à une<br/>
+					inconduite délibérée, ou encore entraînerait<br/>
+					des répercussions pour la santé ou la sécurité,<br/>
+					le sous-ministre adjoint de la Direction générale<br/>
+					du service des approvisionnements pourrait imposer une suspension<br/>
+					immédiate, sur les conseils d'un directeur général<br/>
+					ou d'un directeur général régional, avant<br/>
+					qu'on effectue une enquête approfondie. La suspension continuerait<br/>
+					de produire ses effets jusqu'à ce que des mesures aient été adoptées<br/>
+					afin d'éliminer tous les risques inadmissibles pour l'État.</p>
+<p>En pareils cas, on informerait aussitôt le fournisseur et<br/>
+					on lui accorderait la même possibilité de réagir<br/>
+					que si les mesures prévues avaient été appliquées<br/>
+					selon la Politique sur le rendement des fournisseurs.</p>
+<p><strong>Q26. Comment les mesures prévues seront-elles mises à exécution?</strong></p>
+<p>R26. Les soumissions présentées par les fournisseurs<br/>
+					dont le privilège de faire affaire avec TPSGC a été annulé à la<br/>
+					suite d'une radiation ou d'une suspension ne seront pas évaluées.<br/>
+					Ne seront pas évaluées non plus, les soumissions<br/>
+					présentées par des fournisseurs qui ne respectent<br/>
+					pas les conditions particulières qui leur ont été imposées.</p>
+<p>De plus, des mesures seront prises pour que les fournisseurs radiés<br/>
+					ou suspendus ne puissent plus participer aux offres à commandes<br/>
+					les concernant ou soient rayés des listes de fournisseurs.</p>
+<p><strong>Q27. Comment les agents des achats sauront-ils que des<br/>
+					mesures prévues dans la Politique et la Clause sur le<br/>
+					rendement des fournisseurs ont été appliquées àun fournisseur?</strong></p>
+<p>R27. Quand un agent des achats consulte le dossier d'un fournisseur<br/>
+					dans le SGIF, le système affiche clairement un avis pour<br/>
+					faire savoir qu'une mesure a été prise à son<br/>
+					endroit. L'agent peut alors interroger le SGIF pour connaître<br/>
+					les détails de la mesure. Le SGIF ne met pas la mesure à exécution.<br/>
+					C'est l'agent de négociation des contrats qui est chargé de<br/>
+					la mettre à exécution.</p>
+<p>Il sera possible d'utiliser le système pour connaître<br/>
+					les cas où un marché a été attribué à un<br/>
+					fournisseur malgré le fait que des mesures ont été prises àson<br/>
+					endroit. On pourra utiliser la fonction des commentaires du système<br/>
+					afin d'enregistrer la raison pour laquelle on a fait une exception.<br/>
+					On pourra surveiller ces commentaires et interroger le système<br/>
+					de la même façon qu'on le fait dans le cadre du Programme<br/>
+					des contrats fédéraux (pour l'équité en<br/>
+					matière d'emploi).</p>
+<p><strong>Q28. Qui est chargé de saisir l'information relative<br/>
+					aux mesures prises à l'endroit des fournisseurs?</strong></p>
+<p>R28. L'information relative à l'application des mesures<br/>
+					prévues dans la politique et la clause ne pourra être<br/>
+					enregistrée dans le SGIF que par l'employé de la<br/>
+					Direction des systèmes des approvisionnements chargé d'exécuter<br/>
+					ce travail. Cependant, tous les utilisateurs de l'Environnement<br/>
+					automatisé pour les acheteurs auront accès à cette<br/>
+					information. La Direction des systèmes des approvisionnements<br/>
+					sera chargée de veiller à ce que les renseignements<br/>
+					soient à jour, et devra notamment retirer les avis lorsque<br/>
+					la période d'application des mesures sera expirée.</p>
+<p>Aucune autre personne ne pourra saisir ou modifier l'information.<br/>
+					Cette restriction est nécessaire, étant donné l'importance<br/>
+					des conséquences de l'application de ces mesures et la nécessité d'éviter<br/>
+					que des erreurs se produisent dans l'enregistrement des données.</p>
+<p><strong>Q29. Les fournisseurs assujettis à des mesures<br/>
+					en vertu de la Politique ou de la Clause sur le rendement des<br/>
+					fournisseurs pourront-ils participer à la soumission d'un<br/>
+					autre fournisseur à titre de sous-traitants?</strong></p>
+<p>R29. En vertu de la Politique ou de la Clause, l'État peut<br/>
+					rejeter une soumission lorsqu'un sous-traitant ou un employé participant à la<br/>
+					soumission est assujetti à des mesures dans le cadre de<br/>
+					la Politique ou de la Clause.</p>
+<p><strong>Q30. Comment les fournisseurs sauront-ils que d'autres<br/>
+					fournisseurs sont soumis à des mesures en vertu de la<br/>
+					Politique ou de la Clause?</strong></p>
+<p>R30. TPSGC fera connaître aux fournisseurs les autres fournisseurs<br/>
+					qui sont soumis à des mesures, en publiant leurs noms dans<br/>
+					le Service des invitations ouvertes à soumissionner et dans<br/>
+					le bulletin <em>Marchés publics</em>, ainsi que les détails<br/>
+					de la mesure, mais non les raisons qui la justifient. Cet avis<br/>
+					sera publié tant que la mesure sera en vigueur. Ainsi, les<br/>
+					fournisseurs pourront éviter de faire participer d'autres<br/>
+					fournisseurs soumis à des mesures, à titre de sous-traitants<br/>
+					ou d'employés dans leurs soumissions et propositions.</p>
+<p><strong>Q31. Est-il conforme à la loi de publier les noms<br/>
+					des fournisseurs de cette façon?</strong></p>
+<p>R31. Oui. Cette fonction est conforme aux responsabilités<br/>
+					de TPSGC, telles qu'elles lui ont été confiées<br/>
+					par le Parlement, à titre d'organisme principal des achats<br/>
+					du gouvernement fédéral. En publiant les noms des<br/>
+					fournisseurs de cette façon, on permet aux fournisseurs<br/>
+					d'éviter de faire participer d'autres fournisseurs soumis à des<br/>
+					mesures à titre de sous-traitants ou d'employés dans<br/>
+					leurs soumissions et propositions. À ce titre, cet avis<br/>
+					permettra aux fournisseurs fiables de protéger la recevabilité de<br/>
+					leurs soumissions.</p>
+<p><strong>Q32. TPSGC avisera-t-il un fournisseur lorsque la période<br/>
+					de mise en application d'une mesure prend fin?</strong></p>
+<p>R32. Oui. Lorsque la période de mise en application d'une<br/>
+					mesure prend fin, le secteur ou le bureau régional qui en<br/>
+					avait fait la demande avisera rapidement le fournisseur.</p>
+<p><strong>Q33. Peut-on s'inspirer de la Politique ou de la Clause<br/>
+					pour appliquer des mesures à des fournisseurs qui contreviennent à la loi?</strong></p>
+<p>R33. Les Clauses et conditions uniformisées utilisées à l'heure<br/>
+					actuelle dans les marchés attribués par la DGSA obligent<br/>
+					les entrepreneurs principaux et leurs sous-traitants à respecter<br/>
+					les lois pertinentes.</p>
+<p>Cette Politique et cette Clause appuieront les Clauses et conditions<br/>
+					uniformisées, en permettant à TPSGC d'enregistrer<br/>
+					dans le SGIF l'information sur les problèmes provoqués<br/>
+					par les entrepreneurs ou les sous-traitants qui contreviennent<br/>
+					aux lois pertinentes, qu'il s'agisse des lois du travail, du droit<br/>
+					pénal ou d'autres formes de loi. Lorsque son rendement est<br/>
+					suffisamment médiocre, par exemple en cas de facturation<br/>
+					frauduleuse, de discrimination et d'élimination, dans un<br/>
+					aqueduc, de produits chimiques toxiques provenant d'un chantier,<br/>
+					le fournisseur pourrait être soumis à des mesures<br/>
+					dans le cadre de la Politique ou de la Clause.</p>
+<p>Le sérieux avec lequel TPSGC traiterait une contravention à une<br/>
+					loi par un fournisseur en vertu d'un contrat avec la DGSA dépendrait<br/>
+					des circonstances du cas. Dans les cas justifiés, par exemple<br/>
+					si un entrepreneur principal refuse de prendre des mesures malgré le<br/>
+					congédiement d'un sous-traitant par un autre sous-traitant<br/>
+					pour des motifs discriminatoires, le refus d'un entrepreneur de<br/>
+					sévir en cas de voies de fait d'un de ses employés à l'endroit<br/>
+					d'un particulier sur un chantier, le vol de biens de l'État<br/>
+					(ordinateur personnel ou de bureau) par un entrepreneur, et ainsi<br/>
+					de suite, on pourrait faire appel àdes mesures contractuelles,<br/>
+					y compris la résiliation du marché.</p>
+<p>Outre les recours contractuels et selon les circonstances du cas<br/>
+					et l'ensemble du dossier du fournisseur, TPSGC pourrait, en vertu<br/>
+					de la Politique ou de la Clause, appliquer des mesures comme la<br/>
+					radiation au titre de marchés ultérieurs. En vertu<br/>
+					de la Clause sur le rendement des fournisseurs, un fournisseur<br/>
+					pourrait se voir interdire le droit de déposer une soumission<br/>
+					dans le cadre d'un marché en particulier, pour des contraventions à la<br/>
+					loi comme la fraude, le versement de pots de vin ou le non-respect<br/>
+					d'une loi protégeant les personnes contre toute forme de<br/>
+					discrimination.</p>
+<p>Dans les cas moins graves, les mesures adoptées pourraient<br/>
+					consister àajouter des observations dans le SGIF au sujet<br/>
+					de problèmes provoqués par des fournisseurs qui ne<br/>
+					respectent pas les lois pertinentes. Si les problèmes se<br/>
+					reproduisent, on tiendra compte de ces observations pour décider<br/>
+					s'il faut recourir à des mesures plus sévères.</p>
+<h3>COÛTS POUR LES CONTRIBUABLES</h3>
+<p id="AP-11q34"><strong>Q34. Quels sont les coûts, pour les contribuables,<br/>
+					de l'administration à TPSGC de la Politique et de la Clause<br/>
+					sur le rendement des fournisseurs?</strong></p>
+<p>R34. On n'affectera pas de ressources supplémentaires à l'exécution<br/>
+					des tâches nécessaires à l'administration de<br/>
+					la Politique et de la Clause sur le rendement des fournisseurs, étant<br/>
+					donné que le surcroît de travail prévu sera<br/>
+					minime.</p>
+<p>À plus long terme, cette politique et cette clause devraient<br/>
+					permettre au gouvernement de réaliser des économies<br/>
+					en évitant les problèmes avec les fournisseurs, ce<br/>
+					qui permettra de veiller à ce que les contribuables reçoivent<br/>
+					la juste contrepartie des fonds qu'ils versent. La politique et<br/>
+					la clause pourraient même, ultimement, réduire les<br/>
+					frais d'administration des marchés en ce qui a trait à la<br/>
+					correction des problèmes provoqués par le rendement<br/>
+					insatisfaisant des fournisseurs.</p>
+<h3>NON-APPLICATION DE LA POLITIQUE ET DE LA CLAUSE PAR LES AUTRES<br/>
+					MINISTÈRES</h3>
+<p id="AP-11q35"><strong>Q35. La Politique et la Clause sur le rendement des fournisseurs visent-elles les opérations d'achat réalisées<br/>
+					par d'autres ministères et organismes?</strong></p>
+<p>R35. Non. La Politique et la Clause sur le rendement des fournisseurs<br/>
+					ne visent que les fournisseurs qui font affaire avec le Service<br/>
+					des approvisionnements de TPSGC, et non ceux qui font affaire directement<br/>
+					avec d'autres ministères et organismes. Cela signifie qu'elles<br/>
+					s'appliquent à environ 60 p. 100 des achats du gouvernement<br/>
+					fédéral. Les autres ministères auront accès<br/>
+					aux données de TPSGC sur le rendement des fournisseurs.</p>
+<p><strong>Q36. Dans les cas où TPSGC a pris des mesures pour<br/>
+					ne plus faire affaire avec certains fournisseurs dont le rendement<br/>
+					est insatisfaisant, le gouvernement n'est-il pas inconséquent<br/>
+					avec lui-même et ne prend-il pas des risques avec l'argent<br/>
+					des contribuables en laissant les autres ministères continuer<br/>
+					de faire affaire avec ces mêmes fournisseurs?</strong></p>
+<p>R36. Non. TPSGC est un chef de file dans ce domaine. Nous croyons<br/>
+					que, après la mise en application de la Politique et de<br/>
+					la Clause, les autres ministères et organismes fédéraux examineront peut-être la possibilité de prendre des<br/>
+					mesures semblables pour leurs propres approvisionnements. De plus,<br/>
+					nous mettons cette information à la disposition des autres<br/>
+					ministères et organismes, qui effectuent le reste des achats<br/>
+					gouvernementaux, soit 40 %.</p>
+<p><strong>Q37. D'autres ministères ou organismes fédéraux<br/>
+					appliquent-ils des politiques ou des clauses semblables?</strong></p>
+<p>R37. TPSGC ne sait pas si d'autres ministères ou organismes<br/>
+					fédéraux utilisent des politiques ou des clauses<br/>
+					semblables.</p>
+<h3>RESPECT DES POLITIQUES DU CONSEIL DU TRÉSOR ET DES ACCORDS<br/>
+					COMMERCIAUX</h3>
+<p id="AP-11q38"><strong>Q38. La Politique du Conseil du Trésor autorise-t-elle<br/>
+					la mise en application de la Politique sur le rendement des fournisseurs<br/>
+					et de la Clause sur le rendement des fournisseurs?</strong></p>
+<p>R38. Oui. Selon la Politique des marchés du Conseil du<br/>
+					Trésor, les activités d'approvisionnement doivent être<br/>
+					réalisées avec prudence et probité. Ainsi,<br/>
+					TPSGC a l'obligation de s'assurer qu'il traite avec des fournisseurs<br/>
+					fiables. La Politique sur le rendement des fournisseurs et la Clause<br/>
+					sur le rendement des fournisseurs permettent à TPSGC de<br/>
+					prendre des mesures à l'endroit des fournisseurs dont le<br/>
+					rendement est insatisfaisant.</p>
+<p><strong>Q39. Est-ce que la Politique et la Clause sur le rendement<br/>
+					des fournisseurs respectent l'Accord de libre-échange<br/>
+					nord-américain?</strong></p>
+<p>R39. Oui, la Politique respecte tous les accords commerciaux signés<br/>
+					par le Canada. En vertu de cette politique, les fournisseurs canadiens<br/>
+					et étrangers sont traités sur un pied d'égalité.</p>
+<h3>AVIS AUX FOURNISSEURS AU SUJET DE LA MISE EN ŒUVRE DE LA POLITIQUE<br/>
+					ET DE LA CLAUSE</h3>
+<p id="AP-11q40"><strong>Q40. De quelle manière TPSGC prévoit-il<br/>
+					de faire connaître aux fournisseurs la mise en application<br/>
+					de la Politique et de la Clause sur le rendement des fournisseurs?</strong></p>
+<p>R40. Pour faire connaître aux fournisseurs la mise en application<br/>
+					de la Politique sur le rendement des fournisseurs et de la Clause<br/>
+					sur le rendement des fournisseurs, on diffusera un communiqué de<br/>
+					presse parmi les principaux médias. De plus, une fiche d'information<br/>
+					sur la politique et la clause sera remise pendant les séminaires<br/>
+					organisés à l'intention des fournisseurs. Elle fera<br/>
+					partie de trousses d'information et elle sera diffusée dans<br/>
+					le Service des invitations ouvertes à soumissionner (SIOS)<br/>
+					et sur le site Internet de TPSGC. On pourra également se<br/>
+					la procurer aux bureaux du Centre de service aux entreprises Canada<br/>
+					et aux bureaux des principales associations industrielles.</p>
+<p>Par ailleurs, comme les agents de négociation des contrats<br/>
+					de TPSGC communiquent régulièrement avec les fournisseurs,<br/>
+					ils pourront fournir à ces derniers de l'information sur<br/>
+					la politique et la clause. Finalement, on distribuera une série<br/>
+					de questions et réponses aux agents de négociation<br/>
+					des contrats pour les aider à répondre aux questions<br/>
+					des fournisseurs.</p>
+<h3>RÔLE DES AUTRES MINISTÈRES</h3>
+<p id="AP-11q41"><strong>Q41. Quel rôle les clients joueront-ils pour faire<br/>
+					de la Politique et de la Clause sur le rendement des fournisseurs<br/>
+					un outil efficace dans le cas des fournisseurs causant des problèmes?</strong></p>
+<p>R41. L'efficacité de la Politique et de la Clause sur le<br/>
+					rendement des fournisseurs dépendra du concours apporté par<br/>
+					le client. Les clients peuvent permettre de faire de cette politique<br/>
+					et de cette clause un outil efficace dans le cas des fournisseurs<br/>
+					dont le rendement est insatisfaisant, en signalant sans délai àTPSGC<br/>
+					les problèmes qu'ils éprouvent avec ces fournisseurs.<br/>
+					Plus l'information fournie par les clients est complète<br/>
+					et exacte, plus TPSGC pourra prendre des mesures efficaces dans<br/>
+					le cadre de la Politique et de la Clause sur le rendement des fournisseurs.</p>
+<p><strong>Q42. Sera-t-il possible de prendre des mesures à l'endroit<br/>
+					d'un fournisseur en vertu de la Politique ou de la Clause à la<br/>
+					suite d'une plainte unique adressée par un ministère<br/>
+					client?</strong></p>
+<p>R42. Il est peu probable que des mesures soient appliquées à cause d'une seule plainte ou d'un problème unique au sujet d'un fournisseur. Cela ne se produirait que si le problème est extrêmement grave ou est attribuable à la malhonnêteté du fournisseur ou à une fraude de sa part.</p>
+<p>Généralement, on tient compte de toutes sortes de<br/>
+					facteurs, notamment l'ensemble du dossier du fournisseur. Il convient<br/>
+					de préciser que la recommandation de prendre des mesures<br/>
+					aux termes de la Politique ou de la Clause ne serait pas appliquée<br/>
+					tant qu'il n'y aurait pas eu d'enquête complète et<br/>
+					que le fournisseur n'aurait pas eu l'occasion et un délai<br/>
+					raisonnables pour réagir aux problèmes allégués.</p>
+<p><strong>Q43. TPSGC fera-t-il connaître aux autres ministères<br/>
+					les cas où des mesures ont été prises à l'endroit<br/>
+					d'un fournisseur en vertu de la Politique ou de la Clause?</strong></p>
+<p>R43. Les clients qui font massivement appel aux produits ou aux<br/>
+					services d'un fournisseur seront consultés au cours du processus<br/>
+					d'application des mesures, avant que ces mesures soient prises.<br/>
+					Selon la nature des mesures appliquées, on leur fera généralement<br/>
+					connaître les cas où des mesures sont appliquées<br/>
+					aux termes de la Politique ou de la Clause.</p>
+<p>Le ministère qui propose de faire appel à un fournisseur<br/>
+					unique à l'endroit duquel une mesure a été appliquée sera mis au courant de cette mesure et de la raison qui l'a motivée.<br/>
+					Les agents de négociation des contrats de TPSGC collaboreront<br/>
+					aussi avec le client pour mettre au point une solution de rechange<br/>
+					ou appliquer une dérogation afin de permettre de répondre<br/>
+					aux besoins d'achat, en prenant les précautions voulues<br/>
+					pour protéger les intérêts de l'État.</p>
+<h3>PRINCIPES</h3>
+<p id="AP-11q44"><strong>Q44. Quels sont les principes qui sous-tendent la Politique et la Clause sur le rendement des fournisseurs?</strong></p>
+<p>R44. La politique est fondée sur quatre principes :</p>
+<ol>
+<li>TPSGC a le pouvoir et le devoir de prendre des mesures raisonnables<br/>
+						pour s'assurer que ses entrepreneurs s'acquittent de leurs obligations.</li>
+<li>En général, TPSGC a autant le droit que tout<br/>
+						autre acheteur sur le marché d'évaluer le rendement<br/>
+						d'un fournisseur. Il peut aussi prendre des mesures pour éviter<br/>
+						que de tels problèmes se répètent en appuyant<br/>
+						ses décisions sur le rendement antérieur du fournisseur.</li>
+<li>Le pouvoir discrétionnaire de prendre les mesures voulues<br/>
+						doit être exercé de façon juste et raisonnable,<br/>
+						dans le respect de la politique.</li>
+<li>Toute mesure prise doit correspondre à la nature et à la gravité du problème auquel elle s'applique.</li>
+</ol>
+<h3>TYPES DE MESURES</h3>
+<p id="AP-11q45"><strong>Q45. Quel type de mesures pourrait-on prendre à l'endroit des fournisseurs?</strong></p>
+<p>R45. Les mesures que préconise la Politique sur le rendement<br/>
+					des fournisseurs peuvent prendre la forme de conditions imposées<br/>
+					au fournisseur au moment où il fait affaire avec TPSGC ou<br/>
+					d'une radiation ou d'une suspension interdisant de faire affaire<br/>
+					avec TPSGC, que ce soit en totalité ou en partie.</p>
+<p>En vertu de la Clause sur le rendement des fournisseurs, qui fera<br/>
+					partie de toutes les demandes de propositions émises par<br/>
+					le Service des approvisionnements de TPSGC, le Ministère<br/>
+					a le pouvoir de rejeter les soumissions présentées<br/>
+					par des fournisseurs lorsqu'il détient la preuve de leur<br/>
+					rendement insuffisant ou de leurs activités criminelles.</p>
+<p>De plus, les fournisseurs pourraient être sujets à une<br/>
+					période de probation lorsque l'application de la mesure<br/>
+					prend fin. Dans ce cas, si le rendement insatisfaisant se répète,<br/>
+					on continuera à appliquer la mesure, ou on prendra une autre<br/>
+					mesure.</p>
+<p><strong>Q46. Qu'est-ce que la radiation?</strong></p>
+<p>R46. La radiation est le refus de TPSGC de faire affaire avec<br/>
+					un fournisseur pour une période déterminée,<br/>
+					qui ne dépasse généralement pas trois ans.<br/>
+					TPSGC appliquera cette mesure dans les cas de problèmes à caractère<br/>
+					criminel ou lorsque le rendement d'un entrepreneur est insatisfaisant<br/>
+					et dénote un manque de bonne foi de sa part dans l'exécution<br/>
+					des diverses parties du contrat. La durée de la radiation<br/>
+					devrait correspondre à la gravité du problème.</p>
+<p><strong>Q47. Qu'est-ce que la suspension?</strong></p>
+<p>R47. On entend par suspension le refus de TPSGC de faire affaire<br/>
+					avec un fournisseur jusqu'à ce que le Ministère connaisse<br/>
+					les résultats d'une enquête sur des problèmes<br/>
+					graves ou multiples, ou que le fournisseur respecte certaines conditions<br/>
+					nécessaires à l'annulation de cette mesure, ou encore<br/>
+					qu'il corrige la situation.</p>
+<p>On aura recours à la suspension dans les cas où il<br/>
+					serait très risqué de faire affaire avec un fournisseur<br/>
+					avant la réalisation d'une enquête ou avant qu'il<br/>
+					ne modifie son comportement, de crainte qu'il ne s'acquitte pas<br/>
+					de ses obligations contractuelles à l'avenir.</p>
+<p>La suspension sera levée si l'enquête ne permet pas<br/>
+					de confirmer les allégations portées à l'endroit<br/>
+					du fournisseur. Dans le cas contraire, il faudra peut-être<br/>
+					prendre d'autres mesures.</p>
+<p><strong>Q48. Qu'est-ce qu'on entend par l'imposition de conditions<br/>
+					aux activités ultérieures avec TPSGC?</strong></p>
+<p>R48. Dans le cas où une mesure moins sévère<br/>
+					que le refus de faire affaire avec le fournisseur permettrait de<br/>
+					corriger le problème de rendement insatisfaisant, on pourrait<br/>
+					imposer des conditions aux fournisseurs intéressés à faire affaire avec TPSGC. Par exemple, on pourrait exiger que le fournisseur<br/>
+					dépose une certaine forme de garantie contractuelle.</p>
+<p>On peut imposer des conditions à des fournisseurs pour<br/>
+					une durée précise ou jusqu'à ce que le fournisseur<br/>
+					respecte les exigences relatives à son rétablissement,<br/>
+					par exemple la correction d'un problème.</p>
+<p><strong>Q49. Comment TPSGC veillera-t-il à l'uniformité de<br/>
+					la mise en application des mesures parmi les différents<br/>
+					cas?</strong></p>
+<p>R49. Pour assurer l'uniformité de la mise en application<br/>
+					de la Politique et de la Clause dans l'ensemble du Portefeuille<br/>
+					des approvisionnements, le SMA/DGSA examinera toutes les décisions<br/>
+					visant le recours à l'une des mesures susmentionnées.</p>
+<p><strong>Q50. La Politique sur le rendement des fournisseurs permet-elle à TPSGC de prendre, à l'endroit d'un fournisseur, des mesures<br/>
+					qui ne visent qu'une filiale, qu'une zone géographique<br/>
+					ou qu'un secteur d'activité en particulier?</strong></p>
+<p>R50. Oui. Selon le problème, il est parfois justifié de<br/>
+					limiter la mise en application des mesures à une filiale,<br/>
+					une division géographique ou un secteur d'activité du<br/>
+					fournisseur en particulier. Cette limitation sera précisée<br/>
+					clairement au fournisseur. TPSGC pourrait continuer de lui attribuer<br/>
+					des marchés, sauf dans les secteurs ou les domaines visés<br/>
+					par la restriction. En outre, la mise en application d'une mesure<br/>
+					pourrait être limitée afin de permettre l'achat de<br/>
+					biens qui sont essentiels, rares ou soumis à la protection<br/>
+					d'un brevet.</p>
+<p><strong>Q51. Pourrait-il y avoir des cas où TPSGC continuerait<br/>
+					de faire affaire avec un fournisseur, malgré la mise en<br/>
+					application de l'une des mesures prévues par la politique?</strong></p>
+<p>R51. Oui. Malgré la mise en application de l'une des mesures<br/>
+					prévues par la politique, il pourrait y avoir des raisons<br/>
+					impérieuses de continuer de faire affaire avec un fournisseur,<br/>
+					dans les cas où : il offre des compétences uniques;<br/>
+					il y a urgence; il faut répondre à des impératifs<br/>
+					de sécurité nationale.</p>
+<p>Dans ces cas, on précisera au fournisseur les conditions et les pouvoirs permettant de déroger à la mesure.</p>
+<p>En outre, la Politique sur le rendement des fournisseurs permet à TPSGC<br/>
+					de limiter la mise en application d'une mesure à une filiale, à une<br/>
+					région géographique ou à un secteur d'activité en<br/>
+					particulier. On pourrait faire appel à ces limitations pour<br/>
+					permettre d'acheter des biens qui sont essentiels, rares ou soumis à des<br/>
+					droits de brevet.</p>
+<p><strong>Q52. Aux termes de la Politique et de la Clause sur le<br/>
+					rendement des fournisseurs, qu'est-ce qui constitue un rendement<br/>
+					insatisfaisant de la part des fournisseurs?</strong></p>
+<p>R52. Aux termes de la Politique et de la Clause sur le rendement<br/>
+					des fournisseurs, on entend par rendement insatisfaisant tout ce<br/>
+					qui empêche le fournisseur d'exécuter parfaitement<br/>
+					le marché. Cela comprend, sans en exclure d'autres, les<br/>
+					exemples suivants : un manquement; un retard de livraison;<br/>
+					un service sous garantie insuffisant; le non-respect du contrat<br/>
+					en fonction du devis descriptif; des pratiques, qu'elles soient<br/>
+					ou non délibérément frauduleuses, par exemple<br/>
+					une substitution sans autorisation, la facturation de services<br/>
+					non rendus, la majoration de factures et le sous-dénombrement<br/>
+					d'articles.</p>
+<p>Les actes ou les omissions particuliers constituant un rendement<br/>
+					insatisfaisant varient souvent. Une question banale dans une opération<br/>
+					d'achat pourrait être décisive dans une autre. Voilà pourquoi<br/>
+					la Politique sur le rendement des fournisseurs ne définit<br/>
+					pas de normes sur le rendement. Ces normes doivent être établies<br/>
+					par les secteurs de TPSGC qui s'occupent des domaines d'activité visés.</p>
+<p>Bien qu'on puisse noter les cas moins importants où le<br/>
+					rendement est insatisfaisant, on ne prendrait normalement des mesures à l'endroit<br/>
+					d'un fournisseur que dans les cas importants de rendement médiocre<br/>
+					dans le cadre d'un marché ou lorsque les problèmes<br/>
+					de rendement sont chroniques.</p>
+<h3>CONSIGNATION DES PROBLÈMES</h3>
+<p id="AP-11q53"><strong>Q53. Que doit faire l'agent des achats de TPSGC quand<br/>
+					des problèmes se produisent avec un fournisseur?</strong></p>
+<p>R53. Dès le premier signe de difficultés, par exemple<br/>
+					un retard de livraison ou une plainte d'un client, il faut se mettre<br/>
+					en rapport avec le fournisseur. Dans les cas pertinents, il convient<br/>
+					de donner au fournisseur l'occasion d'expliquer sa version des<br/>
+					faits et de proposer des mesures correctives.</p>
+<p>La Politique sur le rendement des fournisseurs appuie les mesures<br/>
+					d'exécution du contrat, mais elle ne les remplace pas. Les<br/>
+					agents de négociation des contrats appliqueront les mesures<br/>
+					correctives que stipule le marché et recommanderont en outre<br/>
+					l'application d'autres mesures àl'endroit du fournisseur,<br/>
+					conformément au contrat.</p>
+<p>Les secteurs et les régions peuvent donner pour consigne<br/>
+					aux agents de négociation des contrats de dire expressément<br/>
+					au fournisseur qu'on pourra éventuellement recourir à des<br/>
+					mesures si le même genre de problème se reproduit<br/>
+					ou que le problème est particulièrement grave.</p>
+<p>Il faut consigner ces cas et ces mesures dans le SGIF ou, s'il<br/>
+					n'est pas possible de le faire, dans le dossier de l'entrepreneur<br/>
+					ou du fournisseur.</p>
+<p><strong>Q54. Que doit faire l'agent des achats de TPSGC si le<br/>
+					problème persiste?</strong></p>
+<p>R54. L'agent de négociation des contrats de TPSGC note<br/>
+					au dossier de contrat les problèmes chroniques de rendement<br/>
+					insatisfaisant. Il inclut la documentation à l'appui de<br/>
+					ses observations; sinon, il précise où elle se trouve<br/>
+					ou qui peut la fournir.</p>
+<p>Le directeur a la responsabilité de noter la description<br/>
+					du problème, en précisant le numéro du contrat,<br/>
+					l'objet de ce contrat et la nature du problème constaté,<br/>
+					sous la forme de commentaires dans le dossier du fournisseur dans<br/>
+					le Système de gestion de l'information sur les fournisseurs<br/>
+					(SGIF). Ces commentaires seront assortis d'un code et d'une description,<br/>
+					pour les besoins de la recherche.</p>
+<p>Il faut se rappeler que, pour permettre à TPSGC de prendre<br/>
+					des mesures en vertu de la Politique ou de la Clause à partir<br/>
+					de l'information sur ces fournisseurs, les renseignements devront être<br/>
+					complets et exacts. Cette remarque s'applique également à l'information<br/>
+					que donnent les agents des achats de TPSGC et les autres ministères.</p>
+<p>Il faut signaler au fournisseur tous les problèmes au fur<br/>
+					et à mesure qu'on les consigne dans le SGIF, ou dans le<br/>
+					dossier du contrat ou du fournisseur, et lui faire savoir que TPSGC<br/>
+					tiendra compte de son rendement antérieur dans ses relations<br/>
+					commerciales ultérieures avec lui.</p>
+<p><strong>Q55. Certains directeurs des achats n'auront peut-être<br/>
+					pas accès au SGIF. De quelle façon noteront-ils<br/>
+					l'information sur les fournisseurs dont le rendement est insatisfaisant?</strong></p>
+<p>R55. À titre provisoire, les directeurs des achats qui<br/>
+					n'auront peut-être pas accès au SGIF pourront continuer<br/>
+					de noter, dans les dossiers des fournisseurs et des contrats, l'information<br/>
+					sur les fournisseurs dont le rendement est insatisfaisant.</p>
+<p>Le SGIF devrait être déployé entièrement<br/>
+					d'ici à l'automne 1996.</p>
+<p><strong>Q56. Lorsqu'ils auront accès au SGIF, les directeurs<br/>
+					des achats devront-ils transférer dans le SGIF les données<br/>
+					des dossiers de contrat et de fournisseur sur les problèmes<br/>
+					causés par les fournisseurs?</strong></p>
+<p>R56. Chaque secteur ou région prendra ses propres décisions à cet égard.</p>
+<p><strong>Q57. Quel genre d'information sur les fournisseurs les<br/>
+					agents des achats doivent-ils consigner?</strong></p>
+<p>R57. En règle générale, la documentation<br/>
+					sur les fournisseurs causant des problèmes doit notamment<br/>
+					préciser la nature de la plainte, les circonstances afférentes et les mesures correctives prises, le cas échéant,<br/>
+					par le fournisseur. Il faut également noter le numéro<br/>
+					de dossier du contrat. Les directeurs se chargent d'enregistrer<br/>
+					les commentaires sur le rendement insatisfaisant.</p>
+<p>Si un fournisseur offre un rendement exceptionnel, il faut aussi<br/>
+					le noter, puisque cela peut s'avérer utile pour faire l'évaluation<br/>
+					globale de son rendement dans l'éventualité où l'on<br/>
+					songe à prendre des mesures à son endroit, en vertu<br/>
+					de la Politique ou de la Clause.</p>
+<p><strong>Q58. Comment les agents des achats qui n'ont pas encore<br/>
+					accès au SGIF sauront-ils qu'une mesure a été prise à l'endroit<br/>
+					d'un fournisseur?</strong></p>
+<p>R58. Les agents des achats qui n'ont pas accès au SGIF<br/>
+					seront mis au courant de l'application des mesures prises aux termes<br/>
+					de la Politique et de la Clause sur le rendement des fournisseurs<br/>
+					par l'entremise des gestionnaires de réseaux locaux qui<br/>
+					diffuseront électroniquement les avis concernant les mesures<br/>
+					prises à l'endroit de certains fournisseurs.</p>
+<p><strong>Q59. Dans le cadre de leurs fonctions de consignation<br/>
+					des cas où un fournisseur offre un rendement insatisfaisant,<br/>
+					les agents des achats s'exposent-ils à des actions en<br/>
+					justice intentées par les fournisseurs?</strong></p>
+<p>R59. Selon la politique du Conseil du Trésor (Manuel du<br/>
+					CT : Gestion de l'information et gestion administrative, Matériel,<br/>
+					risques et services communs, partie 2 Gestion des risques, 2-2 <em>Politique sur l'immunité accordée aux fonctionnaires de l'État</em>,<br/>
+					et 2-6 <em>Politique sur la prestation de services juridiques aux<br/>
+					fonctionnaires fédéraux</em>), les fonctionnaires<br/>
+					qui sont poursuivis en justice ont droit à une aide juridique<br/>
+					et à une indemnisation lorsqu'ils ont agi honnêtement<br/>
+					et sans malveillance dans le cadre de leurs fonctions.</p>
+<p>Cependant, les agents des achats qui n'agiraient pas correctement<br/>
+					seraient passibles de mesures disciplinaires, même s'ils<br/>
+					ont droit à une aide juridique ou à une indemnité.</p>
+<h3>IL NE S'AGIT PAS D'UN SYSTÈME D'ÉVALUATION<br/>
+					DU RENDEMENT</h3>
+<p id="AP-11q60"><strong>Q60. La Politique sur le rendement des fournisseurs constitue-t-elle un système d'évaluation du rendement?</strong></p>
+<p>R60. Cette politique n'évalue pas, en soi, le rendement;<br/>
+					sa souplesse permet aux secteurs et aux régions de mettre<br/>
+					au point des systèmes officiels de mesure du rendement en<br/>
+					fonction des produits ou des services offerts.</p>
+<p>L'information enregistrée dans le SGIF sous forme de commentaires,<br/>
+					en vertu de la Politique sur le rendement des fournisseurs ou de<br/>
+					la Clause sur le rendement des fournisseurs, ne remplace pas les<br/>
+					données des systèmes de mesure du rendement mis en<br/>
+					œuvre dans les secteurs d'activité.</p>
+<h3>LIEN AVEC LE PROGRAMME DES CONTRATS FÉDÉRAUX<br/>
+					ET LES SANCTIONS AU TITRE DU COMMERCE INTERNATIONAL</h3>
+<p id="AP-11q61"><strong>Q61. La Politique sur le rendement des fournisseurs prévoit-elle des sanctions dans le cadre du Programme des contrats fédéraux (équité en matière d'emploi) et des sanctions au titre du commerce international?</strong></p>
+<p>R61. Non. Les sanctions relatives au Programme des contrats fédéraux et au commerce international débordent le cadre de la Politique<br/>
+					sur le rendement des fournisseurs. Toutefois, grâce à la<br/>
+					fonction des avis de sanction du SGIF, les acheteurs connaîtront<br/>
+					les entreprises auxquelles on a imposé des sanctions dans<br/>
+					le cadre du commerce international.</p>
+<p>Bien qu'on puisse radier un fournisseur qui ne s'est pas acquitté de ses obligations dans le cadre du Programme des contrats fédéraux,<br/>
+					ce programme continuera de faire l'objet d'un processus distinct<br/>
+					de celui qu'on utilise dans le cadre de la Politique sur le rendement<br/>
+					des fournisseurs.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

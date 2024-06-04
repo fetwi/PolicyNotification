@@ -1,0 +1,26 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Purpose</h2>
+<p>The purpose of Policy Notification (PN)-145 is to inform all Public Works and Government Services Canada (PWGSC) Acquisitions Program contracting officers of the inclusion of new clauses in the Standard Procurement Templates to provide suppliers with information on potentially available bid challenge and recourse mechanisms, as well as dispute resolution.</p>
+<h2>Effective date</h2>
+<p><abbr title="Policy Notification">PN</abbr>-145 is effective immediately.</p>
+<p>The Standard Procurement Templates have been updated to reflect the <abbr title="Policy Notification">PN</abbr>.</p>
+<h2>Overview</h2>
+<p>Suppliers often feel they should have been awarded a particular contract, or that their proposal was wrongly rejected. When seeking recourse in either instance, there can be strict deadlines for filing objections or complaints and that time periods vary depending on the particular recourse mechanism. A new clause entitled “Bid Challenge and Recourse Mechanisms” which includes a link to <a href="https://buyandsell.gc.ca/for-businesses/selling-to-the-government-of-canada/bid-follow-up/bid-challenge-and-recourse-mechanisms">Buyandsell.gc.ca with information on potential recourse mechanisms</a>, has been added to Bidder Instructions in the <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#TEMPLATES">Standard Procurement Templates</a>.</p>
+<p>During the management of a contract, disagreements happen and when people sort out problems together, they usually tend to find solutions that better meet their needs and interests. Working directly with the contracting authority to resolve differences is always recommended to suppliers as the first course of action. If a dispute cannot be resolved with the contracting authority directly, there are potential options for alternative dispute resolution.  A new clause entitled “Dispute Resolution”, which includes a link to <a href="https://buyandsell.gc.ca/for-businesses/selling-to-the-government-of-canada/contract-management/dispute-resolution">Buyandsell.gc.ca containing information on potential options for alternative dispute resolution (ADR)</a>, has been added to the Resulting Contract Clauses in the <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#TEMPLATES">Standard Procurement Templates</a>.</p>
+<h2>Summary of changes</h2>
+<h3>Standard procurement templates changes:</h3>
+<p>In support of <abbr title="Policy Notification">PN</abbr>-145, the following <a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-sacc-manual/standard-procurement-templates%20">standard procurement templates</a> have been modified:</p>
+<ul>
+<li>High Complexity Bid Solicitation and Resulting Contract Template (HC)</li>
+<li>Medium Complexity Bid Solicitation and Resulting Contract Template (MC)</li>
+<li>Low Dollar Value Bid Solicitation and Resulting Contract Template (Simple)</li>
+<li>Request for Standing Offers (RFSO)Template</li>
+<li>Request for Standing Offers (RFSO) Template for Canadian Collaborative Procurement Initiative (CCPI)</li>
+<li>Request for Supply Arrangements (RFSA) Template</li>
+</ul>
+<h2>Contact persons</h2>
+<p>Questions related to <abbr title="Policy Notification">PN</abbr>-145 or the Standard Procurement Templates can be sent by email to the following address:</p>
+<p><a href="mailto:TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

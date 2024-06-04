@@ -1,0 +1,310 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-32Ucont" name="cont"><br/>
+AP-32U : Formulaire de renseignements sur l'approvisionnement</a></h1> <div class="region region-site-wide-message">
+<section id="AP-32Usite-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-32Usite-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-32Usite-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 17 juillet 1998</h2>
+<p>La présente mise à jour de l'avis relatif aux politiques (AP) contient ce qui suit :</p>
+<p>1. un guide de consultation rapide servant à déterminer si un Formulaire de renseignements sur l'approvisionnement (FRA) est nécessaire (<strong>annexe A</strong>);</p>
+<p>2. le détail des modifications apportées au Formulaire et aux procédures connexes (description ci-dessous);</p>
+<p>3. des renseignements supplémentaires et des précisions sous forme de questions et réponses (<strong>annexe B</strong>).</p>
+<p>Cette mise à jour doit être lue et mise en œuvre en même temps que l'AP 32 original. Lorsqu'il y a une différence entre l'avis relatif aux politiques original et la mise à jour, les instructions énumérées dans la mise à jour doivent être suivies.</p>
+<h3>Modifications apportées au Formulaire de renseignements sur l'approvisionnement et aux procédures connexes</h3>
+<p>Les révisions indiquées ci-dessous ont été apportées au FRA et aux procédures connexes. Le FRA modifié (voir le formulaire n<sup>o</sup>_PIF0798.STY (AMI) ci-joint à l'<strong>appendice A</strong>) doit être mis en œuvre au plus tard le 17 juillet 1998.</p>
+<p><strong>Modifications aux marchés et aux autres attributions</strong> - À compter du 17 juillet 1998, le FRA sera utilisé pour communiquer de l'information au bureau du ministre en ce qui a trait aux modifications proposées (y compris les modifications approuvées antérieurement) aux contrats et aux autres types d'attribution lorsque la valeur globale des modifications dépasse les seuils du FRA indiqués ci-dessous.</p>
+<h3>Seuils établis aux fins du FRA pour les modifications</h3>
+<p>Le seuil établi pour <strong>les modifications des marchés concurrentiels</strong> (y compris les marchés approuvés par l'entremise d'une délégation de pouvoir pour les appels d'offres électroniques) est:</p>
+<p>25 000 $ et 10 p. 100 de la valeur approuvée à l'origine, au moment de l'attribution.</p>
+<p>Le seuil établi pour <strong>les modifications des marchés non concurrentiels</strong>, lorsqu'un PAC n'a pas été publié, est :</p>
+<p>10 000 $ et 10 p. 100 de la valeur approuvée à l'origine, au moment de l'attribution.</p>
+<p>Les FRA relatifs aux modifications sont exigés seulement lorsque la valeur seuil en dollars et la valeur seuil en pourcentage sont dépassées. Il n'est pas nécessaire de remplir un FRA lorsque la valeur des modifications est négative ou nulle ou que les modifications ont été approuvées par le ministre.</p>
+<h3>Délai de présentation et de distribution des FRA relatifs aux modifications</h3>
+<p>Les FRA relatifs aux modifications non approuvées antérieurement doivent être envoyés à l'adresse électronique «PIF» 48 heures avant la date d'émission prévue pour la modification. Les FRA relatifs aux modifications approuvées antérieurement et les modifications réalisées pour le compte de la Corporation commerciale canadienne (CCC) doivent être présentés à la date à laquelle la modification est émise. La règle d'affectation des noms des fichiers électroniques exposée dans l'Avis de politique 32 doit s'appliquer aux FRA relatifs aux modifications. La lettre « M » correspondra au premier caractère dans le nom du fichier affecté par des modifications.</p>
+<h3>Modifications apportées au FRA</h3>
+<p>La partie supérieure du FRA a été révisée pour inclure deux nouveaux champs, l'un pour indiquer le type de document comme une modification à une attribution et l'autre pour préciser le numéro de la modification. Une nouvelle section intitulée «Information relative à la modification», comprenant cinq champs explicites, a été ajoutée comme deuxième page au FRA.</p>
+<p>La brève description ainsi que la justification à l'appui d'une modification doivent indiquer si la modification a été approuvée antérieurement, et lorsqu'il s'agit de modifications non approuvées antérieurement, elles doivent inclure les raisons pour lesquelles les principes de concurrence et de transparence ne peuvent être maintenus.</p>
+<p>En plus des renseignements sur la modification proposée, les FRA relatifs aux modifications doivent inclure tous les renseignements pertinents dans les sections Planification et Attribution du FRA même si les FRA ont été présentés pour cet achat.</p>
+<p><strong>Marchés réservés - </strong>Les descriptions de marchés réservés incluses dans le FRA ont été modifiées afin de permettre de faire la distinction entre les deux types de marchés réservés, soit les marchés réservés dans le cadre d'accords sur la revendication territoriale et les marchés réservés dans le cadre du Programme des marchés réservés aux entreprises autochtones. Les marchés sont décrits selon les termes généralement utilisés au Service des approvisionnements.</p>
+<p><strong>Raisons justifiant le recours à l'appel d'offres limité - </strong>Un nouveau champ d'information intitulé « Raisons justifiant le recours à l'appel d'offres limité » a été ajouté après le champ « non concurrentiel » pour indiquer les raisons justifiant le recours à des marchés non concurrentiels ou concurrentiels. Ce champ sera utilisé pour indiquer l'une des 15 raisons justifiant le recours à l'appel d'offres limité énumérées à l'appendice B. Pour les besoins relatifs aux services en architecture et en génie qui faisaient appel antérieurement au système de sélection des fournisseurs SPEC (Sélection, préqualification et évaluation des consultants), il faudra dorénavant utiliser la raison justifiant le recours à l'appel d'offres limité # 85, qui fait référence à l'exception accordée par le CT à l'exigence du recours aux appels d'offres pour des services A-G qui ne dépassent pas 100 000 $ (Politique contractuelle du CT, réf. 10.2.1 (b)).</p>
+<p><strong>Achats axés sur les avantages (AAA</strong>) - La section du FRA intitulée « Renseignements relatifs à la planification » a été révisée afin d'inclure les renseignements relatifs à l'utilisation des éléments des AAA. Pour chaque achat, les agents indiqueront lequel ou lesquels des éléments de la méthode des AAA (Début, contexte, responsabilité et paiement) seront utilisés dans l'achat.</p>
+<p><strong>Processus d'attribution des contrats (PAC) </strong>- Un nouveau champ sera ajouté à la fin de l'espace prévu pour le type d'attribution, afin qu'il soit possible d'indiquer le code PAC d'après la liste fournie à l'<strong>appendice C</strong>. Lorsque l'appel d'offres limité a été utilisé, ce code sera le même que celui inscrit lors de la phase de planification comme raison justifiant le recours à l'appel d'offres limité.</p>
+<p><strong>Délai de présentation des FRA - </strong>Tous les FRA doivent être envoyés à l'adresse électronique «PIF» dans les délais énumérés ci-dessous. Le numéro du dossier du formulaire doit être inclus sur la ligne de mention objet du courrier électronique s'y rattachant.</p>
+<p><strong>Pour les plans d'achat </strong>- les FRA doivent être soumis au plus tard 48 heures avant la date prévue pour le lancement de l'appel d'offres.</p>
+<p><strong>Pour les attributions</strong> - les FRA doivent être soumis au plus tard 48 heures avant la date prévue pour l'attribution, sauf les attributions réalisées pour le compte de la CCC pour lesquelles les FRA doivent être soumis au moment de l'attribution.</p>
+<p><strong>Pour les modifications non approuvées antérieurement</strong> - les FRA doivent être soumis au plus tard 48 heures avant la date prévue pour l'émission de la modification.</p>
+<p><strong>Pour les modifications approuvées antérieurement, et les modifications effectuées pour le compte de la CCC</strong> - les FRA doivent être soumis au moment de l'émission de la modification.</p>
+<h3>Annexe A</h3>
+<h4>Guide de consultation rapide pour déterminer s'il y a lieu d'utiliser un formulaire de renseignements sur l'approvisionnement (FRA)</h4>
+<p><strong>Types de demandes d'approbation d'achat qui nécessitent un FRA</strong></p>
+<p>Les Formulaires de renseignements sur l'approvisionnement servent à fournir des informations sur ce qui suit :</p>
+<ul>
+<li>les plans d'achat (et les révisions apportées aux plans);</li>
+<li>les attributions de contrat; et</li>
+<li>les modifications de contrats (et autres types d'attribution).</li>
+</ul>
+<h4>Seuils au-dessus desquels un FRA est nécessaire</h4>
+<p>Un FRA doit être rempli pour les plans d'achat et les attributions de contrat dont la valeur dépasse les seuils des produits précis énumérés ci-dessous. Les seuils relatifs au FRA pour toutes les modifications sont indiqués à la fin de ce tableau. Il n'est pas nécessaire de remplir un FRA dans le cas des modifications approuvées par le ministre.</p>
+<dl>
+<dt><strong>Appels d'offres électroniques</strong></dt>
+<dd>Services - 2 500 000 $</dd>
+<dd>Biens - 5 000 000 $</dd>
+<dd>Construction - 2 500 000 $</dd>
+<dd>Télécommunications - 25 000 000 $</dd>
+<dd>Services A-G - 250 000 $</dd>
+<dd>FRA relatifs aux modifications - 25 000$ et 10p. 100 de la valeur originale</dd>
+<dt><strong>Concurrentiels</strong></dt>
+<dd>Services - 1 250 000 $</dd>
+<dd>Biens - 1 250 000 $</dd>
+<dd>Construction - 1 250 000 $</dd>
+<dd>Télécommunications - 2 500 000 $</dd>
+<dd>Services A-G - 125 000 $</dd>
+<dd>FRA relatifs aux modifications - 25 000$ et 10p. 100 de la valeur originale</dd>
+<dt><strong>Non concurrentiels</strong></dt>
+<dd>Services - 375 000 $</dd>
+<dd>Biens - 250 000 $</dd>
+<dd>Construction - 62 500 $</dd>
+<dd>Télécommunications - 375 000 $</dd>
+<dd>Services A-G - 12 500 $</dd>
+<dd>FRA relatifs aux modifications - 10 000$ et 10p. 100 de la valeur originale</dd>
+</dl>
+<p>Dans le cas des achats approuvés par l'entremise d'une délégation de pouvoirs exceptionnels, comme pour la réparation et la révision ou la gestion de l'énergie, le FRA doit être rempli pour tous les plans d'achat et les attributions de contrat qui dépassent 25 % de la délégation de pouvoirs exceptionnels. Il est nécessaire de remplir un FRA pour les modifications approuvées par l'entremise de la délégation de pouvoirs exceptionnels, en utilisant les seuils susmentionnés.</p>
+<p>Dans le cas des achats réalisés pour le compte de la CCC, un FRA doit être rempli lorsque les attributions dépassent les seuils établis pour les « Biens », basé sur la méthode d'invitation à soumissionner connue (p. ex. appels d'offres électroniques, concurrentiels ou non concurrentiels). Il n'est pas nécessaire de remplir un FRA pour l'attestation des soumissions.</p>
+<p>Il faut également remplir un FRA pour les modifications approuvées antérieurement.</p>
+<h4>Délai de présentation et distribution des FRA</h4>
+<p>Les FRA doivent être envoyés à l'adresse électronique « PIF » 48 heures avant :</p>
+<ul>
+<li>la date prévue pour le lancement de l'appel d'offres (pour les plans d'achat);</li>
+<li>la date prévue pour l'attribution (sauf dans le cas des attributions réalisées pour le compte de la CCC où les FRA doivent être soumis au moment de l'attribution);</li>
+<li>la date prévue pour l'émission de la modification (sauf dans le cas des modifications approuvées antérieurement et les modifications de contrats de la CCC où les FRA doivent être soumis au moment de l'émission de la modification).</li>
+</ul>
+<h3>Annexe B</h3>
+<h4>Questions et réponses concernant le FRA</h4>
+<p><strong>1.Q Un Formulaire de renseignements sur l'approvisionnement (FRA) est-il nécessaire dans les cas où une note au ministre est établie?</strong></p>
+<p>1.R Oui, il faut remplir un FRA si on demande l'approbation d'un plan d'achat ou d'une attribution de contrat par l'entremise d'une note au ministre. Ce n'est pas le type de document d'approbation établi qui détermine s'il faut ou non remplir un FRA.</p>
+<p><strong>2.Q Faut-il remplir un FRA pour les modifications aux documents contractuels?</strong></p>
+<p>2.R Oui, à compter du 17 juillet 1998, le FRA sera utilisé pour communiquer l'information relative aux modifications de contrat (et modifications aux autres types d'attribution) qui dépassent les seuils suivants :</p>
+<ol type="a">
+<li>Le seuil du FRA établi pour <strong>les modifications des marchés concurrentiels</strong> (y compris les marchés approuvés en vertu des pouvoirs d'approbation pour les appels d'offres électroniques) est :
+<p>25 000 $ et 10 p. 100 de la valeur approuvée à l'origine, au moment de l'attribution.</p>
+</li>
+<li>Le seuil du FRA établi pour <strong>les modifications des marchés non concurrentiels</strong>, lorsqu'un PAC n'est pas publié, est :
+<p>10 000 $ et 10 p. 100 de la valeur approuvée à l'origine, au moment de l'attribution.</p>
+</li>
+</ol>
+<p>Il ne faut pas remplir de FRA lorsque la valeur des modifications est négative ou nulle, ou que les modifications ont été approuvées par le ministre.</p>
+<p><strong>NOTA </strong>: Les modifications négatives ne sont pas comprises dans le calcul de la valeur globale des modifications.</p>
+<p><strong>3.Q Faut-il remplir un FRA pour les offres à commandes?</strong></p>
+<p>3.R Oui, il faut remplir un FRA pour chaque offre à commandes ou autre entente similaire, peu importe qu'il s'agisse d'une entente qui est considérée comme étant exécutoire ou non exécutoire. L'obligation de remplir un FRA est fonction des seuils précisés dans l'AP-32.</p>
+<p><strong>4.Q Un FRA est-il nécessaire dans le cas des achats pour la CCC?</strong></p>
+<p>4.R Oui. Cependant, comme il n'existe aucune délégation de pouvoirs d'approbation dans le cas des contrats attribués pour la CCC, on a établi, pour la présentation de FRA, des seuils qui correspondent aux seuils établis pour les « Biens ». Lorsque la méthode d'invitation à soumissionner du gouvernement étranger est connue, le seuil établi (p. ex. appels d'offres électroniques, concurrentiels ou non concurrentiels) doit s'appliquer; lorsque la méthode d'invitation à soumissionner n'est pas connue, le seuil établi pour les marchés non concurrentiels est utilisé.</p>
+<p>Il faut remplir un FRA pour les attributions et modifications de contrats correspondants qui reflètent les obligations de la CCC en vertu d'un contrat envers un gouvernement étranger, le jour même de l'attribution du contrat ou de l'émission de la modification; cela permettra de faire en sorte qu'il n'y ait aucun délai à l'égard des obligations contractuelles de la CCC. La brève description de l'approvisionnement dans le FRA doit indiquer que l'attribution ou la modification est un contrat « correspondant » par la CCC.</p>
+<p><strong>5.Q Quels renseignements faut-il inclure dans la brève description de l'approvisionnement?</strong></p>
+<p>5.R La brève description de l'approvisionnement doit comprendre une description générale des biens ou des services achetés et préciser si l'achat prévoit l'approbation d'options qui seront exercées ultérieurement ou l'approbation de montants réservés. S'il s'agit d'une demande d'approbation d'un montant réservé qui sera utilisé pour des travaux non planifiés, des modifications à la conception ou des tâches supplémentaires, il faut indiquer à quoi ces montants sont destinés.</p>
+<p><strong>6.Q De quelle façon les projets importants ou bien connus doivent-ils être décrits?</strong></p>
+<p>6.R Dans le cas d'un plan d'achat ou d'un contrat lié à un projet bien connu, le nom généralement utilisé pour désigner le projet doit être indiqué en premier lieu dans la brève description de l'approvisionnement (p. ex. Cité parlementaire ou MNCT).</p>
+<p><strong>7.Q La valeur d'attribution du contrat doit-elle correspondre à la valeur estimative indiquée dans le plan d'achat?</strong></p>
+<p>7.R Non. Dans bien des cas, il y aura un écart important entre la valeur de l'attribution qui fait l'objet du FRA et celle indiquée dans le plan d'achat. Entre autres, cet écart peut être attribuable à ce qui suit :</p>
+<ul>
+<li>attribution de plusieurs contrats à la suite d'un seul appel d'offres;</li>
+<li>aux fins d'approbation, les plans d'achat peuvent inclure plusieurs options comprises dans la valeur estimative. Le prix du contrat ultérieur ne peut inclure de telles options.</li>
+</ul>
+<p><strong>8.Q Quels seuils concernant le FRA s'appliquent aux achats non concurrentiels publiés dans un Préavis d'adjudication de contrat (PAC)?</strong></p>
+<p>8.R Les seuils établis pour les appels d'offres électroniques s'appliquent à tous les achats qui sont publiés par le Service électronique d'appels d'offres du gouvernement, qu'il s'agisse de marchés concurrentiels ou de marchés non concurrentiels.</p>
+<p><strong>9.Q Quand faut-il cocher les cases ERTG (Entente de revendication territoriale globale) et MRRT (Marché réservé dans le cadre d'une revendication territoriale) dans le FRA?</strong></p>
+<p>9.R Il faut cocher la case ERTG pour tous les achats assujettis à une entente de revendication territoriale globale. Il faut cocher la case MRRT lorsqu'il s'agit d'un achat assujetti à une ERTG (y compris à des accords de Parcs nationaux ou à des accords de coopération du MDN) dans le cadre de l'AMP-OMC ou de l'ALENA, qui est réservé aux termes de ces ententes. Si la case MRRT est cochée, les cases AMP-OMC et ALENA doivent être laissées en blanc. Lorsqu'il s'agit d'un besoin assujetti à une ERTG et à l'ACI, il faut également cocher la case ACI; aucun marché réservé dans le cadre d'une revendication territoriale n'est prévu dans l'ACI.</p>
+<p><strong>10.Q Qu'est-ce qu'un code PAC?</strong></p>
+<p>10.R Un code PAC (Processus d'attribution des contrats) fournit une description de la méthode de sélection selon le régime concurrentiel ou non concurrentiel ainsi qu'une justification concernant le recours à un appel d'offres limité ou à un fournisseur exclusif. Une liste de codes PAC est incluse à l'<strong>appendice C</strong> de l'AP-32U.</p>
+<p><strong>11.Q Que signifie SPEC (SA&amp;G)?</strong></p>
+<p>11.R SPEC (Sélection, préqualification et évaluation des consultants) est le procédé utilisé par TPSGC pour choisir des firmes de consultation pour certains marchés de services dont la valeur est inférieure aux seuils établis conformément à l'ALENA. Il s'agit d'un système informatisé qui comprend des données sur les entreprises de consultation en architecture, en génie et autres domaines connexes (appelé index A-G) ainsi qu'une série de politiques et de procédures.</p>
+<p><strong>12.Q Quand doit-on remplir la nouvelle section relative aux Achats axés sur les avantages?</strong></p>
+<p>12. R Les Achats axés sur les avantages (AAA) représentent une nouvelle méthode sur la façon selon laquelle nous faisons des affaires. Les éléments des AAA peuvent être utilisés dans tous les achats. Lorsqu'un ou plusieurs éléments (Début, contexte, responsabilité et paiement) seront utilisés, il faudra le mentionner sur le FRA.</p>
+<p>En ce qui a trait au FRA situé à l'appendice A, veuillez vous référer au fichier AP32UAPA.SAM</p>
+<h3>Appendice B</h3>
+<h4>RAISONS JUSTIFIANT LE RECOURS À L'APPEL D'OFFRES LIMITÉ</h4>
+<table class="basic">
+<tbody><tr>
+<th id="AP-32Uheading1" scope="col">Champ d'application</th>
+<th id="AP-32Uheading2" scope="col">Code PAC admissible</th>
+<th id="AP-32Uheading3" scope="col">Raisons justifiant le recours à l'appel d'offres limité en abrégé</th>
+<th id="AP-32Uheading4" scope="col">Référence CT/l'Accord mêmes</th>
+</tr>
+<tr>
+<td headers="heading1" rowspan="8"><strong>ALENA
+<p>							OMC-AMP, ACI,</p>
+<p>							ou tout autre combinaison (de ces accords); ou</p>
+<p>							MREA*; ou</p>
+<p>							Aucun*</p></strong></td>
+<td align="center" headers="heading2">5</td>
+<td headers="heading3">Une seule réponse à une invitation à soumissionner...</td>
+<td headers="heading4">ALENA 1016.2 a)<br/>
+							OMC-AMP XV.1 a)<br/>
+							ACI 506.11 f)</td>
+</tr>
+<tr>
+<td align="center" headers="heading2">20</td>
+<td headers="heading3">pour des biens achetés sur le marché des produits de base...</td>
+<td headers="heading4">ALENA 1016.2 f)<br/>
+							OMC-AMP XV.1 h)<br/>
+							ACI 506.12 d)</td>
+</tr>
+<tr>
+<td align="center" headers="heading2">21</td>
+<td headers="heading3">achats effectués dans des conditions exceptionnellement avantageuses, court terme...</td>
+<td headers="heading4">ALENA 1016.2 g)<br/>
+							OMC-AMP XV.1 i)<br/>
+							ACI 506.12 i)</td>
+</tr>
+<tr>
+<td align="center" headers="heading2">22</td>
+<td headers="heading3">contrat attribué au gagnant d'un concours de conception...</td>
+<td headers="heading4">ALENA 1016.2 h)<br/>
+							OMC-AMP XV.1 j)<br/>
+							ACI 506.12 g)</td>
+</tr>
+<tr>
+<td align="center" headers="heading2">71</td>
+<td headers="heading3">droits exclusifs...</td>
+<td headers="heading4">Manuel du CT, 10.2.1 d)<br/>
+							ALENA 1016.2 b)<br/>
+							OMC-AMP XV.1 b)<br/>
+							ACI 506.12 b)j)</td>
+</tr>
+<tr>
+<td align="center" headers="heading2">72</td>
+<td headers="heading3">achat d'un prototype...</td>
+<td headers="heading4">ALENA 1016.2 e)<br/>
+							OMC-AMP XV.1 e)<br/>
+							ACI 506.12 h)</td>
+</tr>
+<tr>
+<td align="center" headers="heading2">74</td>
+<td headers="heading3">pièces compatibles...</td>
+<td headers="heading4">ALENA 1016.2 d)<br/>
+							OMC-AMP XV.1 d)<br/>
+							ACI 506.12 a)</td>
+</tr>
+<tr>
+<td align="center" headers="heading2">81</td>
+<td headers="heading3">extrême urgence...</td>
+<td headers="heading4">Manuel du CT, 10.2.1 a)<br/>
+							ALENA 1016.2 c)<br/>
+							OMC-AMP XV.1 c)<br/>
+							ACI 506.11 a)</td>
+</tr>
+<tr>
+<td headers="heading1">ALENA et/ou ACI</td>
+<td align="center" headers="heading2">23</td>
+<td headers="heading3">services d'experts-conseils sur des questions confidentielles...</td>
+<td headers="heading4">ALENA 1016.2 i)<br/>
+							ACI 506.11 b)</td>
+</tr>
+<tr>
+<td headers="heading1" rowspan="2">OMC-AMP seulement</td>
+<td align="center" headers="heading2">24</td>
+<td headers="heading3">services de construction supplémentaires...</td>
+<td headers="heading4">OMC-AMP XV.1 f)</td>
+</tr>
+<tr>
+<td align="center" headers="heading2">25</td>
+<td headers="heading3">nouveaux services de construction...</td>
+<td headers="heading4">OMC-AMP XV.1 g)</td>
+</tr>
+<tr>
+<td headers="heading1" rowspan="2">ACI seulement</td>
+<td align="center" headers="heading2">86</td>
+<td headers="heading3">prix et/ou fournisseurs déterminés par des règlements édictés par le gouvernement...</td>
+<td headers="heading4">ACI 506.12 c)</td>
+</tr>
+<tr>
+<td align="center" headers="heading2">90</td>
+<td headers="heading3">protection de la vie ou de la santé des personnes, animaux, plantes...</td>
+<td headers="heading4">ACI 506.11 e)</td>
+</tr>
+<tr>
+<td headers="heading1">ACI et/ou Aucun* <br/>
+							MREA*</td>
+<td align="center" headers="heading2">87</td>
+<td headers="heading3">objectifs du gouvernement qui ont trait aux meilleurs intérêts/meilleure valeur pour l'État</td>
+<td headers="heading4">Manuel du CT, 10.2.1 c)<br/>
+							APM CT 1997-3<br/>
+							ACI 506.11 c)d)<br/>
+							ACI 506.12 e)f)k)l)</td>
+</tr>
+<tr>
+<td headers="heading1">MREA* <br/>
+							Aucun*</td>
+<td align="center" headers="heading2">85</td>
+<td headers="heading3">faible valeur...</td>
+<td headers="heading4">Manuel du CT, 10.2.1 b)</td>
+</tr>
+</tbody></table>
+<p>* Pour MREA et Aucun, seulement les raisons énoncées par le CT sont admissibles. (Voir les Codes PAC 71, 81, 85 et 87.)</p>
+<h3>Appendice C</h3>
+<h4>CODES DU PROCESSUS D'ATTRIBUTION DES CONTRATS (PAC)</h4>
+<p>Les codes PAC admissibles et les raisons justifiant l'utilisation d'un code PAC spécifique sont énumérés ci-dessous. <em>(Modifiée le 01/01/96)</em></p>
+<p><strong>Code PAC : 01</strong> <br/>
+					Soumission la plus basse</p>
+<p><strong>Code PAC : 04</strong> <br/>
+					Meilleure soumission globale</p>
+<p><strong>Code PAC : 05</strong> <br/>
+					En l'absence de soumissionnaires répondant à une invitation à soumissionner en régime de concurrence ou lorsque les soumissions présentées ont été jugées inacceptables pour des raisons de collusion ou pour avoir été jugées irrecevables ou reçues de fournisseurs non agréés.</p>
+<p><strong>Code PAC : 06</strong> <br/>
+					Une seule réponse à une invitation à soumissionner</p>
+<p><strong>Code PAC : 10</strong> <br/>
+					Choix du fournisseur par rotation</p>
+<p><strong>Code PAC : 11</strong> <br/>
+					Contrats ultérieurs et consécutifs</p>
+<p><strong>Code PAC : 20</strong> <br/>
+					Pour des biens achetés sur le marché des produits de base.</p>
+<p><strong>Code PAC : 21</strong> <br/>
+					Pour des achats effectués dans des conditions exceptionnellement avantageuses qui ne surviennent que pour une courte durée, telles que la vente de produits par des entreprises qui ne sont pas normalement fournisseurs ou la vente de biens appartenant à des entreprises dans le cadre d'une liquidation ou d'une mise sous séquestre; il ne s'agit pas d'achats ordinaires auprès de fournisseurs habituels.</p>
+<p><strong>Code PAC : 22</strong> <br/>
+					Contrat attribué au gagnant d'un concours de conception.</p>
+<p><strong>Code PAC : 23</strong> <br/>
+					Pour des services d'experts-conseils sur des questions confidentielles.</p>
+<p><strong>Code PAC : 24</strong> <br/>
+					Pour des services de construction supplémentaires qui n'étaient pas compris dans le contrat initial mais qui faisaient partie des objectifs décrits dans les documents d'appel d'offres originaux.</p>
+<p><strong>Code PAC : 25</strong> <br/>
+					Pour de nouveaux services de construction consistant en la répétition de services de construction similaires conformes à un projet de base pour lequel un contrat initial avait été attribué.</p>
+<p><strong>Code PAC : 71</strong> <br/>
+					Pour des raisons se rapportant à la protection des droits exclusifs, tels que les droits de brevets ou d'auteur, où aucune alternative raisonnable ou substitution n'était possible.</p>
+<p><strong>Code PAC : 72</strong> <br/>
+					Pour des raisons comportant l'approvisionnement de prototypes ou d'un produit nouveau mis au point en vertu d'un contrat de recherche, d'expérimentation, d'étude ou de développement à caractère original.</p>
+<p><strong>Code PAC : 74</strong> <br/>
+					Pour des raisons logistiques (c'est-à-dire lorsqu'il s'agira de livraisons additionnelles à assurer par le fournisseur initial et portant sur des pièces de rechange pour des fournitures déjà faites, des installations déjà livrées ou pour des services continus, ou destinées à compléter ces fournitures, installations ou services, et qu'un changement de fournisseur obligerait le ministère-client à acquérir du matériel ou des services ne répondant pas à des conditions d'interchangeabilité avec un matériel ou des services déjà existants).</p>
+<p><strong>Code PAC : 81</strong> <br/>
+					Pour des raisons se rapportant à une situation d'extrême urgence imputable à des circonstances que le client ne pouvait prévoir et où le temps ne permettait pas le recours à une demande de soumissions concurrentielle.</p>
+<p><strong>Code PAC : 85</strong> <br/>
+					Faible valeur</p>
+<p><strong>Code PAC : 86</strong> <br/>
+					Prix ou méthodes d'approvisionnement réglementés par le gouvernement.</p>
+<p><strong>Code PAC : 87</strong> <br/>
+					Correspond aux objectifs du gouvernement qui ont trait aux meilleurs intérêts ou à la meilleure valeur pour l'État.</p>
+<p><strong>Code PAC : 88</strong> <br/>
+					Raisons liées à la sécurité nationale.</p>
+<p><strong>Code PAC : 89</strong> <br/>
+					Circonstances exceptionnelles en vertu de l'article 508.1 de l'ACI.</p>
+<p><strong>Code PAC : 90</strong> <br/>
+					Protection de la vie ou de la santé des humains, des animaux ou des végétaux en vertu de l'alinéa 506(11)e) de l'ACI.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

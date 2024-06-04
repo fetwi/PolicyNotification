@@ -1,0 +1,292 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Introduction</h2>
+<p>The purpose of Policy Notification 99 is  to notify contracting officers of the following:</p>
+<ol>
+<li>A new  Requisition Checklist (<a href="http://publiservice-app.pwgsc.gc.ca/forms/pdf/195.pdf" rel="external"><abbr title="Public Works and Government Services Canada">PWGSC</abbr>-TPSGC 195</a>)  for clients;</li>
+<li>A new process for acknowledgement of requisition  receipt; and</li>
+<li>The implementation of new service standards for  acknowledgement of requisition receipt.</li>
+</ol>
+<h2>Background</h2>
+<p>In its efforts to modernize the procurement function, the Acquisitions Branch, Procurement Renewal Office, formed a working group to develop solutions to streamline procurement processes.  Over the past two years, the Procurement Solutions Modernization (PSM) working group, with representatives from sectors and regions, have been reviewing procurement processes for basic and standard procurements with the aim of supporting a streamlined approach and improving our service level.</p>
+<h2>Effective Date</h2>
+<p>This PN is effective immediately.</p>
+<h2>Policy</h2>
+<p>Please refer to <a href="#PN-99anna">Annex A</a> (Revisions to the Supply Manual) for the new procedures regarding the client requisition checklist and the new process and service standards for acknowledgement of requisition receipt.</p>
+<p><abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting officers must still review all requisitions for  acceptability and completeness so that procurement action can proceed. The Requisition Checklist in <a href="#PN-99anna21">Annex 2.1</a> of the  Supply Manual remains available for use by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting officers. </p>
+<p><a href="#PN-99annb">Annex B</a> provides the contact information  for the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Allocation Units.</p>
+<h2>Contact Person</h2>
+<p>For more information, contact the Procurement  Solutions Modernization (PSM) working group by e-mail at the following address: <a href="mailto:Modernizingtogether.modernisonsensemble@pwgsc-tpsgc.gc.ca" rel="external">Modernizingtogether.modernisonsensemble@pwgsc-tpsgc.gc.ca</a>.</p>
+<h2 id="PN-99anna">Annex A – Revisions to the Supply Manual</h2>
+<p>Changes  are effective immediately and will be included in the next release of the  Supply Manual.</p>
+<h3>2.30 Requisition Receipt</h3>
+<ol class="double-space" type="a">
+<li>Client departments must complete the Requisition for Goods and Services and Construction form (<a href="http://publiservice-app.pwgsc.gc.ca/forms/pdf/9200.pdf" rel="external"><abbr title="Public Works and Government Services Canada">PWGSC</abbr>-TPSGC 9200</a>)  and submit it to a <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Allocation Unit (AU).  The client Requisition Checklist (<a href="http://publiservice-app.pwgsc.gc.ca/forms/pdf/195.pdf" rel="external"><abbr title="Public Works and Government Services Canada">PWGSC</abbr>-TPSGC 195</a>)  is an optional tool that  can assist client departments in completing the requisition and in determining  the required supporting documents.</li>
+<li>Client departments must submit completed requisitions to the AU by e-mail, fax or mail, although e-mail is the preferred format.  Contracting officers who receive a requisition directly from the client must forward it to the AU and inform the client department of the procedures to follow.  The AU will acknowledge receipt of a requisition to the client department within one business day for electronically (e-mail) submitted requisitions, and within two business days for hard copy (fax/mail) submitted requisitions.  While processing the requisition, the AU will contact the client department to obtain any missing information and/or documents. Once a requisition is complete, the AU will enter it into the Automated Buyer Environment (ABE), and the requisition will be assigned to the appropriate acquisitions office in the region or National Capital Area.</li>
+<li>(c)	Within five business days of an acquisitions office's receipt of a requisition from an allocations unit, the responsible contracting officer must advise the client department that he/she has been allocated the requisition and provide the client department with his/her contact information. </li>
+</ol>
+<p><strong>2.30.1 Funding </strong>(remains as is)</p>
+<p><strong>2.30.5 Requisition  Allocation within <abbr title="Public Works and Government Services Canada">PWGSC</abbr></strong></p>
+<ol class="double-space" type="a">
+<li>Client departments may direct their requisitions and price and availability (P&amp;A) enquiries directly to the Public Works and Government Services Canada (<abbr title="Public Works and Government Services Canada">PWGSC</abbr>) Allocations Unit of their choice (Canada only)</li>
+<li> When the client stipulates the <abbr title="Public Works and Government Services Canada">PWGSC</abbr>  office of choice on the requisition, it will normally be allocated to that  office. The major exceptions are:
+    <ol class="noBullet" type="i">
+<li> Restricted Commodities:
+        <p>Restricted Commodities include: advertising, public opinion research, production of audio visual, bulk buys for fuel and vehicles and United States Foreign Military Sales (U.S. FMS).  Requisitions will be allocated as follows:</p>
+<ol class="double-space" type="A">
+<li> when a requisition is for a Restricted  Commodity, the requisition will be allocated to the <a href="http://pad.contractscanada.gc.ca/index-eng.cfm?af=ZnVzZWFjdGlvbj1pbmZvLmludHJvJmlkPTE=&amp;lang=eng" rel="external">headquarters  (HQ) division/section responsible</a> for that <a href="http://www.nato.int/STRUCTUR/AC/135/ncs_guide/english/e_1-6-5.htm" rel="external">NATO Stock Number</a> (NSN) <em><a href="http://www.tpsgc-pwgsc.gc.ca/comm/ai-in-eng.html#hyprlns-hyprlnk" rel="external">www</a></em>  or <a href="https://buyandsell.gc.ca/commoditycodes">Goods and Services Identification Number</a> (GSIN); </li>
+<li>when there is more than one line item of a Restricted Commodity, the requisition will be allocated to the HQ division/section responsible for the Restricted Commodity line item with the highest value;</li>
+<li>when the monetary value of the line items cannot be determined, the requisition will be allocated to the HQ division/section responsible for the GSIN code of the first line item, which represents a Restricted Commodity; and</li>
+<li> when a requirement will be sole-sourced  under the U.S. FMS Program, see <a href="https://buyandsell.gc.ca/policy-and-guidelines/supply-manual/section">Chapter 9</a>.</li>
+</ol>
+</li>
+<li> Commodity Managers:
+        <p>Where a requisition relates to a specific commodity (i.e. monitors or printers) or to a specific geographical client (i.e. Northwest Territories), <abbr title="Public Works and Government Services Canada">PWGSC</abbr> will customarily inform the client that the requisition is being forwarded to the specific commodity management office that is able to satisfy their request.</p>
+</li>
+<li> Major  Projects:
+        <p>If the requisition is part of a major project, it will be allocated to the office responsible for that project.</p>
+</li>
+</ol>
+</li>
+<li> When a  client does not specify a preference, the following rules apply:
+    <ol class="double-space" type="i">
+<li>when there is only one consignee point, the requisition will be allocated to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> office closest to the consignee within the same regional sector.  If the closest <abbr title="Public Works and Government Services Canada">PWGSC</abbr> office is HQ, it will be allocated in accordance with <abbr title="Public Works and Government Services Canada">PWGSC</abbr> HQ procedures;</li>
+<li> when a  requisition originates in a region with more than one consignee in the same  regional sector, it will be allocated to an office designated by the Regional  Director, Acquisitions;</li>
+<li>when there are multiple consignee points within the same regional sector, and the consignee points are not close to one <abbr title="Public Works and Government Services Canada">PWGSC</abbr> office, then the requisition will be allocated to an office designated by the Regional Director, Acquisitions.  When the multiple consignee points are all close to the same <abbr title="Public Works and Government Services Canada">PWGSC</abbr> office, then the requisition will be allocated to that office;</li>
+<li> when consignees in two or more regional sectors appear on a single requisition, it will be allocated to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> office closest to the originator of the requisition;</li>
+<li>when there are multiple consignees where the closest <abbr title="Public Works and Government Services Canada">PWGSC</abbr> offices are in two or more regional sectors, then the requisition will be allocated to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> office closest to the originator of the requisition, based on the requisition number of the ordering office.  If the closest <abbr title="Public Works and Government Services Canada">PWGSC</abbr> office is HQ, then it will be allocated in accordance with <abbr title="Public Works and Government Services Canada">PWGSC</abbr> HQ procedures;</li>
+<li> requisitions  sent to HQ will be allocated to the section responsible for the greatest value  of line items based on the line item <a href="http://www.nato.int/STRUCTUR/AC/135/ncs_guide/english/e_1-6-5.htm" rel="external">NATO Stock Number</a> <em><a href="http://www.tpsgc-pwgsc.gc.ca/comm/ai-in-eng.html#hyprlns-hyprlnk" rel="external">www</a></em>or <a href="https://buyandsell.gc.ca/commoditycodes">Goods and Services Identification Number</a>;</li>
+<li> if the value of the  line items are equal, or otherwise cannot be determined, then the requisition  will be allocated to the office or division/section responsible for the GSIN  code for the first line item on the requisition (clients should be encouraged  to enter the <a href="http://www.nato.int/STRUCTUR/AC/135/ncs_guide/english/e_1-6-5.htm" rel="external">NATO Stock Number</a> <em><a href="http://www.tpsgc-pwgsc.gc.ca/comm/ai-in-eng.html#hyprlns-hyprlnk" rel="external">www</a></em>or <a href="https://buyandsell.gc.ca/commoditycodes">Goods and Services Identification Number</a> by line item on their requisition).</li>
+</ol>
+</li>
+</ol>
+<h2 id="PN-99anna21">Annex 2.1: Requisition Checklist</h2>
+<p>15. Have appropriate standards,  specifications or purchase descriptions been included? If not, can an existing  one be used; or </p>
+<ol class="double-space" type="a">
+<li>Is  there a need for the development of a new standard, specification or purchase  description? </li>
+<li>Is the <a href="http://www.nato.int/STRUCTUR/AC/135/ncs_guide/english/e_1-6-5.htm" rel="external">NATO Stock Number</a> (NSN) <em><a href="http://www.tpsgc-pwgsc.gc.ca/comm/ai-in-eng.html#hyprlns-hyprlnk" rel="external">www</a></em> or the <a href="https://buyandsell.gc.ca/commoditycodes">Goods and  Services Identification Number</a> (GSIN)  number of the products shown?
+    <p> Note: Although clients must detail the GSIN in the requisition, due to trade agreement implications, the contracting officer must ensure the GSIN is accurate as per the commodity codes published on the <a href="https://buyandsell.gc.ca/commoditycodes#20">Buy and Sell site</a>.</p>
+</li>
+</ol>
+<p>(<em>The rest of Annex 2.1  remains unchanged.)</em></p>
+<h2 id="PN-99annb">Annex B - List of <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Allocation Units</h2>
+<p><strong>Note</strong>: This Annex will be referred to as Annex 2.3 of the  Supply Manual.</p>
+<table class="basic">
+<caption>
+  Headquarters
+<p>Contains contact information for PWGSC Allocations Units across Canada.</p>
+</caption>
+<tbody><tr>
+<th scope="col">Mailing address</th>
+<th scope="col">Fax number</th>
+<th scope="col">Email address</th>
+</tr>
+<tr>
+<td><p>Central Allocations Unit<br/>
+        0A1, Portage III<br/>
+        11 Laurier Street<br/>
+        Gatineau, QC K1A 0S5</p></td>
+<td><p>819-956-5175</p></td>
+<td><p><a href="mailto:NCRCentralAllocations.RCNAttributionsCentralisees@pwgsc-tpsgc.gc.ca" rel="external">NCRCentralAllocations.RCNAttributionsCentralisees@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+<tr>
+<th colspan="3">Atlantic  Region</th>
+</tr>
+<tr>
+<td><p><abbr title="Public Works and Government Services Canada">PWGSC</abbr>, Acquisitions<br/>
+        3 Queen Street <br/>
+        Charlottetown, PEI C1A 7M8 </p></td>
+<td><p>902-566-7514</p></td>
+<td><p><a href="mailto:Darlene.reay@pwgsc-tpsgc.gc.ca" rel="external">Darlene.reay@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p><abbr title="Public Works and Government Services Canada">PWGSC</abbr>, Acquisitions<br/>
+        P.O. Box 2247 <br/>
+        Halifax, NS B3J 3C9 </p></td>
+<td><p>902-496-5016</p></td>
+<td><p><a href="mailto:ATL.NSRequisitions@PWGSC-TPSGC.GC.CA" rel="external">ATL.NSRequisitions@PWGSC-TPSGC.GC.CA</a></p></td>
+</tr>
+<tr>
+<td><p><abbr title="Public Works and Government Services Canada">PWGSC</abbr>, Acquisitions<br/>
+        1045 Main Street, 3<sup>rd</sup> Floor<br/>
+        Moncton, NB E1C 1H1 </p></td>
+<td><p>506-851-6759</p></td>
+<td><p><a href="mailto:Carol.justason@pwgsc-tpsgc.gc.ca" rel="external">Carol.justason@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p><abbr title="Public Works and Government Services Canada">PWGSC</abbr>, Acquisition<br/>
+        Room 421, 189 Prince William St.<br/>
+        Saint John, NB E2L 2B9 </p></td>
+<td><p>506-636-4376</p></td>
+<td><p><a href="mailto:Linda.Morrison@pwgsc-tpsgc.gc.ca" rel="external">Linda.Morrison@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p><abbr title="Public Works and Government Services Canada">PWGSC</abbr>, Acquisitions<br/>
+        P.O. Box 4600 <br/>
+        St.John's, NL A1C 5T2</p></td>
+<td><p>709-772-2932</p></td>
+<td><p><a href="mailto:Rhonda.Manning@pwgsc-tpsgc.ca" rel="external">Rhonda.Manning@pwgsc-tpsgc.ca</a></p></td>
+</tr>
+<tr>
+<th colspan="3">Ontario Region</th>
+</tr>
+<tr>
+<td><p><abbr title="Public Works and Government Services Canada">PWGSC</abbr> Acquisitions<br/>
+        33 City Centre Drive,      Suite 480C <br/>
+        Mississauga, ON     L5B 2N5 </p></td>
+<td><p>905-615-2060</p></td>
+<td><p><a href="mailto:ONT9200MIS@pwgsc-tpsgc.gc.ca" rel="external">ONT9200MIS@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p><abbr title="Public Works and Government Services Canada">PWGSC</abbr> Acquisitions<br/>
+        86 Clarence Street, 2<sup>nd</sup> Floor<br/>
+        Kingston, ON     K7L 1X3 </p></td>
+<td><p>613-545-8067</p></td>
+<td><p><a href="mailto:ONT9200KIN@pwgsc-tpsgc.gc.ca" rel="external">ONT9200KIN@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p><abbr title="Public Works and Government Services Canada">PWGSC</abbr>, Acquisitions<br/>
+        Real Property Contracting<br/>
+        4900 Yonge Street, 12<sup>th</sup> Floor<br/>
+        Toronto, ON     M2N 6A6 </p></td>
+<td><p>416-512-5862</p></td>
+<td><p><a href="mailto:ONT9200RPC-SAMI@pwgsc-tpsgc.gc.ca" rel="external">ONT9200RPC-SAMI@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p><abbr title="Public Works and Government Services Canada">PWGSC</abbr> Acquisitions<br/>
+        Canadian Forces Base (CFB)    Borden<br/>
+        16 Ramillies Road, Room 239<br/>
+        Borden, ON     L0M 1C0 </p></td>
+<td><p>705-423-3032</p></td>
+<td><p><a href="mailto:ONT9200BOR@pwgsc-tpsgc.gc.ca" rel="external">ONT9200BOR@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p><abbr title="Public Works and Government Services Canada">PWGSC</abbr> Acquisitions<br/>
+<abbr title="Public Works and Government Services Canada">PWGSC</abbr> Building S-111, C114, <br/>
+        CFB Petawawa<br/>
+        Petawawa,ON     K8H 2X3 </p></td>
+<td><p>613-687-6656</p></td>
+<td><p><a href="mailto:ONT9200PET@pwgsc-tpsgc.gc.ca" rel="external">ONT9200PET@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p><abbr title="Public Works and Government Services Canada">PWGSC</abbr> Acquisitions<br/>
+        107 Shirreff Avenue,      SuiteON 204 <br/>
+        North Bay, ON     P1B 7K8 </p></td>
+<td><p>705-476-0778</p></td>
+<td><p><a href="mailto:ONT9200NB@pwgsc-tpsgc.gc.ca" rel="external">ONT9200NB@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p><abbr title="Public Works and Government Services Canada">PWGSC</abbr><br/>
+        Real Property Contracting<br/>
+        457 Richmond Street, 6<sup>th</sup> Floor<br/>
+        London, ON     N6A 3E3 </p></td>
+<td><p>519-645-4306</p></td>
+<td><p><a href="mailto:ONT9200LON@pwgsc-tpsgc.gc.ca" rel="external">ONT9200LON@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+<tr>
+<th colspan="3">Quebec  Region</th>
+</tr>
+<tr>
+<td><p>Place Bonaventure, South-East    Portal, Suite 7300<br/>
+        800 de La Gauchetière West<br/>
+        Montréal, QC      H5A 1L6 </p></td>
+<td><p>514-496-3822</p></td>
+<td><p><a href="mailto:QueRequisitionsMontreal.QueMontrealRequisitions@pwgsc-tpsgc.gc.ca" rel="external">QueRequisitionsMontreal.QueMontrealRequisitions@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>1550, D'Estimauville Avenue<br/>
+        Québec, QC      G1J 5E9</p></td>
+<td><p>418-648-2209</p></td>
+<td><p><a href="mailto:QueRequisitionsQuebec.QueQuebecRequisitions@pwgsc-tpsgc.gc.ca" rel="external">QueRequisitionsQuebec.QueQuebecRequisitions@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+<tr>
+<th colspan="3">Western  Region</th>
+</tr>
+<tr>
+<td><p><abbr title="Public Works and Government Services Canada">PWGSC</abbr> Acquisitions, <strong>Calgary</strong><br/>
+        Requisition Receipt    and Allocation<br/>
+      (By  e-mail or fax only)</p></td>
+<td><p>403-292-5786</p></td>
+<td><p><a href="mailto:WST-PA-CAL@pwgsc-tpsgc.gc.ca" rel="external">WST-PA-CAL@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p><abbr title="Public Works and Government Services Canada">PWGSC</abbr> Acquisitions, <strong>Edmonton</strong><br/>
+        Requisition Receipt    and Allocation<br/>
+        (By  e-mail or fax only)</p></td>
+<td><p>780-497-3510</p></td>
+<td><p><a href="mailto:WST-PA-EDM@pwgsc-tpsgc.gc.ca" rel="external">WST-PA-EDM@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr> <tr>
+<td><abbr title="Public Works and Government Services Canada">PWGSC</abbr> Acquisitions, <strong>Saskatchewan</strong><br/>
+      Requisition Receipt    and Allocation<br/>
+      (By  e-mail or fax only)</td>
+<td><p>306-780-5601</p></td>
+<td><p><a href="mailto:WST-PA-SK@pwgsc-tpsgc.gc.ca" rel="external">WST-PA-SK@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p><abbr title="Public Works and Government Services Canada">PWGSC</abbr> Acquisitions, <strong>Winnipeg</strong><br/>
+        Requisition Receipt    and Allocation<br/>
+        (By  e-mail or fax only)</p></td>
+<td><p>204-983-7796</p></td>
+<td><p><a href="mailto:WST-PA-WPG@pwgsc-tpsgc.gc.ca" rel="external">WST-PA-WPG@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+<!--<tr>
+    <td><p>PWGSC Acquisitions, Edmonton<br />
+        Requisition Receipt and Allocation<br />
+        (By e-mail or fax only)</p></td>
+    <td><p>780-497-3510</p></td>
+    <td><p><a rel="external" href="mailto:WST-PA-EDM@pwgsc-tpsgc.gc.ca">WST-PA-EDM@pwgsc-tpsgc.gc.ca</a></p></td>
+  </tr>
+<tr>
+    <td><p>PWGSC Acquisitions, Saskatchewan<br />
+        Requisition Receipt and Allocation<br />
+        (By e-mail or fax only)</p></td>
+    <td><p>306-780-5601</p></td>
+    <td><p><a rel="external" href="mailto:WST-PA-SK@pwgsc-tpsgc.gc.ca">WST-PA-SK@pwgsc-tpsgc.gc.ca</a></p></td>
+  </tr>
+<tr>
+    <td><p>PWGSC Acquisitions, Winnipeg<br />
+        Requisition Receipt and Allocation<br />
+        (By e-mail or fax only)</p></td>
+    <td><p>204-983-7796</p></td>
+    <td><p><a rel="external" href="mailto:WST-PA-WPG@pwgsc-tpsgc.gc.ca">WST-PA-WPG@pwgsc-tpsgc.gc.ca</a></p></td>
+  </tr>-->
+<tr>
+<th colspan="3">Pacific  Region</th>
+</tr>
+<tr>
+<td><p>Marine Procurement    including purchase, construction, refit or repair of vessels for boats of all    size, and other associated marine equipment:</p>
+<p><abbr title="Public Works and Government Services Canada">PWGSC</abbr><br/>
+        401 – 1230 Government Street <br/>
+        Victoria, BC      V8W 3X4 </p></td>
+<td><p>250-363-3960</p></td>
+<td><p><a href="mailto:Pac.Marine@pwgsc-tpsgc.gc.ca" rel="external">Pac.Marine@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>Commercially    available goods or services including professional services and R&amp;Ds on    Vancouver Island or in the Yukon      Territory:</p>
+<p><abbr title="Public Works and Government Services Canada">PWGSC</abbr><br/>
+        401 – 1230 Government Street <br/>
+        Victoria, BC      V8W 3X4 </p></td>
+<td><p>250-363-0395</p></td>
+<td><p><a href="mailto:Pac.Vicca@pwgsc-tpsgc.gc.ca" rel="external">Pac.Vicca@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>Commercially    available goods or services including professional services and R&amp;D on    the BC Mainland:</p>
+<p><abbr title="Public Works and Government Services Canada">PWGSC</abbr><br/>
+        641 – 800 Burrard Street<br/>
+        Vancouver, BC      V6Z 2V8 </p></td>
+<td><p>604-775-7548</p></td>
+<td><p><a href="mailto:Pac.Vanca@pwgsc-tpsgc.gc.ca" rel="external">Pac.Vanca@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+<tr>
+<td><p>For requisitions related to Real Property:
+        Contracting (construction, maintenance and 
+        Architectural &amp; engineering services): </p>
+<p><abbr title="Public Works and Government Services Canada">PWGSC</abbr><br/>
+        641 – 800 Burrard Street<br/>
+        Vancouver, BC      V6Z 2V8 </p></td>
+<td><p>604-775-3366</p></td>
+<td><p><a href="mailto:Pac.Rpc@pwgsc-tpsgc.gc.ca" rel="external">Pac.Rpc@pwgsc-tpsgc.gc.ca</a></p></td>
+</tr>
+</tbody></table>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

@@ -1,0 +1,59 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-04cont" name="cont"><br/>
+AP-04 : Politique de paiement à la date d'échéance</a></h1> <div class="region region-site-wide-message">
+<section id="AP-04site-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-04site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-04site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 29 mars 1996</h2>
+<p>La politique de paiement à la date d'échéance (PADE) du Conseil du Trésor a été révisée le 1<sup>er</sup> avril 1996. L'intérêt sur les comptes en souffrance sera le taux d'escompte moyen de la Banque du Canada du mois précédent, majoré de 3 %. De plus, la période de grâce de 15 jours permettant une exonération de l'intérêt sera supprimée. Lorsque le paiement sera effectué après le 45<sup>e</sup> jour, les entrepreneurs recevront automatiquement de l'intérêt. Toutefois, le système de PADE ne peut calculer l'intérêt dû lorsque le paiement est fait après le 30<sup>e</sup> jour mais avant le 45<sup>e</sup> jour. Il n'est pas prévu que des modifications soient apportées au système avant plusieurs années. Donc, les entrepreneurs doivent réclamer le paiement des intérêts selon chaque cas lorsque le paiement a été effectué entre les 30<sup>e </sup>et 45<sup>e</sup> jours.</p>
+<p>Afin de traduire le changement apporté à la PADE le 1<sup>er</sup> avril 1996, les clauses qui suivent doivent être utilisées dans tous les contrats sauf ceux qui utilisent les instructions et conditions uniformisées pour la passation de marchés des services de l'immobilier. Les clauses devant être utilisées dans les instructions et conditions uniformisées pour la passation de marchés des services de l'immobilier vous seront communiquées ultérieurement.</p>
+<p>Pour toutes les invitations à soumissionner lancées, toutes les offres à commandes émises et tous les contrats attribués après le 1<sup>er</sup> avril 1996, veuillez utiliser la clause ci-dessous (Annexe A), intitulée « Intérêt sur les comptes en souffrance ».</p>
+<p>Tout contrat modifié pour d'autres raisons ou renouvelé le ou après le 1<sup>er</sup> avril 1996, doit être modifié pour y inclure la clause ci-dessous, intitulée « Intérêt sur les comptes en souffrance - Modification » (Annexe B).</p>
+<p>Pour toute situation qui requiert actuellement l'utilisation de la clause H0002D, utiliser la clause pertinente ci-dessous en y changeant le terme « entrepreneur » à « transporteur ».</p>
+<h2>Annexe A</h2>
+<h3>H0001D (30/10/96) Intérêt sur les comptes en souffrance</h3>
+<p>1. Où il s'applique, modifier les conditions générales en abrogeant l'article intitulé « Intérêt sur les comptes en souffrance », « Paiement », selon la version incorporée au contrat.</p>
+<p>2. Les définitions suivantes s'appliquent au présent article :</p>
+<ol type="a">
+<li>« date de paiement » : la date que porte le titre négociable tiré par le Receveur général du Canada et remis aux fins de payer une somme exigible;</li>
+<li>« en souffrance » : s'entend de la somme qui demeure impayée le lendemain du jour où elle est devenue exigible;</li>
+<li>« exigible » : s'entend de la somme due par le Canada et exigible par l'entrepreneur aux termes du contrat;</li>
+<li>« taux moyen » : la moyenne arithmétique simple du taux d'escompte en vigueur chaque mardi, à 16 h, heure normale de l'est, pour le mois de calendrier immédiatement antérieur à la date de paiement, et taux d'escompte s'entend du taux d'intérêt fixé de temps en temps par la Banque du Canada qui représente le taux minimum auquel elle consent des avances à court terme aux membres de l'Association canadienne des paiements.</li>
+</ol>
+<p>3. Le Canada verse à l'entrepreneur des intérêts simples, au taux moyen majoré de 3 p. 100 par année, sur toute somme en souffrance, à partir du premier jour où la somme est en souffrance jusqu'au jour qui précède la date de paiement. L'intérêt est payable sans avis de l'entrepreneur pour une somme en souffrance pour plus de quinze jours. Un intérêt est payé pour une somme en souffrance pour moins de quinze jours si l'entrepreneur en fait la demande.</p>
+<p>4. Le Canada ne verse pas d'intérêts en application du présent article lorsqu'il n'est pas responsable du retard à payer l'entrepreneur.</p>
+<p>5. Le Canada ne verse pas d'intérêts sur les paiements anticipés qui sont en souffrance.</p>
+<h2>Annexe B</h2>
+<h3>Intérêt sur les comptes en souffrance - Modification</h3>
+<p>1. Cette clause s'applique aux sommes payées après le 31 mars 1996.</p>
+<p>2. Les définitions suivantes s'appliquent au présent article :</p>
+<ol type="a">
+<li>« date de paiement » : la date que porte le titre négociable tiré par le Receveur général du Canada et remis aux fins de payer une somme exigible;</li>
+<li>« en souffrance » : s'entend de la somme qui demeure impayée le lendemain du jour où elle est devenue exigible;</li>
+<li>« exigible » : s'entend de la somme due par le Canada et exigible par l'entrepreneur aux termes du contrat;</li>
+<li>« taux moyen » : la moyenne arithmétique simple du taux d'escompte en vigueur chaque jour, à 16 h, heure normale de l'est, pour le mois de calendrier immédiatement antérieur à la date de paiement, et taux d'escompte s'entend du taux d'intérêt fixé de temps en temps par la Banque du Canada qui représente le taux minimum auquel elle consent des avances à court terme aux membres de l'Association canadienne des paiements.</li>
+</ol>
+<p>3. Le Canada verse à l'entrepreneur des intérêts simples, au taux moyen majoré de 3 p. 100 par année, sur toute somme en souffrance, à partir du premier jour où la somme est en souffrance jusqu'au jour qui précède la date de paiement. L'intérêt est payable sans avis de l'entrepreneur pour une somme en souffrance pour plus de quinze jours. Un intérêt est payé pour une somme en souffrance pour moins de quinze jours si l'entrepreneur en fait la demande.</p>
+<p>4. Le Canada ne verse pas d'intérêts en application du présent article lorsqu'il n'est pas responsable du retard à payer l'entrepreneur.</p>
+<p>5. Le Canada ne verse pas d'intérêts sur les paiements anticipés qui sont en souffrance.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

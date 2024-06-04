@@ -1,0 +1,49 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h3>Purpose</h3>
+<p>The purpose of this policy notification (PN) 86 is to advise of changes being made to the <em>Supply Manual</em> (Chapter 1, Chapter 5 and Section 7D). These changes remove wording that could result in a misunderstanding about Public Works and Government Services Canada's (PWGSC) accountability for the accuracy of information supplied by clients, and over which PWGSC has no control.</p>
+<p>Refer to <a href="#PN-86annexea">Annex A</a> of this document for changes to the <em>Supply Manual</em>.</p>
+<p>All changes are effective immediately. These changes will be incorporated in an upcoming modification of the <em>Supply Manual</em>.</p>
+<h3>Contact</h3>
+<p><strong>N/A</strong></p>
+<h3 id="PN-86annexea">Annex A - Revisions to the Supply Manual</h3>
+<h4>Chapter 1 - Overview</h4>
+<h5>Public Works and Government Services Canada Procurement</h5>
+<p>1.001 (<span>2007-xx-xx</span>) This Manual describes the supply activities of Public Works and Government Services Canada (PWGSC). It contains relevant laws, regulations, government and departmental policies. It explains why and how the Department carries out its supply activities.</p>
+<p>There is one governing postulate for all PWGSC: Integrity. Subordinate to this are five principles which provide the framework for PWGSC supply activities. Whenever a PWGSC contracting officer must act in a way not clearly set out in this Manual, integrity and its supporting principles provide necessary guidance.</p>
+<h5>Governing Postulate</h5>
+<h6>Integrity</h6>
+<p>PWGSC supply activities will be open, fair and honest. Guiding Principles</p>
+<h6>Client Service</h6>
+<p>PWGSC will make every reasonable effort to satisfy the operational requirements of its clients, while obtaining best value in each procurement process.</p>
+<h6>National Objectives</h6>
+<p>PWGSC supply activities will advance established government national socio-economic policies, within the limits imposed by international trade obligations.</p>
+<h6>Competition</h6>
+<p>PWGSC procurement will be competitive, with specific exceptions.</p>
+<h6>Equal Treatment</h6>
+<p>PWGSC will ensure that all potential suppliers of a particular requirement are subject to the same conditions.</p>
+<h6>Accountability:  deleted</h6>
+<div class="topPage"> <a href="#PN-86tphp" title="Return to Top of Page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Top of Page</a> </div>
+<h4>Chapter 5</h4>
+<h5>Requirements below $25,000</h5>
+<p>5.117 (<span>2007-XX-XX</span>) Requirements below $25,000 (including all applicable taxes) are considered to be low dollar value (LDV) procurements. When identifying an LDV requirement based on the estimated value of the final contract, contracting officers must not split or artificially divide requirements to meet the LDV threshold. (See 6A.001.)</p>
+<p>Contracting officers are to procure LDV requirements below $25,000 (including all applicable taxes) using the most efficient and cost effective approach to select a contractor either by soliciting bids or by directing the requirement to a single supplier when it is not cost effective to call for bids.</p>
+<p>Contracting officers will determine the most appropriate procurement strategy for each LDV requirement in order to obtain best value and ensure the timeliness and cost effectiveness of each contract, while respecting Public Works and Government Services Canada (PWGSC's) Guiding Principles which include client service, competition and equal treatment (See Chapter 1).</p>
+<p>Contracting officers are to use the electronic tools available to them to identify and select a supplier on a competitive or directed basis. Examples of tools include the Supplier Registration Information (SRI) service, Automated Vendor Rotation System (AVRS), SELECT, Government Electronic Tendering Service (GETS), telephone and online trade directories, or any other electronic tool available to identify and select a supplier.</p>
+<p>Contracting officers are to use the appropriate tools in the following order of precedence to select a supplier:</p>
+<ol type="a">
+<li>Departmental electronic tools such as e-Purchasing;</li>
+<li>Existing standing offers or supply arrangements;</li>
+<li>Request for Quotation (via letter, e-mail or facsimile) or a Telephone Buy;</li>
+<li>GETS.</li>
+</ol>
+<p>Contracting officers must document the procurement file with the rationale to support the procurement strategy. Contracting officers must also document the basis on which the estimated value of the contract (i.e. below $25,000) was established.</p>
+<div class="topPage"> <a href="#PN-86tphp" title="Return to Top of Page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Top of Page</a> </div>
+<h4>Chapter 7D - Bid Handling</h4>
+<h5>Client Review</h5>
+<p>7D.395 (<span>2007-xx-xx</span>) Clients are responsible for the evaluation of the technical portion of the bids.  They are normally not provided with price information. When referring bids to the client during the evaluation process, the following cautionary note must be included:</p>
+<p class="indent2">"Bid information is to be divulged only to government officials authorized to participate in this procurement.  None of this information is to be divulged to, or discussed with, the trade."</p>
+<p>It is desirable, particularly in complex procurements, to use a team approach for technical evaluations.  If PWGSC considers it necessary to refer bids to the client for other purposes, the cautionary note above should be used.</p>
+<p><strong>(Deleted in its entirety)</strong> In accordance with the Guiding Principle of Accountability (see 1.001), procurement officers are responsible for ensuring that, when the technical evaluation has been carried out by the client department, the evaluation process was conducted in a fair and transparent manner, in accordance with the criteria set out in the bid solicitation document.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

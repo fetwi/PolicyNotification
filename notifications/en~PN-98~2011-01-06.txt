@@ -1,0 +1,60 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Introduction</h2>
+<p>The purpose of Policy Notification PN-98 is to reiterate the importance of accurate reporting and to clarify the function of the National Security Indicator in the Automated Buyer Environment (ABE) Procurement Summary.</p>
+<h2>Effective Date</h2>
+<p>This PN is effective immediately.</p>
+<h2>Background</h2>
+<p>For each specific document including both original and amendment documents, contracting officers may select either "Yes" (by checking the box) or "No" (by leaving it unchecked) for the National Security Indicator in the ABE Procurement Summary.  When the National Security Indicator is checked, (set to "Yes"), that specific document award will not be posted on either the Contracts Canada Contract History (CSI) database or the Government Electronic Tendering System (GETS).  When the National Security Indicator is left unchecked, (set to "No"), that specific document, if it is an original award, will be posted on GETS and if the document is either an original award or an amendment, will be posted on the Contracts Canada website as well. </p>
+<p><em>(Amendments are never posted on GETS – only original awards.  CSI will post both originals and amendments.)</em></p>
+<p>There are additional circumstances, other than national security, when it is not in the public interest to post the issuance of a contractual document on either GETS or the Contracts Canada website.  Currently, the only way a contracting officer can suppress posting on these websites is by checking the box for the National Security Indicator in the ABE Procurement Summary.</p>
+<p> On the other hand, there are procurements for which a National Security Exception (NSE) was invoked in accordance with paragraph 3.105 of the Supply Manual, but it is still appropriate to post an award notice.  For these procurements, the National Security Indicator must not be checked if an award notice is to be posted.</p>
+<h2>Procedures</h2>
+<p>Refer to <a href="#PN-98anna">Annex A</a> of this document for clarified Supply Manual procedures on the use of the National Security Indicator in the ABE Procurement Summary.  There are no changes to the SACC Manual.</p>
+<h2>Contact</h2>
+<p>Any inquiries are to be addressed to Sylvie Moquin, Policy Analyst, Acquisition Policy and Process Directorate, by phone at 819-956-0717, or by e-mail at: <a href="mailto:sylvie.moquin@tpsgc-pwgsc.gc.ca" rel="external">sylvie.moquin@tpsgc-pwgsc.gc.ca</a></p>
+<h2 id="PN-98anna">Annex A Revision to Supply Manual</h2>
+<h3>7.30	Procurement Reporting and Posting of Award Notices</h3>
+<p>(201X-XX-XX)</p>
+<ol class="double-space" type="a">
+<li>Contracting officers must ensure that procurement reporting is accurate as the information is used in the reports and websites below, which are required to meet legal, policy, corporate and parliamentary needs:<br/>
+<ol type="i">
+<li>award notices on  Government Electronic Tendering Service (GETS);</li>
+<li>annual government-wide  "<a href="http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/con_data/siglist-eng.asp" rel="external">Purchasing  Activity Reports</a>"</li>
+<li>Contracts Canada "<a href="http://csi.contratscanada-contractscanada.gc.ca/index-eng.cfm?af=ZnVzZWFjdGlvbj1pbmZvLnN0YXJ0JmlkPTE=&amp;lang=eng" rel="external">Contract  History"</a> database;</li>
+<li><a href="http://pse5-esd5.ainc-inac.gc.ca/clcaonline/clca_public/Reports/SearchCLCAQuarterlyReport.aspx?lang=eng" rel="external">Comprehensive  Land Claim Agreement contract reporting</a>;</li>
+<li><a href="http://www.ainc-inac.gc.ca/ecd/ab/psa/index-eng.asp" rel="external">Procurement Strategy  for Aboriginal Business reporting</a>; and</li>
+<li>reporting on trade agreement activity.</li>
+</ol>
+</li>
+<li>For all contractual documents issued through the Automated Buyer Environment (ABE), award notices are generated automatically through ABE and posted on GETS (original awards only) and the Contracts Canada website (original awards and amendments) when the contracting officer releases the Procurement Summary, except when the "National Security" indicator is checked.
+<p>However, there may be circumstances other than National Security where posting an award notice could reasonably be expected to compromise government confidences, cause economic disruption, or similarly be contrary to the public interest.  On the other hand, there are procurements for which a National Security Exception (NSE) was approved in accordance with paragraph 3.105 of the Supply Manual, but it is still appropriate to post an award notice.</p>
+<p> Since the only way a contracting officer can suppress the posting of an award notice is by checking the box for the National Security Indicator in the ABE Procurement Summary, <strong>contracting officers must treat this indicator as if it were labelled "Suppress Posting"</strong>. </p>
+<p> For amendment documents in ABE, the value of the National Security Indicator always defaults to "No" (unchecked) regardless of the value on the original document.  If the National Security indicator was "Yes" (checked), on the original award, the contracting officer must remember to choose "Yes" (by checking the box) for subsequent amendments.  If the National Security indicator was "No" (unchecked) on the original award, the contracting officer must leave the box set to "No" (unchecked) for subsequent amendments.  Changing the value of the National Security Indicator on an award amendment can result in awards being posted in error on the Contracts Canada website.</p>
+<p> Therefore, the following procedures apply with regard to the National Security Indicator on the ABE Procurement Summary:</p>
+<ol type="i">
+<li>When an NSE is invoked for a procurement in accordance with paragraph 3.105 of the Supply Manual, and posting an award notice is contrary to the public interest, the contracting officer must check the National Security Indicator box for the original contractual document and for any subsequent amendments, thus no award notices will be posted for any documents. </li>
+<li>When an NSE is invoked in accordance with paragraph 3.105 of the Supply Manual, and posting an award notice is not contrary to public interest, the National Security Indicator must be left unchecked for both original and subsequent amendment documents and the award notice will be posted.</li>
+<li>If an NSE does not apply, but the contracting officer's management has advised that it is not in the public interest to post an award notice, the contracting officer must check the National Security Indicator box for the original contractual document and for any subsequent amendment documents.</li>
+<li>If during the life of a contract, it is decided and approved that the National Security Indicator must be changed (as not being the same as for the original), contracting officers must first contact the Acquisitions Systems Service Desk (ITSB) either by phone at 819-956-3325 or via e-mail at: <a href="mailto:ASSD.BASA@pwgsc-tpsgc.gc.ca" rel="external">ASSD.BASA@pwgsc-tpsgc.gc.ca</a>, to have them modify the indicator from the original contractual documents.  This is a complex process that, if not followed properly, can cause reporting issues, so contracting officers should not attempt to make the change without ITSB's assistance.</li>
+</ol>
+</li>
+<li>For procurements subject to the international trade agreements, an award notice must be posted on GETS within 72 days of contract award.  Although there are no minimum time periods identified for the Agreement on Internal Trade (AIT), the 72-day limit applies for reasons of consistency.</li>
+<li>The following information is also posted on the Contracts Canada Web site when the contracting officer releases the ABE Procurement Summary:<br/>
+<ol type="i">
+<li>contracts for goods and services purchased by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> for <abbr title="Public Works and Government Services Canada">PWGSC</abbr> and other departments and agencies;</li>
+<li>call-ups against DISOs; and</li>
+<li>standing offers (total estimated dollar value) issued by PWGSC.</li>
+</ol>
+</li>
+<li>The following information is not posted on the Contracts Canada Web site:<br/>
+<ol type="i">
+<li>contracts for goods and services purchased by other departments, agencies and Crown corporations;</li>
+<li>contracts for which the National Security Indicator was checked, (set to "Yes"); and</li>
+<li>call-ups against most standing offers made by client departments.</li>
+</ol>
+</li>
+<li>For more information on completing the  Procurement Summary, see the <a href="http://source.pwgsc.gc.ca/branch/acquisitions/files/lbb6300-e.pdf" rel="external">ABE Blue Book (PDF Version 4.4KB)</a>.</li>
+</ol>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

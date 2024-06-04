@@ -1,0 +1,34 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Purpose</h2>
+<p>The purpose of Policy Notification (PN)-65U2 is to inform Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) of changes to the Policy on Fairness Monitoring.</p>
+<h2>Effective date</h2>
+<p>This <abbr title="Policy Notification">PN</abbr> is effective immediately.</p>
+<h2>Overview</h2>
+<p>The departmental <a class="gov" href="http://gcintranet.tpsgc-pwgsc.gc.ca/pm-dp/politique-policy/pfm-pse-eng.html" rel="external">Policy on Fairness Monitoring<img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a> took effect on October 10, 2020, replacing the Public Works and Government Services Canada (PWGSC) Policy on Fairness Monitoring dated June 21, 2012.</p>
+<p>The principal policy changes are as follows:</p>
+<ul>
+<li><strong>Clarification of the conditions that require mandatory assessments:</strong> Mandatory assessments are required for all departmental activities subject to Ministerial or Treasury Board approval and competitive procurements for which the Procurement Complexity Assessment is level 4 or 5; or the Procurement Risk Assessment (PRA) level is medium high or high.</li>
+<li><strong>Change to the approval level for assessments:</strong> The approvals for assessments that recommend fairness monitoring coverage are now approved by the Assistant Deputy Minister of the Departmental Oversight Branch. Approvals for mandatory assessments that recommend not to use a fairness monitor continue to be approved by the Deputy Minister.</li>
+<li><strong>Option to request fairness monitoring when a mandatory assessment is not required:</strong> There is the option to request fairness monitoring for departmental activities that are not subject to a mandatory assessment but where an enhanced assurance of fairness is desired.</li>
+</ul>
+<p>Additionally, the new policy now includes links to the following key tools and resources:</p>
+<ul>
+<li><a class="gov" href="http://publiservice-app.tpsgc.gc.ca/forms/index.cfm?fuseaction=search.details&amp;lang=e&amp;display=9713" rel="external">Fairness Monitoring Coverage Assessment and Recommendation Form <abbr title="Public Works and Government Services Canada">PWGSC</abbr>-<abbr lang="fr" title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> 587<img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a></li>
+<li><a class="gov" href="https://masource-mysource.spac-pspc.gc.ca/eng/services/dgs-dob/se-fm/Pages/default.aspx" rel="external">Fairness Monitoring Program intranet site<img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a></li>
+</ul>
+<h2>Revisions to the Supply Manual</h2>
+<p>In support of <abbr title="Policy Notification">PN</abbr>-65U2, the Supply Manual has been updated. For more details, refer to the Affected Supply Manual sections listed below.</p>
+<h2>Contact information</h2>
+<p>Questions regarding the application of <abbr title="Policy Notification">PN</abbr>-65U2 may be sent to the Fairness Monitoring Program at the following email: <a href="mailto:se-fm@tpsgc-pwgsc.gc.ca" rel="external">se-fm@tpsgc-pwgsc.gc.ca</a>.</p>
+<p>Questions regarding the Supply Manual can be sent to the following email: <a href="mailto:TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Affected Supply Manual sections</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-df57a3d4083a8ab646e32f13ca7e762e">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-3#_3-135">3.135: Fairness monitors</a> </li>
+<li class="views-row views-row-2 views-row-even views-row-last">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-5#_5-25">5.25: Use of fairness monitors</a> </li>
+</ul></div> </div>
+</div>
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

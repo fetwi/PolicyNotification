@@ -1,0 +1,50 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Effective date</h2>
+<p>Policy Notification 11R4 (PN-11R4) is effective immediately.</p>
+<h2>Introduction</h2>
+<p>PN-11R4 updates and enhances PN-11R3 promulgated on October 25, 2012 by: 
+</p><ol type="a">
+<li>providing a fixed period of three months for the completion of Vendor Performance Corrective Measure (VPCM) assessments; </li>
+<li>providing guidance for the consistent application of <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> assessment principles;</li>
+<li>streamlining the governance process for review and approval of <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>s; and</li>
+<li>clarifying the procedures for applying historical information contained in the 
+	Vendor Information Management System (VIM) to <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> applicable cases. 
+</li>
+</ol>
+<p></p>
+<h2>Revisions to the <cite>Supply Manual</cite></h2>
+<p>In support of this <abbr title="Policy Notification">PN</abbr>, changes have been made to the <cite>Supply Manual</cite>. Those sections are listed under Affected <cite>Supply Manual</cite> sections below.</p>
+<h2>Revisions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h2>
+<p>No change has been made to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr>.</p>
+<h2>ELF Documents</h2>
+<p>The two following documents are available in the Electronic Forms (ELF) application:</p>
+<ul>
+<li>Direction for Adding Notes in <abbr title="Vendor Information Management System">VIM</abbr> and Authorization to Proceed with <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment (Form 149) </li>
+<li><abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment (Form 149-1) </li>
+</ul>
+<h2>Contact Information</h2>
+<p>For more information, contact the VPCM co-ordinator by sending an e-mail to: <a href="mailto:CoordPMCRF.VPCMPCoord@tpsgc-pwgsc.gc.ca" rel="external">CoordPMCRF.VPCMPCoord@tpsgc-pwgsc.gc.ca</a>.</p>
+<p><a id="PN-11R4affected_supply_manual_sections"></a></p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Affected Supply Manual sections</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-bd8c7fcfce05d611042ce46c5eb04284">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-8#_8-180">8.180.15.1: Contract administration concerning the Vendor Performance Corrective Measure Policy</a> </li>
+<li class="views-row views-row-2 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-8#_8-180">8.180.15.10: Notice of intent for applying a Vendor Performance Corrective Measure</a> </li>
+<li class="views-row views-row-3 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-8#_8-180">8.180.15.15: Assistant Deputy Minister decision</a> </li>
+<li class="views-row views-row-4 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-8#_8-180">8.180.15.20: Actions pursuant to a decision to apply a Vendor Performance Corrective Measure</a> </li>
+<li class="views-row views-row-5 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-8-annexes#_8-6">8.6.1: Annex: Required procedure for applying a Vendor Performance Corrective Measure (VPCM)</a> </li>
+<li class="views-row views-row-6 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-8-annexes#_8-7">8.7: Annex: Principal elements of the Vendor Performance Corrective Measure Assessment</a> </li>
+<li class="views-row views-row-7 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-8-annexes#_8-9">8.9: Annex: Letter Template for Notice of Intent to Apply a Vendor Performance Corrective Measure</a> </li>
+<li class="views-row views-row-8 views-row-even views-row-last">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-8-annexes#_8-11">8.11: Annex: Letter Template for Decision to Apply Debarment as a Vendor Performance Corrective Measure</a> </li>
+</ul></div> </div>
+</div>
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

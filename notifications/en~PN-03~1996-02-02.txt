@@ -1,0 +1,62 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h3>Treasury Board Approval</h3>
+<p>6.006 (01/01/96) TB approval is required for competitive service contracts with former public servants in receipt of a pension, if the total amount payable under the contract, including any amendments, exceeds $100,000 and non-competitive contracts if the total amount payable under the contract, including any amendments, exceeds $25,000. (See 6.477.)</p>
+<p><em>For non-competitive contracts where the fee component for any individual exceeds $15,000, TB policy stipulates, for all contracting authorities, that the contract must be negotiated and awarded by Public Works and Government Services Canada (PWGSC).</em></p>
+<h3>Former Public Servants</h3>
+<p>6.477 (01/01/96) Care must be taken to ensure that contrats with former public servants in receipt of a pension are able to bear the closest public scrutiny, and reflect fairness in the spending of public funds. (See 6.482 and 7.095).</p>
+<p>"<strong>Former Public Servants</strong>" is defined as:</p>
+<ul>
+<li>an individual;</li>
+<li>an individual who has incorporated;</li>
+<li>a partnership made of Former Public Servants; or</li>
+<li>a sole proprietorship or entity where the affected individual has a major interest in the entity.</li>
+</ul>
+<h3>Retirement Waiting Period</h3>
+<p>6.478 (31/01/96) When the provisions of the Conflict of Interest and Post Employment Code for Public Office Holders and/or the Conflict of Interest and Post Employment Code for the Public Service apply, there is normally a retirement waiting period of one year following the date of retirement before the services of a former public office holder can be used on a government contract.</p>
+<p>The exception is former ministers, for whom the prescribed waiting period is two years.</p>
+<p>The retirement waiting period does not apply to former members of the Canadian Forces or Royal Canadian Mounted Police (RCMP).</p>
+<h3>Treasury Board Approval</h3>
+<p>6.479 (31/01/96) <strong>TB approval is required</strong> if the total value of a contract with a former public servant in receipt of a pension (including amendments) exceeds:</p>
+<ul>
+<li>$100,000 if the contract is competitive; and,</li>
+<li>$25,000 if the contract is non-competitive.</li>
+</ul>
+<p>Amendments to former public servant contracts where the total cumulative value of the contract (including all amendments) exceeds $100,000 (competitive) or $25,000 (non-competitive) are to be aproved by Treasury Board.</p>
+<p>6.480 (31/01/96) All non-competitive contracts with former public servants in receipt of a pension, with a fee component in excess of $15,000 must be processed through and awarded by PWGSC.</p>
+<p>For these non-competitive contracts, <acronym title="Public Works and Government Services Canada">PWGSC</acronym> will seek approval from the minister of the client if the proposed contract is considered sensitive by PWGSC.</p>
+<p>6.481 (01/01/96) For non-competitive contracts with former public servants in receipt of a pension, who have been retired for less than one year, the following fee abatement formula shall be used in negotiations to determine the maximum fee payable, for the remaining days within the one year period.</p>
+<ul class="noBullet">
+<li>D = ((M+F)/260) - (P/260)</li>
+<li>D = maximum payable per diem rate;</li>
+<li>M = maximum salary of the former public servant, updated to the current level, or the estimated salary cost of having the work done by a qualified public servant;</li>
+<li>F = cost of fringe benefits, 30 percent;</li>
+<li>P = total annual pension in pay.</li>
+<li>Example: Maximum salary = $60,000; benefits are 30 percent of salary;</li>
+<li>Pension after 35 years' service = $42,000 ($60,000 x 0.7);</li>
+<li><strong>per diem</strong> = (60,000 + 18,000)/260 - 42,000/260 = $138.46</li>
+<li>No exceptions to the application of the formula or to the maximum rate allowed shall be permitted without prior TB approval.</li>
+</ul>
+<h3>Workforce Reduction Programs</h3>
+<p>6.482 (31/01/96) In addition to the requirements of the contract fee abatment policy for former public servants in receipt of a pension (see 6.481), the amount payable for professional fees when contracting with former public servants, whether they are in receipt of a pension or not, members of the Canadian Forces, and members of the RCMP, who have received a lump sum payment for employment termination under a workforce reduction program, has been limited during the period for which the lump sum payment applies.</p>
+<p>This restriction on the amount payable for professional fees applies to service contracts awarded to former public servants in receipt of a lump sum payment for employment termination under a workforce reduction program, either competitively or non-competitively. It does not apply if the contract is not specifically for the services of the former public servant.</p>
+<p>For the purpose of the policy relating to Workforce Reduction Programs, the definition of former public servants included in 6.477 includes former members of the Canadian Forces and former members of the RCMP.</p>
+<p>For purposes of this policy, the lump sum payment period is defined as the period measured in weeks of salary, for which payment has been made to facilitate the transition to retirement or to other employment for public servants whose employment has been terminated because of the down-sizing initiatives required to adjust government spending. The lump sum payment period does not include the period of severance pay, which is measured in a like manner.</p>
+<p>SACC Manual clauses A9103T or A9104T, and A9105C must be included in all bid solicitations and contracts for services, which may involve Former Public Servants, to ensure compliance with the various public service workforce reduction programs (see 6.482). These clauses require the contractor to make available to the Crown, any details of the status of a particular individual with respect to cash out amounts and time equivalents, pension payment details, and status of ownership, so that the contract fee abatement policies (see 6.481 and 6.483) may be applied, if applicable. In other words, individual contractors or employees of firms bidding on contracts with the Crown must be prepared to sign a waiver of privacy with respect to this information.</p>
+<p>6.483 (01/01/96) For contracts with former public servants in receipt of a lump sum payment, whether contracts are awarded competitively or non-competitively, the contractor cannot receive, in total, fees in excess of $5,000 (including GST), whether applicable to one or more contracts, <strong>during the period of the lump sum payment</strong>. The contract fee otherwise payable for any contract awarded to an affected former public servant must be abated in total, once the $5,000 limit has been reached, during the contractor's lump sum payment period.</p>
+<p>Reasonable overhead expenses such as travel costs are excluded from the $5,000 limit but, because of the sensitivity of these contracts, these costs should be strictly controlled. Departments and agencies <strong>must obtain Treasury Board approval</strong> for all contract situations where affected former public servants might receive fees totalling more than $5,000 during their lump sum payment period.</p>
+<p>6.484 (01/01/96) The abatement of the contract fee during the lump sum payment period applies to all contracts with former public servants who have received a lump sum departure or retirement incentive payment, including former members of the Armed Forces and the Royal Canadian Mounted Police.</p>
+<p>6.485 (01/01/96) <strong>For contracts awarded non-competitively</strong>, the application of the current requirement for the one year contract fee abatement policy (see 6.481) is postponed to have it begin <strong>at the conclusion of the lump sum payment period</strong>. This requirement applies only to former public servants in receipt of a pension payable pursuant to the <em>Public Service Superannuation Act</em> as indexed by the <em>Supplementary Retirement Benefits Act</em>. The exemption to the current contract fee abatement policy for former members of the Armed Forces and the RCMP is continued. (See 6.478)</p>
+<p>6.486 (01/01/96) Where a Former Public Servant works as an employee of, or is a sub-contractor to, an established firm contracting with the Government, the contract fee restrictions (6.482) do not apply.</p>
+<h3>Former Public Servants</h3>
+<p>7.095 (01/01/96) Except when General Conditions DSS-MAS 9601, 9601-10, 9624, and 9676 have been used, SACC Manual clause K2200D must be included in all bid solicitations and contracts, to ensure compliance with the Conflict of Interest and Post-Employment Code for Public Office Holders.</p>
+<p>SACC Manual clauses A9103T or A9104T, and A9105C must be included in all bid solicitations and contracts for services, which may involve Former Public Servants, to ensure compliance with the various public service workforce reduction programs. (See 6.482.)</p>
+<p>"Former Public Servants" is defined as:</p>
+<ul>
+<li>an individual;</li>
+<li>an individual who has incorporated;</li>
+<li>a partnership made of Former Public Servants; or</li>
+<li>a sole proprietorship or entity where the affected individual has a major interested in the entity.</li>
+</ul>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

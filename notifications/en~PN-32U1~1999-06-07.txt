@@ -1,0 +1,105 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<p>This policy notification update refers to previous policy notifications on the Procurement Information Form (PN-32 and PN-32U) and Revised Contract Entry and Amendment Authorities (PN-35).</p>
+<p><strong>Question 1:</strong></p>
+<p>Should the figure indicated in the "Aggregate Amendment Value" box of the PIF be used to establish amendment approval authority or, should it be the sum of all changes to the original contract value (including executed pre-approved options or negative amendment amounts)?</p>
+<p><strong>Answer 1:</strong></p>
+<p>"Aggregate Amendment Value" for the PIF is the total of all <strong>executed </strong>amendments including positive, negative and the proposed amendment as well as executed options and set asides.</p>
+<p>This figure shows the Minister the exact dollar amount that has been committed to a project and what has been spent without having to go back to the contract file.</p>
+<p>The title of the Aggregate Amendment Value box in the PIF will be revised to make clear what variables are to be used in the calculation.</p>
+<p>The definition of the aggregate amendment value for approval purposes remains the same.</p>
+<p><strong>Question 2:</strong></p>
+<p>How does this impact the figure to be used for the "Total Revised Value" box of the PIF?</p>
+<p><strong>Answer 2:</strong></p>
+<p>The "Total Revised Value" includes the contract award value plus all previously executed amendments <i>(positive and negative)</i> as well as the proposed amendment<i>.</i></p>
+<p><strong>Question 3:</strong></p>
+<p>Is a PIF required for procurements that require either the Minister's approval or the approval of the Treasury Board?</p>
+<p><strong>Answer 3:</strong></p>
+<p>A PIF is necessary for <strong>procurements</strong> that require either the Minister's approval or Treasury Board's approval.</p>
+<p>PIFs for <strong>amendments</strong></p>
+<p>are only required when both the dollar and the percentage thresholds are exceeded. PIFs are not required for negative or nil value amendments or for amendments that were approved by the Minister.</p>
+<p>Requiring a PIF to inform the Minister on plans and awards signals the Minister's office that the milestones laid out in the submission were taking place as planned. Also, if the department were exercising its "not pre-approved" amendment authority with respect to a procurement already approved by the Minister or TB, the Minister having been involved in the procurement desires to be kept informed.</p>
+<p><strong>Question 4:</strong></p>
+<p>What is the difference between "pre-approved" and "previously approved" amendments"?</p>
+<p><strong>Answer 4:</strong></p>
+<p>Previously approved amendments are amendments that have been approved before the currently proposed amendment and that have already been issued against the contract. Pre-approved amendments, on the other hand, are amendments for which advance approval was obtained but not yet exercised.</p>
+<p><strong>Question 5:</strong></p>
+<p>Is there a difference in treatment between amendments issued under "exercising an option" and for amendments issued pursuant to a "set aside"?</p>
+<p><strong>Answer 5:</strong></p>
+<p>Amendments that were previously approved include (but are not limited to): amendments issued to exercise an option for additional quantities or years that were included in the original solicitation and approved as part of the original contract approval submission; and, amendments which use amounts set-aside for anticipated, but not yet clearly defined, changes (e.g. work arisings, design changes, unscheduled work) which were approved as part of the original contract approval submission. Both amendment types are to be coded under Document Type Code 22 for Pre-Approved Amendments.</p>
+<p>Exercising an "option" is a contractual option. It is an "option" that has been defined, that was detailed in tender documents, that was priced (either specifically or by formula) in bids received, and that was specifically mentioned as an "option" in the resulting contract. The decision to exercise an option is largely an administrative one that requires only the approval of the appropriate contract signing authority. Exercising a set-aside requires approval by the appropriate non-competitive contract entry approval authority not to exceed the lower of the Director or regional approval authority.</p>
+<p>Amendments that do not fit within the description of the original approval or go beyond the scope or value of the approval should be treated (and coded) as normal amendments and will need to be approved at the appropriate level as determined by the Minister's delegation of amendment authorities.</p>
+<p><strong>Question 6:</strong></p>
+<p>Who can approve amendments that exceed both the Treasury Board limit for amendments set for other government departments and 10% of the originally approved value?</p>
+<p><strong>Answer 6:</strong></p>
+<p>Only the Minister can approve amendments that exceed both the Treasury Board limit for amendments set for other government departments and 10% of the originally approved value.</p>
+<p><strong>Question 7:</strong></p>
+<p>When the aggregate amendment limit has been exceeded, is it necessary to seek the Minister's approval for every amendment thereafter, no matter what the requested amount is?</p>
+<p><strong>Answer 7:</strong></p>
+<p>Once an approval level has been reached, it will never return to a lower level of approval authority; therefore, it is correct to say that the Minister's approval is required for every positive amendment after the aggregate amendment limit has been exceeded, no matter the dollar value.</p>
+<p><strong>NOTE</strong>: For amendments that require and receive TB approval, the aggregate amendment value is set back to zero.</p>
+<p><strong>Question 8:</strong></p>
+<p>What is the new Repair &amp; Overhaul authority?</p>
+<p><strong>Answer 8:</strong></p>
+<p>Treasury Board has approved a new $50M Repair and Overhaul Authority to the Minister; however, the authority remains with the Minister. It has not yet been delegated downwards. Until such time, anything over $25M but less than $50M must go to the Minister for approval. A PIF must be completed for all plans and awards that exceed 25% of the exceptional authority.</p>
+<p><strong>Question 9:</strong></p>
+<p>Under what circumstances should the Benefit Driven Procurement (BDP) portion of the PIF be used?</p>
+<p><strong>Answer 9:</strong></p>
+<p>If procurement officers have not addressed BDP in the procurement plan, they should not complete the BDP section of the PIF as the PIF information on BDP is derived from the procurement plan.</p>
+<p><strong>Question 10:</strong></p>
+<p>What is the procedure for naming an electronic PIF document when you have more than one contract against a requisition and more than one amendment against a contract?</p>
+<p><strong>Answer 10:</strong></p>
+<p>This situation caused some problems in the past, but is no longer an issue provided the file being used is the Lotus Word Pro Smartmaster which will allow a file name to be as long as it needs to be.</p>
+<p>Building on the procedures set out in the Supply Manual, (Amendment 99-1) the following naming convention has been developed to address this issue (please note: each block of information should be separated with a hyphen):</p>
+<p><strong>First block</strong> - "M" for amendment<br/>
+<strong>Second block</strong>- the number of the amendment (i.e. 2 or 10 or 25, etc.) <br/>
+<strong>Third block</strong> - sector or regional ID <br/>
+<strong>Fourth and fifth block</strong> - the last 5 characters of the requisition number (or tender ID if the requisition number is unavailable) <br/>
+<strong>Sixth block</strong> - contract serial number (i.e. 1, 2, 3, etc., used to capture multiple contracts on the same file).</p>
+<p>Sample: M-99-AMES-8-BAOK-2</p>
+<p><strong>Question 11:</strong></p>
+<p>What are "negative amendments" and do you include them when calculating the aggregate amendment value?</p>
+<p><strong>Answer 11:</strong></p>
+<p>Negative amendments are amendments that reduce the value of the original contract. A negative amendment is not included in calculating the aggregate amendment value. Nor is it included when combining several types of changes under one amendment. However, Treasury Board includes negative amendments in its calculations.</p>
+<p><strong>Question 12:</strong></p>
+<p>What is meant by the term "original procurement approval value"?</p>
+<p><strong>Answer 12:</strong></p>
+<p>It is the total approved procurement value including all pre-approved amendments (contract + options + set asides + tax).</p>
+<p><strong>Question 13:</strong></p>
+<p>When determining the aggregate amendment value for approval purposes, are normal amendments and pre-approved amendments included in the calculation?</p>
+<p><strong>Answer 13:</strong></p>
+<p>No. For approval purposes, the aggregate amendment value does not combine normal amendment totals with pre-approved amendment totals. They are separate calculations.</p>
+<p><strong>Question 14:</strong></p>
+<p>Why were the approval authority levels for personnel below the ADM set at only 50% of the dollar thresholds <strong>specified in Annex A of PN-35</strong>?</p>
+<p><strong>Answer 14:</strong></p>
+<p>Along with the introduction of the new delegations of departmental authority in July of 1998, came a decrease in approval authority for amendments involving elements of ratification. This decision to decrease approval authority levels was made by the ADM in an effort to encourage better front end planning and discourage retroactivity. The ADM and the Minister retain their full approval authority for all amendments, including ratifications.</p>
+<p>Please note that this 50% reduction for ratifications applies to <strong>all</strong> dollar thresholds. Even a calculation using the greater of 10% produces a dollar value that is subject to the 50% reduction. The following formula might prove useful when determining approval limits for ratifications:</p>
+<p>(<strong>X</strong> × .1) ÷ 2 = <strong>Y</strong></p>
+<p>(X equals the original procurement value and Y equals the approval limit under a ratification)</p>
+<p>For example, the Director's approval limit for an amendment under ratification would be the greater of $100K or 10% of the original to a maximum of $250K.</p>
+<p><strong>Question 15:</strong></p>
+<p>Are there any additional considerations if your proposed amendment requires a higher level of approval?</p>
+<p><strong>Answer 15:</strong></p>
+<p>Any proposed contract amendments which require a higher level of approval must receive that approval <strong>before</strong> they are entered into and <strong>before</strong> any work is begun. For instance, ratification would be required if the work that was authorized stemmed from a significant change to the scope of work that was commenced before amending the contract. The argument being made that the change to the scope of work was significant enough to potentially constitute the basis for retendering the requirement.</p>
+<p><strong>For Example:</strong></p>
+<p>Competitive goods contract with total procurement value of $500,000 (Formal procurement plan)</p>
+<ul>
+<li>original contract: $ 380,000 (Pre-approved)</li>
+<li>previous amendment (not pre-approved): $ 97,000 (Chief)</li>
+<li>previous amendment (pre-approved): $ 100,000 (Contracting Officer)</li>
+<li>proposed amendment (ratification): $ 50,000 (ADM approval)</li>
+<li>total aggregate of positive amendments: $ 147,000</li>
+</ul>
+<p>Authority for approving amendments involving ratification is 50% of the dollar threshold specified under the Competitive Aggregate of Amendments in Annex A of PN-35 or $100K. Total aggregate of positive amendments is $147K; therefore, ADM approval is required.</p>
+<p><strong>Question 16:</strong></p>
+<p>This policy seems to be making the process to approve retroactive amendments more difficult, is this the case?</p>
+<p><strong>Answer 16:</strong></p>
+<p>In most cases under the new delegations, ratifications have become unnecessary and really quite unacceptable as a viable business practice. Many times in the past, ratifications have come about more as the result of inadequate upfront planning than unforeseen circumstances. It is expected that this policy change will result in more amendments either receiving pre-approval or approval through the utilization of the Just In Time Approval Process (JITAP) as soon as the requirement becomes known. Executing one of these two scenarios would effectively eliminate any element of retroactivity.</p>
+<p><strong>Question 17:</strong></p>
+<p>PN-35, Revised Contract Entry and Amendment Approval Authorities, introduced a new level of review and approval in the contracting authority of Regional Directors. Please explain.</p>
+<p><strong>Answer 17:</strong></p>
+<p>While it is true that Regional Directors once enjoyed contract entry authority for up to $2M and contract amendment authority for up to $300K (with no requirement for outside review), their new authorities are much higher (e.g. $10M for electronic bids).</p>
+<p>With that increased authority comes increased responsibility and a new requirement that every document requiring their approval undergo a legal and a cost analyst review. The net effect is that for contracts between $1 - 2M, Regional Directors must now obtain outside review, which has, periodically, caused some difficulties.</p>
+<p>Supply Policy Directorate is aware of these resulting delays and will continue to monitor the situation.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

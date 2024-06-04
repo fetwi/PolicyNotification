@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Annex B</h2>
+<h3>REMARKS:</h3>
+<p>1. Procurement Officers shall use the latest table (Eastern Canada) or (Western Canada) approved by the Director, Marine Directorate, to prepare the list of shipyard/shiprepair facilities, as required under 3.0 of this clause, where the Work could potentially be undertaken. Procurement Officers are to include from the table the applicable vessel transfer costs for each shipyard/shiprepair facility in the list based on the vessel's home port location and based on whether the Work is under a manned refit. Where the table does not provide a specific home port for the vessel or the name of a potential shipyard/shiprepair facility where Work could potentially be undertaken, Procurement Officers must contact the Director, Marine Directorate (Place du Portage Phase III - 6C2, Phone: 819-956-0664/ Fax: 819-956-0897) to obtain the necessary data.</p>
+<p>2. Procurement Officers are to enter the number of calendar days in section 2 (b).</p>
+<h4>A0240T VESSEL TRANSFER COSTS</h4>
+<p>1. The evaluation price shall include the cost for transferring the vessel from its home port to the shipyard/shiprepair facility where the Work will be undertaken and the cost of transferring the vessel to its home port following completion of the Work, in accordance with the following:</p>
+<p>2. (a) The Bidder shall enter below the location of the shipyard/shiprepair facility where it proposes to undertake the Work together with the applicable vessel transfer cost from the list provided under 3.0 of this clause:</p>
+<h5>BIDDER TO ENTER:</h5>
+<p><strong>Proposed shipyard/shiprepair facility: _____</strong></p>
+<p><strong>Applicable vessel transfer cost: ______</strong></p>
+<p>(b) Should the list in 3.0 of this clause not provide the shipyard/shiprepair location where the bidder intends to undertake the Work, then the bidder must advise the Contracting Authority, in writing, no later than <strong>_____</strong> days <strong>(Procurement Officer to enter number of calendar days in this fill-in and delete this statement)</strong> prior to the bid closing date, of its proposed location for undertaking the Work. The Contracting Authority will acknowledge to the bidder, in writing, no later than <strong>_____</strong> days <strong>(Procurement Officer to enter number of calendar days in this fill-in and delete this statement)</strong> prior to the bid closing date, the location of the shipyard/shiprepair and confirm the applicable vessel transfer cost.</p>
+<p><strong>A proposal that specifies a location for undertaking the Work which is not in the list under 3.0 of this clause, and for which a notification in writing has not been received by the Contracting Officer no later than _____ days</strong> (Procurement Officer to enter number of calendar days in this fill-in and delete this statement)<strong> prior to the bid closing date, shall be deemed to be non-responsive.</strong></p>
+<p><strong>3.0 List of shipyard/shiprepair facilities and applicable vessel transfer costs:</strong></p>
+<p>Note 1: Transfer costs in the case of vessels transferred using a Government delivery crew include the fuel cost at the vessel's most economical speed of transit and crew transportation costs for the delivery crew based on the location of the vessel's homeport and the shipyard/shiprepair facility. Crew transportation costs do not include any members of the delivery crew who remain at the shipyard/shiprepair facility in order to discharge project responsibilities related to the vessel being transferred.</p>
+<p>Note 2: Transfer costs in the case of vessels transferred unmanned by either commercial towing, railway, highway or other suitable means of transportation shall be (i) included as part of the bidder's price proposal in the case where the bidder is responsible for the transfer, or (ii) identified as the applicable vessel transfer cost, as given in the list below, in the case where government is responsible for the transfer.</p>
+<p><strong>(Procurement Officers are to enter the list of shipyard/shiprepair facilities where the Work could potentially be undertaken together with the applicable vessel transfer costs based on the latest approved table issued by the Marine Directorate and DELETE THIS STATEMENT)</strong></p>
+<p>Shipyard/shiprepair facility<br/>
+				_________________________</p>
+<p>Applicable vessel transfer cost<br/>
+				_________________________</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

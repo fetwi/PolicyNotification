@@ -1,0 +1,35 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Objet</h2>
+<p>L’avis relatif à AchatsCanada (AAC)-003 a pour but d’informer les acheteurs de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> les conditions générales suivantes sont maintenant disponibles :</p>
+<ul>
+<li>Conditions générales (CG) 2030ACB pour les besoins plus complexes de biens dans AchatsCanada (SAP Ariba); et</li>
+<li>Conditions générales (CG) 2035ACB pour les besoins plus complexes de services dans AchatsCanada (SAP Ariba).</li>
+</ul>
+<h2>Date d’entrée en vigueur</h2>
+<p><abbr title="avis relatif à AchatsCanada">AAC</abbr>-003 entre en vigueur immédiatement.</p>
+<h2>Application</h2>
+<ul>
+<li>Les <abbr title="Conditions générales">CG</abbr> 2030ACB et <abbr title="Conditions générales">CG</abbr> 2035ACB sont destinées à l’usage dans AchatsCanada (SAP Ariba).</li>
+<li>Tous les renvois, y compris les hyperliens, vers le Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> Conditions générales (CG) 2030 : besoins plus complexes de biens et Conditions générales (CG) 2035 : besoins plus complexes de services doivent être supprimés et remplacés par une référence aux <abbr title="Conditions générales">CG</abbr> 2030ACB et <abbr title="Conditions générales">CG</abbr> 2035ACB respectivement.</li>
+</ul>
+<h2>Modifications au Guide des approvisionnements</h2>
+<p>Il n’y a pas de modifications au Guide des approvisionnements.</p>
+<h2>Modifications apportées au Guide des clauses et conditions uniformisées d’achat (CCUA)</h2>
+<p>Les <abbr title="Conditions générales">CG</abbr> 2030ACB et <abbr title="Conditions générales">CG</abbr> 2035ACB sont maintenant disponibles sur Achatsetventes.gc.ca. Pour plus de détails, veuillez consulter les items du Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> visés ci-dessous.</p>
+<h2>Révisions apportées aux modèles uniformisés d’approvisionnement</h2>
+<p>Il n’y a pas de modifications aux modèles uniformisés d’approvisionnement. </p>
+<h2>Coordonnées</h2>
+<p>Pour obtenir de l’aide sur l’assemblage des documents de demande de soumissions dans AchatsCanada (SAP Ariba), les acheteurs de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> sont invités à communiquer avec le <a href="https://canadabuys.canada.ca/fr/soutien" rel="external">centre de service d’AchatsCanada</a>. </p>
+<p>Les demandes de renseignements au sujet de l’avis relatif à <abbr title="avis relatif à AchatsCanada">AAC</abbr>-003 et à AchatsCanada (SAP Ariba) peuvent être envoyées par courriel au centre de service d’AchatsCanada : <a href="https://canadabuys.canada.ca/fr/soutien/envoyez-nous-un-courriel" rel="external">Courriel | AchatsCanada</a>.</p>
+<p>Toute question relative au Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> peut être envoyée par courriel à l’adresse suivante : <a href="mailto:TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-47136d8c093a83425285ee7c468cff9b">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2030ACB">3.2030ACB: AchatsCanadaBuys Conditions générales : besoins plus complexes de biens</a> </li>
+<li class="views-row views-row-2 views-row-even views-row-last">
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2035ACB">3.2035ACB: AchatsCanadaBuys Conditions générales :  besoins plus complexes de services</a> </li>
+</ul></div> </div>
+</div>
+</div>

@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<p>Bill S-25 amends the Defence Production Act, R.S.C. 1985, c.D-1 (DPA) by adding two new parts to the Act which would establish a new regime for regulating access to certain controlled military goods and/or related technical data, or goods and/or related technical data with a military application. To meet this requirement, the Controlled Goods Registration Program (CGRP), a federal government program, was established under the DPA and the Controlled Goods Regulations. It requires all "persons" examining, possessing, or transferring controlled goods, regardless of their country of origin, to another person to be registered or exempted from registration. The CGRP is administered by the Canadian and International Industrial Security Directorate (CIISD), PWGSC. The Web site address for the CGRP may be found at: <a href="http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp" rel="external">http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp</a></p>
+<p>Controlled goods are listed below and in the Export Control List posted on the Department of Foreign Affairs and International Trade Web site at: <a href="http://www.dfait-maeci.gc.ca/~eicb/export/contente.htm" rel="external">http://www.dfait-maeci.gc.ca/~eicb/export/contente.htm</a></p>
+<ul>
+<li>Group 2: goods listed in item 2001 that are prohibited firearms, as defined in paragraph (c) of the definition of "prohibited firearms" in sub-section 84(1) of   the criminal code;</li>
+<li>Group 2: goods listed in item 2003 that are ammunition with a calibre greater than 12.7mm;</li>
+<li>Group 2: goods listed in items 2002, 2004 to 2022;</li>
+<li>Group 5: goods listed in item 5504; and</li>
+<li>Group 6: all goods listed</li>
+</ul>
+<p>Effective Date: The Controlled Goods Regulations are effective April 30, 2001.</p>
+<p>Controlled goods as well as Technical Specifications/Data on controlled goods cannot be released to persons/firms that are not registered under the CGRP. The CGRP web site identifies registered firms. It is the client department's responsibility to identify within any requisition that there are controlled goods aspects. Technical Data packages, and Statements of Work if they provided details on the controlled good, shall not be released to a third party unless they are registered or exempted under the CGRP. Similar provisions apply in the event of sales of controlled goods to persons/firms.</p>
+<p>The following clause must be included in the Notice of Proposed Purchase (NPP), ACANs and all bid solicitation documents:</p>
+<p>"The Controlled Goods Registration Program established under Bill S-25 to the Defence Production Act applies to this procurement. In order to obtain the applicable Technical Data Package (and/or Statement Of Work) the potential bidder must be registered under the Controlled Goods Registration Program. The technical data package may be requested from ________________ by registered firms. Details on how to registered are available at:  <a href="http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp" rel="external">http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp</a></p>
+<p>For contracts already in place, it must be recognized, however, that no new technical data nor controlled goods can be provided after April 29, 2001 unless the persons/firms are registered under the CGRP. As a result some firms may be required to register in the program if they are to continue to receive, for example, a controlled good for repair and overhaul or any new technical data. This may lead to delays, which may need to be accepted, in the contractual requirements unless the firm is already registered.</p>
+<p>Contractors have been advised of the CGRP. The requirement to Register may lead to requests to extend the bidding period perhaps by a month or two and such requests must be discussed with the client department. If operational requirements permit, bid extensions should not be unreasonably withheld. Extensions would be mandatory in sole-source situations.</p>
+<p>In summary, contracting officers must:</p>
+<ol type="a">
+<li>review all requisitions received to determine if the requirement is for   controlled goods and/or related technical data;</li>
+<li>advise the industry in the NPP and the Bid Solicitation document that the CGRP applies to the procurement;</li>
+<li>release bid sets which do not contain technical data on controlled goods via MERX;</li>
+<li>verify that the technical data package will be available upon request from potential bidders made to the client department or alternatively to the contracting officer; and</li>
+<li>verify prior to contract award that the successful firm is registered.</li>
+</ol>
+<p>There are several issues that need to be addressed in further detail and they will be expanded upon in an update to this PN when more information is available. These include contracting for consultants who may have access to technical data on controlled goods and to ascertain what action may be necessary for controlled goods required by departments other than DND.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

@@ -1,0 +1,407 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-09cont" name="cont"><br/>
+AP-09 : Affichage des plans d'achat et des états<br/>
+					sommaires des contrats</a></h1> <div class="region region-site-wide-message">
+<section id="AP-09site-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-09site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-09site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 5 juillet 1996</h2>
+<p>La distribution, à la haute direction, des formulaires<br/>
+					de PACP, des plans d'achat et des états sommaires des contrats<br/>
+					pour des marchés dont la valeur est supérieur à 1 million de dollars est une condition prévue par le Ministre<br/>
+					dans le processus de délégation des pouvoirs d'approbation<br/>
+					des contrats.</p>
+<p>En plus de suivre le processus de distribution normal prescrit<br/>
+					par le <em>Guide des approvisionnements</em>, (procédures<br/>
+					6.656 et 6.667) et les procédures complémentaires<br/>
+					internes, il faut distribuer les formulaires de PACP, les plans<br/>
+					d'achat et les états sommaires des contrats dont la valeur<br/>
+					est supérieure à 1 million de dollars aux personnes<br/>
+					suivantes :</p>
+<h3>Plans d'achat et états sommaires des contrats :</h3>
+<p>Alan Williams, (SMA, DGSA)<br/>
+					Mary-Lou Devine, (SMA, DGSA)<br/>
+					Catherine McCarthy, (SMA, DGSA)<br/>
+					Ellen Beall, (avocate générale principale)<br/>
+					Darlene Kulka, (Services juridiques)<br/>
+					Steven Turner, (Vérification et examen)<br/>
+					Gian Brown, (Vérification et examen)<br/>
+					Directeur général régional / de secteur</p>
+<h3>PACP :</h3>
+<p>Alan Williams, (SMA, DGSA)<br/>
+					Mary-Lou Devine, (SMA, DGSA)<br/>
+					Catherine McCarthy, (SMA, DGSA)<br/>
+					Conseiller juridique régional / de secteur<br/>
+					Directeur général régional / de secteur<br/>
+					Steven Turner, (Vérification et examen)<br/>
+					Gian Brown, (Vérification et examen)</p>
+<p>D'autres destinataires (directeur, CQC de secteur ou de région)<br/>
+					peuvent s'ajouter au besoin.</p>
+<p>Vous trouverez ci-joint une liste des conseillers juridiques par<br/>
+					secteur d'activité ou division.</p>
+<p>La condition du Ministre concenant la délégation<br/>
+					des pouvoirs liés aux contrats dont la valeur est supérieure à 1 million de dollars comprend une disposition permettant de retarder <strong>l'adjudication<br/>
+					de contrats</strong> pour une période de 48 heures après<br/>
+					la distribution des avis à la haute direction.</p>
+<p>Cette disposition a pour but d'accorder suffisamment de temps<br/>
+					aux personnes qui doivent recevoir les formulaires de PAPC et les états<br/>
+					sommaires des contrats pour examiner le document d'approbation<br/>
+					et formuler des commentaires si elles le jugent nécessaire<br/>
+					avant de conclure le marché.</p>
+<p>La condition qui prévoit que l'on peut retarder de 48 heures<br/>
+					une démarche d'achat n'a pas de lien avec la planification<br/>
+					des achats. Par conséquent, on peut lancer des invitations à soumissioner<br/>
+					aussitôt que le plan d'achat ou le formulaire de PAPC est<br/>
+					approuvé.</p>
+<p>Les formulaires de PAPC doivent être présentés à nouveau<br/>
+					lorsqu'un changement important a été apporté au<br/>
+					plan initial approuvé.</p>
+<h3>Document de référence :</h3>
+<p>Guide des approvisionnements :<br/>
+				Processus de planification et d'approbation préalable des<br/>
+					contrats - 6.655 - 6.658<br/>
+					Processus relatif au plan d'achat formel - 6.662 - 6.668 </p>
+<h2>Annexe 6.1 (e)</h2>
+<table class="basic" summary="Annexe 6.1 (e)">
+<caption>
+					Travaux Publics et Services Gouvernementaux Canada Services Juridiques Place du Portage</caption>
+<tbody><tr>
+<th scope="col">Nom</th>
+<th scope="col">Titre</th>
+<th scope="col">Division</th>
+<th scope="col">Téléphone</th>
+</tr>
+<tr>
+<td>Ellen Beall</td>
+<td>avocate générale principale</td>
+<td>15A2</td>
+<td>956-0993</td>
+</tr>
+<tr>
+<td>Joan Remsu</td>
+<td>avocate</td>
+<td>Europe</td>
+<td>956-8855</td>
+</tr>
+<tr>
+<td>André Gagnon</td>
+<td>avocat principal</td>
+<td> </td>
+<td>956-4723</td>
+</tr>
+<tr>
+<td>Vicki St. Cyr</td>
+<td>avocate</td>
+<td> </td>
+<td>956-0989</td>
+</tr>
+<tr>
+<td><strong>Darlene Kulka</strong></td>
+<td>gestionnaire</td>
+<td> </td>
+<td>956-0992</td>
+</tr>
+<tr>
+<td><strong>Suzanne Séguin</strong></td>
+<td>secrétaire</td>
+<td> </td>
+<td>956-1018</td>
+</tr>
+<tr>
+<td>Christiane Paradis</td>
+<td>secrétaire</td>
+<td> </td>
+<td>956-0996</td>
+</tr>
+<tr>
+<td>Lyne St-Germain</td>
+<td>préposée aux dossiers</td>
+<td> </td>
+<td>956-9598</td>
+</tr>
+<tr>
+<td>Norma Egan</td>
+<td>commis</td>
+<td> </td>
+<td>956-0998</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Stephen Conway</td>
+<td>avocat</td>
+<td> </td>
+<td>956-1226</td>
+</tr>
+<tr>
+<td>Michel Bélec</td>
+<td>avocat</td>
+<td>4C1</td>
+<td>956-0594</td>
+</tr>
+<tr>
+<td>Michael Jolicoeur</td>
+<td>avocat principal </td>
+<td> </td>
+<td>956-0988</td>
+</tr>
+<tr>
+<td><strong>Gerri McGrath</strong></td>
+<td>secrétaire</td>
+<td> </td>
+<td>956-1225</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Alan Macdonald</td>
+<td>avocat</td>
+<td>Ontario</td>
+<td>956-0599</td>
+</tr>
+<tr>
+<td><strong>Susan Bedard</strong></td>
+<td>secrétaire</td>
+<td>6C1 SAME </td>
+<td>956-5622</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Sharon Zakuta</td>
+<td>avocat</td>
+<td>6C1</td>
+<td>XXX-XXXX</td>
+</tr>
+<tr>
+<td>G.Miville-Deschênes</td>
+<td>avocat principal</td>
+<td> </td>
+<td>XXX-XXXX</td>
+</tr>
+<tr>
+<td>David Holmes</td>
+<td>avocat</td>
+<td> </td>
+<td>XXX-XXXX</td>
+</tr>
+<tr>
+<td><strong>Louise Lemay</strong></td>
+<td>secrétaire</td>
+<td> </td>
+<td>XXX-XXXX</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Tim Turner</td>
+<td>avocat</td>
+<td>Ouest</td>
+<td>956-0189</td>
+</tr>
+<tr>
+<td>Roger Reens</td>
+<td>avocat</td>
+<td>Pacifique</td>
+<td>956-0188</td>
+</tr>
+<tr>
+<td><strong>Maria Ranieri</strong></td>
+<td>secrétaire</td>
+<td>6C1</td>
+<td>956-0190</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Louis-Charles Sirois</td>
+<td>avocat</td>
+<td>Québec</td>
+<td>956-4060</td>
+</tr>
+<tr>
+<td>Rob Kurtenbach</td>
+<td>avocat</td>
+<td>Atlantique</td>
+<td>956-4059</td>
+</tr>
+<tr>
+<td><strong>Nicole Desjardins</strong></td>
+<td>secrétaire</td>
+<td>8B3</td>
+<td>956-4058</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Paule Côté-Lambert</td>
+<td>avocate</td>
+<td>12C1</td>
+<td>956-1786</td>
+</tr>
+<tr>
+<td>Frank Oakes</td>
+<td>avocat</td>
+<td>SSISP</td>
+<td>956-1784</td>
+</tr>
+<tr>
+<td><strong>Lise Dumas</strong></td>
+<td>secrétaire</td>
+<td> </td>
+<td>956-1787</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Theresa Siok</td>
+<td>avocate</td>
+<td>GCC</td>
+<td>997-1909</td>
+</tr>
+<tr>
+<td><strong>Lise Tremblay</strong></td>
+<td>secrétaire</td>
+<td> </td>
+<td>997-1908</td>
+</tr>
+</tbody></table>
+<dl>
+<dt><strong>SAME</strong></dt>
+<dd>Secteur des systèmes aérospatiaux, maritimes<br/>
+						et électroniques - 6C1</dd>
+<dt><strong>PICSN</strong></dt>
+<dd>Secteur des produits industriels et commerciaux et des services<br/>
+						de normalisation - 8B3</dd>
+<dt><strong>SSISP</strong></dt>
+<dd>Secteur des sciences, de l'informatique et des services professionnels<br/>
+						- 4C1 &amp; 12C1</dd>
+<dt><strong>GCC</strong></dt>
+<dd>Groupe Communications Canada - 45, Sacré-Coeur</dd>
+</dl>
+<table class="basic" summary="Numéros de télécopieur et Numéros d'imprimante">
+<tbody><tr>
+<th colspan="2" scope="col">Numéros de télécopieur</th>
+<th colspan="3" scope="col">Numéros  							d'imprimante</th>
+</tr>
+<tr>
+<th scope="col">Pièce</th>
+<th scope="col">Télécopieur</th>
+<th scope="col">Imprimante</th>
+<th scope="col">Pièce</th>
+<th scope="col">Specifications</th>
+</tr>
+<tr>
+<td>15A2</td>
+<td>953-3974</td>
+<td>GC-1</td>
+<td>15A2</td>
+<td>À côté du  							bureau de Darlene</td>
+</tr>
+<tr>
+<td>8B3</td>
+<td>956-9249</td>
+<td>GC-2</td>
+<td>15A2</td>
+<td> À côté du  							bureau de Suzanne</td>
+</tr>
+<tr>
+<td>4C1</td>
+<td>956-6372</td>
+<td>GC-3</td>
+<td>15A2</td>
+<td>Au bureau de Norma</td>
+</tr>
+<tr>
+<td>6C1</td>
+<td>956-0014</td>
+<td>GC-4</td>
+<td>8B3</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>GC-5</td>
+<td>6C1</td>
+<td> </td>
+</tr>
+<tr>
+<td>12C1</td>
+<td>956-5165</td>
+<td>GC-6</td>
+<td>12C1</td>
+<td> </td>
+</tr>
+<tr>
+<td>Imprimerie</td>
+<td>956-7190</td>
+<td>GC-7</td>
+<td>6C1</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>GC-8</td>
+<td>6C1</td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>GC-9</td>
+<td>4C1</td>
+<td> </td>
+</tr>
+</tbody></table>
+<p><strong>Salle du courrier- 956-3210 Salle de conférence - 956-0994</strong></p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

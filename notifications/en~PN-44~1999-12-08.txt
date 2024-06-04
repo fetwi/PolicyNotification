@@ -1,0 +1,192 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<p>The utilization of differing financial management systems by many of our clients has resulted in a number of difficulties in the handling of requisitions by <acronym title="Public Works and Government Services Canada">PWGSC</acronym> for the client and their suppliers. In an effort to address this issue, a new indicator - the Client Reference Number (CRN) - has been created.</p>
+<p>This change has also necessitated a number of modifications to existing SACC clauses concerning invoicing. Effective immediately, the clauses found in <strong>Annex A</strong> of this policy notification supersede the clauses that appear in any previous release of the SACC Manual.</p>
+<p>Each of the modified clauses below are to be inserted as full text, as required, in the preparation of procurements documents until they have been legally incorporated into the next release of the SACC Manual, scheduled for June, 2000.</p>
+<p>Index of Invoicing Clauses:</p>
+<ul class="noBullet">
+<li>TRA-95 13 Payment F</li>
+<li>H3019T Invoicing Instructions R</li>
+<li>H3020T Invoicing Instructions F</li>
+<li>H3021D Invoicing Instructions R</li>
+<li>H5001D Invoicing Instructions F</li>
+<li>H5002D Invoices F</li>
+<li>K0036D Standard Instructions and Conditions, DSS-MAS 9403 R</li>
+<li>K0037D Standing Offers, DSS-MAS 9403-6 R</li>
+<li>P5015C Invoicing Instructions F</li>
+<li>Y4000D Shipping Instructions R</li>
+<li>(Contact: David Craigie 956-5024)</li>
+</ul>
+<h2>ANNEX A</h2>
+<p><strong>TRA-95 (xx/xx/xx) 13 Payment</strong></p>
+<p><strong>Text:</strong></p>
+<p>1. For all payments claimed, the Contractor shall submit an invoice to the Contracting Authority. The invoice shall contain the following information: Contractor's name and address, Contract number, requisition(s) for services number(s), <strong><em>Client Reference Number (CRN)</em></strong> volume of services provided (words/hours), rate, total amount claimed and Goods and Services Tax (GST) or the Harmonized Sales Tax (HST), as appropriate.</p>
+<p>2. The GST and HST shall not be included in the Contract Price for the Work. Where applicable, the GST or HST will be included in all invoices and payment claims, and will be covered by Canada. The Contractor shall agree to return to Revenue Canada any amount it receives from Canada in GST or HST payments, under the Contract.</p>
+<p>3. Notwithstanding any other provision of the Contract, no payment shall be made to the Contractor unless and until:</p>
+<ol type="a">
+<li>an invoice, inspection notes, certificates and any other documents required by the Contract have been submitted in accordance with the terms of the Contract and the instructions of the Minister;</li>
+<li>all such documents have been verified by the Minister;</li>
+<li>with respect to all parts of the Work in respect of which payment is claimed, the Contractor, where required to do so, establishes to the satisfaction of the Minister that such parts of the Work will be free from all claims, liens, attachments, charges or encumbrances; and</li>
+<li>in the case of payment in respect of finished work, the finished work has been inspected by Canada and accepted as being in accordance with the Contract.</li>
+</ol>
+<p>4. The Minister shall notify the Contractor, within fifteen (15) days of receipt of an invoice, of any inadequacy of the invoice or of the supporting documentation, and where such notice is given within that period the date for payment of the amount invoiced shall be postponed until the Contractor remedies the inadequacy to the satisfaction of the Minister.</p>
+<p>5. The amount claimed by the Contractor under the Contract may be audited by Canada before or after payment of that amount has been made to the Contractor. Any payment made prior to the inspection shall be considered as an interim payment only, and that amount shall be amended accordingly, on the basis of the findings of the audit. Where an overpayment has been made, that amount shall be immediately repaid to Canada by the Contractor.</p>
+<hr/>
+<p><strong>H3019T (xx/xx/xx) Invoicing Instructions</strong></p>
+<p><strong>Remarks</strong>: Notwithstanding what has been incorporated by reference, use the following clause as full text in all contracts until modifications are legally incorporated into the SACC manual.</p>
+<p><strong>Text:</strong></p>
+<p>1. Invoices must be submitted on the Contractor's own form and must be prepared to show:</p>
+<ol type="a">
+<li>the date;</li>
+<li>name and address of the CONSIGNEE;</li>
+<li>Contract Number, Serial Number and Financial Code(s);</li>
+<li>device type, manufacturer, and serial number.</li>
+<li><strong><em>Client Reference Number (CRN)</em></strong></li>
+</ol>
+<p>2. Mailing addresses for the invoices will be defined in the resulting Contract.</p>
+<hr/>
+<p><strong>H3020T (xx/xx/xx) Invoicing Instructions</strong></p>
+<p><strong>Remarks</strong>:<strong> THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS</strong>. The following clause is for maintenance contracts invoiced monthly.</p>
+<p><strong>Text:</strong></p>
+<p>1. Payment will only be made on receipt of satisfactory invoices duly supported by specified release documents and other documents called for under any resulting Contract.</p>
+<p>2. An invoice must be submitted monthly, on the Contractor's own form and must be prepared to show:</p>
+<ol type="a">
+<li>company name and address</li>
+<li>File Number, Contract Serial Number, and Financial Code</li>
+<li>destination</li>
+<li>hourly rate, number of hours, labour cost</li>
+<li>cost of materials</li>
+<li>Goods and Services Tax</li>
+<li>Harmonized Sales Tax</li>
+<li><strong><em>Client Reference Number (CRN)</em></strong></li>
+</ol>
+<p>3. The monthly invoice will be processed for payment only if:</p>
+<ol type="a">
+<li>all the maintenance service call reports applicable for that month as described under Article "_____" of the Statement of Work (SOW) have been received by the Technical Authority; and</li>
+<li>that the monthly maintenance reports as described in Articles "_____" and "_____" of the SOW are attached to the monthly invoice.</li>
+</ol>
+<p>4. The original and two (2) copies of the invoices with the monthly reports shall be sent to:</p>
+<p>Attention: ______</p>
+<p>5. One (1) copy of the invoice accompanied with a copy of the monthly reports shall be sent to:</p>
+<p>Department of Public Works and Government Services</p>
+<p>Attention: _______</p>
+<hr/>
+<p><strong>H3021D (xx/xx/xx) Invoicing Instructions</strong></p>
+<p><strong>Remarks:</strong> Notwithstanding what has been incorporated by reference, use the following clause as full text in all contracts until modifications are legally incorporated into the SACC manual.</p>
+<p>Use the following clause to provide invoicing instructions for requirements with a single payment on delivery and acceptance.</p>
+<p><strong>Text:</strong></p>
+<p>1. Payment will only be made on receipt of a satisfactory invoice duly supported by specified release documents and other documents called for under the Contract.</p>
+<p>2. Invoices must be submitted on the Contractor's own invoice form and must be prepared to show:</p>
+<ol type="a">
+<li>the date;</li>
+<li>name and address of the CONSIGNEE</li>
+<li>item/reference number, deliverable and/or description of work</li>
+<li>contract serial number and financial codes</li>
+<li>the amount invoiced (exclusive of the Goods and Services Tax [GST] or Harmonized Sales Tax [HST] as appropriate) and the amount of GST or HST, as appropriate, shown separately</li>
+<li><strong><em>Client Reference Number (CRN)</em></strong></li>
+</ol>
+<hr/>
+<p><strong>H5001D (xx/xx/xx) Invoicing Instructions</strong></p>
+<p><strong>Remarks</strong>: <strong>THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong></p>
+<p><strong>Text:</strong></p>
+<p>1. The Contractor shall submit invoices on its own form, and shall include the following information: the date, name and address of the consignee(s), item number, quantity, part number, reference number and description, contract file<strong><em>, serial numbers and Client Reference Number (CRN).</em></strong>Invoices will be distributed as follows:</p>
+<ol type="a">
+<li>The original and one copy to - Consignee</li>
+<li>One (1) copy to:<br/>
+						Department of Public Works and Government Services<br/>
+						(Division) ______<br/>
+						(Address) ______<br/>
+						(City/prov.) ______<br/>
+						(Postal/Code) ______<br/>
+						Attention: ______</li>
+<li>One (1) copy to:<br/>
+						National Defence Headquarters<br/>
+						MGen George R. Pearkes Building<br/>
+						101 Colonel By Drive<br/>
+						Ottawa, ON K1A 0K2<br/>
+						Attention: _____</li>
+</ol>
+<p>2. Canada will only make payment upon receipt of a satisfactory invoice duly supported by specified release documents and any other documents called for under the Contract.</p>
+<p>3. The Contractor shall not submit an invoice prior to shipment of the items to which it relates.</p>
+<hr/>
+<p><strong>H5002D (xx/xx/xx) Invoices</strong></p>
+<p><strong>Remarks</strong>: <strong>THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS</strong>. Use this clause for Technical Investigation and Engineering Support (TIES) requirements.</p>
+<p><strong>Text:</strong></p>
+<p>1. The Contractor shall submit monthly invoices for tasks authorized under the Contract. Each invoice shall clearly show the following:</p>
+<ol type="a">
+<li>Contract Serial Number;</li>
+<li>Contract price;</li>
+<li>task authorization number;</li>
+<li>engineering or technical support classification;</li>
+<li>rate of payment;</li>
+<li>number of hours applicable to the task;</li>
+<li>cost of materials related to the task;</li>
+<li>travel expenses related to the task;<strong><em>and</em></strong></li>
+<li><strong><em>Client Reference Number (CRN).</em></strong></li>
+</ol>
+<p>2. The original and two (2) copies of each invoice together with attachments, shall be forwarded to:</p>
+<ul class="noBullet">
+<li>National Defence Headquarters<br/>
+						MGen George R. Pearkes Building<br/>
+						101 Colonel By Drive<br/>
+						Ottawa ON K1A 0K2<br/>
+						Attention: _____</li>
+</ul>
+<p>3. One copy each invoice, together with attachments, shall be forwarded to the Contracting Authority.</p>
+<hr/>
+<p><strong>K0036D (xx/xx/xx) Standard Instructions and Conditions, DSS-MAS 9403</strong></p>
+<p><strong>Remarks</strong>: Notwithstanding what has been incorporated by reference, use the following clause as full text in all contracts until modifications are legally incorporated into the SACC manual.</p>
+<p><strong>Text:</strong></p>
+<p>1. DSS-MAS 9403, Standard Instructions and Conditions, with the following modifications, shall apply to and form part of this Contract.</p>
+<p>2.<strong>B. CONDITIONS (APPLICABLE TO RESULTING CONTRACT),</strong></p>
+<p>"<strong>8. Bill of Lading</strong> is hereby replaced by the following:</p>
+<p>The transportation bill of lading must accompany the original invoice, except for "collect" shipments (if and when stipulated), in which event it shall accompany the shipment; in addition, a packing slip must accompany each shipment, showing item, quantity, part or reference numbers, description of supplies and contract reference numbers, <strong><em>including the Client Reference Number</em></strong>. If the supplies have been inspected at the Contractor's plant, the signed inspection voucher must be attached to the packing slip normally enclosed in the packing note envelope.</p>
+<p><strong>9. Invoice Submission</strong>is hereby replaced by the following:</p>
+<p>Invoices shall be submitted in the name of the Contractor and shall not be submitted prior to the delivery of supplies or the performance of the services. They must show the name and address of the consignee, together with date, method of shipment, the case numbers if applicable, item, quantity, unit of issue, unit price, additional charges if applicable, and the Goods and Services Tax or the Harmonized Sales Tax if applicable, part or reference numbers, description of supplies as shown in the Contract, Contract number, requisition number, <strong><em>Client Reference Number (CRN)</em></strong> and financial code(s). Separate invoices must be submitted for each shipment and must apply to one contract only. Each invoice must indicate whether it covers partial or final shipment."</p>
+<hr/>
+<p><strong>K0037D (xx/xx/xx) Standing Offers, DSS-MAS 9403-6</strong></p>
+<p><strong>Remarks</strong>: Notwithstanding what has been incorporated by reference, use the following clause as full text in all contracts until modifications are legally incorporated into the SACC manual.</p>
+<p><strong>Text:</strong></p>
+<p> 1. DSS-MAS 9403-6, Standing Offers, with the following modifications, shall apply to and form part of this Contract.</p>
+<p>2. <strong>C. CONDITIONS</strong></p>
+<p><strong>4. Invoices</strong> is hereby replaced by the following:</p>
+<p>"Invoices must be submitted in the name of the Offeror and are not to be submitted prior to the delivery of supplies or the performance of the services. They must show the name and address of the Consignee, together with date, method of shipment, the case numbers if applicable, item, quantity, unit of issue, unit price, additional charges if applicable, and the Goods and Services Tax or the Harmonized Sales Tax if applicable, part or reference numbers, description of supplies as shown in the Standing Offer, Standing Offer number, requisition number, <strong><em>Client Reference Number (CRN)</em></strong> and financial code(s). Separate invoices must be submitted for each shipment and must apply to one call-up only. Each invoice must indicate whether it covers partial or final shipment."</p>
+<p><strong>5. Bills of Lading</strong> is hereby replaced by the following:</p>
+<p>"The transportation bill of lading must accompany the original invoice, except for "collect" shipments (if and when allowed), in which event it shall accompany the shipment; in addition, a packing slip must accompany each shipment, be clearly visible, and show item, quantity, part or reference numbers, description of supplies and contract reference numbers <strong><em>including the Client Reference Number (CRN).</em></strong> If the supplies have been inspected at the Offeror's plant, the signed inspection voucher must be attached to the packing slip normally enclosed in the packing note envelope."</p>
+<hr/>
+<p><strong>P5015C (xx/xx/xx) Invoicing Instructions</strong></p>
+<p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS</strong>.</p>
+<p><strong>Text:</strong></p>
+<p>1. Two (2) separate invoices are to be submitted in triplicate as follows:</p>
+<ol type="a">
+<li>Mail first invoice to:<br/>
+						Canadian Government Publishing<br/>
+						Communications Coordination Services Branch<br/>
+						350 Albert, 4th floor<br/>
+						Ottawa, Ontario<br/>
+						K1A 0S5<br/>
+						Requisition No. and Financial Code _____<br/>
+<strong><em>Client Reference Number ________</em></strong><br/>
+						For a firm lot amount of $ _____
+					</li>
+<li>Mail second invoice to:<br/>
+						Department: _____<br/>
+						Division: _____<br/>
+						Address: _____<br/>
+						City/Prov.: _____<br/>
+						Postal Code: _____<br/>
+						Requisition No. and Financial Code _____<br/>
+<strong><em>Client Reference Number ________</em></strong></li>
+</ol>
+<p>2. Applies to all goods delivered to all Consignees (including the quantity for delivery to the Canadian Government Publishing, Communications Coordination Services Branch [CGP,CCSB]) itemized in accordance with the Contract pricing schedule herein. Show the reduction off the total invoice cost for the amount payable by CGP, CCSB under (a) above.</p>
+<p>3. All invoices, shipping and packing slips must show the applicable requisition number, <strong><em>client reference number,</em></strong> and financial code as indicated above.</p>
+<hr/>
+<p><strong>Y4000D (xx/xx/xx) Shipping Instructions</strong></p>
+<p><strong>Remarks</strong>: Notwithstanding what has been incorporated by reference, include in all bid solicitations and contracts placed on behalf of CIDA when shipment is by sea (FAS Port or FOB Plant) or by air (FOB Airport or FOB Plant).</p>
+<p><strong>Text:</strong></p>
+<p>1. The Overseas Traffic Section, Commercial and Consumer Products Directorate, is responsible for issuance of shipping instructions and transportation overseas.</p>
+<p>Shipments shall not be effected until shipping instructions are received from the Overseas Traffic Section and these will not be issued to the contractor until after documents 3(a) are received.</p>
+<p>2. All documents are to reflect the financial code, Contract Number and Consignee Number. Invoices must reflect the Contract Item Number, <strong><em>Client Reference Number (CRN), </em></strong>description of the commodity and values. The packing list must detail the contents packed in each carton, box, etc., together with the individual dimensions, cubic displacement and gross weight per carton, box, etc.</p>
+<p>3. Documents are to be submitted covering each shipment and are to state whether shipment is partial or complete.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

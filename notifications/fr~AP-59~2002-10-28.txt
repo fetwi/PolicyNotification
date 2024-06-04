@@ -1,0 +1,668 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-59cont" name="cont"><br/>
+AP-59 Offres à commandes</a></h1> <div class="region region-site-wide-message">
+<section id="AP-59site-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-59site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-59site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE DE SORTIE : 28 octobre 2002</h2>
+<p>Pour faire suite à une suggestion du Conseil de la politique<br/>
+					des approvisionnements, un groupe de travail dirigé par<br/>
+					le gestionnaire de la Direction de la politique opérationnelle<br/>
+					a été mis sur pied en mars 2001, afin d'examiner<br/>
+					et de réviser la politique actuelle en matière d'offres à commandes.<br/>
+					Ce groupe de travail, constitué de représentants<br/>
+					des divers secteurs et régions, a reçu le mandat<br/>
+					de se pencher sur les quatre questions particulières suivantes :</p>
+<ul>
+<li>Fournir des instructions claires au personnel de l'approvisionnement<br/>
+						relativement à l'entrée de données, pour<br/>
+						s'assurer de l'établissement approprié de la valeur<br/>
+						des offres à commandes (la valeur NIL ne doit être<br/>
+						utilisée que pour les offres à commandes individuelles<br/>
+						et ministérielles [OCIM]);</li>
+<li>Fournir des procédures d'évaluation et de passation<br/>
+						de commandes subséquentes claires dans les documents d'appels<br/>
+						d'offres;</li>
+<li>Pour qu'une offre à commandes soit considérée<br/>
+						concurrentielle, il doit être évident qu'il y a<br/>
+						un ou plusieurs soumissionnaires gagnants;</li>
+<li>Ne pas reproduire une offre à commandes existante.</li>
+</ul>
+<p>En plus d'examiner ces quatre questions, la politique révisée<br/>
+					(voir <a href="#AP-59annex-a">l'annexe A</a>) tient compte de plusieurs<br/>
+					commentaires et préoccupations soulevés par les membres<br/>
+					du groupe de travail.</p>
+<p> La politique révisée entre en vigueur immédiatement<br/>
+					et fera partie des modifications apportées à la prochaine<br/>
+					version du <em>Guide des approvisionnements</em>, qui doit être<br/>
+					publiée en décembre 2002.</p>
+<hr/>
+<h3><a id="AP-59annex-a" name="annex-a"></a>Annexe A</h3>
+<h4>GUIDE DES APPROVISIONNEMENTS</h4>
+<h4>CHAPITRE 5 - STRATÉGIE DE SÉLECTION DES FOURNISSEURS</h4>
+<p><strong>Offres à commandes </strong></p>
+<p>5.153 (13/12/02) Une offre à commandes (OC) n'est pas un<br/>
+					contrat. Il s'agit d'une offre faite par un offrant (un fournisseur<br/>
+					ou un prestataire de services) pour la fourniture de certains biens<br/>
+					et/ou la prestation de certains services à l'intention de<br/>
+					clients, à des prix ou selon une base de tarification préétablis,<br/>
+					de même que d'après des modalités définies,<br/>
+					que un ou plusieurs utilisateurs autorisés peuvent accepter<br/>
+					au nom du Canada pendant une durée précise. Un contrat<br/>
+					distinct intervient chaque fois qu'on passe une commande subséquente<br/>
+					pour la fourniture de biens et/ou la prestation de services dans<br/>
+					le cadre d'une offre à commandes. Lorsqu'on passe une commande<br/>
+					subséquente, le Canada s'engage sans condition à accepter<br/>
+					l'offre du fournisseur pour la fourniture des biens et/ou la prestation<br/>
+					des services décrits dans l'OC, dans la mesure précisée.<br/>
+					La responsabilité du Canada est limitée à la<br/>
+					valeur réelle des commandes subséquentes passées<br/>
+					par les utilisateurs autorisés en bonne et due forme représentant<br/>
+					le Canada, dans le délai précisé dans l'offre à commandes.</p>
+<p> Avant de lancer une opération d'achat, l'agent de négociation<br/>
+					des contrats doit se demander s'il existe un instrument d'achat<br/>
+					comme une offre à commandes pour acheter les biens et/ou<br/>
+					s'assurer les services faisant l'objet de la demande d'achat. Dans<br/>
+					l'affirmative, il doit faire savoir au client que cet instrument<br/>
+					d'achat existe et lui indiquer si cet instrument est adapté à l'opération<br/>
+					d'achat. Si on peut y faire appel, on doit encourager le client à le<br/>
+					faire. </p>
+<p><strong>Méthodes d'approvisionnement</strong></p>
+<p>5.154 (13/12/02) On <strong>fait</strong> généralement<br/>
+					appel à la méthode d'approvisionnement de l'OC lorsque : </p>
+<ol type="a">
+<li>un ou plusieurs clients commandent à répétition<br/>
+						la même série de biens ou de services ou les deux à la<br/>
+						fois, et on ne connaît pas à l'avance la demande<br/>
+						réelle (à savoir la quantité, ainsi que<br/>
+						la date et le lieu de livraison); </li>
+<li>les conditions suivantes sont réunies :<br/>
+<ol type="i">
+<li>les biens, les services ou les deux à la fois sont<br/>
+								bien définis; </li>
+<li>on peut établir des prix ou une base de tarification à l'avance,<br/>
+								et on n'a pas à les négocier et on n'a pas<br/>
+								non plus l'intention de le faire à la date à laquelle<br/>
+								on passe la commande subséquente; </li>
+<li>les biens, les services ou les deux à la fois sont<br/>
+								facilement disponibles et doivent faire l'objet de commandes<br/>
+								subséquentes lorsque les besoins sont exprimés; </li>
+<li>à la date de la commande subséquente, on<br/>
+								n'a pas à renégocier les modalités et<br/>
+								on n'a pas l'intention de le faire non plus. </li>
+</ol>
+</li>
+</ol>
+<p>5.155 (13/12/02) On ne <strong>peut pas</strong> faire appel à la<br/>
+					méthode d'approvisionnement de l'OC lorsque : </p>
+<ol type="a">
+<li>les prix, la base de tarification ou les modalités ne<br/>
+						sont pas définis ou peuvent changer n'importe quand, à la<br/>
+						discrétion du fournisseur; </li>
+<li>les utilisateurs autorisés des offres à commandes<br/>
+						ont l'intention de renégocier les prix et la base de tarification<br/>
+						préétablis ou les modalités prédéfinies<br/>
+						et l'OC; </li>
+<li>on a l'intention de lancer un appel d'offres chaque fois qu'on<br/>
+						a besoin de biens et/ou de services. </li>
+</ol>
+<p> Dans ces cas, on doit recourir à une autre méthode<br/>
+					d'approvisionnement, par exemple l'arrangement en matière<br/>
+					d'approvisionnement (AA). (Cf. 5.165 et Section 9J).</p>
+<p><strong>Approximation donnée de bonne foi</strong></p>
+<p>5.157 (13/12/02) La quantité de biens et/ou le niveau de<br/>
+					service précisés dans la Demande d'offre à commandes<br/>
+					(DOC) et les OC qui en découlent ne constituent qu'une approximation<br/>
+					des besoins exprimés de bonne foi par le Canada à l'intention<br/>
+					des offrants. </p>
+<p><strong>Politiques, règlements et procédures du<br/>
+					gouvernement, dont les accords commerciaux</strong></p>
+<p>5.159 (13/12/02) L'ensemble des politiques, des règlements<br/>
+					et des procédures du gouvernement en ce qui a trait à l'attribution<br/>
+					des marchés, y compris les procédures prévues<br/>
+					dans les accords commerciaux, s'appliquent à la méthode<br/>
+					d'approvisionnement de l'offre à commandes. </p>
+<p> On doit se servir de la dépense totale estimative des<br/>
+					besoins (pour l'ensemble du projet ou du programme) qu'on propose<br/>
+					de satisfaire grâce à la méthode d'approvisionnement<br/>
+					de l'offre à commandes, en tenant compte de la TPS ou de<br/>
+					la TVH, pour savoir si on doit appliquer les procédures<br/>
+					prévues dans un accord commercial dont le gouvernement du<br/>
+					Canada est signataire. </p>
+<p> Lorsque les exigences administratives d'un accord commercial<br/>
+					s'appliquent à la méthode d'approvisionnement de<br/>
+					l'offre à commandes, l'ensemble du processus d'achat, y<br/>
+					compris toutes les offres à commandes dont on autorise l'utilisation<br/>
+					et les commandes subséquentes passées, fait partie<br/>
+					du champ de compétence du Tribunal canadien du commerce<br/>
+					extérieur (TCCE). </p>
+<p><strong>Pouvoirs d'approbation et de signature</strong></p>
+<p>5.162 (13/12/02) Les pouvoirs d'approbation, de signature et de<br/>
+					modification sont définis dans les annexes 6.1 et 6.2 du<br/>
+					présent guide. </p>
+<p> On doit recourir à la procédure de la PAPC ou au<br/>
+					plan d'achat formel pour demander l'approbation préalable<br/>
+					permettant de faire appel à la méthode d'approvisionnement<br/>
+					de l'OC d'après la valeur totale estimative des besoins<br/>
+					(soit l'ensemble du projet ou du programme), TPS ou TVH comprise,<br/>
+					que l'on propose de satisfaire grâce à cette méthode<br/>
+					d'approvisionnement. Si toutefois on a l'intention d'émettre<br/>
+					plusieurs OC pour donner suite à une DOC, on doit utiliser<br/>
+					la somme de la valeur totale estimative de toutes les offres à commandes<br/>
+					qui en découlent, TPS ou TVH comprise, pour obtenir l'approbation<br/>
+					de la PAPC ou du plan d'achat formel. </p>
+<p> Lorsqu'on autorise l'utilisation de plusieurs OC, on doit déterminer<br/>
+					le niveau des pouvoirs de signature d'après la valeur totale<br/>
+					estimative de chacune des différentes OC, et non en fonction<br/>
+					de la valeur totale estimative des besoins. </p>
+<p><strong>Limites du Conseil du Trésor pour la passation<br/>
+					des marchés</strong></p>
+<p>5.164 (13/12/02) Une commande subséquente passée<br/>
+					dans le cadre d'une OC constitue un contrat distinct, auquel s'appliquent<br/>
+					les limites fixées par le Conseil du Trésor pour<br/>
+					l'attribution des marchés. Les limites fixées pour<br/>
+					TPSGC lorsqu'il passe des commandes subséquentes pour les<br/>
+					clients sont définies dans la section 6A. Pour la plupart<br/>
+					des clients, les limites fixées pour leurs différentes<br/>
+					commandes subséquentes (en tenant compte de la TPS ou de<br/>
+					la TVH) correspondent généralement aux limites normales<br/>
+					fixées par le Conseil du Trésor pour l'attribution<br/>
+					des marchés, à savoir : </p>
+<dl>
+<dt><strong>BIENS ET SERVICES DE CONSTRUCTION</strong></dt>
+<dd>Marchés concurrentiels - 400,000</dd>
+<dd>Marchés non-concurrentiels - 40,000</dd>
+<dt><strong>SERVICES, SAUF L'ARCHITECTURE ET LE GÉNIE </strong></dt>
+<dd>Marchés concurrentiels - 400,000</dd>
+<dd>Marchés non-concurrentiels - 100,000</dd>
+<dt><strong>SERVICES D'ARCHITECTURE ET DE GÉNIE </strong></dt>
+<dd>Marchés concurrentiels - 40,000</dd>
+<dd>Marchés non-concurrentiels - 40,000</dd>
+<dt><strong>SERVICES DE TRANSPORTS CANADA</strong></dt>
+<dd>Marchés concurrentiels - 2 millions de dollars</dd>
+<dd>Marchés non-concurrentiels - 100,000</dd>
+</dl>
+<p><strong>REMARQUE : </strong><em>pour prendre connaissance<br/>
+					de la répartition détaillée des limites<br/>
+					fixées par le Conseil du Trésor pour l'attribution<br/>
+					des marchés, veuillez consulter la Politique sur les marchés<br/>
+					du Conseil du Trésor, Appendice C, Directive du Conseil<br/>
+					du Trésor sur les marchés, partie I, Pouvoirs<br/>
+					généraux de passation des marchés et partie II,<br/>
+					Pouvoirs spéciaux de passation des marchés (<a href="http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/Contracting/contractingpol_c_f.html" rel="external">http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/Contracting/contractingpol_c_f.html</a>).</em> </p>
+<p><strong>Limites des commandes subséquentes de TPSGC</strong></p>
+<p>5.166 (13/12/02) TPSGC est habilité à imposer d'autres<br/>
+					limites pour la valeur des différentes commandes subséquentes. </p>
+<p><strong>Approbation du Conseil du Trésor </strong></p>
+<p>5.168 (13/12/02) Il faut demander l'approbation du Conseil du<br/>
+					Trésor lorsque les différentes commandes subséquentes<br/>
+					dépassent les limites d'attribution des marchés précisées<br/>
+					dans la Politique sur les marchés du CT. </p>
+<p><strong>Limites des dépenses </strong></p>
+<p>5.170 (13/12/02) Il est facultatif d'inclure une clause de limitation<br/>
+					des dépenses dans les offres à commandes. L'agent<br/>
+					de négociation des contrats déterminera si il y a<br/>
+					lieu d'inclure une limite selon le type d'offre à commandes<br/>
+					(principale ou individuelle), de même que le degré de<br/>
+					contrôle sur les dépenses totales et les besoins du<br/>
+					client.</p>
+<p> On peut appliquer la clause M4506D (Limitation financière). </p>
+<p><strong>Codage dans l'Environnement automatisé de l'acheteur<br/>
+					(EAA) </strong></p>
+<p>5.172 (13/12/02) Bien que la limite des dépenses dans les<br/>
+					offres à commandes soit optionnelle, l'agent de négociation<br/>
+					des contrats doit enregistrer la dépense ou la valeur estimative<br/>
+					de toutes les offres à commandes dans le Résumé d'approvisionnement<br/>
+					de l'EAA. On ne peut pas indiquer la somme de 0 $ ou de 1 $<br/>
+					comme valeur du document dans la Résumé d'approvisionnement<br/>
+					de l'EAA.</p>
+<p> L'exigence exprimée ci-dessus pour le codage ne s'applique<br/>
+					pas aux offres à commandes individuelles et ministérielles<br/>
+					(OCIM), puisque les renseignements financiers sur les OCIM sont<br/>
+					enregistrés à la date à laquelle on passe<br/>
+					les commandes subséquentes. <em>Les agents de négociation<br/>
+					des contrats doivent donc taper la somme de 0 $ comme dépense<br/>
+					ou valeur estimative de l'OCIM et la valeur réelle de la<br/>
+					commande subséquente passée dans le cadre de l'OCIM. </em></p>
+<p><strong>Type d'offres à commandes</strong></p>
+<p>5.174 (13/12/02) Il existe cinq types d'offres à commandes.</p>
+<ol type="a">
+<li>Offre à commandes principale et nationale (OCPN) :<br/>
+						cette offre s'adresse à plusieurs utilisateurs autorisés,<br/>
+						qui sont désignés dans l'OCPN et qui peuvent y<br/>
+						faire appel partout au Canada. </li>
+<li>Offre à commandes principale et régionale (OCPR) :<br/>
+						cette offre s'adresse à plusieurs utilisateurs autorisés,<br/>
+						qui sont désignés dans l'OCPR et qui peuvent y<br/>
+						faire appel dans une zone géographique précise. </li>
+<li>Offre à commandes individuelle et nationale (OCIN) :<br/>
+						cette offre s'adresse à un utilisateur autorisé en<br/>
+						particulier, qui est désigné dans l'OCIN et qui<br/>
+						peut y faire appel partout au Canada. </li>
+<li>Offre à commandes individuelle et régionale (OCIR) :<br/>
+						cette offre s'adresse à un utilisateur autorisé en<br/>
+						particulier, qui est désigné dans l'OCIR et qui<br/>
+						peut y faire appel dans une zone géographique précise.</li>
+<li>Offre à commandes individuelle et ministérielle<br/>
+						(OCIM) : seul TPSGC peut faire appel à cette offre<br/>
+						pour passer des commandes pour un ou plusieurs clients dont les<br/>
+						noms sont indiqués dans l'OCIM. </li>
+</ol>
+<p><strong>Utilisateurs autorisés</strong></p>
+<p>5.176 (13/12/02) Les utilisateurs autorisés des offres à commandes<br/>
+					pourraient comprendre tous les ministères et organismes énumérés<br/>
+					dans les annexes I, II et III de la <em>Loi sur la gestion des<br/>
+					finances publiques (LGFP)</em> <em>(<a href="http://lois.justice.gc.ca/fr/F-11/index.html" rel="external">http://lois.justice.gc.ca/fr/F-11/index.html</a>)</em>.</p>
+<p>5.177 (13/12/02) La Demande d'offre à commandes (DOC) doit<br/>
+					comprendre au minimum les renseignements suivants : </p>
+<ol type="a">
+<li>une définition claire des besoins et la durée<br/>
+						au cours de laquelle on peut passer les commandes subséquentes; </li>
+<li>l'information sur le nombre d'offres à commandes dont<br/>
+						on veut autoriser l'utilisation; </li>
+<li>les critères d'évaluation précis; </li>
+<li>la méthode précise de sélection de l'offrant; </li>
+<li>la méthode précise de classement, le cas échéant; </li>
+<li>les procédures précises pour la passation des<br/>
+						commandes subséquentes; </li>
+<li>l'avis aux soumissionnaires en ce qui concerne la divulgation<br/>
+						de leurs prix unitaires (cf. la clause M0090T du guide des CCUA);</li>
+<li>les instructions, l'information, les modalités applicables à la<br/>
+						DOC; </li>
+<li>les instructions pour la préparation des offres; </li>
+<li>les modalités applicables aux commandes subséquentes à passer. </li>
+</ol>
+<p> Dans toute la mesure du possible, on doit indiquer une estimation<br/>
+					du volume des biens ou des services à commander dans la<br/>
+					Demande d'offre à commandes. </p>
+<p><strong>Commandes subséquentes concurrentielles et non-concurrentielles</strong></p>
+<p>5.180 (13/12/02) Commandes subséquentes concurrentielles </p>
+<p> <strong>La meilleure offre à commandes </strong></p>
+<p> Dans de nombreux cas, on autorise l'utilisation que d'une seule<br/>
+					OC. Pour répondre à certains besoins, on ne fait<br/>
+					appel qu'à l'offre qui respecte toutes les exigences de<br/>
+					la DOC et qui fait état du meilleur rapport qualité-prix<br/>
+					(offre la mieux cotée). Dans ces cas, on considère<br/>
+					que les commandes subséquentes qui sont passées sont<br/>
+					concurrentielles et on peut exercer les pouvoirs prévus<br/>
+					pour la passation des commandes subséquentes selon ce régime. </p>
+<p> <strong>Offres à commandes multiples </strong></p>
+<p>Dans d'autres cas, on autorise l'utilisation de plusieurs OC lorsqu'on<br/>
+					a tout lieu de croire qu'un seul fournisseur ne serait pas en mesure<br/>
+					de répondre à la demande dans le cadre des activités<br/>
+					opérationnelles. Dans ces cas, il faut exposer clairement<br/>
+					les méthodes de classement et les procédures de passation<br/>
+					des commandes subséquentes dans la DOC, pour que les offrants<br/>
+					intéressés en prennent connaissance dans la préparation<br/>
+					de leurs offres, ainsi que dans les commandes subséquentes,<br/>
+					pour guider les responsables autorisés lorsqu'ils doivent<br/>
+					passer des commandes subséquentes. Nous décrivons<br/>
+					ci-après deux modèles d'offres à commandes<br/>
+					multiples. </p>
+<ol type="a">
+<li><strong>Offre à commandes multiples comportant un droit<br/>
+						de premier refus</strong>
+<p>Selon les procédures de passation des commandes subséquentes,<br/>
+							lorsqu'on définit un besoin, le responsable autorisé à passer<br/>
+							les commandes subséquentes doit contacter l'offrant<br/>
+							qui a déposé l'offre à commandes la mieux<br/>
+							cotée pour savoir s'il peut répondre aux besoins.<br/>
+							Si l'offrant qui a déposé l'offre la mieux cotée<br/>
+							peut répondre aux besoins, on lui passe une commande<br/>
+							subséquente dans le cadre de son offre à commandes.<br/>
+							S'il ne peut pas répondre aux besoins, le responsable<br/>
+							autorisé à passer des commandes subséquentes<br/>
+							contacte l'offrant qui a déposé l'offre à commandes<br/>
+							la mieux cotée ensuite. Le responsable autorisé à passer<br/>
+							des commandes subséquentes reprend ce processus jusqu'à ce<br/>
+							qu'un offrant fasse savoir qu'il peut répondre aux besoins<br/>
+							exprimés dans la commande subséquente. Autrement<br/>
+							dit, les commandes subséquentes sont passées<br/>
+							en fonction du principe du « droit de premier refus ».<br/>
+							Lorsque l'offrant qui a déposé l'offre la mieux<br/>
+							cotée ne peut pas répondre aux besoins, le responsable<br/>
+							autorisé à passer les commandes subséquentes<br/>
+							doit verser à son dossier une note en conséquence.<br/>
+							On considère quand même que les commandes subséquentes<br/>
+							qui sont passées ainsi sont concurrentielles , et on<br/>
+							peut faire appel aux pouvoirs de passation des commandes subséquentes<br/>
+							selon le régime concurrentiel.</p>
+</li>
+<li><strong>Offre à commandes proportionnelle</strong>
+<p>Les procédures de passation des commandes subséquentes<br/>
+							obligent à passer les commandes subséquentes<br/>
+							proportionnellement, pour faire en sorte que l'offrant qui<br/>
+							a déposé l'offre à commandes la mieux<br/>
+							cotée reçoive le volume de travail préétabli<br/>
+							le plus important, que l'offrant qui a déposé l'offre à commandes<br/>
+							la mieux cotée ensuite reçoive le volume de travail<br/>
+							préétabli le plus important ensuite, et ainsi<br/>
+							de suite (par exemple, 50 % du volume de travail attribué à l'offre à commande<br/>
+							la mieux cotée, 30 % à l'offre inscrite<br/>
+							au deuxième rang et 20 % à l'offre inscrite<br/>
+							au troisième rang). On doit décrire dans la DOC<br/>
+							cette répartition préétablie du volume<br/>
+							de travail, pour que les offrants intéressés<br/>
+							en prennent connaissance dans la préparation de leur<br/>
+							offre. C'est également ce que l'on appelle le « meilleur<br/>
+							rapport qualité-prix collectif ». L'offre à commandes<br/>
+							la mieux cotée représente le meilleur rapport<br/>
+							qualité-prix pour le Canada, et l'offrant a droit à la<br/>
+							plus grande partie du travail. Il faut donner à l'offrant<br/>
+							qui a déposé l'offre à commandes la mieux<br/>
+							cotée un avantage clair dans la répartition du<br/>
+							volume de travail prévu (par exemple 20 % ou plus<br/>
+							par rapport à la deuxième offre) et appliquer<br/>
+							le même principe aux autres offrants. Il appartient à l'agent<br/>
+							de négociation des contrats de définir ce qui<br/>
+							constitue un avantage clair; cette notion peut varier selon<br/>
+							les biens ou les services ou l'analyse de rentabilisation.<br/>
+							On juge que les commandes subséquentes qui sont passées<br/>
+							ainsi sont concurrentielles, et on peut exercer les pouvoirs<br/>
+							de passation des commandes subséquentes selon le régime<br/>
+							concurrentiel.</p>
+</li>
+</ol>
+<p>Les offres à commandes principales ne se prêtent<br/>
+					pas à cette répartition proportionnelle du volume<br/>
+					de travail. Lorsqu'on doit autoriser des offres à commandes<br/>
+					individuelles selon le principe de la répartition proportionnelle,<br/>
+					l'agent de négociation des contrats doit faire savoir à l'utilisateur<br/>
+					autorisé qu'il est obligé de surveiller les activités<br/>
+					de passation des commandes subséquentes pour s'assurer que<br/>
+					les travaux sont affectés conformément au principe<br/>
+					de la répartition préétablie des travaux. </p>
+<p>Dans les cas exposés en a) et b) ci-dessus, les agents<br/>
+					de négociation des contrats doivent indiquer clairement,<br/>
+					dans la DOC, le nombre prévu d'offres à commandes<br/>
+					dont on devrait autoriser l'utilisation. Si on veut autoriser l'utilisation<br/>
+					d'offres à commandes multiples, il faut préciser,<br/>
+					dans la DOC, le principe selon lequel on passera les commandes<br/>
+					subséquentes (droit de premier refus ou répartition<br/>
+					proportionnelle). Si on doit passer des commandes subséquentes<br/>
+					dans le cadre d'offres à commandes diffusées selon<br/>
+					le principe de la répartition proportionnelle, on doit indiquer<br/>
+					cette répartition (par exemple, 50 %, 30 % et<br/>
+					20 %) dans la DOC. </p>
+<p>En outre, lorsqu'on a l'intention d'autoriser l'utilisation d'offres à commandes<br/>
+					multiples, les agents de négociation des contrats doivent<br/>
+					prévoir une condition selon laquelle seules seront considérées<br/>
+					les offres à commandes qui accusent par exemple un écart<br/>
+					de moins de 10 % par rapport à l'offre la plus avantageuses<br/>
+					pour ce qui est du prix. </p>
+<p>De plus, il faut mettre en place un système pour surveiller<br/>
+					les activités de passation des commandes subséquentes<br/>
+					et pour s'assurer qu'elles sont attribuées selon la répartition<br/>
+					préétablie du volume de travail, le classement des<br/>
+					offrants et les procédures de passation des commandes subséquentes<br/>
+					précisées dans les offres à commandes.</p>
+<p>5.181 (13/12/02) Commandes subséquentes non-concurrentielles</p>
+<p>Dans d'autres cas, on autorise l'utilisation de plusieurs OC,<br/>
+					sans toutefois établir de classement. C'est ce que l'on<br/>
+					ferait par exemple pour demander des prix portant sur un éventail<br/>
+					complet d'articles présentés dans un catalogue, lorsqu'il<br/>
+					est impossible de classer les offres. Le responsable autorisé à passer<br/>
+					les commandes subséquentes peut choisir l'OC à laquelle<br/>
+					on fera appel. Pour certains besoins, les agents de négociation<br/>
+					des contrats peuvent établir des paramètres afin<br/>
+					de guider les utilisateurs autorisés dans la sélection<br/>
+					de l'une des offres à commandes. Les commandes subséquentes<br/>
+					passées dans le cadre de ces offres à commandes sont<br/>
+					non-concurrentielles et on ne peut exercer que les pouvoirs de<br/>
+					passation des commandes subséquentes non-concurrentiels. </p>
+<p> On peut attribuer une OC en régime non-concurrentiel à un<br/>
+					offrant pour l'éventail complet des produits et des services<br/>
+					présentés dans son catalogue. Les commandes subséquentes<br/>
+					qui lui sont passées ainsi sont non-concurrentielles, et<br/>
+					on ne peut exercer que les pouvoirs de passation des commandes<br/>
+					subséquentes non-concurrentiels. </p>
+<p><strong>Recoupement d'offres à commandes</strong></p>
+<p>5.182 (13/12/02) Les agents de négociation des contrats<br/>
+					ne doivent pas autoriser une deuxième OC s'il en existe<br/>
+					déjà une pour les mêmes produits ou services,<br/>
+					le même client et la même zone géographique.<br/>
+					Par exemple, on ne doit pas publier de demande d'OCIR ou d'OCPR<br/>
+					s'il existe déjà une OCPN. À l'inverse, on<br/>
+					ne doit pas établir d'OCPN sans consulter les régions.<br/>
+					(Lien avec <strong>l'Index des offres à commandes :</strong> <a href="http://soi.pwgsc.gc.ca/app/fr/index.htm" rel="external">http://soi.pwgsc.gc.ca/app/fr/index.htm</a>)</p>
+<p> À titre de gestionnaire des biens et des services, le<br/>
+					Service des approvisionnements doit coordonner l'émission<br/>
+					des offres à commandes. Lorsqu'un agent de négociation<br/>
+					des contrats propose de mettre en place une OC comparable à une<br/>
+					OC qui existe déjà, le gestionnaire des biens ou<br/>
+					des services responsable des biens ou des services visés<br/>
+					doit d'abord l'approuver. S'il le juge adéquat, le gestionnaire<br/>
+					des biens ou des services approuve l'émission de cette OC<br/>
+					comparable ou en double. L'agent de négociation des contrats<br/>
+					qui a proposé cette offre à commandes comparable<br/>
+					ou en double garde la responsabilité de l'élaboration<br/>
+					et de la mise en œuvre de la stratégie d'achat, comme pour<br/>
+					toute autre opération d'achat. Dans le document d'approbation<br/>
+					(PAPC ou plan d'achat), les agents de négociation des contrats<br/>
+					indiquent que l'approbation porte sur l'émission d'une OC<br/>
+					comparable à une OC existante, en expliquant les raisons<br/>
+					pour lesquelles il faut passer une autre OC et en indiquant que<br/>
+					le gestionnaire de biens ou de services responsable en a approuvé la<br/>
+					diffusion. </p>
+<p><strong>Formulaires d'offre à commandes </strong></p>
+<p>5.184 (13/12/02) Voici les formulaires qu'on peut utiliser dans<br/>
+					le cadre des offres à commandes. </p>
+<table class="basic">
+<tbody><tr>
+<th id="AP-59form1" scope="col">Numéro du formulaire</th>
+<th id="AP-59title1" scope="col">Titre</th>
+</tr>
+<tr>
+<td headers="form1">DSS-MAS 9400-40</td>
+<td headers="title1">Demande d'offre à commandes (DOC) </td>
+</tr>
+<tr>
+<td headers="form1">PWGSC-TPSGC 9400-41</td>
+<td headers="title1">Autorisation de passer une offre à commandes<br/>
+							et des commandes subséquentes (APOCCS) </td>
+</tr>
+<tr>
+<td headers="form1">DSS-MAS 9400-42</td>
+<td headers="title1">Révision à une autorisation<br/>
+							de passer une offre à commandes et des commandes subséquentes<br/>
+							(RAPOCCS) </td>
+</tr>
+<tr>
+<td headers="form1">DSS-MAS 9400-43</td>
+<td headers="title1">Révision à une demande d'offre à commandes<br/>
+							(RDOC)</td>
+</tr>
+</tbody></table>
+<p>On se sert des formulaires suivants pour les commandes subséquentes à passer<br/>
+					dans le cadre d'une OC : (on trouve ces formulaires dans l'application<br/>
+					FEL et en direct.) </p>
+<table class="basic">
+<tbody><tr>
+<th id="AP-59form2" scope="col">Numéro du formulaire</th>
+<th id="AP-59title2" scope="col">Titre</th>
+</tr>
+<tr>
+<td headers="form2">PWGSC-TPSGC 942</td>
+<td headers="title2">Commande subséquente à une<br/>
+							offre à commandes </td>
+</tr>
+<tr>
+<td headers="form2">PWGSC-TPGSC 942-4</td>
+<td headers="title2">Commande subséquente à une<br/>
+							offre à commandes - livraison multiple </td>
+</tr>
+<tr>
+<td headers="form2">PWGSC-TPSGC 945</td>
+<td headers="title2">Commande subséquente à plusieurs<br/>
+							offres à commandes multiples<em> (version anglaise :<br/>
+							PWGSC-TPSGC 944</em>) </td>
+</tr>
+<tr>
+<td headers="form2">PWGSC-TPSGC 8251</td>
+<td headers="title2">Commande subséquente à une<br/>
+							offre à commandes pour du personnel temporaire </td>
+</tr>
+<tr>
+<td headers="form2">PWGSC-TPSGC 2829</td>
+<td headers="title2">Commande subséquente à une<br/>
+							offre à commandes - Services immobiliers </td>
+</tr>
+<tr>
+<td headers="form2">PWGSC-TPSGC 7169</td>
+<td headers="title2">Commande subséquente à une<br/>
+							offre permanente de services de commissionnaires</td>
+</tr>
+<tr>
+<td headers="form2">PWGSC-TPSGC 7169-1</td>
+<td headers="title2">Commande subséquente à une<br/>
+							offre permanente de services de gardiennage </td>
+</tr>
+<tr>
+<td headers="form2">PWGSC-TPSGC 191</td>
+<td headers="title2">Demande de carte d'achat (MasterCard) <a href="#AP-59footnote1"><sup><strong>1</strong></sup></a>,<br/>
+							qu'on peut également utiliser pour faire une commande<br/>
+							subséquente à une offre à commandes, tout<br/>
+							comme les autres méthodes figurant dans l'offre à commandes.<a href="#AP-59footnote2"><sup><strong>2</strong></sup></a></td>
+</tr>
+</tbody></table>
+<p><strong>Sécurité industrielle</strong></p>
+<p>5.186 (13/12/02) L'agent de négociation des contrats doit<br/>
+					déterminer, en collaboration avec le client :</p>
+<ol type="a">
+<li>la cote minimum de sécurité dont doivent justifier<br/>
+						les offrants intéressés pour participer à la<br/>
+						méthode d'approvisionnement de l'offre à commandes.
+<p> Les exigences relatives à la sécurité doivent être<br/>
+							précisées dans la DOC et dans l'APCSOC. Les commandes<br/>
+							subséquentes doivent, le cas échéant,<br/>
+							faire état d'exigences en matière de sécurité conformes<br/>
+							aux clauses et aux conditions de l'OC. Il faut joindre à ces<br/>
+							commandes la Liste de vérification des exigences relatives à la<br/>
+							sécurité, dont on doit transmettre une copie à la<br/>
+							Direction de la sécurité industrielle de TPSGC<br/>
+							pour suivi, lorsqu'on passe ces commandes. </p>
+<p> OU</p>
+</li>
+<li>Si on ne doit PAS utiliser l'OC avec des commandes subséquentes,<br/>
+						dans les cas où il faut exiger une cote de sécurité à quelque<br/>
+						niveau que ce soit. </li>
+</ol>
+<p><strong>Retrait d'une offre à commandes</strong></p>
+<p>5.188 (13/12/02) Si l'offrant souhaite retirer son OC après<br/>
+					qu'on en ait autorisé l'utilisation, il doit, sauf indication<br/>
+					contraire dans l'OC, faire connaître à l'autorité contractante<br/>
+					son intention en lui donnant par écrit un préavis<br/>
+					d'au moins trente (30) jours. L'autorité contractante émet<br/>
+					alors la « Révision de l'autorisation de passer<br/>
+					des commandes subséquentes à une offre à commandes<br/>
+					(RAPCSOC) », pour faire connaître à tous<br/>
+					les utilisateurs autorisés et à l'offrant la date<br/>
+					d'entrée en vigueur du retrait. Les commandes subséquentes<br/>
+					passées à l'offrant avant cette date sont exécutoires<br/>
+					selon la loi; l'offrant doit donc les exécuter. </p>
+<h4>TERMINOLOGIE</h4>
+<p><strong>La méthode d'approvisionnement de l'offre à commandes </strong>permet<br/>
+					de lancer un appel d'offres pour la fourniture de biens et/ou la<br/>
+					prestation de services d'après un volume d'activités<br/>
+					exprimé de bonne foi. On peut alors autoriser l'utilisation<br/>
+					de une ou de plusieurs offres à commandes, pour permettre à un<br/>
+					ou plusieurs utilisateurs autorisés (dans les ministères<br/>
+					et les organismes clients) de faire l'acquisition de biens, de<br/>
+					services ou des deux à la fois, selon les besoins, en passant<br/>
+					directement des commandes à l'offrant (soit le fournisseur<br/>
+					ou le prestataire, selon le cas), à des prix ou selon une<br/>
+					base de tarification préétablis, pendant une durée<br/>
+					précisée et conformément à des clauses<br/>
+					et à des conditions définies. Cette méthode<br/>
+					d'approvisionnement est parfaitement adaptée aux situations<br/>
+					dans lesquelles les biens et les services à fournir sont<br/>
+					bien définis et lorsqu'un ou plusieurs clients en ont besoin<br/>
+					répétitivement, mais pour lesquels on ne connaît<br/>
+					pas, au début, la demande réelle des différents<br/>
+					biens ou services nécessaires (quantité et date et<br/>
+					lieu de livraison). Cette méthode d'approvisionnement comporte<br/>
+					des avantages, puisqu'elle accroît l'efficience du processus<br/>
+					d'achat et réduit le fardeau administratif pour le client<br/>
+					et TPSGC.</p>
+<p>L'<strong>offre à commandes</strong> n'est pas un contrat.<br/>
+					Selon cette méthode, un fournisseur propose de fournir à des<br/>
+					clients des biens et/ou des services selon des prix ou une base<br/>
+					de tarification préétablis et conformément à des<br/>
+					clauses et des conditions définies pour une durée<br/>
+					précisée, sur demande. On conclut un contrat distinct<br/>
+					chaque fois qu'on passe une commande subséquente dans le<br/>
+					cadre d'une offre à commandes. Lorsqu'on passe une commande<br/>
+					subséquente, les modalités sont déjà définies,<br/>
+					et le Canada doit accepter sans condition l'offre du fournisseur.<br/>
+					La responsabilité du Canada est limitée à la<br/>
+					valeur réelle des commandes subséquentes passées<br/>
+					au cours de la durée précisée dans l'offre à commandes.</p>
+<p>La <strong>commande subséquente passée dans le cadre<br/>
+					de l'offre à commandes </strong>est émise en vertu<br/>
+					des pouvoirs de l'utilisateur autorisé en bonne et due<br/>
+					forme, pour une offre à commandes précise. Lorsqu'on<br/>
+					passe une commande subséquente à l'offrant dans<br/>
+					le cadre de l'offre à commandes, on accepte cette offre<br/>
+					pour les biens ou les services commandés ou pour les deux à la<br/>
+					fois, ce qui donne lieu à un contrat. Sa Majesté la<br/>
+					Reine du chef du Canada, représentée par le ministre<br/>
+					de Travaux publics et Services gouvernementaux Canada, et l'offrant<br/>
+					sont les parties au contrat qui entre en vigueur lorsqu'on passe<br/>
+					une commande subséquente dans le cadre d'une offre à commandes. </p>
+<p>La <strong>Demande d'offre à commandes</strong> (DOC) est<br/>
+					un appel d'offres lancé par l'autorité contractante<br/>
+					pour demander des offres à commandes. Comme tout autre document<br/>
+					d'appel d'offres, la DOC doit indiquer clairement les besoins,<br/>
+					la méthode d'évaluation et les critères de<br/>
+					sélection des offres, les procédures de passation<br/>
+					des commandes subséquentes, les méthodes de classement à employer<br/>
+					le cas échéant pour passer les commandes subséquentes<br/>
+					dans le cadre des offres à commandes autorisées et<br/>
+					toutes les clauses et conditions applicables aux contrats créés<br/>
+					par les commandes subséquentes.</p>
+<p><strong>L'Autorisation de passer des commandes subséquentes à une<br/>
+					offre à commandes (APCSOC)</strong> est un document émis<br/>
+					par l'autorité contractante et qui répond à deux<br/>
+					objectifs essentiels : premièrement, elle permet<br/>
+					de faire savoir à l'offrant qu'on a donné à certains<br/>
+					utilisateurs autorisés le pouvoir de passer des commandes<br/>
+					subséquentes dans le cadre de l'offre à commandes;<br/>
+					deuxièmement, elle permet de faire savoir aux clients<br/>
+					qu'on leur a attribué, pour cette offre à commandes,<br/>
+					le pouvoir de passer des commandes subséquentes, sous<br/>
+					réserve des modalités qui y sont indiquées.)</p>
+<hr/>
+<ol class="smallFont">
+<li><a id="AP-59footnote1" name="footnote1"></a>Parce que le fournisseur est payé immédiatement<br/>
+						lorsqu'on se sert d'une carte de crédit, les dispositions<br/>
+						sur le délai normal de paiement et les intérêts<br/>
+						sur les comptes en souffrance ne s'appliquent pas. (Cf. les clauses <strong>M3503T</strong> et <strong>M3503C</strong> du<br/>
+						guide des CCUA.)</li>
+<li><a id="AP-59footnote2" name="footnote2"></a>Les agents de négociation des<br/>
+						contrats doivent faire une vérification pour savoir si<br/>
+						les clients ont besoin de ces services et reproduire, dans les<br/>
+						offres à commandes, les détails pertinents. Dans<br/>
+						ces cas, le formulaire de commande subséquente peut être<br/>
+						justifié ou non. </li>
+</ol>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

@@ -1,0 +1,172 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<p>This update replaces the original Policy Notification 43 of August 17, 1999. It contains: background; approach; implementation; a definition of coverage; delegated contracting authorities; and, a statement of client responsibilities.</p>
+<h3>Background</h3>
+<p>This Notification is designed to reduce the risk to government in contracting for Construction, and Architectural and Engineering (A&amp;E) Services (a definition of coverage is attached as <strong>Annex A</strong>). The contracts subject to this Policy can deal with complex technical, health and safety, and project management issues.</p>
+<p>The cornerstone of PN-43U is that for such contracts for which Public Works and Government Services Canada (PWGSC) is to be the contracting authority, the Supply Operations Service (SOS) contracting community will require the use of appropriate risk management approaches to ensure in advance that those projects are to be undertaken with an appropriate level of (i) contracting and (ii) technical expertise.</p>
+<h3>Approach</h3>
+<p>1. When the Real Property Services Branch (RPSB) is the technical authority/project manager for a Construction or A&amp;E Services project, it is accepted that the appropriate level of technical expertise will be applied to the development and management of the project. SOS will, therefore, provide its full range of real property contracting services to RPS.</p>
+<p>2. Where an Other Government Department (OGD) intends to serve as the technical authority for a Construction or A&amp;E Services project, SOS will require that the risks inherent in the planned procurement be assessed prior to commencing contracting activities. The risk analysis is to include confirmation that the client has the required capacity (including the appropriate construction management capabilities and procedures), and accepts the related responsibilities. To guide contracting officers in conducting the risk analysis:</p>
+<ol type="a">
+<li>When the estimated value of the requirement is <em>within</em> a client department's delegated contracting authorities, contracting services may be provided by SOS. Written confirmation that it (the client) has the required technical capacity and accepts the related responsibilities should be requested from the client at the time of requisition. An example of where such a written confirmation <strong>may not</strong> be required is in a repeat procurement for the same client.
+<p>A table showing most Construction and A&amp;E authorities for other departments is at <strong>Annex B</strong>.</p>
+</li>
+<li>When the estimated value of the contract <em>exceed</em>s the client department's delegated Construction, and A&amp;E Services contracting authorities, SOS and RPSB will work together with the client to ensure that the project will have the required technical supervision.
+<ul>
+<li>In cases where it is determined that the level of technical competence proposed by the client department does not adequately address the identified risks, SOS will decline at the manager level or above to provide contracting services until the required level of technical expertise is made available.</li>
+<li>In these (hopefully rare) cases, the client department is to receive written confirmation of the reason(s) for which contracting services will not be provided.</li>
+</ul>
+</li>
+</ol>
+<h3>Implementation</h3>
+<p>Projects for which the client will be the technical authority should be accepted with caution. Clients may to be asked to describe in writing their planned application of technical expertise (client responsibilities) to a project; SOS contracting staff may accept that, or may deem it prudent to seek advice from their RPSB colleagues.</p>
+<p>Suggested client responsibilities are attached to this notice as Annex C.</p>
+<p>Development of a risk management framework to give more discretion to contracting staff - particularly in using approach 2(b) - is under way <em>(Industrial &amp; Commercial Products &amp; Standardization Services Sector - Real Property Contracting Directorate; Supply Program Management Sector - Risk Management and Quality Assurance Directorate)</em></p>
+<h2>Annex A</h2>
+<h3>Definition of Coverage</h3>
+<p>The following, based on the Government Contracts Regulations (GCR), defines the Construction and Architectural and Engineering Services covered in PN-43U:</p>
+<p>1. PN-43U applies to any contract that fits the GCR definition of a <strong>construction</strong> contract, as follows:</p>
+<p>"Construction contract" (marché de travaux publics) - means a contract entered into for the construction, repair, renovation or restoration of any work except a vessel and includes</p>
+<ol type="a">
+<li>a contract for the supply and erection of a prefabricated structure;</li>
+<li>a contract for dredging,;</li>
+<li>a contract for demolition; or ,</li>
+<li>a contract for the hire of equipment to be used in or incidentally to the execution of any contract referred to in this definition.</li>
+</ol>
+<p>2. If a project has one or more of the following notions attached to it, it is covered by PN-43U:</p>
+<ol type="a">
+<li>the implementation of a design provided by an architect or an engineer;</li>
+<li>the concept that the control of the site is being turned over to a contractor;</li>
+<li>the procedure being carried out is invasive to a building, bridge or other facility; or</li>
+<li>the contractor is a general contractor who will be employing sub-trades.</li>
+</ol>
+<p>3. With respect to questions raised about the acquisition of services such as cleaning, waste removal, snow removal or lawn care, etc., approval and entry into these types of contracts fall under the "services" delegated contracting authority: they are not by definition a contract subject to PN-43U.</p>
+<p>4. PN-43U does not cover the acquisition, including standing offers, of maintenance services (e.g. carpenters, plumbers, electricians, etc.), where these agreements will be used by an OGD to supplement their in-house maintenance personnel and where the work carried out under these agreements is minor in nature. Examples are replacement of flooring, replacement of lighting or plumbing fixtures, painting rooms, etc. - all activities normally associated with the maintenance of a facility.</p>
+<p>Note, however, that a client should never have more than one trade at the same site at the same time. In such a situation, the contracting authority becomes a general contractor, with all the attendant legal responsibilities for the site - and, in fact, the proposed contract(s) would then be covered by PN-43U as provided in paragraph 2 (d) above.</p>
+<p>5. PN-43U applies to any <strong>architectural and engineering services</strong> contract, which can be defined as follows:</p>
+<ul>
+<li>"Architectural and engineering service contract" (marché de services d'architectes et d'ingénieurs) - a contract for the provision of services in respect of the planning, design, preparation, or supervision of the construction, repair, renovation or restoration of a work.</li>
+</ul>
+<h2>Annex B</h2>
+<h3>Contracting Authorities Delegated by the Treasury Board ($'000)</h3>
+<table class="basic" summary="This table shows Contracting Authorities Delegated by the Treasury Board ($'000) Construction, Contracting Authority, Electronic Bidding, Traditional Competitive, Non-Competitive">
+<caption>
+					Construction<br/>
+</caption>
+<tbody><tr>
+<th id="PN-43Uauthor1" scope="col">Contracting Authority for:</th>
+<th id="PN-43Ubid1" scope="col">Electronic Bidding</th>
+<th id="PN-43Ucomp1" scope="col">Traditional Competitive</th>
+<th id="PN-43Unocomp1" scope="col">Non-Competitive</th>
+</tr>
+<tr>
+<td headers="author1">PWGSC</td>
+<td headers="bid1">20,000</td>
+<td headers="comp1">10,000</td>
+<td headers="nocomp1">500</td>
+</tr>
+<tr>
+<td headers="author1">CIDA<sup><a href="#PN-43Ufootnote">1</a></sup></td>
+<td headers="bid1">20,000</td>
+<td headers="comp1">20,000</td>
+<td headers="nocomp1"> </td>
+</tr>
+<tr>
+<td headers="author1">DFAIT<sup><a href="#PN-43Ufootnote">2</a></sup></td>
+<td headers="bid1">Staff quarters 1,000
+<p>Residences 3,000 </p>
+<p>Chanceries 10,000 </p>
+<p>Multiple Unit Facilities 10,000</p>
+</td>
+<td headers="comp1"> </td>
+<td headers="nocomp1"> </td>
+</tr>
+<tr>
+<td headers="author1">RCMP</td>
+<td headers="bid1">2,000</td>
+<td headers="comp1">400</td>
+<td headers="nocomp1">40</td>
+</tr>
+<tr>
+<td headers="author1">All Programs not Named above</td>
+<td headers="bid1"> </td>
+<td headers="comp1">400</td>
+<td headers="nocomp1">40</td>
+</tr>
+</tbody></table>
+<p></p>
+<table class="basic" summary="This table shows Contracting Authorities Delegated by the Treasury Board ($'000) A&amp;ES , Contracting Authority, Electronic Bidding, Traditional Competitive, Non-Competitive">
+<caption>
+					A&amp;ES<br/>
+</caption>
+<tbody><tr>
+<th id="PN-43Uauthor2" scope="col">Contracting Authority for:</th>
+<th id="PN-43Ubid2" scope="col">Electronic Bidding</th>
+<th id="PN-43Ucomp2" scope="col">Traditional Competitive</th>
+<th id="PN-43Unocomp2" scope="col">Non-Competitive</th>
+</tr>
+<tr>
+<td headers="author2">PWGSC</td>
+<td headers="bid2">2,000</td>
+<td headers="comp2">1,000</td>
+<td headers="nocomp2">100</td>
+</tr>
+<tr>
+<td headers="author2">DFAIT<sup><a href="#PN-43Ufootnote">2</a></sup></td>
+<td headers="bid2">2,000</td>
+<td headers="comp2">1,000</td>
+<td headers="nocomp2">50</td>
+</tr>
+<tr>
+<td headers="author2">Agriculture and Agri-Food<sup><a href="#PN-43Ufootnote">3</a></sup></td>
+<td headers="bid2"> </td>
+<td headers="comp2">400</td>
+<td headers="nocomp2">50</td>
+</tr>
+<tr>
+<td headers="author2">Fisheries and Oceans<sup><a href="#PN-43Ufootnote">4</a></sup></td>
+<td headers="bid2"> </td>
+<td headers="comp2">400</td>
+<td headers="nocomp2">50</td>
+</tr>
+<tr>
+<td headers="author2">All Programs not Named above</td>
+<td headers="bid2">40</td>
+<td headers="comp2">40</td>
+<td headers="nocomp2">40</td>
+</tr>
+</tbody></table>
+<h2>Annex C</h2>
+<h3>Client Responsibilities</h3>
+<p>I, as the Director responsible for the project identified as ____________, hereby certify that the Project Manager named below is fully qualified as to education and experience and has the necessary authority to carry out the responsibilities listed hereunder. It is agreed that PWGSC's current contracting practices and procedures will be strictly adhered to on this project.</p>
+<h4>Responsibilities</h4>
+<p>The Project Manager is responsible:</p>
+<ol type="i">
+<li>to obtain all internal departmental approvals and funding necessary for the project prior to PWGSC's posting of the Notice of Proposed Procurement/Invitation to Tender;</li>
+<li>to identify all the physical security requirements and to develop a complete statement of work (SoW) fully describing the work/services to be performed by the contractor/consultant. These tasks will be completed prior to submitting a requisition form (9200) to SOS of PWGSC;</li>
+<li>to develop any addenda necessary to clarify or amend the original SoW for distribution by SOS;</li>
+<li>to evaluate and certify the adequacy of the technical component of a tender/proposal prior to contract award;</li>
+<li>to participate in debriefing sessions chaired by SOS, when requested by bidders;</li>
+<li>to perform the duties of the Engineer/Departmental Representative as described in the terms and conditions of the contract provided by SOS as and where they apply to technical matters; (to prepare and issue a letter of designation concerning the responsibilities of the Engineer.)</li>
+<li>to manage the work/services in a competent manner and in accordance with accepted industry practices;</li>
+<li>to ensure that all applicable federal, provincial and municipal Acts, regulations and policies applicable to the project are enforced particularly as they relate to building codes and standards, site safety, Workplace Hazardous Materials Information System , licensing, building permits etc.;</li>
+<li>to prepare reports and to certify the progress of the work/services for the purposes of payment in accordance with the terms of the contract;</li>
+<li>to certify that any price quotations received from the contractor/consultant for additional work/services are fair and reasonable (as required by the <em>Financial Administration Act</em>);</li>
+<li>to provide <acronym title="Public Works and Government Services Canada">PWGSC</acronym> with all the necessary information related to the program and the project requested in order that <acronym title="Public Works and Government Services Canada">PWGSC</acronym> may conduct its internal contracting processes; and</li>
+<li>to participate in any claims negotiations and dispute resolution and to fund any settlements that may reached as a result of the performance of the work/services.</li>
+</ol>
+<p>Mr./Mrs./Ms ___________ is hereby designated as Project Manager for the purposes of the work/services and may be reached at (__) ___ -____ .</p>
+<p>_____________<br/>
+					Director</p>
+<p>__________________<br/>
+					Project Manager</p>
+<hr/>
+<div class="smallFont" id="PN-43Ufootnote">
+<ol>
+<li>For international development assistance programs or projects</li>
+<li>For missions abroad</li>
+<li>For managing lands held under the <em>Prairie Farm Rehabilitation Act</em></li>
+<li>For managing the salmonoid fish hatchery facilities</li>
+</ol>
+</div> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

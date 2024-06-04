@@ -1,0 +1,88 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<p>The year 2000 computer problem has the potential to cause severe disruption in the Government of Canada's computer systems. To reduce the probability of this disruption, procurement staff shall, effective immediately, follow the procedures detailed in Annex "A" attached, and use the applicable clause contained in Annex "B" attached, to obtain a warranty from vendors for procurements which include the provision of hardware, software, firmware or services for systems which will be required to perform date related processing prior to, during or after the year 2000.</p>
+<p>Many systems could cease to work or could produce wrong answers when handling Year 2000 data. The problem is associated with a two digit representation of the year which would see no difference between Year 20"<em>00</em>" and Year 19"<em>00</em>". The Year 2000 impact will be felt in all systems where the date is used to either calculate or control systems.</p>
+<p>Related changes to the <em>Supply Manual</em>, attached as <strong>Annex A</strong>, will be included in amendment 98-2 which is scheduled for release on June 15, 1998.</p>
+<p>Related changes to the <em>Standard Acquisition Clauses and Conditions Manual</em>, attached as<strong> Annex B</strong>, will be included in amendment 98-2, which is scheduled for release on June 15, 1998.</p>
+<h2>ANNEX A</h2>
+<h3>CHANGES TO THE SUPPLY MANUAL</h3>
+<p>6.330 (23/06/94) It may be necessary to consider obtaining a broader warranty than that contemplated by the warranty provision appearing in the General Conditions to cover "symptomatic defects" or "epidemic failures."</p>
+<p><em>These are cases where the same or similar defects have developed in several identical items of finished work, or components, and it is reasonable to assume that the same defects will be found in the total quantity of such items which have already been delivered, or remain to be delivered.</em></p>
+<p>Where this type of warranty is requested by the client, or considered desirable by PWGSC, the contracting officer, in consultation with the client, must determine the extent and nature of the warranty required, and request Legal Services to prepare a suitable provision to cover the requirement. In the case of negotiated firm price contracts, the contracting officer must obtain the client's agreement to the estimated cost of this warranty.</p>
+<h3>Year 2000 Warranty</h3>
+<p>6.332 (__/__/98) For procurements of goods or services which must perform date related processing prior to, during  or after the Year 2000, Contracting Officers shall include one or more of the following appropriate SACC Manual clauses in bid solicitations, contracts and standing offers:</p>
+<ol type="a">
+<li>SACC Manual clause K_____D for specific goods such as hardware, software or firmware;</li>
+<li>SACC Manual clause K_____D for facility management or outsourcing services;</li>
+<li>SACC Manual clause K_____D for integration services; and</li>
+<li>SACC Manual clause K_____D for services.</li>
+</ol>
+<p>In the case of sole source or no substitute contracts or standing offers which include multiple products, where the vendor declares that the Year 2000 Warranty does not apply to certain products, then the contracting officer shall designate these products in the contract or standing offer.</p>
+<p>In the case of a competitive process the Year 2000 Warranty clause(s) shall be included as a mandatory clause in the solicitation document.</p>
+<p>To prevent confusion regarding contractors' obligations with respect to the approved Year 2000 Warranty clauses, the following practices must be followed where, in sole source or no substitute situations, the Contracting Officer negotiates any modifications to the Year 2000 Warranty clause(s): the modified clause shall be reviewed by Legal Services; accepted by the requisitioning department in writing as indicated below; and, the clause title shall not include the words "Year 2000 Warranty".</p>
+<p>Where a client requests that the Year 2000 Warranty clause(s) not be incorporated into its procurement (for example, where the product, application or related services will not be used to perform date related processing), procurement staff are to comply with this request provided that the Director General of Informatics or departmental equivalent of the requisitioning department provided written instructions to this effect.</p>
+<h2>ANNEX B</h2>
+<h3>CHANGES TO THE SACC MANUAL</h3>
+<h3>GOODS</h3>
+<p><strong>REMARKS:</strong> Use the following clause where the deliverable(s) identified in the contractual document will be specific goods i.e. hardware, software and/or firmware:</p>
+<p><strong>K____D    (__/__/98)    Y2K Warranty - Goods</strong></p>
+<p>1. The Contractor warrants that:</p>
+<ol type="a">
+<li>ll hardware, software and/or firmware products delivered individually, or</li>
+<li>hardware, software and firmware products delivered in combination as an integrated system under this Contract, as the case may be, shall meet the Contractual requirement so as to accurately and automatically process any and all date and date-related data including, but not limited to calculating, comparing, and sequencing and that such date-related processing will take into consideration leap year calculations when used in accordance with the documentation provided by the Contractor and accepted by Canada.</li>
+</ol>
+<p>2. To that end, the Contractor also warrants that date-related processing will not, in any way, prevent hardware, software or firmware from conforming to the requirement of the Contract prior to, during, or after the year 2000. Canada may, at no additional cost, require the Contractor, at time of acceptance, to demonstrate compliance and/or compliance techniques and test procedures it followed in order to comply with all of the obligations contained herein.</p>
+<p>3. The obligations contained herein apply to the products delivered by the Contractor and its subcontractor(s) involved in the performance of this Contract.</p>
+<p>4. The warranties contained herein are separate and discrete from any other warranties specified in this Contract, and are not subject to any disclaimer of warranty which may be specified in this Contract, its appendices, its schedules, its annexes or any document incorporated in this Contract by reference. The warranties contained herein are subject to any limitation of the Contractor's liability specified in the Contract.</p>
+<p>5. The warranties contained herein shall not apply where a modification has been made to a deliverable provided under this Contract by a party other than the Contractor or a subcontractor or a party approved in writing by either of them.</p>
+<p>6. Notwithstanding the foregoing, the provisions set out in the applicable Supplemental General Conditions, if any, under the section entitled "Warranty" apply.</p>
+<p>7. The warranties contained herein shall have a term extending either:</p>
+<ol type="a">
+<li>to June 30, 2000, or,</li>
+<li>for a period of six months following acceptance of the hardware, software and/or firmware, whichever is the later date.</li>
+</ol>
+<hr/>
+<h3>FACILITY MANAGEMENT OR OUTSOURCING</h3>
+<p><strong>Remarks:</strong> Use the following clause where the deliverable(s) identified in the contractual document will be for Facility Management or Outsourcing Services.</p>
+<p><strong>K____D     (__/__/98)     Y2K Warranty - Facility Mgmt or Outsourcing</strong></p>
+<p>1. The Contractor warrants that all hardware, software and firmware products which may be delivered to Canada and/or utilize by the Contractor to perform services under this Contract shall meet the contractual requirement so as to accurately and automatically process any and all date and date-related data including, but not limited to calculating, comparing, and sequencing and that such date-related processing will take into consideration leap year calculations when used in accordance with the documentation provided by the Contractor and accepted by Canada. To that end, the Contractor also warrants that date-related processing will not, in any way, prevent hardware, software or firmware from conforming to the requirement of the Contract prior to, during, or after the year 2000. Canada may, at no additional cost, require the Contractor, at time of acceptance, to demonstrate compliance and/or compliance techniques and test procedures it followed in order to comply with all of the obligations contained herein.</p>
+<p>2. The obligations contained herein apply to the products delivered to Canada and/or utilized by the Contractor and its subcontractor(s) to provide the services under this Contract. The obligations contained herein do not apply to hardware, firmware, software or software applications provided as Government Property unless expressed elsewhere in the Contract.</p>
+<p>3. The warranties contained herein are separate and discrete from any other warranties specified in this Contract, and are not subject to any disclaimer of warranty which may be specified in this Contract, its appendices, its schedules, its annexes or any document incorporated in this Contract by reference. The warranties contained herein are subject to any limitation of the Contractor's liability specified in the Contract.</p>
+<p>4. The warranties contained herein shall not apply where a modification has been made to a deliverable provided under this Contract by a party other than the Contractor or a Subcontractor or a party approved in writing by either of them.</p>
+<p>5. Notwithstanding the foregoing, the provisions set out in the applicable Supplemental General Conditions, if any, under the section entitled "Warranty" apply.</p>
+<p>6. The warranties contained herein shall have a term extending either:  </p>
+<ol type="a">
+<li>to June 30, 2000, or,</li>
+<li>for a period of six months following acceptance of the system to which the hardware, software, firmware, as relevant, relate, or,</li>
+<li>for a period equal to the term of the Contract, whichever is the later date.</li>
+</ol>
+<hr/>
+<h3>SYSTEMS INTEGRATION</h3>
+<p><strong>Remarks:</strong> Use the following clause where the deliverable identified in the contractual document will be an "integrated system".</p>
+<p><strong>K____D    (__/__/98)    Y2K Warranty - Systems Integration</strong></p>
+<p>1. The Contractor warrants that all hardware, software and firmware products delivered or developed and any deliverables resulting from the services provided, as an integrated system, shall meet or operate as per the Contractual Specifications (as evidenced during acceptance tests, as applicable) so as to accurately and automatically process any and all date and date-related data including, but not limited to calculating, comparing, and sequencing of such data from, into and between the twentieth and twenty-first centuries, including leap year calculations when used in accordance with the documentation provided by the Contractor and accepted by Canada. To that end, the Contractor also warrants that date-related processing will not, in any way, prevent hardware, software or firmware from conforming to the requirement of the Contract prior to, during, or after the year 2000. Canada may, at no additional cost, require the Contractor, at time of acceptance of hardware, software, firmware products delivered or developed or services provided, to demonstrate compliance and/or compliance techniques and test procedures it followed in order to comply with all of the obligations contained herein.</p>
+<p>2. The obligations contained herein apply to the integrated system provided by the Contractor and its subcontractor(s) involved in the performance of this Contract. The obligations contained herein do not apply to hardware, firmware, software or software applications provided as Government Property unless expressed elsewhere in the Contract.</p>
+<p>3. The warranties contained herein are separate and discrete from any other warranties specified in this Contract, and are not subject to any disclaimer of warranty which may be specified in this Contract, its appendices, its schedules, its annexes or any document incorporated in this Contract by reference. The warranties contained herein are subject to any limitation of the Contractor's liability specified in the Contract.</p>
+<p>4. The warranties contained herein shall not apply where a modification has been made to a deliverable provided under this Contract by a party other than the Contractor or a subcontractor or a party approved in writing by either of them.</p>
+<p>5. Notwithstanding the foregoing, the provisions set out in the applicable Supplemental General Conditions, if any, under the section entitled "Warranty" apply.</p>
+<p>6. The warranties contained herein shall have a term extending either:  </p>
+<ol type="a">
+<li>to June 30, 2000, or,</li>
+<li>for a period of six months following acceptance of the system to which the hardware, software, firmware, as relevant, relate,whichever is the later date.</li>
+</ol>
+<hr/>
+<h3>SERVICES</h3>
+<p><strong>Remarks:</strong> Use the following clause where the deliverables identified in the contractual document will be services.</p>
+<p><strong>K____D    (__/__/98)    Y2K Warranty - Services</strong></p>
+<p>1. The Contractor warrants that the deliverables resulting from the services provided under this Contract shall meet the Contractual requirement so that the deliverables (as evidenced during acceptance tests, as applicable) accurately and automatically process date and date-related data including, but not limited to calculating, comparing, and sequencing of such data from, into and between the twentieth and twenty-first centuries, including leap year calculations when used in accordance with the documentation provided by the Contractor and accepted by Canada, provided that all hardware, software and firmware products used with the deliverables properly exchange accurate date and date-related data with them. To that end, the Contractor also warrants that date-related processing will not, in any way, prevent hardware, software or firmware from conforming to the requirement of the Contract prior to, during, or after the year 2000. Canada may, at no additional cost, require the Contractor prior to the performance of the services, to demonstrate compliance and/or compliance techniques and test procedures it intends to follow in order to comply with all of the obligations contained herein.</p>
+<p>2. The obligations contained herein apply to the services provided by the Contractor and its subcontractor(s) involved in the performance of this Contract. Subject to the specific contractual requirement, the obligations contained herein do not apply to hardware, firmware, software or software applications provided as Government Property unless expressed elsewhere in the Contract.</p>
+<p>3. The warranties contained herein are separate and discrete from any other warranties specified in this Contract, and are not subject to any disclaimer of warranty which may be specified in this Contract, its appendices, its schedules, its annexes or any document incorporated in this Contract by reference. The warranties contained herein are subject to any limitation of the Contractor's liability specified in the Contract.</p>
+<p>4. The warranties contained herein shall not apply where a modification has been made to a deliverable provided under this Contract by a party other than the Contractor or a subcontractor or a party approved in writing by either of them.</p>
+<p>5. Notwithstanding the foregoing, the provisions set out in the applicable Supplemental General Conditions, if any, under the section entitled "Warranty" apply.</p>
+<p>6. The warranties contained herein shall have a term extending either:</p>
+<ol type="a">
+<li>to June 30, 2000, or,</li>
+<li>for a period of six months following acceptance of the services, whichever is the later date.</li>
+</ol>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

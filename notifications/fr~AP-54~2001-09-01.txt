@@ -1,0 +1,1399 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-54cont" name="cont"> AP-54 : Accord Canada - Corée sur les achats de matériel de télécommunication (ACCMT)</a></h1> <div class="region region-site-wide-message">
+<section id="AP-54site-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-54site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-54site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 1<sup>er</sup> Septembre 2001</h2>
+<p>L'ACCMT est un accord bilatéral intervenu entre le Canada et la Corée et portant sur l'achat, par le gouvernement fédéral, de produits de télécommunications et de services accessoires (faisant l'objet d'un contrat portant sur des produits visés). L'ACCMT a été signé au début de juillet 1999. La politique mettant en œuvre cet accord a été approuvée par les ministres du Conseil du Trésor le 17 mai 2001. L'ACCMT entrera en vigueur le 1<sup>er</sup> septembre2001.</p>
+<p>L'ACCMT s'applique aux marchés publics de produits de télécommunications de plus de 261,216 $. Il ne s'applique pas aux marchés constitués essentiellement de services de télécommunications.</p>
+<p>Dans sa mise en œuvre, l'ACCMT se distingue de l'ALENA et de l'AMP-OMC puisque, dans un marché visé par l'ACCMT, on peut donner la préférence à des fournisseurs de produits canadiens et (ou) coréens.</p>
+<p>Les marchés visés par l'ACCMT et l'AMP-OMC doivent respecter les procédures définies pour l'AMP-OMC. À l'exception des produits énumérés dans la Classification fédérale des approvisionnements (CFA) 58, les marchés qui peuvent être réputés porter sur des produits visés en vertu de l'ACCMT sont également soumis à l'AMP-OMC.</p>
+<p>Les marchés visés par l'ACCMT, mais non par l'AMP-OMC, doivent respecter les procédures spéciales définies dans les changements apportés au Guide des approvisionnements. Les procédures spéciales pour les marchés visés par l'ACCMT regroupent les éléments des procédures s'appliquant à l'AMP-OMC et à la Politique sur le contenu canadien.</p>
+<p>Vous trouverez ci-joint les changements apportés au Guide des approvisionnements.</p>
+<p>Huit nouvelles clauses du Guide des CCUA ont été rédigées : K5000D, K5001T, K5002T, K5003T, K5004T, K5005T, K5006T et K5100C. Une clause du Guide des CCUA, soit la A9110T, a été révisée. Ces clauses sont reproduites ci-joint.</p>
+<p>Ces changements entrent en vigueur le 1<sup>er</sup> septembre 2001.</p>
+<p>Toutes les questions portant sur l'application de l'ACCMT doivent être adressées à la Direction de la politique stratégique (DPS), dont le numéro de téléphone est le 819-956-6497.</p>
+<hr/>
+<h3>CHANGEMENTS AU MANUEL DES CCUA</h3>
+<h4>K5000D (XX/XX/XX) Définitions de l'ACCMT</h4>
+<p><strong>Remarque : CETTE CLAUSE DOIT ÊTRE REPRODUITE INTÉGRALEMENT DANS LES DOCUMENTS D'ACHAT. </strong>Utiliser la clause suivante dans tous les cas où il faut fournir des définitions pour un marché visé par les procédures spéciales dans le cadre de l'Accord Canada-Corée sur les achats de matériel de télécommunications (ACCMT). On ne doit pas se servir de cette clause lorsque le marché est également assujetti à l'AMP-OMC. Les procédures spéciales prévues dans le cadre de l'ACCMT ne doivent être appliquées qu'aux marchés qui ne sont pas visés par l'AMP-OMC. Pour les marchés visés par l'ACCMT et par l'AMP-OMC, on applique les procédures de l'AMP-OMC. Il faut toujours reproduire cette clause dans tous les cas où les clauses K5001T, K5002T, K5003T, K5004T, K5005T et K5006T font partie du contrat.</p>
+<h4>Texte :</h4>
+<p>Dans le cadre de l'ACCMT :</p>
+<p>1. a) Pour l'application de cette politique seulement, on considère comme des produits canadiens ou coréens les produits ainsi considérés dans le cadre du « Règlement sur la désignation, aux fins de marquage, des pays d'origine des marchandises (pays signataires de l'ALENA) » du Canada. On ne peut pas se prévaloir de l'article 8 de ce règlement, qui prévoit une dérogation aux préférences tarifaires de l'ALENA, pour établir si un produit est d'origine canadienne.</p>
+<p>b) On entend par « service accessoire » tous les services compris dans un appel d'offres pour l'achat d'un produit visé en vertu de cet accord.</p>
+<p>Sont considérés comme des services canadiens ou coréens, respectivement, les services fournis par des personnes physiques ou morales établies au Canada ou en Corée. Lorsqu'un marché porte sur un seul service fourni par plusieurs personnes, on considère qu'il s'agit d'un service canadien ou coréen si au moins 60 % du prix total proposé pour ce service sont assurés par des personnes établies au Canada ou en Corée respectivement.</p>
+<p>c) On entend par « territoire » :</p>
+<ul class="noBullet">
+<li>(i) en ce qui a trait à la Corée, le territoire de la Corée, ainsi que les zones maritimes, y compris le fond marin et le sous-sol voisin du périmètre des zones territoriales sur lesquelles la Corée exerce, conformément au droit international, des droits souverains ou des compétences pour l'exploration et l'exploitation des ressources naturelles de ces zones;</li>
+<li>(ii) en ce qui a trait au Canada, le territoire auquel s'appliquent ses lois douanières, y compris toutes les zones au-delà des eaux territoriales du Canada dans lesquelles, conformément au droit international et aux lois nationales de ce pays, le Canada peut exercer des droits relativement au tréfonds et au sous-sol, ainsi qu'à ses ressources naturelles.</li>
+</ul>
+<p>2. Variété de produits : lorsqu'un marché porte sur plusieurs produits, l'évaluation peut se dérouler selon deux méthodes :</p>
+<ol type="a">
+<li>attestation globale : au moins 60 % du prix total proposé correspond à des produits canadiens et (ou) coréens;</li>
+<li>évaluation détaillée : dans certains cas, on peut évaluer les propositions dans les détails, pour chaque produit, et attribuer les contrats à plusieurs fournisseurs. Dans ces cas, on demande aux fournisseurs d'indiquer séparément chaque produit répondant à la définition de produits canadiens ou coréens.</li>
+</ol>
+<p>3. Éventail de produits et de services : lorsqu'un marché est constitué d'un éventail de produits et de services, au moins 60 % du prix total proposé correspond à des produits et à des services canadiens et (ou) coréens (au sens défini ci-dessus).</p>
+<hr/>
+<h4>K5001T (XX/XX/XX) Attestation de l'ACCMT</h4>
+<p><strong>Remarque : CETTE CLAUSE DOIT ÊTRE REPRODUITE INTÉGRALEMENT DANS LES DOCUMENTS D'ACHAT.</strong> Utiliser la clause suivante dans tous les appels d'offres lancés en régime de concurrence et dans le cadre desquels on applique les procédures spéciales de l'ACCMT (voir le Guide des approvisionnements), de même que lorsque la concurrence est limitée exclusivement aux propositions portant sur des produits et des services canadiens et (ou) coréens. On doit se servir de cette clause pour les marchés portant sur des produits uniques et pour les marchés portant sur plusieurs produits qui font l'objet d'une attestation globale. Cette clause doit être utilisée de pair avec la clause K5000D (Définitions de l'ACCMT).</p>
+<h4>Texte :</h4>
+<p>1. Ce marché est limité aux produits et aux services canadiens et (ou) coréens au sens défini dans la clause K5000D (Définitions de l'ACCMT).</p>
+<p>2. Le soumissionnaire déclare et atteste que, pour les produits et les services offerts, au moins 60 % du prix proposé correspond à des produits et à des services canadiens et (ou) coréens au sens défini dans la clause K5000D (Définitions de l'ACCMT).</p>
+<p>3. Le soumissionnaire reconnaît que le ministre s'en remettra à cette déclaration et à cette attestation pour évaluer les propositions et pour conclure un contrat dans le cadre de cette demande de proposition. Cette déclaration et cette attestation du contenu canadien ou coréen pourront être vérifiées selon les modalités que le ministre pourra prescrire à juste titre.</p>
+<p>4. Si une vérification effectuée à la demande du ministre permet de constater que cette convention n'est pas respectée, ce dernier aura le droit de considérer que le contrat découlant de cette proposition est en défaut.</p>
+<p>5. Si le soumissionnaire ne peut pas vérifier l'origine des produits ou des services offerts dans sa proposition, cette proposition sera jugée irrecevable.</p>
+<p>6. À défaut de signer cette déclaration et cette attestation dans la zone prévue ci-après et de les joindre à la proposition, cette dernière sera jugée irrecevable.</p>
+<p>___________________<br/>
+          Signature<br/>
+          ___________________<br/>
+          Date</p>
+<hr/>
+<h4>K5002T (XX/XX/XX) Attestation de l'ACCMT</h4>
+<p><strong>Remarque : CETTE CLAUSE DOIT ÊTRE REPRODUITE INTÉGRALEMENT DANS LES DOCUMENTS D'ACHAT</strong>. Reproduire la clause suivante dans tous les appels d'offres lancés en régime de concurrence et dans le cadre desquels on applique les procédures spéciales de l'ACCMT (voir le Guide des approvisionnements), lorsque la concurrence est restreinte de façon conditionnelle aux soumissions dans lesquelles sont offerts des produits et(ou) des services canadiens et (ou) coréens. Cette clause doit être utilisée dans le cas des besoins pour un seul article et des besoins pour plusieurs articles devant faire l'objet d'une attestation globale. Cette clause doit être utilisée de pair avec la clause K5000D, Définitions de l'ACCMT.</p>
+<h4>Texte :</h4>
+<p>1. Pour cet achat, une préférence est accordée aux produits et services canadiens et (ou) coréens au sens défini dans la clause K5000D (Définitions de l'ACCMT).</p>
+<p>2. Si trois soumissions ou plus sont accompagnées d'une attestation valide, la préférence sera accordée aux soumissions contenant la présente déclaration et attestation.</p>
+<p>3. En signant la présente déclaration et attestation, le soumissionnaire déclare et atteste que, pour les produits et les services offerts, au moins 60 % du prix proposé correspond à des produits et à des services canadiens et (ou) coréens au sens défini dans la clause K5000D (Définitions de l'ACCMT).</p>
+<p>4. Le soumissionnaire reconnaît que le ministre s'en remettra à cette déclaration et à cette attestation pour évaluer les propositions et pour conclure un contrat dans le cadre de cette demande de proposition. Cette déclaration et cette attestation du contenu canadien ou coréen pourront être vérifiées selon les modalités que le ministre pourra prescrire à juste titre.</p>
+<p>5. Si une vérification effectuée à la demande du ministre permet de constater que cette convention n'est pas respectée, ce dernier aura le droit de considérer que le contrat découlant de cette proposition est en défaut.</p>
+<p>6. Si le soumissionnaire ne peut pas vérifier l'origine des produits ou des services offerts dans sa proposition, cette proposition sera jugée irrecevable.</p>
+<p>7. Le défaut de dûment signer la présente déclaration et attestation dans l'espace prévu ci-dessous et de la joindre à la soumission aura comme effet que les biens et services ne seront pas considérés comme canadiens et (ou) coréens.</p>
+<p>___________________<br/>
+          Signature<br/>
+          ___________________<br/>
+          Date</p>
+<hr/>
+<h4>K5003T (XX/XX/XX) Attestation de l'ACCMT</h4>
+<p><strong>Remarque : CETTE CLAUSE DOIT ÊTRE REPRODUITE INTÉGRALEMENT DANS LES DOCUMENTS D'ACHAT. Utiliser</strong> la clause suivante dans tous les appels d'offres lancés en régime de concurrence et dans le cadre desquels on applique les procédures spéciales de l'ACCMT (voir le Guide des approvisionnements), de même que lorsque la concurrence est limitée exclusivement aux propositions portant sur des produits et des services canadiens et (ou) coréens. Cette clause doit être utilisée dans le cas des besoins pour plusieurs articles, chacun devant faire l'objet d'une attestation, et lorsque le soumissionnaire doit indiquer, contre chaque article énuméré dans la soumission, s'il s'agit d'un article canadien ou coréens. Cette clause doit être utilisée de pair avec la clause K5000D, Définitions de l'ACCMT.</p>
+<h4>Texte :</h4>
+<p>1. Ce marché est limité aux produits et aux services canadiens et (ou) coréens au sens défini dans la clause K5000D, Définitions de l'ACCMT.</p>
+<p>2. En signant la présente déclaration et attestation, le soumissionnaire déclare et atteste que, pour les produits et les services offerts, au moins 60 % du prix proposé correspond à des produits et à des services canadiens et (ou) coréens au sens défini dans la clause K5000D (Définitions de l'ACCMT).</p>
+<p>3. Les soumissions peuvent être acceptées en entier ou en partie.</p>
+<p>4. Le soumissionnaire reconnaît que le ministre s'en remettra à cette déclaration et à cette attestation pour évaluer les propositions et pour conclure un contrat dans le cadre de cette demande de proposition. Cette déclaration et cette attestation du contenu canadien ou coréen pourront être vérifiées selon les modalités que le ministre pourra prescrire à juste titre.</p>
+<p>5. Si une vérification effectuée à la demande du ministre permet de constater que cette convention n'est pas respectée, ce dernier aura le droit de considérer que le contrat découlant de cette proposition est en défaut.</p>
+<p>6. Si le soumissionnaire ne peut pas vérifier l'origine des produits ou des services offerts dans sa proposition, cette proposition sera jugée irrecevable.</p>
+<p>7. À défaut de signer cette déclaration et cette attestation dans la zone prévue ci-après et de les joindre à la proposition, cette dernière sera jugée irrecevable.</p>
+<p>___________________<br/>
+          Signature<br/>
+          ___________________<br/>
+          Date</p>
+<hr/>
+<h4>K5004T (XX/XX/XX) Attestation de l'ACCMT</h4>
+<p><strong>Remarque : CETTE CLAUSE DOIT ÊTRE REPRODUITE INTÉGRALEMENT DANS LES DOCUMENTS D'ACHAT</strong>. Utiliser la clause suivante dans tous les appels d'offres lancés en régime de concurrence et dans le cadre desquels on applique les procédures spéciales de l'ACCMT (voir le Guide des approvisionnements), de même que lorsque la concurrence est limitée exclusivement aux propositions portant sur des produits et des services canadiens et (ou) coréens. Cette clause doit être utilisée dans le cas des besoins pour plusieurs articles, chacun devant faire l'objet d'une attestation, et lorsque le soumissionnaire doit indiquer, contre chaque article énuméré dans sa soumission, s'il s'agit  d'un article canadien ou coréens. Cette clause doit être utilisée de pair avec la clause K5000D, Définitions de l'ACCMT.</p>
+<h4>Texte :</h4>
+<p>1. Ce marché est limité aux produits et aux services canadiens et (ou) coréens au sens défini dans la clause K5000D (Définitions de l'ACCMT).</p>
+<p>2. Les soumissions peuvent être acceptées en entier ou en partie.</p>
+<p>3. Le soumissionnaire déclare et atteste que les produits ou les services suivants qui sont offerts sont des produits ou des services canadiens et (ou) coréens, conformément aux définitions de la clause K5000D, Définitions de l'ACCMT, et il reconnaît que seuls ces produits ou ces services seront pris en considération.</p>
+<p>____________________<br/>
+          ____________________<br/>
+          ____________________<br/>
+          ____________________<br/>
+          ____________________<br/>
+          ____________________<br/>
+          ____________________</p>
+<p>4. Le soumissionnaire reconnaît que le ministre s'en remettra à cette déclaration et à cette attestation pour évaluer les propositions et pour conclure un contrat dans le cadre de cette demande de proposition. Cette déclaration et cette attestation du contenu canadien ou coréen pourront être vérifiées selon les modalités que le ministre pourra prescrire à juste titre.</p>
+<p>5. Si une vérification effectuée à la demande du ministre permet de constater que cette convention n'est pas respectée, ce dernier aura le droit de considérer que le contrat découlant de cette proposition est en défaut.</p>
+<p>6. Si le soumissionnaire ne peut pas vérifier l'origine des produits ou des services offerts dans sa proposition, cette proposition sera jugée irrecevable.</p>
+<p>7. À défaut de signer cette déclaration et cette attestation dans la zone prévue ci-après et de les joindre à la proposition, cette dernière sera jugée irrecevable.</p>
+<p>___________________<br/>
+          Signature<br/>
+          ___________________<br/>
+          Date</p>
+<hr/>
+<h4>K5005T (XX/XX/XX) Attestation de l'ACCMT</h4>
+<p><strong>Remarque : CETTE CLAUSE DOIT ÊTRE REPRODUITE INTÉGRALEMENT DANS LES DOCUMENTS D'ACHAT. Utiliser</strong> la clause suivante dans tous les appels d'offres lancés en régime de concurrence et dans le cadre desquels on applique les procédures spéciales de l'ACCMT (voir le Guide des approvisionnements), lorsque la concurrence est restreinte de façon conditionnelle aux soumissions dans lesquelles sont offerts des produits et(ou) des services canadiens et (ou) coréens. Cette clause doit être utilisée dans le cas des besoins pour plusieurs articles, chacun devant faire l'objet d'une attestation, et lorsque le soumissionnaire doit indiquer, contre chaque article énuméré dans sa soumission, s'il s'agit d'un article canadien ou coréens. Cette clause doit être utilisée de pair avec la clause K5000D, Définitions de l'ACCMT.</p>
+<h4>Texte :</h4>
+<p>1. Pour cet achat, une préférence est accordée aux produits et services canadiens et (ou) coréens au sens défini dans la clause K5000D, Définitions de l'ACCMT.</p>
+<p>2. Si trois soumissions ou plus sont accompagnées d'une attestation valide, les articles accompagnés de la présente déclaration et attestation se verront accorder individuellement la préférence sur les autres soumissions. Les soumissions peuvent être acceptées en entier ou en partie.</p>
+<p>3. En signant la présente déclaration et attestation, le soumissionnaire déclare et atteste que, pour les produits et les services offerts, au moins 60 % du prix proposé correspond à des produits et à des services canadiens et (ou) coréens au sens défini dans la clause K5000D (Définitions de l'ACCMT).</p>
+<p>4. Le soumissionnaire reconnaît que le ministre s'en remettra à cette déclaration et à cette attestation pour évaluer les propositions et pour conclure un contrat dans le cadre de cette demande de proposition. Cette déclaration et cette attestation du contenu canadien ou coréen pourront être vérifiées selon les modalités que le ministre pourra prescrire à juste titre.</p>
+<p>5. Si une vérification effectuée à la demande du ministre permet de constater que cette convention n'est pas respectée, ce dernier aura le droit de considérer que le contrat découlant de cette proposition est en défaut.</p>
+<p>6. Si le soumissionnaire ne peut pas vérifier l'origine des produits ou des services offerts dans sa proposition, cette proposition sera jugée irrecevable.</p>
+<p>7. Le défaut de dûment signer la présente déclaration et attestation dans l'espace prévu ci-dessous et de la joindre à la soumission aura comme effet que les biens et services ne seront pas considérés comme canadiens et (ou) coréens.</p>
+<p>___________________<br/>
+          Signature<br/>
+          ___________________<br/>
+          Date</p>
+<hr/>
+<h4>K5006T (XX/XX/XX) Attestation de l'ACCMT</h4>
+<p><strong>Remarque : CETTE CLAUSE DOIT ÊTRE REPRODUITE INTÉGRALEMENT DANS LES DOCUMENTS D'ACHAT. Utiliser</strong> la clause suivante dans tous les appels d'offres lancés en régime de concurrence et dans le cadre desquels on applique les procédures spéciales de l'ACCMT (voir le Guide des approvisionnements), lorsque la concurrence est restreinte de façon conditionnelle aux soumissions dans lesquelles sont offerts des produits et (ou) des services canadiens et (ou) coréens. Cette clause doit être utilisée dans le cas des besoins pour plusieurs articles, chacun devant faire l'objet d'une attestation, et lorsque le soumissionnaire doit énumérer, dans l'espace prévue dans la clause, chaque article qui doit être considéré comme produit canadien ou service canadien ou coréens. Cette clause doit être utilisée de pair avec la clause K5000D, Définitions de l'ACCMT.</p>
+<h4>Texte :</h4>
+<p>1. Pour cet achat, une préférence est accordée aux produits et services canadiens et (ou) coréens au sens défini dans la clause K5000D, Définitions de l'ACCMT.</p>
+<p>2. Si trois soumissions ou plus sont accompagnées d'une attestation valide, les articles accompagnés de la présente déclaration et attestation se verront accorder individuellement la préférence sur les autres soumissions. Les soumissions peuvent être acceptées en entier ou en partie.</p>
+<p>3. Le soumissionnaire déclare et atteste que les produits ou les services suivants qui sont offerts sont des produits ou des services canadiens, conformément aux définitions de la clause K4000D, Définition de l'ACCMT.</p>
+<p>____________________<br/>
+          ____________________<br/>
+          ____________________<br/>
+          ____________________<br/>
+          ____________________<br/>
+          ____________________<br/>
+          ____________________</p>
+<p>4. Le soumissionnaire reconnaît que le ministre s'en remettra à cette déclaration et à cette attestation pour évaluer les propositions et pour conclure un contrat dans le cadre de cette demande de proposition. Cette déclaration et cette attestation du contenu canadien ou coréen pourront être vérifiées selon les modalités que le ministre pourra prescrire à juste titre.</p>
+<p>5. Si une vérification effectuée à la demande du ministre permet de constater que cette convention n'est pas respectée, ce dernier aura le droit de considérer que le contrat découlant de cette proposition est en défaut.</p>
+<p>6. Si le soumissionnaire ne peut pas vérifier l'origine des produits ou des services offerts dans sa proposition, cette proposition sera jugée irrecevable.</p>
+<p>7. Le défaut de dûment signer la présente déclaration et attestation dans l'espace prévu ci-dessous et de la joindre à la soumission aura comme effet que les biens et services ne seront pas considérés comme canadiens et (ou) coréens.</p>
+<p>___________________<br/>
+          Signature<br/>
+          ___________________<br/>
+          Date</p>
+<hr/>
+<h4>K5100C (XX/XX/XX) Attestation de l'ACCMT</h4>
+<p><strong>Remarque : CETTE CLAUSE DOIT ÊTRE REPRODUITE INTÉGRALEMENT DANS LES DOCUMENTS D'ACHAT.</strong>  Utiliser la clause suivante dans tous les contrats lorsque le soumissionnaire retenu doit remplir et présenter une attestation de l'ACCMT afin d'être considéré.</p>
+<h4>Texte :</h4>
+<p>1. L'entrepreneur déclare et atteste que l'attestation relative au contenu canadien et (ou) coréens présentée avec sa soumission est exacte et complète et que les produits ou les services devant être fournis au Canada conformément au présent contrat seront conformes à ladite attestation. L'entrepreneur reconnaît que le Ministre s'est fondé sur la présente déclaration et attestation pour conclure le présent contrat et que ladite déclaration et attestation peut être vérifiée de la manière que le Ministre peut raisonnablement exiger.</p>
+<p>2. L'entrepreneur reconnaît que s'il n'honore pas le présent engagement, le Ministre pourra le considérer en défaut aux termes du présent contrat, conformément aux dispositions relatives aux manquements de l'entrepreneur.</p>
+<p>3. L'entrepreneur tient les dossiers et les documents appropriés sur l'origine des produits et des services offerts au Canada. Sauf autorisation écrite du Ministre au préalable, l'entrepreneur ne pourra éliminer ces dossiers ou ces documents avant l'expiration d'une période de six (6) années commençant à la dernière des dates suivantes : la date du paiement final en vertu du présent contrat ou la date du règlement de toute plainte ou de tout litige. Au cours de cette période, tous les dossiers et les documents devront être en tout temps accessibles pour des vérifications, enquêtes et examens par les représentants autorisés du Ministre, qui pourront en tirer des copies ou des extraits. L'entrepreneur fournira toutes les installations nécessaires à ces vérifications, enquêtes et examens ainsi que tous les renseignements sur les dossiers et les documents que les représentants du ministre lui demanderont.</p>
+<p>4. La présente clause ne peut être interprétée de façon à limiter les droits et les recours que le Canada ou le Ministre pourra par ailleurs avoir en rapport avec le présent contrat ou en vertu de celui-ci.</p>
+<hr/>
+<h4>A9110T (XX/XX/XX)  Marchés réservés dans le cadre des ententes sur la revendication territoriale globale</h4>
+<p><strong>Remarque : CETTE CLAUSE DOIT ÊTRE REPRODUITE INTÉGRALEMENT DANS LES DOCUMENTS D'ACHAT. </strong>Reproduire intégralement la clause suivante au début de l'appel d'offres ou de la demande de proposition lorsque le marché est réservé en vertu de la Politique sur les marchés réservés dans le cadre des ententes sur la revendication territoriale globale. S'assurer qu'on indique dans la clause l'accord commercial visé. L'Avis de politique 1997-8 sur la passation des marchés du Secrétariat du Conseil du Trésor du Canada en date du 10décembre1997 renferme de plus amples renseignements sur la mise en œuvre des obligations contractuelles en vertu des ententes sur les revendications territoriales globales.</p>
+<h4>Texte :</h4>
+<p>Ce marché est réservé dans le cadre de ______ (reproduire la mention pertinente : article 1(d) de l'annexe 1001.2b de l'Accord de libre-échange nord-américain; article 1(d) de l'appendice1 de l'Accord sur les marchés publics de l'Organisation mondiale du commerce; partie 5 de l'article 1 de l'Accord Canada-Corée sur les achats de matériel de télécommunications (ACCMT) (cf. l'annexe 4.2), et (ou) article 1802 de l'Accord sur le commerce intérieur (ACI) (annexe 4.7).</p>
+<hr/>
+<h3>CHANGEMENTS AU GUIDE DES APPROVISIONNEMENTS</h3>
+<h3>CHAPITRE 4 - ACCORDS NATIONAUX ET INTERNATIONAUX SUR LE COMMERCE</h3>
+<ul class="noBullet">
+<li>Ententes sur les revendications territoriales globales </li>
+<li>Obligations en matière d'approvisionnements </li>
+<li>Définition des besoins </li>
+<li>Accès aux terres inuit de la région du Nunavut </li>
+<li>Avis d'achat </li>
+<li>ALENA </li>
+<li>OMC-AMP </li>
+<li>ACCMT </li>
+<li>Accord sur le commerce intérieur (ACI) </li>
+<li>Tribunal canadien sur le commerce extérieur</li>
+</ul>
+<ul class="noBullet">
+<li>Annexe 4.1 : CHAMP D'APPLICATION POUR LES SERVICES VISÉS PAR L'OMC-AMP TEL QU'ÉTABLI PAR LE SYSTÈME COMMUN DE CLASSIFICATION (SCC) </li>
+<li>Annexe 4.2 : L'ACCORD CANADA-CORÉE SUR LES ACHATS DE MATÉRIAL DE TÉLÉCOMMUNICATION (ACCMT) </li>
+<li>Annexe 4.3 : Politique du Conseil du Trésor mettant en œuvre l'ACCMT </li>
+<li>Annexe 4.4 : ACCORD SUR LE COMMERCE INTÉRIEUR </li>
+<li>Annexe 4.7 : ACI : EXTRAITS DE LA PARTIE I, DÉFINITIONS GÉNÉRALES, CHAPITRE DEUX; ET DE LA PARTIE VI, DISPOSITIONS FINALES, CHAPITRE DIX-HUIT</li>
+</ul>
+<h3>CHAPITRE 5 - STRATÉGIE DE SÉLECTION DES FOURNISSEURS</h3>
+<ul class="noBullet">
+<li>Détermination de l'étendue de la concurrence </li>
+<li>Invocation de l'exception pour des raisons de sécurité nationale </li>
+<li>Ententes sur les revendications territoriales globales (ERTG) </li>
+<li>ALENA, OMC-AMP, ACCMT et ACI </li>
+<li>Types de concurrence </li>
+<li>Marchés assujettis aux accords commerciaux </li>
+<li>Marchés non-assujettis aux accords commerciaux </li>
+<li>ALENA, OMC-AMP, ACCMT et ACI et les méthodes d'appel d'offres </li>
+<li>Choix des soumissionnaires admissibles </li>
+<li>Programme des marchés réservés aux entreprises autochtones </li>
+<li>ACCMT </li>
+<li>Politique sur le contenu canadien </li>
+<li>Examen des retombées socio-économiques des achats </li>
+<li>Construction de navires, réparation, radoub et modernisation </li>
+<li>Imprimerie </li>
+<li>Équité en matière d'emploi </li>
+<li>Science et technologie </li>
+<li>Compétences des fournisseurs </li>
+<li>Achats inférieurs à 25 000 $ </li>
+<li>Numéro d'entreprise - approvisionnement </li>
+<li>Méthodes d'invitation </li>
+<li>Appel d'offres </li>
+<li>Demande de propositions </li>
+<li>Demande de prix </li>
+<li>Achat par téléphone </li>
+<li>Offres à commandes </li>
+<li>Sécurité industrielle </li>
+<li>arrangements en matière d'approvisionnement (AA)</li>
+</ul>
+<ul class="noBullet">
+<li>Annexe 5.1 : LISTE DES ORGANISMES DE SERVICES SPÉCIAUX </li>
+<li>Annexe 5.2 : DESCRIPTION DÉTAILLÉE - CEA </li>
+<li>Annexe 5.3 : CODES DU PROCESSUS D'ATTRIBUTION DES CONTRATS (PAC) </li>
+<li>Annexe 5.5 : RÈGLES DE DÉTERMINATION DE L'ORIGINE</li>
+</ul>
+<h3>CHAPITRE 7 - ACHATS EN RÉGIME DE CONCURRENCE</h3>
+<h3>SECTION 7A : PRÉPARATION D'UNE INVITATION À SOUMISSIONNER</h3>
+<ul class="noBullet">
+<li>Documents </li>
+<li>Conditions </li>
+<li>Invitations à soumissionner et Ententes sur les revendications</li>
+<li>territoriales globales </li>
+<li>ALENA et OMC-AMP </li>
+<li>ACCMT </li>
+<li>Contenu canadien </li>
+<li>Clôture des soumissions </li>
+<li>Garantie de soumissions </li>
+<li>Exécution </li>
+<li>Conférence des soumissionnaires et visite des installations </li>
+<li>Acomptes et paiements anticipés </li>
+<li>Paiements d'intérêts sur les comptes en souffrance </li>
+<li>Considérations relatives aux remises au comptant </li>
+<li>Paiement effectué par carte de crédit </li>
+<li>Clauses de vérification </li>
+<li>Marchés à frais remboursables </li>
+<li>Taux fixe basé sur le temps </li>
+<li>Méthode de présentation des soumissions </li>
+<li>Attestation des Arsenaux canadiens Limitée </li>
+<li>Coûts de transport </li>
+<li>Taux de transport par camion </li>
+<li>Soumissions portant sur plusieurs articles </li>
+<li>Paiements de redevances et contrats de licence </li>
+<li>Propriété intellectuelle </li>
+<li>Dispositions relatives à la variation du taux de change </li>
+<li>Demandes d'offres à commandes </li>
+<li>Services - Résidents non permanents </li>
+<li>Anciens fonctionnaires </li>
+<li>Taxes et droits </li>
+<li>Droits de douane </li>
+<li>Retenue de 15 p. 100 sur les marchés de services conclus avec des entrepreneurs non-résidents </li>
+<li>Approvisionnements de défense </li>
+<li>Droits de douane et taxes sur les outils, le matériel et les pièces de rechange dans les contrats de services rendus par des non-résidents </li>
+<li>Taxes d'accise </li>
+<li>Taxe sur les produits et services/Taxe de vente harmonisée </li>
+<li>Équité en matière d'emploi </li>
+<li>Entreprises en participation </li>
+<li>Système américain régissant les priorités et les attributions en matière de défense</li>
+</ul>
+<h3>SECTION 7D : TRAITEMENT DES SOUMISSIONS</h3>
+<ul class="noBullet">
+<li>Pouvoirs </li>
+<li>Respect des délais </li>
+<li>Réception des soumissions </li>
+<li>Dépouillement </li>
+<li>Traitement des documents de nature délicate </li>
+<li>Dépouillement public des soumissions </li>
+<li>Modification et retrait de soumissions </li>
+<li>Modification </li>
+<li>Retrait </li>
+<li>Différences dans les soumissions </li>
+<li>Évaluation des réponses </li>
+<li>Équité en matière d'emploi </li>
+<li>ACCMT </li>
+<li>Contenu canadien </li>
+<li>Offres spontanées </li>
+<li>Admissibilité des soumissions d'entreprises en participation </li>
+<li>Éclaircissements </li>
+<li>Évaluation par le client </li>
+<li>Taxes et droits </li>
+<li>Garantie financière </li>
+<li>Frais de transport </li>
+<li>Questions relatives au taux de change </li>
+<li>Soumissions moins-disantes identiques </li>
+<li>Soumissions portant sur plusieurs articles </li>
+<li>Collusion/fraude et truquage des soumissions </li>
+<li>Conditions non uniformisées </li>
+<li>Aucune soumission recevable </li>
+<li>Une seule soumission recevable </li>
+<li>Négociations </li>
+<li>Mise à l'écart d'un fournisseur </li>
+<li>Prolongation de la période de validité des soumissions </li>
+<li>Annulation et réémission de documents de soumission </li>
+<li>Avis aux soumissionnaires non retenus </li>
+<li>Construction et radoub de navire </li>
+<li>Autres besoins</li>
+</ul>
+<h3>CHAPITRE 4 - ACCORDS NATIONAUX ET INTERNATIONAUX SUR LE COMMERCE</h3>
+<p>4.001 (XX/XX/XX) Les ententes sur les revendications territoriales globales (ERTG), l'Accord de libre-échange nord-américain (ALENA), l'Organisation mondiale du commerce - Accord sur les marchés publics (OMC-AMP), L'accord Canada-Corée sur les achats de matérial de télécommunication (ACCMT) et l'Accord sur le commerce intérieur (ACI) exigent que Travaux publics et Services gouvernementaux Canada (TPSGC) se conforme à des procédures spécifiques lorsqu'il effectue certains achats. Par conséquent, on doit décider si la demande est assujettie à un accord particulier ou à une combinaison de plusieurs accords.</p>
+<p>Pour déterminer le champ d'application de l'ALENA, de l'OMC-AMP, de l'ACCMT et de l'ACI, on doit tenir compte de la valeur de la demande, du client, du type de produit ou de service, et de toutes les exceptions ou exclusions. Le champ d'application des ERTG se fonde sur le lieu où le service sera fourni ou le bien sera livré.</p>
+<p>On doit inclure le montant approximatif de la taxe sur les produits et services (TPS) et (ou) de la taxe de vente harmonisée (TVH) lorsqu'on détermine la valeur de la demande.</p>
+<h4>Ententes sur les revendications territoriales globales</h4>
+<p>4.002 (XX/XX/XX) Les ERTG comportent des obligations contractuelles que TPSGC est légalement tenu de respecter. Ces obligations, qui s'appliquent aux contrats de biens, de services et de construction conclus dans les régions visées par les ententes sur les revendications territoriales globales.</p>
+<p>Un achat qui est assujetti aux ERTG et à un ou plusieurs des accords commerciaux (ALENA, OMC-AMP, ACCMT, ACI) peut faire l'objet de procédures spéciales. (Voir 4.009, 4.010 4.011, 4.012.) Un achat qui est soumis aux ERTG, mais non à l'un ou l'autre des accords commerciaux, doit respecter l'ensemble des politiques en matière d'approvisionnements qui s'appliquent aux marchés non visés par l'ALENA, l'OMC-AMP, l'ACCMT et l'ACI. Par exemple, la politique sur le contenu canadien s'appliquant aux besoins dont la valeur est supérieure à 25 000 dollars.</p>
+<p>Les procédures et les politiques relatives à la mise en œuvre de chacune des ERTG sont élaborées, lorsque c'est possible, dans le but d'atteindre les objectifs suivants qui ont été établis par le Secrétariat du Conseil du Trésor (SCT) :</p>
+<ol type="a">
+<li>accroître la participation des groupes autochtones aux occasions d'affaires dans la région visée par le règlement;</li>
+<li>améliorer la capacité des entreprises autochtones à soumissionner les marchés publics dans la région visée par le règlement;</li>
+<li>embaucher un nombre représentatif d'Autochtones dans la région visée par le règlement.</li>
+</ol>
+<p>Pour tout achat dont les activités de négociation de contrat se déroulent dans une région visée par une ERTG, les agents de négociation des contrats devraient consulter la Direction de la politique opérationnelle (DPO), au 819-956-0863, afin de déterminer si une ERTG peut avoir une incidence sur la stratégie d'approvisionnement globale. Dans chaque cas, la DPO aidera les agents de négociation de contrats à identifier ces obligations et à élaborer des méthodes permettant de les respecter.</p>
+<h4>Accord Canada-Corée sur les achats de matériel de télécommunications (ACCMT)</h4>
+<p>4.011 (XX/XX/XX) L'ACCMT est un accord bilatéral intervenu entre le Canada et la Corée et portant sur l'achat, par le gouvernement fédéral, de biens de télécommunication et de services accessoires (faisant l'objet d'un contrat portant sur des biens visés). L'ACCMT a été signé au début de juillet 1999. La politique du Conseil du Trésor mettant en œuvre l'ACCMT a été approuvée en mai 2001. (Voir l'annexe 4.3.)</p>
+<p>Dans sa mise en œuvre, l'ACCMT se distingue de l'ALENA et de l'AMP-OMC puisque, dans un marché visé par l'ACCMT, on peut donner la préférence à des fournisseurs de biens canadiens et (ou) coréens.</p>
+<p>Les marchés visés par l'ACCMT et l'AMP-OMC doivent respecter les procédures définies pour l'AMP-OMC, puisqu'en vertu de ce dernier accord, le Canada s'est engagé à ouvrir ces marchés à la Corée et aux autres pays signataires de l'AMP-OMC.</p>
+<p>À l'exception des articles énumérés dans la CFA 58, les marchés qui peuvent être réputés se rapporter à des biens visés répondant à la définition ci-dessus sont également visés par l'AMP-OMC.</p>
+<p>Les marchés visés par l'ACCMT, mais non par l'AMP-OMC, doivent respecter les procédures spéciales reproduites dans le présent guide.</p>
+<p>Les procédures spéciales s'appliquant aux marchés visés par l'ACCMT regroupent les éléments des procédures s'appliquant à l'AMP-OMC et à la Politique sur le contenu canadien. Toutes les questions se rapportant à l'application de l'ACCMT doivent être adressées à la Division de la politique stratégique (DPS) au numéro de téléphone 956-6497.</p>
+<p>Les dispositions en matière de traitement national et de non discrimination et les procédures de passation des marchés de l'ACCMT s'apparentent à celles de l'AMP-OMC.</p>
+<p>Pour savoir si l'ACCMT produit ses effets, il faut consulter cet accord et la politique du CT qui le met en œuvre. (voir les annexes 4.2 et 4.3.)</p>
+<p>Si les quatre critères suivants de l'ACCMT sont tous respectés, le marché à passer y est assujetti. Si l'un quelconque de ces critères n'est pas respecté, le marché en question n'y est pas soumis.</p>
+<ol type="a">
+<li>Établir si le marché porte essentiellement sur des biens de télécommunications, plutôt que sur des services ou des travaux de construction. Consulter l'annexe 1 de l'ACCMT (annexe 4.2).</li>
+<li>Établir la valeur de la demande d'achat.
+<p>Consulter l'article 1 de l'ACCMT (objectif, définitions et portée de l'accord) (annexe 4.2), ainsi que l'article 2 de l'AMP-OMC (évaluation des marchés). (<a href="http://www.wto.org/english/tratop_e/" rel="external">http://www.wto.org/english/tratop_e/</a><br/>
+              gproc_e/agrmnt_e.htm#Article II</p>
+<p>Les seuils fixés dans l'ACCMT sont exprimés en droits de tirage spéciaux (DTS), soit l'unité de compte du Fonds monétaire international. Pour la période comprise entre le 1<sup>er</sup> janvier 2000 et le 31 décembre 2001, un marché peut être assujetti à l'ACCMT si la demande d'achat porte sur une valeur de 261 200 $ canadiens. Voir l'article 1 de l'ACCMT (annexe 4.2).</p>
+</li>
+<li>Déterminer le champ d'application pour chaque client. Consulter l'annexe 1 de l'ACCMT (annexe 4.2).</li>
+<li>Établir que le marché est visé par l'Accord.<br/>
+<ol type="i">
+<li>L'ACCMT ne s'applique pas aux contrats suivants :
+<ul>
+<li>achat de biens et de services destinés à être revendus dans le commerce ou à être utilisés dans la production de biens à vendre dans le commerce;</li>
+<li>marchés réservés pour les petites entreprises et les groupes des entreprises minoritaires;</li>
+<li>marchés pour les ministères des Transport, des Pêches et des Océans et des Communications en ce qui a trait aux Classifications fédérales des approvisionnements 36, 70 et 74.</li>
+</ul>
+</li>
+<li>Les exceptions à l'application de cet accord sont identiques à celles qui sont prévues à l'article 23 de l'AMP-OMC. (<a href="http://www.wto.org/english/tratop_e/" rel="external">http://www.wto.org/english/tratop_e/</a><br/>
+                gproc_e/agrmnt_e.htm#Article XXIII)</li>
+</ol>
+</li>
+</ol>
+<h4>La procédure 4.011 présentement dans le Guide sera rénumérée 4.012.</h4>
+<p>4.013 (XX/XX/XX) Les agents de négociation des contrats devraient garder à l'esprit que lorsque le marché est assujetti à plus d'un accord, les procédures à suivre sont celles qui sont considérées comme étant les plus rigoureuses, par exemple dans le cas du processus d'appel d'offres limité, pour les marchés assujettis à l'ALENA, à l'OMC-AMP et à l'ACI, seules les raisons communes aux trois accords peuvent être utilisées. (Voir 5.031.)</p>
+<p>Tribunal canadien sur le commerce extérieur</p>
+<p>4.014 (XX/XX/XX) En vertu de l'ALENA, de l'OMC-AMP, de l'ACCMT et de l'ACI, chacun des signataires aux accords en question doit établir un organisme indépendant chargé d'examiner les contestations des soumissions. Le Tribunal canadien du commerce extérieur (TCCE) (<a href="http://www.citt.gc.ca/menu_f.htm" rel="external">http://www.citt.gc.ca/menu_f.htm</a>) a été désigné l'organisme chargé, pour le Canada, d'examiner les contestations des soumissions présentées dans le cadre de l'ALENA, de l'OMC-AMP, de l'ACCMT et de l'ACI.</p>
+<p>Un fournisseur éventuel peut porter plainte auprès du TCCE pour toute activité d'achat, à l'égard de tout aspect de la procédure des marchés publics assujettis à l'ALENA, à l'OMC-AMP, à l'ACCMT et à l'ACI qu'il juge peu équitable ou discriminatoire.</p>
+<p>Les plaintes auprès du TCCE devraient être envoyées à l'adresse suivante :</p>
+<p>Tribunal canadien du commerce extérieur <br/>
+          Division de l'examen des marchés publics <br/>
+          Standard Life Centre <br/>
+          333, avenue Laurier ouest <br/>
+          Ottawa (Ontario) K1A 0G7</p>
+<p>Téléphone : 613-990-1988<br/>
+          Télécopieur : 613-992-3686</p>
+<p>4.015 (XX/XX/XX) Le Tribunal doit recevoir les plaintes portant sur n'importe quel aspect de la procédure des marchés publics et ce, jusqu'à l'attribution du contrat; il doit également faire enquête et prendre des décisions. Afin de statuer sur une plainte, le Tribunal doit déterminer si l'institution fédérale responsable du marché qui fait l'objet de l'examen a respecté les obligations prescrites dans l'ALENA, l'OMC-AMP, l'ACCMT et (ou) l'ACI et toute autre règle de procédure prévue au Règlement sur les enquêtes du Tribunal canadien du commerce extérieur sur les marchés publics.</p>
+<h4>Les procédures 4.015 à 4.017 présentement dans le Guide seront rénumérées 4.016 à 4.018.</h4>
+<p>5.010 (XX/XX/XX) Le Tribunal canadien du commerce extérieur (TCCE) a déterminé, avec sa décision PR-98-005, que le sous-ministre adjoint (SMA) de la Direction générale du service des approvisionnements (DGSA) a le pouvoir d'invoquer l'exception pour des raisons de sécurité nationale qui permet d'exclure un achat des modalités de l'AMP-OMC, de l'ALENA, de l'ACCMT et de l'ACI des accords commerciaux.</p>
+<p>5.012 (XX/XX/XX) Donc, pour se conformer à cette interprétation, la procédure suivant est maintenant en vigueur</p>
+<ol type="a">
+<li>toute proposition d'invocation de l'exception pour des raisons de sécurité nationale dans le but d'exclure un achat des modalités de l'AMP-OMC, de l'ALENA, de l'ACCMT ou de l'ACI, ou d'une combinaison desdits accords, doit être présentée au SMA de la DGSA pour approbation, peu importe la valeur du marché. Un plan d'achat formel sera utilisé comme mécanisme d'approbation. Le plan d'achat formel doit être approuvé par le SMA avant que ne soient publiés l'Avis de projet de marché, le Préavis d'adjudication de contrat, ou le document d'invitation à soumissionner;</li>
+<li>si aucune des conditions énumérées à la procédure 6E.662 qui exigent en règle générale un plan d'achat formel ne s'appliquent, un processus de planification et d'approbation préalable des contrats (PAPC) doit être préparé et présenté pour approbation avec le plan d'achat formel. L'approbation du PAPC, en plus de l'approbation du plan d'achat formel, permettra l'attribution du contrat sans consulter l'autorité qui a le pouvoir d'approbation, si aucune modification importante n'a été apportée au PAPC approuvé. Un formulaire approprié de Demande de contrat devra être exécuté avant l'attribution du contrat sans l'approbation du PAPC;</li>
+<li>invocation de l'exception pour des raisons de sécurité nationale doit être documentée. Il faut que les agents des achats expliquent clairement dans le PAPC qu'une telle exception est invoquée et qu'ils précisent de quels accords commerciaux l'achat est exclu.</li>
+</ol>
+<h4>ALENA, OMC-AMP, ACCMT et ACI</h4>
+<p>5.030 (XX/XX/XX) Avec la mise en place d'accords commerciaux tels l'ALENA, l'OMC-AMP et l'ACI, l'appel d'offre limité est la procédure utilisée pour la passation de marché non concurrentiel. L'appel d'offres limité est un processus qui permet de dévier du processus concurrentiel , y compris la possibilité de faire appel à un fournisseur exclusif ou unique, ou à un certain nombre de fournisseurs individuellement. En fait, ceci signifie qu'il est possible de procéder à un marché en régime de concurrence à l'intérieur même d'un marché où l'appel</p>
+<p>d'offres limité est utilisé. Ce concept devrait être gardé à l'esprit lorsqu'on examine les circonstances suivantes (raisons justifiant le recours à l'appel d'offres limité) en vertu de l'ALENA, de l'OMC-AMP, de l'ACCMT et de l'ACI. (Voir 5.031, voir 5.032, voir 5.033, voir 5.036 et voir 5.037.) Pour les marchés visés par l'ACCMT, les régles de l'appel d'offres limité de l'OMC-AMP s'appliquent (ACCMT, article 3).</p>
+<p>Dans les procédures 5.031, 5.032, 5.033, 5.036 et 5.037, le code du processus d'adjudication de contrat (PAC) a été rattaché à chacune des raisons justifiant le recours à l'appel d'offres limité. Ceci a été fait dans le but de s'assurer que les agents de négociation des contrats coderont de façon consistante une raison justifiant le recours à l'appel d'offres limité précisée de façon similaire dans chacun des accords (ALENA, OMC-AMP, ACCMT et ACI). L'annexe 5.3, Codes du processus d'adjudication de contrats (PAC), indique les codes PAC admissibles selon le type d'invitation à soumissionner choisi pour un marché spécifique.</p>
+<p>« Une entité...pourra...utiliser des procédures d'appel d'offres limitées...à condition que ces procédures ne soient pas utilisées dans le dessein de ramener la concurrence en deçà du maximum possible, ou d'une manière qui constituerait un moyen de discrimination entre fournisseurs des autres Parties ou de protection des fournisseurs nationaux. » (ALENA, article 1016,1).</p>
+<p>5.031 (XX/XX/XX) Dans le cas d'achats assujettis à l'ALENA, à l'OMC-AMP, à l'ACCMT et à l'ACI, on ne peut utiliser les procédures d'appel d'offres limité que dans des conditions précises :</p>
+<ol type="a">
+<li>en l'absence de réponses à un appel d'offres ouvert ou sélectif, ou dans le cas où les offres ont fait l'objet d'une collusion ou ne sont pas conformes aux exigences essentielles énoncées dans les documents d'appel d'offres, ou encore lorsque les offres présentées proviennent de fournisseurs qui ne répondent pas aux conditions de participation, à condition que les exigences de l'achat initial ne soient pas modifiées considérablement dans le contrat adjugé; (code PAC 05)</li>
+<li>lorsqu'il s'agit d'œuvres d'art, ou pour des raisons liées à la protection de brevets d'invention, de droits d'auteur, de droits ou de renseignements exclusifs ou, lorsqu'il n'y a pas de concurrence pour des raisons techniques, les produits ne peuvent être fournis ou les services rendus que par un fournisseur particulier et qu'il n'y a aucun autre moyen ou produit de remplacement acceptable; (code PAC 71)</li>
+<li>lorsque, dans des situations d'extrême urgence causées par des événements imprévisibles par l'entité, les produits ou les services n'ont pu être achetés à temps au moyen des procédures d'appel d'offres ouvertes ou sélectives; (code PAC 81)</li>
+<li>pour des livraisons supplémentaires par le fournisseur original, notamment pour des pièces de rechange ou des services continus relatifs à des fournitures, des installations ou des services existants, ou visant à compléter ces fournitures, services ou installations, lorsqu'un changement de fournisseur forcerait l'entité à acheter du matériel ou des services qui ne répondent pas aux exigences d'interchangeabilité* avec du matériel ou des services déjà en place, y compris des logiciels dans la mesure où l'achat initial était assujetti à ces accords; (code PAC 74)
+<p>* Lorsqu'il s'agit de marchés qui ne sont assujettis qu'à l'ACI, la compatibilité avec du matériel ou des services déjà en place est acceptable et ferait l'objet d'un essai moins rigoureux que celui prévu par les dispositions sur l'interchangeabilité précisées dans l'ALENA, l'OMC-AMP et l'ACCMT.</p>
+</li>
+<li>lorsqu'une entité achète un prototype ou un nouveau produit ou service qui est mis au point à sa demande pendant la durée et dans le cadre d'un marché particulier de recherche, de mise à l'essai, d'étude ou de premier développement. Lorsque ces marchés ont été exécutés, les produits ou services suivants doivent être achetés, s'il y a lieu, en régime de concurrence. Les premiers développements d'un nouveau produit peuvent comprendre une production limitée afin que l'on puisse tenir compte des résultats des essais sur le terrain et démontrer que le produit se prête à la production en grande quantité selon des normes de qualité acceptables, mais ne comprend pas la production en grande quantité en vue d'établir la viabilité commerciale et de récupérer les coûts de recherche et développement; (code PAC 72)</li>
+<li>dans le cas de produits achetés dans un marché de produits de base; (code PAC 20)</li>
+<li>dans le cas d'achats effectués dans des conditions exceptionnellement avantageuses qui ne se présentent qu'à court terme, comme l'élimination spéciale de biens par des entreprises qui ne sont pas normalement des fournisseurs ou l'élimination d'éléments d'actif d'entreprises en liquidation ou mises sous séquestre, mais non dans le cas d'achats courants auprès de fournisseurs habituels; (code PAC 21)</li>
+<li>dans le cas d'un marché qui doit être attribué au gagnant d'un concours de création** (architecturale) (code PAC 22), à condition que ce concours soit :<br/>
+<ol type="i">
+<li>organisé d'une manière compatible avec les principes d'ouverture et d'équité et qu'il soit annoncé publiquement aux fournisseurs convenablement qualifiés à y participer;</li>
+<li>organisé en vue d'attribuer le marché de conception au gagnant;</li>
+<li>jugé par un jury*** indépendant.</li>
+</ol>
+<p>** Pour les marchés assujettis à l'ALENA seulement, le concours de création se limite à l'architecture.</p>
+<p>*** Pour les marchés assujettis à l'ACI seulement, les conditions ayant trait au jury indépendant ne sont pas requises.</p>
+</li>
+</ol>
+<p>5.041 (XX/XX/XX) Pour les marchés assujettis à l'ALENA, à l'AMP-OMC, à l'ACCMT ou à l'ACI, ou encore à plusieurs ou à l'ensemble de ces accords, on doit respecter les dispositions qui y sont précisées relativement à la publicité et aux avis publics à diffuser. La marche à suivre est généralement la même pour tous ces accords. En cas de manque d'uniformité, l'agent de négociation des contrats doit choisir les modalités les plus rigoureuses pour ce qui est de l'ouverture des projets de marchés, par exemple la période d'invitation la plus longue.</p>
+<p>Les projets de marchés concurrentiels visés par l'ALENA et (ou) par l'OMC-AMP doivent être annoncés par l'entremise du Service électronique d'appels d'offres du gouvernement (SEAG) et dans le bulletin Marchés publics seulement. Les projets de marchés visés par l'ACI et (ou) l'ACCMT doivent être annoncés uniquement par l'entremise du SEAG. Tout projet de marché visé par l'ACI et (ou) l'ACCMT, et ainsi que par l'ALENA ou l'OMC-AMP doit être annoncé tant par l'entremise du SEAG que dans le bulletin Marchés publics. Il n'est pas permis d'utiliser d'autres processus de diffusion (par exemple en contactant directement des fournisseurs).</p>
+<p>Pour les projets de marchés assujettis à l'ALENA et (ou) à l'OMC-AMP, la publication d'un avis par l'entremise du SEAG et dans le bulletin Marchés publics est requise dans les cas suivants :</p>
+<ol type="a">
+<li>des appels d'offres ouverts;<br/>
+            b) des appels d'offres sélectifs :
+<ol type="i">
+<li>visés par l'ALENA et l'AMP-OMC (ou par ses accords de pair avec d'autres accords, y compris l'ACI et (ou) l'ACCMT) :
+<p>- Dans les cas où on fait appel à une liste ponctuelle de fournisseurs, on doit publier un avis afin d'inviter les fournisseurs à participer à une sélection pour être inscrits dans la liste. On doit également publier un avis pour inviter les fournisseurs intéressés à déposer des soumissions. Normalement, on doit publier deux avis distincts.</p>
+<p>- Dans les cas où on fait appel à une liste permanente de fournisseurs, on doit publier un avis chaque année pour faire connaître l'existence de la liste des fournisseurs et les modalités de sélection; on doit aussi publier un avis pour chaque invitation à soumissionner lancée en faisant appel à cette liste;</p>
+</li>
+<li>visés par l'ACI dans les seuls cas où on fait appel à une liste ponctuelle ou permanente de fournisseurs; on doit alors publier un avis chaque année pour faire connaître l'existence de cette liste et les modalités de sélection.</li>
+</ol>
+<p>Dans le cas des marchés assujettis aux Ententes sur les revendications territoriales globales, les agents de négociation des contrats doivent vérifier les ententes qui s'appliquent en particulier afin de s'assurer qu'on a diffusé l'avis correspondant.</p>
+</li>
+</ol>
+<p>5.047 (XX/XX/XX) Sauf dans le cas des marchés visés par l'ALENA, l'AMP-OMC, l'ACCMT ou l'ACI, la diffusion publique (SEAG ou autres) n'est pas requise dans les cas suivants :</p>
+<ol type="a">
+<li>les marchés passés pour la protection des intérêts essentiels du Canada en matière de sécurité; on ne doit pas invoquer ce cas d'exemption sauf quand :<br/>
+<ol type="i">
+<li>le ministère de la Défense nationale (MDN) certifie que le projet de marché répond aux impératifs de la sécurité nationale; ou</li>
+<li>les documents d'invitation à soumissionner provenant des clients portent la cote « TRÈS SECRET », « SECRET » ou « CONFIDENTIEL » ou la mention « PROTÉGÉ »;</li>
+</ol>
+</li>
+<li>les projets de marché émanant des établissements gouvernementaux de réhabilitation (par exemple CORCAN);</li>
+<li>les projets de marché locaux passés par les bureaux de Travaux publics et Services gouvernementaux Canada (TPSGC) à l'étranger;</li>
+<li>les grands projets de l'État;</li>
+<li>les projets de marchés portant sur des aliments et des engrais en vrac, destinés à favoriser l'« aide liée » offerte aux pays en voie de développement;</li>
+<li>les marchés assujettis à des directives du Cabinet, à des lois ou à des règlements, par exemple le Projet de remplacement des armes à feu portatives, le Programme d'approvisionnement en munitions, le Programme de productivité de l'industrie du matériel de défense (PPIMD), les VME et la construction navale;</li>
+<li>les marchés visés par le Programme canado-américain sur le partage de la production de défense ou par les accords européens de recherche, de développement et de production;</li>
+<li>les projets de marché destinés à la Corporation commerciale canadienne (CCC).
+<p>Dans le cas de ces projets de marché, il est parfois pertinent de consulter des listes de fournisseurs.</p>
+</li>
+</ol>
+<h4>ALENA, OMC-AMP, ACCMT et ACI et les méthodes d'appel d'offres</h4>
+<p>5.050 (XX/XX/XX) Trois méthodes d'appel d'offres peuvent être utilisées pour la passation des marchés assujettis à l'ALENA, à l'OMC-AMP, à l'ACCMT et à l'ACI.</p>
+<ol type="a">
+<li>Appel d'offres ouvert - méthode selon laquelle un avis de projet de marché (APM) est annoncé; toute personne, entreprise ou autre fournisseur admissible est invitée à présenter une soumission.
+<p>C'est la démarche préférée.</p>
+</li>
+<li>Appel d'offres sélectif -<br/>
+<ol type="i">
+<li>ne faisant pas appel à une liste permanente de fournisseurs - méthode en deux étapes selon laquelle les soumissionnaires éventuels expriment, lors de la première étape, leur intérêt à participer et satisfont à des exigences de participation pré-établies qui sont publiées dans l'APM. Lors de la deuxième étape, les documents de soumission sont envoyés uniquement aux soumissionnaires qui satisfont à ces exigences. Dans le cas d'un marché assujetti à l'ALENA, à l'OMC-AMP et à l'ACCMT, un APM doit être publié aux deux étapes du marché (il est également accepté que l'APM original soit modifié une fois que la date de clôture des soumissions est fixée). Tout fournisseur qui désire présenter une soumission à la deuxième étape peut le faire, s'il reste suffisamment de temps pour mener à bonne fin le processus de qualification.</li>
+<li>faisant appel à une liste permanente de fournisseurs - lorsqu'une liste de fournisseurs est élaborée et tenue à jour et que l'on fait parvenir aux fournisseurs qualifiés pour le produit ou service en question les documents de soumission. Cependant la soumission de tout autre fournisseur éventuel qui demande à recevoir les documents de soumission doit être prise en considération. En vertu de l'ALENA, de l'OMC-AMP, de l'ACCMT et de l'ACI, un avis annuel confirmant l'existence de la liste de fournisseurs doit être publié (utiliser le formulaire d'APM). En ce qui a trait à l'ACI, si l'on a recours à une liste de fournisseur, tous les fournisseurs qualifiés d'une catégorie donnée figurant sur une liste doivent être invités à soumissionner tous les marchés de cette même catégorie.</li>
+</ol>
+</li>
+<li>Appel d'offres limité - un processus qui permet des écarts par rapport aux pratiques d'achat ci-dessus. Dans certaines situations, où il est possible d'invoquer un motif bien précis justifiant l'appel d'offres limité, il est permis de restreindre le nombre de fournisseurs à un ou plusieurs (voir 5.030).</li>
+</ol>
+<h4>ACCMT</h4>
+<p>5.067 (NOUVEAU) (XX/XX/XX) L'ACCMT est un accord commercial international signé par le gouvernement de la République de Corée et le gouvernement du Canada en ce qui a trait à l'achat de l'équipement de télécommunications (cf. 4.011). Toutes les questions portant sur l'application de l'ACCMT doivent être adressées à la Division de la politique stratégique (DPS), au numéro de téléphone 819-956-6497.</p>
+<p>5.068 (NOUVEAU) (XX/XX/XX) Dans le cadre de l'ACCMT, on entend par « biens visés » :</p>
+<ol type="a">
+<li>l'équipement et le matériel (fixes et mobiles) de télécommunications provenant des territoires du Canada et de la Corée et constituant des composants de réseau de télécommunications, notamment le matériel de commutation, de transmission, d'accès et de terminal, ou utilisés dans le développement, la configuration, l'installation, l'exploitation, l'entretien, la réparation et la gestion de réseaux de télécommunications;</li>
+<li>l'équipement de recherche et de développement, l'équipement d'essai et de mesure et l'équipement de formation compris dans un appel d'offres portant sur l'achat d'équipement et de matériel de télécommunications visés par l'ACCMT.</li>
+</ol>
+<p>Pour les marchés portant sur les catégories suivantes de la Classification fédérale d'approvisionnement (CFA) 58, on doit toujours appliquer les procédures précisées dans cette politique :</p>
+<p>N5805 équipement de téléphonie et de télégraphie<br/>
+          N5815 équipement de télétypie et de télécopie<br/>
+          N5820020 à N5820700 émetteurs, récepteurs et émetteurs-récepteurs radio.</p>
+<p>Les autres catégories de la CFA 58 peuvent également être visées par l'ACCMT si on peut considérer que les biens répondent à la définition ci-dessus de « biens visés ».</p>
+<p>À l'exception des articles énumérés dans la CFA 58, les marchés qui peuvent être réputés constituer des marchés de biens visés répondant à la définition ci-dessus sont également visés par l'Accord sur les marchés publics de l'Organisation mondiale du commerce (AMP-OMC). Les marchés visés par ces deux accords doivent respecter les procédures définies pour l'AMP-OMC, puisqu'en vertu de ce dernier accord, le Canada s'est engagé à ouvrir ces marchés à la Corée et aux autres pays signataires de l'AMP-OMC.</p>
+<p>Pour les marchés visés par l'ACCMT, mais non par l'AMP-OMC, on applique les définitions suivantes.</p>
+<ol type="a">
+<li>Pour l'application de cette politique seulement, on considère comme des biens canadiens ou coréens les biens ainsi considérés dans le cadre du « Règlement sur la désignation, aux fins de marquage, des pays d'origine des marchandises (pays ALENA) » du Canada. On ne peut pas se prévaloir de l'article 8 de ce règlement, qui prévoit une dérogation aux préférences tarifaires de l'ALENA, pour établir si un bien est d'origine canadienne.</li>
+<li>On entend par « service accessoire » tous les services compris dans un appel d'offres pour l'achat d'un bien visé en vertu de cet accord.
+<p>Sont considérés comme des services canadiens ou coréens, respectivement, les services fournis par des personnes physiques ou morales établies au Canada ou en Corée. Lorsqu'un marché porte sur un seul service fourni par plusieurs personnes, on considère qu'il s'agit d'un service canadien ou coréen si au moins 60 % du prix total proposé pour ce service sont assurés par des personnes établies au Canada ou en Corée respectivement.</p>
+</li>
+<li>On entend par « territoire » :<br/>
+<ol type="i">
+<li>en ce qui a trait à la Corée, le territoire de la Corée, ainsi que les zones maritimes, y compris le fond marin et le sous-sol voisin du périmètre des zones territoriales sur lesquelles la Corée exerce, conformément au droit international, des droits souverains ou des compétences pour l'exploration et l'exploitation des ressources naturelles de ces zones;</li>
+<li>en ce qui a trait au Canada, le territoire auquel s'appliquent ses lois douanières, y compris toutes les zones au-delà des eaux territoriales du Canada dans lesquelles, conformément au droit international et aux lois nationales de ce pays, le Canada peut exercer des droits relativement au tréfonds et au sous-sol, ainsi qu'à ses ressources naturelles.</li>
+</ol>
+</li>
+</ol>
+<p>5.069 (XX/XX/X) Le soumissionnaire doit attester le contenu canadien et (ou) coréen en signant une déclaration selon laquelle les produits offerts répondent à la définition de biens et de services canadiens et (ou) coréens. Les formulaires d'attestation sont reproduits dans le Guide des Clauses et des conditions d'achat uniformisées (CCUA), dans les clauses portant les numéros K5001T, K5002T, K5003T, K5004T, K5005 et K5006T.</p>
+<h4>Politique sur le contenu canadien</h4>
+<p>5.071 (XX/XX/XX) La politique relative au contenu canadien s'applique aux marchés en régime de concurrence qui sont annoncés publiquement et dont la valeur estimative est de 25 000 $ ou plus, sauf dans les cas suivants :</p>
+<ol type="a">
+<li>les achats du gouvernement qui sont assujettis à l'ALENA l'OMC-AMP ou l'ACCMT;</li>
+<li>les achats visant à fournir de l'aide à des pays en développement, mais elle s'applique aux achats faits par l'Agence canadienne de développement international (ACDI) pour son propre compte;</li>
+<li>les achats faits par les bureaux des approvisionnements de Travaux publics et Services gouvernementaux Canada (TPSGC) situés à l'étranger; ou,</li>
+<li>les achats autorisés par le Cabinet, y compris ceux rattachés à la construction navale, à la réparation de navires, au radoub et à la modernisation de mi-durée.</li>
+</ol>
+<h4>Examen des retombées socio-économiques des achats</h4>
+<p>5.094 (XX/XX/XX) Le CSA répartit les achats dans les catégories suivantes :</p>
+<p>A. Exigences de l'OMC-AMP et de l'ALENA et de l'ACCMT</p>
+<p>G. Tous les autres incluant les besoins qui relèvent de l'Accord sur le commerce intérieur (ACM) à l'exception des sujets suivant : ventes de matériel militaire à l'étranger, services de sécurité, services d'aide temporaire, achats en vertu du Programme d'approvisionnement en munitions et les achats assujettis à la Politique relative à la construction de la défense.</p>
+<p>Les cas devant faire l'objet d'un examen détaillé de la part du CEA proviennent habituellement de la catégorie G. Les achats assujettis à l'ALENA, à l'OMC-AMP, et à l'ACCMT doivent également être triés par le CSA et ce, même s'ils n'ont pas à être revus par le CEA.</p>
+<h4>Construction de navires, réparation, radoub et modernisation</h4>
+<p>5.104 (XX/XX/XX) Les procédures que suit TPSGC pour la sélection de fournisseurs devant effectuer des travaux sur les navires du gouvernement canadien sont tirées de la Politique d'achats en matière de construction navale du gouvernement. Cette politique vise à encourager la concurrence entre les divers chantiers navals du Canada. Pour tous les besoins en matière de construction navale faisant appel au régime de concurrence, tels que définis par la Politique d'achats en matière de construction navale et assujettis à l'ACI, les agents de négociation des contrats doivent s'assurer que les détails relatifs aux restrictions ou aux pratiques sont clairement stipulés dans l'Avis de projet de marché (APM) ou les documents d'invitation à soumissionner.</p>
+<p>L'APM et les documents d'invitation à soumissionner doivent porter la mention suivante :</p>
+<p>« Pour le présent marché, la stratégie de sélection du fournisseur sera restreinte à la région d'origine (selon le cas) ou zone d'origine (selon le cas) conformément à la Politique d'achats en matière de construction navale. »</p>
+<p>Dans le cas de marchés dont la valeur est inférieure à 2 millions de dollars et assujettis à la Politique d'achats en matière de construction navale, l'AAC doit également contenir lesdits détails.</p>
+<p>Les procédures suivantes (5.105 à 5.110) ne s'appliquent que lorsque le marché n'est pas assujetti à l'ALENA, à l'OMC-AMP, et à l'ACCMT. L'annexe 1001.2b, alinéa 1.a) du chapitre 10 de l'ALENA et l'annexe 4 de l'OMC-AMP prévoient que « la construction et la réparation de navires » ne soient pas assujetties à ces mêmes accords. L'ACCMT s'applique à matérial de télécommunication.</p>
+<h4>Équité en matière d'emploi</h4>
+<p>5.112 (XX/XX/XX) L'admissibilité des fournisseurs à soumissionner un contrat peut être restreinte par le Programme de contrats fédéraux pour l'équité en matière d'emploi. Les marchés visant à répondre à des besoins de produits et de services évalués à 200 000 $ ou plus doivent être attribués aux fournisseurs qui :</p>
+<ol type="a">
+<li>ont signé l'attestation d'engagement;</li>
+<li>choisissent de se conformer aux exigences d'équité en matière d'emploi par l'envoi de l'attestation d'engagement ou du numéro d'attestation avant l'attribution du contrat; ou</li>
+<li>ne sont pas assujettis à la politique sur l'équité en matière d'emploi.</li>
+</ol>
+<p>Si la soumission est accompagnée de l'original d'une attestation, l'agent de négociation des contrats fera parvenir cet original au :</p>
+<p>Chef, Programme de contrats fédéraux <br/>
+          Développement des ressources humaines Canada <br/>
+          Place du Portage, Phase II <br/>
+          165, rue Hôtel de Ville, 10e étage <br/>
+          Gatineau (Québec) K1A 0J2,</p>
+<p>OU l'enverra par télécopieur au 613-953-8768.</p>
+<p>Dans le cas de besoins qui sont assujettis à l'ALENA, à l'OMC-AMP, et à l'ACCMT, les exigences d'équité en matière d'emploi ne s'appliquent qu'aux fournisseurs qui exploitent une entreprise au Canada.</p>
+<h4>Compétences des fournisseurs</h4>
+<p>5.116 (XX/XX/XX) Les fournisseurs qui soumissionnent des marchés du gouvernement du Canada doivent démontrer de façon satisfaisante au gouvernement qu'ils possèdent les compétences légales, techniques, financières et de gestion nécessaires à l'exécution du marché. L'admissibilité des fournisseurs à pésenter une soumission peut être restreinte, en exigeant que les soumissionnaires répondent à des critères déjà établis sur les compétences. (Voir la section 6B.)</p>
+<p>Dans le cas des marchés assujettis à l'ALENA, à l'OMC-AMP, à l'ACCMT ou toute combinaison de ces accords aux deux accords, les soumissionnaires éventuels intéressés qui ne respectent pas de telles normes doivent être en mesure de faire une demande d'homologation après la publication de l'avis d'achat et la procédure d'homologation doit être mise en marche le plus rapidement possible. Au cours de l'établissement des critères de qualification, on ne doit faire aucune discrimination ni entre fournisseurs étrangers ni entre fournisseurs domestiques et étrangers.</p>
+<p>On doit porter une attention particulière à l'enquête de sécurité sur le personnel et /ou à l'attestation de sécurité des organisations surtout lorsque, en tenant compte du temps qui peut être requis pour effectuer les autorisations sécuritaires, il peut être nécessaire d'exiger que les autorisations sécuritaires appropriées fassent parties des éléments obligatoires de la soumission. (Voir les procédures 6C.270 et 7D.540.)</p>
+<h4>Demande de propositions</h4>
+<p>5.144 (XX/XX/XX) Souvent, la préparation des propositions coûte cher aux entreprises. Pour maintenir ces coûts le plus bas possible tout en assurant un libre accès aux fournisseurs éventuels, on devrait procéder aux demandes de propositions en deux étapes.</p>
+<p>Pendant la première étape, on demande aux fournisseurs d'envoyer une lettre d'intérêt, dans laquelle ils décrivent leurs compétences, à partir desquelles on dresse une courte liste. À la seconde étape, on demande aux fournisseurs inscrits sur la courte liste de présenter des propositions détaillées.</p>
+<p>Les entreprises qui ne sont pas inscrites sur la liste peuvent quand même demander qu'on leur envoie une DP et présenter leurs propositions.</p>
+<p>Un processus semblable peut être approprié lorsqu'on a identifié un grand nombre de fournisseurs éventuels. Les agents de négociations des contrats devraient toutefois prendre note des procédures spéciales que prévoient l'ALENA, l'OMC-AMP et l'ACCMT dans le cas d'appels d'offres sélectifs.</p>
+<h4>Formulaires d'offres à commandes</h4>
+<p>5.160 (XX/XX/XX) La préparation d'une offre à commandes est assujettie aux politiques et procédures habituelles touchant les marchés y compris, le cas échéant, l'OMC-AMP, l'ACCMT, l'ALENA, l'ACI, ou l'intervention du CEA. Aux fins d'examen, d'approbation et de contrôle de la qualité internes, les offres à commandes sont approuvées et signées par le même fondé de pouvoir que les contrats.</p>
+<h3>Annexe 5.3 : CODES DU PROCESSUS D'ATTRIBUTION DES CONTRATS (PAC)</h3>
+<p>Les types d'invitation à soumissionner, les codes PAC admissibles et les raisons justifiant l'utilisation d'un code PAC spécifique sont énumérés ci-dessous. (Modifiée le 01/01/96)</p>
+<h4>TYPES D'INVITATIONS À SOUMISSIONNER</h4>
+<p>N = Accord de libre-échange nord-américain (ALENA) <br/>
+          W = Organisation mondiale du commerce - Accord sur les marchés publics (OMC-AMP) <br/>
+          CK = l'Accord Canada-Corée sur les achats de matérial de télécommunication (ACCMT) <br/>
+          I = Accord sur le commerce intérieur (ACI) <br/>
+          S = Science et technologie <br/>
+          O = Invitation ouverte à soumissionner <br/>
+          L = Ententes de revendication territoriale globale</p>
+<h4>CODES PAC EN RÉGIME DE CONCURRENCE</h4>
+<p>Code PAC : 01<br/>
+          Types d'invitations à soumissionner : N, W, CK, I, S, O, L</p>
+<p>Soumission la plus basse</p>
+<p>Code PAC : 04<br/>
+          Types d'invitations à soumissionner : N, W, CK, I, S, O, L</p>
+<p>Meilleure soumission globale</p>
+<p>Code PAC : 05<br/>
+          Types d'invitations à soumissionner : N, W, CK, I, S, O, L</p>
+<p>En l'absence de soumissionnaires répondant à une invitation à soumissionner en régime de concurrence ou lorsque les soumissions présentées ont été jugées inacceptables pour des raisons de collusion ou pour avoir été jugées irrecevables ou reçues de fournisseurs non agréés.</p>
+<p>Code PAC : 06<br/>
+          Types d'invitations à soumissionner : N, W, CK, I, S, O, L</p>
+<p>Une seule réponse à une invitation à soumissionner</p>
+<p>Code PAC : 10<br/>
+          Types d'invitations à soumissionner : S, O, L</p>
+<p>Choix du fournisseur par rotation</p>
+<p>Code PAC : 11<br/>
+          Types d'invitations à soumissionner : S, O, L</p>
+<p>Contrats ultérieurs et consécutifs</p>
+<p>Code PAC : 20<br/>
+          Types d'invitations à soumissionner : N, W, CK, I, S, O, L</p>
+<p>Pour des biens achetés sur le marché des produits de base.</p>
+<p>Code PAC : 21<br/>
+          Types d'invitations à soumissionner : N, W, CK, I, S, O, L</p>
+<p>Pour des achats effectués dans des conditions exceptionnellement avantageuses qui ne surviennent que pour une courte durée, telles que la vente de produits par des entreprises qui ne sont pas normalement fournisseurs ou la vente de biens appartenant à des entreprises dans le cadre d'une liquidation ou d'une mise sous séquestre; il ne s'agit pas d'achats ordinaires auprès de fournisseurs habituels.</p>
+<p>Code PAC : 22<br/>
+          Types d'invitations à soumissionner : N, W, CK, I, S, O, L</p>
+<p>Contrat attribué au gagnant d'un concours de conception.</p>
+<p>Code PAC : 23<br/>
+          Types d'invitations à soumissionner : N, I, S, O, L</p>
+<p>Pour des services d'experts-conseils sur des questions confidentielles.</p>
+<p>Code PAC : 24<br/>
+          Type d'invitation à soumissionner : W, CK</p>
+<p>Pour des services de construction supplémentaires qui n'étaient pas compris dans le contrat initial mais qui faisaient partie des objectifs décrits dans les documents d'appel d'offres originaux.</p>
+<p>Code PAC : 25<br/>
+          Type d'invitation à soumissionner : W, CK</p>
+<p>Pour de nouveaux services de construction consistant en la répétition de services de construction similaires conformes à un projet de base pour lequel un contrat initial avait été attribué.</p>
+<p>Code PAC : 71<br/>
+          Types d'invitations à soumissionner : N, W, CK, I, S, O, L</p>
+<p>Pour des raisons se rapportant à la protection des droits exclusifs, tels que les droits de brevets ou d'auteur, où aucune alternative raisonnable ou substitution n'était possible.</p>
+<p>Code PAC : 72<br/>
+          Types d'invitations à soumissionner : N, W, CK, I, S, O, L</p>
+<p>Pour des raisons comportant l'approvisionnement de prototypes ou d'un produit nouveau mis au point en vertu d'un contrat de recherche, d'expérimentation, d'étude ou de développement à caractère original.</p>
+<p>Code PAC : 74<br/>
+          Types d'invitations à soumissionner : N, W, CK, I, S, O, L</p>
+<p>Pour des raisons logistiques (c'est-à-dire lorsqu'il s'agira de livraisons additionnelles à assurer par le fournisseur initial et portant sur des pièces de rechange pour des fournitures déjà faites, des installations déjà livrées ou pour des services continus, ou destinées à compléter ces fournitures, installations ou services, et qu'un changement de fournisseur obligerait le ministère-client à acquérir du matériel ou des services ne répondant pas à des conditions d'interchangeabilité avec un matériel ou des services déjà existants).</p>
+<p>Code PAC : 81<br/>
+          Types d'invitations à soumissionner : N, W, CK, I, S, O, L</p>
+<p>Pour des raisons se rapportant à une situation d'extrême urgence imputable à des circonstances que le client ne pouvait prévoir et où le temps ne permettait pas le recours à une demande de soumissions concurrentielle.</p>
+<p>Code PAC : 85<br/>
+          Types d'invitations à soumissionner : S, O, L</p>
+<p>Faible valeur</p>
+<p>Code PAC : 86<br/>
+          Types d'invitations à soumissionner : I, S, O, L</p>
+<p>Prix ou méthodes d'approvisionnement réglementés par le gouvernement.</p>
+<p>Code PAC : 87<br/>
+          Types d'invitations à soumissionner : I, S, O, L</p>
+<p>Correspond aux objectifs du gouvernement qui ont trait aux meilleurs intérêts ou à la meilleure valeur pour l'État.</p>
+<p>Code PAC : 88<br/>
+          Types d'invitations à soumissionner : I, S, O, L</p>
+<p>Raisons liées à la sécurité nationale.</p>
+<p>Code PAC : 89<br/>
+          Type d'invitation à soumissionner : I</p>
+<p>Circonstances exceptionnelles en vertu de l'article 508.1 de l'ACI.</p>
+<p>Code PAC : 90<br/>
+          Type d'invitation à soumissionner : I</p>
+<p>Protection de la vie ou de la santé des humains, des animaux ou des végétaux en vertu de l'alinéa 506(11)e) de l'ACI.</p>
+<h3>SECTION 6B : DÉFINITION DE L'ACHAT</h3>
+<p>6B.090 (XX/XX/XX) On ne devrait pas spécifier, dans une invitation à soumissionner, un produit sans substitut. Les caractéristiques principales, du point de vue physique ou fonctionnel, et toute autre caractéristique essentielle aux besoins du client doivent être énoncées. Il peut aussi être fait mention des produits réputés être des équivalents de la « marque commerciale », mais avec circonspection, afin de s'assurer qu'il n'y a pas de conflit entre les marques de commerce indiquées et la description fournie.</p>
+<p>Dans le cas des achats régis par l'Accord de libre-échange nord-américain (ALENA), par l'Organisation mondiale du commerce - Accord sur les marchés publics (OMC-AMP) ou par l'Accord Canada-Corée sur les achats de matérial de télécommunication (ACCMT), les spécifications techniques ne doivent ni exiger ni viser une marque de commerce, un nom, un brevet, un dessin ou un type en particulier, une origine et un producteur ou fournisseur spécifique, à moins qu'il ne soit pas possible d'énoncer, de façon précise ou intelligible, les exigences de l'achat, et à condition que, dans un tel cas, une expression comme « ou l'équivalent » apparaisse dans les documents destinés aux soumissionnaires.</p>
+<p>6B.144 (XX/XX/XX) Lorsqu'il n'y a pas d'autre alternative que de préciser un produit sans substitut, une disposition relative aux produits équivalents devrait, dans la mesure du possible, être prévue dans l'invitation, de même que les critères qui serviront à l'évaluation de l'équivalence.</p>
+<p>Dans le cas de marchés assujettis à l'ALENA, à l'OMC-AMP, à l'ACCMT et l'ACI, on doit prévoir une disposition relative au produit équivalent.</p>
+<h4>Ajustement des prix des contrats à prix ferme</h4>
+<p>6C.297 (XX/XX/XX) Lorsque les conditions du marché sont instables, un ou plusieurs éléments du coût d'un bien ou d'un service peuvent être assujettis à d'importantes fluctuations de prix, de sorte que ni l'acheteur ni le vendeur ne seront disposés à accepter un contrat à prix fixe ou à prix ferme pendant une longue période de temps. Les agents de négociation des contrats devraient chercher à réduire les risques d'incertitude.</p>
+<p>L'ajustement des prix ne devrait normalement pas être inclus dans les contrats dont les calendriers de livraison sont inférieurs à 12 mois, ou dont la valeur est inférieure à 100 000 $.</p>
+<p>Il y a un certain nombre de mesures possibles :</p>
+<ul>
+<li>le report de l'achat;</li>
+<li>l'utilisation des produits de remplacement disponibles;</li>
+<li>la présentation à l'avance de renseignements sur les besoins aux entrepreneurs éventuels, de manière à permettre à ces derniers de mieux surveiller leurs coûts grâce à une planification à terme et de tirer pleinement profit, dans des circonstances appropriées, du marché à terme de marchandises;</li>
+<li>la réduction de la durée des contrats à terme ou des quantités commandées dans le cadre de contrats de production;</li>
+<li>l'augmentation des taux de production afin de comprimer la durée des contrats;</li>
+<li>la réduction des délais de nature administrative dans le processus d'achat (invitations à soumissionner, décision d'attribution, conclusion du contrat et autorisation d'entreprendre les travaux) - tout en tenant compte des délais requis en vertu des accords de l'Accord de libre-échange nord-américain (ALENA), de l'Organisation mondiale du commerce - Accord sur les marchés publics (OMC-AMP) et de l'Accord Canada-Corée sur les achats de matérial de télécommunication (ACCMT);</li>
+<li>l'achat distinct de l'élément assujetti à des conditions de marché instables (dans l'industrie de la construction, cette technique est connue sous le nom de pré-soumission);</li>
+<li>l'isolation, aux fins de l'établissement du coût des travaux, de l'élément assujetti à des conditions instables, et le rajustement du prix, à la hausse et à la baisse, pour ce seul élément, suivant une formule prédéterminée fiable, comme un indice économique établi.</li>
+</ul>
+<h4>Frais de transport</h4>
+<p>6E.621 (XX/XX/XX) Toute demande de biens évaluée à 25 000 $ et plus (TPS/TVH incluse) comportant des frais de transport supérieurs à 1 500 $ doit être soumise à la Direction de la gestion des transports pour une analyse détaillée de ces frais, sauf en ce qui concerne :</p>
+<ol type="a">
+<li>les marchés de réparation et de révision, de mise au point, de services d'ingénierie, d'études techniques et d'outillage;</li>
+<li>l'aide en matière d'immobilisations;</li>
+<li>la construction complète de navires et d'avions;</li>
+<li>les marchés pour lesquels les clients maintiennent le contrôle, en tout ou en partie, de la livraison;</li>
+<li>les marchés portant sur des denrées périssables;</li>
+<li>les achats effectués auprès de fournisseurs canadiens au nom d'un gouvernement ou d'un organisme étranger, à moins que ce gouvernement ou cet organisme ne demande une assistance;</li>
+<li>les offres à commandes, lorsque les quantités et la destination des commandes sont inconnues;</li>
+<li>les achats d'aliments et d'engrais en vrac faits dans le cadre d'un programme d'aide extérieure;</li>
+<li>les demandes portant sur de multiples articles pouvant nécessiter la passation de plusieurs marchés et dont les frais de transport particuliers ne peuvent être facilement établis;</li>
+<li>les marchés portant sur des systèmes complets dont les multiples composantes sont susceptibles d'être expédiées de sources et d'endroits différents et pour lesquels il est impossible d'établir un coût FOB origine;</li>
+<li>les marchés de service;</li>
+<li>les marchés assujettis à l'ALENA, à l'OMC-AMP, ou à l'ACCMT à moins que l'on ait recours à un processus non concurrentiel en vertu de l'une des raisons figurant dans l'accord et servant à justifier l'appel d'offres limité.</li>
+</ol>
+<p>6E.663 (XX/XX/XX) Le plan d'achat doit comprendre les éléments suivants :</p>
+<h4>DESCRIPTION</h4>
+<p>Fournir une brève description du besoin.</p>
+<h4>COÛT ESTIMATIF ET NOM DU CLIENT</h4>
+<p>NIVEAU PRÉVU D'APPROBATION DU MARCHÉ</p>
+<h4>SÉLECTION DES FOURNISSEURS ÉVENTUELS</h4>
+<p>Indiquer les accords commerciaux pertinents (ALENA, AMP-OMC, ACCMT, ACI et ERTG) et toutes les politiques importantes régissant les décisions quant au choix des fournisseurs (Programme des marchés réservés aux entreprises autochtones; Contenu canadien; Programme de péréquation des transports; Construction de navires, réparation, radoub et modernisation, et ainsi de suite).</p>
+<p>Expliquer la stratégie de sélection des fournisseurs, à savoir le SEAG, le bulletin Marchés publics, les autres formes de publicité et les listes de fournisseurs (répétitive, non-répétitive).</p>
+<p>Justifier toute décision portant sur le choix d'un fournisseur unique.</p>
+<h4>CONSIDÉRATIONS RELATIVES AUX POLITIQUES</h4>
+<p>Joindre les documents pertinents produits par le Comité d'examen des acquisitions et le Comité de la stratégie des approvisionnements (voir 5.090). Identifier les autres considérations socio-économiques pertinentes.</p>
+<p>Décrire les aspects exceptionnels ou inhabituels de l'achat.</p>
+<p>Recommander l'adoption de mesures visant à résoudre tous les problèmes liés à d'éventuels risques majeurs en cause ou à des écarts marqués par rapport à la politique de sélection des fournisseurs éventuels ou à d'autres politiques de TPSGC. Lorsque la ligne de conduite proposée comporte des risques majeurs, il convient de les étudier en concertation avec les conseillers financiers et juridiques de TPSGC.</p>
+<h4>CRITÈRES D'ÉVALUATION</h4>
+<p>Préciser les critères d'évaluation et la méthode de sélection qui seront utilisés pour chaque invitation à soumissionner, notamment le mode d'établissement des prix, la cotation numérique ou les critères d'évaluation technique obligatoires ou souhaitables.</p>
+<h4>POINTS DE REPÈRE</h4>
+<p>Fournir des dates cible pour les points de repère importants (par exemple, l'invitation à soumissionner, l'adjudication du contrat, le calendrier de livraison).</p>
+<h4>AUTRES COMMENTAIRES</h4>
+<p>Fournir des renseignements qui devraient être portés à l'attention du fondé de pouvoir d'approbation.</p>
+<h4>AGENT DE NÉGOCIATION DES CONTRATS</h4>
+<p>Indiquer les nom et numéro de téléphone de l'agent responsable du projet, ainsi que le secteur et la division auxquelles il appartient.</p>
+<h4>COMMENTAIRES</h4>
+<p>Réserver deux ou trois lignes pour les commentaires du fondé de pouvoir.</p>
+<h3>Annexe 6.1.8 : CONDITIONS IMPOSÉES AU PERSONNEL DU MINISTÈRE EN CE QUI CONCERNE LES LIMITES DU POUVOIR D'APPROBATION</h3>
+<p><strong>4. Raisons justifiant le recours à l'appel d'offres limité</strong></p>
+<p>4.1 Un nouveau champ d'information intitulé « Raisons justifiant le recours à l'appel d'offres limité » a été ajouté après le champ « non concurrentiel » pour indiquer les raisons justifiant le recours à des marchés non concurrentiels ou concurrentiels. Ce champ sera utilisé pour indiquer l'une des 15 raisons justifiant le recours à l'appel d'offres limité énumérées à <strong>l'annexe B.</strong> Pour les besoins relatifs aux services en architecture et en génie qui faisaient appel antérieurement au système de sélection des fournisseurs SPEC (Sélection, préqualification et évaluation des consultants), il faudra dorénavant utiliser la raison justifiant le recours à l'appel d'offres limité no 85, qui fait référence à l'exception accordée par le CT à l'exigence du recours aux appel d'offres pour des services A-G qui ne dépassent pas 100 000 $.Réf. 10.2.1 (b).</p>
+<h3>ANNEXE B</h3>
+<table class="basic">
+<caption>
+            RAISONS JUSTIFIANT LE RECOURS À L'APPEL D'OFFRES LIMITÉ<br/>
+</caption>
+<tbody><tr>
+<th id="AP-54coverage" scope="col">Champ d'application</th>
+<th id="AP-54cap" scope="col">Code PAC admissible</th>
+<th id="AP-54reason" scope="col">Raisons justifiant le recours à l'appel d'offres limité en abrégé</th>
+<th id="AP-54reference" scope="col">Référence CT/l'Accord mêmes</th>
+</tr>
+<tr>
+<td headers="coverage" rowspan="8">ALENA, OMC-AMP, ACI,ou tout autre combinaison (de ces accords); ou MREA*; ouAucun*</td>
+<td align="center" headers="cap">5</td>
+<td headers="reason">Une seule réponse à une invitation à soumissionner...</td>
+<td headers="reference">ALENA 1016.2 a)<br/>
+              OMC-AMP XV.1 a)<br/>
+              ACCMT 3.1<br/>
+              ACI 506.11 f)</td>
+</tr>
+<tr>
+<td align="center" headers="cap">20</td>
+<td headers="reason">pour des biens achetés sur le marché des produits de base...</td>
+<td headers="reference">ALENA 1016.2 f)<br/>
+              OMC-AMP XV.1 h)<br/>
+              ACCMT 3.1<br/>
+              ACI 506.12 d) </td>
+</tr>
+<tr>
+<td align="center" headers="cap">21</td>
+<td headers="reason">achats effectués dans des conditions exceptionnellement avantageuses, court terme...</td>
+<td headers="reference">ALENA 1016.2 g)<br/>
+              OMC-AMP XV.1 i)<br/>
+              ACCMT 3.1<br/>
+              ACI 506.12 i)</td>
+</tr>
+<tr>
+<td align="center" headers="cap">22</td>
+<td headers="reason">contrat attribué au gagnant d'un concours de conception...</td>
+<td headers="reference">ALENA 1016.2 h)<br/>
+              OMC-AMP XV.1 j)<br/>
+              ACCMT 3.1<br/>
+              ACI 506.12 g)</td>
+</tr>
+<tr>
+<td align="center" headers="cap">71</td>
+<td headers="reason">droits exclusifs...</td>
+<td headers="reference">Manuel du CT, 10.2.1 d)<br/>
+              ALENA 1016.2 b)<br/>
+              OMC-AMP XV.1 b)<br/>
+              ACCMT 3.1<br/>
+              ACI 506.12 b) j)</td>
+</tr>
+<tr>
+<td align="center" headers="cap">72</td>
+<td headers="reason">achat d'un prototype...</td>
+<td headers="reference">ALENA 1016.2 e)<br/>
+              OMC-AMP XV.1 e)<br/>
+              ACCMT 3.1<br/>
+              ACI 506.12 h)</td>
+</tr>
+<tr>
+<td align="center" headers="cap">74</td>
+<td headers="reason">pièces compatibles...</td>
+<td headers="reference">ALENA 1016.2 d)<br/>
+              OMC-AMP XV.1 d)<br/>
+              ACCMT 3.1<br/>
+              ACI 506.12 a)</td>
+</tr>
+<tr>
+<td align="center" headers="cap">81</td>
+<td headers="reason">extrême urgence...</td>
+<td headers="reference">Manuel du CT, 10.2.1 a)<br/>
+              ALENA 1016.2 c)<br/>
+              OMC-AMP XV.1 c)<br/>
+              ACCMT 3.1<br/>
+              ACI 506.11 a)</td>
+</tr>
+<tr>
+<td headers="coverage">ALENA et/ou ACI</td>
+<td align="center" headers="cap">23</td>
+<td headers="reason">services d'experts-conseils sur des questions confidentielles...</td>
+<td headers="reference">ALENA 1016.2 i)<br/>
+              ACI 506.11 b)</td>
+</tr>
+<tr>
+<td headers="coverage" rowspan="2">OMC-AMP seulement</td>
+<td align="center" headers="cap">24</td>
+<td headers="reason">services de construction supplémentaires...</td>
+<td headers="reference">OMC-AMP XV.1 f)<br/>
+              ACCMT 3.1</td>
+</tr>
+<tr>
+<td align="center" headers="cap">25</td>
+<td headers="reason">nouveaux services de construction...</td>
+<td headers="reference">OMC-AMP XV.1 g)<br/>
+              ACCMT 3.1</td>
+</tr>
+<tr>
+<td headers="coverage" rowspan="2">ACI seulement</td>
+<td align="center" headers="cap">86</td>
+<td headers="reason">prix et/ou fournisseurs déterminés par des règlements édictés par le gouvernement...</td>
+<td headers="reference">ACI 506.12 c)</td>
+</tr>
+<tr>
+<td align="center" headers="cap">90</td>
+<td headers="reason">protection de la vie ou de la santé des personnes, animaux, plantes...</td>
+<td headers="reference">ACI 506.11 e)</td>
+</tr>
+<tr>
+<td headers="coverage">ACI et/ou Aucun*<br/>
+              MREA*</td>
+<td align="center" headers="cap">87</td>
+<td headers="reason">objectifs du gouvernement qui ont trait aux meilleurs intérêts/meilleure valeur pour l'État</td>
+<td headers="reference">Manuel du CT, 10.2.1 c)<br/>
+              APM CT 1997-3<br/>
+              ACI 506.11 c) d) <br/>
+              ACI 506.12 e) f) k) l)</td>
+</tr>
+<tr>
+<td headers="coverage">MREA*<br/>
+              Aucun*</td>
+<td align="center" headers="cap">85</td>
+<td headers="reason">faible valeur...</td>
+<td headers="reference">Manuel du CT, 10.2.1 b)</td>
+</tr>
+</tbody></table>
+<h4>ACCMT</h4>
+<p>(Remarque : les procédures spéciales ne s'appliquent qu'aux marchés visés par l'ACCMT, mais non par l'AMP-OMC.)</p>
+<p>7A.006 (XX/XX/XX) Dans les cas où le marché comprend plusieurs biens, on peut attester comme suit le contenu canadien et (ou) coréen :</p>
+<ol type="a">
+<li>on atteste globalement les marchés portant sur plusieurs biens;</li>
+<li>on atteste chaque bien dans les marchés portant sur plusieurs biens. Dans ces cas, on demande aux fournisseurs de désigner distinctement chaque bien répondant à la définition de biens canadiens ou coréens à l'article 5.068.</li>
+</ol>
+<p>7A.007 (XX/XX/XX) Pour les marchés auxquels s'appliquent les procédures spéciales de l'ACCMT, l'agent des achats doit décider, à l'étape de la planification du marché, si ce marché est :</p>
+<ol type="a">
+<li><em>limité exclusivement</em> : l'appel d'offres doit être limité exclusivement aux fournisseurs qui pourraient proposer des biens et des services canadiens et (ou) coréens lorsque l'agent des achats est d'avis qu'il existe, sur le marché, au moins deux de ces fournisseurs. (Les attestations à remplir à ce titre sont reproduites dans la Guide des CCUA, dans les clauses portant les numéros K5001T, K5003T et K5004T);</li>
+<li>limité conditionnellement : l'appel d'offres peut être limité conditionnellement lorsque l'agent des achats ne sait pas avec certitude s'il existe au moins deux fournisseurs de biens et de services canadiens et (ou) coréens (Les attestations à remplir à ce titre sont reproduites dans le Guide des CCUA, dans les clauses portant les numéros K5002T, K5005T et K5006T);</li>
+<li><em>ouvert</em> : lorsque l'agent des achats est d'avis qu'il n'existe pas au moins deux fournisseurs de biens et de services canadiens et (ou) coréens, l'appel d'offres doit s'adresser à tous les fournisseurs. Les soumissionnaires ne sont pas tenus de déposer une attestation.</li>
+</ol>
+<p>7A.008 (XX/XX/XX) Lorsque la stratégie de sélection des fournisseurs est définie, l'agent des achats prépare un Avis de projet de marché (APM). Le projet de marché est désigné comme suit dans le SEAOG :</p>
+<ul>
+<li>marché limité exclusivement, conformément à la procédure 7A.007 a);</li>
+<li>marché limité conditionnellement, conformément à la procédure 7A.007 b);</li>
+<li>marché ouvert, conformément à la procédure 7A.007 c).</li>
+</ul>
+<h4>Marché annoncé publiquement</h4>
+<p>7B.160 (XX/XX/XX) Pour les projets de marchés attribués en régime de concurrence, Travaux publics et Services gouvernementaux Canada (TPSGC) préfère recourir au Service électronique d'appels d'offres du gouvernement (SEAG) et au bulletin Marchés publics pour faire connaître ces projets. Les procédures 5.047 et 5.048 font état des cas où le recours à d'autres méthodes peut être envisagé.</p>
+<p>Le SEAG est le seul médium reconnu pour l'annonce publique des projets de marchés visés par l'Accord sur le commerce intérieur (ACI) et l'Accord Canada-Corée sur les achats de matérial de télécommunication (ACCMT). Le SEAG et Marchés publics sont les médias reconnus pour l'annonce publique des projets de marchés assujettis à l'Accord de libre-échange nord-américain (ALENA) et à l'Accord sur les marchés publics de l'Organisation mondiale du commerce (OMC-AMP). Tous les avis de projet de marché (APM) portant sur des marchés assujettis à l'ACCMT et à l'ACI doivent être annoncés par l'entremise du SEAG, et tous les APM portant sur les marchés assujettis à l'ALENA et (ou) à l'OMC-AMP doivent être annoncés par l'entremise du SEAG et dans Marchés publics simultanément. Les agents de négociation des contrats doivent indiquer, en utilisant le code correspondant au type d'accord, quels accords s'appliquent.</p>
+<p>Pour tous les besoins, les agents de négociation des contrats, qui ne sont pas branchés sur le système d'Environnement automatisé des acheteurs (EAA) doivent insérer manuellement les énoncés suivants dans l'APM ou dans le Préavis d'adjudication de contrat (PAC) :</p>
+<p>« L'État se réserve le droit de négocier les dispositions de tout marché avec les fournisseurs. »</p>
+<p>« Les documents peuvent être présentés dans une ou l'autre des langues officielles du Canada. »</p>
+<p>L'EAA exécutera cette fonction automatiquement.</p>
+<p>7B.183 (XX/XX/XX) Pour les approvisionnements qui ne sont pas assujettis à l'ALENA et (ou à l'OMC-AMP , les avis électroniques reçus par MERX avant 17 h chaque jour, seront publiés sur le SEAG le lendemain, à condition que tous les éléments (avis, documents, pièces jointes) soient exacts et qu'ils concordent.</p>
+<p>Aux termes de l'ALENA et l'OMC-AMP, le début de la période de publication doit coïncider avec la publication de l'avis dans Marchés publics. La publication de l'avis sur le SEAG sera donc retardée, si nécessaire, de façon à ce qu'elle coïncide avec sa publication dans Marchés publics. Le bulletin Marchés publics est publié les mardi et vendredi de chaque semaine, et le traitement d'un avis pour publication dans Marchés publics prend généralement 5 jours.</p>
+<p>7B.186 (XX/XX/XX) MERX retourne à TPSGC une confirmation de l'affichage sur une base quotidienne. Lorsqu'il reçoit la bande quotidienne, le SGTI convertira les confirmations en format de lecture et transmet l'information à tous les secteurs d'approvisionnement, pour qu'ils puissent la diffuser aux agents de négociation des contrats. (Voir 7B.192.)</p>
+<p>Sauf pour ce qui est des avis visés par l'ALENA, l'OMC-AMP, l'ACCMT et l'ACI, les agents de négociation des contrats peuvent envoyer un exemplaire de l'APM aux fournisseurs lorsqu'il est jugé nécessaire d'assurer ne concurrence suffisante. Toutefois, les fournisseurs doivent acheter les documents d'appels d'offres de MERX. Une lettre de couverture devrait accompagner l'avis. (Voir l'annexe 7.6 pour l'exemple.)</p>
+<h4>Détermination des périodes de soumission</h4>
+<p>7B.211 (XX/XX/XX) Dans le cas des marchés qui ne sont pas assujettis à l'ALENA, à l'AMP-OMC ou à l'ACCMT, (qu'ils soient annoncés publiquement ou non) la durée de l'invitation à soumissionner ne doit pas être inférieure à quinze (15) jours civils, soit à partir de la date à laquelle on annonce publiquement le projet de marché ou de la date à laquelle les invitations à soumissionner sont expédiées dans le cas des invitations qui ne sont pas diffusées publiquement.</p>
+<p>Lorsqu'on diffuse des avis dans plusieurs médias publics (soit le SEAG et d'autres médias publics), on ne devrait négliger aucun effort pour s'assurer que les avis sont diffusés en même temps. Dans le cas des avis de marché visés par l'ALENA ou à l'AMP-OMC, il est obligatoire qu'ils soient diffusés sur SEAG et dans les Marchés publics simultanément pour les périodes minimum établies. (Voir 7B.183)</p>
+<p>La décision de réduire la période prescrite de réception des soumissions est une décision d'affaires prise par l'agent de négociation des contrats, selon les circonstances particulières à l'achat tout en tenant compte des périodes minimum établies. L'agent de négociation des contrats doit s'assurer que cette décision est suffisamment documentée.</p>
+<p>7B.212 (XX/XX/XX) Dans le cas des achats qui sont assujettis à l'ALENA, à l'OMC-AMP, et (ou) à l'ACCMT, les périodes de réception des soumissions suivantes s'appliquent :</p>
+<ol type="a">
+<li>Dans le cas des procédures d'appels d'offres ouvertes, la période de réception des soumissions ne doit pas être inférieure à 40 jours civils à partir de la date de première parution de l'APM dans Marchés publics (dans le SEAG pour l'ACCMT).</li>
+<li>Dans le cas des procédures d'appels d'offres sélectives dans le cadre desquelles on n'a pas recours à une liste permanente de fournisseurs qualifiés, la période de présentation d'une demande, en vue d'être invité à soumissionner, ne doit pas être inférieure à 25 jours civils à compter de la date de publication de l'APM dans Marchés publics (dans le SEAG pour l'ACCMT). La période de réception des soumissions ne doit pas être inférieure à 40 jours civils à partir de la date de publication des documents d'appel d'offres.</li>
+<li>Dans le cas des procédures d'appels d'offres sélectives dans le cadre desquelles on utilise des listes permanentes de fournisseurs qualifiés, le délai de réception des soumissions ne doit pas être inférieur à 40 jours civils à compter de la date d'envoi des documents d'invitations à soumissionner, ni inférieur à 40 jours civils à compter de la date de parution de l'APM dans Marchés publics (dans le SEAG pour l'ACCMT).</li>
+<li>Dans le cas des entreprises (sociétés d'État) visées par l'ALENA uniquement, la période de réception des soumissions doit être de 24 jours civils pour les sociétés d'État qui ont publié un avis de projet d'achat pendant au moins 40 jours civils mais ne dépassant pas 12 mois.</li>
+<li>Lorsqu'une entreprise (société d'État) visée par l'ALENA uniquement utilise, comme moyen d'invitation à participer, un avis de projet d'achat visant un système de qualification, la période de réception des soumissions peut être fixée par consentement mutuel mais ne peut être inférieure à 10 jours civils.</li>
+</ol>
+<p>Toute période de publication peut être réduite, mais elle ne doit pas être inférieure à :</p>
+<ul>
+<li>24 jours civils pour la deuxième publication et les publications subséquentes touchant des contrats répétitifs, à la condition que l'on précisait dans le premier APM la date à laquelle le prochain avis serait publié; ou</li>
+<li>10 jours civils lorsque le bien-fondé d'une situation d'urgence peut être prouvé.</li>
+</ul>
+<p>L'ALENA, l'OMC-AMP et l'ACCMT spécifient des périodes de publication minimales. La Direction de la politique opérationnelle peut aider à déterminer si la réduction proposée pour la période de demande de soumissions minimale est conforme aux dispositions des accords. La décision quant à l'importance de la réduction de la période de demande de soumissions est alors une décision de gestion qui doit être prise par l'agent de négociation des contrats.</p>
+<p>7C.256 (XX/XX/XX) Toute décision visant une prolongation de la période de soumission relève de la responsabilité de l'agent de négociation des contrats, en fonction des circonstances particulières de l'approvisionnement. Une prolongation serait possible dans des délais relativement courts (plus ou moins 24 h) lorsque les invitations à soumissionner ont été faites à partir de listes de fournisseurs, ou lorsque les invitations annoncées publiquement ne sont pas assujetties à l'ALENA, à l'OCM-AMP ou à l'ACCMT. Toutefois, puisque tout avis ayant trait à un appel d'offres annoncé publiquement visé par l'ALENA, et (ou) l'OMC-AMP doit être publié dans Marchés publics en même temps qu'il apparaît au SEAG, l'affichage sera retardé jusqu'à ce que l'avis soit prêt pour publication dans Marchés publics, ce qui prend généralement cinq (5) jours ouvrables.</p>
+<h4>ACCMT</h4>
+<h4>Attestation de la proposition</h4>
+<p>7D.361 (XX/XX/XX) Lorsque le marché est constitué de plusieurs biens, l'évaluation de l'attestation selon les procédures spéciales de l'ACCMT peut se dérouler comme suit :</p>
+<ol type="a">
+<li>attestation globale : au moins 60 % du prix total proposé doivent être constitués de biens canadiens et (ou) coréens;</li>
+<li>attestation détaillée : l'attestation accompagnant la proposition doit être détaillée et porter sur les différents biens proposés.</li>
+</ol>
+<p>Lorsque le marché est constitué à la fois de biens et de services accessoires, 60 % du prix total proposé doivent porter sur des biens et des services canadiens et (ou) coréens.</p>
+<p>On entend par « services accessoires » tous les services compris dans un appel d'offres pour l'achat d'un bien visé en vertu de cet accord.</p>
+<p>Les services fournis par des personnes physiques établies au Canada ou en Corée sont considérées respectivement comme des services canadiens ou coréens. Lorsqu'un marché porte sur un seul service, fourni par plusieurs personnes physiques, on considère qu'il s'agit d'un service canadien ou coréen si au moins 60 % du prix total proposé pour ce service sont assurés par des personnes physiques établies respectivement au Canada ou en Corée.</p>
+<p>On peut accepter une proposition en partie, sans obliger le soumissionnaire à redéposer une attestation.</p>
+<h4>Application des procédures spéciales en vertu de l'ACCMT</h4>
+<p>(Remarque : lorsqu'un marché est visé par l'ACCMT et par l'AMP-OMC, on applique les procédures de ce dernier accord.)</p>
+<p>7D.362 (XX/XX/XX) Les propositions auxquelles s'appliquent les procédures spéciales de l'ACCMT sont évaluées comme suit :</p>
+<ol type="a">
+<li>pour les appels d'offres limités exclusivement, seules sont évaluées les propositions accompagnées d'attestation valables. Le processus d'évaluation des propositions peut se dérouler lorsqu'il y a au moins une proposition accompagnée d'une attestation valable; sinon, il faut relancer un appel d'offres;</li>
+<li>pour les appels d'offres limités conditionnellement, l'agent des achats doit, avant d'évaluer les propositions plus en profondeur, s'assurer qu'il y a au moins deux propositions accompagnées d'une attestation valable. Dans ce cas, seules sont évaluées les propositions accompagnées d'une attestation; sinon, on évalue toutes les propositions. Si, par la suite, on constate que les propositions accompagnées d'une attestation valable sont irrecevables ou qu'elles sont retirées et qu'il ne reste plus qu'une proposition recevable pour des biens et des services canadiens et (ou) coréens, on poursuit le processus d'évaluation des propositions. Si on constate par la suite que toutes les propositions accompagnées d'une attestation valable ne sont pas recevables ou que ces propositions sont retirées, on doit évaluer toutes les autres propositions qui ont été déposées.</li>
+</ol>
+<p>7D.363 (XX/XX/XX) Il appartient au fournisseur de démontrer que sa proposition répond à la définition de biens et de services canadiens et (ou) coréens. Ce fournisseur doit signer le formulaire d'attestation et le déposer avec sa proposition (cf. 5.069). Lorsqu'on se prévaut des clauses K5003T, K5004T, K5005T ou K5006T (évaluation des différents biens) du Guide des Clauses et conditions uniformisées d'achat (CCUA), le fournisseur doit indiquer clairement le statut de chacun des différents produits.</p>
+<p>TPSGC peut vérifier la validité de l'attestation. Si on constate que cette attestation n'est pas valable, on juge que les biens ou les services offerts ne répondent pas à la définition de biens ou de services canadiens ou coréens dans le cadre de l'ACCMT. La vérification de l'attestation ne doit en aucun cas avoir pour effet de modifier le prix proposé ou les éléments essentiels de la proposition.</p>
+<h4>Négociations</h4>
+<p>7D.449 (XX/XX/XX) L'agent de négociation des contrats ne peut tenir des négociations pour tous les achats assujettis à l'Accord de libre-échange nord-américain (ALENA), à l'Organisation mondiale du commerce - Accord sur les marchés publics (OMC-AMP), ou à l'Accord Canada-Corée sur les achats de matérial de télécommunication (ACCMT), que lorsqu'une des deux conditions précisées dans l'ALENA ou dans l'OMC-AMP est remplie (les conditions de l'AMP-OMC s'appliquent aux marchés visés par l'ACCMT). Dans le cadre de ces négociations, il doit respecter les étapes mentionnées dans l'ALENA ou dans l'OMC-AMP. (S'il y a lieu, consultez l'article 1014 (<a href="http://www.dfait-maeci.gc.ca/nafta-alena/" rel="external">http://www.dfait-maeci.gc.ca/nafta-alena/</a><br/>
+          accord/chap-10a.asp#Section B) de l'ALENA ou l'article XIV (<a href="http://www.wto.org/french/docs_f/legal_f/mpub.wp5" rel="external">http://www.wto.org/french/docs_f/legal_f/mpub.wp5</a>) de l'OMC-AMP. Dans les cas où le marché est assujetti aux deux accords, consultez l'article 1014 de l'ALENA.)</p>
+<p>7D.450 (XX/XX/XX) Pour ce qui est des achats non assujettis à l'ALENA, à l'OMC-AMP, ou à l'ACCMT,</p>
+<ol type="a">
+<li>lorsqu'une demande de propositions (DP) a été diffusée, il est possible d'entreprendre des négociations<br/>
+<ol type="i">
+<li>avant que ne soit complétée l'évaluation des propositions, à la condition qu'elles soient tenues avec tous les soumissionnaires qui ont présenté une soumission recevable; ou</li>
+<li>après l'évaluation des propositions, avec un seul soumissionnaire, à la condition que le soumissionnaire ait présenté la seule soumission recevable, ou que le soumissionnaire ait été choisi après que plus d'une soumission recevable ait été évaluée et qu'il puisse être démontré que, même si l'on avait entrepris des négociations avec tous les soumissionnaires qui ont présenté une soumission recevable, le choix de l'entreprise aurait été le même;</li>
+</ol>
+<p>La capacité à prouver que le même fournisseur sera choisi, qu'il y ait ou non négociations avec tous les soumissionnaires ayant présenté une soumission recevable, présuppose que le besoin (notamment les spécifications techniques) n'a pas changé durant les négociations et que, par conséquent, si l'on avait donné la même opportunité aux autres soumissionnaires, ils n'auraient pu présenter d'offres différentes et peut-être meilleures.</p>
+</li>
+<li>lorsqu'un appel d'offres a été diffusé et que l'on a reçu plus d'une soumission recevable, mais où ni la soumission la moins-disante ni les autres soumissions ne représentent une valeur juste, l'agent de négociation des contrats doit déterminer, lorsqu'il envisage d'entreprendre des négociations, s'il ne serait pas plus efficace d'annuler l'appel d'offres et de recourir à une autre méthode d'approvisionnement. Dans les cas d'urgence, il serait peut-être possible d'utiliser les résultats de l'appel d'offres initial pour entreprendre des négociations avec les fournisseurs;</li>
+<li>lorsqu'une demande de propositions a été diffusée, on devrait éviter d'entreprendre des négociations, sauf dans les cas où le besoin n'a pas été défini adéquatement dans la demande initiale.</li>
+</ol>
+<h4>Mise à l'écart d'un fournisseur</h4>
+<p>7D.455 (XX/XX/XX) Si l'on se propose d'écarter un fournisseur à qui on aurait attribué le marché, fondé sur les critères d'évaluation publiés et la méthode de sélection retenue, il faut obtenir l'approbation requise pour les marchés non concurrentiels avant de conclure le marché proposé. L'attribution du marché doit être pleinement justifiée et documentée.</p>
+<p>La présente procédure ne s'applique pas aux achats assujettis à l'ALENA, à l'OMC-AMP, à l'ACCMT ou à l'Accord sur le commerce intérieur (ACI). Par exemple, le point 4 c) de l'article 1015 de l'ALENA stipule ceci : « sauf si elle décide, pour des raisons d'intérêt public, de ne pas passer le marché, l'entité adjugera au fournisseur qui aura été reconnu pleinement capable d'exécuter le marché et dont la soumission sera la soumission la plus basse ou celle qui aura été jugée la plus avantageuse selon les critères d'évaluation spécifiés dans les avis ou dans la documentation relative à l'appel d'offres ». Des clauses similaires existent dans les deux autres accords.</p>
+<h4>Annulation et réémission de documents de soumission</h4>
+<p>7D.468 (XX/XX/XX) Les agents de négociation des contrats peuvent lancer une nouvelle invitation à soumissionner, avec l'approbation du directeur (administration centrale) ou du gestionnaire (régions) ou d'un cadre de niveau supérieur, dans les situations suivantes :</p>
+<ol type="a">
+<li>un changement important est intervenu dans un besoin avant la passation du marché;</li>
+<li>toutes les soumissions reçues sont jugées non recevables ou ne représentent pas une juste valeur marchande;</li>
+<li>la période de validité de la soumission est expirée et aucun marché n'a été passé.</li>
+</ol>
+<p>Pour les achats assujettis à l'ALENA, à l'OMC-AMP, à l'ACCMT ou à l'ACI, on doit annuler l'invitation à soumissionner lorsqu'aucun soumissionnaire n'a présenté une soumission recevable ou que le besoin a considérablement changé.</p>
+<p>Les agents de négociation des contrats peuvent lancer une nouvelle invitation à soumissionner, avec l'approbation du gestionnaire (administration centrale) ou du chef de division (régions) ou d'un cadre de niveau supérieur, lorsqu'aucune soumission n'a été reçue suite à une invitation à soumissionner en régime de concurrence.</p>
+<h4>Formules utilisées pour l'adjudication de marché</h4>
+<p>7E.502 (XX/XX/XX) Les contrats attribués en fonction des propositions qui respectent la définition du contenu canadien ou coréen de l'ACCMT doivent reprendre la clause K5100C du Guide des CCUA.</p>
+<p>7E.503 (XX/XX/XX) Les contrats attribués en fonction des propositions qui respectent la définition du contenu canadien de la politique sur le contenu canadien doivent reprendre la clause K4100C du Guide des CCUA.</p>
+<h4>Publication des avis d'adjudication</h4>
+<p>7F.718 (XX/XX/XX) Dans le cas des marchés assujettis à l'ALENA et à l'OMC-AMP, un Avis d'adjudication (AA) doit être publié par l'entremise du SEAG ainsi que dans le bulletin Marchés publics dans les soixante-douze (72) jours suivant l'attribution du marché. Dans le cas des marchés assujettis à l'ACCMT, un Avis d'adjudication (AA) doit être publié par l'entremise du SEAG dans les soixante-douze (72) jours suivant l'attribution du marché. Bien qu'il n'y ait pas de période minimum requise en vertu de l'ACI, la limite de soixante-douze (72) jours s'applique pour des raisons d'uniformité.</p>
+<p>Les AA sont générés par l'EAA et envoyé à MERX aussitôt que l'agent de négociation des contrats complète le sommaire d'approvisionnement avec la feuille de codage électronique. Un AA sera généré pour tous les appels d'offres qui ont été annoncés sur MERX, sans égard pour la valeur du marché qui en résulte.</p>
+<h3>Annexe 7.7</h3>
+<h4>REMARQUES</h4>
+<p>23. S'il y a dérogation aux dispositions de l'Organisation mondiale du commerce - Accord sur les marchés publics (OMC-AMP), de l'Accord de libre-échange nord-américain (ALENA), de l'Accord Canada-Corée sur les achats de matérial de télécommunication (ACCMT) ou de l'Accord sur le commerce intérieur (ACI), donner les motifs pour lesquels la dérogation est recommandée.</p>
+<h4>Délais</h4>
+<p>8.017 (XX/XX/XX) Les PAC doivent être affichés pendant au moins quinze (15) jours civils par l'entremise du SEAOG. Lorsqu'un PAC est assujetti à l'ALENA ou à l'OMC-AMP, les quinze (15) jours civils doivent commencer à la date où le PAC est publié dans le bulletin Marchés publics. En ce qui concerne les marchés assujettis à l'ACCMT ou l'Accord sur le commerce intérieur, la période de publication commence en même temps que la publication du PAC par l'entremise du SEAOG. (Voir 7B.183)</p>
+<p>Si aucune contestation n'est présentée durant cette période de quinze (15) jours civils, l'agent de négociation des contrats peut alors procéder à l'attribution du marché.</p>
+<p>Malgré ce qui précède, les Énoncés de capacités reçus après la date indiquée, mais avant l'attribution du contrat, doivent être considérés par l'agent de négociation des contrats avant de procéder à l'attribution. Agir autrement contreviendrait au RME.</p>
+<h3>SECTION 9A : ACHATS EFFECTUÉS AUPRÈS DU SERVICE CORRECTIONNEL DU CANADA</h3>
+<p>9A.4 (XX/XX/XX) L'article 1018 2 d) de l'Accord de libre-échange nord-américain (ALENA) permet que les achats se rapportant à des produits ou services provenant de personnes incarcérées ne soient pas assujettis à l'ALENA. Une disposition semblable existe dans l'Organisation mondiale du commerce - Accord sur les marchés publics (OMC-AMP), l'Accord Canada-Corée sur les achats de matérialde télécommunication (ACCMT) et dans l'Accord sur le commerce intérieur (ACI), article 507 c).</p>
+<h3>SECTION 9B : VENTES DE MATÉRIEL MILITAIRE DES ÉTATS-UNIS À L'ÉTRANGER</h3>
+<p>9B.13 (XX/XX/XX) L'administration centrale de TPSGC doit déterminer, avant que ne débute le processus d'approvisionnement dans le cadre du FMS, si les dispositions de l'Accord de libre-échange nord-américain (ALENA), de l'Organisation mondiale du commerce - Accord sur les marchés publics (OMC-AMP), ou l'Accord Canada-Corée sur les achats de matérial de télécommunication (ACCMT) s'appliquent et doit prendre des mesures en conséquence. Si ces dispositions ne s'appliquent pas, TPSGC doit déterminer s'il y a des fournisseurs existants ou éventuels au Canada et, après avoir consulté le MDN, ou tout autre client, il doit décider si, dans les circonstances, il est plus avantageux pour le gouvernement du Canada de s'approvisionner au Canada ou auprès du fabricant de l'équipement aux É.-U. ou encore auprès du DOD des É.-U.</p>
+<p>9B.16 (XX/XX/XX) Les agents de négociation des contrats de TPSGC doivent se renseigner sur le prix et la disponibilité du matériel qui, selon le MDN, peut être obtenu dans le cadre du FMS, de commandes définies ou de commandes-cadres, et lorsque l'achat en question n'est pas assujetti aux dispositions de l'ALENA, de l'OMC-AMP, ou de l'ACCMT.</p>
+<h3>SECTION 9D : PROGRAMME DE PRODUCTIVITÉ DE L'INDUSTRIE DU MATÉRIEL DE DÉFENSE - SERVICES RELATIFS AUX ACCORDS DE CONTRIBUTION</h3>
+<p>9D.1 (XX/XX/XX) Travaux publics et Services gouvernementaux Canada (TPSGC) fournira les services relatifs à la préparation et à la gestion des accords de contribution dans le cadre de projets du Programme de productivité de l'industrie du matériel de défense (PPIMD), conformément aux termes du protocole d'entente établi en 1981 entre TPSGC et Industrie Canada (IC). Les accords de contribution ne sont pas assujettis à l'Accord de libre-échange nord-américain (ALENA), à l'Organisation mondiale du commerce - Accord sur les marchés publics (OMC-AMP), à l'Accord Canada-Corée sur les achats de matérial de télécommunication (ACCMT) et à l'Accord sur le commerce intérieur (ACI).</p>
+<h3>SECTION 9J : arrangements en matière D'APPROVISIONNEMENT</h3>
+<p>9J.2 (XX/XX/XX) Les invitations à soumissionner faites en vertu d'un AA peuvent, selon les circonstances, être assujetties aux procédures liées à l'Accord de libre-échange nord-américain (ALENA), à l'Organisation mondiale du commerce - Accord sur les marchés publics (OMC-AMP), à l'Accord Canada-Corée sur les achats de matérial de télécommunication (ACCMT) et à l'Accord sur le commerce intérieur (ACI) (voir le chapitre 4). Une invitation à soumissionner faite en vertu d'un AA assujetti à l'ALENA à l'OMC-AMP, et (ou) à l'ACCMT serait considéré comme un appel d'offres sélectif ne nécessitant pas le recours à une liste permanente de fournisseurs qualifiés (voir 5.050 b)) et une invitation à soumissionner qui répond aux exigences de l'ACI serait considérée comme ayant faite à partir d'une liste de fournisseurs (voir l'article 506 de l'ACI) . Pour les marchés qui sont assujettis à l'ALENA, à l'OMC-AMP, à l'ACCMT et à l'ACI, les procédures suivantes devraient être modifiées, si nécessaires, afin de tenir compte des obligations liées aux accords.</p>
+<h3>SECTION 9L : PROGRAMME DES MARCHÉS RÉSERVÉS AUX ENTREPRISES</h3>
+<h4>AUTOCHTONES - ATTRIBUTION DES CONTRATS RÉSERVÉS AUX ENTREPRISES AUTOCHTONES</h4>
+<p>9L.050 (XX/XX/XX) Les marchés réservés aux entreprises autochtones ne sont pas assujettis aux dispositions de l'Accord de libre-échange nord-américain (ALENA), annexe 1001.2b, article 1d)(<a href="http://www.dfait-maeci.gc.ca/nafta-alena/" rel="external">http://www.dfait-maeci.gc.ca/nafta-alena/</a><br/>
+          accord/Chap-10c.asp#Annexe 1001.2b), ni à celles de l'Accord relatif aux marchés publics de l'Organisation mondiale du commerce (AMP-OMC), Appendice I, article 1d) (<a href="http://www.wto.org/english/tratop_e/" rel="external">http://www.wto.org/english/tratop_e/</a><br/>
+          gproc_e/can-notf.doc) , ou de l'Accord Canada-Corée sur les achats de matérial de télécommunication (ACCMT), article 1, partie 5 (Voir Annexe 4.2) ni aux dispositions de l'article 1802 de l'Accord sur le commerce intérieur (ACI) (voir l'annexe 4.4).</p>
+<p>9L.110 (XX/XX/XX) Dans le but d'appuyer la SAEA, les ministères peuvent décider de réserver à des entreprises autochtones une partie des contrats de sous-traitance qui seront attribués dans le cadre de projets ou d'encourager les soumissionnaires, au moyen d'incitatifs (points supplémentaires accordés, à l'évaluation,pour la sous-traitance à des entreprises autochtones). Toutefois, il doit être clairement indiqué dans l'invitation à soumissionner que le recours aux entreprises autochtones constitue un critère d'évaluation des soumissions. Ce critère ne peut pas s'appliquer dans le cas de contrats assujettis à l'ALENA (Article 1006 - Interdiction des compensations); à l'AMP-OMC (Article XVI - Compensations) ou à l'ACCMT (Article 3 Procédures de passation des marchés). (Voir 9L.050)</p>
+<h3>Section 9M : POLITIQUE SUR LES MARCHÉS RÉSERVÉS DANS LE CADRE DES ENTENTES SUR LES REVENDICATIONS TERRITORIALES</h3>
+<p>9M.010 (XX/XX/XX) La Politique sur les marchés réservés dans le cadre des ententes sur les revendications territoriales globales établit des procédures relatives aux marchés réservés qui sont visés par l'Accord de libre-échange nord-américain (ALENA) et l'Accord relatif aux marchés publics de l'organisation mondiale du commerce (AMP-OMC) et assujettis aux ententes sur les revendications territoriales globales, aux accords sur les parcs nationaux ou aux accords de coopération du ministère de la Défense nationale (MDN). Pour les marchés visés par l'ACCMT, on doit appliquer les procédures relatives aux marchés visés par l'AMP-OMC.</p>
+<p>9M.030 (XX/XX/XX) Se demander si un marché est assujetti à la fois à une entente de revendication territoriale et à l'ALENA, à l'AMP-OMC et (ou) à l'ACCMT. (Voir 4.002, 4.009, 4.010 et 4.011 respectivement.)</p>
+<p>Si un marché est assujetti à l'ALENA, à l'AMP-OMC et (ou) à l'ACCMT, et à au moins une entente de revendication territoriale, la partie du marché à livrer dans la région visée par une entente de revendication territoriale globale (ERTG) doit, lorsque cela est possible, faire l'objet d'un marché distinct de la partie du marché à livrer en dehors de cette région.</p>
+<p>La partie du marché destinée à être livrée en dehors de la région visée par une ERTG continue de faire l'objet d'un marché conformément aux dispositions de l'ALENA, de l'AMP-OMC et (ou) de l'ACCMT.</p>
+<p>Le marché (ou la partie du marché) à livrer dans la région visée par une ERTG doit faire l'objet d'un marché réservé exempté de l'ALENA, de l'AMP-OMC et de l'ACCMT. Les dispositions relatives aux « marchés réservés aux petites entreprises et aux entreprises des minorités » sont décrites dans l'annexe 1001.2b, article 1d) (<a href="http://www.dfait-maeci.gc.ca/nafta-alena/" rel="external">http://www.dfait-maeci.gc.ca/nafta-alena/</a><br/>
+          accord/Chap-10c.asp#Annexe 1001.2b) de l'ALENA, à l'Appendice I, article 1d) (<a href="http://www.wto.org/english/tratop_e/" rel="external">http://www.wto.org/english/tratop_e/</a><br/>
+          gproc_e/can-notf.doc) de l'AMP-OMC et à l'ACCMT, article 1, partie 5 (Voir Annexe 4.2). Pour réserver un marché, on doit fournir certaines précisions sur l'entente applicable en matière de revendications territoriales dans l'APM et dans le document d'invitation à soumissionner. Ce marché correspondra à ce qu'on appelle un « marché réservé dans le cadre des revendications territoriales » ou « MRRT ».</p>
+<p>9M.050 (XX/XX/XX) On doit noter l'information suivante (clause A9110T du guide des Clauses et conditions uniformisées d'achat (CCUA) au début de la case du texte de l'APM pour le marché qui est réservé :</p>
+<p>« Ce marché est réservé dans le cadre de _________. (Reproduire la mention pertinente : article 1(d) de l'annexe 1001.2b, de l'Accord de libre-échange nord-américain; article 1(d) de l'appendice 1 de l'Accord sur les marchés publics de l'Organisation mondiale du commerce; partie 5 de l'article 1 de l'Accord Canada-Corée sur les achats de matériel de télécommunications (ACCMT) (cf. l'annexe 4.7); et (ou) article 1802 de l'Accord sur le commerce intérieur (ACI) (annexe 4.7).)</p>
+<p>On doit indiquer l'information suivante à la fin de la case du texte de l'APM, en précisant l'article pertinent, l'entente de revendication territoriale correspondante, ainsi que les clauses pertinentes de l'Avis de politique des marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada. Consulter le tableau pour connaître ces renseignements. Ne pas reproduire le texte de la clause dans l'APM. Pour les achats qui s'appliquent au ACCMT, les modalités défines par l'AMP-OMC, doit être appliqué.</p>
+<p>« Les avantages qui s'appliquent à ce marché sont exprimés dans :... »</p>
+<p>Par exemple, dans le cas d'un marché assujetti à la Convention définitive des Inuvialuit, il faudrait noter l'information suivante :</p>
+<p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 2 de la Convention définitive des Inuvialuit, dans les clauses 16(8), b) et c). »</p>
+<p>9M.060 (XX/XX/XX) On doit reproduire l'information suivante (clause A9110T du guide des CCUA) au début du document d'invitation à soumissionner :</p>
+<p>« Ce marché est réservé dans le cadre de _________. (Reproduire la mention pertinente : article 1(d) de l'annexe 1001.2b, de l'Accord de libre-échange nord-américain; article 1(d) de l'appendice 1 de l'Accord sur les marchés publics de l'Organisation mondiale du commerce; partie 5 de l'article 1 de l'Accord Canada-Corée sur les achats de matériel de télécommunications (ACCMT) (cf. l'annexe 4.7); et (ou) article 1802 de l'Accord sur le commerce intérieur (ACI) (annexe 4.7).)</p>
+<p>Insérer la ou les clauses pertinentes du guide des CCUA à la fin du document d'invitation à soumissionner mais avant toute annexe ou tout appendice. Consulter le tableau pour la liste des clauses du guide des CCUA.</p>
+<h4>Codage</h4>
+<p>9M.080 (XX/XX/XX) Les marchés auxquels s'appliquent l'ALENA, l'AMP-OMC et (ou) l'ACCMT doivent être codés en conséquence; les marchés réservés en vertu de la présente Politique sur les marchés réservés dans le cadre des revendications territoriales doivent porter le code MRRT et être désignés comme des dérogations au titre des « marchés réservés pour les petites entreprises et les entreprises des minorités ».</p>
+<p>Dans les cas où un marché a été divisé et où l'on choisit le même fournisseur pour les deux appels d'offres, on devra établir des documents contractuels distincts afin de respecter les exigences de codage du système pour les différents types d'entente.</p>
+<h4>Vérifications</h4>
+<p>11.081 (XX/XX/XX) L'autorisation permettant des vérifications discrétionnaires découle soit des clauses contractuelles ou d'une loi (« Loi sur la production de défense », article 19). Si un agent de négociation des contrats détermine qu'une vérification discrétionnaire est nécessaire, il doit en faire la demande à la Direction des services d'établissement des coûts contractuels (DSECC). Les coûts liés aux vérifications discrétionnaires sont assumés par la DSECC.</p>
+<p>Les agents des achats peuvent transmettre à la DSECC, toute attestation de fournisseur relative au contenu canadien et (ou) Coréen afin qu'elle vérifie si elle est conforme à la politique.</p>
+<h3>CHAPITRE 12 - GLOSSAIRE</h3>
+<h4>Marchandises canadiennes</h4>
+<p>1) Pour l'application de l'ACCMT, on considère qu'il s'agit de biens canadiens s'ils répondent à la définition du « Règlement sur la désignation, aux fins de marquage, des pays d'origine des marchandises (pays ALENA) » du Canada. On ne peut se prévaloir de l'article 8 de ce règlement, qui prévoit une dérogation aux préférences tarifaires de l'ALENA, pour établir s'il s'agit de biens canadiens. (2) Aux fins de la politique sur le contenu canadien. Exception faite des marchandises énumérées à la procédure 5.073, on entend par marchandises canadiennes celles qui sont entièrement fabriquées au Canada ou qui proviennent du Canada ou encore les produits contenant des composantes importées qui ont subies une transformation suffisante au Canada pour être considérées comme canadiennes (voir 5.072). (3) Aux fins des taxes et des droits. Marchandises qui sont cultivées, produites ou fabriquées au Canada ou qui sont d'origine étrangère mais dont les droits et les taxes ont été payés, et importées au Canada dans le but d'y être consommer. (4) Ajouts à des marchandises canadiennes à l'étranger. Marchandises qui sont exportées hors du Canada aux fins d'être incorporées dans un autre pays à des articles ne provenant pas du Canada. (5) Traitement de marchandises canadiennes à l'étranger. Marchandises qui sont envoyées à l'étranger pour une étape de la production qui ne peut être effectuée au Canada. (XX/XX/XX) (Canadian goods)</p>
+<h4>Comité d'examen des acquisitions (CEA)</h4>
+<p>Le CEA examine en profondeur les achats individuels de biens et services de plus de deux millions de dollars que lui soumet le Comité de la stratégie des approvisionnements (CSA) et recommande des stratégies d'approvisionnement visant la réalisation de retombées socio-économiques. Les examens se font suivant des paramètres établis par le CSA, en toute conformité avec la politique du Conseil du Trésor sur l'examen des approvisionnements et en tenant compte des engagements internationaux du Canada en vertu de l'ACI, de l'OMC-AMP, de l'ALENA et de l'ACCMT ainsi que des autres droits et obligations en matière de commerce international. Bien que la composition du comité puisse varier légèrement, on y trouve essentiellement des représentants du client, de l'autorité contractante, du Secrétariat du Conseil du Trésor, des Finances, du Développement des ressources humaines, du Conseil national de recherche, d'Industrie Canada, de l'Agence de promotion économique du Canada atlantique, de la Diversification de l'économie de l'Ouest canadien, du Bureau fédéral de développement régional (Québec), du ministère des Affaires indiennes et du Nord canadien et d'Environnement Canada ainsi que du Commerce international pour certains besoins du MDN. (XX/XX/XX) (Procurement Review Committee [PRC])</p>
+<h3>Annexe 4.2 : L'ACCORD CANADA-CORÉE SUR LES ACHATS DE MATÉRIEL DE TÉLÉCOMMUNICATION (ACCMT)</h3>
+<h3>ACCORD ENTRE LE GOUVERNEMENT DE LA RÉPUBLIQUE DE CORÉE ET LE GOUVERNEMENT DU CANADA SUR LES MARCHÉS D'ÉQUIPEMENTS DE TÉLÉCOMMUNICATIONS</h3>
+<p><strong>LE GOUVERNEMENT DE LA RÉPUBLIQUE DE CORÉE</strong> (ci-après la « Corée »), d'une part, et <strong>LE GOUVERNEMENT DU CANADA</strong> (ci-après le « Canada »), d'autre part (ci-après appelés collectivement les « Parties » et, au singulier, une « Partie »),</p>
+<p><strong>RECONNAISSANT </strong>le rôle vital des services et infrastructures de télécommunications dans le renforcement et la durabilité de la croissance économique;</p>
+<p><strong>RÉAFFIRMANT </strong>les obligations des Parties aux termes des Accords de l'Organisation mondiale du commerce (l'« OMC »), notamment l'Accord de l'OMC sur les marchés publics (l'« AMP »), la Déclaration ministérielle sur le commerce des produits des technologies de l'information (l'« ATI ») et le Quatrième Protocole de l'OMC à l'Accord général sur le commerce des services (l'« AGCS »), également appelé l'Accord de l'OMC sur les télécommunications de base (l'« Accord GBT »);</p>
+<p><strong>CONSIDÉRANT </strong>l'engagement des Parties d'ouvrir à la concurrence étrangère leurs marchés respectifs des équipements de télécommunications, conformément au GATT de 1994, leurs marchés publics respectifs conformément à l'AMP et leurs marchés respectifs des services de télécommunications de base conformément à l'Accord GBT;</p>
+<p><strong>COMPRENANT </strong>que la concurrence accrue qui résultera de la mise en œuvre par la Corée et le Canada de ces Accords de l'OMC encouragera les fabricants d'équipements de télécommunications et les fournisseurs de services à rivaliser énergiquement les uns avec les autres et à offrir les meilleurs produits et services aux prix les plus concurrentiels possible;</p>
+<p><strong>VOULANT </strong>donner aux fabricants d'équipements de télécommunications et aux fournisseurs de services des Parties un accès réciproque, transparent et non discriminatoire aux marchés des entités visées par le présent Accord; et</p>
+<p><strong>AFFIRMANT </strong>que la compétitivité des fournisseurs de produits et de services, et non l'intervention gouvernementale, devrait être le principal moteur du succès industriel et du commerce international;</p>
+<p><strong>SONT CONVENUS</strong> de ce qui suit :</p>
+<h3>ARTICLE PREMIER</h3>
+<h4>Objectif, définitions et champ d'application de l'Accord</h4>
+<p>1. L'objet du présent Accord est de donner aux fournisseurs de produits et de services des Parties un accès réciproque, transparent et non discriminatoire aux marchés de produits et de services accessoires des entités énumérées à l'annexe 1 a) et 1 b) (ci-après appelées collectivement les « entités » et, au singulier, une « entité »).</p>
+<p>2. Dans le présent Accord :</p>
+<ol type="a">
+<li>« produits » désigne :<br/>
+<ol type="i">
+<li>les équipements de télécommunications (avec fil ou sans fil) et les matières originaires des territoires des Parties qui sont des composantes de réseaux de télécommunications, notamment les équipements de commutation, de transmission, d'accès et de terminal, ou qui sont utilisés dans le développement, la configuration, l'installation, le fonctionnement, l'entretien, la réparation et la gestion de réseaux de télécommunications; et</li>
+<li>les équipements de recherche et de développement, les équipements d'essai et de mesure et les équipements de formation qui sont inclus dans un appel d'offres portant sur des équipements de télécommunications et des matières visées par le présent Accord.</li>
+</ol>
+</li>
+<li>« service accessoire » désigne un service qui est inclus dans un appel d'offres portant sur un produit visé par le présent Accord.</li>
+<li>« territoire » désigne :<br/>
+<ol type="i">
+<li>en ce qui concerne la Corée, le territoire de la Corée ainsi que les régions maritimes, notamment les fonds marins et leur sous-sol adjacents à la limite extérieure des régions territoriales, sur lesquelles la Corée exerce, conformément au droit international, des droits souverains ou une compétence exclusive à l'égard de l'exploration et de l'exploitation des ressources naturelles de telles régions.</li>
+<li>en ce qui concerne le Canada, le territoire auquel s'appliquent ses lois douanières, notamment les régions situées au-delà de la mer territoriale du Canada à l'intérieur desquelles, conformément au droit international et à ses lois internes, le Canada peut exercer des droits à l'égard des fonds marins et de leur sous-sol et à l'égard des ressources naturelles qu'ils renferment; et</li>
+</ol>
+</li>
+</ol>
+<p>3. Le présent Accord s'applique aux lois, réglementations, procédures ou pratiques des Parties se rapportant :</p>
+<ol type="a">
+<li>aux marchés lancés par les entités énumérées à l'annexe 1 a) dans le cas de la Corée et à l'annexe 1 b) dans le cas du Canada;</li>
+<li>aux marchés de produits et de services accessoires; et</li>
+<li>aux marchés dont la valeur est d'au moins 130 000 DTS (droits de tirage spéciaux).</li>
+</ol>
+<p>4. La valeur d'un DTS en won coréens et en dollars canadiens sera fixée en conformité avec les procédures établies par le Comité des marchés publics de l'OMC et plus précisément en conformité avec la Décision sur les questions de procédure aux termes de l'AMP (1994) - Modalités de notification des chiffres seuils en monnaies nationales (GPA/1 - Annexe 3).</p>
+<p>5. Le présent Accord ne s'applique pas aux marchés suivants :</p>
+<ol type="a">
+<li>les marchés de produits et de services destinés à la revente dans le commerce ou devant servir à la fabrication de produits pour vente dans le commerce;</li>
+<li>pour la Corée :
+<p>- les marchés de gré à gré portant sur des commandes réservées aux petites et moyennes entreprises; et</p>
+<p>- les achats de satellites conformément à la Loi sur la promotion et le développement de l'industrie aéronautique et aérospatiale de la Corée, pour une période de cinq ans commençant le 1er janvier 1997, date à laquelle l'accession de la Corée à l'AMP a pris effet; et</p>
+</li>
+<li>pour le Canada :
+<p>- les marchés portant sur des commandes réservées aux petites entreprises et aux entreprises détenues par des membres de populations minoritaires; et</p>
+<p>- les marchés du ministère des Transports, du ministère des Pêches et des Océans et du ministère des Communications, en ce qui concerne les classifications 36, 70 et 74 du Système fédéral de classification des approvisionnements.</p>
+</li>
+</ol>
+<h3>ARTICLE 2</h3>
+<h4>Accès aux marchés et principes de non-discrimination</h4>
+<p>En ce qui concerne les marchés de produits et de services accessoires lancés par les entités, chacune des Parties accordera aux produits et aux services accessoires de l'autre Partie, ainsi qu'aux fournisseurs de tels produits et de services accessoires de l'autre Partie, un traitement non moins favorable que celui qu'elle accorde à ses propres produits, services accessoires et fournisseurs, et aux produits, services accessoires et fournisseurs d'un pays tiers.</p>
+<h3>ARTICLE 3</h3>
+<h4>Procédures de passation des marchés</h4>
+<p>1. Sous réserve du paragraphe 2 du présent article, les Parties s'engagent, pour les marchés régis par le présent Accord, à incorporer par référence dans le présent Accord les articles suivants de l'AMP, avec leurs modifications s'il y a lieu, et sous réserve des adaptations nécessaires, sauf dans la mesure où les procédures et pratiques décrites dans lesdits articles sont modifiées par le présent Accord :</p>
+<ul class="noBullet">
+<li>Article II Évaluation des marchés </li>
+<li>Article IV Règles d'origine </li>
+<li>Article VI Spécifications techniques </li>
+<li>Article VII Procédures de passation des marchés </li>
+<li>Article VIII Qualification des fournisseurs </li>
+<li>Article IX Invitation à soumissionner pour de marchés envisagés </li>
+<li>Article X Procédures de sélection </li>
+<li>Article XI Délais pour la présentation des soumissions et la livraison </li>
+<li>Article XII Documentation relative aux appels d'offres </li>
+<li>Article XIII Présentation, réception et ouvertures des soumissions et adjudications des marchés </li>
+<li>Article XIV Négociation </li>
+<li>Article XV Appels d'offres restreints </li>
+<li>Article XVII Transparence </li>
+<li>Article XVIII Information et examen concernant les obligations des entités </li>
+<li>Article XIX Information et examen concernant les obligations des Parties </li>
+<li>Article XXIII Exceptions à l'Accord</li>
+</ul>
+<p>2. Les Parties acceptent que, aux fins des articles IX et XVIII de l'AMP qui sont incorporés par référence dans le présent Accord, un avis soit publié dans la publication pertinente indiquée à l'annexe 3 du présent Accord.</p>
+<p>3. Dans la qualification et la sélection des fournisseurs, des produits et des services accessoires, et dans l'évaluation des offres et l'adjudication des marchés :</p>
+<ol type="a">
+<li id="AP-54rt1">les entités ne pourront, expressément ou implicitement, imposer, demander ou envisager des opérations de compensation; <sup><a href="#AP-54note1" title="Pour plus d'information, voir note 1">1</a></sup> et</li>
+<li>les opérateurs de télécommunications du secteur privé qui opèrent sur les territoires des Parties ne pourront être obligés ou encouragés par les Parties, expressément ou implicitement, à imposer, à demander ou à envisager des opérations de compensation.</li>
+</ol>
+<p>4. Une Partie ou une entité d'une Partie peut limiter les fournisseurs qui se qualifient à ceux qui peuvent démontrer que l'acceptation de leur offre n'entraînera pas une incompatibilité, une difficulté technique ou des coûts disproportionnés dans l'exploitation et l'entretien du réseau de la Partie ou de l'entité de la Partie. Cette limitation des fournisseurs ne peut être appliquée comme moyen d'empêcher une concurrence maximale ou comme moyen d'exercer une discrimination contre les fournisseurs de l'autre Partie ou de protéger les fournisseurs nationaux.</p>
+<h3>ARTICLE 4</h3>
+<h4>Procédures de contestation des adjudications</h4>
+<p>Pour les marchés lancés par les entités, les Parties adopteront des procédures non discriminatoires, adaptées, transparentes et effectives permettant aux fournisseurs de produits ou de services de réagir aux violations présumés du présent Accord qui sont survenues à l'occasion de marchés dans lesquels ils ont ou ont eu un intérêt. Les procédures de consultation et de contestation suivies par les entités et organismes qui examinent les contestations des adjudications comprendront au minimum les procédures décrites à l'article XX de l'AMP, sous réserve des adaptations nécessaires. Les entités devront en principe se plier aux recommandations de leurs organes de révision respectifs.</p>
+<h3>ARTICLE 5</h3>
+<h4>Consultations et règlement des différends</h4>
+<p>1. Sauf entente contraire des Parties, les Parties se réuniront au moins une fois l'an pour discuter toute affaire se rapportant à l'application et à la mise en œuvre du présent Accord, notamment pour procéder à un examen des annexes du présent Accord, dans le dessein de mettre à jour les annexes pour qu'elles reflètent l'évolution des marchés d'équipements et de services de télécommunications des Parties, ainsi que pour discuter toute question se rapportant au présent Accord.</p>
+<p>2. Si cela est nécessaire, l'une ou l'autre des Parties pourra demander la tenue de consultations afin de discuter tout aspect du présent Accord. Lorsqu'une Partie demandera des consultations sur toute matière intéressant l'application du présent Accord, les consultations devront être tenues au plus tard 30 jours après la date à laquelle la demande sera reçue, sauf entente contraire des Parties.</p>
+<p>3. Dans la mesure nécessaire pour assurer la bonne mise en œuvre du présent Accord, les Parties devront, à la demande de l'une ou l'autre, échanger des renseignements sur les lois, les autres mesures ou les changements imminents qui influent ou qui sont susceptibles d'influer sur les politiques ou pratiques des entités visées par le présent Accord en matière de passation des marchés.</p>
+<p>4. Chaque Partie accordera une bienveillante attention aux préoccupations de l'autre Partie et s'efforcera de résoudre d'une manière mutuellement acceptable toute question se rapportant à l'interprétation ou à l'application du présent Accord.</p>
+<p>5. Si l'une ou l'autre des Parties estime qu'un avantage qui lui est dévolu, directement ou non, en vertu du présent Accord se trouve annulé ou compromis, elle peut demander la tenue de consultations en vertu du présent article.</p>
+<p>6. Si un différend surgit dans le cadre du présent Accord, les Parties s'efforceront de le régler au moyen de consultations, dans un délai de 90 jours après la demande initiale de consultations. La période des consultations pourra être prolongée par consentement mutuel des Parties.</p>
+<p>7. Si un différend n'est pas réglé à la faveur de consultations entre les Parties dans un délai de 90 jours après la date de la demande initiale de consultations ou à l'intérieur de telle autre période arrêtée d'un commun accord, l'une ou l'autre des Parties pourra soumettre le différend à l'arbitrage. L'arbitrage se déroulera en conformité avec les procédures d'arbitrage décrites à l'annexe 2 du présent Accord.</p>
+<h3>ARTICLE 6</h3>
+<h4>Application d'autres accords</h4>
+<p>Les Parties confirment leurs droits et obligations prévus par l'Accord sur l'OMC, l'AMP et autres accords multilatéraux négociés sous les auspices de l'OMC. En cas d'incompatibilité entre le présent Accord et tout accord conclu entre les Parties autres que les accords multilatéraux mentionnés précédemment, le présent Accord aura préséance dans la mesure de l'incompatibilité, sauf disposition contraire du présent Accord ou sauf entente écrite des Parties.</p>
+<h3>ARTICLE 7</h3>
+<h4>Dispositions finales</h4>
+<p>1. Le présent Accord entrera en vigueur le premier jour du mois qui suivra la date à laquelle les Parties se seront notifié l'une à l'autre l'achèvement de leurs formalités de mise en œuvre.</p>
+<p>2. Les Parties peuvent s'entendre pour modifier ou augmenter le présent Accord, notamment pour mettre à jour, d'un commun accord, la liste des entités des Parties par suite notamment d'une modification du statut juridique d'une entité.</p>
+<p>3. Une fois arrêtée et approuvée en conformité avec la procédure juridique applicable de chaque Partie, toute modification ou augmentation sera considérée comme partie intégrante du présent Accord.</p>
+<p>4. Si une Partie souhaite résilier le présent Accord, elle notifiera par écrit son intention à l'autre Partie, et la résiliation du présent Accord prendra effet 180 jours après la date de réception de la notification.</p>
+<p>5. Les annexes qui accompagnent le présent Accord en font partie intégrante.</p>
+<p>6. Les dispositions du présent Accord s'appliqueront aux successeurs des entités.</p>
+<p><strong>EN FOI DE QUOI</strong> les soussignés, dûment autorisés par leurs gouvernements respectifs, ont signé le présent Accord.</p>
+<p><strong>FAIT </strong>en double exemplaire à Ottawa, ce 5e jour de juillet 1999, en langue française, anglaise et coréenne, chaque version faisant également foi.</p>
+<h3>POUR LE GOUVERNEMENT DE LA RÉPUBLIQUE DE CORÉE</h3>
+<p>_______________________</p>
+<h3>POUR LE GOUVERNEMENT DU CANADA</h3>
+<p>_______________________</p>
+<h2>ANNEXE 1</h2>
+<h3>ENTITÉS VISÉES</h3>
+<p><strong>ANNEXE 1</strong> b) - Corée</p>
+<p>Entités qui passent des marchés conformément aux dispositions du présent Accord</p>
+<p>Korea Telecom (KT)</p>
+<p><strong>ANNEXE 1</strong> a) - Canada</p>
+<p>Entités qui passent des marchés conformément aux dispositions du présent Accord</p>
+<ul class="noBullet">
+<li>Ministère de l'Agriculture </li>
+<li>Ministère des Communications </li>
+<li>Ministère de la Consommation et des Affaires commerciales </li>
+<li>Ministère de l'Emploi et de l'Immigration </li>
+<li>Commission de l'immigration et du statut de réfugié </li>
+<li>Commission de l'emploi et de l'immigration </li>
+<li>Ministère de l'Énergie, des Mines et des Ressources </li>
+<li>Commission de contrôle de l'énergie atomique </li>
+<li>Office national de l'énergie (pour son propre compte) </li>
+<li>Ministère de l'Environnement </li>
+<li>Ministère des Affaires étrangères </li>
+<li>Agence canadienne de développement international (pour son propre compte) </li>
+<li>Ministère des Finances </li>
+<li>Bureau du surintendant des institutions financières </li>
+<li>Tribunal canadien du commerce extérieur </li>
+<li>Office du développement municipal et des prêts aux municipalités </li>
+<li>Ministère des Pêches et des Océans </li>
+<li>Ministère des Forêts </li>
+<li>Ministère des Affaires indiennes et du Nord </li>
+<li>Ministère de l'Industrie, des Sciences et de la Technologie </li>
+<li>Conseil des sciences du Canada </li>
+<li>Conseil national de recherches du Canada </li>
+<li>Conseil de recherches en sciences naturelles et en génie du Canada </li>
+<li>Ministère de la Justice </li>
+<li>Commission canadienne des droits de la personne </li>
+<li>Commission de révision des lois </li>
+<li>Cour suprême du Canada </li>
+<li>Ministère du Travail </li>
+<li>Conseil canadien des relations du travail </li>
+<li>Ministère de la Santé nationale et du Bien-être social </li>
+<li>Conseil de recherches médicales </li>
+<li>Ministère du Revenu national </li>
+<li>Ministère des Travaux publics </li>
+<li>Secrétariat d'État du Canada </li>
+<li>Conseil de recherches en sciences humaines du Canada </li>
+<li>Bureau de la coordonnatrice, Condition féminine </li>
+<li>Commission de la fonction publique </li>
+<li>Ministère du Solliciteur général </li>
+<li>Service correctionnel du Canada </li>
+<li>Commission nationale des libérations conditionnelles </li>
+<li>Ministère des Approvisionnements et Services (pour son propre compte) </li>
+<li>Office des normes générales du Canada </li>
+<li>Ministère des Transports (à l'exception de la Garde côtière canadienne) </li>
+<li>Secrétariat du Conseil du Trésor et Bureau du contrôleur général </li>
+<li>Ministère des Anciens combattants </li>
+<li>Office de l'établissement agricole des anciens combattants </li>
+<li>Ministère de la Diversification de l'économie de l'Ouest (pour son propre compte) </li>
+<li>Agence de promotion économique du Canada atlantique (pour son propre compte) </li>
+<li>Vérificateur général du Canada </li>
+<li>Bureau fédéral de développement régional (Québec) (pour son propre compte) </li>
+<li>Centre canadien de gestion </li>
+<li>Commission de la radiodiffusion et des télécommunications canadiennes (pour son propre compte) </li>
+<li>Commission canadienne sur la détermination de la peine </li>
+<li>Tribunal de l'aviation civile </li>
+<li>Commissaire à la magistrature fédérale </li>
+<li>Greffe du Tribunal de la concurrence </li>
+<li>Commission du droit d'auteur </li>
+<li>Protection civile Canada </li>
+<li>Cour fédérale du Canada </li>
+<li>Office du transport du grain (pour son propre compte) </li>
+<li>Conseil de contrôle des renseignements relatifs aux matières dangereuses </li>
+<li>Commissaire à l'information et Commissaire à la protection de la vie privée </li>
+<li>Investissement Canada </li>
+<li>Ministère du Multiculturalisme et de la Citoyenneté </li>
+<li>Archives nationales du Canada </li>
+<li>Conseil national des produits agricoles </li>
+<li>Bibliothèque nationale </li>
+<li>Office national des transports (pour son propre compte) </li>
+<li>Administration du pipe-line du Nord (pour son propre compte) </li>
+<li>Conseil d'examen du prix des médicaments brevetés </li>
+<li>Agence de surveillance du secteur pétrolier </li>
+<li>Bureau du Conseil privé </li>
+<li>Secrétariat des conférences intergouvernementales canadiennes </li>
+<li>Commissaire aux langues officielles </li>
+<li>Commission des relations de travail dans la fonction publique </li>
+<li>Bureau du chef de cabinet du Gouverneur général </li>
+<li>Bureau du Directeur général des élections </li>
+<li>Bureau des relations fédérales-provinciales </li>
+<li>Commission de révision des marchés publics </li>
+<li>Statistique Canada </li>
+<li>Greffe de la Cour canadienne de l'impôt </li>
+<li>Office de stabilisation des prix agricoles </li>
+<li>Bureau canadien de la sécurité aérienne </li>
+<li>Centre canadien d'hygiène et de sécurité au travail </li>
+<li>Bureau canadien d'enquête sur les accidents de transport et de la sécurité des transports </li>
+<li>Directeur de l'établissement de soldats </li>
+<li>Directeur, Loi sur les terres destinées aux anciens combattants </li>
+<li>Office des prix des produits de la pêche </li>
+<li>Commission des champs de bataille nationaux</li>
+</ul>
+<h2>ANNEXE 2</h2>
+<h3>PROCÉDURES D'ARBITRAGE</h3>
+<p>1. Si un différend surgit dans le cadre du présent Accord et que les Parties ne sont pas en mesure de le régler dans un délai de 90 jours après la date de la demande initiale de consultations ou à l'intérieur de telle autre période arrêtée d'un commun accord, l'une ou l'autre des Partie peut recourir à l'arbitrage conformément à l'article 5, paragraphe 7, du présent Accord L'arbitrage sera régi par les procédures décrites dans la présente annexe</p>
+<p>2. Dans un délai de 60 jours après la réception d'une demande d'arbitrage par voie diplomatique, un comité d'arbitrage sera constitué, chacune des Parties nommant un membre du comité Les deux membres ainsi nommés choisiront ensuite un ressortissant d'un pays tiers qui, avec l'approbation des Parties, sera nommé président du comité d'arbitrage Le président sera nommé dans un délai de 60 jours après la nomination des deux autres membres du comité d'arbitrage</p>
+<p>3. Si, à l'intérieur des périodes précisées au paragraphe 2 de la présente annexe, les nominations nécessaires n'ont pas été faites, l'une ou l'autre des Parties pourra, en l'absence d'une autre entente, inviter le président de la Cour internationale de Justice à faire les nominations requises Si le président est un ressortissant de l'une des Parties ou s'il est d'une autre manière empêché de s'acquitter de ladite fonction, le vice-président sera invité à faire les nominations nécessaires Si le vice-président est un ressortissant de l'une des Parties ou s'il est empêché de s'acquitter de ladite fonction, le membre de la Cour internationale de Justice qui a le plus d'ancienneté et qui n'est pas un ressortissant de l'une des Parties sera invité à faire les nominations nécessaires</p>
+<p>4. Le comité d'arbitrage établira lui-même sa procédure Il arrivera à sa décision à la majorité des voix Cette décision sera obligatoire pour les deux Parties Sauf entente contraire, la décision du comité d'arbitrage sera rendue dans un délai de 180 jours à compter de la nomination du président conformément aux paragraphes 2 ou 3 de la présente annexe</p>
+<p>5. Chacune des Parties supportera les frais du membre qu'elle aura nommé au comité, et les frais de sa propre représentation durant l'arbitrage; les frais relatifs au président ainsi que les autres frais seront supportés en parts égales par les Parties Cependant, le comité d'arbitrage pourra, dans sa décision, ordonner qu'un pourcentage plus élevé des frais soit supporté par l'une ou l'autre des Parties, et cette répartition imposée des frais sera obligatoire pour les deux Parties</p>
+<p>6. Les Parties mettront à exécution la décision du comité Si l'une ou l'autre des Parties ne peut accepter le mode de règlement du différend, elle en informera l'autre Partie dans un délai de 30 jours après que le Comité aura rendu sa décision La Partie en défaut pourra proposer une compensation ou autre mesure corrective à l'autre Partie et au comité Si l'autre Partie n'est pas en état, dans un délai de 60 jours après que le comité a rendu sa décision, d'accepter la compensation ou la mesure corrective proposée, elle pourra proposer au comité, aux termes du présent accord, la suspension ou le retrait d'avantages équivalents Cette suspension ou ce retrait prendra effet 30 jours après qu'il aura été proposé, à moins que le comité ne désapprouve une telle mesure; dans ce dernier cas, le comité rendra une décision obligatoire pour les Parties en ce qui concerne la suspension ou le retrait d'avantages équivalents</p>
+<h2>ANNEXE 3</h2>
+<h3>PUBLICATIONS UTILISÉES</h3>
+<p>Corée -</p>
+<p>Les grands quotidiens diffusés à l'échelle nationale<br/>
+          La page d'accueil Internet prévue de KT<br/>
+          Point de contact : Le groupe de soutien logistique et d'assurance de la qualité de KT</p>
+<p>Canada -</p>
+<p>Système gouvernemental d'appels d'offres électroniques</p>
+<h2>ANNEXE 4</h2>
+<h3>ORIGINE DES PRODUITS ET DES SERVICES</h3>
+<p>1. Les Parties s'engagent à revoir, dans un délai de 180 jours après la signature du présent Accord, leurs régimes existants concernant les règles d'origine non préférentielles, afin d'établir des règles d'origine mutuellement acceptables régissant l'étendue des produits assujettis au présent Accord, selon la définition donnée par l'article 12 a) Dans l'établissement de ces règles d'origine, les Parties prendront en considération les principes appliqués dans le cours habituel du commerce international, par exemple le recours à une modification de la classification tarifaire pour refléter la transformation substantielle</p>
+<p>2. Les Parties acceptent, pour les marchés des entités qui sont visés par le présent Accord, d'incorporer par référence dans le présent Accord l'article IV, paragraphe 1, de l'AMP</p>
+<p>3. Les Parties s'engagent à examiner les résultats du programme de travail actuellement en cours pour l'harmonisation des règles d'origine des produits, aux termes de l'Accord sur les règles d'origine figurant à l'annexe 1A de l'Accord sur l'OMC, ainsi que les résultats des négociations relatives au commerce des services, dans le dessein d'adopter lesdits résultats comme règles d'origine pour la mise en œuvre de leurs engagements prévus par le présent Accord</p>
+<p>4. Pour la fourniture d'un service accessoire, chacune des Parties accordera l'admission temporaire aux fournisseurs de services de l'autre Partie qui se qualifient selon ses lois et réglementations en matière d'immigration et qui sont par ailleurs qualifiés pour une admission en vertu des mesures applicables se rapportant à la santé publique, à la sécurité publique et à la sécurité nationale</p>
+<p>5. Les services accessoires seront réputés être originaires du territoire d'une Partie si au moins la moitié de la valeur de ces services accessoires est fournie par une personne ou des personnes de cette Partie</p>
+<p>6. Aux fins du présent Accord, le mot « personne » a le même sens que dans l'article XXVIII de l'AGCS</p>
+<p>7. Si une Partie ou une entité d'une Partie n'est pas en mesure de vérifier l'origine de produits ou de services offerts dans un marché assujetti au présent Accord, conformément aux règles d'origine établies par les Parties en vertu de la présente annexe, cette Partie ou l'entité de cette Partie pourra refuser de considérer l'offre.</p>
+<h2>Annexe 4.3 : Politique du Conseil du Trésor mettant en œuvre l'ACCMT</h2>
+<h3>POLITIQUE METTANT EN œuvre L'ACCORD CONCLU ENTRE LE GOUVERNEMENT DE LA RÉPUBLIQUE DE CORÉE ET LE GOUVERNEMENT DU CANADA SUR L'ACHAT DE BIENS D'ÉQUIPEMENT DE TÉLÉCOMMUNICATIONS</h3>
+<h4>Objet</h4>
+<p>Cette politique porte sur les modalités d'application de l'accord conclu en date du 5 juillet 1999 entre le gouvernement de la République de Corée (la Corée) et le gouvernement du Canada (Canada) pour l'achat de biens d'équipement de télécommunications (l'Accord sur les télécommunications C-C).</p>
+<p>L'objectif de l'Accord sur les télécommunications C-C consiste à permettre aux fournisseurs et aux prestataires de services canadiens et coréens d'avoir accès, selon le principe de la réciprocité, en toute transparence et sans discrimination, aux marchés portant sur l'achat de biens et de services accessoires par les entités précisées à l'annexe 1 de l'Accord sur les télécommunications C-C.</p>
+<h4>Biens visés par l'Accord</h4>
+<p>Les biens visés par l'Accord sur les télécommunications C-C sont définis comme suit :</p>
+<ol type="i">
+<li>l'équipement et le matériel de télécommunications (sur fil et sans fil) provenant des territoires du Canada et de la Corée et constituant des éléments des réseaux de télécommunications, dont l'équipement de commutation, de transmission, d'accès et de terminal, ou utilisés dans le développement, la configuration, l'installation, l'exploitation, la maintenance, la réparation et la gestion des réseaux de télécommunications;</li>
+<li>l'équipement de recherche-développement, d'essai-mesure et de formation <strong>faisant l'objet d'un appel d'offres</strong> portant sur l'achat de biens d'équipement et de matériel de télécommunication visés par l'Accord sur les télécommunications C-C.</li>
+</ol>
+<p>Dans les marchés portant sur les catégories suivantes de la Classification fédérale des approvisionnements (CFA) 58, on doit toujours respecter les modalités précisées dans cette politique :</p>
+<p> N5805 Équipement de téléphonie et de télégraphie<br/>
+          N5815 Équipement de téléscripteur et de télécopieur<br/>
+          N5820020 à N5820700 Radio transmetteurs, récepteurs et émetteurs-récepteurs </p>
+<p>L'Accord sur les télécommunications C-C peut aussi s'appliquer à d'autres catégories de la CFA58 si les biens visés répondent à la définition ci-dessus.</p>
+<p>À l'exception des biens énumérés dans la CFA 58, les marchés pouvant porter sur des biens visés répondant à la définition ci-dessus sont également assujettis à l'Accord sur les marchés publics de l'Organisation mondiale du commerce (AMP-OMC). Dans les marchés visés par les deux accords, on doit appliquer les modalités définies par l'AMP-OMC, puisque le Canada s'est engagé, en vertu de cet accord, à ouvrir ses marchés à la Corée et aux autres pays signataires de l'AMP-OMC.</p>
+<h4>Modalités d'application</h4>
+<p>L'Accord sur les télécommunications C-C s'applique à l'ensemble des lois, des règlements, des procédures ou des pratiques de la Corée et du Canada relativement aux marchés :</p>
+<ol type="a">
+<li>passés par les entités énumérées dans l'annexe 1(a), dans le cas de la Corée, et dans l'annexe 1(b) dans le cas du Canada;</li>
+<li>de biens et de services accessoires; et</li>
+<li>lorsque la valeur du marché à attribuer est d'au moins 130000DTS (droits de tirage spéciaux).</li>
+</ol>
+<p>L'Accord ne s'applique pas aux marchés suivants :</p>
+<ol type="a">
+<li>les marchés de biens et de services passés pour la revente ou l'utilisation commerciale dans la production de biens destinés à la vente commerciale;</li>
+<li>les marchés réservés aux petites entreprises et aux entreprises minoritaires;</li>
+<li id="AP-54rt2">les marchés attribués pour les ministères des Transports, des Pêches et Océans et les Communications du Canada en ce qui a trait aux classifications fédérales des approvisionnements (CFA) 36, 70 et 74. <sup><a href="#AP-54note2" title="Pour plus d'information, voir note 2">2</a></sup></li>
+</ol>
+<h4>Définitions</h4>
+<p>Pour l'application de l'Accord sur les télécommunications C-C- :</p>
+<ol type="a">
+<li>On considère comme des biens canadiens ou coréens, pour l'application de cette politique seulement, s'ils sont réputés répondre à la définition en vertu du « Règlement sur la détermination du pays d'origine pour le marquage des biens (pays signataires de l'ALENA) » du Canada. On ne peut se prévaloir de l'article 8 de ce Règlement, qui prévoit l'annulation des tarifs préférentiels de l'ALENA, pour établir qu'un bien est d'origine canadienne.</li>
+<li>On entend par « services accessoires » tous les services prévus dans un appel d'offres pour l'achat d'un bien visé dans le cadre de cet Accord.
+<p>Les services fournis par des particuliers établis au Canada ou en Corée sont considérés comme des services canadiens ou coréens respectivement. Lorsqu'un marché porte uniquement sur un service assuré par plusieurs particuliers, on considère qu'il s'agit d'un service canadien ou coréen, si une part d'au moins 60 % du prix total offert pour ce service est assurée par des particuliers installés au Canada ou en Corée.</p>
+</li>
+<li>On entend par « territoire » :<br/>
+<ol type="i">
+<li>en ce qui concerne la Corée, le territoire de ce pays, de même que les zones maritimes, notamment le tréfond et le sous-sol jouxtant la limite extérieure des zones territoriales sur lesquelles la Corée exerce, conformément au droit international, des droits souverains ou des compétences pour ce qui est de l'exploration et de l'exploitation des ressources naturelles de ces zones.</li>
+<li>en ce qui concerne le Canada, le territoire auquel s'applique son droit douanier, y compris les zones débordant les mers territoriales du Canada dans lesquelles, conformément au droit international et à son droit national, le Canada peut exercer des droits en ce qui concerne le tréfond et le sous-sol, de même que leurs ressources naturelles.</li>
+</ol>
+</li>
+</ol>
+<h4>Modalités de passation des marchés</h4>
+<p>1. Sous réserve de l'alinéa 2 ci-après, le Canada et la Corée s'entendent pour intégrer par renvoi dans l'Accord, en ce qui concerne les marchés visés par l'Accord sur les télécommunications C-C, les articles suivants de l'AMP-OMC, dans leur version modifiée, <em>mutatis mutandis</em>, sauf dans la mesure où les modalités et les pratiques qu'y sont reproduites sont modifiées par cet Accord :</p>
+<ul class="noBullet">
+<li>Article II Évaluation des marchés </li>
+<li>Article IV Règles d'origine </li>
+<li>Article VI Spécifications techniques </li>
+<li>Article VII Procédures de passation des marchés </li>
+<li>Article VIII Qualification des fournisseurs </li>
+<li>Article IX Invitation à soumissionner pour des marchés envisagés </li>
+<li>Article X Procédures de sélection </li>
+<li>Article XI Délais pour la présentation des soumissions et la livraison </li>
+<li>Article XII Documentation relative à l'appel d'offres </li>
+<li>Article XIII Présentation, réception et ouverture des soumissions, et adjudication des marchés </li>
+<li>Article XIV Négociation </li>
+<li>Article XV Appel d'offres limité </li>
+<li>Article XVII Transparence </li>
+<li>Article XVIII Information et examen concernant les obligations des entités </li>
+<li>Article XIX Information et examen concernant les obligations des Parties </li>
+<li>Article XXIII Exceptions à l'accord</li>
+</ul>
+<p>2. Pour l'application des articles IX et XVIII de l'AMP-OMC, qui sont intégrés par renvoi dans cet Accord, le Canada et la Corée se sont entendus pour que les avis de projet de marché soient diffusés dans les publications énumérées ci-après.</p>
+<ol type="a">
+<li>Pour la Corée :
+<p>Principaux quotidiens à tirage national<br/>
+              Page d'accueil Internet projetée de « Korea Telecom » (KT) <br/>
+              Responsable à contacter : Groupe de l'assurance de la qualité et du soutien logistique de KT</p>
+</li>
+<li>Pour le Canada :
+<p>Service électronique d'appels d'offres du gouvernement</p>
+</li>
+</ol>
+<p>3. Dans la qualification et la sélection des fournisseurs, des biens et des services accessoires, dans l'évaluation des offres et dans l'attribution des marchés :</p>
+<ol type="a">
+<li id="AP-54rt3">les entités ne doivent pas, explicitement ou implicitement, imposer, demander ou envisager de compensations; <sup><a href="#AP-54note3" title="Pour plus d'information, voir note 3">3</a></sup></li>
+<li>les entreprises de télécommunication du secteur privé présentes sur les territoires du Canada et de la Corée ne devront pas être obligées par leur gouvernement d'imposer, de rechercher ou d'envisager des compensations, ni y être encouragées, explicitement ou implicitement.</li>
+</ol>
+<p>4. Le Canada ou la Corée, ou une entité du gouvernement du Canada ou de la Corée, pourra restreindre son choix de fournisseur à ceux qui pourront démontrer que leur offre, si elle est acceptée, ne donnera pas lieu à une incompatibilité, à des difficultés techniques ou à des frais disproportionnellement élevés dans l'exploitation et la maintenance du réseau du Canada ou de la Corée, ou encore d'une entité du gouvernement du Canada ou de la Corée. On ne pourra pas appliquer cette clause limitative dans la sélection des fournisseurs pour éviter le maximum de concurrence possible, pour constituer un moyen de discrimination à l'endroit des fournisseurs de l'autre pays ou pour protéger les fournisseurs de son pays.</p>
+<h4>Préparation des appels d'offres</h4>
+<p>Lorsqu'un marché porte sur plusieurs biens, l'Accord sur les télécommunications C-C permet à l'agent responsable des achats de préciser, dans l'appel d'offres, que les offres seront évaluées selon les modalités suivantes :</p>
+<ol type="a">
+<li>Globalement. On évaluera globalement les marchés portant sur différents biens. Dans ces cas, une part d'au moins soixante (60) pour cent du prix total offert doit être constituée de biens coréens et (ou) canadiens;</li>
+<li>Article par article. On homologuera article par article les marchés portant sur différents biens. Dans ces cas, on demandera aux fournisseurs d'indiquer séparément chaque article répondant à la définition des biens visés par l'Accord sur les télécommunications C-C.</li>
+</ol>
+<h4>Nature de l'appel d'offres</h4>
+<p>Pour les marchés auxquels s'applique l'Accord sur les télécommunications C-C, l'agent responsable des achats doit décider, à l'étape de la planification des marchés, s'il doit lancer :</p>
+<ol type="a">
+<li>un appel d'offres limité exclusivement : cet appel d'offre doit être limité exclusivement aux fournisseurs qui sont en mesure d'offrir des biens canadiens ou coréens, lorsque l'agent a raison de croire que ces fournisseurs sont au nombre d'au moins deux sur le marché.</li>
+<li>un appel d'offres limité conditionnellement : l'appel d'offres peut être limité conditionnellement lorsque l'agent ne sait pas s'il existe au moins deux fournisseurs de biens canadiens ou coréens.</li>
+<li>un appel d'offres ouvert : on peut lancer un appel d'offres ouvert parmi tous les soumissionnaires intéressés lorsque l'agent a raison de croire qu'il n'existe pas au moins deux fournisseurs de biens canadiens ou coréens.</li>
+</ol>
+<h4>Attestation de l'offre</h4>
+<p>En vertu de cette politique, les soumissionnaires doivent déposer, avec leur offre, une attestation confirmant que :</p>
+<ol type="a">
+<li>dans le cas d'un marché portant sur un seul bien, ce bien répond à la définition de biens canadiens ou coréens de cette politique;</li>
+<li>dans le cas d'un marché portant sur différents biens, ou sur des biens et des services, une part d'au moins soixante (60) pour cent du prix total offert est constituée de biens et de services accessoires coréens, canadiens, ou les deux, le cas échéant; cette attestation peut porter sur l'ensemble de l'offre ou sur chacun des articles, selon les instructions exprimées dans la demande de proposition.</li>
+</ol>
+<h4>Application de la politique</h4>
+<p>On évaluera selon les modalités suivantes les offres auxquelles s'applique l'Accord.</p>
+<ol type="a">
+<li>Pour les appels d'offres limités exclusivement, seules les offres accompagnées d'une attestation valable seront soumises à une évaluation. Le processus d'évaluation des offres pourra se dérouler si il y au moins une offre accompagnée d'une attestation valable; sinon, il faudra relancer l'appel d'offres.</li>
+<li>Pour les appels d'offres limités conditionnellement, l'agent responsable des achats devra déterminer, avant d'évaluer les offres, si au moins deux offres sont accompagnées d'une attestation valable.<br/>
+<ol type="i">
+<li>Si moins de deux offres accompagnées d'une attestation valable sont déposées, on évalue toutes les offres déposées.</li>
+<li>Si deux offres ou plus accompagnées d'une attestation valable sont déposées, seules ces offres sont évaluées. Si on constate, par la suite, que les offres accompagnées d'une attestation valable sont irrecevables ou qu'elles sont retirées et qu'il ne reste qu'une offre recevable, on continue d'évaluer l'offre accompagnée d'une attestation valable. Si, par la suite, on constate que toutes les offres accompagnées d'une attestation valable sont irrecevables ou qu'elles sont retirées, on devra évaluer toutes les autres offres déposées.</li>
+</ol>
+</li>
+</ol>
+<p>Il appartient au fournisseur de démontrer que son offre répond à la définition des biens et des services accessoires coréens ou canadiens. Le fournisseur doit signer l'attestation et la déposer avec son offre.</p>
+<p>Le gouvernement du Canada pourra vérifier la validité de l'attestation. Si on constate que cette attestation n'est pas valable, on considérera que les biens ou les services offerts ne répondent pas à la définition de biens et de services accessoires coréens ou canadiens dans le cadre de l'Accord.</p>
+<p>Si un soumissionnaire ne peut pas vérifier l'origine des biens ou des services offerts dans un marché assujetti à cet Accord, conformément au « Règlement sur la détermination du pays d'origine pour le marquage des biens (pays signataires de l'ALENA) » du Canada, le gouvernement du Canada devra refuser de tenir compte de cette offre.</p>
+<h2>ANNEXE 1</h2>
+<h3>ENTITÉS VISÉES PAR L'ACCORD</h3>
+<p><strong>ANNEXE 1 </strong>a) - Corée</p>
+<p>Entités qui peuvent passer des marchés conformément aux dispositions de l'Accord sur les télécommunications C-C</p>
+<p>Korea Telecom (KT)</p>
+<p><strong>ANNEXE 1 </strong>b) - Canada</p>
+<p>Entités pouvant passer des marchés conformément aux dispositions de l'Accord sur les télécommunications C-C</p>
+<ul class="noBullet">
+<li>Ministère de l'Agriculture </li>
+<li>Ministère des Communications </li>
+<li>Ministère de la Consommation et des Affaires commerciales </li>
+<li>Ministère de l'Emploi et de l'Immigration </li>
+<li>Commission de l'immigration et du statut de réfugié </li>
+<li>Commission de l'emploi et de l'immigration </li>
+<li>Ministère de l'Énergie, des Mines et des Ressources </li>
+<li>Commission de contrôle de l'énergie atomique </li>
+<li>Office national de l'énergie (marchés passés pour son propre compte) </li>
+<li>Ministère de l'Environnement </li>
+<li>Ministère des Affaires extérieures Agence canadienne de développement international (marchés passés pour son propre compte)</li>
+<li>Ministère des Finances </li>
+<li>Bureau du surintendant des institutions financières </li>
+<li>Tribunal canadien du commerce extérieur </li>
+<li>Office du développement municipal et des prêts aux municipalités </li>
+<li>Ministère des Pêches et des Océans </li>
+<li>Ministère des Forêts </li>
+<li>Ministère des Affaires indiennes et du Développement du nord canadien </li>
+<li>Ministère de l'Industrie, des Sciences et de la Technologie </li>
+<li>Conseil des sciences du Canada </li>
+<li>Conseil national de recherches du Canada </li>
+<li>Conseil de recherches en sciences naturelles et en génie du Canada </li>
+<li>Ministère de la Justice </li>
+<li>Commission canadienne des droits de la personne </li>
+<li>Commission de révision des lois </li>
+<li>Cour suprême du Canada </li>
+<li>Ministère du Travail </li>
+<li>Conseil canadien des relations du travail </li>
+<li>Ministère de la Santé nationale et du Bien-être social du Canada </li>
+<li>Conseil de recherches médicales </li>
+<li>Ministère du Revenu national </li>
+<li>Ministère des Travaux publics </li>
+<li>Secrétariat d'État du Canada </li>
+<li>Conseil de recherches en sciences humaines du Canada </li>
+<li>Bureau de la coordonnatrice - Situation de la femme </li>
+<li>Commission de la fonction publique </li>
+<li>Solliciteur général du Canada </li>
+<li>Service correctionnel du Canada </li>
+<li>Commission nationale des libérations conditionnelles </li>
+<li>Ministère des Approvisionnements et des Services (marchés passés pour son propre compte) </li>
+<li>Office des normes générales du Canada </li>
+<li>Ministère des Transports (sauf la Garde côtière canadienne) </li>
+<li>Secrétariat du Conseil du Trésor et Bureau du contrôleur général </li>
+<li>Ministère des Anciens combattants </li>
+<li>Office de l'établissement agricole des anciens combattants </li>
+<li>Ministère de la Diversification économique de l'Ouest (marchés passés pour son propre compte) </li>
+<li>Agence de promotion économique du Canada atlantique (marchés passés pour son propre compte) </li>
+<li>Vérificateur général du Canada </li>
+<li>Bureau fédéral de développement régional (Québec) (marchés passés pour son propre compte) </li>
+<li>Centre canadien de gestion </li>
+<li>Conseil de la radiodiffusion et des télécommunications canadiennes (marchés passés pour son propre compte) </li>
+<li>Commission canadienne sur la détermination de la peine </li>
+<li>Tribunal de l'aviation civile </li>
+<li>Commissaire à la magistrature fédérale </li>
+<li>Greffe du Tribunal de la concurrence </li>
+<li>Commission du droit d'auteur </li>
+<li>Protection civile Canada </li>
+<li>Cour fédérale du Canada </li>
+<li>Office du transport du grain (marchés passés pour son propre compte) </li>
+<li>Conseil de contrôle des renseignements relatifs aux matières<br/>
+            dangereuses </li>
+<li>Commissaire à l'information et à la protection de la vie privée </li>
+<li>Investissement Canada </li>
+<li>Ministère du Multiculturalisme et de la Citoyenneté </li>
+<li>Archives nationales du Canada </li>
+<li>Conseil national de commercialisation des produits agricoles </li>
+<li>Bibliothèque nationale du Canada </li>
+<li>Office national des transports (marchés passés pour son propre compte) </li>
+<li>Administration du pipe-line du Nord (marchés passés pour son propre compte) </li>
+<li>Conseil d'examen du prix des médicaments brevetés </li>
+<li>Agence de surveillance du secteur pétrolier </li>
+<li>Bureau du Conseil privé </li>
+<li>Secrétariat des conférences intergouvernementales canadiennes </li>
+<li>Commissaire aux langues officielles </li>
+<li>Commission des relations de travail dans la fonction publique </li>
+<li>Bureau du secrétaire du gouverneur général </li>
+<li>Bureau du directeur général des élections </li>
+<li>Bureau des relations fédérales-provinciales </li>
+<li>Commission de révision des marchés </li>
+<li>Statistique Canada </li>
+<li>Cour de l'impôt du Canada, Registre de la Office de stabilisation des prix agricoles </li>
+<li>Bureau canadien de la sécurité aérienne </li>
+<li>Centre canadien de santé et de sécurité au travail </li>
+<li>Bureau canadien d'enquête sur les accidents de transport et de la sécurité des transports </li>
+<li>Directeur de l'établissement de soldats </li>
+<li>Directeur, <em>Loi sur les terres destinées aux anciens combattants</em></li>
+<li>Office des prix des produits de la pêche </li>
+<li>Commission des champs de bataille nationaux</li>
+</ul>
+<hr/>
+<div class="smallFont">
+<p id="AP-54note1">1 Aux fins du présent Accord, les opérations de compensation comprennent les mesures employées pour encourager le développement local ou améliorer les comptes de la balance des paiements par les moyens suivants : contenu d'origine nationale, octroi de licences et/ou transfert de technologies, contre-achats, exigences d'investissement ou exigences semblables. <a href="#AP-54rt1"><em>(Retournez à la note 1)</em></a></p>
+<p id="AP-54note2">2 Voici le libellé suggéré par les représentants des pays signataires de l'ALENA pour mettre à jour l'exception se rapportant à la CFA 70 (équipement de traitement automatique des données, logiciels et équipement auxiliaire), la CFA 74 (machines de bureau, et ainsi de suite) et la CFA 36 (machinerie industrielle spéciale) : <a href="#AP-54rt2"><em>(Retournez à la note 2)</em></a></p>
+<p>Cet Accord ne s'applique pas aux marchés passés pour :</p>
+<ul>
+<li>le ministère des Transports;</li>
+<li>le ministère des Pêches et Océans;</li>
+<li>l'Agence canadienne d'inspection des aliments, pour l'administration et l'application de la <em>Loi sur l'inspection des poissons</em>;</li>
+<li>le ministère du Patrimoine canadien à l'égard des fonctions qui relevaient auparavant de la compétence du ministère des Communications et qui lui ont été confiées;</li>
+<li>le ministère de l'Industrie à l'égard des télécommunications, sauf en ce qui a trait a) à la planification et à la coordination des services de télécommunications pour les ministères, les commissions et les organismes du gouvernement du Canada et b) à la radiodiffusion, sauf en ce qui a trait à la gestion du spectre et aux aspects techniques de la radiodiffusion;le ministère des Travaux publics et des Services gouvernementaux pour ce qui est de l'Agence des télécommunications gouvernementales.</li>
+</ul>
+<p id="AP-54note3">3 Pour l'application de cet Accord, on entend par ce terme les mesures auxquelles on fait appel pour encourager le développement local ou pour améliorer les comptes de la balance des paiements au moyen du contenu national, de la concession sous licence et (ou) de la cession de technologie, d'échanges anticommerciaux, d'exigences imposées au titre des investissements ou d'impératifs comparables. <a href="#AP-54rt3"><em>(Retournez à la note 3)</em></a></p>
+</div>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

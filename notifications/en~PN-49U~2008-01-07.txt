@@ -1,0 +1,53 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h3>Introduction</h3>
+<p>In response to input from departments, the Treasury Board Policy on Title to Intellectual Property arising from Procurement Contracts has been changed per Contracting Policy Notice (CPN) 2007-3, to allow departments to decide when there will be no Intellectual Property (IP) arising from a contract.  As a result, contracts may now have no IP terms.  Thus, the way client departments may deal with IP rights has changed.</p>
+<p>Note: The client department must decide to what extent IP rights are to be retained by the Crown.</p>
+<p>As a result of this policy change, there is a change in the IP categories for reporting for contracts over the threshold for competitive procurement, to reflect the following categories:</p>
+<ul class="noBullet">
+<li>A1: Crown owned - exception 6.1</li>
+<li>A2: Crown owned - exception 6.2</li>
+<li>A3: Crown owned - exception 6.3</li>
+<li>A41: Crown owned - exception 6.4.1</li>
+<li>A42: Crown owned - exception 6.4.2</li>
+<li>A43: Crown owned - exception 6.4.3</li>
+<li>A65: Crown owned - exception 6.5</li>
+<li>A8: Crown owned - exception 8</li>
+<li>B: Contractor Owned</li>
+<li>C: No IP Terms in Contract</li>
+<li>D: Organization Not Subject to IP Policy</li>
+</ul>
+<p>These changes will be incorporated in ABE.</p>
+<h3>Revisions</h3>
+<p>Refer to Annex A of this document for changes to the <em>Supply Manual</em>. These changes will be reflected in next amendment of the <em>Supply Manual</em>.</p>
+<h3>Contact</h3>
+<p><strong>N/A</strong></p>
+<h2>Annex A - Revisions to the Supply Manual</h2>
+<h3>Section 6B: Defining the Requirement</h3>
+<h4>Intellectual Property</h4>
+<h5>6B.174 (2008-<span><em>xx-xx</em></span>)</h5>
+<p>Client department may deal with IP rights in several ways:</p>
+<p>Research and Development (R&amp;D) contracts</p>
+<ul>
+<li>Contractor to retain ownership of IP</li>
+<li>Crown to retain ownership of IP</li>
+</ul>
+<p>Goods contract with associated R&amp;D</p>
+<ul>
+<li>Contractor to retain ownership of IP</li>
+<li>Crown to retain ownership of IP</li>
+</ul>
+<p>Goods contract with no R&amp;D expected</p>
+<ul>
+<li>Crown to retain copyright</li>
+<li>Contractor to retain all IP, including copyright</li>
+<li><span>No IP terms in the contract</span></li>
+</ul>
+<p>Services contract with no R&amp;D expected</p>
+<ul>
+<li>Crown to retain copyright</li>
+<li>Contractor to retain all IP, including copyright.</li>
+<li><span>No IP terms in the contract</span></li>
+</ul>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

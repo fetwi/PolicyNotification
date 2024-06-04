@@ -1,0 +1,114 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<p>Further to PN-39U dated 13 March 2000, the ACAN policy review lead by Treasury Board Secretariat (TBS) has been completed and a revised policy entitled <em>Guide for Managers: Best Practices For Using Advance Contract Award Notices (ACANs)</em> has been approved by TB Ministers on October 5, 2000. Our ACAN policy has been rewritten accordingly.</p>
+<p>Key points are as follows:</p>
+<ul>
+<li>ACANs shall not be posted where a competitive process, electronic or traditional, cannot be used (ex. Confirming orders, emergencies);</li>
+<li>Posting period can be no less than 15 calendar days;</li>
+<li>Exceptions to posting an ACAN include circumstances where an ACAN <strong>must not be posted</strong>; where <strong>it is not necessary</strong>; and other situations <strong>subject to DG/RDG approval;</strong></li>
+<li>More information must be provided in the ACAN (see Model ACAN attached);</li>
+<li>Rejections of challenges, which are now referred to as Statements of Capabilities, must be reviewed and approved at level higher than the original approval authority , i.e. the authority that approved the ACAN sole source strategy), up to ADM level.</li>
+</ul>
+<p>Revised policy as per attached, will be incorporated into the next release of the Supply Manual.</p>
+<h3>CHAPTER 8 - ADVANCE CONTRACT AWARD NOTICE (ACAN) POLICY</h3>
+<h4>Advance Contract Award Notice</h4>
+<p>8.001 (xx/xx/xx) An Advance Contract Award Notice (ACAN) allows departments and agencies to post a notice, for no less than fifteen (15) calendar days, indicating to the supplier community that it intends to award a good, service or construction contract to a pre-identified contractor. If no other supplier submits, during this posting period, a Statement of Capabilities that meets the requirements set out in the ACAN, then the competitive requirements of the government's contracting policy have been met. Following notification to suppliers not successful in demonstrating that their Statement of Capabilities meets the requirements set out in the ACAN, the contract may then be awarded using the electronic bidding authorities.</p>
+<p>8.002 (xx/xx/xx) If other potential suppliers submit Statements of Capabilities during the posting period which meet the requirements set out in the ACAN, (i.e. considered valid) then the contracting authority must proceed to a full tendering process (electronic or traditional).</p>
+<p><em>The objectives of posting an ACAN are to: a) enhance transparency in government procurement; b) support the Government's objective of enhanced competition; c) provide potential suppliers the opportunity to submit a statement of capabilities to a proposed directed procurement if they believe they have the capability and capacity to provide the good, service or construction requirement; and, d) meet the government's and suppliers need for an efficient and cost-effective government procurement system.</em></p>
+<p><em>(The above statements are based on TBS Guide for Managers - Best Practices using ACANs)</em></p>
+<h3>PWGSC Policy Requirement</h3>
+<p>8.005 (xx/xx/xx) ACANs are required for each proposed procurement of goods and services estimated at $25,000 and over; for each proposed contract of construction estimated at $60,000 and over and architectural engineering services estimated at the NAFTA threshold and over, and, for proposed contracts subject to the trade agreements, subject to the exclusions in <a href="#PN-39U1no8010">8.010</a> to <a href="#PN-39U1no8012">8.012</a> below. ACANs must be published on the Government Electronic Tendering Service (GETS), and in the case of procurements subject to NAFTA and/or <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, they must also be published (simultaneously) in the <em>Government Business Opportunity</em> (GBO).</p>
+<p>8.006 (xx/xx/xx) ACANs are not required for amendments to contracts.</p>
+<p>8.007 (xx/xx/xx) ACANs must clearly state that the proposed procurement meets one of the exceptions to solicit competitive bids under the Government Contracts Regulations (link to SM 5.001) and one of the limited tendering reasons, or the exceptions set out in the applicable trade agreements (link to SM 5.031 to 5.038). Such exceptions shall be fully and clearly justified in writing on the contract file.</p>
+<p>8.008 (xx/xx/xx) Advance Contract Award Notices shall not be used to circumvent the competitive process or be structured in a way that discourages possible submissions of Statements of Capabilities. (For example, one should not say, "this is not a competitive solicitation...", or any words to that effect.)</p>
+<h3>EXCEPTIONS</h3>
+<p id="PN-39U1no8010">8.010 (xx/xx/xx) ACANs must not be posted where the competitive process using electronic or traditional bidding cannot be used. Examples include:</p>
+<ol type="a">
+<li>Confirming orders;</li>
+<li>Corps of commissionaires if right of first refusal applies;</li>
+<li>Government direction such as Munitions Supply Program;</li>
+<li>Works of art;</li>
+<li>where, for reasons of extreme urgency brought about by events unforeseeable by the entity, the goods or services could not be obtained in time by means of open or selective tendering procedures (see 5.031<em> (c</em>)); (CAP Code 81)</li>
+<li>tobacco products purchased for inmates by Correctional Service Canada;</li>
+<li>regulatory body determined sole-source service contracts (e.g. National Transportation Agency, Canadian Radio-Television and Telecommunications Commission)</li>
+<li>consolidated announcements that advertise a program consisting of several non-competitive standing offers/contracts. (Pharmaceutical and medical supplies are the only products currently eligible for this exclusion.)</li>
+<li>when, for security/public interest reasons, the information contained in an ACAN cannot be provided to the public.</li>
+<li>when an entity needs to procure consulting services regarding matters of a confidential nature, the disclosure of which could reasonably be expected to compromise government confidences, cause economic disruption or similarly be contrary to the public interest. (CAP code 23)</li>
+</ol>
+<p>8.011 (xx/xx/xx) An ACAN is not required in the following circumstances, however, one can be posted, at the discretion of the contracting officer.</p>
+<ol type="a">
+<li>in the absence of valid tenders in response to an open or selective tender; (see 5.031(a)); (CAP Code 05)</li>
+<li>where an entity procures a prototype or a first good or service that is developed at its request in the course of and for a particular contract for research, experiment, study or original development. Original development of a first good may include limited production in order to incorporate the results of field testing and to demonstrate that the good is suitable for production in quantity to acceptable quality standards, but does not include quantity production to establish commercial viability or to recover research and development costs. Where such contracts have been fulfilled, subsequent procurement of goods or services shall be competed, where applicable (see 5.031 (e)). (CAP Code 72)</li>
+<li>the purchase of commercial off-the-shelf proprietary software from the software developer/exclusive licence holder, when it can be demonstrated to the satisfaction of the contracting officer that the specified commercial software is the only product capable of meeting the stated requirement and competing commercial software is unavailable;</li>
+<li>formal advisory committee determined sole source contracts arrived at through interdepartmental arrangements (e.g. Advisory Committee on Repair and Overhaul);</li>
+</ol>
+<p id="PN-39U1no8012">8.012 (xx/xx/xx) It is recognized that other circumstances exist where challenges cannot be considered and where the posting of an ACAN might be inappropriate. In such circumstances, the decision not to publish an ACAN must be approved by the DG or Regional Director General.</p>
+<p><strong>Publicly Advertised Procurement</strong> (POSTING PROCESS)</p>
+<p>8.015 (xx/xx/xx) Contracting officers are responsible for preparing an ACAN for publication on GETS and if applicable, in the GBO. Before publishing the ACAN on GETS, the contracting officer must have ready any supporting documentation. A copy of the proposed solicitation document may be used as supporting documentation.</p>
+<p>A sample ACAN is provided in Annex 8.1.</p>
+<h3>TIME LIMITS</h3>
+<p>8.017 (xx/xx/xx) Advance Contract Award Notices shall be posted for a minimum of fifteen (15) calendar-days on the Government Electronic Tendering System (GETS). Where the procurement is subject to either the NAFTA or the WTO -AGP, the fifteen (15) calendar days shall commence on the date the ACAN is published in the Government Business Opportunities. For procurements covered by AIT, the publishing period commences with the publication of the ACAN on the GETS. (See 7B.183)</p>
+<p>If there are no challenges within this fifteen (15) calendar-day period, the contracting officer may proceed with the award.</p>
+<p><em>Notwithstanding the above, when a Statement of Capabilities is received after the specified date but before the award of the contract, the contracting officer must nevertheless consider the statement of capabilities prior to proceeding with the procurement. To do otherwise would contravene the Government Contracts Regulations.</em></p>
+<h3>STATEMENTS OF CAPABILITIES (Challenges)</h3>
+<p>8.020 (xx/xx/xx) Statements of Capabilities submitted by suppliers shall:</p>
+<ol type="a">
+<li>Be provided in writing within the specified time-frame indicated on the ACAN (within the fifteen calendar day posting period); and,</li>
+<li>Include documentation demonstrating that the interested supplier meets the requirements as set out in the ACAN.</li>
+</ol>
+<h4>Review of Supplier's Statement of Capabilities by Contracting Officer</h4>
+<p id="PN-39U1no8021">8.021 (xx/xx/xx) Once a Statement of Capabilities is received:</p>
+<ol type="a">
+<li>There must be a fair review of all Statements of Capabilities;</li>
+<li>In instances where a Statement of Capabilities may be rejected, a separate review of the rejection is required. This Review shall be made at one level higher than the original approval authority, but not lower than that of Manager and not higher than ADM.</li>
+<li>When additional information not specifically set out in the ACAN is provided on the requirements it shall be provided equally to all interested parties. If the information provided is considered a significant clarification to the information provided in the ACAN, an amended ACAN should be issued. Extending the closing date would be appropriate in such cases.</li>
+<li>Contracting officers may request additional information from suppliers or third parties, as appropriate, to ensure the interested supplier has the capability to meet the requirements of the Advance Contract Award Notice.</li>
+<li>When a supplier's Statement of Capabilities provides sufficient information to indicate that a supplier has the capability to meet the requirements, it should be advised in writing of the decision to accept its Statement of Capabilities before proceeding to a full tendering process (electronic or traditional). The recommended supplier must also be notified of the decision to compete the requirement.</li>
+<li>There must be full documentation on the procurement file with respect to all decisions taken regarding Statements of Capabilities and resultant changes in the procurement action.</li>
+<li>Withdrawal/cancellation of Statements of Capabilities must be documented on file, and should be provided in writing from suppliers.</li>
+</ol>
+<h4>Statements of Capabilities that are not accepted</h4>
+<p>8.022 (xx/xx/xx) With respect to Statements of Capabilities that are not accepted in accordance with <a href="#PN-39U1no8021">8.021</a> (b) above:</p>
+<ol type="a">
+<li>Suppliers should be advised in writing of the decision to reject a Statement of Capabilities before a contract is awarded;</li>
+<li>The rationale for the decision to reject a Statement of Capabilities shall be included in the file;</li>
+<li>Debriefings must be offered to these suppliers;</li>
+</ol>
+<p>8.023 (xx/xx/xx) If the requirement subject to an ACAN is cancelled, suppliers that submitted Statements of Capabilities must be notified.</p>
+<h3>APPROVAL AUTHORITIES</h3>
+<p>8.026 (xx/xx/xx) For the purposes of Contract approval authorities, Advance Contract Award Notices are classified under the "electronic bidding" category.</p>
+<p>The electronic bidding approval levels apply whenever an ACAN has been posted and no valid Statement of Capabilities was submitted. (See Annex 6.1.1.)</p>
+<h3>Award Notices</h3>
+<p>8.030 (xx/xx/xx) Award notices for all procurements published on the GETS through the ACAN process, are generated automatically through ABE once the contracting officer releases the procurement summary with the electronic coding sheet. (See 7F.717 and 7F.718.)</p>
+<p>8.031 (xx/xx/xx) For procurements that have not been published on the GETS through the ACAN process, the award notice will have to be generated manually by the contracting officer, particularly in the case of procurements subject to trade agreements where the award notice is mandatory.</p>
+<hr/>
+<h3>ANNEX 8.1</h3>
+<h4>Model Advance Contract Award Notice</h4>
+<p>The following is a model Advance Contract Award Notice that contracting officers can use in their electronic notices.</p>
+<p>An ACAN shall include, in both official languages, the following information:</p>
+<p><strong>1. An explanation of what an ACAN is</strong>. The following explanation must be included:</p>
+<ul class="noBullet">
+<li><em>An Advance Contract Award Notice (ACAN) allows departments and agencies to post a notice, for no less than fifteen (15) calendar days, indicating to the supplier community that it intends to award a good, service or construction contract to a pre-identified contractor. If no other supplier submits, on or before the closing date, a Statement of Capabilities that meets the requirements set out in the ACAN, the contracting authority may then proceed with the award.</em></li>
+</ul>
+<p><strong>2. Definition of requirements or expected results</strong>. Provide in sufficient detail, so that other potential contractors can determine if they possess the capabilities to satisfy them and the contracting officer will have an adequate basis for reviewing a potential supplier's Statement of Capabilities.</p>
+<p><strong>3. Statement regarding applicability of trade agreements or other obligations</strong>. Include, where applicable, a statement indicating if the proposed procurement is subject to one of the trade agreements, the Procurement Strategy for Aboriginal Business, or to one of the Comprehensive Land Claims Agreements. Include the following statement at the beginning, where the procurement is set aside under the Procurement Strategy for Aboriginal Business:</p>
+<ul class="noBullet">
+<li><em>"This requirement is set aside for an Aboriginal supplier in accordance with the government's Procurement Strategy for Aboriginal Business. Therefore, only firms which meet the definition of an Aboriginal Business as defined in the Strategy may submit a Statement of Capabilities"</em></li>
+</ul>
+<p><strong>4. GCR exception and Limited Tendering Reason, if applicable</strong>. The relevant exception to the Government Contracts Regulations and, if applicable, the limited tendering reasons in the trade agreements being invoked. Indicate the reason(s) for the proposed contract award. This should clearly demonstrate why this supplier has been identified as the only supplier capable of performing the work.</p>
+<p><strong>5. Ownership of Intellectual Property</strong>.<br/>
+					Where intellectual property will be created during the course of the contract, a statement should indicate whether an exception set out in the Treasury Board's Policy on Title to Intellectual Property Arising under Crown Procurement Contracts is being invoked or if the ownership of intellectual property will rest with the contractor. (link to TBS website <a href="http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/Contracting/tipaucpca_e.html" rel="external">http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/Contracting/tipaucpca_e.html</a>)</p>
+<p><strong>6. The period of the proposed contract or the required delivery</strong>. Provide the period of the proposed contract or the required delivery, including potential renewal or option years.</p>
+<p><strong>7. An estimate of the cost of the proposed contract</strong>. This should be included, where appropriate, provided that it will not prejudice negotiations with the proposed contractor, or compromise the contractor's competitive position if the contract proceeds to a traditional or electronic bidding process<em>.</em> (could be provided as a range)</p>
+<p><strong>8. Name and, usually, the address of the proposed contractor must be identified in the ACAN.</strong></p>
+<p><strong>9. Suppliers' right to submit a Statement of Capabilities</strong>. An explanation to suppliers of how they may proceed in responding to the ACAN.</p>
+<ul class="noBullet">
+<li><em>"Suppliers who consider themselves fully qualified and available to provide the services/goods described herein, may submit a statement of capabilities in writing to the contact person identified in this Notice on or before the closing date of this Notice. The statement of capabilities must clearly demonstrate how the supplier meets the advertised requirements.</em>"</li>
+</ul>
+<p><strong>10. The closing date for a submission of a statement of capabilities</strong>. Include the Day, Month and Year for the closing date for accepting statements of capabilities, i.e. fifteen (15) calendar day period.</p>
+<ul class="noBullet">
+<li><em>e.g. , August 22, 2000</em></li>
+</ul>
+<p><strong>11. Inquiries and Submission of Statements of Capabilities</strong>. Include the name, position, address, phone, fax and e-mail address where suppliers may inquire or submit a statement of capabilities.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Purpose</h2>
+<p>The purpose of this policy notification (PN) 84 is to modify the templates to eliminate a mandatory requirement related to the submission of bids; modify/incorporate articles/clauses as applicable; and modify the article "Priority of Documents" under Part 6A of the Standing Offer template.</p>
+<p>These modifications are detailed in:</p>
+<ol>
+<li><a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap84-p1-pn84-p1-nxa-eng.html" rel="external">Annex A - modifications to 2T-HIGH1 template, Higher Complexity</a></li>
+<li><a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap84-p2-pn84-p2-nxb-eng.html" rel="external">Annex B - modifications to 2T-MED1 template, Medium Complexity</a></li>
+<li><a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap84-p3-pn84-p3-nxc-eng.html" rel="external">Annex C - modifications to 2T-RFSO1 template, Request for Standing Offer (RFSO).</a></li>
+</ol>
+<p>All changes are effective immediately.</p>
+<p>The templates available on the Departmental Standard Procurement Documents Website will incorporate these modifications shortly. However, the SACC Manual Website will be updated only in the next SACC Manual release.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

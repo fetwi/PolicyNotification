@@ -1,0 +1,411 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Introduction</h2>
+<p>L'Avis relatif aux politiques (AP)-87U vise à actualiser les limites des pouvoirs délégués pour les travaux de construction et les services d'architecture et de génie.</p>
+<h2>Contexte</h2>
+<p>Des limites temporaires ont été fixées pour les travaux de construction et les services d'architecture et de génie dans le cadre du Programme accéléré d'infrastructures. Ces limites sont en vigueur du 1er avril 2009 au 31 mars 2011. À compter du 1er avril 2011, de nouvelles limites relatives aux pouvoirs d'approbation et de signature seront utilisées. Par conséquent, de nouveaux formulaires de délégation devront être remplis pour tous les postes pour lesquels de tels pouvoirs sont requis concernant l'acquisition de travaux de construction et de services d'architecture et de génie. Tous les contrats attribués, ou en cours d'attribution, en date du 1er avril 2011 devront refléter ces nouvelles limites. </p>
+<h2>Date d'entrée en vigueur </h2>
+<p>Le présent AP entre en vigueur immédiatement.</p>
+<h2>Modifications à la politique actuelle </h2>
+<p>Les limites relatives aux pouvoirs d'approbation et de signature pour les travaux de construction et les services d'architecture et de génie ont été révisées, et elles remplaceront les limites temporaires établies dans le cadre du Programme accéléré d'infrastructures. Les limites modifiées entrent en vigueur le 1er avril 2011. Les changements apportés au Guide des approvisionnements sont décrits à l'annexe A. </p>
+<h2>Personne-ressource </h2>
+<p>Pour plus de détails sur les changements apportés au Guide des approvisionnements, communiquez avec Susan Blakeney, par téléphone au 819-956-8235, ou par courriel à l'adresse suivante : <a href="mailto:susan.blakeney@tpsgc-pwgsc.gc.ca" rel="external">susan.blakeney@tpsgc-pwgsc.gc.ca</a>. </p>
+<h2>Annexe A - Révisions du Guide des approvisionnements<br/>
+Annexe 6.4.2 : Pouvoirs généraux d'attribution des contrats</h2>
+<p>CONSTRUCTION - <strong>Limites des pouvoirs d'approbation et de signature des contrats</strong></p>
+<table class="basic fontSize70" summary="Ce tableau intitulé CONSTRUCTION - Limites des pouvoirs d'approbation et de signature des contrats, donne les limites des contrats d'origine, des modifications et des pouvoirs de signature des contrats pour l'approvisionnement des services de construction sous les formes Voie électronique, Concurrentiel, et Non concurrentiel.">
+<tbody><tr>
+<th id="AP-87Uun_0" scope="col">Éch-<br/>elon</th>
+<th id="AP-87Uun_1" scope="col">Poste</th>
+<th colspan="3" id="AP-87Uun_2" scope="col">Voie électronique</th>
+<th colspan="3" id="AP-87Uun_3" scope="col">Concurrentiel</th>
+<th colspan="3" id="AP-87Uun_4" scope="col">Non concurrentiel</th>
+</tr>
+<tr>
+<th headers="un_0" id="AP-87Uun_5" scope="row"> </th>
+<td headers="un_5 un_1"> </td>
+<td colspan="2" headers="un_5 un_2">Approbation</td>
+<td headers="un_5 un_2">Signature</td>
+<td colspan="2" headers="un_5 un_3">Approbation</td>
+<td headers="un_5 un_3">Signature</td>
+<td colspan="2" headers="un_5 un_4">Approbation</td>
+<td headers="un_5 un_4">Signature</td>
+</tr>
+<tr>
+<th headers="un_0" id="AP-87Uun_6"> </th>
+<td headers="un_6 un_1"> </td>
+<td headers="un_6 un_2">Contrat d'origine</td>
+<td headers="un_6 un_2">Valeur globale des modif.</td>
+<td headers="un_6 un_2"> </td>
+<td headers="un_6 un_3">Contrat d'origine</td>
+<td headers="un_6 un_3">Valeur globale des modif.</td>
+<td headers="un_6 un_3"> </td>
+<td headers="un_6 un_4">Contrat d'origine</td>
+<td headers="un_6 un_4">Valeur globale des  modif.</td>
+<td headers="un_6 un_4"> </td>
+</tr>
+<tr>
+<th colspan="2" id="AP-87Uun_7" scope="row">Ministre</th>
+<td headers="un_7 un_2">20 M $</td>
+<td headers="un_7 un_2">10 M $</td>
+<td headers="un_7 un_2">Pleins pouvoirs</td>
+<td headers="un_7 un_3">10 M $</td>
+<td headers="un_7 un_3">5 M $</td>
+<td headers="un_7 un_3">Pleins pouvoirs</td>
+<td headers="un_7 un_4">500k $</td>
+<td headers="un_7 un_4">500k $</td>
+<td headers="un_7 un_4">Pleins pouvoirs</td>
+</tr>
+<tr>
+<th headers="un_0" id="AP-87Uun_8" rowspan="3" scope="row">1.</th>
+<td headers="un_8 un_7"><abbr title="Sous-ministre adjoint">SMA</abbr></td>
+<td headers="un_8 un_2">20 M $</td>
+<td headers="un_8 un_2">10 M $</td>
+<td headers="un_8 un_2">Pleins pouvoirs</td>
+<td headers="un_8 un_3">10 M $</td>
+<td headers="un_8 un_3">5 M $</td>
+<td headers="un_8 un_3">Pleins pouvoirs</td>
+<td headers="un_8 un_4">500k $</td>
+<td headers="un_8 un_4">500k $</td>
+<td headers="un_8 un_4">Pleins pouvoirs</td>
+</tr>
+<tr>
+<td headers="un_8 un_7"><abbr title="Directeur général">DG</abbr>, <abbr title="Directeur général regional">DGR</abbr></td>
+<td headers="un_8 un_2">15 M $</td>
+<td headers="un_8 un_2">1,5 M $</td>
+<td headers="un_8 un_2">Pleins pouvoirs</td>
+<td headers="un_8 un_3">7,5 M $</td>
+<td headers="un_8 un_3">1,5 M $</td>
+<td headers="un_8 un_3">Pleins pouvoirs</td>
+<td headers="un_8 un_4">300k $</td>
+<td headers="un_8 un_4">300k $</td>
+<td headers="un_8 un_4">Pleins pouvoirs</td>
+</tr>
+<tr>
+<td headers="un_8 un_7">Directeur principal, Directeur régional</td>
+<td headers="un_8 un_2">10 M $</td>
+<td headers="un_8 un_2">1 M $</td>
+<td headers="un_8 un_2">Pleins pouvoirs</td>
+<td headers="un_8 un_3">5 M $</td>
+<td headers="un_8 un_3">1 M $</td>
+<td headers="un_8 un_3">Pleins pouvoirs</td>
+<td headers="un_8 un_4">200k $</td>
+<td headers="un_8 un_4">200k $</td>
+<td headers="un_8 un_4">Pleins pouvoirs</td>
+</tr>
+<tr>
+<th headers="un_0" id="AP-87Uun_9" rowspan="2" scope="row">2</th>
+<td headers="un_9 un_7">Directeu</td>
+<td headers="un_9 un_2">5 M $</td>
+<td headers="un_9 un_2">400k $</td>
+<td headers="un_9 un_2">Pleins pouvoirs</td>
+<td headers="un_9 un_3">2,5 M $</td>
+<td headers="un_9 un_3">400k $</td>
+<td headers="un_9 un_3">Pleins pouvoirs</td>
+<td headers="un_9 un_4">125k $</td>
+<td headers="un_9 un_4">125k $</td>
+<td headers="un_9 un_4">Pleins pouvoirs</td>
+</tr>
+<tr>
+<td headers="un_9 un_7">Gestion-<br/>naire</td>
+<td headers="un_9 un_2">2,5 M $</td>
+<td headers="un_9 un_2">200k $</td>
+<td headers="un_9 un_2">Pleins pouvoirs</td>
+<td headers="un_9 un_3">1 M $</td>
+<td headers="un_9 un_3">200k $</td>
+<td headers="un_9 un_3">Pleins pouvoirs</td>
+<td headers="un_9 un_4">125k $</td>
+<td headers="un_9 un_4">100k $</td>
+<td headers="un_9 un_4">Pleins pouvoirs</td>
+</tr>
+<tr>
+<th headers="un_0" id="AP-87Uun_10" rowspan="2" scope="row">3</th>
+<td headers="un_10 un_7">Chef d'équipe des approv.</td>
+<td headers="un_10 un_2">1 M $</td>
+<td headers="un_10 un_2">100k $</td>
+<td headers="un_10 un_2">C : 5 M $<br/>
+    A : 400k $</td>
+<td headers="un_10 un_3">400k $</td>
+<td headers="un_10 un_3">100k $</td>
+<td headers="un_10 un_3">C : 2,5 M $<br/>
+    A : 400k $</td>
+<td headers="un_10 un_4">100k $</td>
+<td headers="un_10 un_4">50k $</td>
+<td headers="un_10 un_4">C : 125k $<br/>
+    A : 125k $</td>
+</tr>
+<tr>
+<td headers="un_10 un_7">Spécia-<br/>liste en approv.</td>
+<td headers="un_10 un_2">300k $</td>
+<td headers="un_10 un_2">50k $</td>
+<td headers="un_10 un_2">C : 2,5 M $<br/>
+    A : 200k $</td>
+<td headers="un_10 un_3">300k $</td>
+<td headers="un_10 un_3">50k $</td>
+<td headers="un_10 un_3">C : 1 M $<br/>
+    A : 200k $</td>
+<td headers="un_10 un_4">50k $</td>
+<td headers="un_10 un_4">25k $</td>
+<td headers="un_10 un_4">C : 125k $<br/>
+    A : 100k $</td>
+</tr>
+<tr>
+<th headers="un_0" id="AP-87Uun_11" rowspan="4" scope="row">4</th>
+<td headers="un_11 un_7">Agent des approv.</td>
+<td headers="un_11 un_2">100k $</td>
+<td headers="un_11 un_2">15k $</td>
+<td headers="un_11 un_2">C : 1 M $<br/>
+    A : 100k $</td>
+<td headers="un_11 un_3">100k $</td>
+<td headers="un_11 un_3">15k $</td>
+<td headers="un_11 un_3">C : 400k $<br/>
+    A : 100k $</td>
+<td headers="un_11 un_4">25k $</td>
+<td headers="un_11 un_4">15k $</td>
+<td headers="un_11 un_4">C : 100k $<br/>
+    A : 50k $</td>
+</tr>
+<tr>
+<td headers="un_11 un_7">Agent interne/ stagiaire</td>
+<td headers="un_11 un_2"> </td>
+<td headers="un_11 un_2"> </td>
+<td headers="un_11 un_2"> </td>
+<td headers="un_11 un_3"> </td>
+<td headers="un_11 un_3"> </td>
+<td headers="un_11 un_3"> </td>
+<td headers="un_11 un_4"> </td>
+<td headers="un_11 un_4"> </td>
+<td headers="un_11 un_4"> </td>
+</tr>
+<tr>
+<td headers="un_11 un_7">Adjoint principal aux achats</td>
+<td headers="un_11 un_2"> </td>
+<td headers="un_11 un_2"> </td>
+<td headers="un_11 un_2"> </td>
+<td headers="un_11 un_3"> </td>
+<td headers="un_11 un_3"> </td>
+<td headers="un_11 un_3"> </td>
+<td headers="un_11 un_4"> </td>
+<td headers="un_11 un_4"> </td>
+<td headers="un_11 un_4"> </td>
+</tr>
+<tr>
+<td headers="un_11 un_7">Adjoint à l'approv.</td>
+<td headers="un_11 un_2"> </td>
+<td headers="un_11 un_2"> </td>
+<td headers="un_11 un_2"> </td>
+<td headers="un_11 un_3"> </td>
+<td headers="un_11 un_3"> </td>
+<td headers="un_11 un_3"> </td>
+<td headers="un_11 un_4"> </td>
+<td headers="un_11 un_4"> </td>
+<td headers="un_11 un_4"> </td>
+</tr>
+</tbody></table>
+<p class="red">Légende : <br/>
+C = Pouvoir de signature des contrats <br/>
+A = Pouvoir de signature pour la valeur globale des modifications du contrat</p>
+<h2>Annexe 6.4.2 : Pouvoirs généraux d'attribution des contrats</h2>
+<p><strong>SERVICES D'A ET G</strong> - Limites des pouvoirs d'approbation et de signature des contrats</p>
+<table class="basic fontSize70" summary="Ce tableau intitulé Services D'A et G - Limites des pouvoirs d'approbation et de signature des contrats, donne les limites des contrats d'origine, des modifications, et des pouvoirs de signature des contrats pour l'approvisionnement des services d'architecture et de génie sous les formes Voie électronique, Concurrentiel, et Non concurrentiel.">
+<tbody><tr>
+<th id="AP-87Uun_12" scope="col">Éch-<br/>elon</th>
+<th id="AP-87Uun_13" scope="col">Poste</th>
+<th colspan="3" id="AP-87Uun_14" scope="col">Voie électronique</th>
+<th colspan="3" id="AP-87Uun_15" scope="col">Concurrentiel</th>
+<th colspan="3" id="AP-87Uun_16" scope="col">Non concurrentiel</th>
+</tr>
+<tr>
+<th headers="un_12" id="AP-87Uun_17" scope="row"> </th>
+<td headers="un_17 un_13"> </td>
+<td colspan="2" headers="un_17 un_14"> Approbation</td>
+<td headers="un_17 un_14">Signature</td>
+<td colspan="2" headers="un_17 un_15">Approbation</td>
+<td headers="un_17 un_15">Signature</td>
+<td colspan="2" headers="un_17 un_16">Approbation</td>
+<td headers="un_17 un_16">Signature</td>
+</tr>
+<tr>
+<th headers="un_12" id="AP-87Uun_18" scope="row"> </th>
+<td headers="un_18 un_13"> </td>
+<td headers="un_18 un_14">Contrat d'origine</td>
+<td headers="un_18 un_14">Aggreg. Amend.</td>
+<td headers="un_18 un_14">.</td>
+<td headers="un_18 un_15">Contrat d'origine</td>
+<td headers="un_18 un_15">Aggreg. Amend.</td>
+<td headers="un_18 un_15"> </td>
+<td headers="un_18 un_16">Contrat d'origine</td>
+<td headers="un_18 un_16">Aggreg. Amend.</td>
+<td headers="un_18 un_16"> </td>
+</tr>
+<tr>
+<th colspan="2" id="AP-87Uun_19" scope="row">Ministre</th>
+<td headers="un_19 un_14">2 M $</td>
+<td headers="un_19 un_14">1 M $ ou 25 % du marché d'orig., jusqu'à concurr. de 2 M $<br/>
+    Note 1</td>
+<td headers="un_19 un_14">Pleins pouvoirs</td>
+<td headers="un_19 un_15">1 M $</td>
+<td headers="un_19 un_15">250k $ ou 25 % du marché d'orig., jusqu'à concurr. de 1 M $<br/>
+    Note 2</td>
+<td headers="un_19 un_15">Pleins pouvoirs</td>
+<td headers="un_19 un_16">100k $</td>
+<td headers="un_19 un_16">100k $<br/>
+    100k $<a href="#AP-87Ua1"><sup>1</sup></a></td>
+<td headers="un_19 un_16">Pleins pouvoirs</td>
+</tr>
+<tr>
+<th headers="un_12" id="AP-87Uun_20" rowspan="3" scope="row">1.</th>
+<td headers="un_20 un_19"><abbr title="Assistant Deputy Minister">SMA</abbr></td>
+<td headers="un_20 un_14">2 M $</td>
+<td headers="un_20 un_14">1 M $ ou 25 % du marché d'orig., jusqu'à concurr. de 2 M $<br/>
+    Note 1</td>
+<td headers="un_20 un_14">Pleins pouvoirs</td>
+<td headers="un_20 un_15">1 M $</td>
+<td headers="un_20 un_15">250k $ ou 25 % du marché d'orig., jusqu'à concurr. de 1 M $<br/>
+    Note 2</td>
+<td headers="un_20 un_15">Pleins pouvoirs</td>
+<td headers="un_20 un_16">100k $</td>
+<td headers="un_20 un_16">100k $<br/>
+    100k $ <a href="#AP-87Ua1"><sup>1</sup></a></td>
+<td headers="un_20 un_16">Pleins pouvoirs</td>
+</tr>
+<tr>
+<td headers="un_20 un_19"><abbr title="Director Genera">DG, </abbr><abbr title="Regional Director Genera">DGR</abbr></td>
+<td headers="un_20 un_14">1,5 M $</td>
+<td headers="un_20 un_14">750k $</td>
+<td headers="un_20 un_14">Pleins pouvoirs</td>
+<td headers="un_20 un_15">750k $</td>
+<td headers="un_20 un_15">125k $ ou 25 % du marché d'orig., jusqu'à concurr. de 500 k $</td>
+<td headers="un_20 un_15">Pleins pouvoirs</td>
+<td headers="un_20 un_16">80k $</td>
+<td headers="un_20 un_16">80k $</td>
+<td headers="un_20 un_16">Pleins pouvoirs</td>
+</tr>
+<tr>
+<td headers="un_20 un_19">Directeur principal, Directeur régional</td>
+<td headers="un_20 un_14">1 M $</td>
+<td headers="un_20 un_14">500k $</td>
+<td headers="un_20 un_14">Pleins pouvoirs</td>
+<td headers="un_20 un_15">500k $</td>
+<td headers="un_20 un_15">125k $</td>
+<td headers="un_20 un_15">Pleins pouvoirs</td>
+<td headers="un_20 un_16">80k $</td>
+<td headers="un_20 un_16">80k $</td>
+<td headers="un_20 un_16">Pleins pouvoirs</td>
+</tr>
+<tr>
+<th headers="un_12" id="AP-87Uun_21" rowspan="2" scope="row">2</th>
+<td headers="un_21 un_19">Directeur</td>
+<td headers="un_21 un_14">500k $</td>
+<td headers="un_21 un_14">50k $</td>
+<td headers="un_21 un_14">Pleins pouvoirs</td>
+<td headers="un_21 un_15">500k $</td>
+<td headers="un_21 un_15">50k $</td>
+<td headers="un_21 un_15">Pleins pouvoirs</td>
+<td headers="un_21 un_16">50k $</td>
+<td headers="un_21 un_16">50k $</td>
+<td headers="un_21 un_16">Pleins pouvoirs</td>
+</tr>
+<tr>
+<td headers="un_21 un_19">Gestion-<br/>naire</td>
+<td headers="un_21 un_14">500k $</td>
+<td headers="un_21 un_14">50k $</td>
+<td headers="un_21 un_14">Pleins pouvoirs</td>
+<td headers="un_21 un_15">500k $</td>
+<td headers="un_21 un_15">50k $</td>
+<td headers="un_21 un_15">Pleins pouvoirs</td>
+<td headers="un_21 un_16">50k $</td>
+<td headers="un_21 un_16">50k $</td>
+<td headers="un_21 un_16">Pleins pouvoirs</td>
+</tr>
+<tr>
+<th headers="un_12" id="AP-87Uun_22" rowspan="2" scope="row">3</th>
+<td headers="un_22 un_19">Chef d'équipe des approv.</td>
+<td headers="un_22 un_14">350k $</td>
+<td headers="un_22 un_14">50k $</td>
+<td headers="un_22 un_14">C :500k $<br/>
+    A : $ 50K</td>
+<td headers="un_22 un_15">350k $</td>
+<td headers="un_22 un_15">50k $</td>
+<td headers="un_22 un_15">C :500k $<br/>
+    A :50k $</td>
+<td headers="un_22 un_16">50k $</td>
+<td headers="un_22 un_16">50k $</td>
+<td headers="un_22 un_16">C :50k $<br/>
+    A :50k $</td>
+</tr>
+<tr>
+<td headers="un_22 un_19">Spécia-<br/>liste en approv. </td>
+<td headers="un_22 un_14">200k $</td>
+<td headers="un_22 un_14">50k $</td>
+<td headers="un_22 un_14">C :500k $<br/>
+    A :50k $</td>
+<td headers="un_22 un_15">200k $</td>
+<td headers="un_22 un_15">50k $</td>
+<td headers="un_22 un_15">C :500k $<br/>
+    A :50k $</td>
+<td headers="un_22 un_16">40k $</td>
+<td headers="un_22 un_16">25k $</td>
+<td headers="un_22 un_16">C :50k $<br/>
+    A :50k $</td>
+</tr>
+<tr>
+<th headers="un_12" id="AP-87Uun_23" rowspan="4" scope="row">4</th>
+<td headers="un_23 un_19">Agent des approv.</td>
+<td headers="un_23 un_14">125k $</td>
+<td headers="un_23 un_14">25k $</td>
+<td headers="un_23 un_14">C :350k $<br/>
+    A :50k $</td>
+<td headers="un_23 un_15">70k $</td>
+<td headers="un_23 un_15">25k $</td>
+<td headers="un_23 un_15">C :350k $<br/>
+    A :50k $</td>
+<td headers="un_23 un_16">25k $</td>
+<td headers="un_23 un_16">10k $</td>
+<td headers="un_23 un_16">C :50k $<br/>
+    A :50k $</td>
+</tr>
+<tr>
+<td headers="un_23 un_19">Agent interne/<br/>stagiaire</td>
+<td headers="un_23 un_14"> </td>
+<td headers="un_23 un_14"> </td>
+<td headers="un_23 un_14"> </td>
+<td headers="un_23 un_15"> </td>
+<td headers="un_23 un_15"> </td>
+<td headers="un_23 un_15"> </td>
+<td headers="un_23 un_16"> </td>
+<td headers="un_23 un_16"> </td>
+<td headers="un_23 un_16"> </td>
+</tr>
+<tr>
+<td headers="un_23 un_19">Adjoint principal aux achats</td>
+<td headers="un_23 un_14"> </td>
+<td headers="un_23 un_14"> </td>
+<td headers="un_23 un_14"> </td>
+<td headers="un_23 un_15"> </td>
+<td headers="un_23 un_15"> </td>
+<td headers="un_23 un_15"> </td>
+<td headers="un_23 un_16"> </td>
+<td headers="un_23 un_16"> </td>
+<td headers="un_23 un_16"> </td>
+</tr>
+<tr>
+<td headers="un_23 un_19">Adjoint à l'approv.</td>
+<td headers="un_23 un_14"> </td>
+<td headers="un_23 un_14"> </td>
+<td headers="un_23 un_14"> </td>
+<td headers="un_23 un_15"> </td>
+<td headers="un_23 un_15"> </td>
+<td headers="un_23 un_15"> </td>
+<td headers="un_23 un_16"> </td>
+<td headers="un_23 un_16"> </td>
+<td headers="un_23 un_16"> </td>
+</tr>
+</tbody></table>
+<p class="red">Légende :<br/>
+C = Pouvoir de signature des contrats<br/>
+A = Pouvoir de signature pour la valeur globale des modifications du contrat</p>
+<p>Note 1 : Pouvoirs d'émettre des modifications subséquentes à une modification approuvée au préalable par le Conseil du Trésor : 250k $ ou 25 % du marché d'original, jusqu'à concurrence de 1 M $</p>
+<p>Note 2 : Pouvoirs d'émettre des modifications subséquentes à une modification approuvée au préalable par le Conseil du Trésor : 125k $ ou 25 % du marché d'original, jusqu'à concurrence de 500k $</p>
+<p id="AP-87Ua1"><sup>1</sup> - Pouvoirs d'émettre des modifications subséquentes à une modification approuvée au préalable par le Conseil du Trésor pour les limites maximales indiquées.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

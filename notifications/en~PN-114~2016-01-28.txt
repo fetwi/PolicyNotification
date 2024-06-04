@@ -1,0 +1,78 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Purpose</h2>
+<p>The purpose of PN-114 is to encourage the use of paperless, electronic payment instruments by Public Works and Government Services (PWGSC) Acquisitions Program (AP) employees and any other person providing procurement services on behalf of AP.</p>
+<p>Acquisition cards can be used as both a procurement instrument and a payment instrument and may result in additional efficiencies. Therefore, at any stage of the procurement process but preferably during the requirements definition, contracting officers should analyze with the client what opportunities may exist in terms of using electronic payment instruments.</p>
+<p>This <abbr title="Policy Notification">PN</abbr> must be read in conjunction with the applicable policies from the Treasury Board Secretariat and <abbr title="Public Works and Government Services Canada">PWGSC</abbr> that set forth and define procurement and payment methods, tools and processes.</p>
+<h2>Background</h2>
+<p>The Government of Canada (GC) is continually striving to make its operations more efficient, and with recent technological advances and constant innovations offered by the payment industry, there are opportunities for further efficiencies in relation to payment instruments used to acquire goods and services.</p>
+<p>The current payment industry offers a variety of payment instruments, including electronic payments (e.g., direct deposit, acquisition card). These instruments can bring many benefits such as lower processing costs, expediency, and ease of use.</p>
+<h2>Summary of Requirements</h2>
+<p>When a payment is made to a contractor for goods and services acquired by GC, contracting officers are encouraged to use paperless, electronic payment instruments as described below in lieu of issuing a cheque.</p>
+<ol type="1">
+<li>Electronic Payment Instruments include:
+    	<ul>
+<li><strong><abbr title="Government of Canada">GC</abbr> Acquisition Card</strong> - Visa and MasterCard are the two main acquisition cards used by <abbr title="Government of Canada">GC</abbr>.</li>
+<li><strong>Direct Deposit</strong> - is <abbr title="Government of Canada">GC</abbr>’s preferred payment instrument, which can be used for domestic and international fund transfers. Payment through direct deposits are always issued in local currency for international fund transfers. Direct deposit does not carry the remittance information or "stub information"; however, government departments and agencies can now send an explanation of payments in an email to suppliers.</li>
+<li><strong>Electronic Data Interchange</strong> - is an electronic payment that includes structured remittance information or "stub information" concerning the payment (e.g., describing the purpose of the payment).</li>
+<li><strong>Wire Transfer</strong> - is a service established by the Receiver General for payments on accounts. Wire transfer is used for large value, low volume, and time-sensitive foreign payments or for payments that need to be issued in a currency other than that of the country of destination. </li>
+<li><strong>Large Value Transfer System</strong> - is an electronic wire transfer system, which facilitates the transfer of payments over $25M in Canada. </li>
+</ul>
+</li>
+<li>GC Acquisition Cards
+<p>The <abbr title="Government of Canada">GC</abbr> acquisition cards (Visa and MasterCard) can be used as a procurement instrument and a payment instrument, which in certain circumstances may result in achieving additional procurement efficiencies. The <abbr title="Government of Canada">GC</abbr> acquisition cards are mainly used to procure low-value (e.g., below $10K), high volume, and low risk goods and services in accordance with applicable legislative and policy requirements such as the Treasury Board Secretariat’s <a href="http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=17059" rel="external">Directive on Acquisition Cards</a>.</p>
+<p>
+The use of acquisition cards to purchase goods or a services offers many advantages:
+</p>
+<ul>
+<li>Offers a convenient way to procure goods and services in a timely and efficient manner;</li>
+<li>Simplifies purchasing procedures (e.g., reduces the number of steps in the procurement process);</li>
+<li>Simplifies the procurement cycle for frequent purchases;</li>
+<li>Reduces the paperwork associated with requisitions, purchase orders, etc.;</li>
+<li>Simplifies urgent and ad hoc purchases;</li>
+<li>Offers a more adequate segmentation of suppliers via merchant category codes (MCC); and</li>
+<li>Establishes individual limits per acquisition card user, good and/or service purchased, etc.</li>
+</ul>
+</li>
+</ol>
+<h2>Summary of changes</h2>
+<p>In support of this PN, the <cite>Supply Manual</cite> is being amended as follows:</p>
+<ul>
+<li>Section 4.70.55 is updated and becomes section 4.70.55.10; a new section 4.70.55 Payment Instruments is created;</li>
+<li>The following new sections are being added: 4.70.55.5 Direct Deposit, 4.70.55.15 Electronic Data Interchange (EDI), 4.70.55.20 Wire Transfer, and 4.70.55.25 Large Value Transfer System (LVTS).</li>
+</ul>
+<p>Clauses H3027T and H3027C of the Standard Acquisition Clauses and Conditions (SACC) Manual are also being amended to include the electronic payment instruments discussed in this policy notification.</p>
+<h2>Glossary</h2>
+<p>For a glossary of terms, please see the <a href="http://www.gcpedia.gc.ca/wiki/Acquisitions_Program_Policy_Suite/Definitions" rel="external">Acquisitions Program Policy Suite Glossary.</a></p>
+<h2>Contact Information</h2>
+<p>For any questions on the content included in this <abbr title="Policy Notification">PN</abbr>, please contact the Strategic Policy Directorate (SPD) within the Policy, Risks, Integrity and Strategic Management Sector (PRISMS) at <a href="mailto:TPSGC.PolPrograpprovisionnements-AcquisitionsProgramPolicy.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PolPrograpprovisionnements-AcquisitionsProgramPolicy.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
+<p>
+For any questions on the payment instruments, please contact the Receiver General at <a href="mailto:RGEnquire.RequetesRG@tpsgc-pwgsc.gc.ca" rel="external">RGEnquire.RequetesRG@tpsgc-pwgsc.gc.ca</a>.
+</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Affected Supply Manual sections</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-9b83bca71e301190c2a9b8e5c9bb12ff">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-4#_4-70">4.70.55: Payment instruments</a> </li>
+<li class="views-row views-row-2 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-4#_4-70">4.70.55.5: Direct deposit</a> </li>
+<li class="views-row views-row-3 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-4#_4-70">4.70.55.10: Payment by acquisition card</a> </li>
+<li class="views-row views-row-4 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-4#_4-70">4.70.55.15: Electronic Data Interchange</a> </li>
+<li class="views-row views-row-5 views-row-odd">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-4#_4-70">4.70.55.20: Wire transfer</a> </li>
+<li class="views-row views-row-6 views-row-even views-row-last">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-4#_4-70">4.70.55.25: Large Value Transfer System</a> </li>
+</ul></div> </div>
+</div>
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-ee02c3eb3625f0ae2b80994686175bfe">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#H3027T">5.H.H3027T: Electronic Payment of Invoices - Bid</a> </li>
+<li class="views-row views-row-2 views-row-even views-row-last">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#H3027C">5.H.H3027C: Electronic Payment of Invoices - Contract</a> </li>
+</ul></div> </div>
+</div>
+</div>

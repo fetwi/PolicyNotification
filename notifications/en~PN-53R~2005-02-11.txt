@@ -1,0 +1,97 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h3>Introduction</h3>
+<p>The purpose of Policy Notification 53R is to correct the discrepancies between the <em>Supply Manual (SM)</em> and the <em>Standard Acquisitions Clauses and Conditions</em> (SACC) Manual and to provide revisions to the SM policies and procedures as well as SACC clausing related to pre-contractual work as recommended by Legal Services.</p>
+<p>The attached <a href="#PN-53Rannexa">Annex A</a> and <a href="#PN-53Rannexb">Annex B</a> become effective immediately. All changes highlighted in red text will be incorporated to the June 2005 release of the SM and SACC Manual.</p>
+<h3>Background</h3>
+<p>In 1997, the cancellation of SACC Manual clause A9092C, Pre-contractual Work - Authorized, caused a disconnect with the SM procedure on confirming orders, which continued to reflect the use of this clause. Legal Services undertook a review of the policy on confirming orders and related SACC clausing and proposed changes and clarifications to clearly make a distinction between the requirement for a confirming order where the pre-contractual work has been completed, and the procedure for a contract where the pre-contractual work has not been completed.</p>
+<h3>Revision</h3>
+<p>This revision covers the following:</p>
+<h3>Supply Manual:</h3>
+<ul>
+<li>6E.507 (d): amended to clarify the circumstance related to confirming orders when contracting officers must seek advice from Legal Services.
+</li>
+<li>Annex 6.1.2, Approval Authority Limits for Goods, Services, Construction, Telecommunications and A&amp;E Services:
+<p><strong>Ratification</strong>: amended to replace Acknowledgment and Release clauses with Pre-contractual Work clauses and to specify the approval authority level to which the 50 percent reduction to all dollar thresholds applies.</p>
+</li>
+<li>7F.691: title 'Confirming Orders' replaced with 'Ratification by Treasury Board'.
+</li>
+<li>7F.692:<br/>
+<ol type="a">
+<li>title 'Confirming Orders and Contracts Involving Pre-contractual Work' added to procedures 7F.692 and 7F.693.
+</li>
+<li>7F.692 (a), (b) and (c) introduce changes and clarifications to procedures related to confirming orders, for situations where pre-contractual work has been completed and to contracts for situations where the pre-contractual work has not been completed and is continuing.
+</li>
+<li>7F.692 (d) is deleted because such reporting has not been implemented.
+</li>
+</ol>
+</li>
+<li>7F.693: addition of Canadian International Trade Tribunal complaint as an example of a potential negative event. </li>
+</ul>
+<h3>Standard Acquisition Clauses and Conditions Manual:</h3>
+<ul>
+<li>A9090C, Prior Rights and Obligations:<br/>
+						Deleted because it is no longer required and the subject is dealt within clauses A9094C and A9120C.
+</li>
+<li>A9094C, Pre-contractual Work - Not Authorized:<br/>
+						Revised to bring changes and clarifications.
+</li>
+<li>A9120C, Pre-contractual Work - Authorized:<br/>
+						New clause based on former clause A9092C which was cancelled in 1997.</li>
+</ul>
+<h3>Contact</h3>
+<p><strong>N/A</strong></p>
+<hr/>
+<h3><a id="PN-53Rannexa" name="annexa"></a>Annex A Changes to the Supply Manual</h3>
+<h4>Chapter 6</h4>
+<h4>Section 6E - Process</h4>
+<h4>Legal Services</h4>
+<p>6E.507 <strong>(xxxx-xx-xx)</strong> Contracting officers must seek advice from Legal Services in the following circumstances:</p>
+<p>(d) <em>all situations in which work has been completed pursuant to a verbal request from a representative of a client and a confirming order is being sought (see 7F.692);</em></p>
+<hr/>
+<h4>Annex 6.1.2: Approval Authority Limits for Goods, Services, Construction, <em>Telecommunications and A&amp;E Services</em><br/>
+					(xxxx-xx-xx)</h4>
+<h4>Contract Entry and Amendment Approval Limits:</h4>
+<h4>Goods, Services, Construction, Telecommunications, A&amp;E Services:</h4>
+<p> <strong>Ratifications: </strong>Authorities for approving agreements which involve: pre-contractual work, ratification of contractual commitments, confirming orders, or contracts/amendments which include <em>Pre-contractual Work</em> clauses, or any other retroactive elements are limited to 50 percent of the <em>non-competitive</em> dollar thresholds specified above. The minimum approval authority is the Director level. This 50 percent reduction for ratifications applies to all dollar thresholds below the <em>Assistant Deputy Minister level</em>.</p>
+<hr/>
+<h4>Chapter 7</h4>
+<h4>Section 7F - Completing the Contracting Process</h4>
+<p><strong>Ratification by Treasury Board</strong></p>
+<p>7F.691<strong> (xxxx-xx-xx)</strong> 'If a contracting authority enters into a contract without Treasury Board approval, when such approval should have been obtained, ratification by the Treasury Board must be sought as soon as possible'.</p>
+<p class="alignRight">Treasury Board Contracting Policy<br/>
+					Subsection 4.1.11</p>
+<p>In a case where contract approval is being sought for work already commenced for whatever reason, the contracting officer must include with the request for Treasury Board (TB) approval the client department's certification to the effect that the minister concerned had agreed to the commencement of work before the receipt of TB approval.</p>
+<p><strong>Confirming Orders and Contracts Involving Pre-contractual Work </strong> </p>
+<p>7F.692 (xxxx-xx-xx) Public Works and Government Services Canada (PWGSC) is not in the business of placing contracts to confirm the actions of client departments. The practice of providing such service to client departments should be discouraged to the maximum extent practicable. However, acknowledging that in some instances it may be necessary for <acronym title="Public Works and Government Services Canada">PWGSC</acronym> to become involved because of its exclusive goods procurement authority, and that <acronym title="Public Works and Government Services Canada">PWGSC</acronym> may have some value to add in processing confirming orders where the work is complete or contracts where the work is incomplete, the following procedures will apply:</p>
+<p>(a) Requests for confirming orders and <em>contracts involving pre-contractual work </em>must be evaluated and processed on the basis of the circumstances surrounding each instance. Where the request is the result of attempts to circumvent normal procurement procedures, return of the request to the client department should be a prime consideration.</p>
+<p>(b) Where the work has been completed, a confirming order will be prepared by Legal Services and will only contain the information necessary to document the transaction (the parties, the work performed, the dates, the amount, a release and, if required, a transfer of intellectual property rights). Confirming orders processed by <acronym title="Public Works and Government Services Canada">PWGSC</acronym> are to be approved by the appropriate director or higher authority, as determined by the contract value and non-competitive contract approval authority limits. These limits are reduced by 50 percent below the Assistant Deputy Minister (ADM) level as per SM Annex 6.1.2.</p>
+<p><em>(c) Contracts where the work has started but has not been completed should only include work already arranged by the client department and must not be backdated. The date (including the date in the Period of the Contract clause) of the contract must be the date of issuance of the written contract. A Pre-contractual Work clause (SACC clause A9120C or A9094C as appropriate) indicating the date the work has started must be included in the contract to pay the contractor for any work performed prior to the issuance of the written contract. Contracts </em>processed by <acronym title="Public Works and Government Services Canada">PWGSC</acronym> are to be approved by the appropriate director or higher authority, as determined by the contract value and non-competitive contract approval authority limits. <em>These limits are reduced by 50 percent below the ADM level as per SM Annex 6.1.2.</em></p>
+<p>7F.693 (xxxx-xx-xx) When the client department's activities prior to <acronym title="Public Works and Government Services Canada">PWGSC</acronym>'s involvement have created an exposure, consideration must be given to obtaining an indemnification from a senior official of the client department before processing begins. Such consideration will assess the probability and impact of potential negative events<em> (e.g. Canadian International Trade Tribunal complaint) </em>that may occur as a result of the exposure.</p>
+<hr/>
+<div class="topPage">
+<a href="#PN-53Rtphp" title="Top of Page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+				Top of Page</a></div>
+<h3><a id="PN-53Rannexb" name="annexb"></a>Annex B Changes to SACC Manual</h3>
+<h4>A9090C: <em>deleted</em></h4>
+<hr/>
+<h4>A9094C (xxxx-xx-xx) Pre-contractual Work - Not Authorized</h4>
+<p><strong>Remark: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong><br/>
+					Use the following clause when a proposed contractor has started work at its own risk without the authorization of a government official, prior to contract authorization, and the work has not been completed. This will ensure that the work done prior to the contract date will be covered by the contract. </p>
+<p>If the work has been completed, the contracting officer must request that a confirming order be prepared by legal counsel.</p>
+<p>The second paragraph is to be deleted if the client department does not wish to retain the rights to the intellectual property. In addition, add clause C0210C to the Basis of Payment.</p>
+<h4>Text:</h4>
+<p>In order <em>to meet its obligations set forth in this Contract</em>, it is recognized <em>by the Parties</em> that the Contractor, as of _________, <em>has started the Work required pursuant to this Contract prior to the effective date of this Contract (Pre-contractual Work) and</em> has incurred certain costs directly <em>related to the Work</em> which, if they had been incurred after such date, would have been otherwise treated as costs reasonably and properly incurred by the Contractor in the performance of this Contract. Inasmuch as the incurring of these costs was necessary to comply with the terms of this Contract, such cost shall be treated as costs <em>reasonably</em> and properly incurred by the Contractor in performance of this Contract.<em> The Contractor agrees that upon such payment by Canada to the Contractor, Canada shall be released and forever discharged from all manner of actions, claims, suits or demands in relation to the Pre-contractual Work. The Contractor further agrees to complete the Work in accordance with the terms and conditions of this Contract.</em></p>
+<p>The Parties<em> hereby</em> confirm that <em>copyright in the Pre-contractual Work shall vest and remain in Canada and that ownership </em>of <em>all</em> intellectual property <em> rights in all information of a scientific, technical or artistic nature relating to the Work, in any form or medium, conceived, developed or</em> produced by the Contractor in the performance of the Pre-contractual Work shall vest and remain in Canada.</p>
+<hr/>
+<h4>Note - A9120C: new based on A9092C cancelled in 1997</h4>
+<h4>A9120C (xxxx-xx-xx) Pre-contractual Work - Authorized</h4>
+<p><strong>Remark: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong><br/>
+					Use the following clause when a proposed contractor has started work with the authorization of a government official, prior to contract authorization, and the work has not been completed. This will ensure that the work done prior to the contract date will be covered by the contract. </p>
+<p><em>If the work has been completed, the contracting officer must request that a confirming order be prepared by legal counsel. </em></p>
+<p>The second paragraph is to be deleted if the client department does not wish to retain the rights to the intellectual property. In addition, add clause C0210C to the Basis of Payment.</p>
+<h4>Text:</h4>
+<p>Canada and the Contractor acknowledge that, as of _________, the Contractor, with the <em>consent</em> of ____________ (<strong>Insert the client department's name</strong>) and without a written <em>contract</em>, started the Work required pursuant to this Contract. Canada hereby confirms its obligation to pay the Contractor <em>in accordance with the Basis of Payment of this Contract in consideration for the Work performed prior to the effective date of this Contract (Pre-contractual Work)</em>. The Contractor agrees that upon such payment by Canada to the Contractor, Canada shall be released and forever discharged from all manner of actions, claims, suits or demands <em>in relation to Pre-contractual Work</em>. The Contractor further <em>agrees</em> to complete <em>the</em> Work <em>in accordance</em> with the terms and conditions of this Contract.</p>
+<p>The Parties hereby confirm that copyright in the Pre-contractual Work shall vest and remain in Canada and that ownership of <em>all</em> intellectual property <em>rights in all information of a scientific, technical or artistic nature relating to the Work, in any form or medium, conceived, developed</em> or produced by the Contractor in the performance of the Pre-contractual Work shall vest and remain in Canada.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

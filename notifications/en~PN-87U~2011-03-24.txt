@@ -1,0 +1,447 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Introduction</h2>
+<p>The purpose of Policy Notification (<abbr title="Policy Notification">PN</abbr>)-87U is to update the authority limits for Construction and Architectural and Engineering Services.</p>
+<h2>Background</h2>
+<p>Temporary authority limits were provided for Construction and Architectural and Engineering Services in support of the Accelerated Infrastructure Program. These limits are in effect from April 1, 2009 to March 31, 2011. On April 1, 2011, new approval and signing authority limits will come into effect and will require new delegation forms for all positions requiring Construction and Architectural and Engineering Services authorities. Any new procurement or procurement in progress as of April 1, 2011 must use the new limits.</p>
+<h2>Effective Date</h2>
+<p>This <abbr title="Policy Notification">PN</abbr> is effective immediately.</p>
+<h2>Revisions to the Current Policy</h2>
+<p>Approval and Signing Authority Limits for Construction and Architectural and Engineering Services have been revised and replace the temporary limits put in place for the Accelerated Infrastructure Program. The revised limits are effective April 1, 2011. Annex A contains the changes to the Supply Manual.</p>
+<h2>Contact Person</h2>
+<p>For more information on the Supply Manual changes, contact Susan Blakeney, by phone at 819-956-8235, or by e-mail at: <a href="mailto:susan.blakeney@tpsgc-pwgsc.gc.ca" rel="external">susan.blakeney@tpsgc-pwgsc.gc.ca</a>.</p>
+<h2>Annex A - Changes to the Supply Manual
+<br/>
+Annex 6.4.2: Basic Contracting Limits</h2>
+<p>CONSTRUCTION - <strong>Contract Approval and Signing Authority Limits</strong></p>
+<p>This table entitled CONSTRUCTION - Contract Approval and Signing Authority Limits provides contract entry, amendment, and signing authority limits for Electronic, Competitive and Non-competitive Construction procurement.</p>
+<table class="basic">
+<tbody><tr>
+<th id="PN-87Uun_0" scope="col">Level</th>
+<th id="PN-87Uun_1" scope="col">Position</th>
+<th colspan="3" id="PN-87Uun_2" scope="col">Electronic</th>
+<th colspan="3" id="PN-87Uun_3" scope="col">Competitive</th>
+<th colspan="3" id="PN-87Uun_4" scope="col">Non-competitive</th>
+</tr>
+<tr>
+<th headers="un_0" id="PN-87Uun_5" scope="row"> </th>
+<td headers="un_5 un_1"> </td>
+<td colspan="2" headers="un_5 un_2">Approval</td>
+<td headers="un_5 un_2">Signing</td>
+<td colspan="2" headers="un_5 un_3">Approval</td>
+<td headers="un_5 un_3">Signing</td>
+<td colspan="2" headers="un_5 un_4">Approval</td>
+<td headers="un_5 un_4">Signing</td>
+</tr>
+<tr>
+<th headers="un_0" id="PN-87Uun_6"> </th>
+<td headers="un_6 un_1"> </td>
+<td headers="un_6 un_2">Contract Entry</td>
+<td headers="un_6 un_2">Aggreg. Amend.</td>
+<td headers="un_6 un_2"> </td>
+<td headers="un_6 un_3">Contract Entry</td>
+<td headers="un_6 un_3">Aggreg. Amend.</td>
+<td headers="un_6 un_3"> </td>
+<td headers="un_6 un_4">Contract Entry</td>
+<td headers="un_6 un_4">Aggreg. Amend.</td>
+<td headers="un_6 un_4"> </td>
+</tr>
+<tr>
+<th colspan="2" id="PN-87Uun_7" scope="row">Minister</th>
+<td headers="un_7 un_2">$20M</td>
+<td headers="un_7 un_2">$10M</td>
+<td headers="un_7 un_2">Full</td>
+<td headers="un_7 un_3">$10M</td>
+<td headers="un_7 un_3">$5M</td>
+<td headers="un_7 un_3">Full</td>
+<td headers="un_7 un_4">$500K</td>
+<td headers="un_7 un_4">$500K</td>
+<td headers="un_7 un_4">Full</td>
+</tr>
+<tr>
+<th headers="un_0" id="PN-87Uun_8" rowspan="3" scope="row">1.</th>
+<td headers="un_8 un_7"><abbr title="Assistant Deputy Minister">ADM</abbr></td>
+<td headers="un_8 un_2">$20M</td>
+<td headers="un_8 un_2">$10M</td>
+<td headers="un_8 un_2">Full</td>
+<td headers="un_8 un_3">$10M</td>
+<td headers="un_8 un_3">$5M</td>
+<td headers="un_8 un_3">Full</td>
+<td headers="un_8 un_4">$500K</td>
+<td headers="un_8 un_4">$500K</td>
+<td headers="un_8 un_4">Full</td>
+</tr>
+<tr>
+<td headers="un_8 un_7"><abbr title="Director General">DG</abbr>, <abbr title="Regional Director General">RDG</abbr></td>
+<td headers="un_8 un_2">$15M</td>
+<td headers="un_8 un_2">$1.5M</td>
+<td headers="un_8 un_2">Full</td>
+<td headers="un_8 un_3">$7.5M</td>
+<td headers="un_8 un_3">$1.5M</td>
+<td headers="un_8 un_3">Full</td>
+<td headers="un_8 un_4">$300K</td>
+<td headers="un_8 un_4">$300K</td>
+<td headers="un_8 un_4">Full</td>
+</tr>
+<tr>
+<td headers="un_8 un_7">Sr. Director Regional Director</td>
+<td headers="un_8 un_2">$10M</td>
+<td headers="un_8 un_2">$1M</td>
+<td headers="un_8 un_2">Full</td>
+<td headers="un_8 un_3">$5M</td>
+<td headers="un_8 un_3">$1M</td>
+<td headers="un_8 un_3">Full</td>
+<td headers="un_8 un_4">$200K</td>
+<td headers="un_8 un_4">$200K</td>
+<td headers="un_8 un_4">Full</td>
+</tr>
+<tr>
+<th headers="un_0" id="PN-87Uun_9" rowspan="2" scope="row">2</th>
+<td headers="un_9 un_7">Director</td>
+<td headers="un_9 un_2">$5M</td>
+<td headers="un_9 un_2">$400K</td>
+<td headers="un_9 un_2">Full</td>
+<td headers="un_9 un_3">$2.5M</td>
+<td headers="un_9 un_3">$400K</td>
+<td headers="un_9 un_3">Full</td>
+<td headers="un_9 un_4">$125K</td>
+<td headers="un_9 un_4">$125K</td>
+<td headers="un_9 un_4">Full</td>
+</tr>
+<tr>
+<td headers="un_9 un_7">Manager</td>
+<td headers="un_9 un_2">$2.5M</td>
+<td headers="un_9 un_2">$200K</td>
+<td headers="un_9 un_2">Full</td>
+<td headers="un_9 un_3">$1M</td>
+<td headers="un_9 un_3">$200K</td>
+<td headers="un_9 un_3">Full</td>
+<td headers="un_9 un_4">$125K</td>
+<td headers="un_9 un_4">$100K</td>
+<td headers="un_9 un_4">Full</td>
+</tr>
+<tr>
+<th headers="un_0" id="PN-87Uun_10" rowspan="2" scope="row">3</th>
+<td headers="un_10 un_7">Supply Team Leader</td>
+<td headers="un_10 un_2">$1M</td>
+<td headers="un_10 un_2">$100K</td>
+<td headers="un_10 un_2">C: $5M
+        <br/>
+        A: $400K</td>
+<td headers="un_10 un_3">$400K</td>
+<td headers="un_10 un_3">$100K</td>
+<td headers="un_10 un_3">C: $2.5M
+        <br/>
+        A: $400K</td>
+<td headers="un_10 un_4">$100K</td>
+<td headers="un_10 un_4">$50K</td>
+<td headers="un_10 un_4">C: $125K
+        <br/>
+        A: $125K</td>
+</tr>
+<tr>
+<td headers="un_10 un_7">Supply Specialist</td>
+<td headers="un_10 un_2">$300K</td>
+<td headers="un_10 un_2">$50K</td>
+<td headers="un_10 un_2">C: $2.5M
+        <br/>
+        A: $200K</td>
+<td headers="un_10 un_3">$300K</td>
+<td headers="un_10 un_3">$50K</td>
+<td headers="un_10 un_3">C: $1M
+        <br/>
+        A: $200K</td>
+<td headers="un_10 un_4">$50K</td>
+<td headers="un_10 un_4">$25K</td>
+<td headers="un_10 un_4">C: $125K
+        <br/>
+        A: $100K</td>
+</tr>
+<tr>
+<th headers="un_0" id="PN-87Uun_11" rowspan="4" scope="row">4</th>
+<td headers="un_11 un_7">Supply Officer</td>
+<td headers="un_11 un_2">$100K</td>
+<td headers="un_11 un_2">$15K</td>
+<td headers="un_11 un_2">C: $1M
+        <br/>
+        A: $100K</td>
+<td headers="un_11 un_3">$100K</td>
+<td headers="un_11 un_3">$15K</td>
+<td headers="un_11 un_3">C: $400K
+        <br/>
+        A: $100K</td>
+<td headers="un_11 un_4">$25K</td>
+<td headers="un_11 un_4">$15K</td>
+<td headers="un_11 un_4">C: $100K
+        <br/>
+        A: $50K</td>
+</tr>
+<tr>
+<td headers="un_11 un_7">Intern Officer/ Trainee</td>
+<td headers="un_11 un_2"> </td>
+<td headers="un_11 un_2"> </td>
+<td headers="un_11 un_2"> </td>
+<td headers="un_11 un_3"> </td>
+<td headers="un_11 un_3"> </td>
+<td headers="un_11 un_3"> </td>
+<td headers="un_11 un_4"> </td>
+<td headers="un_11 un_4"> </td>
+<td headers="un_11 un_4"> </td>
+</tr>
+<tr>
+<td headers="un_11 un_7">Sr. Purchasing Assistant</td>
+<td headers="un_11 un_2"> </td>
+<td headers="un_11 un_2"> </td>
+<td headers="un_11 un_2"> </td>
+<td headers="un_11 un_3"> </td>
+<td headers="un_11 un_3"> </td>
+<td headers="un_11 un_3"> </td>
+<td headers="un_11 un_4"> </td>
+<td headers="un_11 un_4"> </td>
+<td headers="un_11 un_4"> </td>
+</tr>
+<tr>
+<td headers="un_11 un_7">Proc. Assistant</td>
+<td headers="un_11 un_2"> </td>
+<td headers="un_11 un_2"> </td>
+<td headers="un_11 un_2"> </td>
+<td headers="un_11 un_3"> </td>
+<td headers="un_11 un_3"> </td>
+<td headers="un_11 un_3"> </td>
+<td headers="un_11 un_4"> </td>
+<td headers="un_11 un_4"> </td>
+<td headers="un_11 un_4"> </td>
+</tr>
+</tbody></table>
+<p class="red">Legend:
+<br/>
+C = Contract Signing Authority
+<br/>
+A = Aggregate Contract Amendment Signing Authority</p>
+<h2>Annex 6.4.2: Basic Contracting Limits</h2>
+<p><strong>A&amp;E SERVICES</strong> - Contract Approval and Signing Authority Limits</p>
+<p>This table entitled A&amp;E SERVICES - Contract Approval and Signing Authority Limits, provides contract entry, amendment and signing authority limits for Electronic, Competitive and Non-competitive A&amp;E Services procurement.</p>
+<table class="basic">
+<tbody><tr>
+<th id="PN-87Uun_12" scope="col">Level</th>
+<th id="PN-87Uun_13" scope="col">Position</th>
+<th colspan="3" id="PN-87Uun_14" scope="col">Electronic</th>
+<th colspan="3" id="PN-87Uun_15" scope="col">Competitive</th>
+<th colspan="3" id="PN-87Uun_16" scope="col">Non-competitive</th>
+</tr>
+<tr>
+<th headers="un_12" id="PN-87Uun_17" scope="row"> </th>
+<td headers="un_17 un_13"> </td>
+<td colspan="2" headers="un_17 un_14">Approval</td>
+<td headers="un_17 un_14">Signing</td>
+<td colspan="2" headers="un_17 un_15">Approval</td>
+<td headers="un_17 un_15">Signing</td>
+<td colspan="2" headers="un_17 un_16">Approval</td>
+<td headers="un_17 un_16">Signing</td>
+</tr>
+<tr>
+<th headers="un_12" id="PN-87Uun_18" scope="row"> </th>
+<td headers="un_18 un_13"> </td>
+<td headers="un_18 un_14">Contract Entry</td>
+<td headers="un_18 un_14">Aggreg. Amend.</td>
+<td headers="un_18 un_14">.</td>
+<td headers="un_18 un_15">Contract Entry</td>
+<td headers="un_18 un_15">Aggreg. Amend.</td>
+<td headers="un_18 un_15"> </td>
+<td headers="un_18 un_16">Contract Entry</td>
+<td headers="un_18 un_16">Aggreg. Amend.</td>
+<td headers="un_18 un_16"> </td>
+</tr>
+<tr>
+<th colspan="2" id="PN-87Uun_19" scope="row">Minister</th>
+<td headers="un_19 un_14">$2M</td>
+<td headers="un_19 un_14">Greater of $1M or 25% of original Max. $2M
+        <br/>
+        Note 1</td>
+<td headers="un_19 un_14">Full</td>
+<td headers="un_19 un_15">$1M</td>
+<td headers="un_19 un_15">Greater of $250K or 25% of original Max. $1M
+        <br/>
+        Note 2</td>
+<td headers="un_19 un_15">Full</td>
+<td headers="un_19 un_16">$100K</td>
+<td headers="un_19 un_16">
+            $100K
+            <br/>
+            $100K<a href="#PN-87Ua1"><sup>1</sup></a>
+</td>
+<td headers="un_19 un_16">Full</td>
+</tr>
+<tr>
+<th headers="un_12" id="PN-87Uun_20" rowspan="3" scope="row">1.</th>
+<td headers="un_20 un_19"><abbr title="Assistant Deputy Minister">ADM</abbr></td>
+<td headers="un_20 un_14">$2M</td>
+<td headers="un_20 un_14">Greater of $1M or 25% of original Max. $2M
+        <br/>
+        Note 1</td>
+<td headers="un_20 un_14">Full</td>
+<td headers="un_20 un_15">$1M</td>
+<td headers="un_20 un_15">Greater of $250K or 25% of original Max. $1M
+        <br/>
+        Note 2</td>
+<td headers="un_20 un_15">Full</td>
+<td headers="un_20 un_16">$100K</td>
+<td headers="un_20 un_16">
+            $100K
+            <br/>
+            $100K <a href="#PN-87Ua1"><sup>1</sup></a>
+</td>
+<td headers="un_20 un_16">Full</td>
+</tr>
+<tr>
+<td headers="un_20 un_19"><abbr title="Director General">DG</abbr>, <abbr title="Regional Director General">RDG</abbr></td>
+<td headers="un_20 un_14">$1.5M</td>
+<td headers="un_20 un_14">$750K</td>
+<td headers="un_20 un_14">Full</td>
+<td headers="un_20 un_15">$750K</td>
+<td headers="un_20 un_15">Greater of $125K or 25% of original Max. $500K</td>
+<td headers="un_20 un_15">Full</td>
+<td headers="un_20 un_16">$80K</td>
+<td headers="un_20 un_16">$80K</td>
+<td headers="un_20 un_16">Full</td>
+</tr>
+<tr>
+<td headers="un_20 un_19">Sr. Director Regional Director</td>
+<td headers="un_20 un_14">$1M</td>
+<td headers="un_20 un_14">$500K</td>
+<td headers="un_20 un_14">Full</td>
+<td headers="un_20 un_15">$500K</td>
+<td headers="un_20 un_15">$125K</td>
+<td headers="un_20 un_15">Full</td>
+<td headers="un_20 un_16">$80K</td>
+<td headers="un_20 un_16">$80K</td>
+<td headers="un_20 un_16">Full</td>
+</tr>
+<tr>
+<th headers="un_12" id="PN-87Uun_21" rowspan="2" scope="row">2</th>
+<td headers="un_21 un_19">Director</td>
+<td headers="un_21 un_14">$500K</td>
+<td headers="un_21 un_14">$50K</td>
+<td headers="un_21 un_14">Full</td>
+<td headers="un_21 un_15">$500K</td>
+<td headers="un_21 un_15">$50K</td>
+<td headers="un_21 un_15">Full</td>
+<td headers="un_21 un_16">$50K</td>
+<td headers="un_21 un_16">$50K</td>
+<td headers="un_21 un_16">Full</td>
+</tr>
+<tr>
+<td headers="un_21 un_19">Manager</td>
+<td headers="un_21 un_14">$500K</td>
+<td headers="un_21 un_14">$50K</td>
+<td headers="un_21 un_14">Full</td>
+<td headers="un_21 un_15">$500K</td>
+<td headers="un_21 un_15">$50K</td>
+<td headers="un_21 un_15">Full</td>
+<td headers="un_21 un_16">$50K</td>
+<td headers="un_21 un_16">$50K</td>
+<td headers="un_21 un_16">Full</td>
+</tr>
+<tr>
+<th headers="un_12" id="PN-87Uun_22" rowspan="2" scope="row">3</th>
+<td headers="un_22 un_19">Supply Team Leader</td>
+<td headers="un_22 un_14">$350K</td>
+<td headers="un_22 un_14">$50K</td>
+<td headers="un_22 un_14">C:$500K
+        <br/>
+        A:$ 50K</td>
+<td headers="un_22 un_15">$350K</td>
+<td headers="un_22 un_15">$50K</td>
+<td headers="un_22 un_15">C:$500K
+        <br/>
+        A:$50K</td>
+<td headers="un_22 un_16">$50K</td>
+<td headers="un_22 un_16">$50K</td>
+<td headers="un_22 un_16">C:$50K
+        <br/>
+        A:$50K</td>
+</tr>
+<tr>
+<td headers="un_22 un_19">Supply Specialist</td>
+<td headers="un_22 un_14">$200K</td>
+<td headers="un_22 un_14">$50K</td>
+<td headers="un_22 un_14">C:$500K
+        <br/>
+        A:$50K</td>
+<td headers="un_22 un_15">$200K</td>
+<td headers="un_22 un_15">$50K</td>
+<td headers="un_22 un_15">C:$500K
+        <br/>
+        A:$50K</td>
+<td headers="un_22 un_16">$40K</td>
+<td headers="un_22 un_16">$25K</td>
+<td headers="un_22 un_16">C:$50K
+        <br/>
+        A:$50K</td>
+</tr>
+<tr>
+<th headers="un_12" id="PN-87Uun_23" rowspan="4" scope="row">4</th>
+<td headers="un_23 un_19">Supply Officer</td>
+<td headers="un_23 un_14">$125K</td>
+<td headers="un_23 un_14">$25K</td>
+<td headers="un_23 un_14">C:$350K
+        <br/>
+        A:$50K</td>
+<td headers="un_23 un_15">$70K</td>
+<td headers="un_23 un_15">$25K</td>
+<td headers="un_23 un_15">C:$350K
+        <br/>
+        A:$50K</td>
+<td headers="un_23 un_16">$25K</td>
+<td headers="un_23 un_16">$10K</td>
+<td headers="un_23 un_16">C:$50K
+        <br/>
+        A:$50K</td>
+</tr>
+<tr>
+<td headers="un_23 un_19">Intern Officer/ Trainee</td>
+<td headers="un_23 un_14"> </td>
+<td headers="un_23 un_14"> </td>
+<td headers="un_23 un_14"> </td>
+<td headers="un_23 un_15"> </td>
+<td headers="un_23 un_15"> </td>
+<td headers="un_23 un_15"> </td>
+<td headers="un_23 un_16"> </td>
+<td headers="un_23 un_16"> </td>
+<td headers="un_23 un_16"> </td>
+</tr>
+<tr>
+<td headers="un_23 un_19">Sr. Purchasing Assistant</td>
+<td headers="un_23 un_14"> </td>
+<td headers="un_23 un_14"> </td>
+<td headers="un_23 un_14"> </td>
+<td headers="un_23 un_15"> </td>
+<td headers="un_23 un_15"> </td>
+<td headers="un_23 un_15"> </td>
+<td headers="un_23 un_16"> </td>
+<td headers="un_23 un_16"> </td>
+<td headers="un_23 un_16"> </td>
+</tr>
+<tr>
+<td headers="un_23 un_19">Proc. Assistant</td>
+<td headers="un_23 un_14"> </td>
+<td headers="un_23 un_14"> </td>
+<td headers="un_23 un_14"> </td>
+<td headers="un_23 un_15"> </td>
+<td headers="un_23 un_15"> </td>
+<td headers="un_23 un_15"> </td>
+<td headers="un_23 un_16"> </td>
+<td headers="un_23 un_16"> </td>
+<td headers="un_23 un_16"> </td>
+</tr>
+</tbody></table>
+<p class="red">Legend:
+<br/>
+C = Contract Signing Authority
+<br/>
+A = Aggregate Contract Amendment Signing Authority</p>
+<p>Note 1 - Authority to issue subsequent amendments to an amendment approved by Treasury Board: Greater of $250K or 25% of original approval up to maximum of $1M</p>
+<p>Note 2 - Authority to issue subsequent amendments to an amendment approved by Treasury Board: Greater of $125K or 25% of original approval up to maximum of $500K</p>
+<p id="PN-87Ua1"><sup>1</sup> - Authority to issue subsequent amendments to an amendment approved by Treasury Board to maximum limit shown</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

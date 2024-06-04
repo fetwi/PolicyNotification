@@ -1,0 +1,86 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-37Ucont" name="cont"><br/>
+AP-37U : Format uniformisé du processus d'approbation juste-à-temps (PAJAT)</a></h1> <div class="region region-site-wide-message">
+<section id="AP-37Usite-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-37Usite-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-37Usite-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 3 décembre 1998</h2>
+<p>Vous devez lire cette mise à jour de concert avec l'Avis relatif aux politiques n<sup>o</sup>37.</p>
+<p>Depuis son introduction le 11 septembre dernier, le PAJAT s'est montré un outil efficace et opportun dans le traitement des demandes de modifications urgentes. Nous possédons maintenant une meilleure appréciation de l'information requise et de la façon dont elle doit être présentée. Le format présenté ci-dessous devra servir de norme pour la soumission des demandes futures relatives au PAJAT :</p>
+<h3>OBJET :</h3>
+<ul>
+<li>Nom/Référence du projet.</li>
+<li>Demande de modification d'une valeur de X $.</li>
+<li>Pour l'approbation du ministre ou du Sous-ministre adjoint (SMA).</li>
+</ul>
+<h3>CONTEXTE :</h3>
+<ul>
+<li>description du projet.</li>
+<li>client.</li>
+<li>renseignements sur le contrat initial :</li>
+<li>identification du ou des fournisseurs;</li>
+<li>date d'attribution du contrat;</li>
+<li>valeur actuelle du contrat;</li>
+<li>méthode d'approvisionnement (p. ex. concurrentielle, fournisseur unique, SPEC);</li>
+<li>liste des soumissionnaires précédents, par ordre de classement, avec le prix proposé.</li>
+</ul>
+<h3>MODIFICATIONS PRÉCÉDENTES :</h3>
+<ul>
+<li>Valeur et motif de toute modification précédente.</li>
+<li>Questions de responsabilité (p. ex. demande du client).</li>
+</ul>
+<h3>MODIFICATION PROPOSÉE :</h3>
+<ul>
+<li>Valeur et motif.</li>
+<li>Questions de responsabilité, s'il y a lieu (p. ex. la nécessité d'une modification est-elle due à une nouvelle demande du client?; la Couronne est-elle responsable à cause d'un retard?; la responsabilité est-elle partagée entre l'entrepreneur et la Couronne?).</li>
+<li>Si l'ampleur des travaux augmente, pourquoi modifier le contrat plutôt que de lancer un nouvel appel d'offres? comment nous sommes-nous assurés que la valeur est juste et raisonnable?</li>
+</ul>
+<h3>CONSÉQUENCES DE NE PAS RECEVOIR L'AUTORISATION IMMÉDIATE D'ALLER DE L'AVANT :</h3>
+<ul>
+<li>Impacts sur le projet, le client, conséquences politiques s'il y en a, etc.</li>
+<li>Définir et donner des précisions quantitatives.</li>
+</ul>
+<h3>COÛTS ET TAXES :</h3>
+<ul>
+<li>Précisions sur les coûts et le financement [p. ex. montant du contrat initial de X $; modifications précédentes de X $; modification proposée de X $; montant prévu du contrat final de X $ (taxes comprises ou en sus)].</li>
+</ul>
+<h3>AUTRE :</h3>
+<ul>
+<li>Toute autre circonstance atténuante ou tout autre fait pertinent.</li>
+</ul>
+<h3>ESPACE POUR LA SIGNATURE D'APPROBATION DU MINISTRE :</h3>
+<ul>
+<li>Le Sous-ministre (SM), la Direction générale de la vérification et de l'examen (DGVE), le directeur général (DG)/Directeur général régional (DGR) reçoivent toujours une copie conforme après que l'approbation a été donnée;</li>
+<li>De façon informelle, le cabinet du SMA transmet une réponse de vive voix à la personne-ressource du secteur/région. </li>
+</ul>
+<p>Afin d'assurer l'approbation en temps opportun d'une demande PAJAT, nous vous recommandons, qu'en grande partie, une attention particulière soit portée aux éléments d'information suivants :</p>
+<ul>
+<li>Voir à ce que l'information relative au contrat initial soit appropriée;</li>
+<li>Voir à ce que les détails relatifs aux modifications précédentes soient suffisants;</li>
+<li>Les dates d'attribution de contrat doivent être indiquées clairement;</li>
+<li>Les entrepreneurs à qui le contrat a été attribué doivent être bien identifiés;</li>
+<li>Les autres soumissionnaires et leur soumission doivent être identifiés afin de démontrer que le contrat en question demeure toujours la meilleure valeur compte tenu l'historique des modifications.</li>
+</ul>
+<p>En plus de la demande dans le cadre du PAJAT, il doit y avoir obligation précise de communication interne soit rattachée au PAJAT. Dès qu'un besoin d'approbation est connu d'un agent de négociation des contrats, il doit être communiqué par téléphone, à l'intérieur d'un secteur ou d'une région, par les moyens appropriés, au directeur général (DG)/directeur général régional (dgr), puis par le DG/dgr au bureau du sous-ministre adjoint (SMA) de la Direction générale du service des approvisionnement (DGSA). Le SMA communiquera avec le cabinet du sous-ministre puis enfin avec le cabinet du ministre.</p>
+<p>La Direction de la politique des approvisionnements contrôlera l'efficacité de cette nouvelle approche. Si elle réussit à fournir toute l'information nécessaire regroupée dans un ordre logique qui contribue à réduire davantage les délais, un nouveau formulaire sera alors émis afin de refléter ces changements.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

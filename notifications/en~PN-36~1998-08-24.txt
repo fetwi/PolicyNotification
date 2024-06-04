@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<p>Effective immediately, Document Type number 22, Contract Code for Pre-Approved Amendments, has been activated for ABE, SPEC and ACCORD systems, and shall be used to identify all pre-approved amendments.</p>
+<p>Amendments that were previously approved and will be coded as Document Type 22 include, but are not limited to:</p>
+<ul>
+<li>amendments issued to exercise an option for additional quantities or years that were included in the original solicitation and approved as part of the original contract approval submission; and,</li>
+<li>amendments which use amounts set-aside for anticipated, but not yet clearly defined, changes (e.g. work arisings, design changes, unscheduled work), which were approved as part of the original contract approval submission.</li>
+</ul>
+<p>Amendments that do not fit within the description of the original approval or go beyond the scope or value of the approval will be coded as Normal Amendments and shall be approved at the appropriate level as determined by the Minister's delegation of amendment authorities.</p>
+<p><strong>Note</strong>: The new code is designed, in part, to facilitate the newly released Delegation Authorities by reducing the number of amendments and promoting more effective communication and upfront teamwork between the client and the procurement authority in the requirements definition and procurement planning stage.</p>
+<p>It is anticipated that the procurement process at the front-end will take more planning and preparation since there will be more in-depth analysis and more complex forecasting required to accurately predict additional quantities or unforeseen design changes over the life of the contract. This increase in initial effort and complexity will increase the quality of procurement decisions and will be offset by a reduction in the time and effort to raise, justify and monitor unplanned for amendments/work arisings.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

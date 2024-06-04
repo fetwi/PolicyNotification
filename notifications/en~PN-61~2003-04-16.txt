@@ -1,0 +1,45 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h3>Background</h3>
+<p>It was agreed in a Public Works and Government Services Canada (PWGSC) letter to Department of National Defence (DND) dated 03 March 2003, that the management and control of all production assets, including Special Production Tooling and Special Test Equipment (SPT/STE) generated under defence contracts, and DND loaned materiel, would become the responsibility of DND/Director Disposal, Sales, Artifacts and Loans (DDSAL). Consequently, all DND loan agreements will be processed by DND/DDSAL and records of all materiel on loan will be maintained in that central location. Existing DND loan agreements will be amended to reflect this.</p>
+<p>It should be noted that the management of production assets on behalf of Canadian Commercial Corporation will continue to be performed by PWGSC/Production and Assets Management Services (PAMS). </p>
+<h3>Supply Manual</h3>
+<p>The resulting changes to the process for loans of DND Materiel to contractors are reflected in the following amendments to the Supply Manual, Chapters 6 and 11, as shown in <a href="#PN-61anna">Annex A</a>.</p>
+<p>The revised policy is effective immediately. It will be incorporated into the next Supply Manual amendment, scheduled for release in May 2003. Please direct inquiries to Pierre Beauchamp, (<a href="mailto:beauchamp.pjp@forces.gc.ca" rel="external">beauchamp.pjp@forces.gc.ca</a>), DND/DDSAL, via e-mail.</p>
+<hr/>
+<h3><a id="PN-61anna" name="anna"></a>Annex A</h3>
+<h4>CHAPTER 6 - DEVELOPING THE PROCUREMENT STRATEGY</h4>
+<h4>SECTION 6B - DEFINING THE REQUIREMENT</h4>
+<p><strong>Special Production Tooling, Special Test Equipment and DND Materiel</strong></p>
+<p>6B.187 (DD/MM/03) In order to carry out certain contracts, unique Special Production Tooling (SPT) and Special Test Equipment (STE) and/or DND materiel are required by contractors in the manufacturing or in the repair and overhaul of defence supplies or other equipment. This does not apply when SPT/STE is the end product ordered under a contract, and is not for use by the contractor.</p>
+<p><em>SPT/STE is normally acquired at the time of the initial manufacturing or the establishment of a repair and overhaul line or, occasionally, during the manufacturing or repair and overhaul process. SPT/STE is available for use in the manufacturing of additional units or parts or in their repair and overhaul.</em></p>
+<p>6B.188 (DD/MM/03) The management and control of all production assets, including SPT/STE generated under defence contracts, and DND loaned materiel, is the responsibility of DND/Director Disposal, Sales, Artifacts and Loans (DDSAL). DND/DDSAL may be contacted at 819-994-8692. DND/DDSAL responsibilities include the return and disposition of these production assets (See 11.240 &amp; 11.241). </p>
+<p>The management and control of all production assets generated under contracts with the Canadian Commercial Corporation are the responsibility of PWGSC/Production and Assets Management Services (PAMS). PWGSC/PAMS may be reached at 819-956-0057.</p>
+<p>When there is a requirement for SPT/STE, contracting officers must first check with DND/DDSAL to determine if it is available from current inventories. When available, DND/DDSAL shall arrange for the loan of the SPT/STE to the contractor. When the SPT/STE is not available from the DND inventories, the <acronym title="Public Works and Government Services Canada">PWGSC</acronym> Contracting Officer shall ensure sufficient funding is available and shall authorize the purchase or manufacture of the required SPT/STE.</p>
+<p>Since the cost of SPT/STE represents part of the cost of the end product being acquired by the client, payment is made out of the client's funds appropriated for the purchase of the end product. The cost of SPT/STE is to be included in the contract price for approval purposes.</p>
+<p>6B.189 Deleted</p>
+<p>6B.190 (DD/MM/03) When planning for the use of SPT/STE, contracting officers should consider the degree of mobility of the equipment.</p>
+<p>Contracting officers should also consider whether a separate contract should be entered into for such tooling.</p>
+<hr/>
+<h4>CHAPTER 11 - CONTRACT MANAGEMENT</h4>
+<p><strong>Loan of Department of National Defence Materiel</strong></p>
+<p>11.061 (DD/MM/03) When a contract does not provide for the loan of Department of National Defence (DND) materiel, the contractor may request such a loan.</p>
+<p>Such requests should be directed to DND/Director Disposal, Sales, Artifacts and Loans (DDSAL) at 819-994-8692 (See 6B.188).</p>
+<p><strong>Return of Special Test Equipment and Special Production Tooling</strong></p>
+<p>11.240 (DD/MM/03) Contractors are required to provide DND/Director Disposal, Sales, Artefacts and Loans (DDSAL) with at least sixty (60) days written notice prior to the date when the production assets will no longer be required. The notice should identify the contract or loan agreement serial number under which the production assets were held, location of the equipment, a brief but adequate description of the surplus production assets and the total estimated value, if applicable. (See 6B.188)</p>
+<p>A decision to retain production assets for future use should be supported by a cost/benefit analysis which provides an estimate of the storage and transportation costs involved, the duration of the storage, the refurbishing/modification costs that may be required to re-activate the assets, including installation/set-up charges, if applicable, and the remaining operational use or life of the equipment.</p>
+<p>DND/DDSAL will advise the contractor on the most appropriate method of retention and storage of the assets. DND/DDSAL will arrange for the transfer of production assets to another contractor or a storage facility or will prepare the appropriate documentation, declaring the items surplus, and forward it to Crown Assets Distribution Centre.</p>
+<p><strong>Return of Department of National Defence (DND) Loaned Materiel</strong></p>
+<p>11.241 (DD/MM/03) Returns are to be made:</p>
+<ol type="a">
+<li>when the materiel is no longer required;</li>
+<li>when repairs are beyond the contractor's capability;</li>
+<li>when recalled by DND/DDSAL</li>
+<li>on completion of the contract.</li>
+</ol>
+<p>11.242 (DD/MM/03) The contractor is required to return materiel, as directed by DND/DDSAL, and shall request from DND/DDSAL, in writing, instructions for the disposition of the items to be returned. The request should include a description of the items, identification or NATO stock number, their condition, and the Loan Agreement number.</p>
+<p>11.243 (DD/MM/03) DND/DDSAL will issue disposition instructions and inform all concerned. The contractor shall arrange for the return of the items as directed and confirm action by returning a signed copy of the 'Notice to Ship' to DND/DDSAL.</p>
+<p>11.244 (DD/MM/03) Inspection on issue and return of DND loaned materiel will be carried out by the local Canadian Forces Quality Assurance Representative at their discretion.</p>
+<p>11.245 (DD/MM/03) The contractor shall report lost, damaged or destroyed DND loaned materiel in writing to DND/DDSAL which is responsible for coming to a resolution with the contractor. </p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

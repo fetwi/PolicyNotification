@@ -1,0 +1,145 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-40cont" name="cont"><br/>
+AP-40 : Destruction des renseignements de nature délicate</a></h1> <div class="region region-site-wide-message">
+<section id="AP-40site-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-40site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-40site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 6 avril 1999</h2>
+<p>À la suite d'un problème qui s'est produit récemment dans la Région du Pacifique, la Division de la sécurité ministérielle (DSM) et la Division de la sécurité industrielle (DSI) ont mis au point des procédures et des clauses provisoires à appliquer par les agents des achats dans la passation des marchés portant sur la destruction des renseignements confidentiels.</p>
+<p>Les Services juridiques ont examiné ces clauses, qui ont été reproduites dans un document d'information transmis conjointement par la DSM et la DSI par la poste, en février 1999, à l'intention des directeurs régionaux des approvisionnements, de la Gestion du matériel à l'administration centrale, des gestionnaires régionaux de la sécurité et des agents régionaux de la sécurité industrielle sur le terrain.</p>
+<p>Le présent document comprend quatre sections :</p>
+<p>Politique du Guide des approvisionnements et clause du guide des CCUA\</p>
+<p><strong><a href="#AP-40nxa">Annexe A</a></strong> : Niveaux de classification des déchiqueteuses</p>
+<p><strong><a href="#AP-40nxb">Annexe B</a></strong> : Demande d'élimination des documents non enregistrés</p>
+<p><strong><a href="#AP-40nxc">Annexe C</a></strong> : Liste de vérification des exigences relatives à la sécurité (LVERS)</p>
+<p>Le présent avis de politique a été préparé à titre provisoire. Les changements à apporter, pour donner suite à cet avis, au Guide des approvisionnements et au Guide de CCUA font partie des prochaines modifications qui seront diffusées pour ces deux guides en décembre 1999.</p>
+<h3>Destruction des renseignements de nature délicate</h3>
+<p><strong>NORME TECHNIQUE SUR LA SÉCURITÉ</strong></p>
+<p><strong>POLITIQUES DU GUIDE DES APPROVISIONNEMENTS</strong></p>
+<p><strong>A Introduction</strong></p>
+<p>Conformément à la politique du gouvernement sur la sécurité (PGS), les renseignements de nature délicate (classifiés et désignés) dont la période de conservation approuvée par l'Archiviste national du Canada est expirée et qui n'ont aucune valeur historique ou archivistique devraient être rapidement détruits. Selon la norme sur la sécurité matérielle (chapitre 2-2 du Manuel du Conseil du Trésor sur la sécurité), les ministères doivent utiliser du matériel indiqué dans le Guide d'équipement de sécurité pour détruire les renseignements délicats établis sur support papier.</p>
+<p><strong>Exception :</strong> Les renseignements désignés de nature peu délicate peuvent être jetés après avoir été déchiquetés à la main. La présente norme technique expose la procédure à suivre pour la destruction de renseignements de nature délicate à Travaux publics et Services gouvernementaux Canada (TPSGC).</p>
+<p><strong>B DESTRUCTION AU MINISTÈRE</strong></p>
+<p><strong>Destruction de renseignements classifiés ou portant la désignation « Protégé C »</strong></p>
+<p>1. a) Les renseignements classifiés « Secret » ou « Très secret » ou portant la désignation « Protégé C » doivent être détruits en utilisant l'équipement de destruction de type II, qui réduit le papier en morceaux de 1 x 14,3 mm au maximum (<strong>annexe A</strong>).</p>
+<p>1. b) Les renseignements classifiés « Confidentiel » doivent être détruits en utilisant l'équipement de type III, qui réduit le papier en morceaux de 5 mm de largeur au maximum, sans limite pour la longueur (<strong>annexe A</strong>).</p>
+<p>2. L'information classifiée ou portant la désignation « Protégé C » doit être détruite au ministère seulement.</p>
+<p>3. Une déchiqueteuse approuvée doit être utilisée pour détruire les documents de nature délicate (consultez le Guide d'équipement de sécurité DSS/GS-20 de la Gendarmerie royale du Canada (GRC)).</p>
+<p>4. Une étiquette doit être apposée sur la déchiqueteuse pour indiquer le niveau de classification ou de désignation le plus élevé des documents qui peuvent être détruits par cette machine. L'étiquette indiquera également le numéro de téléphone de l'établissement le plus rapproché pouvant fournir des services de réparation en cas d'urgence ainsi que l'établissement le plus rapproché où l'on peut se procurer une autre déchiqueteuse semblablement approuvée, avec le nom d'une personne-ressource.</p>
+<p>5. En attendant d'être détruits, les renseignements doivent être rangés en lieu sûr de la même façon que pour l'information à détruire dont le niveau de classification ou de désignation est le plus élevé.</p>
+<p>6. En attendant d'être détruits, les renseignements de nature délicate doivent être conservés en des endroits distincts des autres renseignements devant être détruits.</p>
+<p>7. Le ministère client doit veiller à ce que seuls les documents dont le niveau de désignation n'est pas supérieur à « Protégé B » soient remis à l'entrepreneur pour être détruits dans le cadre d'un contrat.</p>
+<p><strong>Destruction des renseignements désignés</strong></p>
+<p>1. Conformément aux lignes directrices de la PGS et compte tenu de la nature variée des documents portant la désignation « Protégé A » et « Protégé B » qui existent dans les différents ministères, ceux-ci établiront les niveaux de destruction de ces documents en fonction de l'évaluation de la menace et des risques. Cependant, la plupart des ministères regroupent les biens portant la désignation « Protégé A » et « Protégé B » avec les biens classifiés « Confidentiel » et utilisent l'équipement de destruction de type III, qui réduit le papier en morceaux de 5 mm de largeur au maximum, sans limite pour la longueur (<strong>annexe A</strong>).</p>
+<p>2. Une déchiqueteuse approuvée doit être utilisée pour détruire l'information de nature délicate (consultez le Guide d'équipement de sécurité DSS/GS-20 de la GRC).</p>
+<p><strong>Exception</strong> : Les renseignements désignés de nature peu délicate (« Protégé A») peuvent être jetés après avoir été déchiquetés à la main.</p>
+<p>3. Il faut apposer sur la déchiqueteuse une étiquette indiquant le niveau de classification ou de désignation le plus élevé des documents qui peuvent être détruits par cette machine. L'étiquette indiquera également le numéro de téléphone de l'établissement le plus rapproché pouvant fournir des services de réparation en cas d'urgence ainsi que l'établissement le plus rapproché où l'on peut se procurer une autre déchiqueteuse semblablement approuvée, avec le nom d'une personne-ressource.</p>
+<p>4. En attendant d'être détruits, les renseignements doivent être rangés en lieu sûr de la même façon que pour l'information à détruire dont le niveau de classification ou de désignation est le plus élevé.</p>
+<p>5. En attendant d'être détruits, les renseignements de nature délicate doivent être conservés en des endroits distincts des autres renseignements devant être détruits.</p>
+<p><strong>C DESTRUCTION EN VRAC À L'EXTÉRIEUR</strong></p>
+<p>(Comprend les Archives nationales et les locaux des entrepreneurs.)</p>
+<p>1. Aucun renseignement classifié ou portant la désignation « Protégé C » de TPSGC ne doit être détruit à l'extérieur du ministère.</p>
+<p>2. Lorsque des renseignements portant la désignation « Protégé A » ou « Protégé B » sont envoyés à l'extérieur pour être détruits, la procédure suivante s'applique aux Archives nationales et aux locaux de l'entrepreneur :</p>
+<ol type="a">
+<li>En attendant d'être détruits, les renseignements doivent être rangés en lieu sûr de la même façon que pour l'information à détruire dont le niveau de classification ou de désignation est le plus élevé.</li>
+<li>L'équipement de destruction de type IV, qui réduit le papier en morceaux de 5 mm de largeur au maximum sans limite pour la longueur (annexe A) doit être utilisé pour détruire les documents (consultez le Guide d'équipement de sécurité DSS/GS-20 de la GRC).</li>
+<li>Une Demande d'élimination des documents non enregistrés (ARC 0203 (r.88.07)) (<strong>annexe B</strong>) doit être remplie pour la destruction de documents de nature délicate. La moitié supérieure de la demande doit être remplie par l'auteur de la demande d'élimination. La partie inférieure, le certificat de destruction, devrait être remplie par le Centre fédéral des documents des Archives nationales ou par l'entrepreneur. On y trouve la date de destruction et la signature de la personne autorisée qui a assisté à la destruction.</li>
+<li>La Division de la sécurité industrielle canadienne et internationale (DSICI) délivre une autorisation de sécurité pour l'installation à l'entrepreneur qui détruit des documents de nature délicate du gouvernement dans ses locaux pour le compte de TPSGC et de ses clients).</li>
+<li>La DSICI voit à ce que les exigences du client en ce qui a trait à la manutention, au rangement et au transport des rebuts dans les locaux de l'entrepreneur respectent les politiques et les normes établies du gouvernement en matière de sécurité.</li>
+<li>On peut vérifier les attestations de sécurité du personnel de l'entrepreneur en s'adressant à la DSICI.</li>
+<li>Les renseignements doivent être détruits sur place. Les documents jetés aux rebuts ne doivent jamais être vendus avant d'être détruits.</li>
+</ol>
+<h3>PROCÉDURES</h3>
+<p><strong>Destruction au moyen d'équipement mobile</strong></p>
+<p>Le gestionnaire régional de la sécurité (ou, pour le secteur de la capitale nationale, le représentant local de la sécurité) doit être informé lorsqu'on envisage la destruction de documents à l'aide d'un équipement mobile.</p>
+<p>1. Aucun RENSEIGNEMENT CLASSIFIÉ ou renseignement désigné « Protégé C » de TPSGC ne doit être envoyé à l'extérieur du ministère pour être détruit.</p>
+<p>2. En attendant d'être détruits, les renseignements doivent être rangés en lieu sûr de la même façon que pour l'information à détruire dont le niveau de classification ou de désignation est le plus élevé.</p>
+<p>3. En attendant d'être détruits, les renseignements de nature délicate doivent être conservés en des endroits distincts des autres renseignements devant être détruits.</p>
+<p>4. La DSICI effectue une vérification de sécurité à l'égard des principaux cadres supérieurs de l'entrepreneur, mais les opérateurs de l'équipement de destruction mobile ne font pas l'objet d'une telle vérification.</p>
+<p>5. On peut vérifier les attestations de sécurité des principaux cadres en s'adressant à la DSICI.</p>
+<p>6. L'information doit être détruite sur le terrain du ministère.</p>
+<p>7. L'organisme ministériel est tenu de recueillir et d'acheminer ses renseignements à l'endroit où se trouve l'équipement de destruction mobile sur le terrain du ministère.</p>
+<p>8. Un employé du ministère possédant une cote de sécurité de même niveau que l'information qui sera détruite doit être présent pour surveiller le processus de destruction.</p>
+<p>9. L'employé du ministère doit s'assurer que tout le papier passe complètement dans la machine à déchiqueter pour empêcher que des renseignements de nature délicate restent à l'intérieur de la machine.</p>
+<p>10. Le gestionnaire régional de la sécurité ou, dans le cas du secteur de la capitale nationale, le représentant local de la sécurité doit s'assurer que l'équipement est conforme aux normes de dimensions approuvées et que la déchiqueteuse de documents fonctionne bien en faisant des essais avec plusieurs feuilles de papier de rebut.</p>
+<p>11. a) Voici les critères applicables à la destruction au moyen d'un équipement mobile :</p>
+<ol type="i">
+<li>l'équipement utilisé pour la destruction des renseignements portant la désignation « Confidentiel » ainsi que des renseignements désignés jusqu'au niveau « de nature particulièrement délicate » inclusivement est approuvé lorsqu'il est muni d'un grillage de sécurité de 3/8 de pouce.</li>
+</ol>
+<p>b) Voici les mesures minimales que l'on recommande de prendre lorsqu'on négocie un contrat avec une entreprise qui utilise un équipement mobile pour détruire des documents :</p>
+<ol type="i">
+<li>Préciser dans le contrat que les documents doivent être déchiquetés en morceaux de 5 mm de largeur au maximum sans limite pour la longueur (annexe A) et demander de voir un échantillon de papier déchiqueté avant de signer le contrat.</li>
+<li>Vérifier le papier déchiqueté (en cas de doute, envoyez-le à la Sécurité ministérielle, qui le fera vérifier par la GRC pour voir si l'équipement utilisé répond aux normes) et obtenir un échantillon qui servira de référence.</li>
+<li>Si la destruction se fait par lots ou s'échelonne sur un certain nombre de jours, des échantillons devraient être prélevés à toutes les heures.</li>
+</ol>
+<p>12. Le certificat de destruction devrait être rempli par l'entreprise. Il doit comprendre la date de destruction et la signature de la personne autorisée qui était présente lors de la destruction des documents.</p>
+<p>13. Veuillez adresser les questions au gestionnaire de la Sécurité ministérielle.</p>
+<h3>CLAUSE DU GUIDE DES CCUA</h3>
+<p><strong>F2036D (__/__/99) Exigence en matière de sécurité</strong></p>
+<p>1. La liste de vérification des exigences relatives à la sécurité ci-jointe présente les exigences de sécurité applicables à la destruction de renseignements désignés aux niveaux Protégé A et B à l'aide d'une déchiqueteuse autorisée dans les locaux de l'entrepreneur.</p>
+<p>2. L'entrepreneur doit, en tout temps durant l'exécution du contrat, disposer d'une attestation valide de « vérification d'organisation désignée » (VOD), avec l'autorisation de détenir des documents désignés au niveau Protégé B, délivrée ou approuvée par la Division de la sécurité industrielle canadienne et internationale (DSICI) de Travaux publics et Services gouvernementaux Canada.</p>
+<p>3. Les employés de l'entrepreneur qui détruiront les documents ou qui devront avoir accès à l'information et aux biens désignés ou aux zones de travail restreintes devront tous posséder une attestation de vérification approfondie de la fiabilité délivrée ou approuvée par la DSICI.</p>
+<p>4. Si l'entrepreneur décide de recourir aux services de personnes aux prises avec des difficultés mentales, alors la vérification APPROFONDIE DE LA FIABILITÉ n'est pas nécessaire. Cependant, ces personnes devront faire l'objet d'une surveillance constante par un représentant d'une entreprise autorisée par l'entrepreneur qui devra avoir obtenu une attestation de vérification APPROFONDIE DE LA FIABILITÉ.</p>
+<p>5. L'entrepreneur doit se conformer aux dispositions des documents suivants :</p>
+<ol type="a">
+<li>la Liste de contrôle des exigences relatives à la sécurité, figurant à<strong> l'annexe C</strong> ci-jointe, qui comprend un guide de la sécurité;</li>
+<li>le Manuel de la sécurité industrielle (juin 1992).</li>
+</ol>
+<p> <a id="AP-40nxa" name="nxa"></a></p>
+<h3>CLASSIFICATION DES DÉCHIQUETEUSES</h3>
+<p>Voici une liste des niveaux de classification des déchiqueteuses de documents définis dans une norme intitulée « Destruction dans l'intérêt national - Norme d'évaluation de sécurité ». Les figures 1 et 2 illustrent ces définitions. Les exemples 1 et 2 sont des <strong>exemples réels</strong> de petits morceaux de papier obtenus par le déchiquetage de documents en utilisant du matériel de <strong>type II et III.</strong></p>
+<p><strong>Type II</strong></p>
+<p>Un seul morceau de papier déchiqueté ne doit pas dépasser<strong>1,00 mm de largeur et 14,3mm de longueur,</strong> à condition qu'il n'y figure pas plus d'un caractère alphanumérique complet sur une ligne et pas plus d'un caractère alphanumérique complet sur la ligne se trouvant immédiatement au-dessus et celle se trouvant immédiatement en-dessous de ladite ligne. Conformément à ce qui précède, il ne devrait pas y avoir plus de trois caractères alphanumériques* complets sur chaque morceau de papier déchiqueté.</p>
+<p><strong>FIGURE 1</strong><br/>
+<strong>Exemples réels</strong></p>
+<p><img alt="" height="552" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="325"/></p>
+<p><strong>EXEMPLE 1<br/>
+					1,00 mm de largeur et 14,3 de longueur<br/>
+					Voir la taille réelle ci-après</strong></p>
+<p><img alt="" height="273" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="325"/></p>
+<p><strong>NOTA : * Aux fins de la présente norme, un caractère alphanumérique ne peut être plus petit que 15 car/po avec 6 lignes/po</strong>.</p>
+<p><strong>Type III</strong></p>
+<p>Un morceau de papier déchiqueté ne doit pas être plus gros que 5,0 mm (0,20 pouce) de largeur et peut avoir n'importe quelle longueur à condition qu'il n'y figure pas plus de trois caractères alphanumériques* complets sur chaque ligne.</p>
+<p><strong>FIGURE 11</strong><br/>
+<strong>Exemples réels</strong></p>
+<p><img alt="" height="595" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="325"/></p>
+<p><strong>EXEMPLE II<br/>
+					5,0 mm (0,20 pouce) de largeur et n'importe<br/>
+					quelle longueur<br/>
+					Voir la taille réelle ci-après.</strong></p>
+<p><img alt="" height="323" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="325"/></p>
+<p><strong>NOTA *: Aux fins de la présente norme, un caractère alphanumérique ne peut être plus petit que 15 car/po avec 6 lignes/po</strong>.</p>
+<p> <a id="AP-40nxb" name="nxb"></a></p>
+<h2>Annexe B</h2>
+<p><img alt="" height="465" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="400"/></p>
+<p> <a id="AP-40nxc" name="nxc"></a></p>
+<h2>Annexe C</h2>
+<p><strong>1.</strong><br/>
+<img alt="" height="501" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="400"/></p>
+<p><strong>2.</strong><br/>
+<img alt="" height="508" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="400"/></p>
+<p><strong>3.</strong><br/>
+<img alt="" height="522" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="400"/></p>
+<p><strong>4.</strong><br/>
+<img alt="" height="497" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="400"/></p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

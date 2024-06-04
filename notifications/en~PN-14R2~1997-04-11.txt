@@ -1,0 +1,30 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<p>On December 30, 1996, the policy notification for the Shipbuilding, Repair, Refit and Modernization policy was distributed. This notification included the introduction of clause A0240T.</p>
+<p>Subsequent discussion with legal counsel and Marine Directorate has resulted in minor modifications to the clause. The revised version of A0240T (Annex A) is attached and will be included in the next amendment to the SACC, scheduled for June 1997.</p>
+<p>Two modifications have been made to Section 3 of A0240T.</p>
+<p>1. Fill-ins have been added before note 1, allowing the contracting authority to indicate the type of vessel and the home port.</p>
+<p>2. Note 1 is modified to clarify crew transportation costs being applicable for unmanned refits only and not when responsibility for care &amp; custody of the vessel is being retained by the Crown.</p>
+<h2>Annex B</h2>
+<p><strong>Remarks:</strong> Contracting officers shall use the latest table (Eastern Canada or Western Canada) approved by the Director, Marine Directorate, to prepare the list of shipyard/shiprepair facilities, as required under section 3 of this clause, where the work could potentially be undertaken. Contracting officers are to include from the table the applicable vessel transfer costs for each shipyard/shiprepair facility in the list based on the vessel's home port location and based on whether the work is under a manned refit. Where the table does not provide a specific home port for the vessel or the name of a potential shipyard/shiprepair facility where work could potentially be undertaken, contracting officers must contact the Director, Marine Directorate (Place du Portage, Phase III - 6C2, Phone: 819-956-0664, Fax: 819-956-0897) to obtain the necessary data.</p>
+<p>Contracting officers are to enter the number of calendar days in subsection 2(b).</p>
+<h3>A0240T VESSEL TRANSFER COSTS</h3>
+<p>1. The evaluation price shall include the cost for transferring the vessel from its home port to the shipyard/shiprepair facility where the Work will be undertaken and the cost of transferring the vessel to its home port following completion of the Work, in accordance with the following:</p>
+<p>2. (a) The Bidder shall enter below the location of the shipyard/shiprepair facility where it proposes to undertake the Work together with the applicable vessel transfer cost from the list provided under section 3 of this clause:</p>
+<h4>BIDDER TO ENTER:</h4>
+<p>Proposed shipyard/shiprepair facility: ______</p>
+<p>Applicable vessel transfer cost: ______</p>
+<p>(b) Should the list in section 3 of this clause not provide the shipyard/shiprepair location where the Bidder intends to undertake the Work, then the Bidder must advise the Contracting Authority, in writing, no later than _____ days <strong>(Contracting Officer to enter number of calendar days in this fill-in and delete this statement)</strong> prior to the bid closing date, of its proposed location for undertaking the Work. The Contracting Authority will acknowledge to the bidder, in writing, no later than _____ days <strong>(Contracting Officer to enter number of calendar days in this fill-in and delete this statement)</strong> prior to the bid closing date, the location of the shipyard/shiprepair and confirm the applicable vessel transfer cost.</p>
+<p><strong>A proposal that specifies a location for undertaking the Work which is not in the list under section 3 of this clause, and for which a notification in writing has not been received by the Contracting Authority no later than _____ days</strong> (Contracting Officer to enter number of calendar days in this fill-in and delete this statement)<strong> prior to the bid closing date, shall be deemed to be non-responsive.</strong></p>
+<p>3. List of shipyard/shiprepair facilities and applicable vessel transfer costs</p>
+<p><strong>Vessel: _____</strong></p>
+<p><strong>Home port: _____</strong></p>
+<p>Note 1: Transfer costs in the case of vessels transferred using a government delivery crew include the fuel cost at the vessel's most economical speed of transit and for unmanned refits only, crew transportation costs for the delivery crew based on the location of the vessel's homeport and the shipyard/shiprepair facility. Crew transportation costs are not applicable when responsibility for care and custody of the vessel during refit is being retained by Canada.</p>
+<p>Note 2: Transfer costs in the case of vessels transferred unmanned by either commercial towing, railway, highway or other suitable means of transportation shall be: (i) included as part of the bidder's price proposal in the case where the bidder is responsible for the transfer; or (ii) identified as the applicable vessel transfer cost, as given in the list below, in the case where the Government is responsible for the transfer.</p>
+<p><strong>(Contracting officers are to enter the list of shipyard/shiprepair facilities where the Work could potentially be undertaken together with the applicable vessel transfer costs based on the latest approved table issued by the Marine Directorate and DELETE THIS STATEMENT).</strong></p>
+<p>Shipyard/shiprepair facility<br/>
+				_________________________</p>
+<p>Applicable vessel transfer cost<br/>
+				_________________________</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

@@ -1,0 +1,215 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-44cont" name="cont"><br/>
+AP-44 : Instructions de facturation - Numéro de référence du client</a></h1> <div class="region region-site-wide-message">
+<section id="AP-44site-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-44site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-44site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 8 décembre 1999</h2>
+<p>Le recours à différents systèmes de gestion financière par de nombreux clients pose certains problèmes de traitement des demandes par TPSGC pour le compte des clients et de leurs fournisseurs. Pour remédier à la situation, nous avons créé un nouvel indicateur, soit le numéro de référence du client (NRC).</p>
+<p>Ce changement a également nécessité des modifications aux clauses actuelles du guide des Clauses et conditions uniformisées d'achat (CCUA) portant sur la facturation. À compter d'aujourd'hui, les clauses qui se trouvent à l'annexe A de cet avis relatif aux politiques remplace les clauses figurant dans toutes les versions précédentes du guide des CCUA.</p>
+<p>Chacune des clauses modifiées ci-dessous doit être insérée intégralement, s'il y a lieu, dans les documents d'achat. Cette mesure doit être appliquée jusqu'à ce que les clauses soient intégrées légalement dans la prochaine version du guide des CCUA, qui devrait être publiée en juin 2000.</p>
+<p>Indice des clauses de facturation :</p>
+<ul class="noBullet">
+<li>TRA-95 13 Paiement F</li>
+<li>H3019T Instructions relatives à la facturation R</li>
+<li>H3020T Instructions relatives à la facturation F</li>
+<li>H3021D Instructions relatives à la facturation R</li>
+<li>H5001D Instructions pour la facturation F</li>
+<li>H5002D Factures F</li>
+<li>K0036D Instructions et conditions uniformisées, DSS-MAS 9403 R</li>
+<li>K0037D Offres à commandes, DSS-MAS 9403-6 R</li>
+<li>P5015C Facturation, Directives concernant la F</li>
+<li>Y4000D Expédition - Modalités R</li>
+</ul>
+<p>Contact : <strong>S/O</strong>)</p>
+<h2>Annexe A</h2>
+<p><strong>TRA-95 13 (xx/xx/xx) Paiement</strong></p>
+<p>1. Pour tout paiement demandé, l'entrepreneur doit soumettre une facture à l'autorité contractante. La facture doit comprendre les renseignements suivants : nom et adresse de l'entrepreneur, numéro du contrat, numéro(s) de la (des) demande(s) de services, <strong><em>le numéro de référence du client (NRC)</em></strong> volume des prestations exécutées (mots/heures), tarif, montant total demandé et montant de la taxe sur les produits et services (TPS) ou la taxe de vente harmonisée (TVH) s'il y a lieu.</p>
+<p>2. La TPS et la TVH est exclue du prix contractuel pour les travaux. Dans la mesure applicable, la TPS ou la TVH, s'il y a lieu, sera intégrée à toutes les factures et demandes de paiement et sera acquittée par le Canada. L'entrepreneur accepte de remettre à Revenu Canada tout montant que l'entrepreneur reçoit du Canada, à titre de TPS ou de TVH, en vertu du contrat.</p>
+<p>3. Par dérogation à toute autre disposition du contrat, le paiement à l'entrepreneur n'est versé que lorsque les conditions suivantes sont remplies :</p>
+<ol type="a">
+<li>une facture, des notes d'inspection, des attestations et tout autre document exigé par le contrat ont été remis conformément aux dispositions du contrat et aux directives du Ministre;</li>
+<li>tous ces documents ont été vérifiés par le Ministre;</li>
+<li>en ce qui concerne toute partie des travaux pour laquelle le paiement est exigé, l'entrepreneur a établi à la demande et selon les exigences du Ministre qu'elle était libre et quitte de tout privilège, créance, saisie, sûreté ou charge;</li>
+<li>en ce qui concerne le paiement de travaux achevés, ceux-ci ont été inspectés par le Canada et jugés conformes aux dispositions du contrat.</li>
+</ol>
+<p>4. Dans les quinze (15) jours suivant la réception d'une facture, le Ministre donne à l'entrepreneur un avis concernant toute lacune relevée dans la facture ou insuffisance de pièces qui l'accompagnent et, le cas échéant, le paiement du montant exigé dans la facture est différé jusqu'à ce que l'entrepreneur corrige la lacune selon les exigences du Ministre.</p>
+<p>5. Le montant demandé par l'entrepreneur en vertu du contrat peut faire l'objet d'une vérification par le Canada avant ou après le versement à l'entrepreneur de la somme réclamée par l'entrepreneur. Tout paiement effectué avant la vérification ne doit être considéré que comme un paiement provisoire et doit être modifié en fonction des résultats de la vérification en question. Le cas échéant, le trop-perçu doit être immédiatement remboursé au Canada par l'entrepreneur.</p>
+<hr/>
+<p><strong>H3019T (xx/xx/xx) Instructions relatives à la facturation</strong></p>
+<p><strong>Remarques</strong> : Nonobstant ce qui est incorporé sous forme de renvois utilisez la clause suivante dans tous les contrats à moins que la version mise à jour ne soit incorporée de la manière prescrite par les règlements.</p>
+<p><strong>Texte :</strong></p>
+<p>1. Les factures doivent être présentées sur le formulaire de l'entrepreneur et elles doivent contenir les renseignements suivants :</p>
+<ol type="a">
+<li>date;</li>
+<li>nom et adresse du DESTINATAIRE;</li>
+<li>numéro de contrat, numéro de série et code(s) financier(s);</li>
+<li>type d'appareil, fabricant et numéro de série;</li>
+<li><strong><em>Numéro de référence du client (NRC)</em></strong></li>
+</ol>
+<p>2. Les adresses postales, en ce qui concerne les factures, seront indiquées dans le contrat attribué.</p>
+<hr/>
+<p><strong>H3020T (xx/xx/xx) Instructions relatives à la facturation</strong></p>
+<p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT</strong>.</p>
+<p>La clause suivante se rapporte aux contrats d'entretien facturés chaque mois.</p>
+<p><strong>Texte :</strong></p>
+<p>1. Les paiements ne seront effectués qu'à la réception de factures appropriées dûment accompagnées des documents de sortie spécifiés et des autres documents requis en vertu de tout contrat attribué.</p>
+<p>2. Une facture doit être fournie chaque mois, en utilisant le formulaire de l'entrepreneur et contenir les renseignements suivants :</p>
+<ol type="a">
+<li>nom et adresse de l'entreprise;</li>
+<li>numéro de dossier, numéro de série du contrat et code financier;</li>
+<li>destination;</li>
+<li>taux horaire, nombre d'heures, coût de la main-d'œuvre;</li>
+<li>coût des matériaux;</li>
+<li>la taxe sur les produits et services;</li>
+<li>la taxe de vente harmonisée;</li>
+<li><strong><em>Numéro de référence du client (NRC)</em></strong></li>
+</ol>
+<p>3. La facture mensuelle ne sera traitée aux fins de paiement que si :</p>
+<ol type="a">
+<li>le responsable technique a reçu tous les rapports sur les demandes de services d'entretien du mois, conformément à la description de l'article « _____» de l'énoncé des travaux; et</li>
+<li>les rapports d'entretien mensuels décrits dans les articles « _____» et « _____» de l'énoncé des travaux sont annexés à la facture mensuelle.</li>
+</ol>
+<p>4. L'original et deux (2) copies des factures, ainsi que les rapports mensuels, doivent être transmis à :<br/>
+					À l'attention de : _____</p>
+<p>5. Une copie de la facture et une copie des rapports mensuels doivent être envoyées au :</p>
+<p>Ministère des Travaux publics et des Services gouvernementaux
+				</p>
+<p>À l'attention de : ______.</p>
+<hr/>
+<p><strong>H3021D (xx/xx/xx) Instructions relatives à la facturation</strong></p>
+<p><strong>Remarques : </strong>Nonobstant ce qui est incorporé sous forme de renvois utilisez la clause suivante dans tous les contrats à moins que la version mise à jour ne soit incorporée de la manière prescrite par les règlements.</p>
+<p>Utilisez la clause suivante pour fournir des instructions de facturation, dans le cas des besoins faisant l'objet d'un paiement unique à la livraison et à l'acceptation.</p>
+<p><strong>Texte :</strong></p>
+<p>1. Les paiements ne seront effectués qu'à la réception de factures appropriées dûment accompagnées des documents de sortie spécifiés et des autres documents requis en vertu du contrat attribué.</p>
+<p>2. Les factures doivent être fournies en utilisant le formulaire de l'entrepreneur et contenir les renseignements suivants :</p>
+<ol type="a">
+<li>date;</li>
+<li>nom et adresse du DESTINATAIRE;</li>
+<li>numéro d'article et de renvoi, produit et description des travaux;</li>
+<li>numéro de série du contrat et codes financiers;</li>
+<li>montant facturé (excluant la taxe sur les produits et services [TPS] ou la taxe de vente harmonisée [TVH]) et le montant dela TPS ou TVH s'il y a lieu, montré séparément;</li>
+<li><strong><em>Numéro de référence du client (NRC).</em></strong></li>
+</ol>
+<hr/>
+<p><strong>H5001D (xx/xx/xx) Instructions pour la facturation</strong></p>
+<p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT</strong>.</p>
+<p>La clause suivante se rapporte aux contrats d'entretien facturés chaque mois.</p>
+<p><strong>Texte :</strong></p>
+<p>1. L'entrepreneur doit soumettre ses factures sur son propre formulaire et doit rappeler le renseignements suivants : la date, le nom et l'adresse du consignataire, le numéro de l'article, la quantité, le numéro de pièce, le numéro de référence, la description, <strong><em>numéro de référence du client (NRC)</em></strong>, ainsi que les numéros de dossier contractuel et de série. Les exemplaires des factures doivent être répartis comme suit:</p>
+<ol type="a">
+<li>l'original et un exemplaire au consignataire;</li>
+<li>un (1) exemplaire à :<br/>
+						Ministère des Travaux publics et des Services gouvernementaux<br/>
+						(Division) ______<br/>
+						(Adresse) ______<br/>
+						(Ville/prov.) ______<br/>
+						(Code postal) ______<br/>
+						À l'attention de ______</li>
+<li>un (1) exemplaire au :<br/>
+						Quartier général de la Défense nationale<br/>
+						Immeuble Mgén George R. Pearkes<br/>
+						101, Promenade du Colonel By<br/>
+						Ottawa (ON) K1A 0K2<br/>
+						À l'attention de _____</li>
+</ol>
+<p>2. Le Canada ne paiera les factures que si elles sont satisfaisantes et justifiées en bonne et due forme par les documents d'autorisation précisés et tous les autres documents exigés dans le contrat.</p>
+<p>3. L'entrepreneur ne doit pas soumettre de factures avant l'expédition des biens auxquels elles se rapportent.</p>
+<hr/>
+<p><strong>H5002D (xx/xx/xx) Factures</strong></p>
+<p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT</strong>.</p>
+<p>Utiliser cette clause pour les travaux à effectuer pour les recherches et appuis techniques.</p>
+<p>1. L'entrepreneur doit soumettre des factures mensuelles pour les travaux autorisés dans le cadre du contrat. Chaque facture doit indiquer clairement :</p>
+<ol type="a">
+<li>le numéro de série du contrat;</li>
+<li>le prix du contrat;</li>
+<li>le numéro d'autorisation du travail;</li>
+<li>la classification de recherches et d'appuis techniques;</li>
+<li>le taux de paiement;</li>
+<li>le nombre d'heures applicables au travail;</li>
+<li>le coût des matériaux relatifs au travail;</li>
+<li>les dépenses de voyages afférentes;</li>
+<li><strong><em>le numéro de référence du client (NRC)</em></strong>.</li>
+</ol>
+<p>2. On doit adresser l'original et deux (2) exemplaires de chaque facture, avec les pièces jointes, au :</p>
+<p>Quartier général de la Défense nationale<br/>
+					Immeuble Mgén George R. Pearkes<br/>
+					101, Promenade du Colonel By<br/>
+					Ottawa (ON) K1A 0K2<br/>
+					À l'attention de _____</p>
+<p>3. On doit adresser à l'autorité contractante un exemplaire de chaque facture, avec les pièces jointes.</p>
+<hr/>
+<p><strong>K0036D (xx/xx/xx) Instructions et conditions uniformisées, DSS-MAS 9403</strong></p>
+<p><strong>Remarques</strong> : Nonobstant ce qui est incorporé sous forme de renvois utilisez la clause suivante dans tous les contrats à moins que la version mise à jour ne soit incorporée de la manière prescrite par les règlements.</p>
+<p><strong>Texte :</strong></p>
+<p>1. DSS-MAS 9403, Instructions et conditions uniformisées, avec les modifications suivantes, s'appliqueront et feront partie du présent contrat.</p>
+<p><strong>B. CONDITIONS (APPLICABLES AUX CONTRATS SUBSÉQUENTS)</strong></p>
+<p>« <strong>8. Connaissement</strong> est remplacé par l'article suivant :</p>
+<p>Le connaissement de transport doit accompagner l'original de la facture, sauf s'il s'agit d'expéditions « payables sur livraison » (lorsqu'autorisé), auquel cas il doit accompagner la marchandise; en outre, un bordereau d'expédition doit accompagner chaque envoi et indiquer clairement le nom des articles, la quantité d'articles, les numéros de pièce ou de référence, la description des articles et les numéros de référence du contrat, <strong><em>incluant le numéro de référence du client (NRC).</em></strong> Si les biens ont été inspectés à l'usine de l'entrepreneur, un certificat d'inspection signé doit être annexé au bordereau d'expédition normalement inclus dans l'enveloppe prévue à cette fin.</p>
+<p><strong>9. Présentation des factures</strong> est remplacé par l'article suivant :</p>
+<p>Les factures doivent être établies au nom de l'entrepreneur et elles ne doivent pas être envoyées avant que les biens n'aient été livrés ou que les services n'aient été rendus. On doit trouver sur les factures le nom et l'adresse du destinataire, la date, le mode d'expédition, le numéro de caisse s'il y a lieu, le nom des articles et leur quantité, l'unité de distribution, le prix unitaire, la taxe sur les produits et services ou la taxe de vente harmonisée s'il y a lieu, les numéros de pièce ou de référence, la description des articles visés dans le contrat, le numéro du contrat, le numéro de la demande, <strong><em>le numéro de référence du client (NRC)</em></strong> et les codes financiers. Des factures distinctes doivent être présentées pour chaque envoi et ne doivent s'appliquer qu'à un seul contrat. Chaque facture doit indiquer si elle s'applique à un envoi partiel ou à l'envoi Final.»</p>
+<hr/>
+<p><strong>K0037D     (xx/xx/xx)    Offres à commandes, DSS-MAS 9403-6</strong></p>
+<p><strong>Remarques</strong> : Nonobstant ce qui est incorporé sous forme de renvois utilisez la clause suivante dans tous les contrats à moins que la version mise à jour ne soit incorporée de la manière prescrite par les règlements.</p>
+<p><strong>Texte: :</strong></p>
+<p>1. DSS-MAS 9403-6, Offre à commandes, avec les modifications suivantes, s'appliqueront et feront partie du présent contrat.</p>
+<p><strong>C. CONDITIONS</strong></p>
+<p><strong>4. Factures</strong> est remplacé par l'article suivant :</p>
+<p>Les factures doivent être établies au nom du proposant et elles ne doivent pas être envoyées avant que les biens n'aient été livrés ou que les services n'aient été rendus. On doit trouver sur les factures le nom et l'adresse du destinataire, la date, le mode d'expédition, le numéro de caisse s'il y a lieu, le nom des articles et leur quantité, l'unité de distribution, le prix unitaire, les frais additionnels s'il y a lieu et la taxe sur les produits et services ou la taxe de vente harmonisée le cas échéant, les numéros de pièce ou de référence, la description des articles visés dans l'offre à commandes, le numéro de l'offre à commandes, le numéro de la demande, <strong><em>le numéro de référence du client (NRC)</em></strong> et les codes financiers. Des factures distinctes doivent être présentées pour chaque envoi et ne doivent s'appliquer qu'à une seule commande. Chaque facture doit indiquer si elle s'applique à un envoi partiel ou à l'envoi Final.</p>
+<p><strong>5. Connaissement</strong> est remplacé par l'article suivant :</p>
+<p>Le connaissement de transport doit accompagner l'original de la facture, sauf s'il s'agit d'expéditions « payables sur livraison » (lorsqu'autorisés), auquel cas il doit accompagner la marchandise; en outre, un bordereau d'expédition doit accompagner chaque envoi et indiquer clairement le nom des articles, la quantité d'articles, les numéros de pièce ou de référence, la description des articles et les numéros de référence du contrat <strong><em> incluant le numéro de référence du client (NRC).</em></strong> Si les biens ont été inspectés à l'usine du proposant, un certificat d'inspection signé doit être annexé au bordereau d'expédition normalement inclus dans l'enveloppe prévue à cette fin.</p>
+<hr/>
+				&gt;
+<p><strong>P5015C Facturation, Directives concernant la</strong></p>
+<p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT.</strong>La clause suivante se rapporte aux contrats d'entretien facturés chaque mois.</p>
+<p><strong>Texte :</strong></p>
+<p>1. Deux (2) factures distinctes doivent être présentées, en trois (3) copies, de la façon suivante :</p>
+<ol type="a">
+<li>Poster la première facture à la :<br/>
+						Éditions du gouvernement du Canada<br/>
+						Direction générale des services de coordination des communications<br/>
+						350, rue Albert, 4e étage<br/>
+						Ottawa (Ontario) K1A 0S5<br/>
+						Nº de référence et code financier _____<br/>
+<strong><em>Numéro de référence du client (NRC)</em></strong>_____</li>
+<li>Montant forfaitaire par lot de _____$</li>
+<li>Poster la deuxième facture à :<br/>
+						(Ministère) : _____<br/>
+						(Division) : _____<br/>
+						(Adresse) : _____<br/>
+						(Ville-Prov.) :_____<br/>
+						(Code postal) : _____<br/>
+						Nº de référence et code financier _____<br/>
+<strong><em>Numéro de référence du client (NRC)</em></strong>_____</li>
+</ol>
+<p>2. S'applique à tous les biens livrés à tous les destinataires (y compris les biens à livrer à Éditions du gouvernement du Canada, Direction générale des services de coordination des communications ([EGC, DGSCC]) répertoriés conformément à la liste de prix du présent contrat. La facture doit en outre indiquer l'escompte s'appliquant au montant que la DGSCC doit payer aux termes de l'alinéa ci-dessus.</p>
+<p>3. Toutes les factures et tous les bordereaux de livraison et d'emballage doivent porter le numéro de référence, <strong><em>numéro de référence du client (NRC)</em></strong> et le code financier tel qu'indiqué ci-dessus.</p>
+<hr/>
+<p><strong>Y4000D (xx/xx/xx) Expédition - Modalités</strong></p>
+<p><strong>Remarques :</strong>Inclure dans toutes les demandes de soumissions et tous les contrats passés au nom de l'ACDI lorsque l'expédition se fait par mer (FLN port ou FAB usine) ou par air (FAB aéroport ou FAB usine).</p>
+<p><strong>Texte :</strong></p>
+<p>1. La Section du transport outre-mer, Direction des produits commerciaux et de consommation, ministère des Travaux publics et des Services gouvernementaux (MTPSG), Place du Portage, Phase III, Gatineau (Québec) K1A 0S5, est chargée de faire connaître les modalités d'expédition et de transport des marchandises outre-mer.</p>
+<p>Aucune expédition ne doit être effectuée avant réception des instructions de la section du transport outre-mer qui ne les enverra à l'entrepreneur qu'après avoir reçu les documents cités au paragraphe 3a).</p>
+<p>2. Tous les documents doivent préciser les numéros de code financier, de contrat et du consignataire. Les factures doivent indiquer le numéro d'article du contrat, <strong><em>le numéro de référence du client (NRC)</em></strong> la description des marchandises et leur valeur. La liste de caisses doit préciser en détail le contenu de chaque boîte, caisse, etc., de même qu'indiquer les dimensions, le volume d'encombrement et le poids brut de chaque boîte, caisse, etc.</p>
+<p>3. Les documents doivent être présentés pour chaque expédition et doivent préciser s'il s'agit d'une expédition partielle ou complète.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

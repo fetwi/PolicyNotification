@@ -1,0 +1,26 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Introduction</h2>
+<p>The purpose of this Policy Notification (PN)-75U1 is to provide instructions to Public Works and Government Services Canada (PWGSC) contracting officers on how to complete procurement reporting (i.e. coding) after issuing a task authorization (TA) contract or TA contract amendment.</p>
+<h2>Policy</h2>
+<p>Contracting officers must continue to follow the instructions in PN-75.  In addition, as of 01 April 2009, after issuing a TA contract or TA contract amendment, contracting officers must report on the procurement as follows: </p>
+<ol type="a">
+<li>For Automated Buyer Environment (ABE) users: on the main page of the Procurement Summary, click on "Program Id," and select "Contract that allows Task Authorizations."</li>
+<li>For Automated Data Capture (ADC) users: include the following statement when submitting the ADC procurement report, "Program ID: Contract that allows Task Authorizations."</li>
+</ol>
+<p>Contracting officers are reminded that all procurement reporting must be done accurately as the information is used in the reports below, which are required to meet legal, policy, corporate and parliamentary needs:</p>
+<ol type="i">
+<li>posting award notices on Government Electronic Tendering Service (GETS);</li>
+<li>annual government-wide "Purchasing Activity Reports";</li>
+<li>Buy and Sell "Contract History" database;</li>
+<li>Comprehensive Land Claim Agreement contract reporting;</li>
+<li>Procurement Strategy for Aboriginal Business reporting;</li>
+<li>trade agreements.</li>
+</ol>
+<h2>Revisions to the Supply Manual</h2>
+<p>These changes will be incorporated into the next release of the Supply Manual.</p>
+<h2>Contact</h2>
+<p>For inquiries related to reporting on task authorization contracts, contact Veronica Nazareth, Acquisition Policy and Process Directorate, at 819-956-5024, or via e-mail to : <a href="mailto:veronica.nazareth@pwgsc-tpsgc.gc.ca" rel="external">veronica.nazareth@pwgsc-tpsgc.gc.ca</a>.</p>
+<p>For general inquiries about procurement reporting, send an e-mail to : <a href="mailto:ncr.ACQBReporting@pwgsc-tpsgc.gc.ca" rel="external">ncr.ACQBReporting@pwgsc-tpsgc.gc.ca</a>.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

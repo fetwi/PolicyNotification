@@ -1,0 +1,211 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-85cont" name="cont"><br/>
+AP-85 :	Sécurité des contrats et changements au formulaire de demande 9200</a></h1> <div class="region region-site-wide-message">
+<section id="AP-85site-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-85site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-85site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><strong>DATE :	Le 31 octobre 2007</strong></p>
+<h2>Introduction</h2>
+<p>Le présent avis relatif aux politiques (AP-85) a pour but d'informer les agents de négociation des contrats des nouvelles exigences relatives à la sécurité des marchés et au formulaire de demande PWGSC-TPSGC 9200, et d'incorporer de nouvelles procédures dans le <em>Guide des approvisionnements</em>.</p>
+<h2>Politique</h2>
+<p>Cet avis relatif aux politiques, qui entre en vigueur immédiatement, comprend des instructions et des directives à l'intention des agents de négociation des contrats, ceci afin :</p>
+<ol type="a">
+<li>de clarifier les exigences en matière de sécurité qui s'appliquent non seulement aux marchés, mais aussi aux offres à commandes (OC), aux arrangements en matière d'approvisionnement (AA) et aux modifications;
+</li>
+<li>d'assurer l'établissement et la consignation de procédures d'atténuation des risques de sécurité dans l'attente d'attestations de sécurité;
+</li>
+<li>de fournir à la Direction de la sécurité industrielle canadienne (DSIC) une copie du contrat, de l'OC, de l'AA ou de la modification dans les deux jours qui suivent l'émission du document;
+</li>
+<li>d'informer immédiatement la DSIC de l'annulation des commandes.</li>
+</ol>
+<p>Les agents de négociation des contrats doivent également prendre note que le formulaire PWGSC-TPSGC 9200 (Demande de biens, services et construction) a été mis à jour et que sa section sur la sécurité est maintenant révisée. Le client doit désormais indiquer si la commande comprend des exigences en matière de sécurité <strong>et</strong> si une Liste de vérification des exigences relatives à la sécurité (LVERS) est nécessaire. Si ce n'est pas le cas, mais que la commande comprend effectivement des exigences en matière de sécurité, le client doit expliquer pourquoi dans la commande (p. ex., un achat qui invoque l'exception au titre de la sécurité nationale d'un accord commercial). La section révisée sur la sécurité exige aussi du client qu'il certifie que la commande, y compris toute LVERS qui y est annexée, décrit exactement les exigences en matière de sécurité du besoin. Il est de la responsabilité du client de déterminer le niveau de pouvoir de signature du personnel autorisé à accorder la certification de sécurité pour la commande; cela dit, il est attendu que le responsable technique ou chargé de projet du client complétera la certification. Les agents de négociation des contrats doivent examiner la demande pour s'assurer qu'on a bien utilisé la plus récente version du formulaire, que la section sur la sécurité est bien remplie et certifiée, et que toute LVERS nécessaire est jointe à la demande.</p>
+<p>Le formulaire PWGSC-TPSGC 9200 a de plus été modifié pour signifier clairement aux clients que la certification des deux blocs-signature suivants est obligatoire :</p>
+<ol type="a">
+<li>« En vertu du paragraphe 32(1) de la <em>Loi sur la gestion des finances publiques</em>, des fonds sont disponibles. »
+</li>
+<li>« Je, soussigné, approuve la présente demande, certifie que les approbations requises ont été obtenues et demande à TPSGC d'obtenir les biens et services décrits dans les présentes. »</li>
+</ol>
+<p>La certification du paragraphe 32(1) est obligatoire; la <em>Loi sur la gestion des finances publiques</em> l'exige. Certifier que « les approbations requises ont été obtenues » n'équivaut pas à certifier que des fonds sont disponibles en vertu du paragraphe 32(1). Les agents de négociation des contrats doivent s'assurer que ces deux sections de la demande sont signées, ainsi que la nouvelle section de certification de la sécurité.</p>
+<p>					Les agents de négociation des contrats doivent également prendre note que les formulaires de commande subséquente PWGSC-TPSGC 236, 942, 942-2, 945 et les formulaires de contrats d'AA PWGSC-TPSGC 9170 et 9200-11 ont été modifiés pour signifier clairement aux clients que la certification des deux blocs-signature suivants est obligatoire :</p>
+<ol type="a">
+<li>« En vertu du paragraphe 32(1) de la <em>Loi sur la gestion des finances publiques</em>, des fonds sont disponibles. »
+</li>
+<li>« Approuvé pour le Ministre »</li>
+</ol>
+<p>Le formulaire de contrat d'AA PWGSC-TPSGC 9200-11 a aussi été modifié afin qu'il comprenne la même section sur la sécurité que les formulaires de commande subséquente.</p>
+<h2>Révisions</h2>
+<p>L'<a href="#AP-85annexa">Annexe A</a> du présent document contient la liste des changements au <em>Guide des approvisionnements</em>. Ces changements seront incorporés dans la version 07-02 du <em>Guide des approvisionnements</em>, qui sera publiée le 30 novembre 2007.</p>
+<p> Il est à noter que le <em>Guide des approvisionnements</em> est un document évolutif. La version électronique du Guide, disponible sur le site Web de TPSGC, est habituellement mise à jour deux fois l'an et, entre ces mises à jour, révisée de façon provisoire par voie d'avis relatifs aux politiques.</p>
+<h2>Personne ressource</h2>
+<p><strong>S/O</strong></p>
+<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Haut de la page</a></div>
+<hr/>
+<h2><a id="AP-85annexa" name="annexa"></a>Annexe A - RÉVISIONS AU GUIDE DES APPROVISIONNEMENTS</h2>
+<h3>Chapitre 1 - Vue d'ensemble</h3>
+<h4>Achats de Travaux publics et Services gouvernementaux Canada</h4>
+<p>1.001 (2007-xx-xx) Le présent guide décrit les activités d'approvisionnement de Travaux publics et Services gouvernementaux Canada (TPSGC). Il contient les lois, politiques et règlements pertinents du gouvernement et du Ministère. On y explique pourquoi et comment le Ministère mène ses activités d'approvisionnement. Il a été écrit à l'intention des agents de négociation des contrats de TPSGC.</p>
+<p>					Ce guide est un document évolutif, puisque le cadre législatif, politique et méthodologique pour les marchés publics n'est pas statique. La version électronique du <em>Guide des approvisionnements</em>, disponible sur le site Web de TPSGC, est habituellement mise à jour deux fois l'an. Des avis relatifs aux politiques permettent, de façon provisoire, la mise en œuvre de politiques et de procédures, nouvelles ou modifiées, ou de dispositions et de conditions générales, jusqu'à ce qu''il soit possible de les incorporer dans les guides appropriés, soit le <em>Guide des clauses et conditions uniformisées d'achat</em> ou le <em>Guide des approvisionnements</em>.</p>
+<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Haut de la page</a></div>
+<h3>Chapitre 3 - Réception d'une commande</h3>
+<h4>Examen</h4>
+<p><strong>Exigences en matière de sécurité industrielle</strong></p>
+<p>3.009 (2007-xx-xx) Toutes les commandes et modifications aux commandes pour des contrats, des offres à commandes (OC) et arrangements en matière d'approvisionnement (AA) qui comportent des exigences en matière de sécurité relative aux installations, à la technologie de l'information ou au personnel, doivent inclure la Liste de vérification des exigences relatives à la sécurité (LVERS). Le client peut remplir la version électronique de la LVERS (<em>nommée E-LVERS</em>) grâce au service en ligne ou remplir la version papier du formulaire TBS/SCT 350-103.</p>
+<p>					La Direction de la sécurité industrielle canadienne (DSIC) de Travaux publics et Services gouvernementaux Canada (TPSGC) est responsable d'administrer la composante relative à la sécurité dans les contrats du Programme de sécurité industrielle.</p>
+<p>					Le service en ligne à l'appui de la LVERS de la DSIC permet aux clients de remplir le formulaire sur Internet dans un environnement sécurisé. Avec le service en ligne, la DSIC peut fournir les clauses relatives à la sécurité à insérer dans la demande de soumissions avant d'avoir reçu la copie papier du formulaire, ce qui permet d'accélérer le processus.  Une fois la LVERS reçue par la DSIC, il faut à celle-ci deux (2) jours ouvrables pour fournir les clauses relatives à la sécurité dans le cas d'une E-LVERS et quinze (15) jours ouvrables dans le cas d'une copie papier du LVERS.</p>
+<ol type="a">
+<li>Voici la marche à suivre lorsque le ministère client a choisi d'utiliser le service en ligne à l'appui de la LVERS :<br/>
+<ol type="i">
+<li>Le ministère client remplit le formulaire électronique et le soumet à l'agent de sécurité du Ministère (ASM) ou au responsable délégué de la sécurité, qui donnera son approbation par voie électronique.
+</li>
+<li>L'ASM vérifie le contenu du formulaire et, si tout est conforme, approuve celui-ci avant de l'acheminer à la DSIC par courriel en vue de la préparation des clauses relatives à la sécurité. L'ASM peut également envoyer des copies conformes de ce courriel au client et à l'agent de négociation des contrats, si on connaît l'identité de ce dernier.
+</li>
+<li>La DSIC répond au courriel de l'ASM, en envoyant des copies conformes à tous ceux figurant sur la liste de destinataires, et indique toutes les clauses relatives à la sécurité devant être insérées dans la demande de soumissions et le contrat, l'OC ou l'AA subséquent.
+</li>
+<li>Le ministère client doit envoyer la commande à TPSGC en utilisant la dernière version du formulaire, la section sur la sécurité remplie et certifiée. La commande doit être accompagnée d'une copie papier du formulaire portant les signatures du « chargé de projet de l'organisme » (bloc 13) et du « responsable de la sécurité de l'organisme » (bloc 14). Il doit s'agir de la copie originale du formulaire ou d'une télécopie d'excellente qualité.
+</li>
+<li>L'agent de négociation des contrats doit examiner la demande pour s'assurer qu'on a bien utilisé la plus récente version du formulaire, que la section sur la sécurité est bien remplie et certifiée, et que toute LVERS nécessaire est jointe à la demande. L'agent doit aussi en aviser le ministère client, qui lui transmettra ensuite le courriel de la DSIC, y compris la E-LVERS et les clauses fournies par la DSIC. L'agent de négociation des contrats peut ensuite inclure le formulaire et les clauses à la demande de soumissions et procéder à la diffusion de ce dernier en veillant à respecter toutes les politiques et procédures applicables.
+</li>
+<li>Pour obtenir la signature d'un représentant de la DSIC sur la copie papier du formulaire qui sera annexée au contrat, à l'OC ou à l'AA, l'agent de négociation des contrats doit envoyer les documents suivants à la DSIC par la poste ou par télécopieur :
+<ul>
+<li>le formulaire LVERS;</li>
+<li>la page couverture de la commande ou de la modification;</li>
+<li>une copie des sections de la commande ou des documents de modification qui contiennent des énoncés concernant la sécurité;</li>
+<li>s'il y a lieu, une courte liste des fournisseurs éventuels recensés.
+</li>
+</ul>
+<p>								L'agent de négociation des contrats doit également informer la DSIC :</p>
+<ul>
+<li>si la demande de soumissions doit mener à l'attribution d'un contrat, d'une OC ou d'un AA; </li>
+<li>de la durée du contrat, de l'OC ou de l'AA.
+</li>
+</ul>
+<p>								Dans le cas des commandes menant à l'émission d'une OC ou d'un AA, l'agent de négociation des contrats doit fournir à la DSIC une copie de la demande d'offre à commandes ou de la demande pour un arrangement en matière d'approvisionnement, selon le cas. Dans le cas des commandes menant à l'attribution d'un contrat, la DSIC n'exigera pas normalement de copie de la demande de soumissions.</p>
+</li>
+<li>La DSIC examinera les documents, signera le formulaire à titre d'autorité contractante en matière de sécurité (bloc 17) et retournera le formulaire signé à l'agent de négociation des contrats. Le formulaire signé, de même que de l'information sur la cote de sécurité de l'organisation de tout entrepreneur éventuel recensé, seront annexés au contrat, à l'OC ou l'AA.
+</li>
+<li>Avant que le contrat ne soit attribué, l'agent de négociation des contrats doit vérifier auprès de la DSIC si l'entrepreneur proposé satisfait aux exigences en matière de sécurité énoncées dans la demande de soumissions. L'agent de négociation des contrats doit également s'assurer que tous les sous-traitants qui auront accès aux lieux des travaux ou à des renseignements sensibles ou classifiés satisfont aussi aux exigences en matière de sécurité énoncées dans la demande de soumissions. Si l'entrepreneur proposé et les sous-traitants nécessaires satisfont à ces exigences, l'agent de négociation des contrats doit signer le formulaire (bloc 16) et annexer au contrat, à l'OC ou à l'AA subséquent le formulaire portant toutes les signatures requises.
+</li>
+<li>L'agent de négociation des contrats doit fournir à la DSIC une copie du contrat, de l'OC, de l'AA ou des modifications dans les deux (2) jours ouvrables qui suivent l'émission du document. Les agents de négociation des contrats peuvent faire parvenir une version PDF du document par courriel à « SNCR ISR CONTRACTS », avec Microsoft Outlook, ou à <a href="mailto:sncrcontracts@tpsgc-pwgsc.gc.ca" rel="external">sncrcontracts@tpsgc-pwgsc.gc.ca</a>.
+</li>
+<li>Lorsqu'une commande est annulée, l'agent de négociation des contrats doit en informer immédiatement la DSIC.
+</li>
+</ol>
+</li>
+<li>Voici la marche à suivre lorsque le ministère client a choisi d'utiliser la version papier du formulaire LVERS, sans avoir recours au service en ligne à l'appui de la DSIC :<br/>
+<ol type="i">
+<li>Le ministère client remplit la copie papier du formulaire TBS/SCT 350-103 et obtient la signature de l'agent de sécurité du Ministère ou du responsable délégué de la sécurité (bloc 14). Le ministère client doit envoyer la commande à TPSGC en utilisant la dernière version du formulaire, la section sur la sécurité remplie et certifiée, et en y annexant le formulaire signé. Il doit s'agir de la copie originale du formulaire ou d'une télécopie d'excellente qualité.
+</li>
+<li>L'agent de négociation des contrats doit examiner la demande pour s'assurer qu'on a bien utilisé la plus récente version du formulaire, que la section sur la sécurité est bien remplie et certifiée, et que toute LVERS nécessaire est jointe à la demande.
+<p>								L'agent de négociation des contrats doit envoyer les documents suivants à la DSIC par la poste ou par télécopieur :</p>
+<ul>
+<li>le formulaire LVERS;</li>
+<li>la page couverture de la commande ou de la modification;</li>
+<li>une copie des sections de la commande ou des documents de modification qui contiennent des énoncés concernant la sécurité;</li>
+<li>s'il y a lieu, une courte liste des fournisseurs éventuels recensés.
+</li>
+</ul>
+<p>								L'agent de négociation des contrats doit également informer la DSIC :</p>
+<ul>
+<li>si la demande de soumissions doit mener à l'attribution d'un contrat, d'une OC ou d'un AA;
+									</li>
+<li>de la durée du contrat, de l'OC ou de l'AA.
+</li>
+</ul>
+</li>
+<li>La DSIC examinera les documents et signera le formulaire à titre d'autorité contractante en matière de sécurité (bloc 17). Elle retournera ensuite le formulaire signé, accompagné des clauses de sécurité appropriées et de renseignements sur la cote de sécurité de l'organisation de tout entrepreneur éventuel recensé. L'agent de négociation des contrats pourra par la suite inclure le formulaire et les clauses dans la demande de soumissions. (La page du formulaire contenant les signatures n'a pas à être incluse dans la demande de soumissions, mais elle doit être annexée au contrat subséquent.)
+<p>								Dans le cas des commandes menant à l'émission d'une OC ou d'un AA, l'agent de négociation des contrats doit fournir à la DSIC une copie de la demande d'offre à commandes ou de la demande pour un arrangement en matière d'approvisionnement, selon le cas. Dans le cas des commandes menant à l'attribution d'un contrat, la DSIC n'exigera pas normalement de copie de la demande de soumissions.</p>
+</li>
+<li>Avant que le contrat ne soit attribué, l'agent de négociation des contrats doit vérifier auprès de la DSIC si l'entrepreneur proposé satisfait aux exigences en matière de sécurité énoncées dans la demande de soumissions. L'agent de négociation des contrats doit également s'assurer que tous les sous-traitants qui auront accès aux lieux des travaux ou à des renseignements sensibles ou classifiés satisfont aussi aux exigences en matière de sécurité énoncées dans la demande de soumissions. Si l'entrepreneur proposé et les sous-traitants nécessaires satisfont à ces exigences, l'agent de négociation des contrats doit signer le formulaire (bloc 16) et annexer au contrat, à l'OC ou à l'AA subséquent le formulaire portant toutes les signatures requises.
+</li>
+<li>L'agent de négociation des contrats doit fournir à la DSIC une copie du contrat, de l'OC, de l'AA et de toute modification dans les deux (2) jours ouvrables qui suivent l'émission du document. Les agents de négociation des contrats peuvent faire parvenir une version PDF du document par courriel à « SNCR ISR CONTRACTS », avec Microsoft Outlook, ou à <a href="mailto:sncrcontracts@tpsgc-pwgsc.gc.ca" rel="external">sncrcontracts@tpsgc-pwgsc.gc.ca</a>.
+</li>
+<li>Lorsqu'une commande est annulée, l'agent de négociation des contrats doit en informer immédiatement la DSIC.</li>
+</ol>
+</li>
+</ol>
+<p><strong>Liste de contrôle des commandes</strong></p>
+<p>3.020 (2007-xx-xx) Chaque commande doit être examinée afin de vérifier si elle est acceptable en s'assurant qu'elle est dûment codée et remplie pour que les activités d'achat puissent se poursuivre. Pour ce faire, on doit vérifier les points suivants :</p>
+<ul>
+<li>La commande a-t-elle été correctement attribuée?
+</li>
+<li>La commande a-t-elle été correctement approuvée? Le ministère client doit certifier :<br/>
+<ol type="a">
+<li>qu'en vertu du paragraphe 32(1) de la <em>Loi sur la gestion des finances publiques</em>, des fonds sont disponibles;
+</li>
+<li>que la demande est approuvée, que les approbations requises ont été obtenues et que le client demande à TPSGC d'obtenir les biens et services décrits dans la commande.
+</li>
+<li>que la commande, y compris toute LVERS qui y est annexée, décrit exactement les exigences en matière de sécurité du besoin.
+</li>
+</ol>
+<p>						On considère que les commandes reçues par l'entremise des interfaces électroniques ACHATNET (demandes sur Internet) ou IUEAA (interface universel de l'EAA) ont été dûment autorisées, avec toutes les signatures requises conformément à la <em>Loi sur la gestion des finances publiques</em>.</p>
+</li>
+<li>La section de la demande portant sur la sécurité a-t-elle été remplie? Si une Liste de vérification des exigences relatives à la sécurité est requise, est-elle jointe à la commande?</li>
+</ul>
+<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Haut de la page</a></div>
+<h3>Chapitre 5 - Stratégie de sélection des fournisseurs</h3>
+<h4>Offres à commandes</h4>
+<p><strong>Sécurité industrielle</strong></p>
+<p>5.186 (2007-xx-xx) L'agent de négociation des contrats doit déterminer, en collaboration avec le client :</p>
+<ol type="a">
+<li>la cote minimum de sécurité dont doivent justifier les offrants intéressés pour participer à la méthode d'approvisionnement de l'offre à commandes.
+<p>						Les exigences relatives à la sécurité doivent être précisées dans la demande d'offres à commandes et dans l'autorisation de passer une offre à commandes et des commandes subséquentes.  Les commandes subséquentes doivent, le cas échéant, faire état d'exigences en matière de sécurité conformes aux clauses et aux conditions de l'offre à commandes.  Il faut joindre à ces commandes la Liste de vérification des exigences relatives à la sécurité, dont on doit transmettre une copie à la Direction de la sécurité industrielle canadienne de TPSGC pour suivi, lorsqu'on passe ces commandes.</p>
+<p> <strong>OU</strong></p>
+</li>
+<li>Si on ne doit pas utiliser l'offre à commandes avec des commandes subséquentes, dans les cas où il faut exiger une cote de sécurité à quelque niveau que ce soit.</li>
+</ol>
+<p><em>Voir 3.009, 6C.270 - 6C.278, et 7E.534 - 7E.536 pour plus de renseignements concernant le traitement des approvisionnements avec des exigences en matière de sécurité.</em></p>
+<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Haut de la page</a></div>
+<h3>Section 6C : Gestion des risques</h3>
+<h4>Exigences en matière de sécurité industrielle (personnel ou organismes)</h4>
+<p>6C.271 (2007-xx-xx) Les renseignements ou biens de nature délicate (protégés ou classifiés), destinés à l'extérieur du Canada, doivent passer par la Section du contrôle des documents (SCD) de la DSIC seulement. La SCD s'occupera de la transmission et de la réception ultérieures par l'intermédiaire de réseaux sécuritaires approuvés.</p>
+<p>6C.272 (2007-xx-xx) Sur réception du formulaire TBS/SCT 350-103, Liste de vérification des exigences relatives à la sécurité (LVERS) (voir 3.009 pour la marche à suivre détaillée concernant le traitement du formulaire), la DSIC :</p>
+<ol type="a">
+<li>révisera le formulaire et les pièces jointes pour vérifier si elles sont complètes et claires et si les signatures autorisées y ont été apposées;
+</li>
+<li>obtiendra des précisions de l'agent de négociation des contrats de Travaux publics et Services gouvernementaux Canada (TPSGC) qui effectuera ensuite la liaison avec le ministère client, au besoin;
+</li>
+<li>fera en sorte que les pays participants ont le bon protocole d'entente, les bons arrangements et les bonnes ententes avec le Canada en matière de sécurité industrielle;
+</li>
+<li>signera le formulaire LVERS en tant que le responsable contractuel de la sécurité et fournira à l'agent de négociation des contrats la clause appropriée relative aux exigences en matière de sécurité;
+</li>
+<li>fournira des renseignements quant au statut sécuritaire de l'organisation détenu par les fournisseurs potentiels identifiés;
+</li>
+<li>fournira aux fournisseurs canadiens les instructions sur la préparation et la transmission des renseignements ou biens protégés. Les biens ou les renseignements classifiés devront être envoyés à la SCD.</li>
+</ol>
+<p>6C.273 (2007-xx-xx) Une demande de soumission peut prévoir, en tant qu'exigence technique obligatoire, que l'organisme soit tenu d'obtenir une attestation de sécurité appropriée au plus tard à la date limite des soumissions, en s'assurant qu'une telle exigence ne puisse être interprétée comme élément discriminatoire injuste entre les fournisseurs éventuels. L'organisme peut également obtenir l'attestation de sécurité après que l'entrepreneur éventuel a été choisi, à la condition que la demande ne contienne aucun renseignement de nature délicate (protégé ou classifié). (<em>Voir 3.009 et 7E.534 - 7E.536 pour plus de renseignements concernant le traitement des approvisionnements avec exigences en matière de sécurité.</em>)</p>
+<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Haut de la page</a></div>
+<h3>Section 7E : Adjudication des contrats</h3>
+<h4>Vérification de la conformité du statut sécuritaire du personnel et de l'organisation aux exigences de sécurité</h4>
+<p>7E.534 (2007-xx-xx) Si un contrat proposé prévoit des exigences relatives à la sécurité à l'égard du personnel, de la technologie de l'information et des installations, une copie des documents pertinents doit être envoyée, avant que ne soit attribué le contrat, à la Direction de la sécurité industrielle canadienne (DSIC) afin que l'on puisse vérifier que toutes les mesures de sécurité nécessaires y sont traitées. (<em>Voir 3.009 et 6C.270 - 6C.278 pour plus de renseignements concernant le traitement des approvisionnements avec des exigences en matière de sécurité.</em>)</p>
+<p>7E.535 (2007-xx-xx) Lorsque l'entrepreneur doit commencer les travaux pour des raisons urgentes avant l'émission des attestations de sécurité, le ministère client doit d'abord soumettre à l'agent de négociation des contrats, par écrit, les procédures d'atténuation des risques de sécurité afin que (i) l'entrepreneur et ses sous-traitants n'effectuent que les parties des travaux non touchées par des exigences en matière de sécurité, et (ii) qu'ils n'aient pas accès aux sites des travaux ou à des renseignements sensibles ou classifiés avant d'obtenir les attestations de sécurité nécessaires.</p>
+<p>					L'agent de négociation des contrats doit ensuite obtenir l'approbation de la DSIC pour ces procédures en effectuant au besoin la liaison avec la DSIC et le ministère client. Le client devra fournir à l'agent de négociation des contrats de TPSGC une évaluation des risques et des menaces (ERM).  Les procédures d'atténuation des risques de sécurité et l'ERM fournies par l'agent de sécurité ministériel (ASM) du ministère client ainsi que l'approbation accordée par la DSIC à ces procédures doivent être consignées dans le dossier.</p>
+<p>					Le ministère client a la responsabilité d'assurer l'application des procédures identifiées d'atténuation des risques de sécurité afin que l'entrepreneur et ses sous-traitants n'aient pas accès aux sites des travaux ou à des renseignements sensibles ou classifiés avant d'obtenir les attestations nécessaires. </p>
+<p>7E.536 (2007-xx-xx) Si, à tout moment durant la période couverte par le contrat, l'OC ou l'AA, l'agent de négociation des contrats constate qu'un sous-traitant dont le statut sécuritaire n'a pas été vérifié auprès de la DSIC aura accès aux sites des travaux ou à des renseignements sensibles ou classifiés, l'agent de négociation des contrats doit s'assurer auprès de la DSIC que le sous-traitant satisfait aux exigences en matière de sécurité.</p>
+<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Haut de la page</a></div>
+<h3>Section 7F : Mesures à prendre après l'adjudication d'un contrat</h3>
+<h4>Exigences en matière de sécurité industrielle</h4>
+<p>7F.724 (2007-xx-xx) Si le contrat, l'OC ou l'AA renferme des exigences en matière de sécurité, il faut faire parvenir une copie du contrat, de l'OC ou de l'AA à la Direction de la sécurité industrielle canadienne dans les deux (2) jours ouvrables qui suivent l'émission du document. Les agents de négociation des contrats peuvent faire parvenir une version PDF du document par courriel à « SNCR ISR CONTRACTS », avec Microsoft Outlook, ou à <a href="mailto:sncrcontracts@tpsgc-pwgsc.gc.ca" rel="external">sncrcontracts@tpsgc-pwgsc.gc.ca</a>. (<em>Voir 3.009, 6C.270 - 6C.278 et 7E.534 - 7E.536 pour plus de renseignements concernant le traitement des approvisionnements avec des exigences en matière de sécurité.</em>)</p>
+<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Haut de la page</a></div>
+<h3>Section 9J : arrangements en matière d'approvisionnement</h3>
+<p>9J.4 (2007-xx-xx) Avant l'établissement d'un AA, l'agent de négociation des contrats élaborera et publiera une demande d'arrangement en matière d'approvisionnement concurrentielle, qui permettra de sélectionner un groupe convenable de fournisseurs en fonction des critères d'évaluation énoncés. À ce même moment, les exigences en matière de sécurité industrielle (c.-à-d. la sécurité du personnel, des installations et de la technologie de l'information) doivent être définies, lorsque tous les clients qui auront recours à l'AA seront visés par un ou tous ces aspects relatifs à la sécurité. (<em>Voir 3.009, 6C.270 - 6C.278 et 7E.534 - 7E.536 pour plus de renseignements concernant le traitement des approvisionnements avec des exigences en matière de sécurité.</em>)</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

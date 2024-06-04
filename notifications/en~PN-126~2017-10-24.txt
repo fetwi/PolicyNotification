@@ -1,0 +1,40 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2>Purpose</h2>
+<p> The purpose of Policy Notification (PN) 126 is to notify all Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) contracting officers and any other persons providing procurement services on behalf of <abbr title="Acquisitions Program">AP</abbr> about the ability to request price certification and audit services from foreign governments.</p>
+<h2> Effective date</h2>
+<p> <abbr title="Policy Notification">PN</abbr>-126 and related changes to the Supply Manual are effective immediately.</p>
+<h2> Background</h2>
+<p> As a reciprocal service between governments, Canada and several North Atlantic Treaty Organization (NATO) allied nations provide each other with price certification and audit services. Acquisitions Program (AP) contracting officers, involved in non-competitive procurements with foreign suppliers, either as the prime contractor or as significant subcontractor to the work, may wish to request such services from the government of the country in which the foreign supplier is located. The output of a price certification or audit request is generally a report which provides some high-level information or an opinion statement from an official of that foreign government. </p>
+<p> Foreign price certification and audit service requests between Public Works and Government Services Canada (PWGSC) and allied foreign governments are coordinated by <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s International Contract Support Group (ICSG), a division of the Price Support Directorate (PSD).</p>
+<p> The services may include:</p>
+<ul>
+<li> price certifications: pre-award reviews of price proposals, or specific elements therein, including labour and overhead rates, level of effort, direct materials, other direct costs, profit, exchange rate, and price or rate escalation; and</li>
+<li>audits: post-award requests to conduct accounting system reviews, incurred cost audits, labour time system recording reviews, and termination audits.</li>
+</ul>
+<h2> Summary of changes</h2>
+<h3> Supply Manual</h3>
+<ul>
+<li>Section 9.56 Price Certifications and Audits with Foreign Suppliers and Subcontractors was added to the Supply Manual to inform contracting officers of the service by foreign governments to provide price certifications and audits of foreign suppliers and subcontractors, and provide procurement staff directions on how to access these services</li>
+<li>Section 4.70.35.15 Audit of Contract with a Foreign Contractor and sub-article (c) of section 5.70 One Responsive Bid were added to the Supply Manual to provide complementary information as well as a link to section 9.56 </li>
+</ul>
+<p>For more details, refer to the affected Supply Manual sections listed below.</p>
+<h3>Standard Acquisition Clauses and Conditions (SACC) Manual</h3>
+<p>There are no changes to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual.</p>
+<h3>Standard Procurement Templates</h3>
+<p>There are no changes to the Standard Procurement Templates.</p>
+<h2>Contact Information</h2>
+<p>Please direct any enquiries to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Price Certification Coordinator by email at the following address: <a href="mailto:TPSGC.pacertificationdeprix-appricecertification.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.pacertificationdeprix-appricecertification.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
+<h3 class="field-label">Affected Supply Manual sections</h3>
+<div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-862e3a25f89f570ee3420dd7e60e7523">
+<div class="view-content">
+<div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-4#_4-70">4.70.35.15: Audit of contract with a foreign contractor</a> </li>
+<li class="views-row views-row-2 views-row-even">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-5#_5-70">5.70: One responsive bid</a> </li>
+<li class="views-row views-row-3 views-row-odd views-row-last">
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-9#_9-56">9.56: Price certifications and audits of foreign contractors</a> </li>
+</ul></div> </div>
+</div>
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>

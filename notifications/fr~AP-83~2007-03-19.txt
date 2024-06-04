@@ -1,0 +1,145 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<!-- InstanceBeginEditable name="content" --><h1><a id="AP-83cont" name="cont"><br/>
+AP-83 : Modèle uniformisé d'approvisionnement ministériel pour les besoins plus complexes de biens, de services ou les deux</a></h1> <div class="region region-site-wide-message">
+<section id="AP-83site-wide-message">
+<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
+</section>
+<section id="AP-83site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
+<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
+</section>
+<section id="AP-83site-wide-message">
+<div></div>
+<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
+</section>
+</div>
+<p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap83tdm-pn83-toc-fra.html">Retourner à la tables des matières</a></p>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+<div class="critical">
+<h2>Historique : ***</h2>
+<p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
+<p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
+<p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+</div>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 19 mars 2007</h2>
+<h3>Introduction</h3>
+<p>Cet avis relatif aux politiques comprend :  (1) le modèle de demande de soumissions et de contrat subséquent pour les besoins concurrentiels ou non concurrentiels plus complexes pour l'approvisionnement de biens, de services ou les deux (à l'exclusion des travaux de construction et des services d'architecture et de génie); (2) les modifications apportées aux procédures 2T-PROC1 pour les besoins de faible valeur, de complexité moyenne et plus complexes, et (3) les modifications apportées aux instructions uniformisées et aux conditions générales.</p>
+<h3>Politique</h3>
+<p>À partir du 25 mai 2007, les agents de négociation des contrats de Travaux publics et Services gouvernementaux Canada (TPSGC) doivent utiliser les documents uniformisés d'approvisionnement ministériels en langage clair pour l'approvisionnement de besoins concurrentiels ou non concurrentiels plus complexes pour les biens, les services ou les deux (à l'exclusion des travaux de construction et des services d'architecture et de génie).</p>
+<p>Les agents de négociation des contrats de TPSGC doivent utiliser le modèle de demande de soumissions et de contrat subséquent pour les besoins plus complexes selon les paramètres décrits dans les procédures pour l'utilisation des modèles uniformisés d'approvisionnement.</p>
+<p>Afin d'assurer l'uniformité de la présentation des documents d'achat de TPSGC, les agents de négociation des contrats ne doivent ni modifier, ni changer l'ordre ou le contenu de ce modèle uniformisé, sauf lorsque cela est indiqué.</p>
+<p>Le tableau ci-dessous comprend une liste détaillée des nouveaux documents ou des documents modifiés qui s'appliquent au modèle pour les besoins plus complexes.</p>
+<h3>Contexte</h3>
+<p>Sous l'initiative visant le langage clair, le plan d'affaires de la Direction générale des approvisionnements identifie l'élaboration de documents uniformisés d'approvisionnement ministériels comme une priorité essentielle du Ministère. Cette initiative vise à uniformiser la terminologie sur l'approvisionnement, à simplifier le langage et à assurer l'uniformité et la cohésion dans les documents d'approvisionnements (p. ex., la présentation uniforme).</p>
+<p>Des modèles pour les besoins concurrentiels ou non concurrentiels de faible valeur, de complexité moyenne et les offres à commandes ont été élaborés pour l'approvisionnement de biens, de services ou les deux.</p>
+<table class="basic">
+<tbody><tr>
+<th scope="col">Document</th>
+<th scope="col">Nouveau ou modifié ou en remplacement de</th>
+<th scope="col">Exigences</th>
+</tr>
+<tr>
+<td>2T-HIGH1, Modèle de demande de soumissions et de contrat subséquent pour les biens, les services ou les deux</td>
+<td>Nouveau modèle</td>
+<td>
+<p>Voir le point 2.c) de l'<a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap83-p1-nxb-pn83-p1-nxb-fra.html">appendice 1 de l'annexe B</a>.</p>
+</td>
+</tr>
+<tr>
+<td>2T-PROC1, Procédures pour l'utilisation des modèles uniformisés d'approvisionnement ministériels</td>
+<td>Modifié</td>
+<td>Voir l'<a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap83-p1-nxb-pn83-p1-nxb-fra.html">appendice 1 de l'annexe B</a>.</td>
+</tr>
+<tr>
+<td>2003, Instructions uniformisées - biens ou services</td>
+<td>En remplacement de 9403 et 9403-5</td>
+<td> </td>
+</tr>
+<tr>
+<td>9601, Conditions générales - formule détaillée </td>
+<td>Modifié</td>
+<td> </td>
+</tr>
+<tr>
+<td>9676, Conditions générales - services</td>
+<td>Modifié</td>
+<td> </td>
+</tr>
+<tr>
+<td>9624, Conditions générales - recherche et développement</td>
+<td>Modifié</td>
+<td> </td>
+</tr>
+<tr>
+<td>TRA-95, Conditions générales - traduction</td>
+<td>Modifié</td>
+<td> </td>
+</tr>
+<tr>
+<td>1026-A, Approvisionnements - prix ferme</td>
+<td>Modifié</td>
+<td> </td>
+</tr>
+<tr>
+<td>1026-B, Approvisionnements - remboursement des frais</td>
+<td>Modifié</td>
+<td> </td>
+</tr>
+</tbody></table>
+<h3>Mise en œuvre</h3>
+<p>Les changements apportés au <em>Guide des approvisionnements</em> et au guide des <em>Clauses et conditions uniformisées d'achat</em> (CCUA) sont reproduits à l'<a href="#AP-83nxa">annexe A</a> et l'<a href="#AP-83nxb">annexe B</a> respectivement.</p>
+<p>La prochaine version du guide des CCUA, prévue pour le 25 mai 2007, tiendra compte de ces changements.</p>
+<p>Les instructions et conditions uniformisées 9403 et 9403-5 seront annulées le 25 mai 2007.</p>
+<p>Le site Web Documents uniformisés d'approvisionnement ministériels a été établi. Le but de ce site consiste à fournir des conseils pour l'utilisation et l'application des documents uniformisées d'approvisionnement ministériels. Ce site comprend les modèles uniformisés d'approvisionnement pour les besoins de faible valeur, de complexité moyenne, plus complexes ainsi que le modèle de demande d'offres à commandes. Ces modèles sont disponibles dans divers formats, tel que format PDF, Word Pro, MS Word, et Word Perfect. Des exemples de demandes de soumissions et de contrats pour les besoins de faible valeur et de complexité moyenne sont également disponibles sur ce site.</p>
+<h3>Prochaines étapes </h3>
+<p>Le Groupe de travail sur le langage clair : (1) poursuivra l'élaboration de nouvelles conditions générales et de nouvelles conditions générales supplémentaires; (2) poursuivra l'examen des clauses du guide des CCUA; (3)mettra en place un programme de formation afin que les agents de négociation des contrats puissent se familiariser avec les modèles d'approvisionnement, et (4) élaborera un modèle uniformisé d'approvisionnement pour les arrangements en matière d'approvisionnement.</p>
+<p>La Division des outils relatifs au processus d'approvisionnement est responsable de la mise à jour de tous les documents uniformisés d'approvisionnement dans le cadre de cette initiative visant le langage clair. Tous les changements qui seront apportés à ces documents seront publiés dans les prochaines mises à jour du guide des CCUA et sur le site Web Documents uniformisés d'approvisionnement ministériels.</p>
+<h3>Pour de plus amples renseignements</h3>
+<p>Veuillez communiquer avec <a href="mailto:gaetane.dagenais@tpsgc-pwgsc.gc.ca" rel="external">gaetane.dagenais@tpsgc-pwgsc.gc.ca</a>, <a href="mailto:ginette.plante@tpsgc-pwgsc.gc.ca" rel="external">ginette.plante@tpsgc-pwgsc.gc.ca</a> ou <a href="mailto:anne.villeneuve@tpsgc-pwgsc.gc.ca" rel="external">anne.villeneuve@tpsgc-pwgsc.gc.ca</a>, Division des outils relatifs au processus d'approvisionnement.</p>
+<div class="topPage"><a href="#AP-83tphp" title="Retourner au haut de la page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+				Haut de la page</a></div>
+<h2>Pièces jointes :</h2>
+<p> <a id="AP-83nxa"></a></p>
+<h3>Annexe A - Changements apportés au Guide des approvisionnements</h3>
+<h4>Documents uniformisés d'approvisionnement ministériels</h4>
+<h5>6E.643</h5>
+<p>(XXXX-XX-XX) Travaux publics et Services gouvernementaux Canada (TPSGC) vise à uniformiser la terminologie des approvisionnements, simplifier le langage et à assurer l'uniformité et la cohésion dans les documents d'approvisionnement (p. ex., la présentation uniforme).</p>
+<p>TPSGC a mis en place les documents uniformisés d'approvisionnement ministériels qui comprennent les instructions uniformisées, les conditions générales et les modèles de demande de soumissions et de demande d'offres à commandes, à l'intention de ses agents de négociation des contrats pour l'approvisionnement de biens, de services ou les deux (à l'exclusion des travaux de construction et des services d'architecture et de génie).</p>
+<p>Les agents de négociation des contrats de TPSGC doivent utiliser les modèles de demande de soumissions et de contrat subséquent pour les besoins concurrentiels et non concurrentiels de faible valeur (2T-LDV1), de complexité moyenne (2T-MED1) et plus complexes (2T-HIGH1), et le modèle de demande d'offres à commandes (2T-RFSO1), pour l'approvisionnement de biens, de services ou les deux selon les paramètres décrits dans les procédures pour l'utilisation des modèles uniformisées d'approvisionnement.  Afin de maintenir l'uniformité de la présentation des documents d'approvisionnement de TPSGC, les agents de négociation des contrats ne doivent ni modifier, ni changer l'ordre ou le contenu de ces modèles uniformisés, sauf lorsque cela est indiqué.</p>
+<p>Les agents de négociation des contrats doivent consulter les procédures 2T-PROC1 et 2T-PROC2 sur la façon d'utiliser les modèles 2T-LDV1, 2T-MED1, 2T-HIGH1 et 2T-RFSO1. Ces procédures sont reproduites à la Section 2, Modèles et formulaires, du guide des Clauses et conditions uniformisées d'achat (CCUA) et sur le site Web Documents uniformisés d'approvisionnement ministériels.</p>
+<div class="topPage"><a href="#AP-83tphp" title="Retourner au haut de la page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+				Haut de la page</a></div>
+<p> <a id="AP-83nxb"></a></p>
+<h3>Annexe B </h3>
+<dl>
+<dt><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap83-p1-nxb-pn83-p1-nxb-fra.html">Appendice 1</a> :</dt>
+<dd>2T-PROC1, Procédures pour l'utilisation des modèles uniformisés d'approvisionnement ministériels </dd>
+<dt><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap83-p2-nxb-pn83-p2-nxb-fra.html">Appendice 2</a> :</dt>
+<dd>2T-HIGH1, Modèle de demande de soumissions et de contrat subséquent pour les besoins plus complexes - biens, services ou les deux</dd>
+<dt><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap83-p3-nxb-pn83-p3-nxb-fra.html#p3">Appendice 3</a> :</dt>
+<dd>Modifications apportées à 2003, Instructions uniformisées, biens ou services</dd>
+<dt><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap83-p3-nxb-pn83-p3-nxb-fra.html#p4">Appendice 4</a> :</dt>
+<dd>Modifications apportées à 9601, Conditions générales - formule détaillée</dd>
+<dt><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap83-p4-nxb-pn83-p4-nxb-fra.html#p5">Appendice 5</a> :</dt>
+<dd>Modifications apportées à 9676, Conditions générales - services </dd>
+<dt><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap83-p4-nxb-pn83-p4-nxb-fra.html#p6">Appendice 6</a> :</dt>
+<dd>Modifications apportées à 9624, Conditions générales - recherche et développement</dd>
+<dt><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap83-p5-nxb-pn83-p5-nxb-fra.html#p7">Appendice 7</a> :</dt>
+<dd>Modifications apportées à TRA-95, Conditions générales - traduction </dd>
+<dt><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap83-p5-nxb-pn83-p5-nxb-fra.html#p8">Appendice 8</a> :</dt>
+<dd>Modifications apportées à 1026-A, Approvisionnements - prix ferme</dd>
+<dt><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap83-p6-nxb-pn83-p6-nxb-fra.html">Appendice 9</a> :</dt>
+<dd>Modifications apportées à 1026-B, Approvisionnements - remboursements des frais</dd>
+</dl>
+<div>
+<ul class="doc-navigation">
+<li><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap83tdm-pn83-toc-fra.html">Précédente</a></li>
+<li><a href="#AP-83tphp">Haut de la page</a></li>
+<li><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap83-p1-nxb-pn83-p1-nxb-fra.html">Suivante</a></li>
+</ul>
+</div>
+</div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
+</div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
