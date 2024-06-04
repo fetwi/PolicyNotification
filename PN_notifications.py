@@ -5,7 +5,7 @@ dir_path = os.path.dirname(os.path.realpath(__file__))
 
 # Define the source folder
 source_dir = os.path.join(dir_path, "source")
-target_dir = os.path.join(dir_path, "clauses")
+target_dir = os.path.join(dir_path, "notifications")
 
 html_files = [f for f in os.listdir(source_dir) if f.endswith('.html')]
 
@@ -14,52 +14,36 @@ for html_file in html_files:
         soup = BeautifulSoup(file, 'html.parser')
         
     language = soup.find('html')
-    language = language['lang'] if language else 'N/A'
-    effective_date_tag = soup.find('dt', string=lambda x: x in ['Effective Date', 'Date d\'effet '])
-    effective_date = effective_date_tag.find_next_sibling('dd').find('span') if effective_date_tag else None
-    effective_date = effective_date.text if effective_date else 'N/A'
-    id_tag = soup.find('dt', string='ID')
-    id = id_tag.find_next_sibling('dd') if id_tag else None
-    id = id.text if id else 'N/A'
+    language = language['lang'] if language else 'NA'
+    id_tag = soup.find('dd')
+    id = id_tag.text if id_tag else 'NA'
+    effective_date_tag = soup.find('dt', text=['Effective date', 'Date d\'effet'])
+    effective_date = effective_date_tag.find_next_sibling('dd').text if effective_date_tag else 'NA'
+
+
     
-    output_filename = f'{language}~{effective_date}~{id}.txt'
+    output_filename = f'{language}~{id}~{effective_date}.html'
 
     if language.lower() == "en":
-        see_revision_history = "See revision history."
+        see_revision_history = "No content."
         remarks_label = "<h3 class=\"clause-heading\">Remarks – Recommended Use of SACC Item</h3>"
         legal_text_label = "<h3 class=\"clause-heading\">Legal text for SACC item</h3>"
     elif language.lower() == "fr":
-        see_revision_history = "Voir l'historique des révisions."
+        see_revision_history = "Pas de contentu."
         remarks_label = "<h3 class=\"clause-heading\">Remarques - Utilisation recommandée de l’item des CCUA</h3>"
         legal_text_label = "<h3 class=\"clause-heading\">Le texte légal de l’item des CCUA</h3>"
 
-    sacc_item_text_heading = soup.find(id='sacc-item-text-heading')
+    pn_main_tag = soup.find('div', class_='field-name-field-body')
+    pn_sm_tag = soup.find('div', class_='field-name-field-assoc-sm-items-view')
+    pn_sacc_tag = soup.find('div', class_='field-name-field-assoc-sacc-items-view')
 
-    if sacc_item_text_heading is None:
+    if pn_main_tag is None:
         content = see_revision_history
     else:
-        sibling_tags = []
-        for sibling in sacc_item_text_heading.find_next_siblings():
-            if sibling.name != 'abbr':  # Skip 'abbr' tags
-                sibling_tags.append(str(sibling))  # Convert tag to string to get minified HTML
-        content = ' '.join(sibling_tags)
+        content = ''.join([str(pn_main_tag), str(pn_sm_tag), str(pn_sacc_tag)]) if pn_main_tag else 'NA'
         if not content:
             content = see_revision_history
 
-    if not content.startswith('<pre>') and not content.endswith('</pre>'):
-        content = '<pre>' + content + '</pre>'
-
-    remarks = soup.select('section.group-sacc-remarks')
-    if remarks:
-        h3_tag = remarks[0].find('h3')
-        if h3_tag:
-            h3_tag.decompose()  # Remove the first h3 tag
-            div_tag = remarks[0].find('div')
-        if div_tag:
-            div_tag.unwrap()  # Remove the div tag but keep its content
-
-        content = remarks_label + remarks[0].prettify() + legal_text_label + content
-    
     # Parse the content with BeautifulSoup
     content_soup = BeautifulSoup(content, 'html.parser')
 
