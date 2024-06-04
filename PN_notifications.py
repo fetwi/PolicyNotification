@@ -1,10 +1,12 @@
 import os
 from bs4 import BeautifulSoup
+import pandas as pd
+
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
 # Define the source folder
-source_dir = os.path.join(dir_path, "source")
+source_dir = os.path.join(dir_path, "source2")
 target_dir = os.path.join(dir_path, "notifications")
 
 html_files = [f for f in os.listdir(source_dir) if f.endswith('.html')]
@@ -28,10 +30,21 @@ for html_file in html_files:
         see_revision_history = "No content."
         remarks_label = "<h3 class=\"clause-heading\">Remarks – Recommended Use of SACC Item</h3>"
         legal_text_label = "<h3 class=\"clause-heading\">Legal text for SACC item</h3>"
+        sm_map = pd.read_csv(os.path.join(dir_path, "map/sm_map_en.csv"))
+        sacc_map = pd.read_csv(os.path.join(dir_path, "map/sacc_map_en.csv"))
     elif language.lower() == "fr":
         see_revision_history = "Pas de contentu."
         remarks_label = "<h3 class=\"clause-heading\">Remarques - Utilisation recommandée de l’item des CCUA</h3>"
         legal_text_label = "<h3 class=\"clause-heading\">Le texte légal de l’item des CCUA</h3>"
+        sm_map = pd.read_csv(os.path.join(dir_path, "map/sm_map_fr.csv"))
+        sacc_map = pd.read_csv(os.path.join(dir_path, "map/sacc_map_fr.csv"))
+
+
+    # Extract the columns
+    sm_map_bas = sm_map['bas'].tolist()
+    sm_map_cb = sm_map['cb'].tolist()
+    sacc_map_bas = sacc_map['bas'].tolist()
+    sacc_map_cb = sacc_map['cb'].tolist()
 
     pn_main_tag = soup.find('div', class_='field-name-field-body')
     pn_sm_tag = soup.find('div', class_='field-name-field-assoc-sm-items-view')
@@ -51,16 +64,19 @@ for html_file in html_files:
     for a_tag in content_soup.find_all('a'):
         # If the 'a' tag has an 'href' attribute and the 'href' attribute does not start with '#'
         if 'href' in a_tag.attrs and not a_tag['href'].startswith('#'):
-            # Replace the 'a' tag with its text content
-            a_tag.replace_with(a_tag.get_text())
+            # Check if the URL matches a URL in column 1 of the db
+            if a_tag['href'] in sm_map_bas:
+                a_tag['href'] = sm_map_cb[sm_map_bas.index(a_tag['href'])]
+            if a_tag['href'] in sacc_map_bas:
+                a_tag['href'] = sacc_map_cb[sacc_map_bas.index(a_tag['href'])]
         if 'href' in a_tag.attrs and a_tag['href'].startswith('#'):
             # Insert effective_date and id after the '#'
-            a_tag['href'] = '#' + effective_date + id + a_tag['href'][1:]
+            a_tag['href'] = '#' + id + a_tag['href'][1:]
 
     # Find all tags with an 'id' attribute
     for tag in content_soup.find_all(id=True):
         # Insert effective_date and id before the 'id' value
-        tag['id'] = effective_date + id + tag['id']
+        tag['id'] = id + tag['id']
 
     # Convert the modified BeautifulSoup object back to a string
     content = str(content_soup)
