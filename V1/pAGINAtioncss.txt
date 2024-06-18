@@ -1,4 +1,0 @@
-.dataTables_wrapper .dataTables_paginate .paginate_button {background-color: #fff7ef;border: 1px solid #f1e8df;color: #3c1f02;}
-.dataTables_wrapper .dataTables_paginate .paginate_button.current {background-color: #7b4c2b;border-color: #7b4c2b;}
-.dataTables_wrapper .dataTables_paginate .paginate_button:hover, .dataTables_wrapper .dataTables_paginate .paginate_button:focus, .dataTables_wrapper .dataTables_paginate .paginate_button:active {background-color: #d6af87;border-color: #d1aa82;color: #3c1f02;cursor: pointer;}
-	
