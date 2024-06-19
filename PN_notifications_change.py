@@ -17,5 +17,6 @@ for filename in os.listdir(directory):
             content = file.read()
 
         # check if the content contains an img tag
-        if img_pattern.search(content):
-            print(f"The file {filename} contains an <img> tag.")
+        match = img_pattern.search(content)
+        if match:
+            print(f"{filename}, {match.group()}")
