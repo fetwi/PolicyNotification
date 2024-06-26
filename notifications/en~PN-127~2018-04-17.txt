@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of Policy Notification (PN) 127 is to inform all Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) contracting officers of the revised <a href="https://www.njc-cnm.gc.ca/directive/d10/en" rel="external">National Joint Council Travel Directive</a>. The revised National Joint Council (NJC) Travel Directive indicates that incidental expense allowances are to be paid to public service employees rather than to travellers. This <abbr title="Policy Notification">PN</abbr> is issued to address the <abbr title="National Joint Council">NJC</abbr> Travel Directive dated July 1, 2017 regarding the exclusion of payment of incidentals to contractors.</p>
 <h2>Effective date</h2>
@@ -49,5 +51,6 @@ National Joint Council Travel Directive definitions</a> for further information.
 <li class="views-row views-row-5 views-row-odd views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#C4005C">5.C.C4005C: Travel and Living Expenses - National Joint Council Travel Directive</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

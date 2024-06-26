@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>The purpose of Policy Notification 53R is to correct the discrepancies between the <em>Supply Manual (SM)</em> and the <em>Standard Acquisitions Clauses and Conditions</em> (SACC) Manual and to provide revisions to the SM policies and procedures as well as SACC clausing related to pre-contractual work as recommended by Legal Services.</p>
 <p>The attached <a href="#PN-53Rannexa">Annex A</a> and <a href="#PN-53Rannexb">Annex B</a> become effective immediately. All changes highlighted in red text will be incorporated to the June 2005 release of the SM and SACC Manual.</p>
@@ -94,4 +96,5 @@
 <p>The Parties hereby confirm that copyright in the Pre-contractual Work shall vest and remain in Canada and that ownership of <em>all</em> intellectual property <em>rights in all information of a scientific, technical or artistic nature relating to the Work, in any form or medium, conceived, developed</em> or produced by the Contractor in the performance of the Pre-contractual Work shall vest and remain in Canada.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

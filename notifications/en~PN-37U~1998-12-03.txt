@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This update is to be read in conjunction with the original Policy Notification 37.</p>
 <p>Since its introduction on September 11, 1998, the JITAP has proven itself as an effective and timely instrument for dealing with urgent amendment requests. There is now a clearer understanding of what information is required and how it should be organized. The format as described below should now be used as the standard for submitting future requests under the JITAP:</p>
 <h3>SUBJECT:</h3>
@@ -59,4 +61,5 @@
 <p>The Supply Policy Directorate will be monitoring the effectiveness of this new approach. If it proves to be successful in providing all the necessary information grouped in a logical manner, and in further tightening of the JITAP turnaround times, then a new form will be promulgated reflecting these changes.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

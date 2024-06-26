@@ -1,4 +1,5 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Objet</h2>
 <p>L’avis relatif aux politiques (AP)-123U1 a pour but d’informer les agents de négociation des contrats du Programme des approvisionnements (PA) de Travaux publics et Services gouvernementaux Canada (TPSGC) que la Politique sur le Processus de conformité des soumissions en phases (PCSP) a été révisée et que le manuel du <abbr title="Processus de conformité des soumissions en phases">PCSP</abbr> est maintenant disponible sur GCpédia.</p>
 <p>L'<abbr title="avis relatif aux politiques">AP</abbr>-123U1 est une révision de l’<abbr title="avis relatif aux politiques">AP</abbr>-123.</p>
@@ -15,7 +16,7 @@
 <p>Le manuel du <abbr title="Processus de conformité des soumissions en phases">PCSP</abbr> a été modifié en supprimant l’annexe F - Exigences en matière de rapport dans son intégralité.</p>
 <p>Les changements à la politique sur le <abbr title="Processus de conformité des soumissions en phases">PCSP</abbr> sont les suivants :</p>
 <ul>
-<li>le manuel du <abbr title="Processus de conformité des soumissions en phases">PCSP</abbr> est maintenant disponible sur la <a class="gov" href="https://www.gcpedia.gc.ca/wiki/Processus_de_Conformit%C3%A9_des_Soumissions_en_Phases" rel="external">page GCpédia du Processus de conformité des soumissions en phases<img alt="L’information n'est accessible qu'aux fonctionnaires des ministères et organismes fédéraux." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a> et il n’est plus nécessaire d’en faire la demande par courriel.</li>
+<li>le manuel du <abbr title="Processus de conformité des soumissions en phases">PCSP</abbr> est maintenant disponible sur la <a class="gov" href="https://www.gcpedia.gc.ca/wiki/Processus_de_Conformit%C3%A9_des_Soumissions_en_Phases" rel="external">page GCpédia du Processus de conformité des soumissions en phases</a><span> (accessible uniquement sur le réseau du gouvernement du Canada)</span> et il n’est plus nécessaire d’en faire la demande par courriel.</li>
 <li>la section Exigences de rapport a été supprimée dans son intégralité.</li>
 </ul>
 <h2>Modifications apportées au Guide des approvisionnements</h2>

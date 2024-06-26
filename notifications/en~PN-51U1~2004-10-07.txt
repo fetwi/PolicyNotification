@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>The purpose of Policy Notification (PN) 51U1 is to update the clauses and procedures related to controlled goods in the Standard Acquisition Clauses and Conditions (SACC) Manual and the Supply Manual (SM).</p>
 <p>PN-51 and PN-51U were promulgated on April 30, 2001 and June 20, 2001, respectively, announcing that Bill S-25 amended the Defence Production Act (DPA) and the Controlled Goods Regulations and that the amendment to the DPA resulted in the establishment of the Public Works and Government Services (PWGSC) Controlled Goods Program (CGP), which is a domestic industrial security program that addresses security issues in regard to the safeguarding of controlled goods within Canada's borders. </p>
@@ -108,4 +110,5 @@
 <p>(5) excluded persons, under the CGP, are individuals occupying a position in the federal public service; employed by her Majesty in right of a province or federal Crown corporation or <em>prescribed by regulation</em>. (<span lang="fr"><strong><em>personnes exclues</em></strong></span>).</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

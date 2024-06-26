@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>The purpose of Policy Notification (PN) 62U1 is to update the shipping instructions detailed in <em>Standard Acquisitions Clauses and Conditions</em> (SACC) Manual clause D0035D given that the Department of National Defence (DND) shipping contract with Transcar GMBH is expiring as of 01 September 2005.  All new and existing procurement documents that involve shipping to Europe on or after 01 September 2005 must include updated SACC clause <a href="#PN-62U1D0035D">D0035D</a>. </p>
 <p>In addition, please note that DND's Directorate of Logistics Business Management (DLBM) has undergone business reorganization and is now called the Directorate of Supply Chain Operations (DSCO).  Supply Manual (SM) paragraph <a href="#PN-62U1a6e_622">6E.622</a> and SACC Manual clauses <a href="#PN-62U1D0037D">D0037D</a> and <a href="#PN-62U1C2608D">C2608D</a> are modified accordingly.  All new and existing procurement documents that would include SACC clauses <a href="#PN-62U1D0037D">D0037D</a> or <a href="#PN-62U1C2608D">C2608D</a> should include the revised versions of these clauses.</p>
@@ -146,4 +148,5 @@
 </ol>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

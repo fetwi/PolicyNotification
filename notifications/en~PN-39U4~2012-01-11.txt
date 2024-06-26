@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction</h2>
 <p>The purpose of Policy Notification (PN) 39U4 is to strengthen and clarify the implementation process in the Supply Manual (<abbr title="Supply Manual ">SM</abbr>) with respect to an Advance Contract Award Notice (<abbr title="Advance Contract Award Notice">ACAN</abbr>).</p>
 <h2>Background</h2>
@@ -384,4 +386,5 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

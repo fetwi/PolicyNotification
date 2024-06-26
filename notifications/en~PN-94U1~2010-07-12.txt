@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p><em>Note: This document is a supplement to PN-94 and should be read in conjunction with PN-94.</em></p>
 <h2>Introduction </h2>
 <p>This policy notification will help determine what is the place of supply for transactions for the acquisition of software licences that are supplies of intangible personal property. The determination of the place of supply determines in which province a supply is made and thus determines what rate of tax applies.</p>
@@ -17,4 +19,5 @@
 <h2>Canada Revenue Agency Contact</h2>
 <p><em>Contact information to be provided under separate cover.</em></p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

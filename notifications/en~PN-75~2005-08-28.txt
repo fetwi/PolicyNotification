@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Public Works and Government Services Canada (PWGSC) employs a variety of approaches to meet procurement requirements.  This spectrum<sup><a id="PN-75b1" name="b1"></a><a href="#PN-75f1">1</a></sup> ranges from specific contracts which precisely define the deliverables to be provided to a specific client by a specific date, to various procurement frameworks for use by several or many departments and agencies, for sometimes less specific or well defined needs.  Included in the latter are standing offers, supply arrangements, and contracts with components activated by Task Authorizations.</p>
 <p>A Task Authorization (TA) is a structured administrative process enabling the client to authorize work by a contractor on an "as and when requested" basis in accordance with the terms and conditions of an existing contract.  Contracts that provide for the use of TAs ("TA contracts") are used in <strong>service</strong> contracting situations where a definite need for a category of service exists, but the precise nature and timing of the need cannot be set out in advance.  The use of TAs must be specifically provided for in the contract.  When the client requires the services, a TA is issued to instruct the contractor to carry out the specified work.</p>
 <p>The following types of requirements are examples of when a task authorization contract might be considered appropriate:</p>
@@ -233,4 +235,5 @@
 <p class="note" id="PN-75f4"><a href="#PN-75b4"><sup>4</sup></a> Some elements of this section are specifically covered for DND TA contracts in section 34; the specific DND-related provisions take precedence.Some elements of this section are specifically covered for DND TA contracts in section 34; the specific DND-related provisions take precedence.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

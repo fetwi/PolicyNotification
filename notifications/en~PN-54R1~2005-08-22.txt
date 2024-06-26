@@ -1,8 +1,11 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The CKTEA is a bilateral agreement between Canada and Korea which covers federal government procurement of telecommunications goods and incidental services (services included in goods contracts).</p>
 <p>Effective September 1, 2005, the CKTEA will be terminated. </p>
 <p>As of September 1, 2005, contracting officers shall no longer insert CKTEA clauses into new bid solicitations or their resulting contracts.  However, bid solicitations issued prior to September 1, 2005, remain subject to CKTEA and all appropriate Standard Acquisitions Clauses and Conditions (SACC) Manual clauses must be included in those bid solicitation documents and their resulting contracts. </p>
 <p>All references to the CKTEA will be removed from the Supply Manual and SACC Manual.  These changes will be published in the next edition of the Manuals in December 2005.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

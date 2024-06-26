@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Treasury Board Contracting Policy 1997-5 issued April 18, 1997 provided an amended listing of acceptable bonding companies which supersedes the list provided in July 10,1996, and appears in Appendix "L" of the <i>Treasury Board Policies.</i> The amended listing will appear in the next amendment to the Supply Manual to be published on September 15, 1997.</p>
 <p>In the meantime, by May 16, 1997, you will be able to access this particular policy via the Treasury Board Secretariate (TBS) home page on GENet: <b><a href="http://publiservice.tbs-sct.gc.ca/" rel="external">http://publiservice.tbs-sct.gc.ca/</a></b> (<strong><em>NOTE: Only federal government employees can access this site</em></strong>) or via the TBS home page on the Internet: <b><a href="http://www.tbs-sct.gc.ca/" rel="external">http://www.tbs-sct.gc.ca/</a>.</b></p>
 <p>In summary, the following names should be added to the list of Canadian companies:</p>
@@ -28,4 +30,5 @@
 </ul>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

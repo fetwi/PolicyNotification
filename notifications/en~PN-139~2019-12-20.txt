@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose </h2>
 <p>The purpose of Policy Notification (PN)-139 is to inform <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Acquisitions Program (AP) contracting officers of the new <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32610" rel="external">Directive on Government Contracts Including Real Property Leases in the Nunavut Settlement Area (the Directive)</a> and the accompanying contracting guidance document titled "<a href="https://buyandsell.gc.ca/for-government/buying-for-the-government-of-canada/plan-the-procurement-strategy#nunavut-directive">Guide on Government Contracts in the Nunavut Settlement Area</a>" (the Guide). <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s Real Property Services have developed a separate Guide on Real Property Leases in the <abbr title="Nunavut Settlement Area">NSA</abbr>.</p>
 <h2>Effective date </h2>
@@ -75,4 +77,5 @@
 <h2>Contact information</h2>
 <p>Questions related to Policy Notification (PN)-139, the obligations of the Directive and the Guide, can be sent by email to Strategic Policy Sector's Indigenous Involvement in Procurement Division at the following address: <a href="mailto:TPSGC.PAContratsNunavut-APNunavutContracts.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PAContratsNunavut-APNunavutContracts.PWGSC@tpsgc-pwgsc.gc.ca</a>. </p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of Policy Notification (PN)-150 is to inform Public Works and Government Services Canada (PWGSC) Acquisitions Program contracting officers of new contract clauses that contain new obligations for contractors with respect to forced labour.</p>
 <h2>Effective date</h2>
@@ -78,5 +80,6 @@
 <li class="views-row views-row-4 views-row-even views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#2030">ARCHIVED: 3.2030: General Conditions - Higher Complexity - Goods</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

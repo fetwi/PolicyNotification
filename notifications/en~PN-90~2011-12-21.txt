@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction</h2>
 <p>The purpose of Policy Notification (PN) 90 is to provide instructions for the advance review and consent of Department of National Defence (DND) proposed transactions to buy or otherwise acquire goods directly from the North Atlantic Treaty Organization (NATO) Maintenance and Supply Agency (NAMSA).</p>
 <h2>Background</h2>
@@ -56,4 +58,5 @@
 <h2>Contacts</h2>
 <p>For inquiries about the advance review and consent process for <abbr title="Department of National Defence">DND</abbr>'s proposed transactions directly with <abbr title="North Atlantic Treaty Organization Maintenance and Supply Agency">NAMSA</abbr>, please contact <abbr title="North Atlantic Treaty Organization Maintenance and Supply Agency">NAMSA</abbr> Acquisition Policy, Acquisition Policy and Process Directorate, at 819-956-0272, or via e-mail at: <a href="mailto:NAMSADPPA.NAMSAAPPD@tpsgc-pwgsc.gc.ca" rel="external">NAMSADPPA.NAMSAAPPD@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

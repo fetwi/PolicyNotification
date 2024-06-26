@@ -1,4 +1,5 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction</h2>
 <p> 
 Travaux publics et Services gouvernementaux Canada (TPSGC), par l'entremise de cet avis relatif aux politiques (AP), met à jour ses dispositions en matière d'intégrité concernant les activités d'approvisionnement et les opérations immobilières. Les nouvelles dispositions comprennent l'ajout d'une exception accordée dans l'intérêt du public et la suppression de l'exemption relative au traitement de clémence.

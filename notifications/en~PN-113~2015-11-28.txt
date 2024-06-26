@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of Policy Notification 113 (PN-113) is to notify contracting officers of the temporary increase to contracting limits in support of Canada’s Response to the Syrian Refugee Resettlement and changes to the procurement process.</p>
 <h2>Effective Date</h2>
@@ -42,4 +44,5 @@ Contracting officers are expected to continue to exercise the necessary due dili
 <p>Additional information will be provided once it becomes available. Enquiries related to this <abbr title="Policy Notification">PN</abbr> can be sent by email to the following address: <a href="mailto:TPSGC.DGAOPSyria-ABOpSyria.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.DGAOPSyria-ABOpSyria.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

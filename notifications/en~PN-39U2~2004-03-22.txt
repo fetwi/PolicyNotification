@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>Public Works and Government Services Canada (PWGSC) is undertaking a comprehensive review of its Advance Contract Award Notice (ACAN) policy and guidelines. This Policy Notification (PN) sets out interim policy and guidelines that are to be followed until the review is completed.</p>
 <p>There will be no formal revision to the Supply Manual at this time; it will be updated once the revised ACAN policy is developed and implemented.</p>
@@ -13,4 +15,5 @@
 <p>Any inquiries are to be addressed to Jane Carruthers, Acquisition Policy and Process Directorate, either by phone at 819-956-6894 or by e-mail at: <a href="mailto:jane.carruthers@pwgsc-tpsgc.gc.ca" rel="external">jane.carruthers@pwgsc-tpsgc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

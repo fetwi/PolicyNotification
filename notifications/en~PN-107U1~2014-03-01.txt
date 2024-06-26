@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction</h2>
 <p>Through this Policy Notification 107U1 – Integrity Provisions (PN-107U1), Public Works and Government Services Canada (PWGSC) is updating the Integrity Provisions surrounding its procurement and real property transactions. The updated provisions include new offences and similar foreign offences, establishment of a Time Period within which convicted suppliers will be ineligible to do business with <abbr title="Public Works and Government Services Canada">PWGSC</abbr>, and extension of the Integrity Provisions to subcontractors.</p>
 <h2>Effective Date</h2>
@@ -135,5 +137,6 @@
 <li class="views-row views-row-21 views-row-odd views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#R5110T">ARCHIVED: 5.R.R5110T: General Instructions - Elevator Modernization</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p><strong>Note:</strong> The <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual and <cite>Supply Manual</cite>  have undergone several updates following the initial release of PN-107R1 on July 3, 2015:</p>
 <ul>
 <li>September 17, 2015: The changes provided in Annex A were updated and incorporated in the <cite>Supply Manual</cite>. See the <a href="https://buyandsell.gc.ca/policy-and-guidelines/Policy-and-Guidelines-Archive/Supply-Manual-Synopsis-Archive#15-3"><cite>Supply Manual</cite> Synopsis - Version 2015-3 for details</a>.</li>
@@ -110,5 +112,6 @@
 <li class="views-row views-row-21 views-row-odd views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#R5110T">ARCHIVED: 5.R.R5110T: General Instructions - Elevator Modernization</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

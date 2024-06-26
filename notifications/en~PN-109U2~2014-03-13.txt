@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of Policy Notification 109U2 (PN-109U2) is to reflect changes to the Canadian Content Policy as set out in the Defence Procurement Strategy (DPS).</p>
 <h2>Effective date</h2>
@@ -38,5 +40,6 @@
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#A3070T">ARCHIVED: 5.A.A3070T: Evaluation Procedures for Procurement Conditionally Limited to Canadian Content</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>This Policy Notification (PN) announces improvements to the management of the standing offer and supply arrangement methods of supply and provides direction to all procurement personnel on the new approval process.  Over the coming months, a full acquisition policy for these methods of supply will be developed in consultation with the Commodity Team (CT) Leaders, to provide a comprehensive policy framework and guidelines for the creation of new standing offers and supply arrangements.  This PN sets out interim procedures that are to be followed effective immediately until the full policy is developed.</p>
 <p>This PN must be read in conjunction with the provisions of applicable Chapters of the Supply  Manual (SM) and PN-70; in case of conflict between the SM and this PN, the provisions of this PN-72 shall take precedence.</p>
@@ -169,4 +171,5 @@
 <p>Failure to provide fully completed quarterly reports in accordance with the above instructions may result in the setting aside of the Standing Offer / Supply Arrangement and the application of a vendor performance corrective measure.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

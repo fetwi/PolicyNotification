@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The new Departmental Delegation of Authority framework was implemented on July 17, 1998. A key objective of this new approval framework is to encourage more comprehensive preplanning of all procurements. It is expected that these changes will improve the identification and pre-approval of options and of amounts set aside for anticipated amendments.</p>
 <p>Nevertheless, the revised framework will also result in a greater number of amendments requiring ministerial approval. Because of the resource implications of this increased amendment volume, it was necessary to review and update the CAAP in order to strike a better balance between the need for in- depth review and acceptable risk.</p>
 <p>The new CAAP is the result of extensive consultations both in headquarters and in the regions. It is comprised of two routine processes to be followed in seeking approvals where time is not of the essence and the Just In Time Approval Process (JITAP) to deal with those exceptional, urgent requests that require decisions within 48 hours. The JITAP is explained more fully in PN-37 and PN-37U.</p>
@@ -66,4 +68,5 @@
 <p>For submissions requiring approval beyond the ADM level, all signatures (including those below the DG level) will remain with the submission.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of this Policy Notification 105 (PN-105) is to notify all Acquisitions Branch and Regional employees of changes to the Supply Manual, Chapter 6: Approvals and Authorities, in support of the new processes and limits for approval authorities for Basic and Standard Procurements, to simplify Exceptional Contracting Limits and signing authorities, and to request the completion of new individual delegation forms. 
 </p>
@@ -121,4 +123,5 @@ shared. Contract administration is detailed and extensive and may be unpredictab
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

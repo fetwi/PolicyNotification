@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The CKTEA is a bilateral agreement between Canada and Korea which covers federal government procurement of telecommunications goods and incidental services (services included in goods contracts). The CKTEA took effect on September 1, 2001.</p>
 <p>For implementation of the CKTEA, eight new SACC Manual clauses were introduced: K5000D; K5001T; K5002T; K5003T; K5004T; K5005T; K5006T; K5100C.</p>
 <p>When the CKTEA was first implemented, for procurement subject to the CKTEA, the bidder was required to submit certification of Canadian and/or Korean content with bid. To increase flexibility, this requirement may, at the discretion of the contracting officer, be removed for procurement solely limited to Canadian and/or Korean goods and services. Three new SACC clauses, K5011T, K5013T and K5014T, have been developed in the case where the bidder will be permitted to submit certification after bid closing. Clauses K5001T, K5003T and K5004T have been revised to require the bidder to submit certification with bid.</p>
@@ -151,4 +153,5 @@
 <p>PWGSC may verify the validity of the certification. If the certification is found to be invalid, then the offered goods or services are deemed not to meet the definition of Canadian or Korean under the CKTEA. Verification of the certification shall in no way alter the price quoted or any substantive element of the bid.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

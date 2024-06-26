@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This new approval process is EFFECTIVE IMMEDIATELY.</p>
 <p>The purpose of the rapid response process is to deal with contract amendment requests that require a decision in less time than the standard process and deal on a clearly exceptional basis with urgent requirements. As it is designed to make sure that approvals are obtained in time to avoid retroactivity, it is being called the Just in Time Approval Process (JITAP).</p>
 <p>JITAP will have two components: required information; and, advance notice.</p>
@@ -28,4 +30,5 @@
 <p>Each step in the process brings a responsibility for sharing two way information: when the request will move up to the next step in the chain; and, what scheduling issues may be involved in obtaining a review. At the earliest possible moment, firm agreements as to process must be made whenever possible (e.g. the Director will send the package to the DG by e-mail by time X; or, the DG and ADM will meet to discuss the requirement at time Y; or, the ADM will meet with the Minister to present the case at time Z.)</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

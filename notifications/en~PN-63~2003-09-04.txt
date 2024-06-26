@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction</h2>
 <p>On May 8, 2003, the Treasury Board (TB) approved a new Policy entitled 'Policy on Decision Making in Limiting Contractor Liability in Crown Procurement Contracts.' The new Policy has come into effect on September 1, 2003, replacing the TB Interim Policy on Indemnification in Contracting adopted on August 15, 1995.</p>
 <h2>Policy</h2>
@@ -69,4 +71,5 @@
 <p>Any inquiries are to be addressed to Helen Braiter, Risk Advisory Services, either by phone 819-956-4354 or by e-mail at:<a href="mailto:helen.braiter@pwgsc-tpsgc.gc.ca" rel="external">helen.braiter@pwgsc-tpsgc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

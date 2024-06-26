@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction</h2>
 <p>The purpose of Policy Notification (<abbr title="Policy Notification">PN</abbr>)-87U is to update the authority limits for Construction and Architectural and Engineering Services.</p>
 <h2>Background</h2>
@@ -444,4 +446,5 @@ A = Aggregate Contract Amendment Signing Authority</p>
 <p id="PN-87Ua1"><sup>1</sup> - Authority to issue subsequent amendments to an amendment approved by Treasury Board to maximum limit shown</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

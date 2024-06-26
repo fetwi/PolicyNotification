@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of Policy Notification 135 (PN-135) is to inform <abbr and="" canada="" government="" services="" title="Public" works="">PWGSC</abbr> Acquisitions Program (AP) contracting officers of the actions they must take to post information to the <a href="https://buyandsell.gc.ca/standing-offers-and-supply-arrangements-application/my-agreements ">Standing Offers and Supply Arrangements Application (SOSA App)</a>, which officially replaced the Standing Offer Index (SOI) on October 11, 2018. </p>
 <p>This <abbr title="Policy Notification">PN</abbr> should be read in conjunction with <a href="https://buyandsell.gc.ca/policy-and-guidelines/policy-notifications/PN-131">Policy Notification 131 – Canadian Collaborative Procurement Initiative for Standing Offers</a>.</p>
@@ -46,4 +48,5 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

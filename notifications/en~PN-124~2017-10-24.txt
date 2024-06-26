@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose </h2>
 <p>The interim pricing measure (IPM) provides contracting officers with a consistent process to justify, document and obtain authorization for the use of pricing practices, including the use of incentives, not currently addressed by Chapter 10 in the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Supply Manual.</p>
 <p>The <abbr title="interim pricing measure">IPM</abbr> is intended to: </p>
@@ -55,7 +57,7 @@
 <li>Section 10.75 Interim Pricing Measure has been added. This new section outlines the procedures to be followed, when contract pricing is determined based on alternative approaches that are not addressed by Section 10.65.</li>
 </ul>
 <p>Upon request, for contracts valued at more than $20 million, Price Support Directorate (PSD) is available to assist contracting officers by reviewing and offering suggestions on the justification to use pricing practices not addressed by Canada's pricing framework. Please note that, the $20 million amount is defined as the total value of the procurement or the project, inclusive of all taxes and fees, project management costs, definition costs, equipment/materiel costs, interim support costs, and contingencies. Any given project may have multiple procurements to deliver the full capability or requirement defined by the project or program. </p>
-<p> As described in the <a class="gov" href="http://www.gcpedia.gc.ca/gcwiki/images/d/d0/Directive_on_the_Use_of_Cost_and_Price_Analysis_FINAL_EN.pdf" rel="external">Directive on the Use of Cost and Price Analysis Services<img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a> (PDF), <abbr title="Price Support Directorate">PSD</abbr> services continue to be available to assist contracting officers to provide advice on:</p>
+<p> As described in the <a class="gov" href="http://www.gcpedia.gc.ca/gcwiki/images/d/d0/Directive_on_the_Use_of_Cost_and_Price_Analysis_FINAL_EN.pdf" rel="external">Directive on the Use of Cost and Price Analysis Services</a><span> (accessible only on the Government of Canada network)</span> (PDF), <abbr title="Price Support Directorate">PSD</abbr> services continue to be available to assist contracting officers to provide advice on:</p>
 <ul>
 <li>pricing and profit calculation</li>
 <li>payment risks, basis of payment and contract audit clauses</li>
@@ -79,4 +81,5 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

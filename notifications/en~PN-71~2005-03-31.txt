@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>The purpose of this Policy Notification (PN) is to introduce and implement Departmental Plain Language Standard Procurement templates, including new standard instructions and new general conditions to be used by Public Works and Government Services Canada (PWGSC) contracting officers for the procurement of goods or services (excluding construction).</p>
 <h3>Policy</h3>
@@ -1255,4 +1257,5 @@
 <p>The laws applicable to the Contract must be interpreted and governed, and the relations between the parties determined, by the laws in force in Ontario.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

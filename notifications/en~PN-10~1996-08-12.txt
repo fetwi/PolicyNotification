@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The Minister was sworn in as the Minister of Public Works and Government Services on July 12, 1996.</p>
 <p>The name of our Department is now the Department of Public Works and Government Services, and the applicable legislation under which contracting activities are conducted is the <em>Department of Public Works and Government Services Act</em>, S.C., 1996, c.16.</p>
 <p>Contracts and solicitations issued before July 12, 1996 and containing reference to DSS or DPW were not invalidated when the Act came into force. Contract documents resulting from solicitations dated before July 12 may be issued with the new Departmental name. Such revision is not a substantive change to the solicitation. Amendments to contracts awarded before July 12, to reflect the new departmental name, are not necessary. Any solicitation or contract that may be issued using DSS or DPW is not rendered invalid by referring to the names of the former departments.</p>
@@ -64,4 +66,5 @@
 </ol>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>Policy Notification (PN)-72R1 replaces PN-72R, dated November 14, 2006, in its entirety. PN-72R1 is a companion to, and should be read in conjunction with PN-92, Commodity Management Policy, and with the provisions of applicable chapters of the <em>Supply Manual</em>.  In case of conflict between the <em>Supply Manual</em> and this <abbr title="Policy Notification">PN</abbr>, the provisions of PN-72R1 will take precedence.</p>
 <p>PN-72R1 provides direction to contracting officers on the creation, renewal or extension of standing offers (SOs) (National Master Standing Offer [NMSO], National Individual Standing Offer [NISO], Regional Master Standing Offer [RMSO], Regional Individual Standing Offer [RISO], Departmental Individual Standing Offer [DISO]) and supply arrangements (SAs).</p>
@@ -150,4 +152,5 @@ What is the estimated “extended period” business  volume?</li>
 </ol>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of Policy Notification (PN) 146 is to inform Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) of the entry into force of the <a href="https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/cusma-aceum/text-texte/toc-tdm.aspx?lang=eng" rel="external"><cite>Canada-United States-Mexico Agreement</cite> (CUSMA)</a> and its effect on government procurement. <strong>The Government Procurement Chapter of <abbr title="Canada-United States-Mexico Agreement">CUSMA</abbr> does not apply to Canada</strong> – it applies to the United States and Mexico only.</p>
 <h2>Effective date</h2>
@@ -152,5 +154,6 @@
 <li class="views-row views-row-6 views-row-even views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#K3415C">5.K.K3415C: Commercialization in Canada</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

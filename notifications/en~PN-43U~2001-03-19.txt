@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This update replaces the original Policy Notification 43 of August 17, 1999. It contains: background; approach; implementation; a definition of coverage; delegated contracting authorities; and, a statement of client responsibilities.</p>
 <h3>Background</h3>
 <p>This Notification is designed to reduce the risk to government in contracting for Construction, and Architectural and Engineering (A&amp;E) Services (a definition of coverage is attached as <strong>Annex A</strong>). The contracts subject to this Policy can deal with complex technical, health and safety, and project management issues.</p>
@@ -169,4 +171,5 @@
 </ol>
 </div> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

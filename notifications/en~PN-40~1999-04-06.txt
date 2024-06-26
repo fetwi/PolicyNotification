@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>After a recent situation in the Pacific Region, the Corporate Security Division (CSD) and Industrial Security Division (ISD) have developed interim procedures and clauses to be used by procurement officers in contracting for the destruction of sensitive information.</p>
 <p>Legal Services have completed review of the clause and it has been included in a joint communication document between CSD and ISD which was mailed in February, 1999, to Regional Directors of Supply, Headquarters Materiel Management, the Regional Managers of Security and Regional Field Industrial Security Officers.</p>
 <p>The present document has 4 divisions:</p>
@@ -116,4 +118,5 @@
 <img alt="" height="497" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="400"/></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

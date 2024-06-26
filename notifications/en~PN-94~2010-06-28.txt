@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction</h2>
 <p>Starting July 1, 2010, the provincial sales taxes in Ontario and British Columbia will be replaced by a value-added tax structure and combined with the federal Goods and Services Tax (<abbr title="Goods and Services Tax">GST</abbr>) to create a single, federally administered Harmonized Sales Tax (<abbr title="Harmonized Sales Tax">HST</abbr>). The <abbr title="Harmonized Sales Tax">HST</abbr> will be applied on most supplies of property and services made in those provinces at a blended rate of 13% in Ontario (5% federal component and 8% provincial component) and 12% in British Columbia (5% federal component and 7% provincial component). With some exceptions, the <abbr title="Harmonized Sales Tax">HST</abbr> will apply to the same base of property and services as the <abbr title="Goods and Services Tax">GST</abbr>.</p>
 <p>It is government policy that departments charge and collect, where applicable, the <abbr title="Goods and Services Tax">GST</abbr> or the <abbr title="Harmonized Sales Tax">HST</abbr> on their taxable supplies and pay <abbr title="Goods and Services Tax">GST</abbr> or <abbr title="Harmonized Sales Tax">HST</abbr> on their purchases, as required by legislation.</p>
@@ -58,4 +60,5 @@
 <p>Federal departments must pay the <abbr title="Harmonized Sales Tax">HST</abbr> in the participating provinces of Newfoundland and Labrador, Nova Scotia, New Brunswick, Ontario and British Columbia.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

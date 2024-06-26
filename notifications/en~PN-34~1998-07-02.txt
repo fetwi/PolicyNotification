@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Background:</h3>
 <p>The Chairman of the Canadian International Trade Tribunal (CITT) expressed concern that generally, suppliers were not aware of the recourse mechanisms available to unsuccessful bidders whenever they are dissatisfied with the procurement process.</p>
 <h3>Policy:</h3>
@@ -14,4 +16,5 @@
 <p>Care must be taken to protect the confidentiality of information relating to other bids. <strong>The release of information relating to other bids by contracting personnel must comply with procedure 7.706.</strong></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

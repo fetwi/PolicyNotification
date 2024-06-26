@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of Policy Notification (PN)-140 is to inform Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) contracting officers of the new Information Management/Information Technology (IM/IT) Commodity Grouping (CG) Public Cloud Software as a Service (SaaS) and the accompanying clause to be used in conjunction with the <abbr title="Commodity Grouping">CG</abbr>.</p>
 <h2>Effective date </h2>
@@ -16,7 +18,7 @@
 <h2>Revisions to the Supply Manual</h2>
 <p>4.70.90 Limitation of Liability of the Supply Manual has been revised to include specific information on the <abbr title="Commodity Grouping">CG</abbr> Public Cloud <abbr title="Software as a Service">SaaS</abbr>.</p>
 <h2>Revisions to MySource</h2>
-<p>The addition of the new <abbr title="Commodity Grouping">CG</abbr> can be found on the <a class="gov" href="http://intranet.tpsgc-pwgsc.gc.ca/app-acq/text/ca-pc/gp-cg-eng.html" rel="external">Commodity Groupings<img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a> page on MySource.</p>
+<p>The addition of the new <abbr title="Commodity Grouping">CG</abbr> can be found on the <a class="gov" href="http://intranet.tpsgc-pwgsc.gc.ca/app-acq/text/ca-pc/gp-cg-eng.html" rel="external">Commodity Groupings</a><span> (accessible only on the Government of Canada network)</span> page on MySource.</p>
 <h2>Contact information</h2>
 <p>Questions related to Policy Notification (PN)-140 can be sent to <a href="mailto:TPSGC.DPPApublications-APPDpublications.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.DPPApublications-APPDpublications.PWGSC@tpsgc-pwgsc.gc.ca</a></p>
 <p>Questions related to the Supply Manual and the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual can be sent by email to the Strategic Policy Sector’s <abbr title="Supply Manual">SM</abbr>/<abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Team at the following address:</p>
@@ -36,5 +38,6 @@
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#N0004C">5.N.N0004C: Limitation of Liability - Public Cloud Software as a Service (SaaS)</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

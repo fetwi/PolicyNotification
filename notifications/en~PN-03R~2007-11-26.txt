@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>The purpose of Policy Notification (PN) is to clarify when and how to apply the former public servant policies regarding pension and/or lump sum payments when contracting for services, and to introduce new clauses to be used in bid solicitations and requests for standing offers to ensure that former public servants self-identify.</p>
 <h3>Background</h3>
@@ -307,4 +309,5 @@
 <p>By submitting an offer, the Offeror certifies that the information submitted by the Offeror in response to the above requirements is accurate and complete.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

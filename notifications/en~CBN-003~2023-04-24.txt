@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of CanadaBuys Notification (CBN)-003 is to notify <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Buyers that the following are now available:</p>
 <ul>
@@ -31,5 +33,6 @@ There are no revisions to the Standard Procurement Templates.
 <li class="views-row views-row-2 views-row-even views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#2035ACB">3.2035ACB: AchatsCanadaBuys General Conditions: Higher Complexity – Services</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

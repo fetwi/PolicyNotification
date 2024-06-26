@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p><abbr title="Policy Notification">PN</abbr>-139R1 replaces and supersedes <abbr title="Policy Notification">PN</abbr>-139.</p>
 <p>The purpose of Policy Notification (PN)-139R1 is to inform <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Acquisitions Program (AP) contracting officers of the new clauses and templates drafted to support implementation of the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32610" rel="external">Directive on Government Contracts, Including Real Property Leases, in the Nunavut Settlement Area</a> (the Directive).</p>
@@ -162,5 +164,6 @@
 <li class="views-row views-row-19 views-row-odd views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#W5001C">5.W.W5001C: Nunavut Agreement: Invoicing instructions</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

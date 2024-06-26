@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Policy Objective</h3>
 <p>The purpose of this policy is to make provision for independent trucking contractors and their subcontractors, working on federal government contracts, to be paid at least minimum haulage rates as and where established by the provincial and territorial governments across Canada.</p>
 <h3>Policy</h3>
@@ -26,4 +28,5 @@
 <p>The Contractor agrees that for work of a haulage nature under this Contract, it will pay its Subcontractors at least the minimum haul rates as and where established by provincial or territorial governments in the geographical region in which the project, the majority of the project or the largest component of the project is located.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

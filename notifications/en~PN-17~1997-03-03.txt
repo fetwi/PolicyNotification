@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>On April, 1, 1997, the current retail sales tax in<b> Nova Scotia, New Brunswick, and Newfoundland and Labrador</b> and the federal GST in those "participating provinces" will be replaced by a single, harmonized value added tax, which will be called the Harmonized Sales Tax (HST).</p>
 <p>The rules governing the operation of the HST will be set out in the <i>Excise Tax Act</i>, and will generally be those rules on which the GST currently operates.</p>
 <p>The HST will apply at a single rate of 15% on the same base of goods and services as the current GST. Seven percentage points will represent the federal component and eight percentage points the provincial component.</p>
@@ -38,4 +40,5 @@
 <p>The existing Reciprocal Taxation Agreements, exempting payment of the PST, will be superseded by the HST legislation, where it applies to the participating provinces and the federal government agrees to pay the HST.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

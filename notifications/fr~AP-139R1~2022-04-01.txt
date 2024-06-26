@@ -1,4 +1,5 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Objet</h2>
 <p>L’<abbr title="avis relatif aux politiques">AP</abbr>-139R1 remplace et annule l’<abbr title="avis relatif aux politiques">AP</abbr>-139.</p>
 <p>L’avis relatif aux politiques (AP)-139R1 a pour but d’informer les agents de négociation des contrats du Programme des approvisionnements de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> des nouvelles clauses et des nouveaux modèles rédigés pour appuyer la mise en œuvre de la <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32610" rel="external">Directive sur les marchés de l’État, incluant les baux immobiliers, dans la région du Nunavut</a> (la Directive).</p>

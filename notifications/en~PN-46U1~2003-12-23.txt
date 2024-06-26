@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <ol>
 <li>Treasury Board Secretariat has provided notice of the amendment of previously established thresholds for the international trade agreements. The new thresholds in Canadian dollars are applicable for two years, from January 1, 2004 to December 31, 2005.</li>
 <li>Canada-Korea Telecommunications Equipment Procurement Agreement (CKTEA) has the same threshold for goods as the Agreement on Government Procurement of the World Trade Organization (<acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>); therefore, the CKTEA threshold in Canadian dollars has also changed.</li>
@@ -26,4 +28,5 @@
 <p>These changes will be reflected in next amendment of the Supply Manual, expected to be released in May 2004. </p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

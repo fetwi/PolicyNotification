@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>A Treasury Board Information notice was issued to Departments and Agencies' Senior Financial Officers on February 24, 1998 to advise them of the new service contract payment reporting requirements announced in the 1998 budget. Pursuant to paragraph 221 (1) (d) of the <em>Income Tax Act</em>, Departments and Agencies are required to prepare T4-A Supplementary Slips for all Individuals or Businesses receiving payments under service contracts during a calendar year, beginning with the period of January 1, 1998 to December 31, 1998. This directive also applies to contracts involving a mix of goods and services whenever the fee component totals at least 10% of the total value of the contract.</p>
 <p>For Departments and Agencies to comply with the reporting requirement for payments made to individuals or businesses pursuant to services contracts, all applicable contracts are required to contain a term which will require the contractor to provide the information which is essential to the preparation of the T4-A, through its invoice. This information includes the legal name of the contractor; the status of the contractor, i.e. an individual, unincorporated business or a corporation; associated business number, GST number, SIN or T2 Corporate Tax number, as applicable; nature of the invoice, i.e. strictly services or a mix of goods and services where the value of the services totals 10% of the value of the contract; and, a certification as to the completeness and accuracy of the information signed by the contractor or an authorized representative.</p>
 <p>In support of this new directive, dual SACC clause H3023D - Supplemental Invoicing Instructions (Annex A), has been developed for incorporation into all applicable services requirements effective immediately. All solicitation and resultant contracts or standing offers will stipulate that the contractor is to provide the required information directly to the client department's payment office, as part of the invoicing procedure.</p>
@@ -20,4 +22,5 @@
 </ol>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

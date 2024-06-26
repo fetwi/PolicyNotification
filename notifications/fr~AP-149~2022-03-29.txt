@@ -1,4 +1,5 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 id="AP-149a1">Objectif</h2>
 <p>L’objectif de l’Avis relatif aux politiques (AP)-149 est de fournir des directives aux agents de négociation des contrats du Programme des approvisionnements (PA) sur la documentation des dossiers électroniques pendant le processus d’approvisionnement.</p>
 <h2 id="AP-149a2">Date d’entrée en vigueur</h2>
@@ -22,7 +23,7 @@
 <li>les dossiers d’approvisionnement sont bien documentés et complets;</li>
 <li>les documents et décisions clés sont inclus pour fournir l’historique complet du dossier;</li>
 <li>les systèmes appropriés sont mis à jour avec précision, tels que l’Environnement automatisé de l’acheteur (EAA), <abbr title="Solution d'achats électroniques">SAE</abbr>, Galileo et Darwin; et</li>
-<li>l’information reçue ou créée en format électronique à l’extérieur de <abbr title="Solution d'achats électroniques">SAE</abbr> est conservée dans son format original et classée dans le <a class="gov" href="https://gcdocs.gc.ca/tpsgc-pwgsc/llisapi.dll/Overview/42598000" rel="external">dossier de cas d’approvisionnements GCdocs<img alt="L’information n'est accessible qu'aux fonctionnaires des ministères et organismes fédéraux." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a> applicable.</li>
+<li>l’information reçue ou créée en format électronique à l’extérieur de <abbr title="Solution d'achats électroniques">SAE</abbr> est conservée dans son format original et classée dans le <a class="gov" href="https://gcdocs.gc.ca/tpsgc-pwgsc/llisapi.dll/Overview/42598000" rel="external">dossier de cas d’approvisionnements GCdocs</a><span> (accessible uniquement sur le réseau du gouvernement du Canada)</span> applicable.</li>
 </ol>
 <h2 id="AP-149a6">Résumé des modifications</h2>
 <h3 id="AP-149a7">Révisions apportées au Guide des clauses et conditions uniformisées d’achat (CCUA)</h3>

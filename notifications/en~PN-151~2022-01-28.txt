@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of Policy Notification (PN)-151 is to inform Public Works and Government Services Canada (PWGSC) Acquisitions Program contracting officers of updates to the <a href="https://www.tpsgc-pwgsc.gc.ca/app-acq/cndt-cndct/cca-ccp-eng.html" rel="external"><cite>Code of Conduct for Procurement</cite></a> (the Code).</p>
 <h2>Effective date</h2>
@@ -91,5 +93,6 @@
 <li class="views-row views-row-23 views-row-odd views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#R5110T">ARCHIVED: 5.R.R5110T: General Instructions - Elevator Modernization</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

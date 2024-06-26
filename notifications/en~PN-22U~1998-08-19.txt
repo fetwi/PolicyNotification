@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This Policy Notification (PN) Update provides for two additional Year 2000 Warranty clauses (Annex A) from those previously distributed in PN-22:</p>
 <p>1. K0043D (__/__/98) Y2000 Warranty - Goods Not Directly Related to IT Procurements.</p>
 <p>2. K0044D (__/__/98) Y2000 Warranty - Services Not Directly Related to IT Procurements.</p>
@@ -66,4 +68,5 @@
 <p>Where a client requests that the Year 2000 Warranty clause(s) not be incorporated into its procurement (for example, where the product, application or related services will not be used to perform date related processing), procurement staff are to comply with this request provided that the Director General of Informatics or departmental equivalent of the requisitioning department provided written instructions to this effect.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

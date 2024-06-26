@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The utilization of differing financial management systems by many of our clients has resulted in a number of difficulties in the handling of requisitions by <acronym title="Public Works and Government Services Canada">PWGSC</acronym> for the client and their suppliers. In an effort to address this issue, a new indicator - the Client Reference Number (CRN) - has been created.</p>
 <p>This change has also necessitated a number of modifications to existing SACC clauses concerning invoicing. Effective immediately, the clauses found in <strong>Annex A</strong> of this policy notification supersede the clauses that appear in any previous release of the SACC Manual.</p>
 <p>Each of the modified clauses below are to be inserted as full text, as required, in the preparation of procurements documents until they have been legally incorporated into the next release of the SACC Manual, scheduled for June, 2000.</p>
@@ -189,4 +191,5 @@
 <p>3. Documents are to be submitted covering each shipment and are to state whether shipment is partial or complete.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

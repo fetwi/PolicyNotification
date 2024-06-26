@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of Policy Notification (PN) 138 is to inform Acquisitions Program contracting officers of the rescission of Procurement Review Policy and its impact on the Procurement Review Committee (PRC).</p>
 <h2>Effective date</h2>
@@ -8,7 +10,7 @@
 <h2>Overview</h2>
 <p>The Treasury Board (TB) <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32593" rel="external"><cite>Policy on the Planning and Management of Investments</cite></a> took effect on April 11th, 2019 as part of the <abbr title="Treasury Board">TB</abbr> Policy Suite Reset Phase I, and replaces four policy instruments, including the Procurement Review Policy. This new policy eliminates the Procurement Review Committee (PRC) along with the requirement for buyers to submit procurements for socio-economic and environmental review.  Departments were allowed a transition period and the cessation of the <abbr title="Procurement Review Committee">PRC</abbr>, as with most requirements of the new Policy took effect on October 11th, 2019.</p>
 <p>As of October 11th, each department must ensure that its investment decisions take into consideration opportunities to advance government socio-economic and environmental objectives, such as accessibility and reducing greenhouse gas emissions. This responsibility will fall under the responsibility of the Senior Designated Official, as described in section 4 of the new policy.</p>
-<p>During this transitional time, when enquiries arise with respect to how to incorporate socio-economic criteria into procurements, the Strategic Policy Sector within Acquisitions Program has a <a class="gov" href="https://www.gcpedia.gc.ca/wiki/Social_Procurement_at_Public_Services_and_Procurement_Canada" rel="external">Policy lab<img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a> that can help buyers and federal departments with enquiries on a specific procurement, and how socio-economic criteria can be included.</p>
+<p>During this transitional time, when enquiries arise with respect to how to incorporate socio-economic criteria into procurements, the Strategic Policy Sector within Acquisitions Program has a <a class="gov" href="https://www.gcpedia.gc.ca/wiki/Social_Procurement_at_Public_Services_and_Procurement_Canada" rel="external">Policy lab</a><span> (accessible only on the Government of Canada network)</span> that can help buyers and federal departments with enquiries on a specific procurement, and how socio-economic criteria can be included.</p>
 <h2>Summary of differences/changes</h2>
 <p>The <abbr title="Procurement Review Committee">PRC</abbr> ceased to operate on October 11th, 2019.</p>
 <h2>Supply Manual changes:</h2>
@@ -53,4 +55,5 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

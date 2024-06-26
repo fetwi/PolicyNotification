@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>At its meeting of December 11, 1997, the Treasury Board (TB) approved authority for the Occupational and Environmental Health Services (OEHS) Program Special Operating Agency to submit bids for the supply of services requested by other federal departments and agencies (TB minute 825830).</p>
 <p>Therefore, in accordance with paragraph 10.1.2 of TB Contracting Manual, and paragraph 5 of the Government Contracts Regulations, the OEHS Agency is authorized to compete with private suppliers to serve federal departments and agencies.</p>
 <p>Related changes to the <em>Supply Manual</em>, attached as <strong>Annex A</strong>, will be included in amendment 98-2, which is scheduled for release on 15 June 1998.</p>
@@ -38,4 +40,5 @@
 <p>Note: Only those SOAs marked with an asterisk (*) are specifically authorized to compete with the private sector for government business.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

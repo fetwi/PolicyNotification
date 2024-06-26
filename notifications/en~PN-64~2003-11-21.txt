@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Policy</h3>
 <p>Public Works and Government Services Canada (PWGSC) contracting officers are to procure low dollar value (LDV) requirements below $25,000 (including all applicable taxes) using the most efficient and cost effective method to select a contractor, either by soliciting bids or by directing the requirement to a single supplier, and by using appropriate supplier selection processes in order of precedence.</p>
 <h3>Background</h3>
@@ -90,4 +92,5 @@
 					A purchase whereby the telephone is used to solicit bids for requirements valued up to $25,000 (including all applicable taxes) and whereby a contract is placed over the telephone and confirmed in writing. (xx/xx/xx) (achat par téléphone)</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

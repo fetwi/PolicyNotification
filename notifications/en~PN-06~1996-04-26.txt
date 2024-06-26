@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The SACC Manual clauses listed below have been modified to correct the long-standing misconception that foreign bidders on procurements subject to the trade agreements had to be permitted to bid Canadian customs duty and taxes extra. This is not correct.</p>
 <p>The revised clauses permit the contracting officer to choose whether the pricing should be FOB destination, including customs duty and taxes, or FOB plant, with customs duty, taxes and transportation identified separately, as officers would for any other procurement.</p>
 <p>The revised clauses permit the contracting officer to choose whether the pricing should be FOB destination, including customs duty and taxes, or FOB plant, with customs duty, taxes and transportation identified separately, as officers would for any other procurement.</p>
@@ -38,4 +40,5 @@
 <p>The list of suppliers being invited to bid on this requirement is included. This list will not be updated as new bidders request bid packages.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

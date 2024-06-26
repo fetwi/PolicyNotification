@@ -1,4 +1,5 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction </h2>
 <p>Le présent avis relatif aux politiques aidera à déterminer le lieu de fournitures concernant les transactions liées à l'acquisition de licences d'utilisation de logiciels qui constituent des biens meubles incorporels. L'établissement du lieu de fourniture permet de déterminer dans quelle province les produits ou services sont fournis et, ainsi, de déterminer quelle taxe est applicable.</p>
 <h2>Règles sur le lieu de fourniture concernant les biens meubles incorporels applicables à l'acquisition de licences d'utilisation de logiciels</h2>

@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>In accordance with Treasury Board Policy (Reference Chapter 10 of the Treasury Board Contracting Policy and TBS Contracting Policy Notice 1999-3 available on the Internet*), ACANs are considered as a competitive procurement method. Therefore, <strong>all contracts issued based upon an ACAN are subject to competitive approval authority limits</strong>. This includes ACANs that are: unchallenged; challenged and the challenge withdrawn; and, challenged but the challenge rejected.</p>
 <p>All references to ACANs in the Supply Manual and in the SACC Manual are under review.</p>
 <p>The Supply Manual Policy on ACANs is being redrafted.</p>
@@ -7,4 +9,5 @@
 <p>* Treasury Board Site: <a href="http://www.tbs-sct.gc.ca" rel="external">http://www.tbs-sct.gc.ca</a></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

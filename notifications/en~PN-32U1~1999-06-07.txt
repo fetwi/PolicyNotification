@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This policy notification update refers to previous policy notifications on the Procurement Information Form (PN-32 and PN-32U) and Revised Contract Entry and Amendment Authorities (PN-35).</p>
 <p><strong>Question 1:</strong></p>
 <p>Should the figure indicated in the "Aggregate Amendment Value" box of the PIF be used to establish amendment approval authority or, should it be the sum of all changes to the original contract value (including executed pre-approved options or negative amendment amounts)?</p>
@@ -102,4 +104,5 @@
 <p>Supply Policy Directorate is aware of these resulting delays and will continue to monitor the situation.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

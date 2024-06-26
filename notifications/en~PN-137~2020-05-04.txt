@@ -1,11 +1,13 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction</h2>
 <p>Policy Notification (PN) 137 is to inform Acquisitions Program on recent changes to contracting limits in Appendix C of the Treasury Board (TB) <cite>Contracting Policy</cite> and recent amendments to the <cite>Government Contracts Regulations</cite>. </p>
 <h2>Effective date</h2>
 <p>This policy notification is effective immediately. </p>
 <h2>Background</h2>
 <p>To modernize procurement policies and processes, the Treasury Board <cite>Appendix C: Contracts Directive</cite> has been updated and streamlined. </p>
-<p>The contracting limits within the Contracting Directive (Appendix C of <abbr title="Treasury Board">TB</abbr> <cite>Contracting Policy</cite>) <strong>Contracting limits</strong> as per <a class="gov" href="http://www.gcpedia.gc.ca/gcwiki/images/f/f1/Final_Appendix_C_-_Contracts_Directive_for_Publication_Apr_8%2C_2019_ENG.pdf" rel="external"><cite><strong>Appendix C: Contracts Directive</strong></cite><img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a> (<a class="gov" href="http://www.gcpedia.gc.ca/gcwiki/images/a/aa/Contracting_Limits_Guidelines_April_2019_ENG.pdf" rel="external">Guidance Tool<img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a>) has been updated to reflect:</p>
+<p>The contracting limits within the Contracting Directive (Appendix C of <abbr title="Treasury Board">TB</abbr> <cite>Contracting Policy</cite>) <strong>Contracting limits</strong> as per <a class="gov" href="http://www.gcpedia.gc.ca/gcwiki/images/f/f1/Final_Appendix_C_-_Contracts_Directive_for_Publication_Apr_8%2C_2019_ENG.pdf" rel="external"><cite><strong>Appendix C: Contracts Directive</strong></cite></a><span> (accessible only on the Government of Canada network)</span> (<a class="gov" href="http://www.gcpedia.gc.ca/gcwiki/images/a/aa/Contracting_Limits_Guidelines_April_2019_ENG.pdf" rel="external">Guidance Tool</a><span> (accessible only on the Government of Canada network)</span>) has been updated to reflect:</p>
 <ul>
 <li>Increased financial limits by 25%. </li>
 <li>Amendment limit collapsed and included under entry limit to simplify and add flexibility.
@@ -87,4 +89,5 @@ For assistance with the application, please contact the Strategic Policy Sector 
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

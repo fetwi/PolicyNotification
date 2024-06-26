@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of Policy Notification 107R2 (PN-107R2) is to notify Acquisitions Program personnel that the Integrity Provisions used in Public Works and Government Services Canada (PWGSC)’s procurement and real property transactions are being updated.</p>
 <p>The Integrity Provisions and the <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/politique-policy-eng.html" rel="external"><em>Ineligibility and Suspension Policy</em></a> are being modified to provide clarity regarding the <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/ci-if-eng.html" rel="external">Integrity Regime</a> based on feedback received from contracting officers, other government departments and suppliers. The modifications do not change how the Regime is applied and administered.</p>
@@ -144,5 +146,6 @@
 <li class="views-row views-row-21 views-row-odd views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#R5110T">ARCHIVED: 5.R.R5110T: General Instructions - Elevator Modernization</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

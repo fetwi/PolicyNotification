@@ -1,4 +1,5 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction</h2>
 <p>Le 5 février 2014, l’honorable Diane Finley, ministre des Travaux publics et des Services gouvernementaux et l’honorable Robert Nicholson, ministre de la Défense nationale, ont lancé la nouvelle Stratégie d’approvisionnement en matière de défense du Canada. </p>
 <p>Voir le <a href="http://nouvelles.gc.ca/web/article-fr.do?mthd=tp&amp;crtr.page=1&amp;nid=813789&amp;crtr.tp1D=1&amp;_ga=1.243403265.562934682.1391614034" rel="external">communiqué de presse</a>.</p>

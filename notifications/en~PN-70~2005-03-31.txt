@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>In Budget 2005 the government announced that as part of its action plan to realize procurement savings it will be mandatory for departments to use 'standing offers' negotiated by Public Works and Government Services Canada (PWGSC).</p>
 <p>'Standing offers' (the quotation marks were in the actual Budget document), for this purpose was a broad term that includes standing offers, supply arrangements and other procurement instruments put in place by PWGSC. However, for the purposes of this Policy Notification, the terms 'standing offers', and 'supply arrangements' are explicit.</p>
@@ -65,4 +67,5 @@
 </ol>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

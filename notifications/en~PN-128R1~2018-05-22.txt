@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p><abbr title="Policy Notification">PN</abbr>-128R1 replaces and supersedes <abbr title="Policy Notification">PN</abbr>-128.</p>
 <p>The purpose of Policy Notification (PN) -128R1 is to inform all Public Works and Government Services Canada (PWGSC) Acquisitions Program's contracting officers of the implementation of an additional receiving method using Canada Post Corporation's epost Connect service in Bid Receiving Units (BRU) across Canada. </p>
@@ -83,5 +85,6 @@
 <li class="views-row views-row-3 views-row-odd views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#2008">ARCHIVED: 1.2008: Standard Instructions - Request for Supply Arrangements - Goods or Services</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

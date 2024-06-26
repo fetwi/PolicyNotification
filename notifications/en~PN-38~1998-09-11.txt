@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The Canadian International Trade Tribunal (CITT) has issued its determination concerning Public Works and Government Services Canada's (PWGSC) use of the national security exception to exclude a procurement for the Department of Foreign Affairs and International Trade from the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, NAFTA and the AIT. The Tribunal concurred with PWGSC's position that it did not have jurisdiction to accept the complaint.</p>
 <p>The Tribunal did, however, examine the authority for the use of the national security exception. It found that the Assistant Deputy Minister of the Supply Operations Services Branch (ADM/SOSB) had the authority to invoke the exception, thus excluding a procurement from the obligations of the trade agreements.</p>
 <p>Legal services has provided the following opinion concerning whether all national security exception decisions should be made through Alan Williams:</p>
@@ -10,4 +12,5 @@
 <p>The necessary amendments will be made to the <em>Supply Manual</em> to effect this change.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

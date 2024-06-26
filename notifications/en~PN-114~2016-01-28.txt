@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of PN-114 is to encourage the use of paperless, electronic payment instruments by Public Works and Government Services (PWGSC) Acquisitions Program (AP) employees and any other person providing procurement services on behalf of AP.</p>
 <p>Acquisition cards can be used as both a procurement instrument and a payment instrument and may result in additional efficiencies. Therefore, at any stage of the procurement process but preferably during the requirements definition, contracting officers should analyze with the client what opportunities may exist in terms of using electronic payment instruments.</p>
@@ -74,5 +76,6 @@ For any questions on the payment instruments, please contact the Receiver Genera
 <li class="views-row views-row-2 views-row-even views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#H3027C">5.H.H3027C: Electronic Payment of Invoices - Contract</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

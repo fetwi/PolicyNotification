@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>An agreement-in-principle was reached between officials of the Department of National Defence (DND) and Public Works and Government Services Canada (PWGSC) to use the Incoterm "FCA Free Carrier (... named place)", whenever possible, rather than Free on Board (FOB) Plant for all DND sole source contracts, and all Repair and Overhaul (R&amp;O) contracts where transportation is not part of the competitive bid. The current Incoterms are Incoterms 2000, hereinafter referred to as FCA. It was agreed that DND will manage the inbound logistics for these contracts by being responsible for the transportation arrangements and associated risks, becoming the importer of record, and being able to invoke Remission Orders. For United States (U.S.) Foreign Military Sales contracts only (not all U.S. contracts) FOB Plant will continue to be used and DND will manage the inbound logistic on those contracts as well.</p>
 <p>Effective immediately, all new DND requisitions for DND sole source contracts, and all Repair and Overhaul (R&amp;O) contracts where transportation is not part of the competitive bid<strong>, </strong>will contain FCA procedures and clauses.</p>
 <p>Current DND sole source contracts with a delivery date well into 2003 or later should be examined to see whether or not they should be amended to include the new Incoterms 2000 clauses. The decision to amend an existing contract should be dealt with on a case-by-case basis and with consultation from DND. There may be a requirement for <acronym title="Public Works and Government Services Canada">PWGSC</acronym> to revalidate administrative and management fees and overhead in those contracts where DND is now taking on the transportation function and associated risks.</p>
@@ -388,4 +390,5 @@
 <p><strong>DELETED.</strong></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

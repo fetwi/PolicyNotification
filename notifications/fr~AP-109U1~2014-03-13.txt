@@ -1,4 +1,5 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Objectif</h2>
 <p>L'Avis relatif aux politiques 109U1 (AP-109U1) vise à refléter les changements apportés aux processus d'examen des approvisionnements régis par la Stratégie d'approvisionnement en matière de défense (SAMD).</p>
 <h2>Date d’entrée en vigueur</h2>

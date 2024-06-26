@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of Policy Notification 72R2 (PN-72R2) is to notify Acquisitions Program (AP) contracting officers of changes to the processes involved in the creation, renewal and extension of Standing Offers (SOs) and Supply Arrangements (SAs), and the related roles and responsibilities of all associated stakeholders regarding posting information to the Standing Offer Index (SOI). The revisions to this <abbr title="Policy Notification">PN</abbr> will strengthen the Department’s management control framework for these procurement instruments.</p>
 <p>For the purposes of this document, <abbr title="Standing Offer">SO</abbr>s include National Master Standing Offer (NMSO), National Individual Standing Offer (NISO), Regional Master Standing Offer (RMSO), Regional Individual Standing Offer (RISO) and Departmental Individual Standing Offer (DISO).</p>
@@ -13,11 +15,11 @@
 <li>Supervisor or Manager in the National Capital Area (NCA), or</li>
 <li>Regional Category Reviewer outside the <abbr title="National Capital Area">NCA</abbr></li>
 </ul>
-<p>For details, consult the <a class="gov" href="http://soi.pwgsc.gc.ca/news/pdf_library/Decision_Tree_for_CRE_of_SOs_and_SAs_ENG.pdf" rel="external">Decision Tree for Creation, Renewal and Extension of Standing Offers and Supply Arrangements (PDF 61 KB)<img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a> - (<a href="https://buyandsell.gc.ca/help/accessibility-help#20">Help on File Formats</a>). To contact a Category Reviewer consult the <a class="gov" href="http://soi.pwgsc.gc.ca/news/pdf_library/PN72_Commodity_Teams-e.pdf" rel="external">Category Management List of Category Reviewers (PDF 73 KB)<img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a>.</p>
+<p>For details, consult the <a class="gov" href="http://soi.pwgsc.gc.ca/news/pdf_library/Decision_Tree_for_CRE_of_SOs_and_SAs_ENG.pdf" rel="external">Decision Tree for Creation, Renewal and Extension of Standing Offers and Supply Arrangements (PDF 61 KB)</a><span> (accessible only on the Government of Canada network)</span> - (<a href="https://buyandsell.gc.ca/help/accessibility-help#20">Help on File Formats</a>). To contact a Category Reviewer consult the <a class="gov" href="http://soi.pwgsc.gc.ca/news/pdf_library/PN72_Commodity_Teams-e.pdf" rel="external">Category Management List of Category Reviewers (PDF 73 KB)</a><span> (accessible only on the Government of Canada network)</span>.</p>
 <ol type="1">
 <li value="1">Review
 
-<br/>Before creating, renewing or extending a <abbr title="Standing Offer">SO</abbr> or <abbr title="Supply Arrangement">SA</abbr>, contracting officers must submit a <a class="gov" href="http://soi.pwgsc.gc.ca/news/pdf_library/Category_Management_Request_for_Category_Reviewer_Endorsement_ENG.doc" rel="external">Category Management Request for Category Reviewer Endorsement (DOC 105 KB)<img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a>  form to the appropriate Category Reviewer who will evaluate the request and subsequently take one of the following actions:
+<br/>Before creating, renewing or extending a <abbr title="Standing Offer">SO</abbr> or <abbr title="Supply Arrangement">SA</abbr>, contracting officers must submit a <a class="gov" href="http://soi.pwgsc.gc.ca/news/pdf_library/Category_Management_Request_for_Category_Reviewer_Endorsement_ENG.doc" rel="external">Category Management Request for Category Reviewer Endorsement (DOC 105 KB)</a><span> (accessible only on the Government of Canada network)</span>  form to the appropriate Category Reviewer who will evaluate the request and subsequently take one of the following actions:
 <ol type="a">
 <li>Endorse it without comment or recommendations</li>
 <li>Endorse it with comments, recommendations, or conditions (conditional endorsement)</li>
@@ -35,7 +37,7 @@ Contracting officers are encouraged to engage a Category Reviewer early in and t
 <li>a <abbr title="Public Works and Government Services Canada">PWGSC</abbr> intranet website link that contains information specific to the <abbr title="Standing Offer">SO</abbr>/<abbr title="Supply Arrangement">SA</abbr>.</li>
 </ol>
 <strong>NOTE:</strong> Regional Individual Standing Offers (RISO) and National Individual Standing Offers (NISO) will be addressed on a case-by-case basis. Posting information to the <abbr title="Standing Offer Index">SOI</abbr> is optional when the Manager responsible for issuing the <abbr title="Standing Offer">SO</abbr>/<abbr title="Supply Arrangement">SA</abbr> has determined that the client has all the necessary information to expedite the procurement.
-<br/>Contracting officers must also ensure that the following criteria are flagged by filling in, where applicable, the appropriate checkboxes in the <a class="gov" href="http://soi.pwgsc.gc.ca/news/pdf_library/SOI_Posting_Template_8.3.2a_ENG.doc" rel="external"><abbr title="Standing Offer Index">SOI</abbr> Information Posting Template (DOC 42 KB)<img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a>:
+<br/>Contracting officers must also ensure that the following criteria are flagged by filling in, where applicable, the appropriate checkboxes in the <a class="gov" href="http://soi.pwgsc.gc.ca/news/pdf_library/SOI_Posting_Template_8.3.2a_ENG.doc" rel="external"><abbr title="Standing Offer Index">SOI</abbr> Information Posting Template (DOC 42 KB)</a><span> (accessible only on the Government of Canada network)</span>:
 <ol type="a">
 <li>holder is an Aboriginal Business;</li>
 <li>products and services have a reduced environmental impact and/or the supplier has an environmental policy or environmental practices;</li>
@@ -72,4 +74,5 @@ Requests to post information on the <abbr title="Standing Offer Index">SOI</abbr
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

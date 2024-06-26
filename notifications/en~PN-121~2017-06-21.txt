@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of Policy Notification (PN) 121 is to encourage the use of acquisition cards (Visa, MasterCard) as another option to procure goods and services under standing offers and supply arrangements (SO/SAs). The acquisition cards can be used instead of form 942 (Call-Up Against a Standing Offer) as the procurement tool. This means that the requirement for issuing form 942 when requesting goods and/or services is no longer mandatory but optional.</p>
 <p>The requirements in terms of the information to be provided as per the Treasury Board <a href="http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=14676" rel="external">Guidelines on the Proactive Disclosure of Contracts</a> for transactions above $10,000 remain the same and need to be respected.</p>
@@ -29,7 +31,7 @@
 </ul>
 <h2>Summary of changes</h2>
 <ul>
-<li>Standard Procurement Templates: In support of this <abbr title="Policy Notification">PN</abbr>, two articles of the Request for Standing Offers standard template – Part 7A - Standing Offer and Resulting Contract Clauses were updated. The modified template can be found on the <a class="gov-auth-link" href="http://www.gcpedia.gc.ca/wiki/Standard_Procurement_Templates" rel="external">Standard Procurement Templates<img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a> page. No change is required for the Request for Supply Arrangements standard procurement template.
+<li>Standard Procurement Templates: In support of this <abbr title="Policy Notification">PN</abbr>, two articles of the Request for Standing Offers standard template – Part 7A - Standing Offer and Resulting Contract Clauses were updated. The modified template can be found on the <a class="gov-auth-link" href="http://www.gcpedia.gc.ca/wiki/Standard_Procurement_Templates" rel="external">Standard Procurement Templates</a><span> (accessible only on the Government of Canada network)</span> page. No change is required for the Request for Supply Arrangements standard procurement template.
 		<ul>
 <li>7.9 entitled Call-up Instruments and</li>
 <li>7.10 entitled Limitation of Call-ups</li>
@@ -75,5 +77,6 @@
 <li class="views-row views-row-2 views-row-even views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#M7010C">5.M.M7010C: Periodic Usage Reports: Standing Offer</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

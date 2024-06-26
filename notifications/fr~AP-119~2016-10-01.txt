@@ -1,4 +1,5 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction</h2>
 <p>La présente vise à informer les agents de négociation des contrats que l’Île-du-Prince-Édouard (Î.-P.-É.) va augmenter la taxe de vente harmonisée (TVH).</p>
 <p>À partir du 1<sup>er</sup> octobre 2016, l’<abbr title="Île-du-Prince-Édouard">Î.-P.-É.</abbr> augmentera la composante provinciale de la <abbr title="taxe de vente harmonisée">TVH</abbr> de 1 %. Le taux combiné de la <abbr title="taxe de vente harmonisée">TVH</abbr> dans cette province augmentera de 14 % à 15 %.</p>

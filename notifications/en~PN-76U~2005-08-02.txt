@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Effective immediately, contracting officers may use clauses M0000T and M0000C bearing the date "2005-06-10", in conjunction with a new clause M0100D, provided at Annex A.    Contracting officers must use the new clause M0100D in their standing offer documents, in conjunction with either M0000T or M0000C as appropriate, in order to incorporate 9403-6, Standard Instructions and Conditions - Standing Offers, by reference.  The clauses must appear in full text within procurement documents.</p>
 <h3>Background</h3>
 <p>The <em>Standard Acquisitions Clauses and Conditions</em> (SACC) Manual Version 05-1, published on June 10, 2005, issued a revised version of clauses M0000T and M0000C.  A problem was subsequently identified in the wording of these clauses, which made it improper to use them as revised.  As a temporary solution, PN-76 advised contracting officers that the June 10, 2005, version of these clauses was temporarily put on hold and contracting officers were to use the prior version of these clauses.   Since then, a new clause, M0100D, has been developed as a solution to the wording problem.  The June 10, 2005, versions of clauses M0000T and M0000C are now reinstated and are to be used in conjunction with the new clause M0100D.</p>
@@ -38,4 +40,5 @@
 <p>7A.081 <strong>(XXXX-XX-XX)</strong> <strong>The</strong> standard instructions and conditions 9403-6, <span>Standing Offers</span>, are designed specifically for standing offers, and should be <strong>incorporated by reference</strong> <span>called-up under the Incorporation by Reference clause M0000T</span> at the beginning of each Request for a Standing Offer and <span>Call-up Against a</span> Standing Offer <strong>and Call-Up Authority</strong> document.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

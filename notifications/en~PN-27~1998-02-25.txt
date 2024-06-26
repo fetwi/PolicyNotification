@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction:</h3>
 <p>This Policy Notification is issued to implement new procedures for setting aside procurements covered by NAFTA and the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> that are subject to Comprehensive Land Claims Agreements, National Park Agreements, or DND Co-operation Agreements<sup><a href="#PN-27n_1">(1)</a></sup>. These procurements will continue to be set aside from NAFTA and the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>. However, additional information specific to the applicable land claims agreement must now be incorporated into the Notice of Proposed Procurement (NPP) and bid solicitation.</p>
 <h3>Background:</h3>
@@ -1368,4 +1370,5 @@
 <p><a id="PN-27n_1" name="n_1"></a>1. Comprehensive Land Claims Agreements, National Park Agreements, and DND Co-operation Agreements are referred to herein as land claims agreements.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

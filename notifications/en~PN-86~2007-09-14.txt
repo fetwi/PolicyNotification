@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose</h3>
 <p>The purpose of this policy notification (PN) 86 is to advise of changes being made to the <em>Supply Manual</em> (Chapter 1, Chapter 5 and Section 7D). These changes remove wording that could result in a misunderstanding about Public Works and Government Services Canada's (PWGSC) accountability for the accuracy of information supplied by clients, and over which PWGSC has no control.</p>
 <p>Refer to <a href="#PN-86annexea">Annex A</a> of this document for changes to the <em>Supply Manual</em>.</p>
@@ -46,4 +48,5 @@
 <p><strong>(Deleted in its entirety)</strong> In accordance with the Guiding Principle of Accountability (see 1.001), procurement officers are responsible for ensuring that, when the technical evaluation has been carried out by the client department, the evaluation process was conducted in a fair and transparent manner, in accordance with the criteria set out in the bid solicitation document.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

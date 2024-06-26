@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of Policy Notification (PN)-128 is to inform all Public Works and Government Services Canada (PWGSC) Acquisitions Program's contracting officers of the implementation of an additional receiving method using Canada Post Corporation’s epost Connect service in the Bid Receiving Unit (BRU), Headquarters (HQ), located in the National Capital Region (NCR). The ability for contracting officers to offer to suppliers the use of the epost Connect service as a delivery method to <abbr title="Bid Receiving Unit">BRU</abbr>s located within Acquisitions Program's regional offices will be provided through amendment(s) to this <abbr title="Policy Notification">PN</abbr>.</p>
 <h2>Effective date</h2>
@@ -79,4 +81,5 @@
 <a href="mailto:tpsgc.outilsdapprovisionnement-procurementtools.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.outilsdapprovisionnement-procurementtools.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions related to the use of GCdocs for procurement files activities can be sent by email to the following address: <a href="mailto:tpsgc.gidga-abim.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.gidga-abim.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>The nature of the revisions to Chapter 11 of the Supply Manual are that they:</h3>
 <p>1. remove the unsupported implication that Contract Claims Resolution Board (CCRB) is empowered (as a third party) to settle disputes by mediation or arbitration;</p>
 <p>2. add the Contract Disputes Advisory Board (CDAB) process which was introduced as a result of the merger of Supply and Services Canada and Public Works; and,</p>
@@ -251,4 +253,5 @@
 <p>The CCRB was formed in January 1994 by the integration of the Contracts Settlement Board (CSB) of the former Supply and Services Canada and the Contract Disputes Advisory Board (CDAB) of the former Public Works Canada. A summary of the dispute resolution processes of the CSB and the CDAB is set forth in 11.201 and 11.202 respectively. (<strong>xx/xx/xx</strong>) (conseil de règlement des différends contractuels).</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>At the suggestion of the Acquisition Policy Council, a working group led by the Manager of Operational Policy Directorate was established in March 2001 to review and revise the existing standing offer policy. The Working Group, formed of representatives from the different Sectors and Regions, was directed to specifically address four identified issues. These were:</p>
 <ul>
 <li>Provide clear data entry instructions to procurement staff to ensure the proper reporting of Standing Offer value (NIL value is not to be used, except for DISO);</li>
@@ -209,4 +211,5 @@
 </ol>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

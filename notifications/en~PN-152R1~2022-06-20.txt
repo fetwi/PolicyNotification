@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 id="PN-152R1a1">Purpose</h2>
 <p>The purpose of Policy Notification (PN)-152R1 is to inform Government of Canada contracting authorities of the suspension of Public Works and Government Services Canada’s (PWGSC) COVID-19 Vaccination Policy for Supplier Personnel (“the policy”).</p>
 <p>This <abbr title="Policy Notification">PN</abbr> replaces <abbr title="Policy Notification">PN</abbr>-152U3 in its entirety.</p>
@@ -64,7 +66,7 @@
 <h3 id="PN-152R1a14">Revisions to the Standard Acquisition Clauses and Conditions Manual (SACC)</h3>
 <p>The <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual has been revised in support of this <abbr title="Policy Notification">PN</abbr>. For more details, refer to the Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections listed below.</p>
 <h2 id="PN-152R1a15">Revisions to the Standard Procurement Templates</h2>
-<p>The <a class="gov" href="https://www.gcpedia.gc.ca/wiki/Standard_Procurement_Templates#Standard_Procurement_Templates" rel="external">Standard Procurement Templates<img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a> have been revised on GCPedia.</p>
+<p>The <a class="gov" href="https://www.gcpedia.gc.ca/wiki/Standard_Procurement_Templates#Standard_Procurement_Templates" rel="external">Standard Procurement Templates</a><span> (accessible only on the Government of Canada network)</span> have been revised on GCPedia.</p>
 <h2 id="PN-152R1a16">Contact information</h2>
 <p>For further questions on this <abbr title="Policy Notification">PN</abbr>, contracting authorities may contact <a href="mailto:tpsgc.pacertificatsvaccins-apvaccinescertificates.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.pacertificatsvaccins-apvaccinescertificates.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions regarding to the Supply Manual can be sent by email to: </p>
@@ -112,5 +114,6 @@
 <li class="views-row views-row-15 views-row-odd views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#S3037T">ARCHIVED: 5.S.S3037T: Applicability of COVID-19 vaccination requirements to individual solicitations</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

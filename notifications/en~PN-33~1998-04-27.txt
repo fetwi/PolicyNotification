@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>1. The simplified <em>Customs Tariff</em> and the related <em>Customs Act</em> amendments are effective from January 1, 1998.</p>
 <p>2. The Government has introduced a new tariff with a single, consolidated schedule to replace the seven previous schedules. The customs legislation has been restructured and updated, whereby regulatory changes have been made prior to the implementation of the new <em>Customs Tariff</em>. Under these changes, the Defence Supplies Remission Order (DSRO) has been revoked and converted to tariff item number 9982.00.00 from Chapter 99-58 of the Schedule to the <em>Customs Tariff</em>.</p>
 <p>3. The regulations under the DSRO are being retained for excise tax purposes.</p>
@@ -39,4 +41,5 @@
 <p>3. The Department of National Defence will be responsible for prearranging remission on importation or for paying customs duties on importation and applying to Revenue Canada for a refund. The importer is responsible for applying to Department of Public Works and Government Services in good time for the certification required by the <em>Customs Tariff</em>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

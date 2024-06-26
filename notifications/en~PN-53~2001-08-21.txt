@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The requirement that requests for confirming orders be made at the Assistant Deputy Minister level no longer applies. Section 7F.692(a) of the Supply Manual will be amended by removing this requirement.</p>
 <hr/>
 <p><strong>7F.692 (xx/xx/xx)</strong> Public Works and Government Services Canada (PWGSC) is not in the business of placing contracts to confirm the actions of client departments. The practice of providing such service to client departments should be discouraged to the maximum extent practicable. However, acknowledging that in some instances it may be necessary for <acronym title="Public Works and Government Services Canada">PWGSC</acronym> to become involved because of its exclusive goods procurement authority, and that <acronym title="Public Works and Government Services Canada">PWGSC</acronym> may have some value to add in processing Confirming Orders or Contracts where the work is incomplete, the following procedures will apply:</p>
@@ -16,4 +18,5 @@
 </ol>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

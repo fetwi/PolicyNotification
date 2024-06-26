@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction</h2>
 <p>The purpose of Policy Notification (PN) 95 is to announce a change to the Formal Procurement Plan process. Most Formal Procurement Plans will now be approved at the director general/regional director general (DG/RDG) level instead of at the level of the Assistant Deputy Minister (ADM), Acquisitions Branch. This change simplifies the approval process and supports an effective and efficient procurement process.</p>
 <p>The <abbr title="Assistant Deputy Minister">ADM</abbr> will continue to approve procurement plans for non-competitive procurements (including non-competitive procurements where an advance contract award notice is used). The <abbr title="Assistant Deputy Minister">ADM</abbr> is to be notified of sensitive procurements once they are approved by the <abbr title="Director General">DG</abbr>/<abbr title="Regional Director General">RDG</abbr> by way of a copy of the signed procurement plan.</p>
@@ -338,4 +340,5 @@ The Formal Procurement Plan format will continue to be used for procurements exc
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

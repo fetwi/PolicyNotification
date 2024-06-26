@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction</h2>
 <p>Public Works and Government Services Canada (PWGSC), through this Policy Notification (PN), is updating the integrity provisions surrounding its procurement and real property transactions. The updated provisions include a new public interest exception and removal of the leniency exemption.</p>
 <h2>Effective Date</h2>
@@ -183,5 +185,6 @@ Again, exemptions to these provisions were provided under the following circumst
 <li class="views-row views-row-21 views-row-odd views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#R5110T">ARCHIVED: 5.R.R5110T: General Instructions to Bidders</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

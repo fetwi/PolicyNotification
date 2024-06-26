@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>We have been advised by Treasury Board Secretariat that the deadline for inclusion of a clause to comply with the<br/>
 					services payment reporting requirement has been extended to May 1, 1998. We know that changes will be required as to the application<br/>
 					and the clause, but since a number of issues remain unresolved, we have decided to suspend implementation of our directive until we are in<br/>
@@ -6,4 +8,5 @@
 					before the new implementation date of May 1, 1998.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>The purpose of Policy Notification (PN) 89 is to update the instructions to Public Works and Government Services Canada (PWGSC) contracting officers regarding non-competitive contracting.</p>
 <p>On September 20, 2007, Treasury Board (TB) promulgated a new  Contracting Policy Notice 2007-04 -  Non-Competitive Contracting to improve the management of non-competitive contracting.  It highlights specifically the need to provide more rigor when invoking exception 6.(d) of the Government Contract Regulations (GCRs), where only one person is capable of performing the contract.  For all procurements above $25K, the questions found in Annex A of the TB CPN 2007-04 are to be answered, accompany the approval document, and be placed on the procurement file.   <a href="#PN-89annexb">Annex B</a> consists of these questions plus a sample MSWord form which may be used by contracting officers and their clients.</p>
@@ -258,4 +260,5 @@
 </tbody></table>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

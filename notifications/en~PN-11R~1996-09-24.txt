@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>VENDOR PERFORMANCE CLAUSE</h3>
 <h4>Use of Vendor Performance Clause</h4>
 <h5>Authority to Reject a Bid</h5>
@@ -63,4 +65,5 @@
 <p>2. Where Canada intends to reject a bid pursuant to a provision of paragraph 1, other than 1(b), the Contracting Authority will so inform the Bidder and provide the Bidder ten (10) days within which to make representations, prior to making a final decision on the bid rejection.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

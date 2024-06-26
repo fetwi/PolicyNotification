@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p><strong>Policy</strong></p>
 <p>In accordance with Treasury Board Secretariat (TBS) Contracting Policy Notice 2003-04, Strengthened Federal Contractors Program for Employment Equity: "Effective July 1, 2003, officials are to implement a revised Federal Contractors Program for Employment Equity through the Treasury Board Contracting Policy (Appendix D). Departments have a three-month transition period from that date to amend their policies and procedures accordingly."</p>
 <p>The revised Policy provides for the sanctioning of contractors that have voluntarily withdrawn from the Program for reasons other than the reduction of their workforce.  Such contractors are declared by Human Resource Development Canada-Labour (HRDC-Labour) ineligible to receive contracts over $25,000 (the Government Contracts Regulations [GCRs] threshold for soliciting bids).</p>
@@ -125,4 +127,5 @@
 <p>The Contractor acknowledges that the Minister has relied upon such certification to enter into this Contract. Such certification may be verified in such manner as the Minister may reasonably require.  The Contractor acknowledges that in the event of a misrepresentation, the Minister shall have the right to treat the Contract as being in default in accordance with the default provisions of the Contract.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

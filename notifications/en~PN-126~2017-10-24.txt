@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p> The purpose of Policy Notification (PN) 126 is to notify all Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) contracting officers and any other persons providing procurement services on behalf of <abbr title="Acquisitions Program">AP</abbr> about the ability to request price certification and audit services from foreign governments.</p>
 <h2> Effective date</h2>
@@ -37,4 +39,5 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

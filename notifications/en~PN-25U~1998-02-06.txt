@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>1. Effective immediately, the Standard Instructions and Conditions DSS-MAS 9403-5 and 9403-6 of the Standard Acquisition Clauses and Conditions Manual have been updated to provide clearer instructions to bidders emphasising that it is the bidder's responsibility for correct delivery of its bid to the specified Bid Receiving area. All risks and consequences of incorrect delivery of bids are the responsibility of the bidder.</p>
 <p>This is an update of PN-25, dated 02 February 1998, which has the similar changes in DSS-MAS 9403.</p>
 <p>2. Please take note also that the effective date (16/06/98) of the changes has been deleted from the text of DSS-MAS 9403.</p>
@@ -237,4 +239,5 @@
 <p>In order to establish the legal capacity under which an Offeror proposes to enter into a Standing Offer, any offeror who carries on business in other than its own personal name shall, if requested by the Contracting Authority, provide proof of the legal capacity under which it carries on business to the Contracting Authority prior to the issuance of a Standing Offer. Such proof may be in the form of a copy of the articles of incorporation or of the registration of the business name of a sole proprietor, of a trade name, of a partnership, etc.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 The purpose of Policy Notification 106 (PN-106) is to notify all Acquisitions Branch and Regional employees of changes to the <cite>Supply Manual</cite> and the Standard Procurement Templates concerning all references to security requirements in contracting.
 
@@ -9,7 +11,7 @@ In 2009, a “fact-finding exercise” was conducted regarding a security file r
 
 In response to this exercise, the Policy, Risk, Integrity and Strategic Management Sector (PRISMS) and the Industrial Security Program (ISP) worked together on reviewing the tools and information available to the procurement staff to help them ensure that security is properly addressed in all contracting documents.
 
-Furthermore, a new <a class="gov-auth-link" href="http://publiservice.tpsgc-pwgsc.gc.ca/ipm-dpi/politique-policy/p123-eng.html" rel="external">Departmental Policy on Compliance and Enforcement with Industrial Security Requirements (DP123)<img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a> has been approved and took effect on June 1, 2012. Information and processes on the application of this policy have been added to chapter 8 of the <cite>Supply Manual</cite>.
+Furthermore, a new <a class="gov-auth-link" href="http://publiservice.tpsgc-pwgsc.gc.ca/ipm-dpi/politique-policy/p123-eng.html" rel="external">Departmental Policy on Compliance and Enforcement with Industrial Security Requirements (DP123)</a><span> (accessible only on the Government of Canada network)</span> has been approved and took effect on June 1, 2012. Information and processes on the application of this policy have been added to chapter 8 of the <cite>Supply Manual</cite>.
 
 A full review of the <cite>Supply Manual</cite> was performed and many changes in the procurement process and the information needed were required. These changes are mostly minor but are important to consider. They are effective immediately. 
 
@@ -84,4 +86,5 @@ A full review of the <cite>Supply Manual</cite> was performed and many changes i
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

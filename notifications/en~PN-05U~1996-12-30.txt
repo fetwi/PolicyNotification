@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>In December 1995, Cabinet approved a program designed to increase Aboriginal business participation in supplying government procurement requirements. One objective of the program is to increase the number of contracts awarded to Aboriginal businesses.</p>
 <p>On March 27, 1996, Minister Ron Irwin (Department of Indian Affairs and Northern Development) announced the Procurement Strategy for Aboriginal Business (PSAB). Included in the strategy is the Set-asideProgram for Aboriginal Business (SPAB).</p>
 <p>On March 27, 1996 Treasury Board Contracting Policy Notice 1996-2 set out the broad parameters of the <acronym title="Procurement Strategy for Aboriginal Business">PSAB</acronym>, including the requirements for mandatory and voluntary set-asides of procurements for Aboriginal Business.</p>
@@ -236,4 +238,5 @@
 <p>The Contract, including all Appendices, Annexes and all terms and conditions, including those incorporated by reference and the "<em>Requirements for the Set-Aside Program for Aboriginal Business"</em> and <em>"Certification Requirements for the Set-Aside Program for Aboriginal Business"</em> documents as completed and submitted by the Bidder, constitute the entire and sole agreement between the parties with respect to the subject matter of the Contract and supersedes all previous negotiations, communications and other agreements, whether written or oral, relating to it, unless they are incorporated by reference in the Contract. There are no terms, covenants, representations, statements of conditions binding on the parties other than those contained in the Contract.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

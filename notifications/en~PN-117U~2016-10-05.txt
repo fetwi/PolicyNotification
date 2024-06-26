@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of PN-117 is to provide direction to contracting officers for the treatment of certifications, declarations and proof documents for all solicitations issued by Public Works and Government Services Canada (PWGSC)’s Acquisitions Program.</p>
 <p>Under this new policy, solicitations may request that bidders, offerors or suppliers provide mandatory certification, declaration or proof at bid closing, but these documents <strong>must not be required</strong> at bid closing unless identified as an exception listed below.</p>
@@ -90,5 +92,6 @@
 <li class="views-row views-row-9 views-row-odd views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#M9015T">5.M.M9015T: Insurance Requirements - Proof of Availability - Prior to issuance of a Standing Offer</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

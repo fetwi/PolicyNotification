@@ -1,4 +1,5 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 id="AP-152R1a1">But</h2>
 <p>L’avis relatif aux politiques (AP)-152R1 a pour but d’informer les autorités contractantes du gouvernement du Canada de la suspension de la Politique de vaccination contre la COVID-19 relative au personnel des fournisseurs (la politique) de Travaux publics et Services gouvernementaux Canada (TPSGC).</p>
 <p>Cet <abbr title="Avis relatif aux politiques">AP</abbr> remplace l’<abbr title="Avis relatif aux politiques">AP</abbr>-152U3 dans son intégralité.</p>
@@ -71,7 +72,7 @@
 <h2 id="AP-152R1a15">Révisions apportées au Guide des clauses et conditions uniformisées d’achat (CCUA)</h2>
 <p>Le Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> a été révisé pour refléter le présent <abbr title="Avis relatif aux politiques">AP</abbr>. Pour plus de détails, veuillez consulter les items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés ci-dessous.</p>
 <h2 id="AP-152R1a16">Révisions apportées aux modèles uniformisés d’approvisionnement</h2>
-<p>Les <a class="gov" href="https://www.gcpedia.gc.ca/wiki/Mod%C3%A8les_uniformis%C3%A9s_d%E2%80%99approvisionnement" rel="external">modèles uniformisés d’approvisionnement<img alt="L’information n'est accessible qu'aux fonctionnaires des ministères et organismes fédéraux." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a> ont été révisés sur GCpédia.</p>
+<p>Les <a class="gov" href="https://www.gcpedia.gc.ca/wiki/Mod%C3%A8les_uniformis%C3%A9s_d%E2%80%99approvisionnement" rel="external">modèles uniformisés d’approvisionnement</a><span> (accessible uniquement sur le réseau du gouvernement du Canada)</span> ont été révisés sur GCpédia.</p>
 <h2 id="AP-152R1a17">Coordonnées</h2>
 <p>Pour toute autre question sur le présent <abbr title="Avis relatif aux politiques">AP</abbr>, les autorités contractantes peuvent utiliser l’adresse suivante : <a href="mailto:tpsgc.pacertificatsvaccins-apvaccinescertificates.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.pacertificatsvaccins-apvaccinescertificates.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Les questions concernant le Guide des approvisionnements peuvent être envoyées à l’adresse suivante : <a href="mailto:tpsgc.paspspublications-apspspublications.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.paspspublications-apspspublications.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p>

@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This Policy Notification is issued to provide updates to the Supply Manual (SM) policies / procedures relating to Comprehensive Land Claims Agreements (CLCAs) based on Treasury Board Secretariat (TBS) Addendum to CPN 1997-8 entitled Amendments and Additions to the Implementation of Contracting Obligations under Comprehensive Land Claims Agreements, National Park Agreements, and Department of National Defence (DND) Cooperation Agreements. Other editorial updates are also provided.</p>
 <p>Amendments which take effect immediately, are as follows:</p>
 <p>1. The addition of Tr'ondëk Hwëch'in Final Agreement to the list of ratified CLCAs listed in procedure 1.047, under Umbrella Final Agreement of the Council for Yukon Indians;</p>
@@ -260,4 +262,5 @@
 <p>Any procurement which has contracting activities that take place within Land Claims Settlement Areas, contracting officers should consult the Policy Analysis and Implementation Division, Supply Policy Directorate (SPD), at telephone number 819-956-0863 to determine whether a CLCA may affect the overall procurement strategy. SPD will assist contracting officers in identifying these obligations and in developing methods of meeting them on a case-by-case basis.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction:</h2>
 <p>This  replaces Policy Notification PN-11R1 of November 4, 2010 in its entirety.  Policy Notification PN-11R2 updates the 1996 version of the Vendor Performance  Policy (VPP) and PN-11R1. These policy notifications clarify the purpose and  scope of the policy, and further standardize the processes and procedures  pertaining to the application of a Vendor Performance Corrective Measure  (VPCM). The fair, open and transparent treatment of vendors  will continue to be a fundamental principle of the policy.</p>
 <p>The policy name has been changed to the Vendor  Performance Corrective Measure Policy (VPCMP). From November 4, 2010 to June 28, 2011, the <abbr title="Vendor Performance Corrective Measure Policy">VPCMP</abbr> was implemented on an extended trial basis. Under the revised policy, terminations  for default and conditional amendments trigger the assessment process and ensuing consequences. However, for  any such events that occurred during the trial period there will be no  resulting consequences for vendors. As of June 29, 2011, the <abbr title="Vendor Performance Corrective Measure Policy">VPCMP</abbr> is fully enforced for  the following:</p>
@@ -661,4 +663,5 @@
 <p><strong><em>(Insert the following paragraph when the termination relates to performance issues within the scope of the Vendor Performance Corrective Measure Policy)</em></strong></p>
 <p>In accordance with the Vendor Performance Corrective Measure Policy, this partial termination for default will trigger a Vendor Performance Corrective Measure assessment at the end of the contract. In addition, a note indicating that there was a partial termination for default for this contract will be registered in the Vendor Information Management system.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

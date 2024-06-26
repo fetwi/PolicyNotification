@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p><strong>Note</strong>: while this notification sets out the policy of the Supply Operations Service with regard to the subject, details are still being discussed with the Treasury Board Secretariat. An update will be issued as soon as possible, to provide further information and assistance in implementation.</p>
 <h2>Introduction</h2>
 <p>Part IV of the<em> Official Languages Act</em> sets out the public's right to communicate with and receive government services in Canada's two official languages. <abbr title="Public Works and Government Services Canada">PWGSC</abbr> is committed to ensuring that its procurement processes respect fully those rights, through the application of this policy, developed after extensive discussion with all Sectors and Regions, and the National Supply Executive Committee.</p>
@@ -76,4 +78,5 @@
 </ol>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

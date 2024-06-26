@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The CKTEA is a bilateral agreement between Canada and Korea which covers federal government procurement of telecommunications goods and incidental services (services included in goods contracts). The CKTEA was signed in early July 1999. The Policy implementing the Agreement was approved by Treasury Board Ministers on May 17, 2001. The CKTEA will take effect on September 1, 2001.</p>
 <p>The CKTEA applies to government procurement of telecommunications goods over $261,216. It does not apply to procurement of telecommunications services.</p>
 <p>Implementation of the CKTEA is different from implementation of NAFTA and the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> in that, when a procurement is covered by the CKTEA, preference may be given to suppliers of Canadian and/or Korean goods.</p>
@@ -1360,4 +1362,5 @@
 <p id="PN-54note3">3 For the purpose of this Agreement, offsets include measures used to encourage local development or improve the balance of payments accounts by means of domestic content, licensing and/or transfer of technology, countertrade, investment requirements, or similar requirements. <a href="#PN-54rt3"><em>(Return to original footnote 3)</em></a></p>
 </div> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

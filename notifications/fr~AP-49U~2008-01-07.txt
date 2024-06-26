@@ -1,4 +1,5 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <!-- InstanceBeginEditable name="content" --><h1><a id="AP-49Ucont" name="cont"><br/>
 AP-49U : Modifications à la Politique du CT sur le titre de propriété intellectuelle découlant des marchés d'acquisition de l'État</a></h1> <div class="region region-site-wide-message">
 <section id="AP-49Usite-wide-message">

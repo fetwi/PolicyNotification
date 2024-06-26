@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Annex B</h2>
 <h3>REMARKS:</h3>
 <p>1. Procurement Officers shall use the latest table (Eastern Canada) or (Western Canada) approved by the Director, Marine Directorate, to prepare the list of shipyard/shiprepair facilities, as required under 3.0 of this clause, where the Work could potentially be undertaken. Procurement Officers are to include from the table the applicable vessel transfer costs for each shipyard/shiprepair facility in the list based on the vessel's home port location and based on whether the Work is under a manned refit. Where the table does not provide a specific home port for the vessel or the name of a potential shipyard/shiprepair facility where Work could potentially be undertaken, Procurement Officers must contact the Director, Marine Directorate (Place du Portage Phase III - 6C2, Phone: 819-956-0664/ Fax: 819-956-0897) to obtain the necessary data.</p>
@@ -21,4 +23,5 @@
 				_________________________</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

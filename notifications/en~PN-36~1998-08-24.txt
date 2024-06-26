@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Effective immediately, Document Type number 22, Contract Code for Pre-Approved Amendments, has been activated for ABE, SPEC and ACCORD systems, and shall be used to identify all pre-approved amendments.</p>
 <p>Amendments that were previously approved and will be coded as Document Type 22 include, but are not limited to:</p>
 <ul>
@@ -10,4 +12,5 @@
 <p>It is anticipated that the procurement process at the front-end will take more planning and preparation since there will be more in-depth analysis and more complex forecasting required to accurately predict additional quantities or unforeseen design changes over the life of the contract. This increase in initial effort and complexity will increase the quality of procurement decisions and will be offset by a reduction in the time and effort to raise, justify and monitor unplanned for amendments/work arisings.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

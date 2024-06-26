@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>INTRODUCTION</h3>
 <p>There is some concern that the Aboriginal Content requirements of the Procurement Strategy for Aboriginal Business are not being applied or not being applied correctly. This is due, in part, to the fact that the instructions on this aspect is contained in an Annex to the main policy statements. Additionally, some clarification to the policy is warranted.</p>
 <p>The current policy statement on this issue is correct as far as it goes. It states (Section 9L, Annex 9.1):</p>
@@ -12,4 +14,5 @@
 <p>Related changes to the Supply Manual will be incorporated in the next amendment, to be released in early 2000.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose</h3>
 <p>The purpose of PN-66 is to revise the policy and guidelines on extending the bid validity period and to incorporate additional terms to the standard instructions and conditions (9403 series) to inform bidders in the original solicitation of Canada's right to seek an extension of bid validity period, and of Canada's options to proceed to award with only those bidders who have agreed to the extension, or to cancel the solicitation, or cancel and reissue the solicitation, should any of the bidders not agree to extend the validity period of their bid.</p>
 <h3>Introduction</h3>
@@ -39,4 +41,5 @@
 <p>In deciding to seek an extension of a bid validity period, contracting officers must be sensitive to the potential impact such an extension may have on bidders, particularly in solicitations involving price fluctuating industries or where bidders put together their prices based on quotes from suppliers that are time-limited. Contracting officers should resort to extensions only when absolutely necessary and request only the most reasonable timeframe.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

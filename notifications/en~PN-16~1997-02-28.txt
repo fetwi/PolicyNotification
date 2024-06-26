@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>1. Printing and related services which were previously obtained from the Canada Communication Group, may now be purchased by clients from Canada Communication Group Inc.- Goupe Communication Canada Inc. (CCG Inc.-GCC Inc.) up to the limits set out in the amendment to the Government Contracts Regulations (GCRs), adding s.6.1 and Schedule I and II.</p>
 <p>1.1 The government has implemented special measures, collectively referred to as the Privileged Administrative Arrangement, or PAA, which permit departments and agencies of the Government to purchase printing and related services from CCG Inc.-GCC Inc., on an optional basis, without competition.</p>
 <p>1.2 The printing and related services which may be purchased from CCG Inc.-GCC Inc. are defined, generally, in the TB Common Services Policy, as printing, integrated forms management, warehousing, distribution, and photocopier facilities management and are more specifically described in the Government Contracts Regulations (s.6.1 and Schedules I and II).</p>
@@ -26,4 +28,5 @@
 </ol>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

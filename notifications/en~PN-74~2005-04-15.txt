@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Policy</h3>
 <p>The <em>"Division of Responsibilities Between <acronym title="Public Works and Government Services Canada">PWGSC</acronym> and DND for the Acquisition of Goods and Services"</em> is revised as per Annex A attached, further to a collaborative effort between Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>) and Department of National Defence (DND).</p>
 <p>Effective immediately, Annex A replaces Annexes 3.1 and 3.1.1 of the Supply Manual (SM), and will be incorporated into the June 10, 2005 release.</p>
@@ -434,4 +436,5 @@
 <strong>TB:</strong> Treasury Board</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

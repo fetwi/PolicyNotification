@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of Policy Notification (PN)-123U1 is to inform Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) contracting officers that the Policy on the Phased Bid Compliance Process (PBCP) was updated and that the <abbr title="Phased Bid Compliance Process">PBCP</abbr> Handbook was made accessible through GCpedia. </p>
 <p><abbr title="Policy Notification">PN</abbr>-123U1 is an update of <abbr title="Policy Notification">PN</abbr>-123.</p>
@@ -15,7 +17,7 @@
 <p>The <abbr title="Phased Bid Compliance Process">PBCP</abbr> Handbook was amended by deleting Annex F - Reporting Requirement in its entirety.</p>
 <p>The changes to the Policy on the <abbr title="Phased Bid Compliance Process">PBCP</abbr> are as follows:</p>
 <ul>
-<li>the <abbr title="Phased Bid Compliance Process">PBCP</abbr> Handbook is now available on the <a class="gov" href="https://www.gcpedia.gc.ca/wiki/Phased_Bid_Compliance_Process" rel="external">Phased Bid Compliance Process GCpedia page<img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a> and no longer needs to be requested by email.</li>
+<li>the <abbr title="Phased Bid Compliance Process">PBCP</abbr> Handbook is now available on the <a class="gov" href="https://www.gcpedia.gc.ca/wiki/Phased_Bid_Compliance_Process" rel="external">Phased Bid Compliance Process GCpedia page</a><span> (accessible only on the Government of Canada network)</span> and no longer needs to be requested by email.</li>
 <li>the Reporting requirement section was deleted in its entirety.</li>
 </ul>
 <h2>Revisions to the Supply Manual</h2>
@@ -34,4 +36,5 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

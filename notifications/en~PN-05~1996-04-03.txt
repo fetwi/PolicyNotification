@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>For some time, we have been working together with staff from Indian and Northern Affairs Canada (INAC) to develop a procurement strategy for aboriginal business in order to meet the government's commitment to stimulate aboriginal business development. This strategy has now been approved and was recently announced by Minister Irwin.</p>
 <p>The strategy consists of a procurement policy for aboriginal business, changes to contracting policy and procurement review policy, supplier development activities and the elimination of administrative obstacles inhibiting aboriginal participation in federal procurement.</p>
 <p>The procurement policy will include a set-aside program for aboriginal business which will restrict all procurements over $5000, when aboriginal populations are the primary recipients, exclusively to qualified aboriginal suppliers. Furthermore, it will provide for a selective set-aside for aboriginal business, when there is capacity and when best value, prudence, probity and sound contracting management can be assured. Finally, it will allow aboriginal business sub-contracting plans to be used as evaluation criteria when appropriate.</p>
@@ -84,4 +86,5 @@
 					or fax 819-994-0445.</strong></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

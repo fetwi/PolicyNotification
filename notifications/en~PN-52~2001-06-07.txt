@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Due to experience gained since the intellectual property (IP) materials in the May 25, 2001, SACC   release were finalized, the following terms should be used.</p>
 <p>The revisions to K3025D, K3320D and K3410D simply replace those in the SACC release. <strong>Remarks are unchanged</strong>. The clauses relating to DSS-MAS 9601-6, 9601-7 and 9624 amend these documents. These  terms will be incorporated in the next available SACC release.</p>
 <p>Changes affect DSS-MAS 9601-6, 9601-7, 9624, K3025D, K3320D and K3410D.</p>
@@ -108,4 +110,5 @@
 </ol>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

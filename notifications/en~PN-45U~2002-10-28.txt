@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p><strong>Objective</strong></p>
 <p> The purpose of this Policy Notification is to reinforce the provision of the Haulage Rates Policy which came into effect on 14 December 1999 (ref. Policy Notification 45) and to expand its application to include the application of fair wages in construction contracts.</p>
 <p><strong>Background</strong></p>
@@ -87,4 +89,5 @@
 <p>2. If the said audit demonstrates that the certification is in error, it is agreed that the Contractor may be subject to sanctions as determined by the federal government.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

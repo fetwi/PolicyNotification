@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of Policy Notification (PN) 123 is to notify all Acquisitions Program (AP) employees and any other persons providing procurement services on behalf of <abbr title="Acquisitions Program">AP</abbr> of a new policy on the Phased Bid Compliance Process.</p>
 <p>The Phased Bid Compliance Process (PBCP) is a process that can be incorporated into solicitations involving either a request for proposal or a request for standing offer (RFP/RFSO). It provides bidders or offerors with an opportunity, after the solicitation closing date, to correct a finding of non-compliance with respect to Eligible Mandatory Requirements. Where a bidder or offeror is evaluated as non-compliant they will be offered an opportunity to submit additional or different information in order to be re-evaluated as compliant with respect to such Eligible Mandatory Requirement. The policy sets out a common set of factors that will be the basis of Public Works and Government Services Canada’s decision concerning whether the <abbr title="Phased Bid Compliance Process">PBCP</abbr> will form part of the terms of a given <abbr title="request for proposal">RFP</abbr>/<abbr title="request for standing offer">RFSO</abbr>.</p>
@@ -98,4 +100,5 @@
 </dl>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

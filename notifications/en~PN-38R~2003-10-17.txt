@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose</h3>
 <p>The purpose of the Policy Notification (PN) is to update the <em>Supply Manual</em> in advance of its next formal publication to bring it into line with current practice in invoking the national security exceptions (NSE) of the various trade agreements, particularly the use of the NSE in non-traditional areas, such as procurement of drugs to deal with potential bio-terror weapons. The PN provides for a streamlined process for requests to invoke NSEs that is separate from the Procurement Plan process.</p>
 <p>The revision also provides some context for the use of the NSE, noting, for instance, that invoking an NSE does not limit or define the choice of procurement method. For example, the use of the NSE does not dictate that the requirement must be sole-sourced or that where it is justified to sole source the requirement, an Advanced Contract Award Notice can not be used.</p>
@@ -56,4 +58,5 @@
 <p><em>Contracting officers seeking advice to aid client departments in properly framing and requesting a national security exception should contact PPD at 819-956-0869.</em></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

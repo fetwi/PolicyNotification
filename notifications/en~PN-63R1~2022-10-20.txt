@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of <abbr title="Policy Notification">PN</abbr>-63R1 is to inform Public Works and Government Services Canada (PWGSC) Acquisitions Program of changes resulting from the coming into effect of the Treasury Board (TB) <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32692" rel="external"><cite>Directive on the Management of Procurement</cite></a>.</p>
 <h2>Effective date</h2>
@@ -57,4 +59,5 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

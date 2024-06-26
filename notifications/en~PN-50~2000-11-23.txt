@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Further to a recent review of the Federal Contractors Program for Employment Equity (FCP-EE) policy, it has been decided to implement the following change in the requirement concerning Certifications of Commitment or Certification numbers.</p>
 <p>Bidders will continue to be asked whether the Program applies to them or not, and in the affirmative, they will be required to provide a Certification of Commitment, or their valid Certification number in the case where they have certified their commitment previously.</p>
 <p>However, it will no longer be mandatory that this information be provided by bid closing. Contracting officers will be responsible for ensuring compliance of the proposed contractor with the FCP EE requirement <strong>prior to contract award</strong>.</p>
@@ -47,4 +49,5 @@
 <p>The contracting officer is to treat any bid, regardless of value, from a supplier under sanction for non-compliance with the Employment Equity policy as non-responsive.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

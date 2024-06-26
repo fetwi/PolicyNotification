@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The SACC Manual clauses listed below have been modified to clarify the meaning of the Canadian Content Policy clauses and to improve consistency in the treatment of bidders.</p>
 <p>The updated clauses require that the bidder submit the Canadian Content certification with the bid; otherwise goods and services in the bid will be treated as non-Canadian.</p>
 <p>Related changes to the Supply Manual (e.g. revising the definition of a Canadian service) have been made and are attached.</p>
@@ -185,4 +187,5 @@
 <p>7.368 The onus is on the supplier to demonstrate that its bid meets the definition of Canadian goods and services. The supplier must execute and submit the certification form with bid (see also 5.074). When the SACC Manual clauses K4003T, K4004T, K4005T or K4006T (Individual Item Evaluation) are used, the supplier must clearly identify the status of each individual product.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

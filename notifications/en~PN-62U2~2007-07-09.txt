@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>The purpose of Policy Notification (PN) 62U2 is to update the Department of National Defence (DND) shipping instructions and customs clauses detailed in <em>Standard Acquisitions Clauses and Conditions (</em>SACC) Manual clauses (C2608D, D0035D, D0036D, D0037D and D0038D) and in the Supply Manual (SM) procedure <a href="#PN-62U2a6e_622">6E.622</a>.</p>
 <h3>Procedures</h3>
@@ -237,4 +239,5 @@
 </ol>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

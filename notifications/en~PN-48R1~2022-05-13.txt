@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of Policy Notification (PN)-48R1, is to update the obligations for acquisitions Program (AP) contracting officers in respect of the <a href="https://laws-lois.justice.gc.ca/eng/acts/o-3.01/" rel="external"><cite>Official Languages Act</cite></a> (OLA).</p>
 <h2>Effective date</h2>
@@ -45,5 +47,6 @@
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#INTRO">0.INTRO: Using the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

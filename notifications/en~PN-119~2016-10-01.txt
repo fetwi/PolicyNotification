@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction</h2>
 <p>This is to inform contracting officers that Prince Edward Island (P.E.I.) will increase the Harmonized Sales Tax (HST). </p>
 <p>As of October 1, 2016, <abbr title="Prince Edward Island">P.E.I.</abbr> will increase the provincial component of the <abbr title="Harmonized Sales Tax">HST</abbr> by 1%. The blended rate of the <abbr title="Harmonized Sales Tax">HST</abbr> in that province will increase from 14% to 15%.</p>
@@ -150,4 +152,5 @@
 </tbody></table>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

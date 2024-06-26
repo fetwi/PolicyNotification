@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction</h2>
 <p>The purpose of Policy Notification PN-11R1 is to update the Vendor Performance Policy (<abbr title="Vendor Performance Policy">VPP</abbr>) issued in 1996. <abbr title="Public Works and Government Services Canada">PWGSC</abbr> has clarified the purpose of the <abbr title="Vendor Performance Policy">VPP</abbr>, which is to mitigate risks for future contracts, and has further standardized the processes and procedures for the approval and application of a Vendor Performance Corrective Measure (<abbr title="Vendor Performance Corrective Measure">VPP</abbr>). The fair, open and transparent treatment of vendors will continue to be a fundamental principle of the <abbr title="Vendor Performance Policy">VPP</abbr>.</p>
 <p>Following the effective date of this <abbr title="Policy Notification">PN</abbr> there will be a trial period until March 31, 2011 during which no consequences against vendors under the revised <abbr title="Vendor Performance Policy">VPP</abbr> will be enforced. As of April 1, 2011, the revised <abbr title="Vendor Performance Policy">VPP</abbr> will be finalized and fully in effect.</p>
@@ -387,4 +389,5 @@
 </ol>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

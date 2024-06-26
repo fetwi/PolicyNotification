@@ -1,4 +1,5 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Objet</h2>
 <p>Le présent avis relatif aux politiques (AP)-140 vise à informer les agents de négociation des contrats du Programme des approvisionnements (PA) de Travaux publics et Services gouvernementaux Canada (TPSGC) de la création d'un nouveau groupe de produits (GP) en gestion de l'information et technologie de l'information (GI-TI), soit les logiciels-services (<abbr lang="en" title="Software as a Service">SaaS</abbr>) dans un nuage public, et la clause d'accompagnement à utiliser pour ce groupe de produits.</p>
 <h2>Date d'entrée en vigueur</h2>
@@ -16,7 +17,7 @@
 <h2>Révisions au Guide des approvisionnements </h2>
 <p>4.70.90 Limitation de la responsabilité du Guide des approvisionnements a été révisée  pour inclure de l'information spécifique sur le groupe de produits des logiciels-services dans un nuage public.</p>
 <h2>Révisions dans MaSource</h2>
-<p>Le nouveau groupe de produits a été ajouté à la page des <a class="gov" href="http://intranet.tpsgc-pwgsc.gc.ca/app-acq/text/ca-pc/gp-cg-fra.html" rel="external">groupe de produits<img alt="L’information n'est accessible qu'aux fonctionnaires des ministères et organismes fédéraux." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a> dans MaSource.</p>
+<p>Le nouveau groupe de produits a été ajouté à la page des <a class="gov" href="http://intranet.tpsgc-pwgsc.gc.ca/app-acq/text/ca-pc/gp-cg-fra.html" rel="external">groupe de produits</a><span> (accessible uniquement sur le réseau du gouvernement du Canada)</span> dans MaSource.</p>
 <h2>Coordonnées</h2>
 <p>Les questions sur l'avis relatif aux politiques (AP)-140 peuvent être envoyées à l'adresse <a href="mailto:TPSGC.DPPApublications-APPDpublications.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.DPPApublications-APPDpublications.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Les questions sur le Guide des approvisionnements et le Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> peuvent être envoyées à l'équipe de la GA/<abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> du Secteur de la politique stratégique à l'adresse suivante : <a href="mailto:TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>

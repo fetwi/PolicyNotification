@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of Policy Notification PN-128U2 is to inform Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) contracting officers of updates and required modifications to the Canada Post Corporation’s (CPC) Connect reception method.</p>
 <p><abbr title="Policy Notification">PN</abbr>-128U2 is an update of <abbr title="Policy Notification">PN</abbr>-128U1.</p>
@@ -55,5 +57,6 @@
 <li class="views-row views-row-4 views-row-even views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#C2801C">5.C.C2801C: Priority Rating: Canadian-based contractors</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

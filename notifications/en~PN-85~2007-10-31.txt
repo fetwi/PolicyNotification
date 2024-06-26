@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction</h2>
 <p>The purpose of Policy Notification (PN) 85 is to update contracting officers on requirements related to security in contracting and the PWGSC-TPSGC 9200 requisition form, and to incorporate new procedures into the <em>Supply Manual</em>.</p>
 <h2>Policy</h2>
@@ -183,4 +185,5 @@
 <p>9J.4 (2007-xx-xx) Before establishing a supply arrangement, the contracting officer will prepare and issue a competitive Request for a Supply Arrangement, which will allow for a suitable pool of suppliers under the stated evaluation criteria. Industrial Security requirements (i.e. Personnel, Physical and Information Technology security) should be identified at this time, when any or all of these security aspects will be applicable to all clients of the supply arrangement. (<em>Refer to 3.009, 6C.270 - 6C.278, and 7E.534 - 7E.536 for additional information on handling procurements with security requirements</em>.)</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

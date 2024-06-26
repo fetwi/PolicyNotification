@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction</h2>
 <p>The purpose of this Policy Notification (PN)-75U1 is to provide instructions to Public Works and Government Services Canada (PWGSC) contracting officers on how to complete procurement reporting (i.e. coding) after issuing a task authorization (TA) contract or TA contract amendment.</p>
 <h2>Policy</h2>
@@ -23,4 +25,5 @@
 <p>For general inquiries about procurement reporting, send an e-mail to : <a href="mailto:ncr.ACQBReporting@pwgsc-tpsgc.gc.ca" rel="external">ncr.ACQBReporting@pwgsc-tpsgc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

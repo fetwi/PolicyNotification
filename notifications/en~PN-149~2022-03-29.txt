@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 id="PN-149a1">Purpose</h2>
 <p>The purpose of Policy Notification (PN)-149 is to provide guidance to Acquisitions Program (AP) contracting officers on electronic file documentation during the procurement process.</p>
 <h2 id="PN-149a2">Effective date</h2>
@@ -22,7 +24,7 @@
 <li>procurement files are well documented and complete</li>
 <li>key documents and decisions are included to provide the file’s complete history</li>
 <li>the information within the appropriate systems is updated with accuracy, such as the Automated Buyer Environment (ABE), <abbr title="Electronic Procurement Solution">EPS</abbr>, Galileo and Darwin; and</li>
-<li>information received or created in electronic format outside of <abbr title="Electronic Procurement Solution">EPS</abbr>, is maintained in its original format and filed in the applicable <a class="gov" href="https://gcdocs.gc.ca/tpsgc-pwgsc/llisapi.dll/open/32362105" rel="external">GCdocs procurement case file folder<img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a>.</li>
+<li>information received or created in electronic format outside of <abbr title="Electronic Procurement Solution">EPS</abbr>, is maintained in its original format and filed in the applicable <a class="gov" href="https://gcdocs.gc.ca/tpsgc-pwgsc/llisapi.dll/open/32362105" rel="external">GCdocs procurement case file folder</a><span> (accessible only on the Government of Canada network)</span>.</li>
 </ol>
 <h2 id="PN-149a6">Summary of changes</h2>
 <h3 id="PN-149a7">Revisions to the Standard Acquisition Clauses and Conditions Manual (SACC)</h3>
@@ -50,4 +52,5 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Background</h3>
 <p>It was agreed in a Public Works and Government Services Canada (PWGSC) letter to Department of National Defence (DND) dated 03 March 2003, that the management and control of all production assets, including Special Production Tooling and Special Test Equipment (SPT/STE) generated under defence contracts, and DND loaned materiel, would become the responsibility of DND/Director Disposal, Sales, Artifacts and Loans (DDSAL). Consequently, all DND loan agreements will be processed by DND/DDSAL and records of all materiel on loan will be maintained in that central location. Existing DND loan agreements will be amended to reflect this.</p>
 <p>It should be noted that the management of production assets on behalf of Canadian Commercial Corporation will continue to be performed by PWGSC/Production and Assets Management Services (PAMS). </p>
@@ -42,4 +44,5 @@
 <p>11.245 (DD/MM/03) The contractor shall report lost, damaged or destroyed DND loaned materiel in writing to DND/DDSAL which is responsible for coming to a resolution with the contractor. </p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

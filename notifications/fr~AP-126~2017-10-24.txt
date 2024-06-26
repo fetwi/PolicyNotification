@@ -1,4 +1,5 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>But</h2>
 <p>Le but de l'avis relatif aux politiques (AP) 126 est d'aviser les agents de négociation des contrats du Programme des approvisionnements de Travaux publics et Services gouvernementaux Canada (TPSGC) de la capacité de demander des services d'attestations et de vérification des prix aux gouvernements étrangers. </p>
 <h2>

@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Purpose</h2>
 <p>The purpose of Policy Notification 50R1 (PN-50R1) is to reflect changes to the Federal Contractors Program (FCP) for employment equity.</p>
 <h2>Effective date</h2>
@@ -18,7 +20,7 @@
 <p>In support of this <abbr title="Policy Notification">PN</abbr>, the <cite>Supply Manual</cite> has been updated. To view the modified sections, please refer to "Affected Supply Manual Section(s)" below.</p>
 <h2>Revisions to the Standard Acquisition Clauses and Conditions (SACC) and to the Standard Procurement Templates</h2>
 <p>Changes have been made to the obligations of both the Contractors and Contracting/Standing Offer Authorities in the application of the Federal Contractors Program (FCP) for employment equity. </p>
-<p>Therefore, the relevant <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Clauses and all five <a class="gov-auth-link" href="http://www.gcpedia.gc.ca/wiki/Procurement_community/Tools/Solicitation_and_contract_templates/PWGSC_Standard_Procurement_Templates" rel="external">standard procurement templates<img alt="The information is only accessible to federal government department and agency employees." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a> (published on GCpedia) have been revised to reflect these changes:</p>
+<p>Therefore, the relevant <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Clauses and all five <a class="gov-auth-link" href="http://www.gcpedia.gc.ca/wiki/Procurement_community/Tools/Solicitation_and_contract_templates/PWGSC_Standard_Procurement_Templates" rel="external">standard procurement templates</a><span> (accessible only on the Government of Canada network)</span> (published on GCpedia) have been revised to reflect these changes:</p>
 <ul>
 <li><abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Clauses A3030T and A3031T have been cancelled and replaced by a Mandatory Certification precedent to Contract Award in Part 5 of the Higher Complexity and Medium Complexity Bid Solicitation and Resulting Contract Templates and in Part 1 of the Low Dollar Value (Simple) Bid Solicitation and Resulting Contract Template, as applicable.</li>
 <li><abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Clauses M2000T and M2002T have been cancelled and replaced by a Mandatory Certification precedent to the issuance of a Standing Offer in Part 5 of the Request for Standing Offer Template, as applicable.</li>
@@ -90,5 +92,6 @@
 <li class="views-row views-row-15 views-row-odd views-row-last">
 <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#S3031T">ARCHIVED: 5.S.S3031T: Federal Contractors Program - over $25,000 and below $200,000</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

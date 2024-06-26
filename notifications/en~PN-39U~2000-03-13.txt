@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>A great deal of attention has be given to sole-sourcing within government. The Standing Committee of Public Accounts devoted a considerable amount of time to this issue and raised several concerns. More recently, the Auditor General issued in November, 1999 a second report on the sole-sourcing of service contracts. As a result, the <acronym title="Public Works and Government Services Canada">PWGSC</acronym> ACAN policy has been reviewed.</p>
 <p>A general review of the ACAN policy is underway which will result in a number of changes in the near future. However, until such time as the review is completed, the following are reminders:</p>
 <p>1. Procurement personnel are encouraged to include sufficient information in ACANs to allow potential suppliers to make an informed decision as to their ability to fulfill the requirement. Such information should include the description and estimated value of the requirement, (or rough order of magnitude, if a more exact figure will impact on negotiations with the proposed contractor).</p>
@@ -30,4 +32,5 @@
 					Contracting Officer</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

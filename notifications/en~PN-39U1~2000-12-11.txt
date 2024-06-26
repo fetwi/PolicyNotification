@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Further to PN-39U dated 13 March 2000, the ACAN policy review lead by Treasury Board Secretariat (TBS) has been completed and a revised policy entitled <em>Guide for Managers: Best Practices For Using Advance Contract Award Notices (ACANs)</em> has been approved by TB Ministers on October 5, 2000. Our ACAN policy has been rewritten accordingly.</p>
 <p>Key points are as follows:</p>
 <ul>
@@ -111,4 +113,5 @@
 <p><strong>11. Inquiries and Submission of Statements of Capabilities</strong>. Include the name, position, address, phone, fax and e-mail address where suppliers may inquire or submit a statement of capabilities.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

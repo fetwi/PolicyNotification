@@ -1,4 +1,6 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div class="field field-name-field-body field-type-text-long field-label-hidden">
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<div>
+<div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>A new version of MERX will launch on Monday May 31, 2004. MERX is the trade mark under which Mediagrif Interactive Technologies Inc. is operating the Government Electronic Tendering Service (GETS). The new MERX remains the window through which PWGSC's suppliers access contracting opportunities with the federal government. The purpose of this Policy Notification (PN-67) is to highlight the key changes for PWGSC's contracting officers resulting from the implementation of the new MERX and to update the applicable guidance and policy in the Supply Manual. Contracting officers should read the information provided below as well as the updates to the Supply Manual provided in <strong>Annex A</strong>, to familiarize themselves with the changes as a result of the new MERX. Additional information is available in the Questions &amp; Answers (Qs&amp;As) provided by the GETS Project Team.</p>
 <h3>Updates</h3>
@@ -94,4 +96,5 @@
 <p>7F.717 (XX/XX/XX) Award notices are generated automatically through the Automated Buyer Environment (ABE) and published on the Government Electronic Tendering Service (GETS) (MERX) for all publicly advertised procurements. However, where the procurement is not advertised for reasons related to national security, an Award Notice will not be posted. Contracting officers must identify the appropriate Goods and Services Identification Number (GSIN), to the eight-character level, for each contract. Please note that contracting officers who do not use ABE are responsible for creating an award notice using the MERX on-line notice creation tool, as MERX will not create this notice automatically.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>
