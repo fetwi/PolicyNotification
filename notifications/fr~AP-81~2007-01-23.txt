@@ -118,7 +118,7 @@ AP-81 : Évaluation des prix offerts</a></h1> <div class="region region-site-wi
 <p>Tous les employés de TPSGC ayant participé à l'évaluation<br/>
 						des prix offerts doivent signer le rapport d'évaluation du prix.</p>
 </div>
-<div class="topPage"><a href="#AP-81tphp" title="Retourner au haut de la page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"><a href="#AP-81tphp" title="Retourner au haut de la page"><br/>
 				Haut de la page</a></div>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

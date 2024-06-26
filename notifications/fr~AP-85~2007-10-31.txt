@@ -57,14 +57,14 @@ AP-85 :	Sécurité des contrats et changements au formulaire de demande 9200</a
 <p> Il est à noter que le <em>Guide des approvisionnements</em> est un document évolutif. La version électronique du Guide, disponible sur le site Web de TPSGC, est habituellement mise à jour deux fois l'an et, entre ces mises à jour, révisée de façon provisoire par voie d'avis relatifs aux politiques.</p>
 <h2>Personne ressource</h2>
 <p><strong>S/O</strong></p>
-<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Haut de la page</a></div>
+<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><br/>Haut de la page</a></div>
 <hr/>
 <h2><a id="AP-85annexa" name="annexa"></a>Annexe A - RÉVISIONS AU GUIDE DES APPROVISIONNEMENTS</h2>
 <h3>Chapitre 1 - Vue d'ensemble</h3>
 <h4>Achats de Travaux publics et Services gouvernementaux Canada</h4>
 <p>1.001 (2007-xx-xx) Le présent guide décrit les activités d'approvisionnement de Travaux publics et Services gouvernementaux Canada (TPSGC). Il contient les lois, politiques et règlements pertinents du gouvernement et du Ministère. On y explique pourquoi et comment le Ministère mène ses activités d'approvisionnement. Il a été écrit à l'intention des agents de négociation des contrats de TPSGC.</p>
 <p>					Ce guide est un document évolutif, puisque le cadre législatif, politique et méthodologique pour les marchés publics n'est pas statique. La version électronique du <em>Guide des approvisionnements</em>, disponible sur le site Web de TPSGC, est habituellement mise à jour deux fois l'an. Des avis relatifs aux politiques permettent, de façon provisoire, la mise en œuvre de politiques et de procédures, nouvelles ou modifiées, ou de dispositions et de conditions générales, jusqu'à ce qu''il soit possible de les incorporer dans les guides appropriés, soit le <em>Guide des clauses et conditions uniformisées d'achat</em> ou le <em>Guide des approvisionnements</em>.</p>
-<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Haut de la page</a></div>
+<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><br/>Haut de la page</a></div>
 <h3>Chapitre 3 - Réception d'une commande</h3>
 <h4>Examen</h4>
 <p><strong>Exigences en matière de sécurité industrielle</strong></p>
@@ -160,7 +160,7 @@ AP-85 :	Sécurité des contrats et changements au formulaire de demande 9200</a
 </li>
 <li>La section de la demande portant sur la sécurité a-t-elle été remplie? Si une Liste de vérification des exigences relatives à la sécurité est requise, est-elle jointe à la commande?</li>
 </ul>
-<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Haut de la page</a></div>
+<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><br/>Haut de la page</a></div>
 <h3>Chapitre 5 - Stratégie de sélection des fournisseurs</h3>
 <h4>Offres à commandes</h4>
 <p><strong>Sécurité industrielle</strong></p>
@@ -173,7 +173,7 @@ AP-85 :	Sécurité des contrats et changements au formulaire de demande 9200</a
 <li>Si on ne doit pas utiliser l'offre à commandes avec des commandes subséquentes, dans les cas où il faut exiger une cote de sécurité à quelque niveau que ce soit.</li>
 </ol>
 <p><em>Voir 3.009, 6C.270 - 6C.278, et 7E.534 - 7E.536 pour plus de renseignements concernant le traitement des approvisionnements avec des exigences en matière de sécurité.</em></p>
-<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Haut de la page</a></div>
+<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><br/>Haut de la page</a></div>
 <h3>Section 6C : Gestion des risques</h3>
 <h4>Exigences en matière de sécurité industrielle (personnel ou organismes)</h4>
 <p>6C.271 (2007-xx-xx) Les renseignements ou biens de nature délicate (protégés ou classifiés), destinés à l'extérieur du Canada, doivent passer par la Section du contrôle des documents (SCD) de la DSIC seulement. La SCD s'occupera de la transmission et de la réception ultérieures par l'intermédiaire de réseaux sécuritaires approuvés.</p>
@@ -192,7 +192,7 @@ AP-85 :	Sécurité des contrats et changements au formulaire de demande 9200</a
 <li>fournira aux fournisseurs canadiens les instructions sur la préparation et la transmission des renseignements ou biens protégés. Les biens ou les renseignements classifiés devront être envoyés à la SCD.</li>
 </ol>
 <p>6C.273 (2007-xx-xx) Une demande de soumission peut prévoir, en tant qu'exigence technique obligatoire, que l'organisme soit tenu d'obtenir une attestation de sécurité appropriée au plus tard à la date limite des soumissions, en s'assurant qu'une telle exigence ne puisse être interprétée comme élément discriminatoire injuste entre les fournisseurs éventuels. L'organisme peut également obtenir l'attestation de sécurité après que l'entrepreneur éventuel a été choisi, à la condition que la demande ne contienne aucun renseignement de nature délicate (protégé ou classifié). (<em>Voir 3.009 et 7E.534 - 7E.536 pour plus de renseignements concernant le traitement des approvisionnements avec exigences en matière de sécurité.</em>)</p>
-<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Haut de la page</a></div>
+<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><br/>Haut de la page</a></div>
 <h3>Section 7E : Adjudication des contrats</h3>
 <h4>Vérification de la conformité du statut sécuritaire du personnel et de l'organisation aux exigences de sécurité</h4>
 <p>7E.534 (2007-xx-xx) Si un contrat proposé prévoit des exigences relatives à la sécurité à l'égard du personnel, de la technologie de l'information et des installations, une copie des documents pertinents doit être envoyée, avant que ne soit attribué le contrat, à la Direction de la sécurité industrielle canadienne (DSIC) afin que l'on puisse vérifier que toutes les mesures de sécurité nécessaires y sont traitées. (<em>Voir 3.009 et 6C.270 - 6C.278 pour plus de renseignements concernant le traitement des approvisionnements avec des exigences en matière de sécurité.</em>)</p>
@@ -200,11 +200,11 @@ AP-85 :	Sécurité des contrats et changements au formulaire de demande 9200</a
 <p>					L'agent de négociation des contrats doit ensuite obtenir l'approbation de la DSIC pour ces procédures en effectuant au besoin la liaison avec la DSIC et le ministère client. Le client devra fournir à l'agent de négociation des contrats de TPSGC une évaluation des risques et des menaces (ERM).  Les procédures d'atténuation des risques de sécurité et l'ERM fournies par l'agent de sécurité ministériel (ASM) du ministère client ainsi que l'approbation accordée par la DSIC à ces procédures doivent être consignées dans le dossier.</p>
 <p>					Le ministère client a la responsabilité d'assurer l'application des procédures identifiées d'atténuation des risques de sécurité afin que l'entrepreneur et ses sous-traitants n'aient pas accès aux sites des travaux ou à des renseignements sensibles ou classifiés avant d'obtenir les attestations nécessaires. </p>
 <p>7E.536 (2007-xx-xx) Si, à tout moment durant la période couverte par le contrat, l'OC ou l'AA, l'agent de négociation des contrats constate qu'un sous-traitant dont le statut sécuritaire n'a pas été vérifié auprès de la DSIC aura accès aux sites des travaux ou à des renseignements sensibles ou classifiés, l'agent de négociation des contrats doit s'assurer auprès de la DSIC que le sous-traitant satisfait aux exigences en matière de sécurité.</p>
-<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Haut de la page</a></div>
+<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><br/>Haut de la page</a></div>
 <h3>Section 7F : Mesures à prendre après l'adjudication d'un contrat</h3>
 <h4>Exigences en matière de sécurité industrielle</h4>
 <p>7F.724 (2007-xx-xx) Si le contrat, l'OC ou l'AA renferme des exigences en matière de sécurité, il faut faire parvenir une copie du contrat, de l'OC ou de l'AA à la Direction de la sécurité industrielle canadienne dans les deux (2) jours ouvrables qui suivent l'émission du document. Les agents de négociation des contrats peuvent faire parvenir une version PDF du document par courriel à « SNCR ISR CONTRACTS », avec Microsoft Outlook, ou à <a href="mailto:sncrcontracts@tpsgc-pwgsc.gc.ca" rel="external">sncrcontracts@tpsgc-pwgsc.gc.ca</a>. (<em>Voir 3.009, 6C.270 - 6C.278 et 7E.534 - 7E.536 pour plus de renseignements concernant le traitement des approvisionnements avec des exigences en matière de sécurité.</em>)</p>
-<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Haut de la page</a></div>
+<div class="topPage"> <a href="#AP-85tphp" title="Retourner au haut de la page"><br/>Haut de la page</a></div>
 <h3>Section 9J : arrangements en matière d'approvisionnement</h3>
 <p>9J.4 (2007-xx-xx) Avant l'établissement d'un AA, l'agent de négociation des contrats élaborera et publiera une demande d'arrangement en matière d'approvisionnement concurrentielle, qui permettra de sélectionner un groupe convenable de fournisseurs en fonction des critères d'évaluation énoncés. À ce même moment, les exigences en matière de sécurité industrielle (c.-à-d. la sécurité du personnel, des installations et de la technologie de l'information) doivent être définies, lorsque tous les clients qui auront recours à l'AA seront visés par un ou tous ces aspects relatifs à la sécurité. (<em>Voir 3.009, 6C.270 - 6C.278 et 7E.534 - 7E.536 pour plus de renseignements concernant le traitement des approvisionnements avec des exigences en matière de sécurité.</em>)</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">

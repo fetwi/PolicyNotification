@@ -70,7 +70,7 @@
 <li><a href="#PN-79annexb"><strong>Annex B - Changes to Supply Manual</strong></a></li>
 </ul>
 <h2 id="PN-79aone">APPENDIX 1 TO ANNEX A</h2>
-<div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
 <h3>2T-PROC2 (2006-08-15) Procedures for Using the Request for Standing Offers Template - Goods or Services</h3>
 <p>The Request for Standing Offers (RFSO), the standard instructions and the general conditions for standing offers were established in consultation with Public Works and Government Services Canada (PWGSC) Legal Services.</p>
@@ -153,7 +153,7 @@
 <p>1.9	WAY FORWARD</p>
 <p>An introductory paragraph under the RFSO Part I, Article 1 "Introduction" must be included for all Way Forward requirements.</p>
 <h2 id="PN-79atwo">APPENDIX 2 TO ANNEX A</h2>
-<div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
 <h3>2006 (2006-08-15) Standard Instructions - Request for Standing Offers - Goods or Services</h3>
 <h3>Public Works and Government Services Canada</h3>
@@ -308,7 +308,7 @@
 <li>For RFSOs issued out of PWGSC headquarters, enquiries concerning receipt of offers may be addressed to the Bid Receiving Unit, Procurement Operational Support Division, telephone 819-956-3370. For RFSOs issued out of PWGSC regional offices, enquiries concerning receipt of offers may be addressed to the Standing Offer Authority identified in the RFSO</li>
 </ol>
 <h2 id="PN-79athree">APPENDIX 3 TO ANNEX A</h2>
-<div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
 <h3>2005 00 (2006-08-15) General Conditions - Standing Offer - Goods or Services</h3>
 <h3>Public Works and Government Services Canada</h3>
@@ -357,7 +357,7 @@
 <h4>2005 08 (2006-08-15) Disclosure of Information</h4>
 <p>The Offeror agrees to the disclosure of its standing offer unit prices or rates by Canada, and further agrees that it will have no right to claim against Canada, the Identified User, their employees, agents or servants, or any of them, in relation to such disclosure.</p>
 <h2 id="PN-79afour">APPENDIX 4 TO ANNEX A</h2>
-<div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
 <h3>2T-RFSO1 (2006-08-15) Request for Standing Offers Template - Goods or Services</h3>
 <div>
@@ -918,7 +918,7 @@
 <h3>SECURITY REQUIREMENTS CHECK LIST</h3>
 <h4><em>(SRCL MUST BE INSERTED, if applicable)</em></h4>
 <h2 id="PN-79afive">APPENDIX 5 TO ANNEX A</h2>
-<div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
 <h3>Modifications to 9601, General Conditions - Long Form</h3>
 <p><strong>The following sections have been added.</strong></p>
@@ -966,7 +966,7 @@
 <h4>9601	43 (2006-08-15) Shipment into Canada</h4>
 <p>Goods shipped into Canada from another country are to be consigned to destination, in bond, unless otherwise directed.</p>
 <h2 id="PN-79asix">APPENDIX 6 TO ANNEX A</h2>
-<div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
 <h3>Modifications to 9676, General Conditions - Services</h3>
 <p><strong>The following sections have been added.</strong></p>
@@ -1004,7 +1004,7 @@
 <p>Invoices must be submitted in the name of the Contractor.  They must show the name and address of the client department, item/reference number, deliverable and/or description of Work, contract serial number, Client Reference Number (CRN), Procurement Business Number (PBN) and financial code(s).  If applicable, the method of shipment together with date, case numbers and part or reference numbers, item, quantity, unit of issue, unit price, and additional charges will be shown on the invoice.  If applicable, fixed time labour rates and level of effort and, the amount invoiced (exclusive of the Goods and Services Tax {GST} or Harmonized Sales Tax {HST} as appropriate), will be shown separately.</p>
 <p>GST or HST, if applicable, will be incorporated into all invoices and shown as a separate item on invoices.  All items that are zero-rated, exempt or to which the GST or HST does not apply, are to be identified as such on all invoices.  Invoices must be submitted for each delivery/shipment and must apply to one contract only.  Each invoice must indicate whether it covers partial or final delivery.</p>
 <h2 id="PN-79aseven">APPENDIX 7 TO ANNEX A</h2>
-<div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
 <h3>Modifications to 9624, General Conditions - Research &amp; Development</h3>
 <p><strong>The following sections have been added.</strong></p>
@@ -1052,7 +1052,7 @@
 <h4>9624	50 (2006-08-15) Shipment into Canada</h4>
 <p>Goods shipped into Canada from another country are to be consigned to destination, in bond, unless otherwise directed.</p>
 <h2 id="PN-79annexb">Changes to Supply Manual</h2>
-<div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
 <h3>Chapter 6 - Developing the Procurement Strategy</h3>
 <h4>Section 6E - Process</h4>

@@ -70,7 +70,7 @@ AP-62U2 : Instructions d'expédition et clauses sur les douanes du MDN – Mise
 <p>Tous les changements seront incorporés dans la Version 07-2 du <em>Guide des approvisionnements</em> et du guide des CCUA, prévue en décembre 2007. Se reporter à l'<a href="#AP-62U2aA">Annexe A</a> et à l'<a href="#AP-62U2aB">Annexe B</a> pour consulter les changements apportés au <em>Guide des approvisionnements</em> et au guide des CCUA. Les principales modifications du texte sont soulignées en <em>rouge</em>.</p>
 <h3>Contact</h3>
 <p>Toute question doit être adressée à Veronica Nazareth, Direction de la politique et du processus d'approvisionnement, par téléphone, au 819-956-5024, ou par courriel, à <a href="mailto:veronica.nazareth@tpsgc-pwgsc.gc.ca" rel="external">veronica.nazareth@tpsgc-pwgsc.gc.ca</a>.</p>
-<div class="topPage"><a href="#AP-62U2tphp" title="Retourner au haut de la page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"><a href="#AP-62U2tphp" title="Retourner au haut de la page"><br/>
 				Haut de la page</a></div>
 <h2 id="AP-62U2aA">Annexe A</h2>
 <h3><strong>Changements au Guide des approvisionnements</strong></h3>
@@ -79,7 +79,7 @@ AP-62U2 : Instructions d'expédition et clauses sur les douanes du MDN – Mise
 <p id="AP-62U2a6e_622">6E.622 (xxxx-xx-xx) Le terme <span lang="en">Incoterms 2000</span> « FCA franco transporteur (… lieu convenu) » doit être utilisé dans tous les contrats du ministère de la Défense nationale (MDN) attribués à des fournisseurs uniques, dans tous les contrats de réparation et de révision lorsque le transport ne fait pas partie de la soumission concurrentielle, et <em>dans tous les contrats de ventes de matériel militaire des États-Unis à l'étranger (et non pour tous les contrats passés avec les États-Unis)</em>. Le MDN gérera la logistique interne (soit la coordination, l'organisation et le paiement de tous les frais de transport à l'arrivée) de ces contrats.</p>
 <p>Pour ces contrats, l'entrepreneur doit livrer ces biens « FCA franco transporteur », et le lieu convenu sera toujours l'établissement de l'entrepreneur, à moins d'avis contraire du MDN. L'agent de négociation des contrats doit inclure dans le contrat l'une des clauses suivantes du guide des CCUA sur le transport : <em><a href="#AP-62U2aD0035C">D0035C</a> ou <a href="#AP-62U2aD0037C">D0037C</a></em>. Ces clauses obligent l'entrepreneur à s'adresser au MDN pour obtenir des instructions d'expédition et pour connaître la marche à suivre.</p>
 <p>Si l'entrepreneur n'est pas situé au Canada <em>et que les biens doivent être importés au Canada par le MDN</em>, l'agent de négociation des contrats doit inclure la clause <a href="#AP-62U2aC2608C">C2608C</a> du guide des CCUA et, s'il y a lieu, la clause C2610D. <em>Si les biens doivent être importés au Canada par l'entrepreneur, inclure la clause C2601D, s'il y a lieu.</em></p>
-<div class="topPage"><a href="#AP-62U2tphp" title="Retourner au haut de la page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"><a href="#AP-62U2tphp" title="Retourner au haut de la page"><br/>
 				Haut de la page</a></div>
 <h2 id="AP-62U2aB">Annexe B</h2>
 <h3>Changements aux clauses du guide des CCUA</h3>
@@ -153,7 +153,7 @@ AP-62U2 : Instructions d'expédition et clauses sur les douanes du MDN – Mise
 </li>
 <li>Si la livraison des biens est reportée du fait des retards occasionnés par le Canada, la propriété sur les biens ainsi que les risques encourus doivent être transférés au Canada après un délai de trente (30) jours suivant la date à laquelle le Canada ou son transitaire désigné aura reçu une demande d'expédition en bonne et due forme ou trente (30) jours suivant la date de livraison spécifiée dans le contrat, le délai le plus long étant retenu.</li>
 </ol>
-<div class="topPage"><a href="#AP-62U2tphp" title="Retourner au haut de la page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"><a href="#AP-62U2tphp" title="Retourner au haut de la page"><br/>
 				Haut de la page</a></div>
 <h4 id="AP-62U2aD0037C">D0037C <strong>Expédition au Canada - MDN - livraison au point d'origine</strong></h4>
 <p><strong>Remarques :</strong></p>
@@ -222,7 +222,7 @@ AP-62U2 : Instructions d'expédition et clauses sur les douanes du MDN – Mise
 <p>Si la livraison des biens est reportée du fait des retards occasionnés par le Canada, la propriété sur les biens ainsi que les risques encourus doivent être transférés au Canada après un délai de trente (30) jours suivant la date à laquelle le Canada ou son transitaire désigné aura reçu une demande d'expédition en bonne et due forme ou trente (30) jours suivant la date de livraison spécifiée dans le contrat, le délai le plus long étant retenu.</p>
 </li>
 </ol>
-<div class="topPage"><a href="#AP-62U2tphp" title="Retourner au haut de la page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"><a href="#AP-62U2tphp" title="Retourner au haut de la page"><br/>
 				Haut de la page</a></div>
 <h4 id="AP-62U2aC2608C">C2608C <strong>Documentation des douanes canadiennes</strong></h4>
 <p><strong>Remarques :</strong></p>
@@ -261,7 +261,7 @@ AP-62U2 : Instructions d'expédition et clauses sur les douanes du MDN – Mise
 <p>Le second exemplaire de chacun des formulaires susmentionnés doit être joint aux documents d'expédition.</p>
 </li>
 </ol>
-<div class="topPage"><a href="#AP-62U2tphp" title="Retourner au haut de la page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"><a href="#AP-62U2tphp" title="Retourner au haut de la page"><br/>
 				Haut de la page</a></div>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

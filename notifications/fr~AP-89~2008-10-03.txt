@@ -35,7 +35,7 @@ AP-89 - Marchés non concurrentiels</a></h1> <div class="region region-site-wide
 <p>Consulter <a href="#AP-89annexa">l'Annexe A</a> du présent document pour connaître les modifications apportées au <em>Guide des approvisionnements</em>.  Ces changements seront intégrés à la prochaine version du <em>Guide des approvisionnements</em>.</p>
 <h3>Personne-ressource</h3>
 <p><strong>S/O</strong></p>
-<div class="topPage"> <a href="#AP-89tphp" title="Retourner au haut de la page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"> <a href="#AP-89tphp" title="Retourner au haut de la page"><br/>
 			Haut de la page</a></div>
 <h3 id="AP-89annexa">Annexe A - Révisions au Guide des approvisionnements</h3>
 <h4>Chapitre 5 - Stratégie de sélection des fournisseurs</h4>
@@ -65,7 +65,7 @@ AP-89 - Marchés non concurrentiels</a></h1> <div class="region region-site-wide
 <em>Les questions sont présentées à <a href="#AP-89annexb">l'Annexe B</a> de l'AP-89, en plus d'un exemple de formulaire en format MSWord qui peut être utilisé par les agents de négociation des contrats et leurs clients.</em></div>
 </li>
 </ol>
-<div class="topPage"><a href="#AP-89tphp" title="Retourner au haut de la page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"><a href="#AP-89tphp" title="Retourner au haut de la page"><br/>
 			Haut de la page</a></div>
 <h4>Section 6E:  Processus</h4>
 <h5><span>Approbation de la stratégie d'achat</span></h5>
@@ -107,7 +107,7 @@ AP-89 - Marchés non concurrentiels</a></h1> <div class="region region-site-wide
 <p>Réserver deux ou trois lignes pour les commentaires du pouvoir d'approbation.</p>
 <h5>Approbations</h5>
 <p>6E.667 et 6E.668 :  aucun changement</p>
-<div class="topPage"><a href="#AP-89tphp" title="Retourner au haut de la page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"><a href="#AP-89tphp" title="Retourner au haut de la page"><br/>
 			Haut de la page</a></div>
 <h4 id="AP-89annex7.7">Annexe 7.7:	Préparation d'une demande de contrat</h4>
 <p>(<span>2008-xx-xx</span>)</p>
@@ -156,14 +156,14 @@ AP-89 - Marchés non concurrentiels</a></h1> <div class="region region-site-wide
 <p>Les questions sont présentées à <a href="#AP-89annexb">l'Annexe B</a> de l'AP-89, en plus d'un exemple de formulaire en format MSWord qui peut être utilisé par les agents de négociation des contrats et leurs clients.</p>
 </div>
 <p><strong>Section A à Section F :</strong> aucun changement </p>
-<div class="topPage"><a href="#AP-89tphp" title="Retourner au haut de la page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"><a href="#AP-89tphp" title="Retourner au haut de la page"><br/>
 			Haut de la page</a></div>
 <h4>Chapitre 12 - Glossaire</h4>
 <h5> fournisseur <span>unique </span></h5>
 <div>
 <p> On envisage les situations non concurrentielles quand un seul fournisseur est en mesure de fournir le bien ou d'assurer le service (fournisseur unique), conformément aux obligations légales définies dans le Règlement sur les marchés de l'État de la Loi sur la gestion des finances publiques établissant les exceptions au processus de soumissions concurrentielles, et aux dispositions des accords commerciaux du Canada et des accords commerciaux internationaux limitant les appels d'offres. (<span>2008-xx-xx</span>) (<em>sole source</em>)</p>
 </div>
-<div class="topPage"><a href="#AP-89tphp" title="Retourner au haut de la page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"><a href="#AP-89tphp" title="Retourner au haut de la page"><br/>
 			Haut de la page</a></div>
 <h3 id="AP-89annexb">Annexe B</h3>
 <h4><span>(Adapté de) </span> Annexe A de l'Avis sur la Politique des marchés 2007-04 du Conseil du Trésor Marchés à fournisseur exclusif  (Le marché ne peut être exécuté que par une seule personne)</h4>

@@ -101,7 +101,7 @@ AP-79 : Documents uniformisés d'approvisionnement ministériels en langage cla
 <li><a href="#AP-79annexb"><strong>Annexe B - Changements apportés au Guide des approvisionnements</strong></a></li>
 </ul>
 <h2 id="AP-79aone">APPENDICE 1 DE L'ANNEXE A</h2>
-<div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><br/>
 					Haut de la page</a></div>
 <h4>2T-PROC2 (2006-08-15) Procédures pour l'utilisation du modèle de la demande d'offre à commandes - biens ou services</h4>
 <p>La demande d'offre à commandes (DOC), les instructions uniformisées ainsi que les conditions générales pour les offres à commandes ont été élaborées de concert avec les Services juridiques de Travaux publics et Services gouvernementaux Canada (TPSGC).</p>
@@ -184,7 +184,7 @@ AP-79 : Documents uniformisés d'approvisionnement ministériels en langage cla
 <p>1.9 L'initiative Les prochaines étapes</p>
 <p>Un paragraphe d'introduction tel que détaillé sous l'article 1 « Introduction » de la DOC doit être inclus pour tous les besoins faisant partie de l'initiative<em> Les prochaines étapes</em>.</p>
 <h2 id="AP-79atwo">APPENDICE 2 DE L'ANNEXE A</h2>
-<div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><br/>
 					Haut de la page</a></div>
 <h4>2006 (2006-08-15) Instructions uniformisées - demande d'offre à commandes - biens ou services</h4>
 <h3>Travaux publics et Services gouvernementaux Canada</h3>
@@ -334,7 +334,7 @@ AP-79 : Documents uniformisés d'approvisionnement ministériels en langage cla
 <li>Les demandes de renseignements concernant la réception des offres présentées en réponse aux DOC lancées par l'administration centrale de TPSGC peuvent être adressées à l'Unité de réception des soumissions, Division de soutien opérationnel des approvisionnements, au 819-956-3370. Dans le cas des DOC lancées par des bureaux régionaux de TPSGC, les demandes de renseignements concernant la réception des offres peuvent être adressées au responsable de l'offre à commandes dont le nom figure dans la DOC. </li>
 </ol>
 <h2 id="AP-79athree">APPENDICE 3 DE L'ANNEXE A</h2>
-<div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><br/>
 					Haut de la page</a></div>
 <h4>2005 00 (2006-08-15) Conditions générales - offres à commandes - biens ou services</h4>
 <h3>Travaux publics et Services gouvernementaux Canada</h3>
@@ -383,7 +383,7 @@ AP-79 : Documents uniformisés d'approvisionnement ministériels en langage cla
 <h4>2005 08 (2006-08-15) Divulgation de renseignements</h4>
 <p>L'offrant accepte que ses prix ou ses taux contenus dans l'offre à commandes soient divulgués par le Canada et convient qu'il n'aura aucun droit de réclamation contre le Canada, l'utilisateur désigné, leurs employés, agents ou préposés en ce qui a trait à ladite divulgation.</p>
 <h2 id="AP-79afour">APPENDICE 4 DE L'ANNEXE A</h2>
-<div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><br/>
 					Haut de la page</a></div>
 <h4>2T-RFSO1, Modèle de demande d'offres à commandes - biens ou services</h4>
 <div>
@@ -940,7 +940,7 @@ AP-79 : Documents uniformisés d'approvisionnement ministériels en langage cla
 <h3>LISTE DE VÉRIFICATION DES EXIGENCES RELATIVES À LA SÉCURITÉ</h3>
 <h4><em>(INSÉRER LA LVERS, S'IL Y A LIEU)</em></h4>
 <h2 id="AP-79afive">APPENDICE 5 DE L'ANNEXE A </h2>
-<div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><br/>
 					Haut de la page</a></div>
 <h3>Modifications aux 9601, Conditions générales - formule détaillée</h3>
 <p>Les articles suivants sont ajoutés.</p>
@@ -988,7 +988,7 @@ AP-79 : Documents uniformisés d'approvisionnement ministériels en langage cla
 <h4>9601 43 (2006-08-15) Biens expédiés au Canada</h4>
 <p>Les biens expédiés au Canada en provenance d'un autre pays doivent, à moins d'indication contraire, être acheminés, en douane, au point de livraison.</p>
 <h2 id="AP-79asix">APPENDICE 6 DE L'ANNEXE A </h2>
-<div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><br/>
 					Haut de la page</a></div>
 <h3>Modifications aux 9676, Conditions générales - Services </h3>
 <p><strong>Les articles suivants sont ajoutés.</strong></p>
@@ -1028,7 +1028,7 @@ AP-79 : Documents uniformisés d'approvisionnement ministériels en langage cla
 <p>Les factures doivent être soumises au nom de l'entrepreneur. Elles doivent contenir le nom et l'adresse du ministère client, les numéros d'articles ou de référence, les produits livrables ou la description des travaux, le numéro du contrat, le numéro de référence du client, le numéro d'entreprise - approvisionnement et le ou les codes financiers, le cas échéant. Le mode d'expédition avec la date, le numéro de cas et de pièce ou de référence, le nom des articles et leur quantité, l'unité de distribution, le prix unitaire et les frais supplémentaires seront indiqués dans les factures s'il y a lieu. Les tarifs de main d'œuvre horaires fixes, le niveau d'effort et le montant facturé (excluant la taxe sur les produits et services {TPS} ou la taxe de vente harmonisée {TVH} devront être indiqués dans les factures, le cas échéant.</p>
 <p>La TPS, la TVH ou toutes autres taxes, dans la mesure où elles s'appliquent, seront précisées dans toutes les factures. Tous les biens ou les services détaxés, exonérés ou auxquels la TPS ou la TVH ne s'appliquent pas doivent être identifiés comme tel sur toutes les factures. L'entrepreneur doit soumettre des factures pour chaque livraison ou expédition; ces factures doivent s'appliquer à un seul contrat. Chaque facture doit indiquer si elle porte sur une livraison partielle ou finale.</p>
 <h2 id="AP-79aseven">APPENDICE 7 DE L'ANNEXE A </h2>
-<div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><br/>
 					Haut de la page</a></div>
 <h3>Modifications aux 9624, Conditions générales - Recherche et développement </h3>
 <p>Les articles suivants sont ajoutés.</p>
@@ -1076,7 +1076,7 @@ AP-79 : Documents uniformisés d'approvisionnement ministériels en langage cla
 <h4>9624 50 (2006-08-15) Biens expédiés au Canada</h4>
 <p>Les biens expédiés au Canada en provenance d'un autre pays doivent, à moins d'indication contraire, être acheminés, en douane, au point de livraison.</p>
 <h2 id="AP-79annexb">Changements apportés au Guide des approvisionnements</h2>
-<div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>
+<div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><br/>
 					Haut de la page</a></div>
 <h3>Chapitre 6 - Élaboration de la stratégie d'achat</h3>
 <h4>Section 6E - Processus</h4>

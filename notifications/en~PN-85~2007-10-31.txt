@@ -34,14 +34,14 @@
 <p>It should be noted that the <em>Supply Manual</em> is an evolving document.  The electronic version of the Guide, available on PWGSC Website, is updated generally twice a year and, between these updates, it is revised, on an interim basis, via Policy Notifications.</p>
 <h2>Contact</h2>
 <p><strong>N/A</strong></p>
-<div class="topPage"> <a href="#PN-85tphp" title="Return to Top of Page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Top of Page</a></div>
+<div class="topPage"> <a href="#PN-85tphp" title="Return to Top of Page"><br/>Top of Page</a></div>
 <hr/>
 <h2><a id="PN-85annexa" name="annexa"></a>Annex A - REVISIONS TO SUPPLY MANUAL</h2>
 <h3>Chapter 1 - Overview</h3>
 <h4>Public Works and Government Services Canada Procurement</h4>
 <p>1.001 (2007-xx-xx) This Manual describes the supply activities of Public Works and Government Services Canada (PWGSC). It contains relevant laws, regulations, government and departmental policies. It explains why and how the Department carries out its supply activities.  The intended audience is PWGSC contracting officers.</p>
 <p>					This Manual is an evolving document as the legislative, policy and procedural framework for government contracting is not static.  The electronic version of the <em>Supply Manual</em>, available on PWGSC Website, is generally updated twice a year.  As an interim measure, Policy Notifications are used to implement new or modified policies, procedures, and/or clauses and conditions, until they can be incorporated into the relevant manual(s), that is the <em>Standard Acquisition Clauses and Conditions Manual</em> or <em>Supply Manual</em>.</p>
-<div class="topPage"> <a href="#PN-85tphp" title="Return to Top of Page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Top of Page</a></div>
+<div class="topPage"> <a href="#PN-85tphp" title="Return to Top of Page"><br/>Top of Page</a></div>
 <h3>Chapter 3 - Requisition Receipt</h3>
 <h4>Review</h4>
 <p><strong>Industrial Security Requirements</strong></p>
@@ -136,7 +136,7 @@
 </li>
 <li>Is the security block of the requisition completed?  If a Security Requirements Check List is required, is it attached?</li>
 </ul>
-<div class="topPage"> <a href="#PN-85tphp" title="Return to Top of Page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Top of Page</a></div>
+<div class="topPage"> <a href="#PN-85tphp" title="Return to Top of Page"><br/>Top of Page</a></div>
 <h3>Chapter 5 - Sourcing Strategy</h3>
 <h4>Standing Offer</h4>
 <p><strong>Industrial Security</strong></p>
@@ -149,7 +149,7 @@
 <li>if the standing offer is NOT to be used with call-ups where any level of security is required.</li>
 </ol>
 <p><em>Refer to 3.009, 6C.270 - 6C.278, and 7E.534 - 7E.536 for additional information on handling procurements with security requirements.</em></p>
-<div class="topPage"> <a href="#PN-85tphp" title="Return to Top of Page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Top of Page</a></div>
+<div class="topPage"> <a href="#PN-85tphp" title="Return to Top of Page"><br/>Top of Page</a></div>
 <h3>Section 6C: Risk Management</h3>
 <h4>Industrial Security Requirements (Personnel or Organization)</h4>
 <p>6C.271 (2007-xx-xx) Protected/Classified information or assets for transmittal outside of Canada must only be forwarded to the Document Control Section (DCS) of CISD. Onward transmission and receipt through approved security channels will be undertaken by DCS.</p>
@@ -168,7 +168,7 @@
 <li>provide information to Canadian suppliers on the preparation and transmission of Protected or Classified information/assets. Classified information/assets must be forwarded to Document Control Section.</li>
 </ol>
 <p>6C.273 (2007-xx-xx) Provided that it would not discriminate unfairly between potential suppliers, a solicitation may include an appropriate organization's security screening/clearance level as a mandatory technical requirement  on or before the bid closing date. Alternatively, the required organization's security screening/clearance level may be obtained after selection of the potential contractor, provided the solicitation does not contain Protected/Classified information. (<em>Refer to 3.009 and 7E.534 - 7E.536 for additional information on handling procurements with security requirements.</em>)</p>
-<div class="topPage"> <a href="#PN-85tphp" title="Return to Top of Page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Top of Page</a></div>
+<div class="topPage"> <a href="#PN-85tphp" title="Return to Top of Page"><br/>Top of Page</a></div>
 <h3>Section 7E: Contract Award</h3>
 <h4>Verifying Compliance that Personnel and an Organization's Security Status meet Security Requirements</h4>
 <p>7E.534 (2007-xx-xx) If the proposed contract contains personnel, information technology and/or physical security requirements, before it is awarded, a copy of the appropriate documentation must have been forwarded to the Canadian Industrial Security Directorate (CISD) for verification that all necessary security measures have been addressed. (<em>See 3.009, 6C.270 - 6C.278 for additional information on handling procurements with security requirements.</em>)</p>
@@ -176,11 +176,11 @@
 <p>					The contracting officer must then obtain CISD's approval of these procedures, liaising with CISD and the client department, as necessary.  The client department will have to provide the PWGSC contracting officer with a threat and risk assessment (TRA).  Both the security risk mitigation procedures and TRA provided by the client department's Departmental Security Officer (DSO) and CISD's approval for these procedures must be documented on the file.</p>
 <p>					The client department will be responsible for ensuring that the identified security risk mitigation procedures are enforced so that the contractor/subcontractors will not gain access to any sensitive and/or classified information and/or work sites before the clearances are obtained. </p>
 <p>7E.536 (2007-xx-xx) If, at any time during the period of the contract/SO/SA, the contracting officer becomes aware that a subcontractor, whose security status has not been verified with CISD, will be required to have access to any sensitive and/or classified information and/or work sites, the contracting officer must verify with CISD that the subcontractor meets the security requirements.</p>
-<div class="topPage"> <a href="#PN-85tphp" title="Return to Top of Page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Top of Page</a></div>
+<div class="topPage"> <a href="#PN-85tphp" title="Return to Top of Page"><br/>Top of Page</a></div>
 <h3>Section 7F: Completing the Contracting Process</h3>
 <h4>Industrial Security Requirements</h4>
 <p>7F.724 (2007-xx-xx) If the contract/SO/SA contains security requirements, a copy of the contract/SO/SA document must be forwarded to the Canadian Industrial Security Directorate within two (2) working days after the document is issued.  Contracting officers may send a PDF version of the document by e-mail to "SNCR ISR CONTRACTS" using Microsoft Outlook or <a href="mailto:sncrcontracts@tpsgc-pwgsc.gc.ca" rel="external">sncrcontracts@tpsgc-pwgsc.gc.ca</a>. (<em>Refer to 3.009, 6C.270 - 6C.278, and 7E.534 - 7E.536 for additional information on handling procurements with security requirements.</em>)</p>
-<div class="topPage"> <a href="#PN-85tphp" title="Return to Top of Page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Top of Page</a></div>
+<div class="topPage"> <a href="#PN-85tphp" title="Return to Top of Page"><br/>Top of Page</a></div>
 <h3>Section 9J:  Supply Arrangements</h3>
 <p>9J.4 (2007-xx-xx) Before establishing a supply arrangement, the contracting officer will prepare and issue a competitive Request for a Supply Arrangement, which will allow for a suitable pool of suppliers under the stated evaluation criteria. Industrial Security requirements (i.e. Personnel, Physical and Information Technology security) should be identified at this time, when any or all of these security aspects will be applicable to all clients of the supply arrangement. (<em>Refer to 3.009, 6C.270 - 6C.278, and 7E.534 - 7E.536 for additional information on handling procurements with security requirements</em>.)</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">

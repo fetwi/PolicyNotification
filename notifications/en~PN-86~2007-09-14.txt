@@ -24,7 +24,7 @@
 <h6>Equal Treatment</h6>
 <p>PWGSC will ensure that all potential suppliers of a particular requirement are subject to the same conditions.</p>
 <h6>Accountability:  deleted</h6>
-<div class="topPage"> <a href="#PN-86tphp" title="Return to Top of Page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Top of Page</a> </div>
+<div class="topPage"> <a href="#PN-86tphp" title="Return to Top of Page"><br/>Top of Page</a> </div>
 <h4>Chapter 5</h4>
 <h5>Requirements below $25,000</h5>
 <p>5.117 (<span>2007-XX-XX</span>) Requirements below $25,000 (including all applicable taxes) are considered to be low dollar value (LDV) procurements. When identifying an LDV requirement based on the estimated value of the final contract, contracting officers must not split or artificially divide requirements to meet the LDV threshold. (See 6A.001.)</p>
@@ -39,7 +39,7 @@
 <li>GETS.</li>
 </ol>
 <p>Contracting officers must document the procurement file with the rationale to support the procurement strategy. Contracting officers must also document the basis on which the estimated value of the contract (i.e. below $25,000) was established.</p>
-<div class="topPage"> <a href="#PN-86tphp" title="Return to Top of Page"><img alt="" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Top of Page</a> </div>
+<div class="topPage"> <a href="#PN-86tphp" title="Return to Top of Page"><br/>Top of Page</a> </div>
 <h4>Chapter 7D - Bid Handling</h4>
 <h5>Client Review</h5>
 <p>7D.395 (<span>2007-xx-xx</span>) Clients are responsible for the evaluation of the technical portion of the bids.  They are normally not provided with price information. When referring bids to the client during the evaluation process, the following cautionary note must be included:</p>

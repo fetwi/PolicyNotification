@@ -48,7 +48,7 @@ AP-86 - Responsabilité du Ministère</a></h1> <div class="region region-site-wi
 <h6>Équité</h6>
 <p>TPSGC s'assurera que tous les fournisseurs éventuels, pour un besoin spécifique, soient assujettis aux mêmes conditions.</p>
 <h6><del>Responsabilité: supprimé</del></h6>
-<div class="topPage"><a href="#AP-86tphp" title="Retourner au haut de la page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Haut de la page</a></div>
+<div class="topPage"><a href="#AP-86tphp" title="Retourner au haut de la page"><br/>Haut de la page</a></div>
 <h3>CHAPITRE 5</h3>
 <h4>Achats estimés à moins de 25 000 $</h4>
 <p>5.117 (<span>2007-XX-XX</span>) Les besoins dont la valeur est estimée à moins de 25 000 $ (incluant toutes les taxes applicables) sont considérés comme des achats de faible valeur (AFV). Lorsqu'ils définissent les besoins relatifs à des AFV en se basant sur la valeur estimative du contrat final, les agents de négociation des contrats ne doivent pas fractionner les marchés de façon à ce que leur valeur soit inférieure au seuil établi pour les AFV. (Voir 6A.001.)</p>
@@ -63,7 +63,7 @@ AP-86 - Responsabilité du Ministère</a></h1> <div class="region region-site-wi
 <li>le SEAOG.</li>
 </ol>
 <p>Les agents de négociation des contrats doivent indiquer dans le dossier d'achat les raisons du choix de la stratégie d'achat retenue. Ils doivent également indiquer les raisons sur lesquelles la valeur estimative du contrat (à moins de 25 000 $) a été établie.</p>
-<div class="topPage"><a href="#AP-86tphp" title="Retourner au haut de la page"><img alt="" class="uparrow" height="12" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="19"/><br/>Haut de la page</a></div>
+<div class="topPage"><a href="#AP-86tphp" title="Retourner au haut de la page"><br/>Haut de la page</a></div>
 <h3>SECTION 7D - TRAITEMENT DES SOUMISSIONS</h3>
 <h4>Évaluation par le client</h4>
 <p>7D.395 (<span>2007-XX-XX</span>) Les clients ont la responsabilité de l'évaluation de la portion technique des soumissions. On ne leur fournit pas habituellement d'information relative aux prix. Quand on confie au client les soumissions au cours du processus d'évaluation, il faut ajouter la mise en garde suivante :</p>
