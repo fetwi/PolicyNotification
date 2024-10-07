@@ -10,13 +10,13 @@ output_file = os.path.join(dir_path, "output.txt")
 
 # Function to read, join, and URI encode notification file content
 def read_join_and_encode_notification(file_path):
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding='utf-8', errors='ignore') as file:
         content = file.read().replace('\n', ' ')
     encoded_content = urllib.parse.quote(content)
     return encoded_content
 
 # Read the template CSV and process each line
-with open(template_file, 'r') as csvfile, open(output_file, 'w') as outfile:
+with open(template_file, 'r', encoding='utf-8', errors='ignore') as csvfile, open(output_file, 'w', encoding='utf-8', errors='ignore') as outfile:
     reader = csv.reader(csvfile)
     for row in reader:
         if len(row) > 0:
