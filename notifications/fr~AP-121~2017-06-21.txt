@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<h2 class="pn-content-title">Contenu du AP-121</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Objet</h2>
 <p>L’avis relatif au politique (AP) 121 vise à encourager l’utilisation des cartes d’achat (Visa, MasterCard) comme option supplémentaire pour l’achat de biens et de services dans le cadre des offres à commandes et des arrangements en matière d’approvisionnement (OC/AMA). Les cartes d’achat peuvent être utilisées au lieu du formulaire 942 (Commande subséquente à une offre à commandes) à titre d’outil d’approvisionnement. Cela signifie que l’exigence relative à l’utilisation du formulaire 942 pour demander des biens ou des services n’est maintenant plus obligatoire, mais optionnelle.</p>

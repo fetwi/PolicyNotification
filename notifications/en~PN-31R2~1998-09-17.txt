@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<h2 class="pn-content-title">Content of PN-31R2</h2>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Previous policy notifications 31, 31R, and 31R1 reflected Public Works and Government Services Canada's (PWGSC) decision to adopt the invoicing procedure approach to make contractors provide the required information directly to client departments via the invoicing procedure.</p>

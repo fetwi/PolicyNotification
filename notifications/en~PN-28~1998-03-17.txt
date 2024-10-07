@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<h2 class="pn-content-title">Content of PN-28</h2>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The following information has been updated to reflect address and area code changes; office closings and the ratification of two new Comprehensive Land Claim Agrements in the Yukon - the Little Salmon/Carmacks First Nation Final Agreement and the Selkirk First Nation Final Agreement.</p>

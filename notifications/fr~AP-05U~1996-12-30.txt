@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<h2 class="pn-content-title">Contenu du AP-05U</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <!-- InstanceBeginEditable name="content" --><h1><a id="AP-05Ucont" name="cont"><br/>
 AP-05U : Programme des marchés réservés aux entreprises autochtones - Attribution des contrats réservés aux entreprises autochtones</a></h1> <div class="region region-site-wide-message">

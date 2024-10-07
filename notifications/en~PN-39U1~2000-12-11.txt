@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<h2 class="pn-content-title">Content of PN-39U1</h2>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Further to PN-39U dated 13 March 2000, the ACAN policy review lead by Treasury Board Secretariat (TBS) has been completed and a revised policy entitled <em>Guide for Managers: Best Practices For Using Advance Contract Award Notices (ACANs)</em> has been approved by TB Ministers on October 5, 2000. Our ACAN policy has been rewritten accordingly.</p>

@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<h2 class="pn-content-title">Contenu du AP-46U2</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <!-- InstanceBeginEditable name="content" --><h1><a id="AP-46U2cont" name="cont"><br/>
 AP-46U2 : Les seuils pour l'AMP-OMC et l'ALENA</a></h1> <div class="region region-site-wide-message">

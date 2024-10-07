@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<h2 class="pn-content-title">Contenu du AP-139R1</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Objet</h2>
 <p>L’<abbr title="avis relatif aux politiques">AP</abbr>-139R1 remplace et annule l’<abbr title="avis relatif aux politiques">AP</abbr>-139.</p>

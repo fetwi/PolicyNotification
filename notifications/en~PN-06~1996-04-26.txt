@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<h2 class="pn-content-title">Content of PN-06</h2>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The SACC Manual clauses listed below have been modified to correct the long-standing misconception that foreign bidders on procurements subject to the trade agreements had to be permitted to bid Canadian customs duty and taxes extra. This is not correct.</p>

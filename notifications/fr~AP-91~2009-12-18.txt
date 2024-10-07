@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<h2 class="pn-content-title">Contenu du AP-91</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction</h2>
 <p>L'avis relatif aux politiques (AP)-91 vise à mettre à  jour les instructions à l'intention des agents de négociation des contrats sur  la marche à suivre pour aviser les soumissionnaires, les offrants ou les  fournisseurs non retenus et leur fournir un compte rendu, ainsi que la  divulgation d'information.</p>

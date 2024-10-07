@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<h2 class="pn-content-title">Content of PN-44</h2>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The utilization of differing financial management systems by many of our clients has resulted in a number of difficulties in the handling of requisitions by <acronym title="Public Works and Government Services Canada">PWGSC</acronym> for the client and their suppliers. In an effort to address this issue, a new indicator - the Client Reference Number (CRN) - has been created.</p>

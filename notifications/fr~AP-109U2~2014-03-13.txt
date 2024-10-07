@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<h2 class="pn-content-title">Contenu du AP-109U2</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Objectif</h2>
 <p>L'Avis relatif aux politiques 109U2 vise à refléter les changements apportés à la Politique sur le contenu canadien par la Stratégie d'approvisionnement en matière de défense (SAMD).</p>

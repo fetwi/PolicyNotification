@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<h2 class="pn-content-title">Contenu du AP-72R2</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Objectif</h2>
 <p>L’Avis relatif aux politiques 72R2 (AP-72R2) vise à informer les agents de négociation des contrats du Programme des approvisionnements des changements apportés aux processus touchant la création, le renouvellement et la prolongation des offres à commandes (OC) et des arrangements en matière d’approvisionnement (AMA), ainsi qu’aux rôles et aux responsabilités connexes de tous les intervenants associés concernant la diffusion d’information dans l’Index des offres à commandes (IOC). Les révisions décrites dans le présent <abbr title="avis relatif aux politiques">AP</abbr> renforceront le cadre de contrôle de gestion du Ministère pour ces instruments d’approvisionnement.</p>

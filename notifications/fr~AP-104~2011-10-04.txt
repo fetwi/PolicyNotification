@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<h2 class="pn-content-title">Contenu du AP-104</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>L'objectif de cet avis relatif aux politiques (AP-104) est d'informer tous les employés de la Direction générale des approvisionnements et des bureaux régionaux que de nouveaux processus pour les achats de base et normalisés sont maintenant en place et qu'ils sont appuyés par de nouveaux pouvoirs d'approbation à tous les niveaux.</p>
 <p>À l'exception des présentes modifications, les processus actuels continueront de s'appliquer pour tous les achats qui ne sont pas des achats de base ou normalisés. Le processus pour les besoins urgents sera défini dans l'<abbr title="Avis relatifs aux politiques">AP</abbr>-103, Besoins urgents, qui sera publié plus tard cette année.</p>

@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<h2 class="pn-content-title">Content of PN-18</h2>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>1. Effective March 7, 1995 printing and related services previously obtained from the Canada Communication Group (CCG) may be purchased from Canada Communication Group Inc. Goupe Communication Canada Inc. (CCG Inc. - GCC Inc.) a private sector company.</p>

@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<h2 class="pn-content-title">Contenu du AP-123</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Objet</h2>
 <p>Le but de l’avis relatif aux politique (AP) 123 est de notifier tous les employés du Programme d'Approvisionnement (PA) et toute autre personne fournissant des services d'approvisionnement au nom d'<abbr title="Programme d'Approvisionnement">PA</abbr> d'une nouvelle politique sur le Processus de conformité des soumissions en phases.</p>

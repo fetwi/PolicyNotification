@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<h2 class="pn-content-title">Content of PN-40</h2>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>After a recent situation in the Pacific Region, the Corporate Security Division (CSD) and Industrial Security Division (ISD) have developed interim procedures and clauses to be used by procurement officers in contracting for the destruction of sensitive information.</p>

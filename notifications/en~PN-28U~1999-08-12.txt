@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<h2 class="pn-content-title">Content of PN-28U</h2>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This Policy Notification is issued to provide updates to the Supply Manual (SM) policies / procedures relating to Comprehensive Land Claims Agreements (CLCAs) based on Treasury Board Secretariat (TBS) Addendum to CPN 1997-8 entitled Amendments and Additions to the Implementation of Contracting Obligations under Comprehensive Land Claims Agreements, National Park Agreements, and Department of National Defence (DND) Cooperation Agreements. Other editorial updates are also provided.</p>

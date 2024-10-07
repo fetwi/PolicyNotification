@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<h2 class="pn-content-title">Contenu du AAC-002</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Objet</h2>
 <p>L’avis relatif à AchatsCanada (AAC) - 002 a pour but d’informer les acheteurs de <abbr title="Services publics et Approvisionnement Canada">SPAC</abbr> que les Instructions uniformisées (IU) 2004ACB (AchatsCanadaBuys) relatives aux besoins non concurrentiels dans AchatsCanada (SAP Ariba) sont maintenant disponibles.</p>

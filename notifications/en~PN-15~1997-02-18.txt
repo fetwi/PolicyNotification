@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
+<h2 class="pn-content-title">Content of PN-15</h2>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Effective March 31, 1997, the Department of Public Works and Government Services will expand the types of information which can be released by contracting officers on a routine basis to include the unit prices for goods and services contained in standing offers.</p>

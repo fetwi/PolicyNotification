@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<h2 class="pn-content-title">Contenu du AP-48R1</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Objet </h2>
 <p>L'objectif de l'avis relatif aux politiques (AP-48R1) est de mettre à jour les obligations à l'égard de la <cite><a href="https://laws-lois.justice.gc.ca/fra/lois/o-3.01/" rel="external">Loi sur les langues officielles</a></cite> (LLO) pour les agents de négociation des contrats du Programme des approvisionnements (PA).</p>
