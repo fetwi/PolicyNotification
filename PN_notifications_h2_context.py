@@ -22,17 +22,23 @@ for filename in os.listdir(directory):
         if file_id:
             # Open the file in read mode and read all content
             with open(os.path.join(directory, filename), 'r', encoding='utf-8') as file:
-                content = file.read()
+                content = file.readlines()
 
-            # Add the specified HTML after the print button based on filename prefix
+            # Prepare the HTML to be inserted
             if filename.startswith('en'):
-                modified_content = re.sub(r'(<button[^>]*>Print</button>)', r'\1<h2 class="pn-content-title">Content of ' + file_id + r'</h2>', content)
+                html_to_insert = f'<h2 class="pn-content-title">Content of {file_id}</h2>\n'
             elif filename.startswith('fr'):
-                modified_content = re.sub(r'(<button[^>]*>Print</button>)', r'\1<h2 class="pn-content-title">Contenu du ' + file_id + r'</h2>', content)
+                html_to_insert = f'<h2 class="pn-content-title">Contenu du {file_id}</h2>\n'
+            else:
+                html_to_insert = ''
+
+            # Insert the HTML after the first line
+            if html_to_insert:
+                content.insert(1, html_to_insert)
 
             # Write the modified content back to the file
             with open(os.path.join(directory, filename), 'w', encoding='utf-8') as file:
-                file.write(modified_content)
+                file.writelines(content)
 
             # Print the filename and the modified content
             print(f"Filename: {filename}")
