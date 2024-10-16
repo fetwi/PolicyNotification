@@ -2,18 +2,18 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 22 août 2005</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 22 août 2005</h3>
 <p>L'Accord Canada-Corée sur les achats de matériel de télécommunications (ACCMT) est un accord bilatéral intervenu entre le Canada et la Corée et portant sur l'achat, par le gouvernement fédéral, de biens de télécommunications et de services accessoires (services faisant l'objet de contrats portant sur des biens).</p>
 <p>À compter du 1er septembre 2005, l'ACCMT ne sera plus en vigueur.</p>
 <p>À partir de cette date, les agents de négociation des contrats ne devront plus insérer de clauses relatives à l'ACCMT dans les nouveaux appels d'offres et leurs contrats éventuels. Cependant, les appels d'offres lancés avant le 1er septembre 2005 demeurent assujettis à l'ACCMT, et par conséquent, toutes les clauses pertinentes du guide des Clauses et conditions uniformisées d'achat doivent être inscrites dans les documents d'appels d'offres et leurs contrats éventuels.</p>
 <p>Toutes les références à l'ACCMT seront supprimées du Guide des approvisionnements et du guide des Clauses et conditions uniformisées d'achat. Ces changements figureront dans la prochaine version des guides, qui paraîtra en décembre 2005.</p>
-<h3>Personne-ressource</h3>
+<h4>Personne-ressource</h4>
 <p><strong>S/O</strong></p>
 <div class="topPage"><a href="#AP-54R1tphp" title="Retourner au haut de la page"><br/>
 				Haut de la page</a></div>

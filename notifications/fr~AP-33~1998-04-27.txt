@@ -2,13 +2,13 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 27 avril 1998</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 27 avril 1998</h3>
 <p>1. Les modifications au <em>Tarif des douanes</em> simplifié et les modifications connexes à la <em>Loi sur les douanes</em> sont entrées en vigueur le 1<sup>er</sup> janvier 1998.</p>
 <p>2. Le gouvernement a introduit un nouveau tarif accompagné d'une annexe unique qui remplacera les sept annexes antérieures. La législation sur les douanes a été restructurée et mise à jour et des changements ont été apportés aux règlements avant la mise en œuvre du nouveau <em>Tarif des douanes</em>. En vertu de ces changements, le Décret de remise sur les approvisionnements de défense (DRAD) a été abrogé et remplacé par le numéro tarifaire 9982.00.00 du chapitre 99-58 de l'annexe du <em>Tarif des douanes</em>.</p>
 <p>3. Les règlements établis en application du DRAD sont maintenus en vigueur aux fins de la taxe d'accises.</p>
@@ -19,8 +19,8 @@
 <p>8. Les modifications qui seront apportées en conséquence au <em>Guide des approvisionnements</em>, et qui sont reproduites à l'<strong>annexe A</strong>, feront l'objet du modificatif 98-2 qui doit paraître le 15 juin 1998.</p>
 <p>9. Les modifications qui seront apportées en conséquence au guide des CCUA, et qui sont reproduites à l'<strong>annexe B</strong>, feront l'objet du modificatif 98-2 qui doit paraître le 15 juin 1998.</p>
 <p>10. Les questions à ce sujet peuvent être adressées à David Craigie, Direction de la politique des approvisionnements 819-956-5024.</p>
-<h2>Annexe A</h2>
-<h3>CHANGEMENTS AU GUIDE DES APPROVISIONNEMENTS</h3>
+<h3>Annexe A</h3>
+<h4>CHANGEMENTS AU GUIDE DES APPROVISIONNEMENTS</h4>
 <p>6.412<strong> (15/06/98)</strong> Lorsque la personne morale responsable de l'importation n'est pas le ministère de la Défense nationale (MDN), une copie de l'attestation suivante doit être jointe au marché.</p>
 <p><strong>CERTIFICAT D'APPROVISIONNEMENT DE DÉFENSE</strong></p>
 <p>Je certifie que les articles achetés en vertu du marché ou des marchés dont le ou les numéros suivent : ________ sont des « approvisionnements de défense » conformément à la définition de la « <em>Loi sur la production de défense </em>» et au numéro tarifaire 9982.00.00 des annexes du <em>Tarif des douanes</em>.</p>
@@ -34,8 +34,8 @@
 <p>____________________</p>
 <p>Secteur/région</p>
 <p>La seule preuve que pourra présenter l'entrepreneur à Revenu Canada pour attester que le produit importé est un approvisionnement de défense est une copie de l'attestation.</p>
-<h2>Annexe B</h2>
-<h3>CHANGEMENTS AU GUIDE DES CCUA</h3>
+<h3>Annexe B</h3>
+<h4>CHANGEMENTS AU GUIDE DES CCUA</h4>
 <p><strong>C2601D Droits de douane - défense</strong></p>
 <p><strong>Remarques :</strong></p>
 <p>Lorsque l'entrepreneur est l'importateur, utiliser la clause suivante pour des invitations à soumissionner et des contrats d'approvisionnements de défense d'une valeur de 250 000 $CAN ou plus lorsque l'article ou des composantes de l'article sont importés en vertu du <em>Tarif des douanes</em> portant sur la remise de droits de douane. Les agents de négociation des contrats devraient demander des prix avec des droits de douane indiqués séparément.</p>

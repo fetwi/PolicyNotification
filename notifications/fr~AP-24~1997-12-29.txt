@@ -2,27 +2,27 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 29 décembre 1997</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 29 décembre 1997</h3>
 <p>1. Le Secrétariat du Conseil du Trésor a fourni un avis relatif à la modification des seuils préétablis pour les accords internationaux sur le commerce. Les nouveaux seuils s'appliquent pour une période de deux ans allant du 1<sup>er</sup> janvier 1998 au 31 décembre 1999.</p>
 <p>2. Nouveaux seuils :</p>
 <ol type="a">
 <li>Ministères et organismes</li>
 <li>Entreprises (Sociétés d'État)</li>
 </ol>
-<h3>OMC-AMP</h3>
+<h4>OMC-AMP</h4>
 <p>Biens :<br/>
 				(a) CAN 254 100 $</p>
 <p>Services :<br/>
 				(a) CAN 254 100 $</p>
 <p>Construction :<br/>
 				(a) CAN 9 700 000 $</p>
-<h3>ALENA</h3>
+<h4>ALENA</h4>
 <p>Biens :<br/>
 				(a) CAN 34 100 $<br/>
 					(b) CAN 363 300 $</p>

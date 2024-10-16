@@ -1,12 +1,12 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Introduction </h2>
+<h3>Introduction </h3>
 <p>Le présent avis relatif aux politiques aidera à déterminer le lieu de fournitures concernant les transactions liées à l'acquisition de licences d'utilisation de logiciels qui constituent des biens meubles incorporels. L'établissement du lieu de fourniture permet de déterminer dans quelle province les produits ou services sont fournis et, ainsi, de déterminer quelle taxe est applicable.</p>
-<h2>Règles sur le lieu de fourniture concernant les biens meubles incorporels applicables à l'acquisition de licences d'utilisation de logiciels</h2>
+<h3>Règles sur le lieu de fourniture concernant les biens meubles incorporels applicables à l'acquisition de licences d'utilisation de logiciels</h3>
 <p>En ce qui concerne les licences de logiciels qui peuvent être légalement utilisées par le gouvernement du Canada partout au pays, conformément aux modalités du contrat, le lieu de fourniture est réputé être dans la province de l'autorité contractante dont le nom figure dans le contrat initial.</p>
 <p>En ce qui concerne les licences de logiciels dont l'utilisation est légalement limitée à un emplacement géographique précis, conformément aux modalités du contrat, le lieu de fourniture est réputé être dans la province de cet emplacement précis.</p>
 <p>En ce qui concerne les autres types de licences d'utilisation de logiciels, les agents de négociation des contrats doivent consulter le <a href="http://www.cra-arc.gc.ca/F/pub/gm/b-103/b-103-f.pdf" rel="external">Bulletin d'information technique sur la <abbr title="Taxe sur les produits et services / Taxe de vente harmonisée">TPS/TVH</abbr> B-103 (juin 2010) (Version PDF 570Ko)</a> (<a class="help" href="https://achatsetventes.gc.ca/aide/aide-a-l-accessibilite#20"><em class="mediumFont">Aide sur les formats de fichier</em></a>) ou communiquer avec l'Agence du revenu du Canada.</p>
-<h2>Personne-ressource de la Direction générale des approvisionnements</h2>
+<h3>Personne-ressource de la Direction générale des approvisionnements</h3>
 <p>Olivier Lalande<br/>
 	 Direction de la politique et du processus d'approvisionnement <br/>
 	 Secteur de la politique, du risque, de l'intégrité et de la gestion stratégique <br/>
@@ -14,7 +14,7 @@
 	 Travaux publics et Services gouvernementaux Canada<br/>
 	 819-956-0166<br/>
 <a href="mailto:olivier.lalande@tpsgc-pwgsc.gc.ca" rel="external">olivier.lalande@tpsgc-pwgsc.gc.ca</a></p>
-<h2>Personne-ressource de l'Agence du revenu du Canada</h2>
+<h3>Personne-ressource de l'Agence du revenu du Canada</h3>
 <p><em>Les coordonnées seront fournies sous pli séparé.</em></p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
 </div>

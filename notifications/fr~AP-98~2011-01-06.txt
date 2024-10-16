@@ -1,19 +1,19 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p>Le présent avis relatif aux politiques AP-98 vise à réitérer l'importance de la production de rapports exacts et à clarifier la fonction de l'indicateur relatif à la sécurité nationale dans le sommaire de l'approvisionnement dans l'environnement automatisé de l'acheteur l'(EAA).</p>
-<h2>Date d'entrée en vigueur</h2>
+<h3>Date d'entrée en vigueur</h3>
 <p>Le présent AP entre en vigueur immédiatement.</p>
-<h2>Contexte</h2>
+<h3>Contexte</h3>
 <p>Pour  chacun des documents, original ou de modifications, les agents de négociation  de contrats peuvent sélectionner « Oui » (en cochant la case) ou  « Non » (en laissant la case libre) la case de l'indicateur relatif à  la sécurité nationale dans le sommaire de l ‘approvisionnement de l'EAA.  Lorsque la case est cochée, indiquant « Oui », l'attribution de ces  documents ne sera pas affichée dans la base de données des « Contrats  octroyés » (CO) du site de Contrats Canada ou sur le Service électronique  d'appels d'offres du gouvernement (SAEOG). Lorsque la case de l'indicateur  relatif à la sécurité nationale est laissée libre, indiquant le  « Non », le document original sera affiché sur le SAEOG et s'il  s'agit d'une attribution initiale ou d'une modification, le document sera affiché  sur le site Web de Contrats Canada</p>
 <p><em>(Les  modifications ne sont jamais publiées sur SEAOG – seulement les attributions  initiales. Contrat Canada (CO) publie la demande originale ainsi que les  modifications.)</em></p>
 <p>Il se peut que pour des  raisons autres que la sécurité nationale, il ne soit pas dans l'intérêt public  d'afficher l'émission d'un document contractuel sur le SEAOG ou sur le site de  Contrats Canada. Actuellement, la seule façon qu'un agent de négociation des  contrats peut interdire l'affichage sur ces sites est de cocher la case de  l'indicateur relatif à la sécurité nationale dans le sommaire  d'approvisionnement de l'EAA.</p>
 <p>D'autre part, pour certains processus  d'approvisionnement, il peut être approprié d'afficher un avis d'attribution de  contrats même si une exception au titre de la sécurité nationale (ESN) a été  invoquée conformément à l'article 3.105 du Guide des approvisionnements. En ce qui a trait à ces processus  d'approvisionnement, l'indicateur relatif à la sécurité nationale ne doit pas  être coché, si un avis d'attribution de contrats doit être affiché.</p>
-<h2>Procédures</h2>
+<h3>Procédures</h3>
 <p>Voir l'<a href="#AP-98anna">Annexe A</a> du présent document pour consulter les procédures clarifiées du Guide des approvisionnements concernant l'utilisation de l'indicateur relatif à la sécurité nationale dans le sommaire de l'approvisionnement de l'EAA. Aucune modification n'a été apportée au Guide des clauses et conditions uniformisées d'achat.</p>
-<h2>Personne-ressource</h2>
+<h3>Personne-ressource</h3>
 <p>Toute  demande de renseignements doit être faite auprès de Sylvie Moquin, analyste des  politiques, Direction de la politique et du processus d'approvisionnement  (DPPA), par téléphone au 819-956-0717ou par courriel à l'adresse  suivante : <a href="mailto:sylvie.moquin@tpsgc-pwgsc.gc.ca" rel="external">sylvie.moquin@tpsgc-pwgsc.gc.ca</a></p>
-<h2 id="AP-98anna">Annexe A Modifications au Guide des approvisionnements</h2>
+<h3 id="AP-98anna">Annexe A Modifications au Guide des approvisionnements</h3>
 <p><strong>7.30 Rapports sur les achats et publication des avis d'attribution de contrats</strong><br/>
 (201X-XX-XX)</p>
 <ol class="double-space" type="a">

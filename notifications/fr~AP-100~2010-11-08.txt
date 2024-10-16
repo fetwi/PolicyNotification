@@ -1,16 +1,16 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p>L'avis relatif aux politiques (AP)-100 vise à informer les agents de négociation des contrats du retrait de l'exigence de consulter et de remplir la liste de vérification de la demande de soumissions. </p>
-<h2>Contexte</h2>
+<h3>Contexte</h3>
 <p>Dans le cadre de ses efforts pour moderniser la fonction d'approvisionnement, la Direction générale des approvisionnements (DGA) a formé un groupe de travail pour élaborer des solutions visant à rationaliser les processus d'approvisionnement. Au cours des deux dernières années, le Groupe de travail sur la modernisation des solutions d'approvisionnement (MSA), formé de représentants des secteurs et des régions, a examiné les processus d'approvisionnement et a ciblé les domaines pouvant être améliorés ou supprimés dans le but d'appuyer une approche rationalisée. Un de ces domaines est l'utilisation d'une liste de vérification, laquelle a auparavant été ciblée pour examen dans le cadre d'autres activités. L'élimination de la liste de vérification appuie l'objectif de rationalisation. Le présent <abbr title="Avis relatifs aux politiques">AP</abbr> supprime officiellement cette exigence du processus d'approvisionnement.</p>
-<h2>Date d'entrée en vigueur</h2>
+<h3>Date d'entrée en vigueur</h3>
 <p>Le présent <abbr title="Avis relatifs aux politiques">AP</abbr> est en vigueur dès maintenant. </p>
-<h2><strong>Modifications à la politique actuelle </strong></h2>
+<h3><strong>Modifications à la politique actuelle </strong></h3>
 <p>Les références à la liste de vérification de la demande de soumissions seront supprimées du Guide des approvisionnements. Les agents de négociation des contrats n'ont plus à consulter la liste de vérification de la demande de soumission pour les besoins de moins de 25,000 $ et n'ont pas à remplir ladite liste pour les besoins supérieurs à 25,000 $ et à joindre le document d'approbation connexe. </p>
-<h2>Modifications au Guide des approvisionnements</h2>
+<h3>Modifications au Guide des approvisionnements</h3>
 <p>Les procédures du Guide des approvisionnements 4.30.5 <strong>Liste de vérification de la demande de soumissions</strong>, 6.15 <strong>Liste de vérification de la demande de soumissions</strong>, annexe 8.1, 2. f) <strong>Documents proposés pour la couverture gauche du dossier</strong>, sont supprimées et seront retirées du Guide des approvisionnements lors de la prochaine mise à jour.</p>
-<h2>Personne-ressource</h2>
+<h3>Personne-ressource</h3>
 <p>Pour de plus amples renseignements, veuillez communiquer avec Susan Blakeney, Direction de la politique et du processus d'approvisionnement, par téléphone au 819-956-8235 ou par courriel à l'adresse suivante : <a href="mailto:susan.blakeney@tpsgc-pwgsc.gc.ca" rel="external">susan.blakeney@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
 </div>

@@ -1,13 +1,13 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Objet</h2>
+<h3>Objet</h3>
 <p>L'Avis relatif aux politiques 50R1 (AP 50R1) vise à rendre compte des modifications apportées au Programme de contrats fédéraux (PCF) pour l’équité en matière d’emploi.</p>
-<h2>Date d’entrée en vigueur</h2>
+<h3>Date d’entrée en vigueur</h3>
 <p>À compter d'aujourd'hui, les agents de négociation des contrats doivent modifier leurs documents d'invitation à soumissionner afin de tenir compte des modifications apportées aux modèles uniformisés d’approvisionnement et doivent suivre les nouvelles instructions contenues dans le <cite>Guide des approvisionnements</cite>.</p>
-<h2>Contexte</h2>
+<h3>Contexte</h3>
 <p>Géré par Ressources humaines et Développement des compétences Canada (RHDCC) – Travail, le <a href="http://www.travail.gc.ca/fra/normes_equite/eq/emp/pcf/index.shtml" rel="external">Programme de contrats fédéraux (PCF)</a> vise à corriger les inégalités en matière d'emploi touchant quatre groupes désignés, soit les femmes, les Autochtones, les personnes handicapées et les minorités visibles. Son objectif consiste à favoriser l'équité afin que personne ne se voie refuser un emploi pour des motifs autres que ses compétences.</p>
 <p>Par suite d’un examen du <abbr title="Programme de contrats fédéraux">PCF</abbr>, <abbr title="Ressources humaines et Développement des compétences Canada">RHDCC</abbr>-Travail a fait passer le seuil d’application de 200 000 $ à 1 000 000 $. Les sanctions d'inadmissibilité peuvent maintenant être imposées dans le cadre de contrats visant l'achat de biens et de services, quelle que soit la valeur de l’achat. Les soumissionnaires qui seront jugés non admissibles ne seront désormais plus en mesure d'obtenir de contrats. La liste des entrepreneurs non admissibles porte maintenant le titre de liste des « <a href="http://www.travail.gc.ca/fra/normes_equite/eq/emp/pcf/liste/inelig.shtml " rel="external">soumissionnaires à admissibilité limitée</a> » du <abbr title="Programme de contrats fédéraux">PCF</abbr>.</p>
-<h2>Politique</h2>
+<h3>Politique</h3>
 <p>Le <abbr title="Programme de contrats fédéraux">PCF</abbr> s’applique aux ministères et organismes figurant aux Annexes I, I.1 et II de la <a href="http://laws-lois.justice.gc.ca/fra/lois/f-11/" rel="external"><cite>Loi sur la gestion des finances publiques</cite></a> et assujettis à la <a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=14494&amp;section=text" rel="external">Politique sur les marchés</a> du Conseil du Trésor.</p>
 <p>Le <abbr title="Programme de contrats fédéraux">PCF</abbr> s’applique aux soumissionnaires ou offrants dont l’effectif total au Canada compte au moins 100 employés permanents à temps plein, permanents à temps partiel et temporaires et qui obtiennent des contrats du gouvernement fédéral ou à qui l'on émet des offres à commandes visant l'achat de biens et de services dont la valeur ou la limite  des commandes subséquentes s’élève à 1 000 000 $ ou plus (y compris toutes les taxes applicables et excluant les options).</p>
 <p>Un soumissionnaire ou un offrant assujetti au <abbr title="Programme de contrats fédéraux">PCF</abbr> doit avoir conclu une entente de mise en œuvre de l'équité en matière d'emploi avec <abbr title="Ressources humaines et Développement des compétences Canada">RHDCC</abbr>-Travail ou doit remplir et signer le formulaire <a href="http://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=lab1168&amp;ln=fra" rel="external">Accord pour la mise en œuvre de l'équité en matière d'emploi</a> et l'envoyer à <abbr title="Ressources humaines et Développement des compétences Canada">RHDCC</abbr>-Travail avant l'attribution du contrat ou l'émission d'une offre à commandes.</p>
@@ -15,9 +15,9 @@
 <p>Un soumissionnaire ou un offrant dont le nom figure sur la liste des « soumissionnaires à admissibilité limitée » du <abbr title="Programme de contrats fédéraux">PCF</abbr> ne sera plus en mesure de se voir attribuer un contrat ou émettre une offre à commandes, quelle que soit la valeur de l'approvisionnement.</p>
 <p>Tout entrepreneur qui obtient un contrat dont la valeur est de 1 000 000 $ ou plus (taxes applicables comprises) ou tout offrant qui reçoit une offre à commandes dont la limite des commandes subséquentes s’élève à 1 000 000 $ ou plus (taxes applicables comprises) est tenu de respecter l'entente de mise en œuvre de l'équité en matière d'emploi  en tout temps, et non seulement pour la durée du contrat ou de l'offre à commandes. Une nouvelle disposition de manquement a été ajoutée aux clauses du contrat subséquent dans les modèles uniformisés d'approvisionnement en vue de répondre à cette exigence contractuelle.</p>
 <p>Un soumissionnaire ou un offrant non admissible ne peut obtenir un contrat ou recevoir une offre à commandes, sauf s'il est requis de le faire en vertu d'une obligation légale ou judiciaire ou lorsque le Canada l'estime nécessaire dans l'intérêt public. Dans un tel cas, l’autorité contractante ou le responsable de l'offre à commandes doit obtenir l’approbation de son directeur général ou de son directeur général régional.</p>
-<h2>Révision du <cite>Guide des approvisionnements</cite></h2>
+<h3>Révision du <cite>Guide des approvisionnements</cite></h3>
 <p>À l’appui du présent avis relatif aux politiques, le <cite>Guide des approvisionnements</cite> a été mis à jour. Pour savoir quelles sections ont été modifiées, veuillez vous reporter à la section « Sections  du <cite>Guide des approvisionnements</cite> visées » ci-dessous.</p>
-<h2>Révision des clauses et conditions uniformisées d’achat et des modèles uniformisés d’approvisionnement</h2>
+<h3>Révision des clauses et conditions uniformisées d’achat et des modèles uniformisés d’approvisionnement</h3>
 <p>Des modifications ont été apportées aux obligations qui incombent aux entrepreneurs et aux autorités contractantes ou aux responsables des offres à commandes dans le cadre du Programme de contrats fédéraux pour l’équité en matière d’emploi.</p>
 <p>Par conséquent les clauses pertinentes du Guide des clauses et conditions uniformisées d’achat (CCUA) et les cinq <a class="gov-auth-link" href="http://www.gcpedia.gc.ca/wiki/Communaut%C3%A9_de_l%27approvisionnement/Outils/Mod%C3%A8les_de_demandes_de_soumissions_et_de_contrat/Mod%C3%A8les_uniformis%C3%A9s_d%E2%80%99approvisionnement_de_TPSGC" rel="external">modèles uniformisés d’approvisionnement</a><span> (accessible uniquement sur le réseau du gouvernement du Canada)</span> (disponibles sur GCpédia) ont été révisés :</p>
 <ul>
@@ -32,10 +32,10 @@
 <p>Les agents de négociation des contrats doivent intégrer ces modifications à leurs documents d’approvisionnement.</p>
 <p>Veuillez vous reporter au <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#TEMPLATES">résumé des modifications</a> pour connaître les détails des modifications apportées aux modèles.</p>
 <p>Veuillez vous reporter à « Sections modifiées du Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> » ci-dessous pour consulter les <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> visées par ces modifications.</p>
-<h2>Coordonnées</h2>
+<h3>Coordonnées</h3>
 <p>Veuillez transmettre toute question concernant les modifications apportées aux modèles uniformisés d’approvisionnement à la Division des outils relatifs au processus d’approvisionnement à l’adresse <a href="mailto:outilsapprov.proctools@tpsgc-pwgsc.gc.ca" rel="external">outilsapprov.proctools@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Les questions relatives au Programme de contrats fédéraux pour l'équité en matière d'emploi peuvent être envoyées au Secteur du risque, de l’intégrité et de la gestion stratégique à l’adresse <a href="mailto:dppapublications.appdpublications@tpsgc-pwgsc.gc.ca" rel="external">dppapublications.appdpublications@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Sections du Guide des approvisionnements visées</h3>
+<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-265afda1971aa0d1b062f221a519bd06">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -57,7 +57,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h3>
+<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-f8cadd3471ad1160c0ebb06043c4c562">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

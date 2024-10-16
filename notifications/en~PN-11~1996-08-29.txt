@@ -1,13 +1,13 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>The goal of the Vendor Performance Policy is to improve client<br/>
 					service, by preventing problems with vendors from arising. While<br/>
 					it is never possible to ensure that there is no poor performance,<br/>
 					we can improve suppliers' performance by instituting the appropriate<br/>
 					measures in the event of non-performance.</p>
-<h3>Principles</h3>
+<h4>Principles</h4>
 <p>Public Works and Government Services Canada (PWGSC) has the authority<br/>
 					and the duty to take reasonable measures to ensure that it can<br/>
 					rely on its contractors to perform their obligations. The Department,within<br/>
@@ -18,7 +18,7 @@
 					to take such action must be exercised in a fair and reasonable<br/>
 					manner within the policy. Any measure taken must rationally relate<br/>
 					to the nature and severity of the problem for which it is applied.</p>
-<h3>Definitions</h3>
+<h4>Definitions</h4>
 <p>"<strong>poor performance</strong>": means anything less than<br/>
 					full performance of a contract by a vendor.</p>
 <p><em>Note: While even minor instances of poor performance may be<br/>
@@ -55,8 +55,8 @@
 <p>As part of a VPCM, the vendor may also be subject to probation<br/>
 					when the Measure ends. In such a case, if further instances of<br/>
 					poor performance occur, the VPCM may be extended, or another applied.</p>
-<h3>Process</h3>
-<h3>Monitoring</h3>
+<h4>Process</h4>
+<h4>Monitoring</h4>
 <p>Contracting officers must enforce the terms of contracts wherever<br/>
 					possible and appropriate. The same incident may support both enforcement<br/>
 					of the remedies available under the contract and a VPCM. The contracting<br/>
@@ -99,7 +99,7 @@
 					make sure that their contracts cover all aspects of performance<br/>
 					which they would want to consider in evaluating the vendor's performance<br/>
 					on the contract.</p>
-<h3>Investigation for Vendor Performance Corrective Measures</h3>
+<h4>Investigation for Vendor Performance Corrective Measures</h4>
 <p>Formal corrective measures should be considered where there is<br/>
 					evidence that continued contracting with a vendor may pose a greater<br/>
 					risk to the Crown than is acceptable. This may be as the result<br/>
@@ -125,7 +125,7 @@
 <p>All components of an investigation and subsequent decision must<br/>
 					be fully documented, with the disposition being noted on the vendor<br/>
 					file in VIM.</p>
-<h3>Decision on Application of Vendor Performance Corrective Measures</h3>
+<h4>Decision on Application of Vendor Performance Corrective Measures</h4>
 <p>A decision to apply Vendor Performance Corrective Measures (VPCM)<br/>
 					should be made where, on the basis of the vendor's performance<br/>
 					history, a prudent person acting on their own behalf would not<br/>
@@ -231,14 +231,14 @@
 <li>in the case of a VPCM that can end when the vendor satisfies<br/>
 						conditions, who will decide if the conditions have been satisfied.</li>
 </ol>
-<h3>Review</h3>
+<h4>Review</h4>
 <p>Except where there is an approved Sector Program (see below),<br/>
 					the ADM/SOSB will review all decisions to apply a VPCM, and any<br/>
 					additional representations made by the vendor, and may decide to<br/>
 					vary the decision. If the ADM/SOSB intends to apply a more severe<br/>
 					VPCM, the vendor must be notified, and given a reasonable opportunity<br/>
 					to respond to that change.</p>
-<h3>Enforcement</h3>
+<h4>Enforcement</h4>
 <p>When a VPCM is applied, the ADM/SOSB (or appropriate Director<br/>
 					General, where there is a Sector Program) will inform the vendor<br/>
 					of the decision. All Sectors and Regions, and clients which have<br/>
@@ -274,7 +274,7 @@
 					access to ABE.</p>
 <p>When a Measure ends, the Sector or Region that initiated it is<br/>
 					responsible for promptly notifying the vendor.</p>
-<h3>Role of the Contracting Officer</h3>
+<h4>Role of the Contracting Officer</h4>
 <p>The contracting officer must ascertain whether a bidder, or a<br/>
 					vendor being considered for a sole source contract, is subject<br/>
 					to any VPCM, and for determining if that Measure affects the procurement<br/>
@@ -286,7 +286,7 @@
 					about 250 characters, additional information may be contained on<br/>
 					Vendor Performance Corrective Measure type comments, which should<br/>
 					also be consulted.</p>
-<h3>Suspensions in Cases of Urgency</h3>
+<h4>Suspensions in Cases of Urgency</h4>
 <p>Where a problem with a vendor is particularly serious (e.g., involving<br/>
 					negligence or wilful misconduct, or carrying health or safety implications),<br/>
 					the ADM/SOSB may apply an immediate suspension on the advice of<br/>
@@ -295,14 +295,14 @@
 					any unacceptable risk to the Crown or public. The vendor will immediately<br/>
 					be notified, and given the same opportunity to respond as in a<br/>
 					normal Vendor Performance Corrective Measures action.</p>
-<h3>Exceptions</h3>
+<h4>Exceptions</h4>
 <p>In cases of emergency, or great urgency in a procurement, an exception<br/>
 					may be made to a VPCM, by a Director General. In such cases, special<br/>
 					care must be taken to protect the Crown. Where an exception is<br/>
 					made, the reason must be recorded on the contract file and the<br/>
 					vendor file. The fact that a vendor subject to a VPCM is low bidder<br/>
 					is not enough reason to make an exception.</p>
-<h3>Sector Programs</h3>
+<h4>Sector Programs</h4>
 <p>A Sector or Region may establish a Program for evaluating vendor<br/>
 					performance and determining appropriate Vendor Performance Corrective<br/>
 					Measures to apply within that Sector or Region. Where such a program<br/>
@@ -316,9 +316,9 @@
 					standards for the same commodities, in different Sectors or Regions.<br/>
 					Once established, a Program is administered by the Sector or Region,<br/>
 					in accordance with the provisions of this Policy.</p>
-<h2>Annex A</h2>
-<h3>BACKGROUNDER</h3>
-<h4>Vendor Performance Policy and Clause</h4>
+<h3>Annex A</h3>
+<h4>BACKGROUNDER</h4>
+<h5>Vendor Performance Policy and Clause</h5>
 <p>On September 1, 1996, Public Works and Government Services Canada<br/>
 					(<acronym title="Public Works and Government Services Canada">PWGSC</acronym>) will implement the Vendor Performance Policy and the Vendor<br/>
 					Performance Clause. In doing so, <acronym title="Public Works and Government Services Canada">PWGSC</acronym>'s objective is to improve<br/>
@@ -403,16 +403,16 @@
 					the Crown's interests.</p>
 <p>For more information, contact Susan Sheehan, Supply Policy Directorate,<br/>
 					Public Works and Government Services Canada, 819-956-0867.</p>
-<h2>Annex B</h2>
-<h3>VENDOR PERFORMANCE CLAUSE</h3>
-<h4>Use of Vendor Performance Clause</h4>
-<h5>Authority to Reject a Bid</h5>
+<h3>Annex B</h3>
+<h4>VENDOR PERFORMANCE CLAUSE</h4>
+<h5>Use of Vendor Performance Clause</h5>
+<h6>Authority to Reject a Bid</h6>
 <p>Authority to reject a bid under the Vendor Performance Clause<br/>
 					(A9100T) rests with the officer responsible for evaluating bids;<br/>
 					except that in the case of bids being considered for rejection<br/>
 					pursuant to 1(d)(2), 1(d)(3) or 1(d)(4), the authority to reject<br/>
 					a bid rests with the appropriate Director General.</p>
-<h5>Notice to the Bidder</h5>
+<h6>Notice to the Bidder</h6>
 <p>Notice of intent to reject a bid pursuant to this Clause will<br/>
 					be given by telephone, and followed by confirming facsimile or<br/>
 					letter, except that a bidder excluded under 1(b) will not be notified.<br/>
@@ -421,7 +421,7 @@
 					to have been received by the rejected supplier at the time of the<br/>
 					telephone call. The person making the call must note on the file<br/>
 					the date and time of the call, and the person spoken to.</p>
-<h5>Contents of Notice:</h5>
+<h6>Contents of Notice:</h6>
 <p>The notice must set out the facts and the reasons for the decision<br/>
 					to reject the bid. For example: Where a supplier with a record<br/>
 					of persistent lateness, but as yet not subject to a VPCM, is excluded<br/>
@@ -431,7 +431,7 @@
 					nature of the time requirement in the present procurement (reason).</p>
 <p>Where a bid is being rejected under 1(c), it is sufficient to<br/>
 					cite the VPCM.</p>
-<h5>Review</h5>
+<h6>Review</h6>
 <p>A bidder, except a bidder excluded under 1(b), may have the decision<br/>
 					to reject reviewed by the Assistant Deputy Minister, Supply Operations<br/>
 					Service Branch. It is entirely in the ADM/SOSB's discretion, whether<br/>
@@ -442,7 +442,7 @@
 					procurement from which the supplier has been rejected. When the<br/>
 					decision has been made, the bidder will be informed of the results,<br/>
 					in writing.</p>
-<h3>A9100T Vendor Performance</h3>
+<h4>A9100T Vendor Performance</h4>
 <p><strong>Remarks:</strong> This clause is to be used in all bid<br/>
 					solicitations.</p>
 <p>1. Canada may reject a bid where any of the following circumstances<br/>
@@ -504,7 +504,7 @@
 					which to make representations, prior to making a final decision<br/>
 					on the bid rejection.</p>
 <hr/>
-<h3>A9100T Vendor Performance</h3>
+<h4>A9100T Vendor Performance</h4>
 <p><strong>Remarks:</strong> This clause is to be used in all bid<br/>
 					solicitations.</p>
 <p>1. Canada may reject a bid where any of the following circumstances<br/>
@@ -551,9 +551,9 @@
 					so inform the Bidder and provide the Bidder ten (10) days within<br/>
 					which to make representations, prior to making a final decision<br/>
 					on the bid rejection.</p>
-<h2>Annex C</h2>
-<h3>VENDOR PERFORMANCE POLICY VENDOR PERFORMANCE CLAUSE QUESTIONS<br/>
-					AND ANSWERS</h3>
+<h3>Annex C</h3>
+<h4>VENDOR PERFORMANCE POLICY VENDOR PERFORMANCE CLAUSE QUESTIONS<br/>
+					AND ANSWERS</h4>
 <p><a href="#PN-11q1"><strong>Q.1 - Q.17 </strong>The Vendor Performance<br/>
 					Policy and Clause</a>
 </p>
@@ -585,7 +585,7 @@
 					Program and international trade sanctions</a>
 </p>
 <hr/>
-<h3>THE VENDOR PERFORMANCE POLICY AND CLAUSE</h3>
+<h4>THE VENDOR PERFORMANCE POLICY AND CLAUSE</h4>
 <p id="PN-11q1"><strong>Q.1 What is the Vendor Performance Policy?</strong></p>
 <p>A.1 The Vendor Performance Policy is a policy aimed at making<br/>
 					a major improvement in <acronym title="Public Works and Government Services Canada">PWGSC</acronym>'s service to departments, by providing<br/>
@@ -769,7 +769,7 @@
 					be infrequent. In addition, the policy's provision that individual<br/>
 					employees of a company may be subject to measures will minimize<br/>
 					the possibility.</p>
-<h3>APPLICATION OF MEASURES</h3>
+<h4>APPLICATION OF MEASURES</h4>
 <p id="PN-11q18"><strong>Q.18 What are the steps that would be<br/>
 					taken leading to the application of measures under the policy<br/>
 					or clause?</strong></p>
@@ -1011,7 +1011,7 @@
 					laws. If there is a recurrence of the problems, such comments will<br/>
 					be taken into account in deciding if more severe measures should<br/>
 					be taken.</p>
-<h3>COST TO TAXPAYERS</h3>
+<h4>COST TO TAXPAYERS</h4>
 <p id="PN-11q34"><strong>Q.34 What are the costs to taxpayers<br/>
 					for <acronym title="Public Works and Government Services Canada">PWGSC</acronym>'s administering the Vendor Performance Policy/Clause?</strong></p>
 <p>A.34 There will be no additional allocation of resources to perform<br/>
@@ -1023,7 +1023,7 @@
 					they have paid for. The policy and clause may even eventually reduce<br/>
 					contract administration costs associated with addressing problems<br/>
 					caused by poor performance by suppliers</p>
-<h3>NON-APPLICATION OF POLICY/CLAUSE TO PROCUREMENT BY OTHER DEPARTMENTS</h3>
+<h4>NON-APPLICATION OF POLICY/CLAUSE TO PROCUREMENT BY OTHER DEPARTMENTS</h4>
 <p id="PN-11q35"><strong>Q.35 Does the Vendor Performance Policy/Clause<br/>
 					apply to procurement done by other departments and agencies?</strong></p>
 <p>A.35 No. The Vendor Performance Policy/Clause applies only to<br/>
@@ -1047,7 +1047,7 @@
 					policies or clauses?</strong></p>
 <p>A.37 <acronym title="Public Works and Government Services Canada">PWGSC</acronym> is not aware of other departments or agencies having<br/>
 					any similar policies or clauses.</p>
-<h3>CONSISTENCY WITH TREASURY BOARD POLICY AND TRADE AGREEMENTS</h3>
+<h4>CONSISTENCY WITH TREASURY BOARD POLICY AND TRADE AGREEMENTS</h4>
 <p id="PN-11q38"><strong>Q.38 Does Treasury Board Policy permit<br/>
 					the implementation of the Vendor Performance Policy and the Vendor<br/>
 					Performance Clause?</strong></p>
@@ -1062,7 +1062,7 @@
 <p>A.39 Yes, the policy is consistent with all of Canada's trade<br/>
 					agreements. Under the policy, Canadian and foreign suppliers will<br/>
 					be treated the same.</p>
-<h3>INFORMING INDUSTRY OF POLICY/CLAUSE IMPLEMENTATION</h3>
+<h4>INFORMING INDUSTRY OF POLICY/CLAUSE IMPLEMENTATION</h4>
 <p id="PN-11q40"><strong>Q.40 How does <acronym title="Public Works and Government Services Canada">PWGSC</acronym> intend to inform<br/>
 					suppliers of the implementation of the Vendor Performance Policy/Clause?</strong></p>
 <p>A.40 Suppliers will be informed about the implementation of the<br/>
@@ -1077,7 +1077,7 @@
 					the policy and clause. Questions and answers will be distributed<br/>
 					to procurement officers to assist them in responding to supplier<br/>
 					enquiries.</p>
-<h3>ROLE OF OTHER DEPARTMENTS</h3>
+<h4>ROLE OF OTHER DEPARTMENTS</h4>
 <p id="PN-11q41"><strong>Q.41 What role will other departments<br/>
 					play in making the Vendor Performance Policy/Clause an effective<br/>
 					tool for dealing with suppliers that perform poorly?</strong></p>
@@ -1117,7 +1117,7 @@
 					contracting staff will work to provide an alternative or to seek<br/>
 					an exception to allow the requirement to go ahead, with proper<br/>
 					precautions taken to safeguard the Crown's interests.</p>
-<h3>THE PRINCIPLES</h3>
+<h4>THE PRINCIPLES</h4>
 <p id="PN-11q44"><strong>Q.44 What are the principles behind<br/>
 					the Vendor Performance Policy/Clause?</strong></p>
 <p>A.44 The policy has four principles.</p>
@@ -1133,7 +1133,7 @@
 <li>Any measures taken must rationally relate to the nature and<br/>
 						severity of the problem for which it is applied.</li>
 </ol>
-<h3>TYPES OF MEASURES AVAILABLE</h3>
+<h4>TYPES OF MEASURES AVAILABLE</h4>
 <p id="PN-11q45"><strong>Q.45 What type of measures could be<br/>
 					applied to suppliers?</strong></p>
 <p>A.45 The measures available under the Vendor Performance Policy<br/>
@@ -1226,7 +1226,7 @@
 					would normally only be taken against a vendor as the result of<br/>
 					a major instance of poor performance on a contract, or a cumulative<br/>
 					record of poor performance.</p>
-<h3>DOCUMENTING PROBLEMS</h3>
+<h4>DOCUMENTING PROBLEMS</h4>
 <p id="PN-11q53"><strong>Q.53 What should a <acronym title="Public Works and Government Services Canada">PWGSC</acronym> procurement<br/>
 					officer do when problems arise with a supplier?</strong></p>
 <p>A.53 At the first sign of difficulties, such as late delivery<br/>
@@ -1308,7 +1308,7 @@
 <p>However, it should be noted that procurement officers acting improperly<br/>
 					could be subject to disciplinary measures even where they are given<br/>
 					legal assistance or are indemnified.</p>
-<h3>NOT A PERFORMANCE MEASUREMENT SYSTEM</h3>
+<h4>NOT A PERFORMANCE MEASUREMENT SYSTEM</h4>
 <p id="PN-11q60"><strong>Q.60 Is the Vendor Performance Policy a performance measurement<br/>
 					system?</strong></p>
 <p>A.60 The Vendor Performance Policy does not itself measure performance,<br/>
@@ -1319,8 +1319,8 @@
 					Vendor Performance Policy or the Vendor Performance Clause should<br/>
 					not replace information to be used in performance measurement systems<br/>
 					which may be set up in a commodity area.</p>
-<h3>RELATIONSHIP TO FEDERAL CONTACTORS' PROGRAM AND INTERNATIONAL<br/>
-					TRADE SANCTIONS</h3>
+<h4>RELATIONSHIP TO FEDERAL CONTACTORS' PROGRAM AND INTERNATIONAL<br/>
+					TRADE SANCTIONS</h4>
 <p id="PN-11q61"><strong>Q.61 Does the Vendor Performance Policy deal with sanctions<br/>
 					related to the Federal Contractors Program (Employment Equity)<br/>
 					and international trade sanctions?</strong></p>

@@ -6,11 +6,11 @@
 <p>2. Please take note also that the effective date (16/06/98) of the changes has been deleted from the text of DSS-MAS 9403.</p>
 <p>3. These changes DO NOT modify existing practices for procurement staff, but rather clarify and reinforce that the specified Bid Receiving area is the ONLY location for bids to be submitted by bidders.</p>
 <p>4. Related changes to the Standard Acquisition Clauses and Conditions Manual, attached as <strong>Annex B</strong>, will be included in amendment 98-2, which is scheduled for release on 15 June 1998.</p>
-<h2>ANNEX B</h2>
-<h3>SACC MANUAL CHANGES</h3>
+<h3>ANNEX B</h3>
+<h4>SACC MANUAL CHANGES</h4>
 <p><strong>DSS-MAS 9403 (__/__/98) Standard Instructions and Conditions</strong></p>
 <p><strong>A. INSTRUCTIONS (APPLICABLE TO BID SOLICITATION)</strong></p>
-<h3>1. Submission of Bids</h3>
+<h4>1. Submission of Bids</h4>
 <ol>
 <li>
 <p>It is the Bidder's responsibility to:</p>
@@ -27,9 +27,9 @@
 <li>While Canada may enter into contract without negotiation, Canada reserves the right to negotiate with bidders on any procurement.</li>
 <li>Bid documents and supporting information may be submitted in either English or French.</li>
 </ol>
-<h3>2. Late Bids</h3>
+<h4>2. Late Bids</h4>
 <p>It is DPWGS policy to return, unopened, bids delivered after the stipulated bid solicitation closing date and time, unless they qualify as a delayed bid as described below.</p>
-<h3>3. Delayed Bids</h3>
+<h4>3. Delayed Bids</h4>
 <ol>
 <li>A bid delivered to the specified Bid Receiving area after the closing date and time but before the contract award date may be considered, provided the delay can be proven to have been due solely to a delay in delivery that can be attributed to the Canada Post Corporation (CPC) (or national equivalent of a foreign country. The only pieces of evidence relating to a delay in the CPC system that are acceptable to DPWGS are:<br/>
 <ol type="a">
@@ -45,9 +45,9 @@
 <li>For bids transmitted by facsimile or commercial telegram, only the date and the time of receipt recorded by DPWGS at the Bid Receiving number stated in the bid solicitation document will be accepted as evidence of a delayed bid.</li>
 <li>Misrouting, traffic volume, weather disturbances, or any other causes for the late delivery of bids are not acceptable reasons for the bid to be accepted by DPWGS.</li>
 </ol>
-<h3>4. Postage Meters</h3>
+<h4>4. Postage Meters</h4>
 <p>Postage meter imprints, whether imprinted by the Supplier, the CPC or the postal authority outside Canada, are not acceptable as proof of timely mailing. It should be noted that CPC does not normally apply a cancellation date stamp to metered mail; this is usually done only when postage stamps are used.</p>
-<h3>5. Responses Transmitted by Facsimile or Commercial Telegram</h3>
+<h4>5. Responses Transmitted by Facsimile or Commercial Telegram</h4>
 <ol>
 <li>
 <p>If you are in doubt that your bid will be delivered on time at the specific location designated for the receipt of the bid, you may use a facsimile or a commercial telegram, unless otherwise instructed in the bid solicitation package.</p>
@@ -79,7 +79,7 @@
 <hr/>
 <p><strong>DSS-MAS 9403-5 (__/__98) Professional and Research and Development Services</strong></p>
 <p><strong>A. INSTRUCTIONS (APPLICABLE TO BID SOLICITATION)</strong></p>
-<h3>1. Submission of Proposals</h3>
+<h4>1. Submission of Proposals</h4>
 <ol>
 <li>This is a request (hereinafter referred to as a bid solicitation) that proposals be developed and submitted to the Minister of Public Works and Government Services setting out the alternative means by which several technical, performance, time and other goals and objectives may be best met, having regard to stated mandatory requirements. Canada will consider entering into contract for the implementation of the most acceptable proposal which will be determined having regard to the evaluation factors set out in this bid solicitation. In addition, the proposal will be measured against the contract terms and conditions set forth in this bid solicitation.</li>
 <li>
@@ -97,9 +97,9 @@
 <li>While Canada may enter into contract without negotiation, Canada reserves the right to negotiate with bidders on any procurement.</li>
 <li>Bid documents and supporting information may be submitted in either English or French.</li>
 </ol>
-<h3>2. Late Bids</h3>
+<h4>2. Late Bids</h4>
 <p>It is DPWGS policy to return, unopened, bids delivered after the stipulated bid solicitation closing date and time, unless they qualify as a delayed bid as described below.</p>
-<h3>3. Delayed Bids</h3>
+<h4>3. Delayed Bids</h4>
 <ol>
 <li>A bid delivered to the specified Bid Receiving area after the closing date and time but before the Contract award date may be considered, provided the delay can be proven to have been due solely to a delay in delivery that can be attributed to the Canada Post Corporation (CPC) (or national equivalent of a foreign country). The only pieces of evidence relating to a delay in the CPC system that are acceptable to DPWGS are:<br/>
 <ol type="a">
@@ -115,9 +115,9 @@
 <li>For bids transmitted by facsimile or commercial telegram, only the date and the time of receipt recorded by DPWGS at the Bid Receiving number stated in the bid solicitation document will be accepted as evidence of a delayed bid.</li>
 <li>Misrouting, traffic volume, weather disturbances, or any other causes for the late delivery of bids are not acceptable reasons for the bid to be accepted by DPWGS.</li>
 </ol>
-<h3>4. Postage Meters</h3>
+<h4>4. Postage Meters</h4>
 <p>Postage meter imprints, whether imprinted by the Supplier, the CPC or the postal authority outside Canada, are not acceptable as proof of timely mailing. It should be noted that CPC does not normally apply a cancellation date stamp to metered mail; this is usually done only when postage stamps are used.</p>
-<h3>5. Responses Transmitted by Facsimile or Commercial Telegram</h3>
+<h4>5. Responses Transmitted by Facsimile or Commercial Telegram</h4>
 <ol>
 <li>
 <p>If you are in doubt that your bid will be delivered on time at the specific location designated for the receipt of the bid, you may use a facsimile or a commercial telegram, unless otherwise instructed in the bid solicitation package.</p>
@@ -149,16 +149,16 @@
 <hr/>
 <p><strong>DSS-MAS 9403-6 (__/__/98) Standing Offers</strong></p>
 <p><strong>A. INSTRUCTIONS</strong> </p>
-<h3>1. Method of Supply</h3>
+<h4>1. Method of Supply</h4>
 <p>One method of supply used by the Department of Public Works and Government Services (DPWGS) to satisfy the requirements of identified users is to arrange with offerors to submit a Standing Offer to provide goods, services, or both, to the federal government during a specified period. The identified users to be served are then delegated purchasing authority by DPWGS and may access the source of supply directly, as and when requested, by issuing call-ups detailing the exact quantities of goods or level of services they wish to order from the Offeror at a particular time during the effective period of the Offeror's offer and in accordance with the predetermined conditions.</p>
-<h3>2. Purpose of the Standing Offer</h3>
+<h4>2. Purpose of the Standing Offer</h4>
 <p>This method of supply is particularly useful in acquiring frequently ordered commercially and non-commercially available goods or services when the total volume or value of goods or level of services that may be required by one or more identified users can be estimated beforehand, but it is not possible at the outset to identify the exact requirements for any given user at a specific time in the future.</p>
 <p>Inasmuch as DPWGS, during the period stated in the Request for a Standing Offer (RFSO), foresees a potential need for goods or services, or both, the Offeror is hereby invited to provide DPWGS with a Standing Offer.</p>
-<h3>3. Quantity</h3>
+<h4>3. Quantity</h4>
 <p>The quantity of goods, level of services and estimated expenditure specified in the RFSO are only an approximation of requirements given in good faith. The making of a Standing Offer by the Offeror shall not constitute an agreement by Canada or any Identified User to order any or all of the said goods or services. The Identified User may make one or several call-ups against a Standing Offer.</p>
-<h3>4. DPWGS Obligation</h3>
+<h4>4. DPWGS Obligation</h4>
 <p>A request does not commit DPWGS to authorize the utilization of a Standing Offer or to pay any cost incurred in the submission of offers, or cost incurred in making necessary studies for the preparation thereof, or to procure or contract for any services or supplies. DPWGS reserves the right to reject or authorize for utilization any offer in whole or in part, with or without further discussion or negotiation.</p>
-<h3>5. Process</h3>
+<h4>5. Process</h4>
 <ol>
 <li>The Standing Offer is normally processed as follows:<br/>
 <ol type="a">
@@ -168,7 +168,7 @@
 </ol>
 </li>
 </ol>
-<h3>6. Submission of Offers</h3>
+<h4>6. Submission of Offers</h4>
 <ol>
 <li>
 <p>It is the Offeror's responsibility to:</p>
@@ -184,7 +184,7 @@
 <li>The Standing Offer should completely and thoroughly address each element of the requirement as enumerated in the RFSO. It is also essential that the elements contained in the offer be stated in a clear and concise manner.</li>
 <li>Bid documents and supporting information may be submitted in either English or French.</li>
 </ol>
-<h3>7. Responses Transmitted by Facsimile or Commercial Telegram</h3>
+<h4>7. Responses Transmitted by Facsimile or Commercial Telegram</h4>
 <ol>
 <li>
 <p>If you are in doubt that your offer will be delivered on time at the specific location designated for the receipt of the offer, you may use a facsimile or a commercial telegram, unless otherwise instructed in the RFSO.</p>
@@ -213,9 +213,9 @@
 </li>
 <li>For responses transmitted by facsimile or commercial telegram, written confirmation is required within two (2) working days after bid closing, unless otherwise specified in this solicitation. All documents confirming bids should bear the word "CONFIRMATION".</li>
 </ol>
-<h3>8. Late Offers</h3>
+<h4>8. Late Offers</h4>
 <p>It is DPWGS policy to return, unopened, offers delivered after the stipulated RFSO closing date and time, unless they qualify as a delayed offer as described below.</p>
-<h3>9. Delayed Offers</h3>
+<h4>9. Delayed Offers</h4>
 <ol>
 <li>An offer delivered to the specified Bid Receiving area after the closing date and time but before the issue of a SOCA may be considered, provided the delay can be proven to have been due solely to a delay in delivery that can be attributed to the Canada Post Corporation (CPC) (or national equivalent of a foreign country). The only pieces of evidence relating to a delay in the CPC system that are acceptable to DPWGS are:<br/>
 <ol type="a">
@@ -231,11 +231,11 @@
 <li>For offers transmitted by facsimile or commercial telegram, only the date and the time of receipt recorded by DPWGS at the Bid Receiving number stated in the solicitation document will be accepted as evidence of a delayed offer.</li>
 <li>Misrouting, traffic volume, weather disturbances, or any other causes for the late delivery of offers are not acceptable reasons for the offer to be accepted by DPWGS.</li>
 </ol>
-<h3>10. Postage Meters</h3>
+<h4>10. Postage Meters</h4>
 <p>Postage meter imprints, whether imprinted by the Offeror, the CPC or the postal authority outside Canada, are not acceptable as proof of timely mailing. It should be noted that CPC does not normally apply a cancellation date stamp to metered mail; this is usually done only when postage stamps are used.</p>
-<h3>11. Standard Clauses, Conditions and Instruction Sets</h3>
+<h4>11. Standard Clauses, Conditions and Instruction Sets</h4>
 <p>Any standard clause, and any condition or instruction set, used or referenced in an RFSO, a Standing Offer, or a call-up pursuant to a Standing Offer may be updated from time to time. When this happens, the version used in an already-issued document will remain in effect in that document, unless the updated version is legally incorporated.</p>
-<h3>12. Identity or Legal Capacity of Offeror</h3>
+<h4>12. Identity or Legal Capacity of Offeror</h4>
 <p>In order to establish the legal capacity under which an Offeror proposes to enter into a Standing Offer, any offeror who carries on business in other than its own personal name shall, if requested by the Contracting Authority, provide proof of the legal capacity under which it carries on business to the Contracting Authority prior to the issuance of a Standing Offer. Such proof may be in the form of a copy of the articles of incorporation or of the registration of the business name of a sole proprietor, of a trade name, of a partnership, etc.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

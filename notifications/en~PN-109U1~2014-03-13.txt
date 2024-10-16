@@ -1,23 +1,23 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Purpose</h2>
+<h3>Purpose</h3>
 <p>The purpose of Policy Notification 109U1 (PN-109U1) is to reflect changes to the procurement review process for procurements governed by the Defence Procurement Strategy (DPS).</p>
-<h2>Effective date</h2>
+<h3>Effective date</h3>
 <p>PN-109U1 and the related changes to the <cite>Supply Manual</cite> are effective immediately.</p>
-<h2>Background</h2>
+<h3>Background</h3>
 <p>On February 5, 2014, Canada’s new <abbr title="Defence Procurement Strategy">DPS</abbr> was launched. The <abbr title="Defence Procurement Strategy">DPS</abbr> fulfills the Government’s commitment to ensure defence equipment procurement creates economic opportunities and jobs for Canadians. PN 109 Defence Procurement Strategy provided information on the various components of the strategy. One component was the “Leveraging our purchases of defence equipment to create jobs and economic growth in Canada” using a weighted and rated <a href="http://news.gc.ca/web/article-en.do?nid=813549" rel="external">Value Proposition</a> to assess bids for defence and major Canadian Coast Guard procurements. </p>
 <p>As stated in PN-109, procurement bid proposals have been traditionally evaluated based on the rating and weighting of technical compliance and price only. A key feature of the <abbr title="Defence Procurement Strategy">DPS</abbr> will be the use of the Value Proposition as a weighted and rated element of a procurement bid evaluation. Value Propositions will reflect activities and investments supporting outcomes of benefit to Canada. Using Value Propositions, industrial considerations will factor into the determination of which bidding firm wins the contract. The use and composition of a Value Proposition will be identified on a procurement-by-procurement basis. </p>
-<h2>Policy</h2>
+<h3>Policy</h3>
 <p>Defence and major Canadian Coast Guard procurements governed by the <abbr title="Defence Procurement Strategy">DPS</abbr> are exempt from <a href="http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12074&amp;section=text#cha5" rel="external">Section 6 of the Treasury Board (TB) Procurement Review Policy</a> which requires that TB authority be sought before the issuance of a solicitation where weighted and rated Value Propositions form part of the bid evaluation. </p>
-<h2>Revisions to the <cite>Supply Manual</cite></h2>
+<h3>Revisions to the <cite>Supply Manual</cite></h3>
 <p>In support of this <abbr title="Policy Notification">PN</abbr>, the <cite>Supply Manual</cite> will be updated. To view the sections to be modified, please refer to “Affected <cite>Supply Manual</cite> Sections” below. </p>
-<h2>Next Steps</h2>
+<h3>Next Steps</h3>
 <p>Further guidance on implementation details of how the <abbr title="Defence Procurement Strategy">DPS</abbr> will affect upcoming procurements will be provided as it becomes available. If you receive questions from suppliers and clients on implementation details that you are unable to answer, please speak to your supervisor or contact <a href="mailto:PAretroaction.APfeedback@tpsgc-pwgsc.gc.ca" rel="external">PAretroaction.APfeedback@tpsgc-pwgsc.gc.ca</a> for additional information or clarification.</p>
-<h2>Contact Information</h2>
+<h3>Contact Information</h3>
 <p>Please direct any enquiries to Susan Blakeney by email: <a href="mailto:susan.blakeney@tpsgc.gc.ca" rel="external">susan.blakeney@tpsgc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected Supply Manual sections</h3>
+<h4 class="field-label">Affected Supply Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-d80b38ef095245c0560ecda6a7e06560">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

@@ -1,42 +1,42 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Purpose</h2>
+<h3>Purpose</h3>
 <p>The purpose of Policy Notification (PN)-154 is to notify Acquisitions Program (AP) contracting officers of new audit clauses to align with current pricing guidance.</p>
 <p>The inclusion of general and supplementary audit clauses in the Standard Acquisition Clauses and Conditions (SACC) Manual, serves to reinforce and clarify the use of audit clauses in contracts.</p>
-<h2>Effective date</h2>
+<h3>Effective date</h3>
 <p><abbr title="Policy Notification">PN</abbr>-154 is effective upon publication of the next release of the <abbr title="Standard Acquisition Clauses and Conditions Manual">SACC</abbr> Manual scheduled for December 2022, which will incorporate the updated general conditions and the new clause C1004C.</p>
-<h2>Expected outcomes</h2>
+<h3>Expected outcomes</h3>
 <ul>
 <li>Add and refine audit clauses to enhance consistency and transparency, and encourage both efficient and economical performance in a contract involving different basis of payment; </li>
 <li>Enhance awareness and proactive management of the risk factors in contracts to yield collaboration amongst stakeholders, and drive the achievement and assurance of value; and</li>
 <li>Strengthen Canada’s capability and capacity to manage pricing throughout the lifecycle of the contract and contribute to sound stewardship of public funds, procurement modernization and modern comptrollership.</li>
 </ul>
-<h2>Background and context</h2>
+<h3>Background and context</h3>
 <p>As a result of an independent study dated December 2015 (<a href="https://www.tpsgc-pwgsc.gc.ca/app-acq/amd-dp/samd-dps/reponse-respond-eng.html" rel="external">Department’s response</a>), several components of Canada’s pricing framework are being adapted to incorporate innovative pricing practices and align pricing with desired procurement performance objectives to achieve best value for Canadians.</p>
 <p>Several consultations held since then have provided insights and best practices on the application of pricing and profit principles to support the delivery of optimal value especially in negotiated contracts. This involves determining a contract price when market prices are not available and/or negotiated pricing is required.</p>
 <p>The audit clauses referred to in this <abbr title="Policy Notification">PN</abbr>, represent an extra measure to simplify and foster further consistency and transparency where there may be a need to mitigate price risks through validation.</p>
-<h2>Requirements and responsibility</h2>
+<h3>Requirements and responsibility</h3>
 <p>The Acquisitions Program (AP) contracting officer leads the development of the procurement process and a key element of this process is to establish, document and validate the contract price. For contracts where the price is based on estimated costs (e.g., negotiated fixed price contracts) or actual costs incurred after contract award (e.g., cost reimbursable contracts), a detailed breakdown of the cost, profit and incentives should be included in the contract Basis of Payment section.</p>
 <p>For all contracts, notwithstanding the pricing approach, a general audit clause must be included in the contract terms and conditions to mitigate financial risks. For contracts where the chosen basis of payment involves reimbursing a contractor for all acceptable contract costs incurred, the contracting officer must include <abbr title="Standard Acquisition Clauses and Conditions Manual">SACC</abbr> Manual clause C1004C in the contract terms and conditions to validate the costs claimed by the contractor and make adjustments to amounts payable as necessary.</p>
 <p>Public Works and Government Services Canada (PWGSC) has dedicated in-house Chartered Professional Accountants (CPAs) for the provision of financial expertise to assist <abbr title="Acquisitions Program">AP</abbr> contracting officers in developing validation strategies and to validate contract price as required or as stipulated in the <a class="gov" href="https://www.gcpedia.gc.ca/gcwiki/images/d/d0/Directive_on_the_Use_of_Cost_and_Price_Analysis_FINAL_EN.pdf" rel="external">Directive on the Use of Cost and Price Analysis Services</a><span> (accessible only on the Government of Canada network)</span> and the <a arel="external" class="gov" href="https://www.gcpedia.gc.ca/gcwiki/images/d/dd/Guideline_on_the_Use_of_Cost_and_Profit_Analysis_FINAL_EN.pdf">Guideline on the Use of Cost and Price Analysis Services</a><span> (accessible only on the Government of Canada network)</span>.</p>
-<h2>Guidance</h2>
+<h3>Guidance</h3>
 <p>The <a href="https://buyandsell.gc.ca/practitioners-guide-for-procurement-pricing">Practitioner’s Guide for Procurement Pricing</a> provides more information on building a common understanding among all stakeholders in regards to pricing components and options. This includes guidance on risk sharing, responsibilities and the encouragement of innovation through the use of pricing. More specifically, Sections 3, 4 and 5 of the new guidance relating to bases of payments, incentives, costing, profit determination and the use of a validation strategy complement Chapters 4 and 10 of the Supply Manual.</p>
 <p>The <a class="gov" href="https://www.gcpedia.gc.ca/gcwiki/images/d/d0/Directive_on_the_Use_of_Cost_and_Price_Analysis_FINAL_EN.pdf" rel="external">Directive on the Use of Cost and Price Analysis Services</a><span> (accessible only on the Government of Canada network)</span> and the <a class="gov" href="https://www.gcpedia.gc.ca/gcwiki/images/d/dd/Guideline_on_the_Use_of_Cost_and_Profit_Analysis_FINAL_EN.pdf" rel="external">Guideline on the Use of Cost and Price Analysis Services</a><span> (accessible only on the Government of Canada network)</span> describe the professional accounting services available to assist contracting officers involved in identifying financial and pricing risks and determining the most suitable pricing approach of a procurement.</p>
-<h2>Revisions to the Supply Manual</h2>
+<h3>Revisions to the Supply Manual</h3>
 <p>The Supply Manual has been updated to reflect this <abbr title="Policy Notification">PN</abbr>. For more details, refer to the Affected Supply Manual sections listed below.</p>
-<h2>Revisions to the Standard Acquisition Clauses and Conditions Manual (SACC)</h2>
+<h3>Revisions to the Standard Acquisition Clauses and Conditions Manual (SACC)</h3>
 <p>The <abbr title="Standard Acquisition Clauses and Conditions Manual">SACC</abbr> Manual has been updated to reflect this <abbr title="Policy Notification">PN</abbr>. For more details, refer to the Affected <abbr title="Standard Acquisition Clauses and Conditions Manual">SACC</abbr> Manual sections listed below.</p>
-<h2>Revisions to the Standard Procurement Templates</h2>
+<h3>Revisions to the Standard Procurement Templates</h3>
 <p>There are no changes to the Standard Procurement Templates.</p>
-<h2>Contact information</h2>
+<h3>Contact information</h3>
 <p>Enquiries related to <abbr title="Policy Notification">PN</abbr>-154 and to price analysis and assurance services can be sent by email to the Price Support Directorate at the following address:
     <a href="mailto:TPSGC.PASoutiendesprix-APPriceSupport.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PASoutiendesprix-APPriceSupport.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions related to the Supply Manual can be sent by email to the following address:
     <a href="mailto:TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions related to the <abbr title="Standard Acquisition Clauses and Conditions Manual">SACC</abbr> Manual can be sent by email to the following address:
     <a href="mailto:TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected Supply Manual sections</h3>
+<h4 class="field-label">Affected Supply Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-9f9009fd3ce79a4e5f291f2596b6863d">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -50,7 +50,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h3>
+<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-5b500ef84efb147b0b0ce2da81ac1ad3">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

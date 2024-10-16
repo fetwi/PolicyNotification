@@ -2,13 +2,13 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 16 avril 1997</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 16 avril 1997</h3>
 <p>1. Le 13 février 1997, le Conseil du Trésor a approuvé la majoration de la valeur des marchés pouvant être adjugés et (ou) modifiés, au-dessus de laquelle Travaux publics et Services gouvernementaux Canada doit demander l'approbation du Conseil du Trésor :</p>
 <ol type="a">
 <li>pour les <strong>marchés de biens, </strong>les seuils des soumissions par voie électronique ont été haussés de 20 à 40 M$ pour le marché initial, et de 10 à 20 M$ pour les modifications;</li>
@@ -18,7 +18,7 @@
 </ol>
 <p>À l'heure actuelle, seule la ministre peut exercer les nouveaux pouvoirs relatifs à la conclusion et à la modification des marchés. Par conséquent, les acquisitions visées par ces nouveaux pouvoirs doivent être traitées aux fins d'approbation par la ministre.</p>
 <p>2. Outre les pouvoirs accrus mentionnés ci-dessus, le Conseil du Trésor (CT) a approuvé l'augmentation des plafonds monétaires des nouveaux marchés ou des modifications de marchés de service pour l'ensemble des ministères et des organismes. Il a également supprimé l'obligation pour les ministères et les organismes d'obtenir son approbation avant de conclure ou de modifier des marchés avec des sociétés d'État. Les modifications sont décrites plus en détail dans les extraits de la Politique des marchés - Avis 1997-2 figurant ci-dessous :</p>
-<h3>« Nouveaux seuils pour les marchés</h3>
+<h4>« Nouveaux seuils pour les marchés</h4>
 <p>3. Le 13 février 1997, le Conseil du Trésor a approuvé l'augmentation des seuils monétaires pour les nouveaux marchés ou les modifications de marché de service conclus par tous les ministères et organismes.</p>
 <p>4. Les changement suivants ont été apportés aux seuils de base :</p>
 <p>Pour les marchés de service :</p>

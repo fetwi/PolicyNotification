@@ -1,21 +1,21 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p>Le 8 mai 2003, le Conseil du Trésor (CT) a approuvé une nouvelle politique intitulée « Politique sur la prise de décisions concernant la limitation de la responsabilité des entrepreneurs dans les marchés de l'État ». Cette nouvelle politique est entrée en vigueur le 1<sup>er</sup> septembre 2003 et elle vient remplacer la Politique provisoire du CT sur l'indemnisation accordée dans les marchés, adoptée le 15 août 1995.</p>
-<h2>Politique</h2>
+<h3>Politique</h3>
 <p>La position par défaut de l'État sur l'indemnisation a été modifiée. La position par défaut, qui prévoit l'indemnisation « complète » de l'État dans de nombreux contrats, a été remplacée, dans la nouvelle politique du CT, par une position qui consiste à rester muet sur la question de l'indemnisation.</p>
-<h2>Date d'entrée en vigueur</h2>
+<h3>Date d'entrée en vigueur</h3>
 <p>La nouvelle politique est entrée en vigueur le 1<sup>er</sup> septembre 2003. Elle s'applique aux demandes de propositions (DDP) lancées le 1<sup>er</sup> septembre 2003 ou après.</p>
 <ol>
 <li><em>Les DDP publiées avant le 1<sup>er</sup> septembre, y compris les DDP affichées dans le SEAOG, seront assujetties à la politique provisoire du CT.</em></li>
 <li><em>Les commandes subséquentes à des offres à commandes qui auront été publiées avant le 1<sup>er</sup> septembre 2003 seront assujetties à la politique provisoire du CT.</em></li>
 <li><em>Les achats entamés pendant la période de transition - de la date d'approbation de la nouvelle politique, le 8 mai 2003, à sa date d'entrée en vigueur, le 1</em><sup>er</sup><em> septembre 2003 - devraient se faire suivant le processus ministériel actuel d'approbation qui est prévu dans la politique provisoire.</em></li>
 </ol>
-<h2>Aperçu</h2>
+<h3>Aperçu</h3>
 <p>La nouvelle politique du CT vise principalement à établir un équilibre entre, d'une part, la protection de l'État contre certains risques et certaines responsabilités dans le cadre des marchés d'approvisionnement et, d'autre part, la conjoncture du marché et les conditions nécessaires pour veiller à la réalisation des programmes et des services.</p>
 <p>La nouvelle politique du CT met l'accent sur les risques; c'est pourquoi son approche quant à la prise de décisions concernant la responsabilité et l'indemnisation dans les marchés est axée sur le risque. Dans le cadre de cette nouvelle politique, les risques sont repérés et gérés de façon stratégique en vue de répondre aux besoins de la population canadienne en matière de programmes et de services.</p>
 <p>La politique porte sur les risques découlant de la passation de marchés, sur la gestion des responsabilités de l'État et sur la décision de ce dernier de limiter les responsabilités de l'entrepreneur. Elle ne porte pas explicitement sur les risques relatifs à la gestion de projets, comme les risques liés aux échéances, au budget et à la portée des travaux.</p>
-<h2>Application</h2>
+<h3>Application</h3>
 <p> Cette politique s'applique à tous les marchés de l'État qui sont assujettis au <em>Règlement sur les marchés de l'État</em> et à la Politique du CT sur les marchés. Elle s'applique notamment :</p>
 <ol>
 <li>aux risques qui relèvent de l'entrepreneur (et aux responsabilités qui en découlent);</li>
@@ -27,7 +27,7 @@
 <li>aux cas où des cartes d'achats sont utilisées, lorsque le seul contrat passé entre l'État et l'entrepreneur est l'acte de vente et lorsque le transfert de responsabilité se fait dans les conditions normales de ce genre de ventes;</li>
 <li>aux bails et aux contrats pour des biens immobiliers en vertu de la <em>Loi sur les immeubles fédéraux</em>.</li>
 </ol>
-<h2>Quatre modèles d'approvisionnement possibles dans le cadre de la politique</h2>
+<h3>Quatre modèles d'approvisionnement possibles dans le cadre de la politique</h3>
 <p>Une des caractéristiques les plus importantes de la nouvelle politique du CT est l'utilisation de quatre catégories modèles pour tous les achats couverts par la politique. Celle-ci reconnaît qu'un simple projet de construction n'entraînera pas le même type ni le même degré de risque qu'un projet de développement d'engins spatiaux. Pour cette raison, tous les marchés d'approvisionnement qui sont couverts sont classés selon quatre modèles. On a élaboré ces quatre modèles axés sur les risques afin d'aider les ministères à envisager rapidement et uniformément la limitation de responsabilité selon quatre groupes administratifs.</p>
 <ul>
 <li>Le <strong>modèle 1</strong> porte sur le type d'approvisionnement le plus commun, et il représente environ 90 % de tous les marchés d'approvisionnement attribués par l'État.
@@ -39,7 +39,7 @@
 <p>À la réunion du 8 mai 2003, on a également approuvé, sans modification, la présentation connexe de TPSGC, dans laquelle ce dernier cherchait à obtenir le pouvoir d'exclure de la responsabilité des entrepreneurs certaines responsabilités civiles vis-à-vis une tierce partie dans les contrats de gestion de l'information/technologie de l'information (GI-TI). <em>(Il est à noter que TPSGC a déjà le pouvoir de limiter la responsabilité de première partie, pouvoir qui est prévu dans la nouvelle politique, c.-à-d. que l'État peut décider de limiter la responsabilité d'un entrepreneur concernant des dommages causés à de l'équipement fourni par le gouvernement dont l'entrepreneur a la responsabilité, la garde ou le contrôle.)</em> Les agents de négociation des contrats doivent déterminer si leurs contrats répo dent aux conditions de ladite présentation qui ont trait à la GI-TI afin que les clauses appropriées puissent être incorporées dans le contrat pour limiter la responsabilité de l'entrepreneur vis-à-vis un tiers.</p>
 </li>
 </ul>
-<h2>Mise en oeuvre</h2>
+<h3>Mise en oeuvre</h3>
 <p>L'agent de négociation des contrats doit consulter le <em>Manuel d'indemnisation</em> qui sera diffusé d'ici la fin de septembre 2003, afin de déterminer le modèle qui s'applique en utilisant l'arbre de décision qui figure dans le Manuel. Si le produit correspond au modèle 1, l'arbre de décision aidera également à déterminer si une catégorie de produits s'applique et, dans l'affirmative, laquelle.</p>
 <p>Dans les situations d'achat où on décide de rester muet sur l'indemnisation, on ne devrait <strong>pas</strong> utiliser les dispositions sur l'indemnisation qui sont comprises dans les conditions générales et dans les conditions générales supplémentaires du guide des <em>Clauses et conditions uniformisées d'achat</em> de TPSGC. Les agents de négociation des contrats devraient plutôt utiliser un <strong>nouveau</strong> groupe de conditions générales (dans la série 9500), qui sera élaboré précisément à cet effet, au plus tard le 30 septembre 2003, et qui contiendra une clause visant précisément les cas dans lesquels on ne dit rien sur l'indemnisation dans les marchés.</p>
 <p>L'indemnisation complète doit s'appliquer dans les situations d'achat où :</p>
@@ -48,7 +48,7 @@
 <li>une catégorie de produits est utilisée lorsqu'il est déjà précisé que l'entrepreneur indemnisera pleinement l'État, c.-à-d. que l'État a décidé de ne pas limiter la responsabilité de l'entrepreneur envers lui.</li>
 </ol>
 <p>La nouvelle politique du CT prévoit également un cadre à utiliser dans les cas où des circonstances exceptionnelles d'approvisionnement permettent d'envisager d'autres options que l'indemnisation « complète » de l'État ou le « silence » dans les documents d'approvisionnement. Si l'une de ces circonstances exceptionnelles s'applique et si l'État assume la responsabilité d'une partie de la responsabilité de l'entrepreneur dans des situations extrêmes (p. ex. des situations d'urgence), le ministère pour lequel se fait l'achat devrait obtenir l'approbation de son agent financier supérieur ou du représentant de celui-ci. Un transfert important a lieu quand la responsabilité limitée de l'entrepreneur qui doit être comprise dans le contrat est inférieure à la responsabilité à laquelle on pourrait raisonnablement s'attendre dans les circonstances et vu les pertes qui pourraient découler de certains risques précis, compte tenu de leur probabilité.</p>
-<h2>Capacité de gestion du risque</h2>
+<h3>Capacité de gestion du risque</h3>
 <ol>
 <li><em>Formation</em>
 <p>La formation sur la limitation de la responsabilité de l'entrepreneur a commencé en novembre 2002, et elle a été donnée, au début, aux gestionnaires des approvisionnements, aux agents d'assurance de la qualité, aux experts en matière de risques et aux agents principaux des achats à l'administration centrale et dans les régions, ainsi qu'à certains gestionnaires principaux de projet des ministères clients. D'autres séances de formation seront données, selon la demande, à des agents de négociation des contrats de TPSGC et à leurs gestionnaires ou leurs clients.</p>
@@ -66,7 +66,7 @@
 <p>L'équipe de soutien sera formée de représentants des SCR, de la Direction de la gestion des risques et de la qualité, Direction générale des opérations, du SCT et de deux ministères clients principaux. Cette équipe doit aider à la mise en oeuvre rapide et efficace de la politique du CT. On fera connaître les coordonnées des représentants à la fin de septembre 2003.</p>
 </li>
 </ol>
-<h2>Renseignements</h2>
+<h3>Renseignements</h3>
 <p>Toute demande de renseignements peut être adressée à Helen Braiter, Services de consultation en gestion des risques, par téléphone au 819-956-4354, ou par courriel : <a href="mailto:helen.braiter@tpsgc-pwgsc.gc.ca" rel="external">helen.braiter@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

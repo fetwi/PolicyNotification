@@ -2,13 +2,13 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 21 décembre 2007</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 21 décembre 2007</h3>
 <ol class="lispace">
 <li>Le Secrétariat du Conseil du Trésor a fourni un avis (avis sur la Politique des marchés 2007-05) relatif à la modification des seuils préétablis pour les accords internationaux sur le commerce.  Les nouveaux seuils en devises canadiennes s'appliquent pour une période de deux ans allant du 1er janvier 2008 au 31 décembre 2009.</li>
 <li>
@@ -16,7 +16,7 @@
 <p><strong>Remarque : À cause de la solidité du dollar canadien, il y a eu une diminution des seuils.</strong></p>
 </li>
 </ol>
-<h3>Accord sur les marchés publics de l'Organisation mondiale du commerce (OMC-AMP)</h3>
+<h4>Accord sur les marchés publics de l'Organisation mondiale du commerce (OMC-AMP)</h4>
 <table border="0" class="basic">
 <tbody><tr>
 <th scope="row">Biens</th>
@@ -34,7 +34,7 @@
 <td>8 300 000 $CAN</td>
 </tr>
 </tbody></table>
-<h3>Accord de libre-échange nord-américain (ALENA)</h3>
+<h4>Accord de libre-échange nord-américain (ALENA)</h4>
 <table border="0" class="basic">
 <tbody><tr>
 <th id="AP-46U3h1">Biens</th>
@@ -78,9 +78,9 @@
 </tr>
 </tbody></table>
 <p>Les seuils applicables à l'Accord sur le commerce intérieur demeurent fixés à 25 000 $ dans le cas des produits et à 100 000 $ dans celui des services et de la construction.</p>
-<h3>Modifications au Guide des approvisionnements</h3>
+<h4>Modifications au Guide des approvisionnements</h4>
 <p>Les changements mentionnés ci-haut feront partis de la prochaine modification du <em>Guide des approvisionnements</em>, qui devrait être publiée en avril 2008. </p>
-<h3>Demande de renseignements</h3>
+<h4>Demande de renseignements</h4>
 <p><strong>S/O</strong></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

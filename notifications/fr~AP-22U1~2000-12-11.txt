@@ -2,13 +2,13 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 11 décembre 2000</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 11 décembre 2000</h3>
 <p>Le Conseil du trésor a conclu que rien n'exige l'inclusion des clauses de garantie relative à l'an 2000 du CCUA dans les contrats et les offres à commandes, sauf si des travaux de réparation résiduels sont envisagés ou en cours concernant des biens ou des services qui nécessitaient une vérification du traitement de date avant, pendant ou après le passage à l'an 2000.</p>
 <p>Voici la liste des clauses du guide des CCUA qui ont été mises en œuvre pour les acquisitions susceptibles d'être touchées par le passage à l'an 2000. Jusqu'à nouvel ordre, ces clauses demeurent en vigueur pour les travaux de réparation résiduels :</p>
 <ul>

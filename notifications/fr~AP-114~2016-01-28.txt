@@ -1,13 +1,13 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Objet</h2>
+<h3>Objet</h3>
 <p>L’<abbr title="Avis relatif aux politiques">AP</abbr>-114 vise à inciter les employés du Programme des approvisionnements (PA) de Travaux publics et Services gouvernementaux Canada (TPSGC) ainsi que toute autre personne fournissant des services d’approvisionnement pour le compte du <abbr title="Programme des approvisionnements">PA</abbr> à recourir à des instruments de paiement électronique, sans papier.</p>
 <p>Les cartes d’achat peuvent être utilisées à la fois comme instrument d’approvisionnement et comme instrument de paiement et peuvent permettre de réaliser des gains d’efficience. Par conséquent, à n’importe quelle étape du processus d’approvisionnement mais de préférence au cours de l’étape de définition des besoins, les agents de négociation des contrats devraient analyser avec le client les possibilités qui existent quant à l’utilisation des instruments de paiement électronique.</p>
 <p>Le présent <abbr title="Avis relatif aux politiques">AP</abbr> doit être lu conjointement avec les politiques du Secrétariat du Conseil du Trésor et de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>, lesquelles établissent et définissent les méthodes, outils et processus d’approvisionnement et de paiement.</p>
-<h2>Renseignements généraux</h2>
+<h3>Renseignements généraux</h3>
 <p>Le gouvernement du Canada s'efforce continuellement d'améliorer l'efficacité de ses opérations. Grâce aux récentes avancées technologiques et aux innovations constantes offertes par le secteur des paiements, il est possible de réaliser d'autres gains d'efficience en ce qui concerne les instruments de paiement utilisés pour acheter des biens et des services.</p>
 <p>Le secteur des paiements actuel offre une vaste gamme d’instruments de paiement, y compris les paiements électroniques (comme le dépôt direct et les cartes d’achat). Ces instruments peuvent offrir de nombreux avantages, comme la réduction des coûts de traitement, la rapidité et la facilité d’utilisation. </p>
-<h2>Résumé des besoins</h2>
+<h3>Résumé des besoins</h3>
 <p>Lorsqu’ils doivent effectuer un paiement à un entrepreneur pour des biens et des services acquis par le gouvernement du Canada, les agents de négociation des contrats sont invités à utiliser les instruments de paiement électronique, sans papier, comme décrits ci-dessous, en remplacement d’un chèque.</p>
 <ol type="1">
 <li>Les instruments de paiement électronique comprennent ce qui suit :
@@ -35,21 +35,21 @@ L’utilisation de la carte d’achat pour acquérir des biens ou des services p
 </ul>
 </li>
 </ol>
-<h2>Résumé des modifications</h2>
+<h3>Résumé des modifications</h3>
 <p>En appui à cet AP, les modifications suivantes sont apportées au <cite>Guide des approvisionnements</cite> : </p>
 <ul>
 <li>L’article 4.70.55 est mis à jour et devient l’article 4.70.55.10; un nouvel article 4.70.55 Instruments de paiement est créé.</li>
 <li>Les nouveaux articles suivants sont ajoutés : 4.70.55.5 Dépôt direct, 4.70.55.15 Échange de données informatisées, 4.70.55.20 Virements télégraphiques et  4.70.55.25 Système de transfert de paiements de grande valeur.</li>
 </ul>
 <p>Les clauses H3027T et H3027C du Guide des clauses et conditions uniformisées d’achat sont également mises à jour afin d’inclure les instruments de paiement électronique qui sont présentés dans cet avis relatif aux politiques.</p>
-<h2>Glossaire</h2>
+<h3>Glossaire</h3>
 <p>Pour obtenir un lexique des termes, consulter le <a href="http://www.gcpedia.gc.ca/wiki/Suite_des_politiques_du_Programme_des_approvisionnements/D%C3%A9finitions" rel="external">Glossaire de la Suite des politiques du Programme des approvisionnements</a>.</p>
-<h2>Ressources</h2>
+<h3>Ressources</h3>
 <p>Pour toute question sur le contenu du présent AP, communiquer avec la Direction de la politique stratégique (DPS) du Secteur de la politique, du risque, de l’intégrité et de la gestion stratégique (SPRIGS) à l’adresse suivante : <a href="mailto:TPSGC.PolPrograpprovisionnements-AcquisitionsProgramPolicy.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PolPrograpprovisionnements-AcquisitionsProgramPolicy.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>
 Les questions concernant les instruments de paiement peuvent être acheminées au receveur général à l’adresse suivante : <a href="mailto:RGEnquire.RequetesRG@tpsgc-pwgsc.gc.ca" rel="external">RGEnquire.RequetesRG@tpsgc-pwgsc.gc.ca</a>.
 </p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Sections du Guide des approvisionnements visées</h3>
+<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-039a03e83eba9be29877b3420e419058">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -67,7 +67,7 @@ Les questions concernant les instruments de paiement peuvent être acheminées a
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h3>
+<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-a520c31c6a4a0bad50122313d8e2048b">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

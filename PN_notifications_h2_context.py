@@ -28,13 +28,13 @@ for filename in os.listdir(directory):
             if filename.startswith('en'):
                 html_to_insert = f'<h2 class="pn-content-title">Content of {file_id}</h2>\n'
             elif filename.startswith('fr'):
-                html_to_insert = f'<h2 class="pn-content-title">Contenu du {file_id}</h2>\n'
+                html_to_insert = f'<h2 class="pn-content-title">Contenu de l\'{file_id}</h2>\n'
             else:
                 html_to_insert = ''
 
             # Insert the HTML after the first line
             if html_to_insert:
-                content.insert(1, html_to_insert)
+                content.insert(2, html_to_insert)
 
             # Write the modified content back to the file
             with open(os.path.join(directory, filename), 'w', encoding='utf-8') as file:

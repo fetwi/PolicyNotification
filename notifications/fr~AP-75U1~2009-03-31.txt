@@ -2,16 +2,16 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE: le 31 mars 2009</h2>
-<h2>Introduction</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE: le 31 mars 2009</h3>
+<h3>Introduction</h3>
 <p>L'objectif de l'avis relatif aux politiques (AP)-75U1 consiste à servir de directives aux agents de négociation des contrats de Travaux publics et Services gouvernementaux Canada (TPSGC) sur la façon de remplir des rapports sur les achats (c.-à-d. le codage) une fois qu'un contrat comportant des autorisations de tâches ou une modification d'un tel contrat a été émis.</p>
-<h2>Politique</h2>
+<h3>Politique</h3>
 <p>Les agents de négociation des contrats continueront de suivre les directives contenues dans l'AP-75.  De plus, à partir du 1er avril 2009, suite à l'émission d'une autorisation de tâches ou d'une modification d'un tel contrat, les agents de négociation devront présenter un rapport sur les achats, comme suit :</p>
 <ol type="a">
 <li>Pour les utilisateurs de l'environnement automatisé de l'acheteur (EAA) : sur la page principale du sommaire d'approvisionnement, appuyer sur « ID du programme » et sélectionner « Contrat qui permet les autorisations des tâches ».</li>
@@ -26,9 +26,9 @@
 <li>les rapports relatifs à la Stratégie d'approvisionnement auprès des entreprises autochtones;</li>
 <li>les accords commerciaux.</li>
 </ol>
-<h2>Révisions au Guide des approvisionnements</h2>
+<h3>Révisions au Guide des approvisionnements</h3>
 <p>Ces changements feront partie de la prochaine version du Guide des approvisionnements.</p>
-<h2>Personne-ressource</h2>
+<h3>Personne-ressource</h3>
 <p>Pour toute demande de renseignements en matière de contrats comportant des autorisations de tâches, communiquer avec Veronica Nazareth, Direction de la politique et du processus d'approvisionnement, par téléphone au 819-956-5024, ou par courriel à : <a href="mailto:veronica.nazareth@tpsgc-pwgsc.gc.ca" rel="external">veronica.nazareth@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Pour toute demande de renseignements généraux au sujet des rapports sur les achats, envoyer un courriel à : <a href="mailto:ncr.ACQBReporting@tpsgc-pwgsc.gc.ca" rel="external">ncr.ACQBReporting@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">

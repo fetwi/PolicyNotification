@@ -2,23 +2,23 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>Date d'entrée en vigueur : le 16 avril 2003</h2>
-<h3>Contexte</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>Date d'entrée en vigueur : le 16 avril 2003</h3>
+<h4>Contexte</h4>
 <p>Dans une lettre en date du 3 mars 2003, entre Travaux publics et Services gouvernementaux Canada (TPSGC) et le ministère de la Défense nationale (MDN), il a été conclu que la gestion et le contrôle de tous les biens de production, y compris l'outillage spécial de production (OSP) et le matériel spécial d'essai (MSE), provenant de contrats de défense, ainsi que le matériel prêté par le MDN, relèveront du Directeur - Surplus, ventes, artefacts et prêts (DSVAP) du MDN. Par conséquent, tous les contrats de prêts du MDN seront traités par le DSVAP du MDN, qui conservera les rapports portant sur tout le matériel prêté. Les contrats de prêts du MDN déjà en vigueur seront modifiés pour tenir compte de ce changement.</p>
 <p>Il est à noter que les Services de gestion des biens de production (SGBP) de TPSGC continueront de gérer les biens de production pour le compte de la Corporation commerciale canadienne. </p>
-<h3>Guide des approvisionnements</h3>
+<h4>Guide des approvisionnements</h4>
 <p>Les modifications suivantes, apportées aux chapitres 6 et 11 du Guide des approvisionnements (voir <a href="#AP-61anna">annexe A</a>), reflètent les changements qui sont apportés au processus de prêt de matériel du MDN aux entrepreneurs.</p>
 <p>La politique révisée entre en vigueur immédiatement et fera partie de la modification apportée à la prochaine version du Guide des approvisionnements, qui doit être publiée en mai 2003.</p>
 <hr/>
-<h3><a id="AP-61anna" name="anna"></a>Annexe A</h3>
-<h4>CHAPITRE 6 - ÉLABORATION DE LA STRATÉGIE D'ACHAT</h4>
-<h4>SECTION 6B : DÉFINITION DE L'ACHAT</h4>
+<h4><a id="AP-61anna" name="anna"></a>Annexe A</h4>
+<h5>CHAPITRE 6 - ÉLABORATION DE LA STRATÉGIE D'ACHAT</h5>
+<h5>SECTION 6B : DÉFINITION DE L'ACHAT</h5>
 <p><strong>Outillage spécial de production, matériel spécial d'essai et matériel du MDN</strong></p>
 <p>6B.187 (JJ/MM/03) Pour exécuter certains contrats, les entrepreneurs ont besoin d'outillage spécial de production (OSP), de matériel spécial d'essai (MSE) et de matériel du MDN pour fabriquer, ou réparer et réviser des approvisionnements de défense ou d'autre équipement. Cela ne s'applique pas aux besoins où l'OSP ou le MSE est le produit final commandé dans le cadre d'un contrat, et n'est pas destiné à être utilisé par un entrepreneur.</p>
 <p><em>L'OSP et le MSE sont normalement acquis au moment de la fabrication initiale ou de l'établissement d'une filière de réparation et de révision ou, occasionnellement, pendant le processus de fabrication ou de réparation et de révision. L'OSP ou le MSE peut servir à la fabrication ou à la réparation et à la révision d'unités ou de pièces additionnelles.</em></p>
@@ -30,7 +30,7 @@
 <p>6B.190 (JJ/MM/03) Lorsqu'ils prévoient d'utiliser un OSP ou du MSE, les agents de négociation des contrats doivent tenir compte du degré de mobilité de l'équipement.</p>
 <p>Les agents de négociation des contrats doivent également juger s'il ne serait pas préférable de conclure un contrat distinct pour un tel outillage. </p>
 <hr/>
-<h4>CHAPITRE 11 - GESTION DES CONTRATS</h4>
+<h5>CHAPITRE 11 - GESTION DES CONTRATS</h5>
 <p><strong>Prêts d'équipement du ministère de la Défense nationale</strong></p>
 <p>11.061 (JJ/MM/03) Lorsqu'un contrat ne prévoit pas de prêt d'équipement du ministère de la Défense nationale (MDN), l'entrepreneur peut quand même en demander un.</p>
 <p>Veuillez acheminer les demandes de prêt au Directeur - Surplus, ventes, artefacts et prêts (DSVAP), au 819-994-8692. (Voir 6B.188)</p>

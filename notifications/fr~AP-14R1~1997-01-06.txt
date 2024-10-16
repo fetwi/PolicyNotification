@@ -2,21 +2,21 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 6 janvier 1997</h2>
-<h2>Annexe B</h2>
-<h3>REMARQUES:</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 6 janvier 1997</h3>
+<h3>Annexe B</h3>
+<h4>REMARQUES:</h4>
 <p>1. Les agents d'approvisionnement devront utiliser le plus récent tableau de l'est ou de l'ouest du Canada approuvé par le directeur de la Direction maritime pour préparer la liste des chantiers navals, où le travail pourrait potentiellement être entrepris, tel que requis dans la section 3 de cette clause. Les agents d'approvisionnement doivent inclure, à partir du tableau, les frais applicables de transfert des navires pour chaque chantier naval figurant sur la liste, en tenant compte de l'emplacement du port d'attache du navire et du travail de radoub avec ou sans équipage. Lorsque le tableau ne mentionne aucun port d'attache spécifique pour le navire ou le nom de chantiers navals où le travail pourrait potentiellement être entrepris, les agents d'approvisionnement doivent communiquer avec le directeur de la Direction maritime, à Place du Portage, Phase III-6C2, au numéro de téléphone 819-956-0664 ou au numéro de télécopieur 819-956-0897, pour obtenir les données nécessaires.</p>
 <p>2. Les agents d'approvisionnement doivent inscrire le nombre de jours civils dans la section 2 b)de cette clause.</p>
-<h4>A0240T FRAIS DE TRANSFERT DU NAVIRE</h4>
+<h5>A0240T FRAIS DE TRANSFERT DU NAVIRE</h5>
 <p>1. Le prix d'évaluation doit inclure les frais de transfert du navire du port d'attache jusqu'aux chantiers navals où le travail sera entrepris, et son retour au port d'attache, conformément à ce qui suit:</p>
 <p>2. a) Le soumissionnaire doit inscrire ci-dessous l'emplacement des chantiers navals où il propose d'entreprendre le travail ainsi que les frais applicables de transfert du navire, à partir de la liste fournie à la section 3.0 de cette clause.</p>
-<h5>À REMPLIR PAR LE SOUMISSIONNAIRE</h5>
+<h6>À REMPLIR PAR LE SOUMISSIONNAIRE</h6>
 <p>Chantiers navals : _____</p>
 <p>Frais applicables de transfert du navire : _____</p>
 <p>b) Si l'emplacement des chantiers navals où le soumissionnaire a l'intention d'exécuter le travail n'apparait pas sur la liste fournie à la section 3.0 de cette clause, le soumissionnaire devra alors en aviser, par écrit, l'autorité contractante dans les____ jours <strong>(l'agent d'approvisionnement doit inscrire le nombre de jours civils dans cet espace et supprimer cet énoncé)</strong> précédents la date de fermeture des soumissions, de l'emplacement proposé pour l'exécution du travail. L'autorité contractante accusera réception, par écrit, dans les____ jours <strong>(l'agent d'approvisionnement doit inscrire le nombre de jours civils dans cet espace et supprimer cet énoncé)</strong> précédents la date de fermeture des soumissions, au soumissionnaire de l'emplacement des chantiers navals et confirmera les frais applicables de transfert des navires.</p>

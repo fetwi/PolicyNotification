@@ -2,13 +2,13 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 10 août 2006</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 10 août 2006</h3>
 <p>La présente est une mise à jour de l'Avis de politique<br/>
 					79 du 10 juillet 2006, qui entre en vigueur le 15 août 2006.<br/>
 					Les modifications au modèle seront affichées sur le<br/>
@@ -16,7 +16,7 @@
 					toutefois le site Web du Guide des CCUA ne sera mis à jour<br/>
 					qu'à la parution de la prochaine version du Guide, prévue<br/>
 					pour décembre 2006.</p>
-<h3>Objectif</h3>
+<h4>Objectif</h4>
 <p>L'avis aux politiques (AP) 79U vise :</p>
 <ol>
 <li>à modifier le modèle de Demande d'offres à commandes<br/>
@@ -25,11 +25,11 @@
 						la clause M7010C et les remarques figurant dans la clause M9105C,<br/>
 						conformément à l'annexe B.</li>
 </ol>
-<h3>Personne-ressource</h3>
+<h4>Personne-ressource</h4>
 <p><strong>S/O</strong></p>
-<h2>ANNEXE A </h2>
-<h3> Modifications au modèle de demande d'offres à commandes<br/>
-					- biens ou services, 2T-RFSO1 </h3>
+<h3>ANNEXE A </h3>
+<h4> Modifications au modèle de demande d'offres à commandes<br/>
+					- biens ou services, 2T-RFSO1 </h4>
 <p><strong>partie 3, section II : Offre financière, clause<br/>
 					intitulée<br/>
 					Paiement par carte de crédit</strong></p>
@@ -74,7 +74,7 @@
 					l'article 2, Clauses et conditions uniformisées :</strong></p>
 <p><strong>Lorsque les conditions générales 9601, 9676<br/>
 					ou 9624 s'appliquent, inclure la clause suivante :</strong></p>
-<h4>2.3 Sanctions internationales</h4>
+<h5>2.3 Sanctions internationales</h5>
 <ol>
 <li>Les personnes au Canada et les Canadiens et les Canadiennes à l'étranger<br/>
 						sont liées par les sanctions économiques imposées<br/>
@@ -98,9 +98,9 @@
 						et les procédures établies pour la force majeure<br/>
 						s'appliqueront alors.</li>
 </ol>
-<h2>ANNEXE B</h2>
-<h3>Modifications aux clauses et conditions uniformisées d'achat<br/>
-					(CCUA)</h3>
+<h3>ANNEXE B</h3>
+<h4>Modifications aux clauses et conditions uniformisées d'achat<br/>
+					(CCUA)</h4>
 <p><strong>Clause M7010C - Offres à commandes - établissement<br/>
 					des rapports est modifié comme suit :</strong></p>
 <p>Texte</p>
@@ -116,7 +116,7 @@
 					comme suit :</strong></p>
 <p><strong>M9105C Work Force Reduction Programs</strong></p>
 <p><strong>M9105C Programmes de réduction des effectifs</strong></p>
-<h4>Remarques :</h4>
+<h5>Remarques :</h5>
 <p>Utiliser la clause suivante dans les offres à commandes<br/>
 					où les clauses <strong><del>A9103T</del> M9103T</strong> ou <strong><del>A9104T</del> M9104T</strong> ainsi<br/>
 					que <strong><del>A9106T</del> M9106T</strong> ont été utilisées.</p>

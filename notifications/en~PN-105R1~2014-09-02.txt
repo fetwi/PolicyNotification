@@ -1,18 +1,18 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Purpose</h2>
+<h3>Purpose</h3>
 <p>The purpose of this Policy Notification 105R1 (PN-105R1) is to notify all Acquisitions Program (AP) employees and any other persons providing procurement services on behalf of <abbr title="Acquisitions Program">AP</abbr> about the new procurement complexity levels, risk assessment, and approval authorities.</p>
 <p><abbr title="Policy Notification">PN</abbr>-105R1 introduces the expansion of the procurement complexity levels from three to five and provides clarification and standardization of delegated authorities across all complexity levels. The <cite>Supply Manual</cite> is being amended to reflect these changes.</p>
 <p>This Policy Notification (<abbr title="Policy Notification">PN</abbr>-105R1) supersedes Policy Notification <abbr title="Policy Notification">PN</abbr>-104 – Implementation of New Processes for Basic and Standard Procurements (dated 2011-10-04) and Policy Notification <abbr title="Policy Notification">PN</abbr>-105 – Chapter 6, Approvals and Authorities – Changes further to the New Processes for Basic and Standard Procurements (dated 2012-04-05).</p>
-<h2>Effective Date</h2>
+<h3>Effective Date</h3>
 <p>These changes take effect on September 2, 2014.</p>
-<h2>Background</h2>
+<h3>Background</h3>
 <p>Public Works and Government Services Canada (PWGSC) continues to streamline the procurement process and improve the process efficiency by building on the changes implemented on October 4, 2011 (Phase 1), which established three (3) levels of procurement based on complexity: Basic, Standard and Complex.</p>
 <p>During Phase 1, procurements were classified by complexity (as determined by the <abbr title="Acquisitions Program">AP</abbr> Manager), and procurements that met the characteristics of a basic or standard procurement were required to undergo a risk assessment prior to seeking approval of the procurement strategy, contract award, or non-administrative contract amendments.</p>
 <p>The approval authority level required for a basic or standard procurement within departmental authority was established through the determination of the complexity level of a requirement and the completion of a risk assessment. For requirements that were deemed complex (which included all requirements not considered basic or standard, including those requiring Treasury Board approval), the current business processes remained unchanged. With the exception of <abbr title="Treasury Board">TB</abbr> submissions, complex requirements were not required to undergo a mandatory risk assessment and the determination of the approval authority was based only on the total value of the procurement.</p>
 <p>This <abbr title="Policy Notification">PN</abbr> introduces Phase 2, which establishes a more robust risk structure by extending the revisions established under <abbr title="Policy Notification">PN</abbr>-104 to encompass all complexity levels.</p>
-<h2>Summary of Revisions</h2>
+<h3>Summary of Revisions</h3>
 <p>The following provides an overview of the changes to the procurement process under Phase 2:</p>
 <ol type="1">
 <li>Complexity Streams and Assessment:
@@ -62,7 +62,7 @@ Phase 1 focused on the majority of the <abbr title="Acquisitions Program">AP</ab
 </ol>
 </li>
 </ol>
-<h2>Individual Delegation Forms</h2>
+<h3>Individual Delegation Forms</h3>
 <p>As approval limits for Complexity Levels 3, 4 and 5 have changed, procurement officers who require delegation of authorities for the Complexity Level 3 must complete a new individual delegation form for their level and position and select appropriate commodities). Procurement officers forward the signed and dated delegation form for signature and date of the respective supervisor.</p>
 <p>The Delegation of Common Service Acquisition Authorities – Schedule 3 (PWGSC-TPSGC 524) form is available on <abbr title="Electronic Forms">ELF</abbr>.</p>
 <p>Supervisor must ensure that:</p>
@@ -71,7 +71,7 @@ Phase 1 focused on the majority of the <abbr title="Acquisitions Program">AP</ab
 <li>the signed original individual delegation form is forwarded to the office of the Director General, <abbr title="Policy, Risk, Intregrity and Strategic Management Sector">PRISMS</abbr>, Attention: Susan Blakeney, Acquisition Policy and Process Directorate, (Regional offices are requested to forward a copy of the signed form); and</li>
 <li>a signed copy is kept on file in the procurement area or central location.</li>
 </ol>
-<h3>Clarification</h3>
+<h4>Clarification</h4>
 <p>Delegation of Authority forms currently in place for procurement officers conducting only Levels 1 and 2 procurements (formerly “Basic” and “Standard”) remain unchanged.</p>
 <p>A new delegation form is not required if the procurement officer procures only under Levels 1 and 2 and has a completed and signed delegation form on file (the “Basic and Standard Procurement” delegation form continues to be valid), and</p>
 <ol type="a">
@@ -80,18 +80,18 @@ Phase 1 focused on the majority of the <abbr title="Acquisitions Program">AP</ab
 <li>the approval limits on the most recent completed and signed delegation form have not changed.</li>
 </ol>
 <p>Please check the current signed delegation form for your position to ensure a new form is not required.</p>
-<h2>Summary of changes</h2>
+<h3>Summary of changes</h3>
 <p><cite>Supply Manual</cite>:
 <br/>In support of this <abbr title="Policy Notification">PN</abbr>, the <cite>Supply Manual</cite> was updated. The modified sections are listed below in "Affected <cite>Supply Manual</cite> Sections".
 
 <br/>The detailed changes are described in the <a href="https://buyandsell.gc.ca/policy-and-guidelines/Supply-Manual/Supply-Manual-Synopsis"><cite>Supply Manual</cite> Synopsis</a> - Version 2014-4 (2014-09-25).</p>
 <p>Standard Acquisition Clauses and Conditions (SACC) Manual:
 <br/>There are no changes to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual.</p>
-<h2>Contact Persons</h2>
+<h3>Contact Persons</h3>
 <p>For more information about the changes to the Procurement Complexity Levels, and risk assessments introduced by the Strategic Policy Directorate, <abbr title="Policy, Risk, Intregrity and Strategic Management Sector">PRISMS</abbr>, please contact: <a href="mailto:Modernizingtogether.modernisonsensemble@tpsgc-pwgsc.gc.ca" rel="external">Modernizingtogether.modernisonsensemble@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>For more information about the content of this Policy Notification, contact Jo-Anne Carriere, Strategic Policy Directorate, 819-956-1372 or by e-mail at <a href="mailto:jo-anne.carriere@tpsgc-pwgsc.gc.ca" rel="external">jo-anne.carriere@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>For more information about the delegation of authorities and delegation forms, contact Susan Blakeney, Acquisition Policy and Process Directorate, 819-956-8235 or by e-mail at <a href="mailto:susan.blakeney@tpsgc-pwgsc.gc.ca" rel="external">susan.blakeney@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected Supply Manual sections</h3>
+<h4 class="field-label">Affected Supply Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-aebc91182cebfef4d0dde2bb1fdc849f">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

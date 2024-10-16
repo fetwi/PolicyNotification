@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>This Policy Notification (PN) announces improvements to the management of the standing offer and supply arrangement methods of supply and provides direction to all procurement personnel on the new approval process.  Over the coming months, a full acquisition policy for these methods of supply will be developed in consultation with the Commodity Team (CT) Leaders, to provide a comprehensive policy framework and guidelines for the creation of new standing offers and supply arrangements.  This PN sets out interim procedures that are to be followed effective immediately until the full policy is developed.</p>
 <p>This PN must be read in conjunction with the provisions of applicable Chapters of the Supply  Manual (SM) and PN-70; in case of conflict between the SM and this PN, the provisions of this PN-72 shall take precedence.</p>
-<h3>Policy</h3>
+<h4>Policy</h4>
 <p>Effective immediately, the creation of new standing offers or supply arrangements, and any extension to the expiry dates of existing standing offers or supply arrangements require the advance approval of the designated Commodity Team (CT)  identified for the good or service (refer to Annex "A" attached).  Should such a CT not exist, a CT Leader will be designated by the Director, Commodity Management, Acquisitions Branch, to provide the approval in accordance with the procedures and guidelines outlined in this PN.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>Under "The Way Forward" initiative, the use of existing standing offers and supply  arrangements for the ten commodity groups as identified in PN-70 became mandatory effective April 1, 2005.  To support this initiative, the Acquisitions Branch must ensure that existing and future standing offers and supply arrangements provide optimal effectiveness and efficiency in support of client programs while ensuring best value which result in tangible savings for departments.  Particular care is required in dealing with standing offers and supply arrangements in the ten identified commodity groups, because as soon as they are put in place their use becomes mandatory across the government.</p>
 <p>Accordingly, a review of all existing standing offers and supply arrangements will be undertaken to identify and eliminate instances of duplication by products or vendors and to rationalize the number of suppliers to strengthen the purchasing power of the government buy while ensuring a selection of quality goods and services to clients.</p>
-<h3>Interim Procedures</h3>
+<h4>Interim Procedures</h4>
 <p>Prior to the creation of any new standing offer or supply arrangement, or the extension of the period of an existing standing offer or supply arrangement, regardless of value, and regardless of whether the extension period was pre-approved, the contracting officer must submit a procurement plan (or Contract Planning and Advance Approval (CPAA) if appropriate) to the contracting officer's Manager for recommendation to the CT.  The CT Leader will decide whether the CT needs to be convened, whether it can be consulted secretarially, or whether the CT Leader can approve the procurement plan on behalf of the CT.   Based upon the CT Leader's judgment, or the input from the CT, the CT Leader shall consider the rationale and conditions of the procurement plan and recommend submission of the procurement plan for approval, or require modifications. Note that existing contract approval authorities remain in place.  The CT leader endorses the procurement plan prior to submission for approval based upon delegated authorities.</p>
 <p>In addition to standard information, the procurement plan must address the following elements:</p>
 <ol type="A">
@@ -35,10 +35,10 @@
 </ol>
 </li>
 </ol>
-<h3>Inquiries</h3>
+<h4>Inquiries</h4>
 <p><strong>N/A</strong></p>
-<h2>Annex A</h2>
-<h3 class="alignCenter">List of Commodity Councils and Teams </h3>
+<h3>Annex A</h3>
+<h4 class="alignCenter">List of Commodity Councils and Teams </h4>
 <table class="basic">
 <tbody><tr>
 <th>Commodity Councils and Teams</th>
@@ -152,14 +152,14 @@
 </tr>
 </tbody></table>
 <p> <a id="PN-72annexb" name="annexb"></a></p>
-<h2>Annex B</h2>
-<h3>Standard Acquisition Clauses and Conditions Manual Clause</h3>
-<h2>M7010C	(XXXX-XX-XX)	Standing Offer / Supply Arrangement Reporting</h2>
-<h3>Usage:</h3>
+<h3>Annex B</h3>
+<h4>Standard Acquisition Clauses and Conditions Manual Clause</h4>
+<h3>M7010C	(XXXX-XX-XX)	Standing Offer / Supply Arrangement Reporting</h3>
+<h4>Usage:</h4>
 <p>Full Text</p>
-<h3>Remarks:</h3>
+<h4>Remarks:</h4>
 <p>Unless otherwise authorized by the responsible Commodity Team, use the following clause in  multi-departmental (master) standing offers and supply arrangements  when more than one department is identified as a user of the standing offer or supply arrangement.  Contracting officers must choose between the terms "Standing Offer" and "Supply Arrangement", and between the terms "Offeror" (for standing offers) and "Supplier" (for supply arrangements), as appropriate.  The contracting officer must attach a list of the data to be reported on by the Contractor as an annex to the Request for Standing Offer (RFSO) and resulting standing offer documents, or the Request for Supply Arrangement (RFSA) and resulting supply arrangement documents.</p>
-<h3>Text:</h3>
+<h4>Text:</h4>
 <p>The Offeror/Supplier must compile and maintain records on its provision of goods, services or both to the federal government under contracts resulting from the Standing Offer / Supply Arrangement. This data must include all purchases ordered or paid for by a Government of Canada Acquisition Card. The data must be aggregated and submitted on a quarterly basis to the Public Works and Government Services Canada (PWGSC) contracting authority responsible for the Standing Offer / Supply Arrangement. The reported data must include the data shown at Annex "___."</p>
 <p>Quarterly periods are defined as follows: </p>
 <p>1st quarter: April 1, to June 30;<br/>

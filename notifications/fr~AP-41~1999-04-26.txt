@@ -2,17 +2,17 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 26 avril 1999</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 26 avril 1999</h3>
 <p>Le nouveau cadre ministériel de délégation des pouvoirs a été mis en œuvre le 17 juillet 1998. Un des principaux objectifs de ce nouveau cadre d'approbation consiste à promouvoir une pré-planification plus globale de l'ensemble des marchés. On s'attend à ce que ces changements permettent d'améliorer la définition et l'approbation préalable des options et des montants provisionnés pour les modifications prévues.</p>
 <p>Néanmoins, le cadre révisé entraînera également un accroissement du nombre de modifications à approuver par le ministre. À cause des incidences produites sur les ressources par cet accroissement du volume des modifications, il a fallu revoir et mettre à jour le PAMC afin de réaliser un meilleur équilibre entre la nécessité de revoir en profondeur le processus d'une part et, d'autre part, le risque admissible.</p>
 <p>Le nouveau PAMC est le fruit de vastes consultations à l'administration centrale et dans les régions. Il est constitué de deux processus courants à appliquer dans les demandes d'approbation, lorsque les délais ne sont pas urgents et que le processus d'approbation juste-à-temps (PAJAT) pour répondre aux demandes urgentes et exceptionnelles oblige à prendre des décisions dans un délai de 48 heures. Nous expliquerons plus en détails le PAJAT dans AP-37 et AP-37U.</p>
-<h3>Champ d'application</h3>
+<h4>Champ d'application</h4>
 <p>À cause de l'accroissement prévu du volume de modifications à faire approuver par le ministre par l'entremise de la Direction générale de la vérification et de l'examen (DGVE), on a mis au point deux processus normalisés afin d'éliminer les goulots d'étranglement possibles et de veiller à prendre des décisions ponctuelles et efficaces. Alors qu'un processus prévoit un examen obligatoire de la DGVE et de l'avocat général principal (AGP), l'autre processus n'exige pas cet examen. On s'attend à ce que ces nouvelles procédures<strong> permettent non seulement de réduire le nombre de modificatifs contractuels à ratifier</strong>, mais aussi de donner le plus de temps possible pour prendre de nouvelles dispositions contractuelles sans porter atteinte aux activités du client ou au projet dans l'éventualité où une demande de modification est refusée.</p>
 <p><strong><em>On ne doit pas faire appel au processus d'approbation de manière à placer le fondé de pouvoir d'approbation dans une situation intenable en ce qui concerne la demande de modification.</em></strong></p>
 <p>La DGVE et l'AGP continueront d'assurer les services complets d'examen pour les Plans d'achat officiels et les contrats soumis à l'approbation du SMA de la DGSA ou d'un fondé de pouvoir à un échelon supérieur.</p>
@@ -39,7 +39,7 @@
 <li>attention des médias;</li>
 <li>autres facteurs de risque ou de vulnérabilité.</li>
 </ul>
-<h3>Processus d'approbation des modificatifs contractuels (PAMC)</h3>
+<h4>Processus d'approbation des modificatifs contractuels (PAMC)</h4>
 <p>Le nouveau processus d'approbation des modificatifs est constitué de trois éléments :</p>
 <ul>
 <li>un processus d'approbation clair et normalisé, prévoyant des délais fixes;</li>
@@ -63,7 +63,7 @@
 <p>Le délai prévu pour le traitement des demandes de modifications qui ne sont pas soumises au processus d'examen de la DGVE et de l'AGC est fixé à deux semaines, sous réserve des conditions exposées ci-dessus en ce qui concerne la souplesse.</p>
 <p>Il faut préciser que pour les soumissions non soumis à l'examen de la DGVE et de l'AGC, ce processus entraînera probablement un examen moins indépendant de chaque cas. Les employés des secteurs et des régions pourront, s'ils le souhaitent, compenser cet effet en mettant davantage l'accent sur les processus d'examen internes. Ils pourront notamment instituer, à titre obligatoire, une analyse des coûts et (ou) des examens juridiques sectoriels pour toutes les demandes de modifications.</p>
 <p>Toutes les demandes de modifications examinées par la DGVE sont transmises à l'AGC pour examen juridique final. Dans le cas des modifications à signer par l'AGC, il est impératif qu'elles soient d'abord examinées et signées par le représentant juridique compétent du Secteur.</p>
-<h3>Documentation</h3>
+<h4>Documentation</h4>
 <p>Le PAMC s'applique à<strong>toutes</strong>les demandes de modifications à approuver aux échelons supérieurs à celui du directeur général.</p>
 <p>Les demandes de modificatif contractuel à faire approuver par le CT doivent toujours être préparées sous forme bilingue, au moyen du formulaire DSS-MAS 1151.</p>
 <p>On peut se servir du Formulaire d'approbation des modifications (FAM) pour faire approuver les modifications par le directeur général et par les échelons inférieurs, à la discrétion de chaque secteur. Pour les approbations à délivrer à un échelon supérieur à celui du directeur général, on doit réunir toutes les signatures demandées dans les deux pages prévues à cette fin.</p>

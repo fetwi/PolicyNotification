@@ -1,10 +1,10 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Purpose</h2>
+<h3>Purpose</h3>
 The purpose of Policy Notification 106 (PN-106) is to notify all Acquisitions Branch and Regional employees of changes to the <cite>Supply Manual</cite> and the Standard Procurement Templates concerning all references to security requirements in contracting.
 
-<h2>Background</h2>
+<h3>Background</h3>
 In response to the <a href="http://www.oag-bvg.gc.ca/internet/English/parl_oag_200710_01_e_23825.html" rel="external">Chapter 1—Safeguarding Government Information and Assets in Contracting</a> of the <cite>2007 October Report of the Auditor General of Canada</cite>, a review of active contracts issued by Public Works and Government Services Canada (PWGSC) was conducted. 
 
 In 2009, a “fact-finding exercise” was conducted regarding a security file review of standing offers and supply arrangements and usage by client departments.  Although no actual breach in the security requirements were found, this review highlighted the need for clarifications of the roles and responsibilities of all involved in the procurement process. 
@@ -15,9 +15,9 @@ Furthermore, a new <a class="gov-auth-link" href="http://publiservice.tpsgc-pwgs
 
 A full review of the <cite>Supply Manual</cite> was performed and many changes in the procurement process and the information needed were required. These changes are mostly minor but are important to consider. They are effective immediately. 
 
-<h2>Revisions to the <cite>Supply Manual</cite></h2>
+<h3>Revisions to the <cite>Supply Manual</cite></h3>
 <p>Summary of changes:</p>
-<h3>Chapter 1:</h3>
+<h4>Chapter 1:</h4>
 <ul>
 <li>Industrial Security Program is now under a cost recovery regime.</li>
 <li>New process for Security Requirements when purchasing on behalf of the Royal Canadian Mounted Police (RCMP) and the Canada Border Services Agency (CBSA).</li>
@@ -25,24 +25,24 @@ A full review of the <cite>Supply Manual</cite> was performed and many changes i
 <li>Clarification on the responsibility for risk assessments and decision making based on results of security screening.</li>
 <li>Introduction of the <abbr title="Memorandum of Understanding">MOU</abbr>s signed with the Canadian Industrial Security Directorate (CISD), <abbr title="Royal Canadian Mounted Police">RCMP</abbr> and <abbr title="Canada Border Services Agency">CBSA</abbr>.</li>
 </ul>
-<h3>Chapter 2:</h3>
+<h4>Chapter 2:</h4>
 <p>Changes are made to include the new process of client departments having to request security clauses directly from <abbr title="Canadian Industrial Security Directorate">CISD</abbr>.</p>
-<h3>Chapter 3:</h3>
+<h4>Chapter 3:</h4>
 <p>Text is added to remind procurement officers of the importance of clearly indicating in the standing offers documents how the security requirements will be managed and clearly indicating that it is the client departments' responsibility to confirm with <abbr title="Canadian Industrial Security Directorate">CISD</abbr> the security status of the firm/resources to whom they wish to issue a call-up. Details are also given on security clearances needed for <abbr title="Information Technology">IT</abbr>, Production and/or <abbr title="Communications Security">COMSEC</abbr> and the PWGSC-TPSGC 186 Request for Private Sector Organization Screening (PSOS) Form is introduced.</p>
-<h3>Chapter 4:</h3>
+<h4>Chapter 4:</h4>
 <p>Information on the Security Requirements Check List (SRCL) process and the requirement to identify the location of the work to be performed are provided. Directives on the responsibility of the client department and the firm/resources security clearances are reiterated.</p>
-<h3>Chapter 5:</h3>
+<h4>Chapter 5:</h4>
 <p>Minor changes in Verifying Compliance with Security Requirements.</p>
-<h3>Chapter 7:</h3>
+<h4>Chapter 7:</h4>
 <p>Minor changes in Industrial Security Requirements.</p>
-<h3>Chapter 8:</h3>
+<h4>Chapter 8:</h4>
 <p>Information and process for the application of the Compliance and Enforcement with Industrial Security Requirements are introduced.</p>
-<h2>Revisions to the Standard Procurement Templates</h2>
+<h3>Revisions to the Standard Procurement Templates</h3>
 <p>All five standard procurement templates have been revised to reflect the changes to security requirements that are effective immediately.  They will be published on GCpedia in February 2013.  In the interim, <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Contracting Officers can use the revised templates attached to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Communiqué promulgating Policy Notification (PN) 106.</p>
 <p>Questions related to the changes to the standard procurement templates can be forwarded to the Procurement Process Tools Division by e-mail at: <a href="mailto:outilsapprov.proctools@tpsgc-pwgsc.gc.ca" rel="external">outilsapprov.proctools@tpsgc-pwgsc.gc.ca</a>.</p>
-<h2>Contact Information</h2>
+<h3>Contact Information</h3>
 <p>For more information about the content of this Policy Notification, please contact the Acquisitions Policy and Process Directorate by e-mail at <a href="mailto:DPPApublications.APPDpublications@tpsgc-pwgsc.gc.ca" rel="external">DPPApublications.APPDpublications@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected Supply Manual sections</h3>
+<h4 class="field-label">Affected Supply Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-05b2c4af1d03799c5b4f5fa2116ccb65">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

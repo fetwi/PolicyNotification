@@ -1,13 +1,13 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Purpose</h2>
+<h3>Purpose</h3>
 <p>The purpose of Policy Notification 72R2 (PN-72R2) is to notify Acquisitions Program (AP) contracting officers of changes to the processes involved in the creation, renewal and extension of Standing Offers (SOs) and Supply Arrangements (SAs), and the related roles and responsibilities of all associated stakeholders regarding posting information to the Standing Offer Index (SOI). The revisions to this <abbr title="Policy Notification">PN</abbr> will strengthen the Department’s management control framework for these procurement instruments.</p>
 <p>For the purposes of this document, <abbr title="Standing Offer">SO</abbr>s include National Master Standing Offer (NMSO), National Individual Standing Offer (NISO), Regional Master Standing Offer (RMSO), Regional Individual Standing Offer (RISO) and Departmental Individual Standing Offer (DISO).</p>
 <p>This <abbr title="Policy Notification">PN</abbr> must be read in conjunction with <a href="https://buyandsell.gc.ca/policy-and-guidelines/policy-notifications/PN-92">Commodity Management Policy Notification PN-92</a>, which defines how National Goods and Services Procurement Strategies (NGSPS) will be developed. The latter  takes precedence over PN-72R2 should such a strategy exist for a category for which a <abbr title="Standing Offer">SO</abbr> and/or <abbr title="Supply Arrangement">SA</abbr> is being considered.</p>
-<h2>Background</h2>
+<h3>Background</h3>
 <p>In July 2013, the Office of Audit and Evaluation (OAE) released a report (Audit of Standing Offers and Supply Arrangements: Creations, Renewals, and Extensions, 2011-712) on its examination of the Department’s management control framework for the creation, renewal, and extension of <abbr title="Standing Offer">SO</abbr>s and <abbr title="Supply Arrangement">SA</abbr>s. This report includes recommendations to strengthen this framework, mainly with respect to governance, process and controls. The Acquisitions Program is implementing a Management Action Plan that addresses these recommendations, an example of which is this <abbr title="Policy Notification">PN</abbr>.</p>
-<h2>Summary of Revisions to the Supply Manual</h2>
+<h3>Summary of Revisions to the Supply Manual</h3>
 <p>This section identifies the mandatory steps for the creation, renewal or extension of <abbr title="Standing Offer">SO</abbr>s and <abbr title="Supply Arrangement">SA</abbr>s, posting information to the <abbr title="Standing Offer Index">SOI</abbr>, using standard Departmental procurement templates, as well as associated <abbr title="Standing Offer">SO</abbr> and <abbr title="Supply Arrangement">SA</abbr> reporting requirements.</p>
 <p>The Office of Primary Interest (OPI) for specific goods or services is referred to as the Category Management Team and each team has a Category Reviewer responsible for endorsing the creation, extension or renewal of all <abbr title="Standing Offer">SO</abbr>s and <abbr title="Supply Arrangement">SA</abbr>s.</p>
 <p>Should a required product or service not appear under a specific category, the contracting officer must seek endorsement of the <abbr title="Standing Offer">SO</abbr> or <abbr title="Supply Arrangement">SA</abbr> from the:</p>
@@ -54,11 +54,11 @@ Requests to post information on the <abbr title="Standing Offer Index">SOI</abbr
 <br/>To ensure effective management and monitoring of <abbr title="Standing Offer">SO</abbr>s/<abbr title="Supply Arrangement">SA</abbr>s, contracting officers must give advanced consideration to the associated reporting requirements and how best to meet them. Data sources for <abbr title="Standing Offer">SO</abbr>s/<abbr title="Supply Arrangement">SA</abbr>s include, but are not limited to the following: <abbr title="Standing Offer Index">SOI</abbr>, client departments, in-house tracking systems, Category Management Teams, Business Analytics Services Directorate (BASD) at <a href="mailto:NCR.ACQBReporting@tpsgc-pwgsc.gc.ca" rel="external">NCR.ACQBReporting@tpsgc-pwgsc.gc.ca</a>, and offerors or suppliers.
 </li>
 </ol>
-<h2>Summary of Revisions to the Standard Acquisition Clauses and Conditions (SACC)</h2>
+<h3>Summary of Revisions to the Standard Acquisition Clauses and Conditions (SACC)</h3>
 <p>There are no changes to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr>.</p>
-<h2>Contact Information</h2>
+<h3>Contact Information</h3>
 <p>Acquisitions Program Transformation (APT): <a href="mailto:DCBS-CCD@tpsgc-pwgsc.gc.ca" rel="external">DCBS-CCD@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected Supply Manual sections</h3>
+<h4 class="field-label">Affected Supply Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-e500f2281757a04019c680078c24e597">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

@@ -1,17 +1,17 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p>The purpose of Policy Notification (PN) 95 is to announce a change to the Formal Procurement Plan process. Most Formal Procurement Plans will now be approved at the director general/regional director general (DG/RDG) level instead of at the level of the Assistant Deputy Minister (ADM), Acquisitions Branch. This change simplifies the approval process and supports an effective and efficient procurement process.</p>
 <p>The <abbr title="Assistant Deputy Minister">ADM</abbr> will continue to approve procurement plans for non-competitive procurements (including non-competitive procurements where an advance contract award notice is used). The <abbr title="Assistant Deputy Minister">ADM</abbr> is to be notified of sensitive procurements once they are approved by the <abbr title="Director General">DG</abbr>/<abbr title="Regional Director General">RDG</abbr> by way of a copy of the signed procurement plan.</p>
 <p>To assist in the preparation of a procurement plan and in order to standardize the procurement plan approach, a proposed template is attached. The <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/ap95-pn95-frm-eng.html" rel="external">template</a> captures the required elements of a procurement plan and can be used in conjunction with Supply Manual Annex 6.1 Procurement Plan Instructions.</p>
-<h2>Background</h2>
+<h3>Background</h3>
 <p>The Formal Procurement Plan is required for the approval of the procurement strategy. Currently, for all procurements where the value is estimated to exceed the <abbr title="Director General">DG</abbr>/<abbr title="Regional Director General">RDG</abbr> contract approval limits, the procurement plan is prepared for the signature of the <abbr title="Assistant Deputy Minister">ADM</abbr> who has full authority to approve procurement plans.</p>
 <p>The process for procurements will now change to allow the <abbr title="Director General">DG</abbr>/<abbr title="Regional Director General">RDG</abbr> to approve most procurement plans for procurements exceeding their contract approval limits with the exception of non-competitive procurements (including non-competitive procurements where an advance contract award notice is used). The change of approval from the <abbr title="Assistant Deputy Minister">ADM</abbr> to the <abbr title="Director General">DG</abbr>/<abbr title="Regional Director General">RDG</abbr> will not affect the current processes for approvals at the <abbr title="Director General">DG</abbr>/<abbr title="Regional Director General">RDG</abbr> level and below.</p>
 <p>There is no change to the Contract Request process for procurements. Contract Requests to enter into a contract will continue to be prepared for the <abbr title="Assistant Deputy Minister">ADM</abbr> for requirements requiring <abbr title="Assistant Deputy Minister">ADM</abbr> approval authority.</p>
-<h2>Effective Date</h2>
+<h3>Effective Date</h3>
 <p>This <abbr title="Policy Notification ">PN</abbr> is effective immediately.</p>
-<h2>Revisions to the current policy</h2>
+<h3>Revisions to the current policy</h3>
 <p>The following is a synopsis of the revisions to the Supply Manual flowing from the change to the formal procurement plan process.
 <br/>
  
@@ -30,15 +30,15 @@ The Formal Procurement Plan format will continue to be used for procurements exc
 <p>The process for Contract Requests does not change. For requirements at the <abbr title="Assistant Deputy Minister">ADM</abbr> contract entry approval limit, a Contract Request for authority to enter into a contract must be prepared for signature of the <abbr title="Assistant Deputy Minister">ADM</abbr>.</p>
 <p>The Contract Planning and Advance Approval (CPAA) will continue to be used for requirements up to and including <abbr title="Director General">DG</abbr>/<abbr title="Regional Director General">RDG</abbr> limits, unless a procurement plan applies to the procurement.</p>
 <p><a href="#PN-95annexa">Annex A</a>:contains the changes to the Supply Manual (SM). The current <abbr title="Supply Manual">SM</abbr> sections 3.1.1, 6.5.1.5, 6.20 and Annex 6.1 have been revised to reflect the new Formal Procurement Plan approval process.</p>
-<h2>Contact Person</h2>
+<h3>Contact Person</h3>
 <p>For more information, contact Susan Blakeney, Acquisition Policy and Process Directorate, at 819-956-8235, or by e-mail to: <a href="mailto:susan.blakeney@tpsgc-pwgsc.gc.ca" rel="external">susan.blakeney@tpsgc-pwgsc.gc.ca</a>.</p>
-<h2 id="PN-95annexa">Annex A – Revisions to the Supply Manual</h2>
-<h3> 3.1.1 Procurement Plan</h3>
+<h3 id="PN-95annexa">Annex A – Revisions to the Supply Manual</h3>
+<h4> 3.1.1 Procurement Plan</h4>
 <p>(<time>2012-01-27</time>)</p>
 <ol start="3" type="a">
 <li value="3">The procurement plan approval authority must be given the opportunity to approve or reject the proposed procurement plan as early as possible in the process, to avoid the situation where a contracting officer has done significant work following a strategy which may not be approved.</li>
 </ol>
-<h4>6.5.1.5  Formal Procurement Plan</h4>
+<h5>6.5.1.5  Formal Procurement Plan</h5>
 <p>(<time>2012-01-27</time>)</p>
 <ol class="double-space" type="a">
 <li>The Formal Procurement Plan is required for the approval of the procurement strategy and is normally prepared for:
@@ -66,12 +66,12 @@ The Formal Procurement Plan format will continue to be used for procurements exc
 <li>A Formal Procurement Plan is not required for the supply of edible agricultural and fishery products purchased for foreign aid programs, and Canadian Commercial Corporation contracts.</li>
 <li>If there are significant changes to the original Procurement Plan, then a procurement plan must be resubmitted.</li>
 </ol>
-<h4>6.10.1  Contract Quality Control Review</h4>
+<h5>6.10.1  Contract Quality Control Review</h5>
 <p>(<time>2012-01-27</time>)</p>
 <ol start="2" type="a">
 <li value="2">In the regions, the Regional Quality Assurance (RQA) reviews proposed approval documents for regional director approval level and up, and is responsible for reviewing the accuracy and adequacy of the approval documents.</li>
 </ol>
-<h4>6.20  Contract Approval and Signing Authorities</h4>
+<h5>6.20  Contract Approval and Signing Authorities</h5>
 <p>(<time>2012-01-27</time>)</p>
 <ol class="double-space" start="6" type="a">
 <li>When using a formal procurement plan, the positions of director general/regional director general and above have full approval authority to use a standing offer method of supply or a supply arrangement with the exception of non-competitive (<strong>including non-competitive procurements where an advance contract award notice is used</strong>) procurements exceeding the director general/regional director general limits where the Assistant Deputy Minister, Acquisitions Branch, has full approval authority, in accordance with <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-4">Annex 6.4.3: Exceptional Contracting Limits</a>, column 56. For more information on standing offers, see <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-3#_3-40">3.40  Standing Offers</a> and <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-4#_4-10">4.10.20  Request for Standing Offers</a>; for more information on supply arrangements, see <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-3#_3-45">3.45  Supply Arrangements</a> and <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-4#_4-10">4.10.25  Request for Supply Arrangements</a>. The inclusion of a limitation of expenditure in standing offers is optional (see <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-4#_4-10">4.10.20.1  Standing Offer Procedures</a>.) Approval and signing authorities for standing offers which do not contain a limitation of expenditure will be as set out in <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-4">Annex 6.4.3: Exceptional Contracting Limits</a> using the total estimated procurement value for the entire standing offer period to determine the appropriate approval and signing authority for the standing offer.
@@ -82,42 +82,42 @@ The Formal Procurement Plan format will continue to be used for procurements exc
 <li>For the purposes of contract approval authorities, an advance contract award notice is classified under the "electronic bidding" category. The electronic bidding approval levels apply whenever an advance contract award notice has been posted and no valid Statement of Capabilities was submitted. See <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-4">Annex 6.4.2: Basic Contracting Limits</a>.
     </li>
 </ol>
-<h4>Annex 6.1: Procurement Plan Instructions</h4>
+<h5>Annex 6.1: Procurement Plan Instructions</h5>
 <p>(<time>2012-01-27</time>)</p>
 <p>The Procurement Plan must be prepared as a memorandum and must include the elements identified below.</p>
 <p>Examples and forms <em>(accessible to <abbr title="Public Works and Government Services Canada">PWGSC</abbr> employees only)</em> can be found on the Acquisitions Branch Web site.</p>
-<h4>Formal Procurement Plan</h4>
-<h5>Description</h5>
+<h5>Formal Procurement Plan</h5>
+<h6>Description</h6>
 <p>Give a brief description of the requirement, including any options and set-aside amounts. Indicate the period of the proposed contract and options, where applicable.</p>
 <p>(Insert relevant information for Assistant Deputy Minister (ADM) if procurement exceeds contract approval limit of director general/regional director general (DG/RDG) and is a non-competitive procurement (including non-competitive procurements where an advance contract award notice is used).</p>
 <p>The <abbr title="Assistant Deputy Minister">ADM</abbr> is to be notified of sensitive procurements after they are approved by the <abbr title="Director General">DG</abbr>/<abbr title="Regional Director General">RDG</abbr> by way of a copy of the signed procurement plan).</p>
-<h5>Background</h5>
+<h6>Background</h6>
 <p>Provide background information and overall context. Address any audit recommendations, Canadian International Trade Tribunal (CITT) determinations, Treasury Board decisions, etc. specific to the requirement.</p>
-<h5>Estimated Cost and Name of Client</h5>
+<h6>Estimated Cost and Name of Client</h6>
 <p>State the estimated cost, the Goods and Services Tax or Harmonized Sales Tax included, for the requirement. Include any options, set-aside amounts, etc., and state which client department it is chargeable to.</p>
-<h5>Anticipated Contract (or Standing Offer or Supply Arrangement) Approval Authority Required</h5>
+<h6>Anticipated Contract (or Standing Offer or Supply Arrangement) Approval Authority Required</h6>
 <p>Indicate the anticipated contract approval authority. Explain why this would be the approval authority, if not evident.</p>
-<h5>Sourcing</h5>
+<h6>Sourcing</h6>
 <p>Identify applicable trade agreements (North American Free Trade Agreement, World Trade Organization Agreement on Government Procurement, Agreement on Internal Trade, and Comprehensive Land Claims Agreements) and any significant policies governing sourcing decisions (Set-aside Program for Aboriginal Business, Canadian Content, Shipbuilding, Repair, Refit and Modernization, Policy on Green Procurement, etc.)</p>
 <p>Explain the sourcing strategy, i.e. <abbr title="Government Electronic Tendering Service">GETS</abbr>, other public advertising, source lists (one time, ongoing).</p>
 <p>Substantiate any decision to use sole source.</p>
 <p>For procurement plans for which Treasury Board (<abbr title="Treasury Board">TB</abbr>) submissions will be required, a substantiation as detailed in <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-5" title="For more information, see 6.5.15(b)(ii).">6.5.15(b)(ii)</a> must be included.</p>
-<h5>Policy Issues</h5>
+<h6>Policy Issues</h6>
 <p>Attach relevant Procurement Review Committee document. Identify any other relevant socio-economic or environmental considerations. For more information on the Industrial and Regional Benefits Program, see <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-3#_3-70" title="For more information, see 3.70 in Chapter 3.">3.70</a>.</p>
 <p>Outline any special or unusual aspects of the procurement, for example, a deviation from policy.</p>
 <p>Recommend a course of action to resolve or handle any problems involving potential major risks or deviations from sourcing policy or other <abbr title="Public Works and Government Services Canada">PWGSC</abbr> policy. Where there are major risks inherent in the proposed approach, they must be examined in consultation with <abbr title="Public Works and Government Services Canada">PWGSC</abbr> financial authorities and Legal Services.</p>
-<h5>Evaluation and Contractor Selection Methodology</h5>
+<h6>Evaluation and Contractor Selection Methodology</h6>
 <p>Identify the evaluation criteria and the selection method to be used with any bid solicitation, including pricing basis, point rating or mandatory/desirable criteria for the technical evaluation.</p>
-<h5>Anticipated Basis of Payment</h5>
+<h6>Anticipated Basis of Payment</h6>
 <p>Provide an indication of the anticipated basis of payment to be used in the contract, (e.g., firm price, fixed time rates, ceiling price, limitation of expenditure)</p>
 <p>Use this section to substantiate the use of advance payments, and to indicate when financial security (e.g. surety bond, irrevocable standby letter of credit) will be required from the supplier/contractor. Address contract audit provisions.</p>
-<h5>Milestones</h5>
+<h6>Milestones</h6>
 <p>Give target dates for important milestones (for example, bid solicitation, contract award, delivery schedule) in the form of "early" May or "mid" August or "late" October, rather than specific dates.</p>
-<h5>Additional Information</h5>
+<h6>Additional Information</h6>
 <p>Include any information that should be brought to the approval authority's attention, e.g., limitation of contractor's liability, fairness monitor, industrial security requirements, intellectual property, business line consultations, green procurement.</p>
-<h5>Contracting Officer</h5>
+<h6>Contracting Officer</h6>
 <p>State the name, sector/region, division and telephone number of the authority responsible for the project.</p>
-<h5>Comments</h5>
+<h6>Comments</h6>
 <p>Leave two or three lines for comments by the approval authority.</p>
 <div>
 <div>
@@ -167,7 +167,7 @@ The Formal Procurement Plan format will continue to be used for procurements exc
 <div>
      
 </div>
-<h4>Annex 6.4.3: Exceptional Contracting Limits</h4>
+<h5>Annex 6.4.3: Exceptional Contracting Limits</h5>
 <p>(<time>2012-01-27</time>)</p>
 <div>
 <p>This table is entitled "Table 3 – Contract Approval and Signing Authority" and is used to determine the required contract and amendment approval and signing authorities for standing offers and supply arrangements, and Energy Management contracts which do not contain a limitation of expenditure. The table is divided into five columns as follows: Column 1 is "levels" - it contains levels ranging from 1, the highest level (Assistant Deputy Minister) to 4 (Procurement Assistant). Column 2 is "Position" - it covers positions from Minister of PWGSC to Procurement Assistant. Column 3 is called "Standing Offers and Supply Arrangement" – it contains the authority dollar limits to use a Standing Offer or Supply Arrangement for positions – ranging from full for Minister to Max $1Million for Procurement Assistant. Column 4 is "Energy Management Contracts" – This column is sub-divided in two, which lists the Approval Authority for contract entry and approval authority for Aggregate of Amendments from the Minister of PWGSC to Manager position. uot;full" for all positions identified in Column 2.</p>
@@ -312,21 +312,21 @@ The Formal Procurement Plan format will continue to be used for procurements exc
 </tbody>
 </table>
 </div>
-<h4>Annex 6.4.4: Notes to Exceptional Contracting Limits</h4>
+<h5>Annex 6.4.4: Notes to Exceptional Contracting Limits</h5>
 <p>(<time>2012-01-27</time>)</p>
-<h5>Column 55 Procurement of bulk fuels</h5>
+<h6>Column 55 Procurement of bulk fuels</h6>
 <p>Approval authority to enter into or amend a contract for the procurement of bulk fuels, if the total amount payable under the contract, including any amendments, or call-up against a standing offer, does not exceed  $10,000,000:</p>
 <p>Note 1: in accordance with the applicable table of <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-4">Annex 6.4.2: Basic Contracting Limits</a>, up to the maximum indicated;</p>
 <p>Note 2: if the planned limit on the total expenditure exceeds the limits in the applicable table of <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-4">Annex 6.4.2: Basic Contracting Limits</a>, up to the maximum indicated. When using a formal procurement plan, the positions of director general/regional director general and above have full approval authority to use a standing offer method of supply or a supply arrangement with the exception of non-competitive (including non-competitive procurements where an advance contract award notice is used) procurements exceeding the director general/regional director general limits where the Assistant Deputy Minister, Acquisitions Branch, has full approval authority.</p>
 <p>Authority Reference:</p>
 <p><abbr title="Treasury Board">TB</abbr> Contracting Policy, Appendix C - Contracts Directive, Part II, Departmental Index to Exceptional Contracting Limits, Section 32.</p>
-<h5>Column 56 Standing Offers and Supply Arrangements</h5>
+<h6>Column 56 Standing Offers and Supply Arrangements</h6>
 <p>Approval authority to use a standing offer method of supply or a supply arrangement when the resulting individual call-ups or contracts will not exceed the limits prescribed by <abbr title="Treasury Board">TB</abbr>:</p>
 <p>Note 1: in accordance with the applicable table of <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-4">Annex 6.4.2: Basic Contracting Limits</a> up to the maximum indicated;</p>
 <p>Note 2: if the total estimated expenditure exceeds the limits in the applicable table of <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6-annexes#_6-4">Annex 6.4.2: Basic Contracting Limits</a>. When using a formal procurement plan, the positions of director general/regional director general and above have full approval authority to use a standing offer method of supply or a supply arrangement with the exception of non-competitive (including non-competitive procurements where an advance contract award notice is used) procurements exceeding the director general/regional director general limits where the Assistant Deputy Minister, Acquisitions Branch, has full approval authority.</p>
 <p><strong>NOTE:</strong> See Column 55 for Procurement of Bulk Fuels.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected Supply Manual sections</h3>
+<h4 class="field-label">Affected Supply Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-1313342a85a352fdb9f6990ef2fa0692">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

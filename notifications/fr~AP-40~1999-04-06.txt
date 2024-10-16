@@ -2,13 +2,13 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 6 avril 1999</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 6 avril 1999</h3>
 <p>À la suite d'un problème qui s'est produit récemment dans la Région du Pacifique, la Division de la sécurité ministérielle (DSM) et la Division de la sécurité industrielle (DSI) ont mis au point des procédures et des clauses provisoires à appliquer par les agents des achats dans la passation des marchés portant sur la destruction des renseignements confidentiels.</p>
 <p>Les Services juridiques ont examiné ces clauses, qui ont été reproduites dans un document d'information transmis conjointement par la DSM et la DSI par la poste, en février 1999, à l'intention des directeurs régionaux des approvisionnements, de la Gestion du matériel à l'administration centrale, des gestionnaires régionaux de la sécurité et des agents régionaux de la sécurité industrielle sur le terrain.</p>
 <p>Le présent document comprend quatre sections :</p>
@@ -17,7 +17,7 @@
 <p><strong><a href="#AP-40nxb">Annexe B</a></strong> : Demande d'élimination des documents non enregistrés</p>
 <p><strong><a href="#AP-40nxc">Annexe C</a></strong> : Liste de vérification des exigences relatives à la sécurité (LVERS)</p>
 <p>Le présent avis de politique a été préparé à titre provisoire. Les changements à apporter, pour donner suite à cet avis, au Guide des approvisionnements et au Guide de CCUA font partie des prochaines modifications qui seront diffusées pour ces deux guides en décembre 1999.</p>
-<h3>Destruction des renseignements de nature délicate</h3>
+<h4>Destruction des renseignements de nature délicate</h4>
 <p><strong>NORME TECHNIQUE SUR LA SÉCURITÉ</strong></p>
 <p><strong>POLITIQUES DU GUIDE DES APPROVISIONNEMENTS</strong></p>
 <p><strong>A Introduction</strong></p>
@@ -53,7 +53,7 @@
 <li>On peut vérifier les attestations de sécurité du personnel de l'entrepreneur en s'adressant à la DSICI.</li>
 <li>Les renseignements doivent être détruits sur place. Les documents jetés aux rebuts ne doivent jamais être vendus avant d'être détruits.</li>
 </ol>
-<h3>PROCÉDURES</h3>
+<h4>PROCÉDURES</h4>
 <p><strong>Destruction au moyen d'équipement mobile</strong></p>
 <p>Le gestionnaire régional de la sécurité (ou, pour le secteur de la capitale nationale, le représentant local de la sécurité) doit être informé lorsqu'on envisage la destruction de documents à l'aide d'un équipement mobile.</p>
 <p>1. Aucun RENSEIGNEMENT CLASSIFIÉ ou renseignement désigné « Protégé C » de TPSGC ne doit être envoyé à l'extérieur du ministère pour être détruit.</p>
@@ -78,7 +78,7 @@
 </ol>
 <p>12. Le certificat de destruction devrait être rempli par l'entreprise. Il doit comprendre la date de destruction et la signature de la personne autorisée qui était présente lors de la destruction des documents.</p>
 <p>13. Veuillez adresser les questions au gestionnaire de la Sécurité ministérielle.</p>
-<h3>CLAUSE DU GUIDE DES CCUA</h3>
+<h4>CLAUSE DU GUIDE DES CCUA</h4>
 <p><strong>F2036D (__/__/99) Exigence en matière de sécurité</strong></p>
 <p>1. La liste de vérification des exigences relatives à la sécurité ci-jointe présente les exigences de sécurité applicables à la destruction de renseignements désignés aux niveaux Protégé A et B à l'aide d'une déchiqueteuse autorisée dans les locaux de l'entrepreneur.</p>
 <p>2. L'entrepreneur doit, en tout temps durant l'exécution du contrat, disposer d'une attestation valide de « vérification d'organisation désignée » (VOD), avec l'autorisation de détenir des documents désignés au niveau Protégé B, délivrée ou approuvée par la Division de la sécurité industrielle canadienne et internationale (DSICI) de Travaux publics et Services gouvernementaux Canada.</p>
@@ -90,7 +90,7 @@
 <li>le Manuel de la sécurité industrielle (juin 1992).</li>
 </ol>
 <p> <a id="AP-40nxa" name="nxa"></a></p>
-<h3>CLASSIFICATION DES DÉCHIQUETEUSES</h3>
+<h4>CLASSIFICATION DES DÉCHIQUETEUSES</h4>
 <p>Voici une liste des niveaux de classification des déchiqueteuses de documents définis dans une norme intitulée « Destruction dans l'intérêt national - Norme d'évaluation de sécurité ». Les figures 1 et 2 illustrent ces définitions. Les exemples 1 et 2 sont des <strong>exemples réels</strong> de petits morceaux de papier obtenus par le déchiquetage de documents en utilisant du matériel de <strong>type II et III.</strong></p>
 <p><strong>Type II</strong></p>
 <p>Un seul morceau de papier déchiqueté ne doit pas dépasser<strong>1,00 mm de largeur et 14,3mm de longueur,</strong> à condition qu'il n'y figure pas plus d'un caractère alphanumérique complet sur une ligne et pas plus d'un caractère alphanumérique complet sur la ligne se trouvant immédiatement au-dessus et celle se trouvant immédiatement en-dessous de ladite ligne. Conformément à ce qui précède, il ne devrait pas y avoir plus de trois caractères alphanumériques* complets sur chaque morceau de papier déchiqueté.</p>
@@ -114,10 +114,10 @@
 <p></p>
 <p><strong>NOTA *: Aux fins de la présente norme, un caractère alphanumérique ne peut être plus petit que 15 car/po avec 6 lignes/po</strong>.</p>
 <p> <a id="AP-40nxb" name="nxb"></a></p>
-<h2>Annexe B</h2>
+<h3>Annexe B</h3>
 <p></p>
 <p> <a id="AP-40nxc" name="nxc"></a></p>
-<h2>Annexe C</h2>
+<h3>Annexe C</h3>
 <p><strong>1.</strong><br/>
 </p>
 <p><strong>2.</strong><br/>

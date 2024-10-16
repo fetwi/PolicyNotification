@@ -1,24 +1,24 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 id="PN-149a1">Purpose</h2>
+<h3 id="PN-149a1">Purpose</h3>
 <p>The purpose of Policy Notification (PN)-149 is to provide guidance to Acquisitions Program (AP) contracting officers on electronic file documentation during the procurement process.</p>
-<h2 id="PN-149a2">Effective date</h2>
+<h3 id="PN-149a2">Effective date</h3>
 <p>This <abbr title="Policy Notification">PN</abbr> is effective immediately.</p>
-<h2 id="PN-149a3">Overview</h2>
+<h3 id="PN-149a3">Overview</h3>
 <p><abbr title="Policy Notification">PN</abbr>-149 provides guidelines on electronic file documentation intended to help <abbr title="Acquisitions Program">AP</abbr> contracting officers in documenting their procurement files in GCdocs, the Government of Canada’s designated Electronic Document &amp; Records Management System (EDRMS).</p>
 <p>The Electronic Procurement Solution (EPS) system is intended to be the repository for any <abbr title="Electronic Procurement Solution">EPS</abbr> procurement files along with any procurement supporting documents and information created or received in <abbr title="Electronic Procurement Solution">EPS</abbr>.</p>
 <p>Any information created or received outside of the <abbr title="Electronic Procurement Solution">EPS</abbr> system for procurement files should continue to be filed in GCdocs in its original electronic file format and cross-referenced in both systems.</p>
 <p>Further amendments will be made to this <abbr title="Policy Notification">PN</abbr>-149 as <abbr title="Electronic Procurement Solution">EPS</abbr> moves towards a steady state environment.</p>
 <p><abbr title="Acquisitions Program">AP</abbr> contracting officers may reference the guidelines in the Supply Manual at Annex 1.4 Guidelines on paper file document for procurement and at Annex 1.5 Guidelines on electronic file documentation for procurement. The two new annexes replace Supply Manual Annex 8.1 in its entirety.</p>
 <p><abbr title="Acquisitions Program">AP</abbr> contracting officers are responsible for properly documenting procurement files. The procurement file is the complete record of all procurement actions undertaken by the <abbr title="Acquisitions Program">AP</abbr> contracting officer including but not limited to approvals, the decisions, information about significant events and procurement milestones.</p>
-<h2 id="PN-149a4">Background</h2>
+<h3 id="PN-149a4">Background</h3>
 <p>The Treasury Board’s <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32603" rel="external"><cite>Policy on Service and Digital</cite></a> states that the strategic management of government information and data supports the delivery of services and the effectiveness of government operations.</p>
 <p>Sound management and proper documentation of procurement information is critical to enable the Acquisitions Program to achieve and sustain its goals of providing high-quality services and programs while meeting operational and fiscal responsibilities, legal obligations and accountabilities.</p>
 <p>It is vital that the information retained in the procurement information systems be reliable, accurate and complete, to avoid negative impacts to the quality and timeliness of reporting used for decision-making.</p>
 <p>Proper documentation helps the Department of Public Works and Government Services (“the Department”) in supporting the Government of Canada’s key objectives under the <a href="https://laws-lois.justice.gc.ca/eng/acts/L-7.7/" rel="external"><cite>Library and Archives of Canada Act</cite></a>, to preserve records identified by the Librarian and Archivist to have historical or archival importance and to control the disposal or destruction of records by government institutions.</p>
 <p>Maintaining accessible and complete files directly supports the Department in demonstrating transparency, due diligence and sound decision-making in cases of legal risk and liability.</p>
-<h2 id="PN-149a5">Acquisitions policy requirements</h2>
+<h3 id="PN-149a5">Acquisitions policy requirements</h3>
 <p>Acquisitions Program contracting officers are responsible for ensuring that:</p>
 <ol type="i">
 <li>procurement files are well documented and complete</li>
@@ -26,15 +26,15 @@
 <li>the information within the appropriate systems is updated with accuracy, such as the Automated Buyer Environment (ABE), <abbr title="Electronic Procurement Solution">EPS</abbr>, Galileo and Darwin; and</li>
 <li>information received or created in electronic format outside of <abbr title="Electronic Procurement Solution">EPS</abbr>, is maintained in its original format and filed in the applicable <a class="gov" href="https://gcdocs.gc.ca/tpsgc-pwgsc/llisapi.dll/open/32362105" rel="external">GCdocs procurement case file folder</a><span> (accessible only on the Government of Canada network)</span>.</li>
 </ol>
-<h2 id="PN-149a6">Summary of changes</h2>
-<h3 id="PN-149a7">Revisions to the Standard Acquisition Clauses and Conditions Manual (SACC)</h3>
+<h3 id="PN-149a6">Summary of changes</h3>
+<h4 id="PN-149a7">Revisions to the Standard Acquisition Clauses and Conditions Manual (SACC)</h4>
 <p>There are no changes to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> manual.</p>
-<h3>Revisions to the Supply Manual</h3>
+<h4>Revisions to the Supply Manual</h4>
 <p>The following sections of the Supply Manual have been revised. For more details, refer to the Affected Supply Manual sections listed below.</p>
-<h2 id="PN-149a8">Contact information</h2>
+<h3 id="PN-149a8">Contact information</h3>
 <p>Questions related to electronic file documentation may be directed to Acquisitions Program Information Management Team at the following address: <a href="mailto:tpsgc.pagi-apim.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.pagi-apim.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions regarding to the Supply Manual can be sent by email to the following email: <a href="mailto:tpsgc.paspspublications-apspspublications.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.paspspublications-apspspublications.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected Supply Manual sections</h3>
+<h4 class="field-label">Affected Supply Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-2bc47de0ff5f41bb5a548183c5140b26">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

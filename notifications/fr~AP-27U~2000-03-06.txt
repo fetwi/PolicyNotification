@@ -2,13 +2,13 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : Le 6 mars 2000</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : Le 6 mars 2000</h3>
 <p>Cette mise à jour de l'Avis de politique n<sup>o</sup> 27<br/>
 					vise à modifier comme suit la Politique sur les marchés<br/>
 					réservés dans le cadre des ententes sur les revendications<br/>
@@ -35,13 +35,13 @@
 					des approvisionnements et au manuel des CCUA, dont la diffusion<br/>
 					est prévue pour mai 2000.</p>
 <hr/>
-<h2>Annexe A</h2>
-<h3>Changements apportés au chapitre 9M Guide des approvisionnements</h3>
+<h3>Annexe A</h3>
+<h4>Changements apportés au chapitre 9M Guide des approvisionnements</h4>
 <p>Mise à jour du tableau intitulé « Résumé des<br/>
 					avantages découlant de l'Avis de politique des marchés<br/>
 					1997-8 du Secrétariat du Conseil du Trésor du Canada »</p>
-<h4>Section 5.7 : Entente définitive de la Première<br/>
-					nation des Tr'ondëk Hwëch'in*</h4>
+<h5>Section 5.7 : Entente définitive de la Première<br/>
+					nation des Tr'ondëk Hwëch'in*</h5>
 <p><strong>Avis</strong></p>
 <dl>
 <dt><em>Invitation à soumissionner</em></dt>
@@ -65,9 +65,9 @@
 					définitive de la Première nation des Tr'ondëk<br/>
 					Hwëch'in.</p>
 <hr/>
-<h2>Annexe B</h2>
-<h3>Changements apportés au guide des Clauses et conditions<br/>
-					uniformisées d'achat</h3>
+<h3>Annexe B</h3>
+<h4>Changements apportés au guide des Clauses et conditions<br/>
+					uniformisées d'achat</h4>
 <p>Inclure la ou les clauses du guide des CCUA pertinentes (précisées<br/>
 					dans le tableau ci-dessus) dans l'invitation à soumissionner,<br/>
 					et insérer les numéros des clauses correspondants<br/>
@@ -82,8 +82,8 @@
 					La clause CCUA W0173T comprend les clauses : 17.14.2.2; 17.14.2.3;<br/>
 					17.14.2.4; 17.14.2.8. </p>
 <hr/>
-<h2>Clause CCUA modifiée : Entente définitive<br/>
-					de la Première nation des Little Salmon/Carmacks (EDPNLSC)</h2>
+<h3>Clause CCUA modifiée : Entente définitive<br/>
+					de la Première nation des Little Salmon/Carmacks (EDPNLSC)</h3>
 <p><strong>W0113T EDPNLSC - Sylviculture</strong></p>
 <p><strong>Remarques</strong> : Consulter le tableau intitulé « Résumé des<br/>
 					avantages découlant de l'Avis de politique des marchés<br/>
@@ -115,8 +115,8 @@
 					la Première nation de Little Salmon/Carmacks d'un critère<br/>
 					concernant l'embauchage d'Indiens de Little Salmon/Carmacks.</p>
 <hr/>
-<h2>Nouvelle clause CCUA : Entente définitive de la Première<br/>
-					nation des Tr'ondëk Hwëch'in (EDPNTH)</h2>
+<h3>Nouvelle clause CCUA : Entente définitive de la Première<br/>
+					nation des Tr'ondëk Hwëch'in (EDPNTH)</h3>
 <p><strong>W0171T EDPNTH - Site historique désigné</strong></p>
 <p><strong>Remarques</strong> : Consulter le tableau intitulé « Résumé des<br/>
 					avantages découlant de l'Avis de politique des marchés<br/>

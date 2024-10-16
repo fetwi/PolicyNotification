@@ -2,14 +2,14 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>Date d'entree en vigueur : le 18 mars 2002</h2>
-<h3>Contexte</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>Date d'entree en vigueur : le 18 mars 2002</h3>
+<h4>Contexte</h4>
 <p>Le présent Avis relatif aux politiques fournit des conseils à jour<br/>
 			pour la mise en œuvre des limites approuvées récemment<br/>
 			en ce qui concerne la délégation de pouvoirs d'approbation<br/>
@@ -21,7 +21,7 @@
 			Avis relatif aux politiques, qui comprend toutes ces modifications,<strong> entrera<br/>
 				en vigueur le lundi 18 mars 2002.</strong></p>
 <hr/>
-<h3>Guide des approvisionnements</h3>
+<h4>Guide des approvisionnements</h4>
 <p>1. Les tableaux de l'annexe 6.1.2 du Guide des approvisionnements établissant<br/>
 			la délégation de pouvoirs pour les biens, les services,<br/>
 			les télécommunications, la construction et les services<br/>
@@ -36,8 +36,8 @@
 			aux chefs est passée à 150000$, afin de corriger<br/>
 			une erreur qui s'était glissée dans le Guide des<br/>
 			approvisionnements.</p>
-<h4>2. Les pouvoirs d'approbation exceptionnels des marchés<br/>
-			sont modifiés de la façon suivante :</h4>
+<h5>2. Les pouvoirs d'approbation exceptionnels des marchés<br/>
+			sont modifiés de la façon suivante :</h5>
 <ol type="i">
 <li>(produit agricole destiné aux programmes d'aide extérieure)<br/>
 				la section 6.1.6 (a)) est modifiée de la façon<br/>
@@ -88,7 +88,7 @@
 						niveau 1.</strong></p>
 </li>
 </ol>
-<h4>3. Formulaire de renseignements sur l'approvisionnement (FRA)</h4>
+<h5>3. Formulaire de renseignements sur l'approvisionnement (FRA)</h5>
 <p>Les changements suivants apportés au FRA sont maintenant<br/>
 			applicables. Tous les autres aspects du processus, tels qu'énoncés à l'annexe 6.1.8 du Guide des approvisionnements, restent en vigueur et<br/>
 			sont applicables.</p>
@@ -104,8 +104,8 @@
 			et à l'étape de l'attribution du marché (24<br/>
 			heures avant l'attribution).</p>
 <p>Le tableau ci-dessous remplace le tableau précédent dans l'annexe 6.1.8 du Guide des approvisionnements.</p>
-<h4>Annexe A - Seuils pour l'établissement des rapports à l'aide du formulaire de renseignements sur les approvisionnements.</h4>
-<h4>Seuils pour la production d'un FRA</h4>
+<h5>Annexe A - Seuils pour l'établissement des rapports à l'aide du formulaire de renseignements sur les approvisionnements.</h5>
+<h5>Seuils pour la production d'un FRA</h5>
 <p>Il faut produire un Formulaire de renseignements sur l'approvisionnement<br/>
 			(FRA) pour tous les plans et contrats attribués, lorsque<br/>
 			les seuils suivants sont dépassés :</p>
@@ -130,17 +130,17 @@
 			FRA avant l'attribution d'un marché. Le décompte<br/>
 			de 24 heures ne commencera pas avant que le FRA ait été envoyé au<br/>
 			cabinet du ministre.</p>
-<h4>4. Conditions imposées</h4>
+<h5>4. Conditions imposées</h5>
 <p>La modification suivante est applicable immédiatement :<br/>
 			aux paragraphes b) et c) de l'annexe 6.1 du Guide des approvisionnements, les titres «les<br/>
 			directeurs principaux ou les directeurs, directions de l'Europe<br/>
 			et de Washington» sont supprimés.</p>
-<h4>5. Pouvoir conditionnel de passation de marchés en cas<br/>
-			d'urgence </h4>
+<h5>5. Pouvoir conditionnel de passation de marchés en cas<br/>
+			d'urgence </h5>
 <p>Le Conseil du Trésor a approuvé l'augmentation, à 15<br/>
 			M$, du pouvoir d'approbation des marchés en cas d'urgence.<br/>
 			Ce pouvoir est exercé par le ministre.</p>
-<h4>Pouvoir conditionnel de passation de marchés en cas d'urgence</h4>
+<h5>Pouvoir conditionnel de passation de marchés en cas d'urgence</h5>
 <p>La limite de pouvoir s'applique à la valeur cumulative<br/>
 			du contrat, y compris les modifications.</p>
 <dl>
@@ -170,7 +170,7 @@
 				les marchés passés en cas d'urgence, conformément à la<br/>
 				Politique des marchés du Conseil du Trésor.</li>
 </ul>
-<h4>6. Attestation de fournitures de défense</h4>
+<h5>6. Attestation de fournitures de défense</h5>
 <p>La section 6.1.21 est modifiée de la façon suivante :</p>
 <p>1.21 Attestations demandées par l'Agences des douanes et<br/>
 			du revenu du Canada à TPSGC que les articles importés<br/>
@@ -182,7 +182,7 @@
 <p>Directeurs généraux, Approvisionnements et Régions;<br/>
 			directeurs principaux et directeurs, administration centrale; et<br/>
 			directeurs régionaux.</p>
-<h4>7. Tableau d'équivalence des fonctions</h4>
+<h5>7. Tableau d'équivalence des fonctions</h5>
 <p>Le tableau d'équivalence des fonctions de l'annexe 6.1.2<br/>
 			est modifié par l'ajout de ce qui suit :</p>
 <ul>
@@ -191,9 +191,9 @@
 				agent de gestion des contrats (AGC);</li>
 <li>au niveau 4, agent d'approvisionnement.</li>
 </ul>
-<h3>Annexe A</h3>
-<h4>Limites d'approbation pour l'établissement et la modification<br/>
-			d'un marché - BIENS</h4>
+<h4>Annexe A</h4>
+<h5>Limites d'approbation pour l'établissement et la modification<br/>
+			d'un marché - BIENS</h5>
 <p><strong>Ministre</strong></p>
 <dl>
 <dt>Voie électron.</dt>
@@ -404,8 +404,8 @@
 <dd>M - 2</dd>
 <dd>Signature - C : 1,5 M M: 1 M</dd>
 </dl>
-<h4>Limites d'approbation pour l'établissement et la modification<br/>
-			d'un marché - SERVICES</h4>
+<h5>Limites d'approbation pour l'établissement et la modification<br/>
+			d'un marché - SERVICES</h5>
 <p><strong>Ministre</strong></p>
 <dl>
 <dt>Voie électron.</dt>
@@ -616,8 +616,8 @@
 <dd>M - 2</dd>
 <dd>Signature - C : 20 M M : 1 M</dd>
 </dl>
-<h4>Limites d'approbation pour l'établissement et la modification<br/>
-			d'un marché - CONSTRUCTION</h4>
+<h5>Limites d'approbation pour l'établissement et la modification<br/>
+			d'un marché - CONSTRUCTION</h5>
 <p><strong>Ministre</strong></p>
 <dl>
 <dt>Voie électron.</dt>
@@ -753,8 +753,8 @@
 <dd>M - 25</dd>
 <dd>Signature - C : 250 000 M : 375 000</dd>
 </dl>
-<h4>Limites d'approbation pour l'établissement et la modification<br/>
-			d'un marché - TÉLÉCOMMUNICATIONS</h4>
+<h5>Limites d'approbation pour l'établissement et la modification<br/>
+			d'un marché - TÉLÉCOMMUNICATIONS</h5>
 <p><strong>Ministre</strong></p>
 <dl>
 <dt>Voie électron.</dt>
@@ -965,8 +965,8 @@
 <dd>M - 2</dd>
 <dd>Signature - C : 1,5 M M: 1 M</dd>
 </dl>
-<h4>Limites d'approbation pour l'établissement et la modification<br/>
-			d'un marché - SERVICES D'ARCHITECTURE ET DE GÉNIE</h4>
+<h5>Limites d'approbation pour l'établissement et la modification<br/>
+			d'un marché - SERVICES D'ARCHITECTURE ET DE GÉNIE</h5>
 <p><strong>Ministre</strong></p>
 <dl>
 <dt>Voie électron.</dt>

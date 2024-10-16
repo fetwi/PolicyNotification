@@ -6,9 +6,9 @@
 <p>3. In addition, DSS 9400-2 (RFP) is being modified to increase the visibility of the address and facsimile number of the Bid Receiving Unit.</p>
 <p>4. Related changes to the Supply Manual, attached as <strong>Annex A</strong>, will be included in amendment 98-2, which is scheduled for release on June 15, 1998.</p>
 <p>5. Related changes to the Standard Acquisition Clauses and Conditions Manual, attached as <strong>Annex B</strong>, will be included in amendment 98-2, which is scheduled for release on June 15, 1998.</p>
-<h2>ANNEX A</h2>
-<h3>SUPPLY MANUAL CHANGES</h3>
-<h3>Bid Timeliness</h3>
+<h3>ANNEX A</h3>
+<h4>SUPPLY MANUAL CHANGES</h4>
+<h4>Bid Timeliness</h4>
 <p>7.304 (15/06/98) For all bid solicitations, except Requests For Quotations (RFQs) directed to the contracting officer, the bid closing date and time stipulated in the solicitation are firm. Contract award may take place immediately following bid closing or any time thereafter. The onus is on the bidder to ensure that the bid is delivered on time to the location designated in the solicitation. The only acceptable evidence to show timely receipt in the specified bid receiving area is a date and time stamp or other documentary evidence of receipt within the control of the bid receiving area.</p>
 <p>Late bids are not to be accepted and will be returned. Records will be kept of all returned bids or proposals.</p>
 <p><em>In headquarters, the BRU provides this service.</em></p>
@@ -28,16 +28,16 @@
 <p>7.308 (23/06/94) In order to be accepted, a bid must contain the bid reference number, the closing date and time, and sufficient information to allow evaluation, such as: unit prices; country (when the bid is submitted in a foreign currency); sales tax; duty; technical data (where applicable); and, any deviations from the bid solicitation document.</p>
 <p>7.309 (23/06/94) To ensure that official bid receipt time-keeping equipment represents the correct time, bid receiving areas shall calibrate this equipment and other official time pieces against the official National Research Council (NRC) time standard at least once every two working days.</p>
 <p><em>The NRC time standard can be checked 24 hours a day at 613-745-1576 (English) or 613-745-9426 (French).</em></p>
-<h3>Bid Receiving</h3>
+<h4>Bid Receiving</h4>
 <p>7.315 (15/06/98) Competitive bids, submitted to the bid receiving area, will be time and date stamped upon receipt, and kept unopened in a locked receptacle until after the closing time.</p>
 <p>If an envelope/package does not indicate sufficient information for bid identification - i.e. solicitation number, company name and closing date and time - it will be necessary to open the envelope/package. Bid receiving staff will, in this instance, transfer the necessary information to the envelope/package, and reseal and initial the envelope/package before it is place in the bid box.</p>
 <p>Bids delivered after the bid closing (late bids - see 7.304), or for which the solicitation has been cancelled, are returned to the supplier unopened, with a covering letter explaining why the bid has been returned. If the envelope/package does not contain sufficient information to identify the company and/or the solicitation number, Bid Receiving Unit (BRU) staff will open the envelope/package for identification purposes, and return the bid with the appropriate letter explaining the reason for opening the bid.</p>
 <p><em>At headquarters, bids received by the mail room are sorted and delivered unopened to the BRU. Facsimile and commercial telegram bids destined for the BRU must be submitted to the Communications Centre.</em></p>
-<h2>ANNEX B</h2>
-<h3>SACC MANUAL CHANGES</h3>
+<h3>ANNEX B</h3>
+<h4>SACC MANUAL CHANGES</h4>
 <p><strong>DSS-MAS 9403 (15/06/98) Standard Instructions and Conditions</strong></p>
 <p><strong>A. INSTRUCTIONS (APPLICABLE TO BID SOLICITATION)</strong></p>
-<h3>1. Submission of Bids</h3>
+<h4>1. Submission of Bids</h4>
 <ol>
 <li>It is the Bidder's responsibility to:<br/>
 <ol type="a">
@@ -53,9 +53,9 @@
 <li>While Canada may enter into contract without negotiation, Canada reserves the right to negotiate with bidders on any procurement.</li>
 <li>Bid documents and supporting information may be submitted in either English or French.</li>
 </ol>
-<h3>2. Late Bids</h3>
+<h4>2. Late Bids</h4>
 <p>It is DPWGS policy to return, unopened, bids delivered after the stipulated bid solicitation closing date and time, unless they qualify as a delayed bid as described below.</p>
-<h3>3. Delayed Bids</h3>
+<h4>3. Delayed Bids</h4>
 <ol>
 <li>A bid delivered to the specified bid receiving area after the closing date and time but before the contract award date may be considered, provided the delay can be proven to have been due solely to a delay in delivery that can be attributed to the Canada Post Corporation (CPC) (or national equivalent of a foreign country. The only pieces of evidence relating to a delay in the CPC system that are acceptable to DPWGS are:<br/>
 <ol type="a">
@@ -70,9 +70,9 @@
 <li>For bids transmitted by facsimile or commercial telegram, only the date and the time of receipt recorded by DPWGS at the Bid Receiving number stated in the bid solicitation document will be accepted as evidence of a delayed bid.</li>
 <li>Misrouting, traffic volume, weather disturbances, or any other causes for the late delivery of bids are not acceptable reasons for the bid to be accepted by DPWGS.</li>
 </ol>
-<h3>4. Postage Meters</h3>
+<h4>4. Postage Meters</h4>
 <p>Postage meter imprints, whether imprinted by the Supplier, the CPC or the postal authority outside Canada, are not acceptable as proof of timely mailing. It should be noted that CPC does not normally apply a cancellation date stamp to metered mail; this is usually done only when postage stamps are used.</p>
-<h3>5. Responses Transmitted by Facsimile or Commercial Telegram</h3>
+<h4>5. Responses Transmitted by Facsimile or Commercial Telegram</h4>
 <ol>
 <li>
 <p>If you are in doubt that your bid will be delivered on time at the specific location designated for the receipt of the bid, you may use a facsimile or a commercial telegram, unless otherwise instructed in the bid solicitation package.</p>

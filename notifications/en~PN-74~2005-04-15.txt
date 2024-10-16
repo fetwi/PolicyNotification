@@ -1,14 +1,14 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Policy</h3>
+<h4>Policy</h4>
 <p>The <em>"Division of Responsibilities Between <acronym title="Public Works and Government Services Canada">PWGSC</acronym> and DND for the Acquisition of Goods and Services"</em> is revised as per Annex A attached, further to a collaborative effort between Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>) and Department of National Defence (DND).</p>
 <p>Effective immediately, Annex A replaces Annexes 3.1 and 3.1.1 of the Supply Manual (SM), and will be incorporated into the June 10, 2005 release.</p>
 <p>The <em>"Division of Responsibilities Between <acronym title="Public Works and Government Services Canada">PWGSC</acronym> and DND for the Quality Assurance of Materiel and Services"</em> (SM, Annex 3.2) remains unchanged.</p>
-<h3>Contact</h3>
+<h4>Contact</h4>
 <p><strong>N/A</strong></p>
-<h2>Annex A: Changes to the Supply Manual
-</h2><p>					Annex 3.1: Division of Responsibilities Between <acronym title="Public Works and Government Services Canada">PWGSC</acronym> and DND for the Acquisition of Goods and Services
+<h3>Annex A: Changes to the Supply Manual
+</h3><p>					Annex 3.1: Division of Responsibilities Between <acronym title="Public Works and Government Services Canada">PWGSC</acronym> and DND for the Acquisition of Goods and Services
 </p><p>3.1(i) This matrix is an assigned division of responsibility, agreed by<br/>
 					the Ministers of the Department of National Defence (DND) and Public Works<br/>
 					and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>) .* It forms the foundation for an efficient<br/>
@@ -24,7 +24,7 @@
 <p>3.1(iii) The assignment of each activity to a "Lead" and "Participatory department" as indicated in this table is to be considered the normal way of doing business.  However, as every procurement and associated contract differs with respect to complexity, risk,value and availability of skilled resources, deviations can be agreed jointly in advance as long as justifications are formally filed in an agreement between the two Departments, which consider reasons why the norm cannot be applicable in specific areas.</p>
 <p>3.1(iv) In all activities, it is incumbent upon each "Lead" to always consider as prudent, continuous communication with the procurement representatives of the other department, even if this "Lead" is identified as the sole "X". Finally, it is important to note that this matrix of assigned responsibilities is not necessarily sequential.</p>
 <p>3.1(v) Effective communications between DND and <acronym title="Public Works and Government Services Canada">PWGSC</acronym> must be worked out on a project-by-project basis. The matrix below sets out anticipated DND internal responsibilities. For any individual project, DND requests that communications be through the procurement functional contact, the applicable DND Procurement Manager/Officer, unless otherwise discussed and agreed to with that procurement functional contact.</p>
-<h3>DND/<acronym title="Public Works and Government Services Canada">PWGSC</acronym> Responsibility Matrix</h3>
+<h4>DND/<acronym title="Public Works and Government Services Canada">PWGSC</acronym> Responsibility Matrix</h4>
 <p><strong>PO: </strong>Procurement Officer<br/>
 <strong>PM: </strong>Project Manager<br/>
 <strong>TA: </strong>Technical Authority - includes LCMM<br/>
@@ -33,8 +33,8 @@
 					role is defined in the PMP<br/>
 <strong>PM/TA</strong>: Uusually the PM for Capital/NP project<br/>
 					procurement and the TA for in-service procurement</p>
-<h4>1. Define DND Operational<br/>
-					Requirements </h4>
+<h5>1. Define DND Operational<br/>
+					Requirements </h5>
 <p><strong>1.1 </strong>Define essential characteristics - Statement<br/>
 					of Capability Deficiency or Statement of Requirement<br/>
 <strong>Responsibility: </strong><br/>
@@ -110,7 +110,7 @@
 <p> <strong>1.18 </strong>Execute DND's Procurement Master Plan<br/>
 <strong>Responsibility: <br/>
 </strong>DND: PO </p>
-<h4>2. Define Technical Requirements and Raise Procurement Instrument</h4>
+<h5>2. Define Technical Requirements and Raise Procurement Instrument</h5>
 <p><strong> 2.1 </strong>Establish team (formal or informal as appropriate) for an individual<br/>
 					procurement instrument, including required stakeholder<strong><br/>
 </strong><strong>Responsibility: <br/>
@@ -182,7 +182,7 @@
 <p><strong>2.9 </strong>Approve Procurement Instrument (Requisition)<strong><br/>
 					Responsibility: <br/>
 </strong>DND: PO </p>
-<h4>3. DEVELOP <acronym title="Public Works and Government Services Canada">PWGSC</acronym> PROCUREMENT PLAN (*based on DND Procurement Instrument)</h4>
+<h5>3. DEVELOP <acronym title="Public Works and Government Services Canada">PWGSC</acronym> PROCUREMENT PLAN (*based on DND Procurement Instrument)</h5>
 <p><strong> 3.1 </strong>Assess the industrial capability *<br/>
 <strong>Responsibility: <br/>
 </strong><acronym title="Public Works and Government Services Canada">PWGSC</acronym>: X</p>
@@ -240,7 +240,7 @@
 					plan<br/>
 <strong>Responsibility: <br/>
 </strong><acronym title="Public Works and Government Services Canada">PWGSC</acronym>: X</p>
-<h4>4. Contracting Process</h4>
+<h5>4. Contracting Process</h5>
 <p><strong> 4.1 </strong>Review requisition or procurement instrument<br/>
 <strong>Responsibility: <br/>
 </strong><acronym title="Public Works and Government Services Canada">PWGSC</acronym>: X<br/>
@@ -305,7 +305,7 @@
 					Responsibility: <br/>
 </strong><acronym title="Public Works and Government Services Canada">PWGSC</acronym>: X<br/>
 					DND Normally Participates: M </p>
-<h4>5. Contract Administration</h4>
+<h5>5. Contract Administration</h5>
 <p> <strong>5.1 </strong>Initiate Contract Administration</p>
 <p><strong>5.1.1 </strong>Implement Tools and Processes for Administration<br/>
 <strong>Responsibility: <br/>

@@ -1,23 +1,23 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Purpose</h2>
+<h3>Purpose</h3>
 <p>The purpose of Policy Notification (PN)-48R1, is to update the obligations for acquisitions Program (AP) contracting officers in respect of the <a href="https://laws-lois.justice.gc.ca/eng/acts/o-3.01/" rel="external"><cite>Official Languages Act</cite></a> (OLA).</p>
-<h2>Effective date</h2>
+<h3>Effective date</h3>
 <p><abbr title="Policy Notification">PN</abbr>-48R1 will come into force on May 13, 2022 and replaces <abbr title="Policy Notification">PN</abbr>-48 in its entirety. </p>
-<h2>Overview</h2>
+<h3>Overview</h3>
 <p>The Government has the legal obligation to serve and communicate with the public in both official languages, pursuant to the <abbr title="Official Languages Act">OLA</abbr> and all regulations thereunder including the <a href="https://laws.justice.gc.ca/eng/regulations/sor-92-48/index.html" rel="external">Official Languages (Communications with and Services to the Public) Regulations.</a></p>
 <p>This <abbr title="Policy Notification">PN</abbr> includes new and updated provisions to ensure that all procurement notices and related tender documents posted on the Government Electronic Tendering Service (GETS) are in both official languages. The French and English content must be of equal quality and be published at the same time. </p>
-<h2>Revisions to the Supply Manual</h2>
+<h3>Revisions to the Supply Manual</h3>
 <p>The Supply Manual has been revised to reflect this <abbr title="Policy Notification">PN</abbr>. For more details, refer to the Affected Supply Manual sections listed below.  </p>
-<h2>Revisions to  the Standard Acquisition Clauses and Conditions Manual (SACC)</h2>
+<h3>Revisions to  the Standard Acquisition Clauses and Conditions Manual (SACC)</h3>
 <p>The <abbr title="Standard Acquisition Clauses and Conditions Manual">SACC</abbr> Manual has been revised to reflect this <abbr title="Policy Notification">PN</abbr>. For more details, refer to the Affected <abbr title="Standard Acquisition Clauses and Conditions Manual">SACC</abbr> Manual sections listed below.  </p>
-<h2>Revisions to the Standard Procurement Templates</h2>
+<h3>Revisions to the Standard Procurement Templates</h3>
 <p>There are no changes to the Standard Procurement Templates.</p>
-<h2>Contact information</h2>
+<h3>Contact information</h3>
 <p>For questions about this <abbr title="Policy Notification">PN</abbr>, including official languages requirements for posting notices and related tender documents, please send an email to: <a href="mailto:tpsgc.paspspublications-apspspublications.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.paspspublications-apspspublications.pwgsc@tpsgc-pwgsc.gc.ca</a> with “Official Languages” in the subject line.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected Supply Manual sections</h3>
+<h4 class="field-label">Affected Supply Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-9a8951b654439b84ad808f17a9f4c39c">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -41,7 +41,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h3>
+<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-619e3f698c02dbf41b1348fbb3c1ef49">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">

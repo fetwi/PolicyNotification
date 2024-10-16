@@ -2,14 +2,14 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>Date : le 7 décembre 2007</h2>
-<h3>Politique</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>Date : le 7 décembre 2007</h3>
+<h4>Politique</h4>
 <p>L'avis relatif aux politiques (AP) 85U vise à mettre à jour les  instructions aux agents de négociation des contrats de Travaux publics et  Services gouvernementaux Canada (TPSGC) relativement au bloc sur la sécurité du  formulaire de demande <a href="http://publiservice-app.tpsgc-pwgsc.gc.ca/forms/index.cfm?fuseaction=search.details&amp;lang=f&amp;display=5451" rel="external">PWGSC-TPSGC 9200</a>.</p>
 <p>Jusqu'à ce que les systèmes financiers  des ministères clients soient modifiés pour inclure le bloc révisé sur la  sécurité du formulaire de demande PWGSC-TPSGC 9200, les agents de négociation  des contrats peuvent  accepter la version précédente du formulaire de demande PWGSC-TPSGC 9200 des  clients pourvu que ceux-ci fournissent une attestation conforme au libellé du  nouveau bloc sur la sécurité, soit en reproduisant le nouveau libellé sur la  sécurité (voir ci-dessous) dans le bloc des « Instructions spéciales »  du formulaire de demande PWGSC-TPSGC 9200, soit en présentant ce libellé dans  un document distinct.</p>
 <p>« No de demande  ___________________</p>
@@ -25,7 +25,7 @@
 <p>_____________________<br/>
 					Date »</p>
 <p>Les agents de négociation des contrats de TPSGC doivent voir à ce que  l'attestation sur la sécurité dûment remplie soit incluse dans chaque dossier  d'achat se rapportant à un besoin qui n'a pas encore fait l'objet d'un contrat.</p>
-<h3>Personne-ressource</h3>
+<h4>Personne-ressource</h4>
 <p>Toute demande de  renseignements doit être adressée à Veronica Nazareth, Direction de la politique et du processus  d'approvisionnement, par téléphone au 819-956-5024, ou par courriel au <a href="mailto:veronica.nazareth@tpsgc-pwgsc.gc.ca" rel="external">veronica.nazareth@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

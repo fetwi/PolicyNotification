@@ -1,17 +1,17 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p>The purpose of Policy Notification (PN)-100 is to notify contracting officers of the removal of the requirement to consult and complete a Solicitation Checklist. </p>
-<h2>Background</h2>
+<h3>Background</h3>
 <p>In its efforts to modernize the procurement function, the Acquisitions Branch (AB) formed a working group to develop solutions to streamline procurement processes. Over the past two years the Procurement Solutions Modernization (PSM) working group, with representatives from sectors and regions, has been reviewing procurement processes and identifying areas for change or deletion with the aim of supporting a streamlined approach. One such area is the use of the Solicitation Checklist, which had previously been identified for review under other venues. The deletion of the Checklist supports the streamlining objective. This <abbr title="Policy Notification">PN</abbr> formally removes the requirement from the procurement process.</p>
-<h2>Effective Date</h2>
+<h3>Effective Date</h3>
 <p>This <abbr title="Policy Notification">PN</abbr> is effective immediately.</p>
-<h2>Revisions to the Current Policy </h2>
+<h3>Revisions to the Current Policy </h3>
 <p>The Solicitation Checklist references will be removed from the Supply Manual. Contracting Officers no longer have to consult the Solicitation Checklist for requirements below $25 000 nor does the Solicitation Checklist have to be completed for requirements over $25 000 and attached to the approval document.</p>
-<h2>Revision to Supply Manual</h2>
+<h3>Revision to Supply Manual</h3>
 <p><abbr title="Supply Manual">SM</abbr> procedures 4.30.5 <strong>Solicitation Checklist</strong>, 6.15 <strong>Solicitation Checklist</strong>, Annex 8.1, 2. (f) <strong>Documents proposed for the left-hand side of the file jacket</strong>, are deleted and will be removed from the Supply Manual in the next update.</p>
-<h2>Contact Person</h2>
+<h3>Contact Person</h3>
 <p>For more information, contact Susan Blakeney, Acquisition Policy Directorate, at 819-956-8235, or by e-mail to: <a href="mailto:susan.blakeney@tpsgc-pwgsc.gc.ca" rel="external">susan.blakeney@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

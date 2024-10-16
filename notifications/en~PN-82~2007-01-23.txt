@@ -1,14 +1,14 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>This Policy Notification (PN)-82 provides instructions and guidance<br/>
 					on obtaining appropriate client review of elements of a bid solicitation.</p>
 <p>PN-82 is issued further to the e-mail sent by the Executive Director<br/>
 					of Acquisitions Operations to Directors General and Regional Directors<br/>
 					General on 11 December 2006, and as a result of a recently-released<br/>
 					report by the Office of the Auditor General.</p>
-<h3>Policy</h3>
+<h4>Policy</h4>
 <p>Contracting officers must follow the instructions in this PN when handling<br/>
 					any procurement which may be considered sensitive or high-risk. When handling<br/>
 					other procurements, contracting officers may use their discretion in determining<br/>
@@ -16,13 +16,13 @@
 					nature of the procurement.Please refer to <a href="#PN-82annexa">Annex<br/>
 					A</a> of this document for changes to the Supply Manual. These changes<br/>
 					will be incorporated in the next release of the <em>Supply Manual</em>.</p>
-<h3>Contact</h3>
+<h4>Contact</h4>
 <p><strong>N/A</strong></p>
 <p> <a id="PN-82annexa"></a></p>
-<h2>Annex A - Changes to the Supply Manual</h2>
-<h3>Section 7A, Preparing a Bid Solicitation</h3>
+<h3>Annex A - Changes to the Supply Manual</h3>
+<h4>Section 7A, Preparing a Bid Solicitation</h4>
 <div>
-<h4><em>Client Review of Elements of a Bid Solicitation</em></h4>
+<h5><em>Client Review of Elements of a Bid Solicitation</em></h5>
 <p><em>7A.150 (xxxx-xx-xx) For sensitive or high-risk procurements, where<br/>
 						the client department has primary responsibility for the requirement<br/>
 						definition and/or evaluation of technical proposals, before issuing<br/>

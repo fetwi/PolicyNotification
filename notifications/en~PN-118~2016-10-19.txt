@@ -3,7 +3,7 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The <a href="http://www.gcpedia.gc.ca/wiki/Defence_Procurement_-_Sustainment_Initiative" rel="external">Defence Procurement - Sustainment Initiative</a><span> (accessible only on the Government of Canada network)</span> (SI) is a collaborative undertaking aimed at procuring tailored in-service support solutions for existing and new military equipment. Effective June 8, 2016, every new and existing military maintenance and repair procurement valued at $20 million* or more will follow a coherent and standardized interdepartmental approach guided by the four principles of sustainment: performance, value for money, flexibility and economic benefits. These principles will inform decision making by the applicable Defence Procurement Strategy (DPS) governance committee.</p>
 <p><strong>*Note:</strong> This threshold applies to the total value of the procurement or the project, inclusive of all taxes and fees, project management costs, definition costs, equipment/materiel costs, interim support costs, and contingencies. Any given project may have multiple procurements to deliver the full defence capability or requirement defined by project or program. The nature of the funding is irrelevant (Vote 1 or Vote 5).</p>
-<h2>Timeline</h2>
+<h3>Timeline</h3>
 <p>The timeline for the implementation has been established as follows:</p>
 <table>
 <tbody>
@@ -42,7 +42,7 @@ Starting in Jan 2018</td>
 </tr>
 </tbody>
 </table>
-<h2>Context</h2>
+<h3>Context</h3>
 <p>The Government of Canada (GC) is modernizing how defence equipment and services are acquired, using innovative procurement practices to receive best value for Canadian taxpayers.</p>
 <p>Building on the Defence Procurement Strategy (DPS), the <abbr title="Sustainment Initiative">SI</abbr> is transforming the way the Government of Canada approaches and manages the maintenance of military equipment. It provides horizontal opportunities to leverage strategic initiatives such as Smart Procurement, Procurement Modernization, the <abbr title="Defence Procurement Strategy">DPS</abbr> and the Export Strategy on Defence Procurement, to improve the administration of defence sustainment contracting.</p>
 <p>Sustainment refers to all of the activities required to support Canadian Armed Forces (CAF) fleets and equipment throughout their lifespan. The goal of the <abbr title="Sustainment Initiative">SI</abbr> is to generate tailored solutions that maximize value to Canada through balancing and optimizing the four principles:</p>
@@ -54,9 +54,9 @@ Starting in Jan 2018</td>
 </ul>
 <p>The <abbr title="Sustainment Business Case Analysis">SBCA</abbr> tool and process were developed in consultation with key government and industry stakeholders of the procurement community and are fully aligned and governed by the <abbr title="Defence Procurement Strategy">DPS</abbr> governance committees. The <abbr title="Sustainment Business Case Analysis">SBCA</abbr> process will enable and strengthen early interdepartmental collaboration to <b>develop and assess options</b> against the four principles mentioned above and prepare you to go through a series of approval milestones. </p>
 <p>Centers of Expertise, comprised of technical and contracting experts from <abbr title="Department of National Defence">DND</abbr>, <abbr title="Public Services and Procurement Canada">PSPC</abbr> and <abbr title="Innovation, Science and Economic Development Canada">ISED</abbr>, have been established to support and guide you through the <abbr title="Sustainment Business Case Analysis">SBCA</abbr> process.</p>
-<h3>Standard Acquisition Clauses and Conditions Manual, Supply Manual and Standard Procurement Templates</h3>
+<h4>Standard Acquisition Clauses and Conditions Manual, Supply Manual and Standard Procurement Templates</h4>
 <p>There are no changes to the Standard Acquisition Clauses and Conditions Manual, the Supply Manual or the standard procurement templates.</p>
-<h3>For more information</h3>
+<h4>For more information</h4>
 <p>Inquiries regarding the Sustainment Initiative may be sent to the following email address: <a href="mailto:TPSGC.DPPApublications-APPDpublications.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.DPPApublications-APPDpublications.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>GCpedia Site:  <a href="http://www.gcpedia.gc.ca/wiki/Defence_Procurement_-_Sustainment_Initiative" rel="external">Defence Procurement - Sustainment Initiative</a></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">

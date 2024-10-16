@@ -2,14 +2,14 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 1 novembre 2006</h2>
-<h3>Introduction</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 1 novembre 2006</h3>
+<h4>Introduction</h4>
 <p>Cet Avis relatif aux politiques (AP)-73 vient modifier la politique sur<br/>
 					les avis directs aux soumissionnaires éventuels lorsqu'un marché est<br/>
 					assujetti à un accord commercial. </p>
@@ -25,7 +25,7 @@
 					avisés directement d'une occasion de marché, dans des circonstances<br/>
 					appropriées et de façon prudente, qu'un accord commercial<br/>
 					s'applique ou non.</p>
-<h3>Politique</h3>
+<h4>Politique</h4>
 <p>À compter de maintenant, lorsqu'un marché est assujetti à un<br/>
 					accord commercial, les agents de négociation des contrats peuvent<br/>
 					aviser directement les fournisseurs qu'une occasion de marché a été publiée<br/>
@@ -34,12 +34,12 @@
 					d'obtenir le meilleur rapport qualité-prix pour les contribuables<br/>
 					canadiens. </p>
 <p>Les critères particuliers établis pour décider si un avis direct est nécessaire ainsi que les procédures d'avis sont énoncées à <a href="#AP-73a">l'Annexe A</a> ci-jointe.  Tous les changements indiqués en rouge seront incorporés dans la prochaine version du Guide des approvisionnements.</p>
-<h3>Personne-ressource</h3>
+<h4>Personne-ressource</h4>
 <p><strong>S/O</strong></p>
-<h2><a id="AP-73a" name="a"></a>l'Annexe A</h2>
-<h3>Changements apportés au Guide des approvisionnements</h3>
-<h4>Chapitre 5, Stratégie de sélection des fournisseurs</h4>
-<h5>Marchés assujettis aux accords commerciaux</h5>
+<h3><a id="AP-73a" name="a"></a>l'Annexe A</h3>
+<h4>Changements apportés au Guide des approvisionnements</h4>
+<h5>Chapitre 5, Stratégie de sélection des fournisseurs</h5>
+<h6>Marchés assujettis aux accords commerciaux</h6>
 <p><strong>5.041 (xxxx-xx-xx)</strong> Pour les marchés<br/>
 					assujettis à l'ALENA, à l'AMP-OMC ou à l'ACI, ou encore à plusieurs<br/>
 					ou à l'ensemble de ces accords, on doit respecter les dispositions<br/>
@@ -52,7 +52,7 @@
 					par exemple la période d'invitation la plus longue.</p>
 <p>Les projets de marchés concurrentiels visés par l'ALENA,<strong>et (ou)</strong> par l'AMP-OMC <strong>et (ou) par l'ACI</strong> doivent être annoncés par l'entremise<br/>
 					du Service électronique d'appels d'offres du gouvernement (SEAOG) <strong>et dans le bulletin Marchés publics</strong> seulement. <strong>Les projets de marchés visés par l'ACI et (ou) l'ACCMT doivent être annoncés uniquement par l'entremise du SEAOG.  Tout projet de marché visé par l'ACI et (ou) l'ACCMT ainsi que par l'ALENA ou l'AMP-OMC doit être annoncé tant par l'entremise du SEAOG que dans le bulletin Marchés publics</strong>. <strong>À l'occasion, dans des circonstances particulières, les fournisseurs éventuels pourront être avisés directement lorsqu'une occasion de marché est publiée, conformément à la procédure 7B.188.</strong></p>
-<h5>Marchés non-assujettis aux accords commerciaux</h5>
+<h6>Marchés non-assujettis aux accords commerciaux</h6>
 <p><strong>5.044 (xxxx-xx-xx)</strong> Le processus<br/>
 					que TPSGC préfère utiliser pour faire connaître un projet<br/>
 					de marché à des fournisseurs éventuels consiste à annoncer<br/>
@@ -66,8 +66,8 @@
 					autres), on peut faire connaître directement le projet de marché aux<br/>
 					fournisseurs éventuels, <strong>conformément à la procédure<br/>
 					7B.188.</strong></p>
-<h4>Chapitre 7,  Achats en régime de concurrence</h4>
-<h5>Section 7B : Publication d'une demande de soumissions</h5>
+<h5>Chapitre 7,  Achats en régime de concurrence</h5>
+<h6>Section 7B : Publication d'une demande de soumissions</h6>
 <p><strong>7B.187 (xxxx-xx-xx)</strong> Les avis électroniques<br/>
 					reçus au SEAOG (MERX) avant 17 h chaque jour seront publiés<br/>
 					sur le site du SEAOG (MERX) le jour ouvrable suivant, à condition<br/>
@@ -112,7 +112,7 @@
 <p><em><strong>Les agents de négociation des contrats doivent indiquer,<br/>
 					dans le dossier, le nom de chaque fournisseur avisé ainsi que<br/>
 					la date de l'avis.</strong></em></p>
-<h5>Annexe 7.6 : Exemples de lettres d'accompagnement</h5>
+<h6>Annexe 7.6 : Exemples de lettres d'accompagnement</h6>
 <p><strong>SUPPRIMÉE</strong></p>
 <div class="topPage"><a href="#AP-73tphp" title="Retourner au haut de la page"><br/>
 				Haut de la page</a></div>

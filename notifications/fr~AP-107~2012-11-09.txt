@@ -1,12 +1,12 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p> 
 Travaux publics et Services gouvernementaux Canada (TPSGC), par l'entremise de cet avis relatif aux politiques (AP), met à jour ses dispositions en matière d'intégrité concernant les activités d'approvisionnement et les opérations immobilières. Les nouvelles dispositions comprennent l'ajout d'une exception accordée dans l'intérêt du public et la suppression de l'exemption relative au traitement de clémence.
 </p>
-<h2>Date d’entrée en vigueur</h2>
+<h3>Date d’entrée en vigueur</h3>
 <p>En vigueur à compter de maintenant, les agents de négociation des contrats reçoivent instruction de modifier leurs documents de demande de soumissions afin de respecter cette nouvelle approche.</p>
-<h2>Contexte et changements apportés à la politique actuelle</h2>
+<h3>Contexte et changements apportés à la politique actuelle</h3>
 <p>
 		Au cours des dernières années, Travaux publics et Services gouvernementaux Canada a mis en œuvre plusieurs mesures qui confirment son engagement à faire affaire avec des entreprises et des personnes qui respectent la loi et qui font preuve d'intégrité. Pour mener à bien cette initiative et renforcer l'intégrité de son processus d'approvisionnement, d'autres étapes sont entreprises. 
 </p>
@@ -24,15 +24,15 @@ Travaux publics et Services gouvernementaux Canada (TPSGC), par l'entremise de c
 <li>préjudice économique.</li>
 </ul>
 <p>Consulter l'Annexe A - Contexte pour plus de détails.</p>
-<h2>Modifications au Guide des approvisionnements et au Guide des clauses et conditions uniformisées d'achat (CCUA)</h2>
+<h3>Modifications au Guide des approvisionnements et au Guide des clauses et conditions uniformisées d'achat (CCUA)</h3>
 <p>Le Guide des approvisionnements sera mis à jour dans un délai de deux semaines afin de refléter les changements apportés par ces nouvelles procédures.</p>
 <p>Les nouvelles <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2003">instructions uniformisées 2003</a> sont présentement disponibles à titre d'exemple. Les autres instructions uniformisées et conditions générales comportant des dispositions relatives au Code de conduite seront révisées d'ici une semaine. </p>
 <p>Voir ci-dessous la liste complète des clauses du Guide des clauses et conditions uniformisées d'achat (CCUA) qui seront modifiées.</p>
-<h2>Ressources</h2>
+<h3>Ressources</h3>
 <p>Les demandes concernant ce processus peuvent être envoyées à la Direction du processus et de la politique des approvisionnements à l'adresse :
 <a href="mailto:RevisedCodeConduct.RevisionCodeConduite@pwgsc-tpsgc.gc.ca" rel="external">RevisedCodeConduct.RevisionCodeConduite@pwgsc-tpsgc.gc.ca</a>. 
 </p>
-<h2>Annexe A - Contexte : Mise à jour des dispositions en matière d'intégrité relatives aux activités d'approvisionnement et aux transactions immobilières, Mesures initiales</h2>
+<h3>Annexe A - Contexte : Mise à jour des dispositions en matière d'intégrité relatives aux activités d'approvisionnement et aux transactions immobilières, Mesures initiales</h3>
 <p>
 		En novembre 2007, dans le cadre de la <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/F-5.5/index.html" rel="external">Loi fédérale sur la responsabilité</a></cite> et du plan d’action connexe, Travaux publics et Services gouvernementaux Canada (TPSGC) a ajouté un <cite><a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/cndt-cndct/contexte-context-fra.html" rel="external">Code de conduite pour l'approvisionnement</a></cite> dans ses documents de demandes de soumissions. Ce code résume les lois et les politiques actuelles sans imposer de nouvelles obligations aux fournisseurs ou aux fonctionnaires.
 </p>
@@ -43,7 +43,7 @@ Travaux publics et Services gouvernementaux Canada (TPSGC), par l'entremise de c
 <li>les fraudes en vertu de la <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/f-11/" rel="external">Loi sur la gestion des finances publiques</a></cite>; </li>
 <li>le paiement d'honoraires conditionnels à une personne visée par la <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/L-12.4/" rel="external">Loi sur le lobbying</a></cite>. </li>
 </ul>
-<h3>Prendre appui sur les dispositions en matière d’intégrité</h3>
+<h4>Prendre appui sur les dispositions en matière d’intégrité</h4>
 <p>En octobre 2010, <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> a ajouté les infractions suivantes à ses dispositions :</p>
 <ul>
 <li>la corruption, la collusion, le truquage des soumissions ou toute autre activité anticoncurrentielle.</li>
@@ -54,7 +54,7 @@ Travaux publics et Services gouvernementaux Canada (TPSGC), par l'entremise de c
 <li>les situations dans lesquelles les droits de la personne ou de l’entreprise visée ont été rétablis par le gouverneur en conseil;</li>
 <li>les situations dans lesquelles l’entreprise ou la personne visée bénéficie d’un traitement de clémence.</li>
 </ol>
-<h3>Renforcement de la responsabilité et de l’intégrité </h3>
+<h4>Renforcement de la responsabilité et de l’intégrité </h4>
 <p>
 		Comme l’a annoncé la ministre Rona Ambrose, depuis juillet 2012, <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> a ajouté les actes suivants à liste des infractions qui empêchent les entreprises et les personnes jugées coupables de ces infractions de soumissionner des contrats :
 </p>
@@ -76,11 +76,11 @@ Travaux publics et Services gouvernementaux Canada (TPSGC), par l'entremise de c
 <li>les situations dans lesquelles les droits de la personne ou de l’entreprise visée ont été rétablis par le gouverneur en conseil; </li>
 <li>les situations dans lesquelles l’entreprise ou la personne visée bénéficie d’un traitement de clémence.</li>
 </ol>
-<h3>Amélioration des dispositions en matière d’intégrité </h3>
+<h4>Amélioration des dispositions en matière d’intégrité </h4>
 <p>
 <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> s’est employé à préciser ses mesures pour renforcer l’intégrité des processus d’approvisionnement et des opérations immobilières, mesures qui sont en vigueur dès maintenant. 
 </p>
-<h4>Suppression de l’exemption relative au traitement de clémence</h4>
+<h5>Suppression de l’exemption relative au traitement de clémence</h5>
 <p>
 <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> supprime l’exemption portant sur le traitement de clémence. À compter de maintenant, le Ministère refusera toute soumission provenant d’une entreprise reconnue coupable d’une infraction figurant dans les dispositions de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>, à moins qu’elle ait reçu un pardon ou que les droits de la personne ou de l’entreprise visée aient été rétablis par le gouverneur en conseil, et il ne conclura pas de contrat et n’effectuera aucune transaction immobilière avec cette entreprise.
 </p>
@@ -92,7 +92,7 @@ Travaux publics et Services gouvernementaux Canada (TPSGC), par l'entremise de c
 <li>Quant aux futurs contrats, toute soumission envoyée ou toute transaction immobilière effectuée par une entreprise visée par un programme de clémence sera jugée non recevable et ne sera donc pas acceptée.</li>
 <li>Les offres à commandes et les arrangements en matière d'approvisionnement actuels seront systématiquement modifiés pour inclure la nouvelle disposition dès que possible.</li>
 </ol>
-<h4>Protection de l’intérêt du public</h4>
+<h5>Protection de l’intérêt du public</h5>
 <p>
 		Une exception sera ajoutée aux dispositions en matière d’intégrité et sera accordée dans les circonstances où il s’avère nécessaire, dans l’intérêt du public, de conclure un contrat ou d’effectuer une transaction immobilière avec une entreprise ou une personne reconnue coupable d’une infraction figurant dans les dispositions de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>.
 </p>
@@ -102,7 +102,7 @@ Travaux publics et Services gouvernementaux Canada (TPSGC), par l'entremise de c
 <p>
 		Ce genre d’exception visant à protéger l’intérêt du public sera accordé au cas par cas. Dans de telles situations, <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> appliquera des mesures de contrôle, d’administration et de surveillance rigoureuses additionnelles à l’égard de la transaction immobilière ou du contrat concerné.
 </p>
-<h3>Réduction du fardeau administratif</h3>
+<h4>Réduction du fardeau administratif</h4>
 <p>
 		Le Ministère a également simplifié le processus de vérification, qui fait partie des exigences en matière d’intégrité que doivent respecter les soumissionnaires et les proposants dans le cadre des transactions immobilières. Ces exigences visent à :
 </p>
@@ -113,11 +113,11 @@ Travaux publics et Services gouvernementaux Canada (TPSGC), par l'entremise de c
 <p>
 <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> validera ces renseignements. Toutefois, un formulaire de consentement à la vérification de l’existence d’un casier judiciaire ne sera exigé que lorsque des contrôles additionnels doivent être effectués avant l’attribution d’un contrat. Si <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> exige ce formulaire, celui ci sera conservé pendant deux ans.
 </p>
-<h3>Conclusion</h3>
+<h4>Conclusion</h4>
 <p>
 <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> s’est engagé à suivre un programme de surveillance continue de ses activités d’approvisionnement et de ses transactions immobilières afin d’assurer les plus hautes normes d’intégrité, de protéger l’intérêt des contribuables et de garantir un comportement éthique. Dans le cadre de ce programme, des mesures supplémentaires pourraient être adoptées, au besoin. 
 </p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Sections du Guide des approvisionnements visées</h3>
+<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-c0fd3fb43ce4d2adcf4974e8a30c61fb">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -137,7 +137,7 @@ Travaux publics et Services gouvernementaux Canada (TPSGC), par l'entremise de c
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h3>
+<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-5c58407c02eaeaf25fb47dacad3e0257">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

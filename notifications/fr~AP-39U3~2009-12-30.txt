@@ -1,22 +1,22 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p>L'avis relatif aux politiques (<abbr title="Avis relatif aux politiques">AP</abbr>)-39U3 consiste à mettre à jour les instructions à l'intention des agents de négociation des contrats concernant les préavis d'adjudication de contrats (PAC).</p>
-<h2>Contexte</h2>
+<h3>Contexte</h3>
 <p>Ces changements sont le résultat de l'examen des pratiques d'approvisionnement du gouvernement effectué par le Bureau de l'ombudsman de l'approvisionnement (<abbr title="Bureau de l'ombudsman de l'approvisionnement">BOA</abbr>). Le <abbr title="Bureau de l'ombudsman de l'approvisionnement">BOA</abbr> est une organisation indépendante à vocation horizontale définie dans la <em>Loi sur le ministère des Travaux publics et des Services gouvernementaux.</em> De par son mandat, le <abbr title="Bureau de l'ombudsman de l'approvisionnement">BOA</abbr> examine les pratiques d'approvisionnement des biens et services pour en évaluer l'équité, l'ouverture et la transparence et présenter des recommandations appropriées pour les améliorer. Cet examen a permis de formuler des recommandations sur la façon d'améliorer le processus relatif aux <abbr title="Préavis d'adjudication de contrats">PAC</abbr> fondé sur la rétroaction reçue des fournisseurs et de la communauté de l'approvisionnement.</p>
-<h2>Date d'entrée en vigueur</h2>
+<h3>Date d'entrée en vigueur</h3>
 <p>Cet <abbr title="Avis relatif aux politiques">AP</abbr> entre en vigueur dès maintenant.</p>
-<h2>Politique actuelle</h2>
+<h3>Politique actuelle</h3>
 <p>Le <abbr title="Préavis d'adjudication de contrats">PAC</abbr> est un avis public destiné aux fournisseurs pour leur faire part de l'intention d'un ministère ou d'un organisme d'attribuer à un fournisseur sélectionné à l'avance un contrat pour un bien, un service ou des travaux de construction, ce qui permet aux autres fournisseurs de signaler leur intérêt à soumissionner en présentant un énoncé des capacités. Si aucun autre fournisseur ne présente d'énoncé des capacités qui satisfait aux exigences établies dans le <abbr title="Préavis d'adjudication de contrats">PAC</abbr> au plus tard à la date indiquée dans le <abbr title="Préavis d'adjudication de contrats">PAC</abbr>, l'agent de négociation des contrats peut alors procéder à l'attribution du contrat.</p>
 <p>Un <abbr title="Préavis d'adjudication de contrats">PAC</abbr> peut être publié uniquement pour un besoin à l'égard duquel le Canada est en mesure d'accepter un énoncé des capacités d'un autre fournisseur. Les agents de négociation des contrats doivent s'assurer que le Canada est en mesure d'accepter un énoncé des capacités avant de publier un <abbr title="Préavis d'adjudication de contrats">PAC</abbr>. Lorsqu'il n'y a aucune possibilité qu'un autre fournisseur présente un énoncé des capacités ou que le Canada ne peut, pour des considérations liées aux programmes ou aux politiques, accepter un énoncé des capacités d'un autre fournisseur, on ne doit pas publier de <abbr title="Préavis d'adjudication de contrats">PAC</abbr>. Les <abbr title="Préavis d'adjudication de contrats">PAC</abbr> sont affichés pendant au moins 15 jours civils sur le Service électronique d'appels d'offres du gouvernement (SEAOG).</p>
-<h2>Modifications à la politique actuelle</h2>
+<h3>Modifications à la politique actuelle</h3>
 <p>Conformément aux recommandations du <abbr title="Bureau de l'ombudsman de l'approvisionnement">BOA</abbr>, la politique sur les <abbr title="Préavis d'adjudication de contrats">PAC</abbr> a été modifiée afin de souligner la nécessité de faire preuve de diligence raisonnable dans la documentation de toutes les phases du processus relatif aux <abbr title="Préavis d'adjudication de contrats">PAC</abbr>. De plus, bien que la période d'affichage minimale soit actuellement fixée à 15 jours, la communauté de l'approvisionnement a pour instruction de déterminer les périodes d'affichage individuelles en fonction de la complexité de chaque besoin. Enfin, s'il est vrai que la pratique courante permette aux agents de négociation des contrats d'entamer des négociations avec des fournisseurs sélectionnés à l'avance avant la date de clôture de la période d'affichage des <abbr title="Préavis d'adjudication de contrats">PAC</abbr>, il faut toutefois éviter que ces négociations ne confèrent un avantage indu au fournisseur sélectionné à l'avance au cas où une contestation valide serait reçue avant l'attribution du contrat. Compte tenu de ce risque inhérent, il faut indiquer au fournisseur sélectionné à l'avance qu'il ne doit pas entreprendre les travaux ou engager des coûts avant l'attribution du contrat.</p>
 <p>Les changements énoncés dans le présent <abbr title="Avis relatif aux politiques">AP</abbr> seront intégrés à une version ultérieure du Guide des approvisionnements.  Consultez l'<a href="#AP-39U3a1">Annexe A</a> pour voir les détails des changements.</p>
-<h3>Personne-ressource</h3>
+<h4>Personne-ressource</h4>
 <p>Pour toute question, veuillez communiquer avec Larraine Gorman, ing., Direction de la politique et du processus d'approvisionnement, par téléphone, au 819-956-1229, ou par courriel à : <a href="mailto:larraine.gorman@tpsgc-pwgsc.gc.ca" rel="external">larraine.gorman@tpsgc-pwgsc.gc.ca</a>.</p>
-<h2 id="AP-39U3a1">Annexe A - Modifications apportées au Guide des approvisionnements</h2>
-<h3>3.15.5   Préavis d'adjudication de contrats<br/>
-            (2010-xx-xx)</h3>
+<h3 id="AP-39U3a1">Annexe A - Modifications apportées au Guide des approvisionnements</h3>
+<h4>3.15.5   Préavis d'adjudication de contrats<br/>
+            (2010-xx-xx)</h4>
 <ol type="a">
 <li>Le préavis d'adjudication de contrats (PAC) est un avis public destiné aux fournisseurs pour leur faire part de l'intention d'un ministère ou d'un organisme d'attribuer à un fournisseur sélectionné à l'avance, jugé comme étant le seul fournisseur en mesure d'exécuter les travaux, un contrat pour un bien, un service ou des travaux de construction, ce qui permet aux autres fournisseurs de signaler leur intérêt à soumissionner en présentant un énoncé des capacités. Si aucun autre fournisseur ne présente d'énoncé des capacités qui satisfait aux exigences établies dans le <abbr title="Préavis d'adjudication de contrats">PAC</abbr>, l'agent de négociation des contrats peut alors procéder à l'attribution du contrat au fournisseur sélectionné à l'avance. Il est important de noter que l'émission d'un <abbr title="Préavis d'adjudication de contrats">PAC</abbr> ne constitue pas un processus concurrentiel; toutefois, les pouvoirs d'approbation des contrats concurrentiels peuvent être utilisés si aucune contestation valide n'est reçue.</li>
 <li>Les <abbr title="Préavis d'adjudication de contrats">PAC</abbr> peuvent être publiés conformément à <a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=14494&amp;section=text" rel="external">l'article 10.7.13</a> de la Politique sur les marchés du Conseil du Trésor (CT).  Si aucun <abbr title="Préavis d'adjudication de contrats">PAC</abbr> n'est publié, les avis d'adjudication de contrats continueront d'être transparents; il importe donc qu'ils soient publiés peu de temps après l'attribution des contrats.</li>
@@ -36,14 +36,14 @@
 <li>Les <abbr title="Préavis d'adjudication de contrats">PAC</abbr> ne doivent pas être rédigés de manière à décourager la présentation d'énoncés des capacités. Par exemple, l'avis ne devrait pas indiquer : « Il ne s'agit pas d'une demande de soumissions concurrentielle », « Il s'agit d'un achat de type fournisseur unique », ni comporter quelqu'autre énoncé allant à l'encontre de la Politique sur les marchés du <abbr title="Conseil du Trésor">CT</abbr>.</li>
 <li>Le processus relatif aux <abbr title="Préavis d'adjudication de contrats">PAC</abbr>, même s'il est fait conformément à la Politique, ne constitue pas un processus concurrentiel aux fins des accords commerciaux ou en cas de plainte devant le Tribunal canadien du commerce extérieur (TCCE). Pour ce qui concerne les pouvoirs d'approbation, les <abbr title="Préavis d'adjudication de contrats">PAC</abbr> sont classés dans la catégorie « invitations électroniques à soumissionner ».</li>
 </ol>
-<h3>3.15.5.1 Délais prescrits pour les <abbr title="Préavis d'adjudication de contrats">PAC</abbr> <br/>
-            (2010-xx-xx)</h3>
+<h4>3.15.5.1 Délais prescrits pour les <abbr title="Préavis d'adjudication de contrats">PAC</abbr> <br/>
+            (2010-xx-xx)</h4>
 <ol type="a">
 <li>Bien que les PAC soient affichés pour une période minimale de 15 jours civils sur le SEAOG, l'agent de négociation des contrats devrait établir la durée de la période d'affichage en fonction des circonstances individuelles de chaque achat, y compris la complexité associée à l'achat.</li>
 <li>De plus, si par souci d'efficience et de rapidité, les agents de négociation des contrats peuvent entamer des négociations avec les fournisseurs sélectionnés à l'avance avant la date de clôture de la période d'affichage des PAC, il faut toutefois éviter que ces négociations ne confèrent un avantage indu au fournisseur sélectionné à l'avance au cas où une contestation valide serait reçue avant l'attribution du contrat. Compte tenu de ce risque inhérent, il faut indiquer au fournisseur sélectionné à l'avance qu'il ne doit pas entreprendre les travaux ou engager des coûts avant l'attribution du contrat.</li>
 </ol>
-<h3>3.15.5.5 Contenu des <abbr title="Préavis d'adjudication de contrats">PAC</abbr> <br/>
-            (2010-xx-xx)</h3>
+<h4>3.15.5.5 Contenu des <abbr title="Préavis d'adjudication de contrats">PAC</abbr> <br/>
+            (2010-xx-xx)</h4>
 <ol type="a">
 <li>Les agents de négociation des contrats sont responsables de rédiger les PAC pour affichage sur le SEAOG.</li>
 <li>Le texte de l'avis doit démontrer clairement que le projet de marchés satisfait à l'une des exceptions à la règle à la sollicitation de demandes de soumissions concurrentielles en vertu du <em>Règlement sur les marchés de l'État</em> (voir l'article 3.15 c)). Le texte doit également mentionner les raisons justifiant le recours à un appel d'offres limité qui sont invoquées pour tous les accords commerciaux applicables. Ces exceptions doivent être pleinement et clairement justifiées par écrit dans le dossier d'achat.</li>
@@ -51,8 +51,8 @@
 <li>Des renseignements supplémentaires sur le contenu de l'avis et d'autres modèles figurent dans le <a href="http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/contracting/acan_guide_f.asp" rel="external">Guide pour les gestionnaires – Pratiques exemplaires liées aux préavis d'adjudication de contrats</a> du <abbr title="Conseil du Trésor">CT</abbr>.</li>
 <li>Lorsque des renseignements supplémentaires non expressément précisés dans le <abbr title="Préavis d'adjudication de contrats">PAC</abbr> sont fournis sur le besoin, ils doivent être transmis simultanément à tous les fournisseurs intéressés. Si les renseignements fournis apportent une clarification importante aux renseignements initiaux contenus dans le <abbr title="Préavis d'adjudication de contrats">PAC</abbr>, un <abbr title="Préavis d'adjudication de contrats">PAC</abbr> modifié devrait être publié. Dans ce cas, il serait avisé de repousser la date de clôture.</li>
 </ol>
-<h3>3.15.5.10 Énoncé des capacités (processus de contestation)<br/>
-            (2010-xx-xx)</h3>
+<h4>3.15.5.10 Énoncé des capacités (processus de contestation)<br/>
+            (2010-xx-xx)</h4>
 <ol type="a">
 <li>Le processus relatif aux <abbr title="Préavis d'adjudication de contrats">PAC</abbr> offre aux fournisseurs la possibilité de présenter un énoncé des capacités portant sur les travaux précisés dans un <abbr title="Préavis d'adjudication de contrats">PAC</abbr>. </li>
 <li>Les énoncés des capacités présentés par les fournisseurs :
@@ -77,8 +77,8 @@
 <li>Si le besoin faisant l'objet d'un <abbr title="Préavis d'adjudication de contrats">PAC</abbr> est annulé, on devrait en temps opportun informer les fournisseurs ayant déjà présenté un énoncé des capacités.</li>
 <li>Les agents de négociation de contrats peuvent demander des renseignements supplémentaires aux fournisseurs ou aux tiers intéressés, au besoin, afin de s'assurer que les fournisseurs aient la capacité de satisfaire aux exigences du <abbr title="Préavis d'adjudication de contrats">PAC</abbr>.</li>
 </ol>
-<h3>3.15.5.15 Exceptions aux <abbr title="Préavis d'adjudication de contrats">PAC</abbr> <br/>
-            (2010-xx-xx)</h3>
+<h4>3.15.5.15 Exceptions aux <abbr title="Préavis d'adjudication de contrats">PAC</abbr> <br/>
+            (2010-xx-xx)</h4>
 <ol type="a">
 <li>Un <abbr title="Préavis d'adjudication de contrats">PAC</abbr> ne doit pas être publié lorsque le processus concurrentiel, qu'il soit électronique ou traditionnel, ne peut être utilisé, notamment dans les cas suivants :
                 <ol type="i">
@@ -97,8 +97,8 @@
 <li>Un <abbr title="Préavis d'adjudication de contrats">PAC</abbr> ne doit pas être publié lorsqu'un énoncé des capacités ne peut pas être accepté. Par exemple, dans les cas où les renseignements détaillés sur le marché confirment qu'un seul fournisseur a la capacité d'exécuter les travaux, le contrat devrait être attribué selon un processus non concurrentiel qui est rendu transparent grâce à la publication d'un avis d'adjudication de contrat.</li>
 <li>Dans ces cas, la justification sur laquelle repose la décision de ne pas publier un <abbr title="Préavis d'adjudication de contrats">PAC</abbr> devrait être bien documentée dans le dossier d'achat.</li>
 </ol>
-<h3>3.15.5.20 Documentation du dossier d'achat<br/>
-            (2010-xx-xx)</h3>
+<h4>3.15.5.20 Documentation du dossier d'achat<br/>
+            (2010-xx-xx)</h4>
 <p>Les agents de négociation des contrats doivent faire preuve de diligence raisonnable dans la documentation du dossier d'achat des mesures prises au cours des phases du processus relatif aux <abbr title="Préavis d'adjudication de contrats">PAC</abbr>. Cela comprend, à tout le moins, de documenter les justifications, raisons et étapes connexes suivantes :</p>
 <ol type="a">
 <li>la justification du recours à un fournisseur unique (voir l'article 3.15.1)</li>

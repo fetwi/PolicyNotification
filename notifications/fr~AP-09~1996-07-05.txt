@@ -2,13 +2,13 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 5 juillet 1996</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 5 juillet 1996</h3>
 <p>La distribution, à la haute direction, des formulaires<br/>
 					de PACP, des plans d'achat et des états sommaires des contrats<br/>
 					pour des marchés dont la valeur est supérieur à 1 million de dollars est une condition prévue par le Ministre<br/>
@@ -21,7 +21,7 @@
 					d'achat et les états sommaires des contrats dont la valeur<br/>
 					est supérieure à 1 million de dollars aux personnes<br/>
 					suivantes :</p>
-<h3>Plans d'achat et états sommaires des contrats :</h3>
+<h4>Plans d'achat et états sommaires des contrats :</h4>
 <p>Alan Williams, (SMA, DGSA)<br/>
 					Mary-Lou Devine, (SMA, DGSA)<br/>
 					Catherine McCarthy, (SMA, DGSA)<br/>
@@ -30,7 +30,7 @@
 					Steven Turner, (Vérification et examen)<br/>
 					Gian Brown, (Vérification et examen)<br/>
 					Directeur général régional / de secteur</p>
-<h3>PACP :</h3>
+<h4>PACP :</h4>
 <p>Alan Williams, (SMA, DGSA)<br/>
 					Mary-Lou Devine, (SMA, DGSA)<br/>
 					Catherine McCarthy, (SMA, DGSA)<br/>
@@ -59,12 +59,12 @@
 <p>Les formulaires de PAPC doivent être présentés à nouveau<br/>
 					lorsqu'un changement important a été apporté au<br/>
 					plan initial approuvé.</p>
-<h3>Document de référence :</h3>
+<h4>Document de référence :</h4>
 <p>Guide des approvisionnements :<br/>
 				Processus de planification et d'approbation préalable des<br/>
 					contrats - 6.655 - 6.658<br/>
 					Processus relatif au plan d'achat formel - 6.662 - 6.668 </p>
-<h2>Annexe 6.1 (e)</h2>
+<h3>Annexe 6.1 (e)</h3>
 <table class="basic" summary="Annexe 6.1 (e)">
 <caption>
 					Travaux Publics et Services Gouvernementaux Canada Services Juridiques Place du Portage</caption>

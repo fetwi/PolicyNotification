@@ -2,21 +2,21 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 19 mars 2007</h2>
-<h3>Introduction</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 19 mars 2007</h3>
+<h4>Introduction</h4>
 <p>Cet avis relatif aux politiques comprend :  (1) le modèle de demande de soumissions et de contrat subséquent pour les besoins concurrentiels ou non concurrentiels plus complexes pour l'approvisionnement de biens, de services ou les deux (à l'exclusion des travaux de construction et des services d'architecture et de génie); (2) les modifications apportées aux procédures 2T-PROC1 pour les besoins de faible valeur, de complexité moyenne et plus complexes, et (3) les modifications apportées aux instructions uniformisées et aux conditions générales.</p>
-<h3>Politique</h3>
+<h4>Politique</h4>
 <p>À partir du 25 mai 2007, les agents de négociation des contrats de Travaux publics et Services gouvernementaux Canada (TPSGC) doivent utiliser les documents uniformisés d'approvisionnement ministériels en langage clair pour l'approvisionnement de besoins concurrentiels ou non concurrentiels plus complexes pour les biens, les services ou les deux (à l'exclusion des travaux de construction et des services d'architecture et de génie).</p>
 <p>Les agents de négociation des contrats de TPSGC doivent utiliser le modèle de demande de soumissions et de contrat subséquent pour les besoins plus complexes selon les paramètres décrits dans les procédures pour l'utilisation des modèles uniformisés d'approvisionnement.</p>
 <p>Afin d'assurer l'uniformité de la présentation des documents d'achat de TPSGC, les agents de négociation des contrats ne doivent ni modifier, ni changer l'ordre ou le contenu de ce modèle uniformisé, sauf lorsque cela est indiqué.</p>
 <p>Le tableau ci-dessous comprend une liste détaillée des nouveaux documents ou des documents modifiés qui s'appliquent au modèle pour les besoins plus complexes.</p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>Sous l'initiative visant le langage clair, le plan d'affaires de la Direction générale des approvisionnements identifie l'élaboration de documents uniformisés d'approvisionnement ministériels comme une priorité essentielle du Ministère. Cette initiative vise à uniformiser la terminologie sur l'approvisionnement, à simplifier le langage et à assurer l'uniformité et la cohésion dans les documents d'approvisionnements (p. ex., la présentation uniforme).</p>
 <p>Des modèles pour les besoins concurrentiels ou non concurrentiels de faible valeur, de complexité moyenne et les offres à commandes ont été élaborés pour l'approvisionnement de biens, de services ou les deux.</p>
 <table class="basic">
@@ -73,23 +73,23 @@
 <td> </td>
 </tr>
 </tbody></table>
-<h3>Mise en œuvre</h3>
+<h4>Mise en œuvre</h4>
 <p>Les changements apportés au <em>Guide des approvisionnements</em> et au guide des <em>Clauses et conditions uniformisées d'achat</em> (CCUA) sont reproduits à l'<a href="#AP-83nxa">annexe A</a> et l'<a href="#AP-83nxb">annexe B</a> respectivement.</p>
 <p>La prochaine version du guide des CCUA, prévue pour le 25 mai 2007, tiendra compte de ces changements.</p>
 <p>Les instructions et conditions uniformisées 9403 et 9403-5 seront annulées le 25 mai 2007.</p>
 <p>Le site Web Documents uniformisés d'approvisionnement ministériels a été établi. Le but de ce site consiste à fournir des conseils pour l'utilisation et l'application des documents uniformisées d'approvisionnement ministériels. Ce site comprend les modèles uniformisés d'approvisionnement pour les besoins de faible valeur, de complexité moyenne, plus complexes ainsi que le modèle de demande d'offres à commandes. Ces modèles sont disponibles dans divers formats, tel que format PDF, Word Pro, MS Word, et Word Perfect. Des exemples de demandes de soumissions et de contrats pour les besoins de faible valeur et de complexité moyenne sont également disponibles sur ce site.</p>
-<h3>Prochaines étapes </h3>
+<h4>Prochaines étapes </h4>
 <p>Le Groupe de travail sur le langage clair : (1) poursuivra l'élaboration de nouvelles conditions générales et de nouvelles conditions générales supplémentaires; (2) poursuivra l'examen des clauses du guide des CCUA; (3)mettra en place un programme de formation afin que les agents de négociation des contrats puissent se familiariser avec les modèles d'approvisionnement, et (4) élaborera un modèle uniformisé d'approvisionnement pour les arrangements en matière d'approvisionnement.</p>
 <p>La Division des outils relatifs au processus d'approvisionnement est responsable de la mise à jour de tous les documents uniformisés d'approvisionnement dans le cadre de cette initiative visant le langage clair. Tous les changements qui seront apportés à ces documents seront publiés dans les prochaines mises à jour du guide des CCUA et sur le site Web Documents uniformisés d'approvisionnement ministériels.</p>
-<h3>Pour de plus amples renseignements</h3>
+<h4>Pour de plus amples renseignements</h4>
 <p>Veuillez communiquer avec <a href="mailto:gaetane.dagenais@tpsgc-pwgsc.gc.ca" rel="external">gaetane.dagenais@tpsgc-pwgsc.gc.ca</a>, <a href="mailto:ginette.plante@tpsgc-pwgsc.gc.ca" rel="external">ginette.plante@tpsgc-pwgsc.gc.ca</a> ou <a href="mailto:anne.villeneuve@tpsgc-pwgsc.gc.ca" rel="external">anne.villeneuve@tpsgc-pwgsc.gc.ca</a>, Division des outils relatifs au processus d'approvisionnement.</p>
 <div class="topPage"><a href="#AP-83tphp" title="Retourner au haut de la page"><br/>
 				Haut de la page</a></div>
-<h2>Pièces jointes :</h2>
+<h3>Pièces jointes :</h3>
 <p> <a id="AP-83nxa"></a></p>
-<h3>Annexe A - Changements apportés au Guide des approvisionnements</h3>
-<h4>Documents uniformisés d'approvisionnement ministériels</h4>
-<h5>6E.643</h5>
+<h4>Annexe A - Changements apportés au Guide des approvisionnements</h4>
+<h5>Documents uniformisés d'approvisionnement ministériels</h5>
+<h6>6E.643</h6>
 <p>(XXXX-XX-XX) Travaux publics et Services gouvernementaux Canada (TPSGC) vise à uniformiser la terminologie des approvisionnements, simplifier le langage et à assurer l'uniformité et la cohésion dans les documents d'approvisionnement (p. ex., la présentation uniforme).</p>
 <p>TPSGC a mis en place les documents uniformisés d'approvisionnement ministériels qui comprennent les instructions uniformisées, les conditions générales et les modèles de demande de soumissions et de demande d'offres à commandes, à l'intention de ses agents de négociation des contrats pour l'approvisionnement de biens, de services ou les deux (à l'exclusion des travaux de construction et des services d'architecture et de génie).</p>
 <p>Les agents de négociation des contrats de TPSGC doivent utiliser les modèles de demande de soumissions et de contrat subséquent pour les besoins concurrentiels et non concurrentiels de faible valeur (2T-LDV1), de complexité moyenne (2T-MED1) et plus complexes (2T-HIGH1), et le modèle de demande d'offres à commandes (2T-RFSO1), pour l'approvisionnement de biens, de services ou les deux selon les paramètres décrits dans les procédures pour l'utilisation des modèles uniformisées d'approvisionnement.  Afin de maintenir l'uniformité de la présentation des documents d'approvisionnement de TPSGC, les agents de négociation des contrats ne doivent ni modifier, ni changer l'ordre ou le contenu de ces modèles uniformisés, sauf lorsque cela est indiqué.</p>
@@ -97,7 +97,7 @@
 <div class="topPage"><a href="#AP-83tphp" title="Retourner au haut de la page"><br/>
 				Haut de la page</a></div>
 <p> <a id="AP-83nxb"></a></p>
-<h3>Annexe B </h3>
+<h4>Annexe B </h4>
 <dl>
 <dt><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap83-p1-nxb-pn83-p1-nxb-fra.html">Appendice 1</a> :</dt>
 <dd>2T-PROC1, Procédures pour l'utilisation des modèles uniformisés d'approvisionnement ministériels </dd>

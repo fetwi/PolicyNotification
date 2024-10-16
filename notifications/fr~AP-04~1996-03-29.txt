@@ -2,20 +2,20 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 29 mars 1996</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 29 mars 1996</h3>
 <p>La politique de paiement à la date d'échéance (PADE) du Conseil du Trésor a été révisée le 1<sup>er</sup> avril 1996. L'intérêt sur les comptes en souffrance sera le taux d'escompte moyen de la Banque du Canada du mois précédent, majoré de 3 %. De plus, la période de grâce de 15 jours permettant une exonération de l'intérêt sera supprimée. Lorsque le paiement sera effectué après le 45<sup>e</sup> jour, les entrepreneurs recevront automatiquement de l'intérêt. Toutefois, le système de PADE ne peut calculer l'intérêt dû lorsque le paiement est fait après le 30<sup>e</sup> jour mais avant le 45<sup>e</sup> jour. Il n'est pas prévu que des modifications soient apportées au système avant plusieurs années. Donc, les entrepreneurs doivent réclamer le paiement des intérêts selon chaque cas lorsque le paiement a été effectué entre les 30<sup>e </sup>et 45<sup>e</sup> jours.</p>
 <p>Afin de traduire le changement apporté à la PADE le 1<sup>er</sup> avril 1996, les clauses qui suivent doivent être utilisées dans tous les contrats sauf ceux qui utilisent les instructions et conditions uniformisées pour la passation de marchés des services de l'immobilier. Les clauses devant être utilisées dans les instructions et conditions uniformisées pour la passation de marchés des services de l'immobilier vous seront communiquées ultérieurement.</p>
 <p>Pour toutes les invitations à soumissionner lancées, toutes les offres à commandes émises et tous les contrats attribués après le 1<sup>er</sup> avril 1996, veuillez utiliser la clause ci-dessous (Annexe A), intitulée « Intérêt sur les comptes en souffrance ».</p>
 <p>Tout contrat modifié pour d'autres raisons ou renouvelé le ou après le 1<sup>er</sup> avril 1996, doit être modifié pour y inclure la clause ci-dessous, intitulée « Intérêt sur les comptes en souffrance - Modification » (Annexe B).</p>
 <p>Pour toute situation qui requiert actuellement l'utilisation de la clause H0002D, utiliser la clause pertinente ci-dessous en y changeant le terme « entrepreneur » à « transporteur ».</p>
-<h2>Annexe A</h2>
-<h3>H0001D (30/10/96) Intérêt sur les comptes en souffrance</h3>
+<h3>Annexe A</h3>
+<h4>H0001D (30/10/96) Intérêt sur les comptes en souffrance</h4>
 <p>1. Où il s'applique, modifier les conditions générales en abrogeant l'article intitulé « Intérêt sur les comptes en souffrance », « Paiement », selon la version incorporée au contrat.</p>
 <p>2. Les définitions suivantes s'appliquent au présent article :</p>
 <ol type="a">
@@ -27,8 +27,8 @@
 <p>3. Le Canada verse à l'entrepreneur des intérêts simples, au taux moyen majoré de 3 p. 100 par année, sur toute somme en souffrance, à partir du premier jour où la somme est en souffrance jusqu'au jour qui précède la date de paiement. L'intérêt est payable sans avis de l'entrepreneur pour une somme en souffrance pour plus de quinze jours. Un intérêt est payé pour une somme en souffrance pour moins de quinze jours si l'entrepreneur en fait la demande.</p>
 <p>4. Le Canada ne verse pas d'intérêts en application du présent article lorsqu'il n'est pas responsable du retard à payer l'entrepreneur.</p>
 <p>5. Le Canada ne verse pas d'intérêts sur les paiements anticipés qui sont en souffrance.</p>
-<h2>Annexe B</h2>
-<h3>Intérêt sur les comptes en souffrance - Modification</h3>
+<h3>Annexe B</h3>
+<h4>Intérêt sur les comptes en souffrance - Modification</h4>
 <p>1. Cette clause s'applique aux sommes payées après le 31 mars 1996.</p>
 <p>2. Les définitions suivantes s'appliquent au présent article :</p>
 <ol type="a">

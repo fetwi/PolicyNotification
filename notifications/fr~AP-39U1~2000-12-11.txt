@@ -2,13 +2,13 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 11 décembre 2000</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 11 décembre 2000</h3>
 <p>Suite à l'AP-39U en date du 13 mars 2000, la révision de la politique sur les PAC menée par le Secrétariat du Conseil du Trésor a été accomplie et une politique modifiée, intitulée <em>Guide pour les gestionnaires : Pratiques examplairesexemplaires liées aux préavis d'Adjudication de contrat (PAC),</em> a été approuvée par les ministres du CT le 5 octobre 2000. Notre politique sur les PAC a donc été révisée en conséquence.</p>
 <p>Les points saillants sont les suivants :</p>
 <ul>
@@ -19,18 +19,18 @@
 <li>Le rejet des contestations, que l'on appellera dorénavant Énoncés de capacités, devra être examiné et approuvé à un niveau supérieur à celui de l'autorité d'approbation originale, c.à.-d le niveau d'approbation du plan d'approvisionnement en source unique, jusqu'au niveau du SMA.</li>
 </ul>
 <p>La politique révisée, jointe en annexe, sera incorporée au Guide des approvisionnements lors du prochain modificatif.</p>
-<h3>CHAPITRE 8 - POLITIQUE SUR LES PRÉAVIS D'ADJUDICATION DE CONTRAT (PAC)</h3>
-<h4>Préavis d'adjudication de contrat (PAC)</h4>
+<h4>CHAPITRE 8 - POLITIQUE SUR LES PRÉAVIS D'ADJUDICATION DE CONTRAT (PAC)</h4>
+<h5>Préavis d'adjudication de contrat (PAC)</h5>
 <p>8.001 (xx/xx/xx) Un préavis d'adjudication de contrat (PAC) permet aux ministères et aux organismes de publier un avis, pendant une période d'au moins quinze (15) jours civils, pour informer la collectivité des fournisseurs de leur intention de passer un marché pour un bien, un service ou des travaux de construction à un fournisseur sélectionné d'avance. Si, pendant la période d'affichage, aucun fournisseur ne présente un Énoncé de capacités répondant aux exigences précisées dans le PAC, les exigences de la politique du gouvernement en matière de régime concurrentiel auront été respectées. Une fois les fournisseurs informés que leur Énoncé de capacités n'a pas démontrer qu'ils satisfont aux exigences précisées dans le PAC, le marché peut être octroyé selon les pouvoirs d'approbation des invitations électroniques.</p>
 <p>8.002 (xx/xx/xx) Si, pendant la période d'affichage, d'autres fournisseurs éventuels présentent un Énoncé de capacités répondant aux exigences précisées dans le PAC (énoncé jugé acceptable), le ministère ou l'organisme devra entamer le processus complet d'appel d'offres (électronique ou traditionnel).</p>
 <p><em>Les PAC sont publiés dans le but : a) de rendre les marchés publics plus transparents; b) de poursuivre l'objectif du gouvernement qui est de favoriser la concurrence; c) de donner aux fournisseurs éventuels l'occasion de présenter un </em>énoncé des capacités<em> portant sur un marché prescrit s'ils estiment avoir la capacité de fournir les produits, les services de construction ou les autres services requis; et, d) répondre aux besoins du gouvernement et des fournisseurs en ce qui a trait è un système d'approvisionnement efficace et rentable pour le gouvernement.</em></p>
 <p><em>(Les énoncés ci-haut sont basés sur le Guide pour les gestionnaires - Utilisation des PAC du SCT)</em></p>
-<h4>Exigences de la politique</h4>
+<h5>Exigences de la politique</h5>
 <p>8.005 (xx/xx/xx) Il est nécessaire de publier un PAC pour tous les projets de marchés de produits ou de services d'une valeur estimative de 25 000 $ et plus, pour tous les projets de marchés de construction d'une valeur estimative de 60 000 $ et plus, et les services d'architecture et de génie d'une valeur estimative au seuil de l'ALENA et plus, ainsi que pour les projets de marchés visés par les accords commerciaux, sous réserve des exclusions précisées aux paragraphes <a href="#AP-39U1no8010">8.010</a> à <a href="#AP-39U1no8012">8.012</a> ci-dessous. Les PAC doivent être publiés par l'entremise du Service électronique d'appels d'offres du gouvernement (SEAOG); pour les marchés assujettis à l'ALENA et/ou à l'AMP-OMC, il est aussi nécessaire de publier un PAC (simultanément) dans le bulletin <em>Marchés publics</em>.</p>
 <p>8.006 (xx/xx/xx) Il n'est pas nécessaire de publier un PAC lorsque des modifications sont apportées aux contrats.</p>
 <p>8.007 (xx/xx/xx) Les PAC doivent démontrer clairement que le projet de marché correspond à l'une des exceptions à la règle du lancement d'appels d'offres en régime de concurrence en vertu du Règlement sur les marchés de l'État (voir 5.001) et à l'une des raisons justifiant le recours à l'appel d'offres restreint, ou exceptions précisées dans les accords commerciaux visés (voir 5.031 à 5.038). Ces exceptions doivent être pleinement et clairement justifiées par écrit dans le dossier contractuel.</p>
 <p>8.008 (xx/xx/xx) Les PAC ne doivent pas servir à se soustraire au processus concurrentiel ou être formulées de façon à dissuader les fournisseurs de présenter un énoncé de capacités. (Par exemple, il ne faut pas écrire « cette demande n'est pas concurrentielle » ou faire toute déclaration en ce sens.)</p>
-<h3>EXCEPTIONS</h3>
+<h4>EXCEPTIONS</h4>
 <p id="AP-39U1no8010">8.010 (xx/xx/xx) Un PAC ne doit pas être publié lorsqu'un appel d'offres concurrentiel lancé par voie électronique ou traditionnelle ne peut être utilisé, notamment dans les cas suivants :</p>
 <ol type="a">
 <li>commandes de confirmation;</li>
@@ -55,17 +55,17 @@
 <p><strong>Marchés annoncés publiquement</strong>(processus d'affichage)</p>
 <p>8.015 (xx/xx/xx) Les agents de négociation des contrats sont responsables de rédiger les PAC pour diffusion par l'entremise du SEAOG et, le cas échéant, dans le bulletin <em>Marchés publics</em>. Avant de transmettre un PAC par l'entremise du SEAOG, l'agent de négociation des contrats doit avoir tous les documents justificatifs pertinents à sa disposition. Une copie de l'appel d'offres proposé peut servir de document justificatif.</p>
 <p>Un exemple de PAC est présenté à l'annexe 8.1.</p>
-<h3>DÉLAIS</h3>
+<h4>DÉLAIS</h4>
 <p>8.017 (xx/xx/xx) Les PAC doivent être affichés pendant au moins quinze (15) jours civils par l'entremise du SEAOG. Lorsqu'un PAC est assujetti à l'Accord de libre-échange nord-américain (ALENA) ou à l'Organisation mondiale du commerce - Accord relatif aux marchés publics (OMC-AMP), les quinze (15) jours civils doivent commencer à la date où le PAC est publié dans le bulletin <em>Marchés publics</em>. En ce qui concerne les marchés assujettis à l'Accord sur le commerce intérieur (ACI), la période de publication commence en même temps que la publication du PAC par l'entremise du SEAOG. (Voir 7B.183)</p>
 <p>Si aucune contestation n'est présentée durant cette période de quinze (15) jours civils, l'agent de négociation des contrats peut alors procéder à l'attribution du marché.</p>
 <p><em>Malgré ce qui précède, les Énoncés de capacités reçus après la date indiquée, mais avant l'attribution du contrat, doivent être considérés par l'agent des contrats avant de procéder à l'attribution. Agir autrement contreviendrait au RMÉ.</em></p>
-<h3>ÉNONCÉS DE CAPACITÉS (Contestations)</h3>
+<h4>ÉNONCÉS DE CAPACITÉS (Contestations)</h4>
 <p>8.020 (xx/xx/xx) Les Énoncés de capacités présentés par les fournisseurs doivent :</p>
 <ol type="a">
 <li>être présentés par écrit dans les délais précisés dans le PAC (dans les quinze jours civils suivant la date à laquelle le PAC est publié);</li>
 <li>comprendre les documents démontrant que la partie intéressée possède les exigences énoncées dans le préavis.</li>
 </ol>
-<h4>Examen de l'Énoncé des capacités par l'agent de négociation des contrats</h4>
+<h5>Examen de l'Énoncé des capacités par l'agent de négociation des contrats</h5>
 <p id="AP-39U1no8021">8.021 (xx/xx/xx) Lorsqu'un Énoncé de capacités est reçu :</p>
 <ol type="a">
 <li>un examen juste de tous les Énoncés de capacités doit être fait;</li>
@@ -76,7 +76,7 @@
 <li>toutes les décisions prises à l'égard des énoncés de capacités et les changements dans la démarche d'acquisition qui en découlent doivent être bien documentés;</li>
 <li>tout retrait ou annulation par un fournisseur de son Énoncé de capacités doit être bien documenté au dossier, et devrait être confirmé par écrit par le fournisseur.</li>
 </ol>
-<h4>Énoncés de capacités jugés non acceptables</h4>
+<h5>Énoncés de capacités jugés non acceptables</h5>
 <p>8.022 (xx/xx/xx) En ce qui concerne les Énoncés de capacités qui ne sont pas acceptables suivant la procédure <a href="#AP-39U1no8021">8.021</a> :</p>
 <ol type="a">
 <li>il faut informer les fournisseurs par écrit de la décision de rejeter leur Énoncé des capacités avant l'attribution d'un contrat;</li>
@@ -84,15 +84,15 @@
 <li>il faut offrir des séances d'information à ces fournisseurs.</li>
 </ol>
 <p>8.023 (xx/xx/xx) Si le besoin faisant l'objet d'un PAC est annulé, il faut en informer les fournisseurs ayant déjà présenté un Énoncé des capacités.</p>
-<h3>POUVOIRS D'APPROBATION</h3>
+<h4>POUVOIRS D'APPROBATION</h4>
 <p>8.026 (xx/xx/xx) Pour ce qui concerne les pouvoirs d'approbation, les PAC sont classés dans la catégorie «invitations électroniques ».</p>
 <p>Les niveaux d'approbation des invitations électroniques s'appliquent lorsqu'un PAC a été publié et qu'aucun Énoncé de capacités acceptable n'a été présenté. (Voir l'annexe 6.1.1.)</p>
-<h3>Avis d'adjudication</h3>
+<h4>Avis d'adjudication</h4>
 <p>8.030 (xx/xx/xx) Les avis d'adjudication pour tous les achats publiés par l'entremise du SEAOG dans le cadre du processus de PAC sont produits automatiquement par l'entremise de l'environnement automatisé de l'acheteur (EAA) une fois que l'agent de négociation des contrats a émis le résumé d'approvisionnement avec la feuille de codage électronique. (Voir 7F.717 et 7F.718.)</p>
 <p>8.031 (xx/xx/xx) Dans le cas des achats non publiés par l'entremise du SEAOG dans le cadre du processus de PAC, et plus particulièrement dans le cas des achats assujettis aux accords commerciaux pour lesquels l'avis d'adjudication est obligatoire, celui-ci devra être produit manuellement par l'agent de négociation des contrats.</p>
 <hr/>
-<h3>ANNEXE 8.1</h3>
-<h4>Modèle de Préavis d'adjudication de contrat (PAC)</h4>
+<h4>ANNEXE 8.1</h4>
+<h5>Modèle de Préavis d'adjudication de contrat (PAC)</h5>
 <p>Voici un modèle de PAC que les agents de négociation des contrats peuvent utiliser pour les avis transmis par voie électronique.</p>
 <p>Un PAC doit comprendre les informations suivantes, dans les deux langues officielles :</p>
 <p><strong>1. Une explication de ce qu'est un PAC</strong>. L'explication suivante doit être incluse :</p>

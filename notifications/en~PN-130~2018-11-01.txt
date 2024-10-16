@@ -1,25 +1,25 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Purpose</h2>
+<h3>Purpose</h3>
 <p>The purpose of Policy Notification (PN) 130 is to introduce interim clauses in all new requests for standing offers and supply arrangements (RFSOs/RFSAs) in order to inform on the support Public Works and Government Services Canada (PWGSC)’s Acquisition Program (AP) in its anticipated transition to an e-procurement solution (EPS).</p>
-<h2>Effective date and application</h2>
+<h3>Effective date and application</h3>
 <p>This policy notification is effective immediately and applies to all new <abbr title="request for standing offer">RFSO</abbr>s and <abbr title="request for supply arrangements">RFSA</abbr>s.</p>
-<h2>Background</h2>
+<h3>Background</h3>
 <p>To modernize and improve service delivery with enhanced technology, <abbr title="Public Works and Government Services Canada">PWGSC</abbr> has awarded a contract to develop and implement a new <abbr title="e-procurement solution">EPS</abbr>. This solution will be a user-friendly, cloud-based platform. It will significantly automate and streamline the procurement process, while also enabling greater access for suppliers to do business with the Government of Canada.</p>
 <p>Among its many benefits, this solution will provide the ability for procurement officers to receive and evaluate bids electronically, more intuitive and robust contract authoring, as well as strengthened management capability that is informed by data analytics and reporting. <abbr title="e-procurement solution">EPS</abbr> will also allow for the integration of online catalogues, which will provide clients and suppliers with more convenient and rapid access to do business.</p>
 <p>As these catalogs will address critical government business lines that may already be covered by existing multi-year standing offers and supply arrangements, wording is being introduced in all new <abbr title="Request for Standing Offers">RFSO</abbr>s/<abbr title="Request for Supply Arrangements">RFSA</abbr>s, to inform the parties across the potentially affected supply chains on the planned migration to the <abbr title="e-procurement solution">EPS</abbr>. With the support of the Department, the clause also conveys the expectation for those suppliers to collaborate on and adopt any related measures that may be necessary for a smooth and effective transition.</p>
-<h2>Requirements</h2>
+<h3>Requirements</h3>
 <p>Procurement officers must incorporate the respective language (clauses) for all new <abbr title="request for standing offer">RFSO</abbr>s and <abbr title="request for supply arrangements">RFSA</abbr>s.</p>
 <p>With a planned release in 2019, starting with a pilot system prior to full implementation, procurement staff as well as suppliers will continue to be kept informed on any future requirements, guidance and support in advance of the rollout.</p>
-<h2>Standard procurement template changes</h2>
+<h3>Standard procurement template changes</h3>
 <p>In support of <abbr title="Policy Notification">PN</abbr>-130, modifications have been made to the following standard procurement templates published by the Strategic Policy Development and Integration Directorate:</p>
 <ul>
 <li>Request for Standing Offers (RFSO) Template </li>
 <li>Request for Supply Arrangements (RFSA) Template </li>
 <li>Request for Standing Offers (RFSO) Template for the Canadian Collaborative Procurement Initiative (CCPI)</li>
 </ul>
-<h2>Contact</h2>
+<h3>Contact</h3>
 <p>Questions related to <abbr title="e-procurement solution">EPS</abbr> and Procurement Business Modernization, may be sent by email to the following address: <a href="mailto:PAretroaction.APfeedback@tpsgc-pwgsc.gc.ca" rel="external">PAretroaction.APfeedback@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions related to this <abbr title="Policy Notification">PN</abbr> and the standard procurement templates may be sent by email to the following address: <a href="mailto:TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">

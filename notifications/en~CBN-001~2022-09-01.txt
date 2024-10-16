@@ -1,26 +1,26 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Purpose</h2>
+<h3>Purpose</h3>
 <p>The purpose of CanadaBuys Notification (CBN) – 001 is to notify <abbr title="Public Services and Procurement Canada">PSPC</abbr> Buyers of updated standard instructions for use in CanadaBuys (SAP Ariba). </p>
 <p>The updated Standard Instructions (SI) 2003ACB are provided to <abbr title="Public Services and Procurement Canada">PSPC</abbr> Buyers for use only in procurements in CanadaBuys (SAP Ariba).</p>
 <p>The updated Standard Instructions (SI) 2003ACB replace in their entirety any previous version of the <abbr title="Standard Instructions">SI</abbr> 2003ACB.</p>
-<h2>Effective date</h2>
+<h3>Effective date</h3>
 <p><abbr title="CanadaBuys Notification">CBN</abbr> - 001 is effective immediately.</p>
 <p>The Standard Instructions (SI) 2003ACB are available in the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual. </p>
-<h2>Application</h2>
+<h3>Application</h3>
 <ul>
 <li>Standard Instructions (SI) 2003ACB are for the exclusive use in CanadaBuys (SAP Ariba).</li>
 <li>Bids must be submitted through CanadaBuys (SAP Ariba).</li>
 <li><abbr title="Standard Instructions">SI</abbr> 2003ACB should not be used for forms of bid submission and receipt other than through CanadaBuys (SAP Ariba). </li>
 </ul>
-<h2>Background</h2>
+<h3>Background</h3>
 <p>In February 2022, the Standard Instructions (SI) 2003ACB (AchatsCanadaBuys) for competitive requirements in SAP Ariba, were made available for early access through the CanadaBuys Service Desk. <abbr title="Public Services and Procurement Canada">PSPC</abbr> Buyers had to contact the <a href="https://canadabuys.canada.ca/en/support" rel="external">CanadaBuys Service Desk</a> to request access to the <abbr title="Standard Instructions">SI</abbr> 2003ACB.</p>
 <p><abbr title="CanadaBuys Notification">CBN</abbr> – 001 now provides updated <abbr title="Standard Instructions">SI</abbr> 2003ACB for use by <abbr title="Public Services and Procurement Canada">PSPC</abbr> Buyers for procurements in CanadaBuys (SAP Ariba).</p>
-<h2>Requirements and responsibility</h2>
+<h3>Requirements and responsibility</h3>
 <p>The updated <abbr title="Standard Instructions">SI</abbr> 2003ACB have been published in the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual.</p>
 <p>It is the responsibility of the <abbr title="Public Services and Procurement Canada">PSPC</abbr> Buyer to ensure the <abbr title="Standard Instructions">SI</abbr> 2003ACB is only used in procurements in CanadaBuys (SAP Ariba).</p>
-<h2>Guidance</h2>
+<h3>Guidance</h3>
 <p>CONSIDERATIONS FOR DEVELOPING A SOLICITATION IN CANADABUYS (SAP ARIBA)</p>
 <ol>
 <li><p>Buyers must only include the reference to <abbr title="Standard Instructions">SI</abbr> 2003ACB for procurements in CanadaBuys (SAP Ariba).</p>
@@ -43,20 +43,20 @@
 </div>
 </li>
 </ol>
-<h2>Revisions to the Supply Manual</h2>
+<h3>Revisions to the Supply Manual</h3>
 <p>There are no revisions to the Supply Manual.</p>
-<h2>Revisions to the Standard Acquisition Clauses and Conditions Manual (SACC)</h2>
+<h3>Revisions to the Standard Acquisition Clauses and Conditions Manual (SACC)</h3>
 <p>The <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual has been revised in support of this <abbr title="CanadaBuys Notification">CBN</abbr>. For more details, refer to the Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections listed below.</p>
-<h2>Revisions to the Standard Procurement Templates</h2>
+<h3>Revisions to the Standard Procurement Templates</h3>
 <p>There are no changes to the Standard Procurement Templates.</p>
-<h2>Contact information</h2>
+<h3>Contact information</h3>
 <p>For support on assembly of solicitation documents in CanadaBuys (SAP Ariba), <abbr title="Public Services and Procurement Canada">PSPC</abbr> Buyers are encouraged to contact the <a href="https://canadabuys.canada.ca/en/support
 " rel="external">CanadaBuys Service Desk</a> for assistance. </p>
 <p>Enquiries related to <abbr title="CanadaBuys Notification">CBN</abbr> - 001 and CanadaBuys (SAP Ariba) can be sent by email to the CanadaBuys Service Desk at <a href="https://canadabuys.canada.ca/en/support/email-us" rel="external">Email us | CanadaBuys</a>.</p>
 <p>Questions related to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual can be sent by email to the following address: <a href="mailto:tpsgc.outilsdapprovisionnement-procurementtools.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.outilsdapprovisionnement-procurementtools.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h3>
+<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-185bcf8434d85ec9f21f0a5835c6ec50">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">

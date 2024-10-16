@@ -7,9 +7,9 @@
 <p>Related changes to the <em>Standard Acquisition Clauses and Conditions </em>Manual, attached as<strong> Annex A</strong>, will be included in amendment 98-3, which is scheduled for release on November 23, 1998.</p>
 <p>Related changes to the <em>Supply Manual</em>, attached as <strong>Annex B</strong>, will be included in amendment 98-3, which is scheduled for release on November 23, 1998.</p>
 <p>This update is to be read and applied in addition to the original PN-22.</p>
-<h2>ANNEX A</h2>
-<h3>CHANGES TO THE SACC MANUAL</h3>
-<h3>GOODS CONTAINING ELECTRONIC PROCESSING SYSTEMS</h3>
+<h3>ANNEX A</h3>
+<h4>CHANGES TO THE SACC MANUAL</h4>
+<h4>GOODS CONTAINING ELECTRONIC PROCESSING SYSTEMS</h4>
 <p><strong>REMARKS:</strong> Use the following clause if, or when, the deliverable(s) identified in the contractual document will be goods that may contain electronic processing systems not specifically related to the purchase of Information Technology (IT) systems.</p>
 <p>K0043D (__/__/98) Y2000 Warranty - Goods Not Directly Related to IT Procurements</p>
 <p>1. The Contractor warrants that all electronic processing systems contained within or forming part of goods delivered under this Contract, shall meet the contractual requirement so as to accurately and automatically process any and all date and date-related data including, but not limited to calculating, comparing, and sequencing of such data from, into, and between the twentieth and twenty-first centuries, and the years 1999 and 2000, and that such date-related processing will take into consideration leap year calculations when used in accordance with the documentation provided by the Contractor and accepted by Canada.</p>
@@ -31,7 +31,7 @@
 <li>for a period of six months following acceptance of the hardware, software and/or firmware, whichever is the later date.</li>
 </ol>
 <hr/>
-<h3>SERVICES CONTAINING ELECTRONIC PROCESSING SYSTEMS</h3>
+<h4>SERVICES CONTAINING ELECTRONIC PROCESSING SYSTEMS</h4>
 <p><strong>Remarks: </strong>Use the following clause if, or when, the deliverables identified in the contractual document will be services not specifically related to the purchase of Information Technology (IT) systems.</p>
 <p>K0044D (__/__/98) Y2000 Warranty - Services Not Directly Related to IT Procurements</p>
 <p>1. The Contractor warrants that the deliverables resulting from the services provided under this Contract shall meet the contractual requirement so that the deliverables (as evidenced during acceptance tests, as applicable) accurately and automatically process date and date-related data including, but not limited to calculating, comparing, and sequencing of such data from, into and between the twentieth and the twenty-first centuries, and the years 1999 and 2000, and including leap year calculations when used in accordance with the documentation provided by the Contractor and accepted by Canada, provided that all electronic processing systems used with the deliverables properly exchange accurate date and date-related data with them. To that end, the Contractor also warrants that date-related processing will not, in any way, prevent electronic processing systems from conforming to the requirement of the Contract prior to, during, or after the year 2000. Canada may, at no additional cost, require the Contractor prior to the performance of the services, to demonstrate compliance and/or compliance techniques and test procedures it intends to follow in order to comply with all of the obligations contained herein.</p>
@@ -50,9 +50,9 @@
 <li>to June 30, 2000, or,</li>
 <li>for a period of six months following acceptance of the hardware, software and/or firmware, whichever is the later date.</li>
 </ol>
-<h2>ANNEX B</h2>
-<h3>CHANGES TO THE SUPPLY MANUAL</h3>
-<h3>Year 2000 Warranty</h3>
+<h3>ANNEX B</h3>
+<h4>CHANGES TO THE SUPPLY MANUAL</h4>
+<h4>Year 2000 Warranty</h4>
 <p>6.332 (__/__/98) For procurements of goods or services which must perform date related processing prior to, during or after the Year 2000, Contracting Officers shall include one or more of the following appropriate SACC Manual clauses in bid solicitations, contracts and standing offers:</p>
 <ol type="a">
 <li>SACC Manual clause K0039D for specific goods such as hardware, software or firmware;</li>

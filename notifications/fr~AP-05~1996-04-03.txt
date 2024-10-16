@@ -2,13 +2,13 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 3 avril 1996</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 3 avril 1996</h3>
 <p>Afin de satisfaire à l'engagement qu'a pris le gouvernement de stimuler la croissance des entreprises autochtones, nous avons travaillé depuis quelque temps avec les responsables des Affaires indiennes et du Nord Canada (AINC), à l'élaboration d'une stratégie d'achat destinée aux entreprises autochtones. Cette stratégie a été approuvée par le ministre Irwin et a récemment fait l'objet d'un communiqué.</p>
 <p>Cette stratégie comporte une politique d'achat pour les entreprises autochtones, des changements à la politique de passation des marchés et à la politique relative à l'examen des marchés, des activités destinées à permettre l'expansion des fournisseurs ainsi que l'élimination des obstacles administratifs pouvant freiner la participation des autochtones aux marchés fédéraux.</p>
 <p>La politique d'achat comprendra un programme de marchés réservés aux entreprises autochtones qui accordera l'accès exclusif à tous les approvisionnements de plus de 5 000 $, destinés principalement aux collectivités. De plus, il y sera prévu un programme sélectif de marchés réservés aux entreprises autochtones, lorsqu'elles en auront la capacité et qu'il soit possible de répondre aux principes de meilleure valeur, de prudence, de probité et de bonne gestion du processus de passation des marchés. En dernier lieu, elle permettra aux plans de sous-traitance des entreprises autochtones de servir de critères d'évaluation, le cas échéant.</p>
@@ -16,8 +16,8 @@
 <p>La politique entre en vigueur officiellement le 1<sup>er</sup> avril 1996. Le Secrétariat du Conseil du Trésor (SCT) et AINC ont rédigé un Avis de politique sur les marchés de l'État à cet effet, en date du 27 mars 1996, et nous nous affairons à préparer les modifications qui s'imposent au Guide des approvisionnements. Quand au ministère client demandera qu'un besoin soit réservé, nous devrons respecter l'esprit et le but de cette politique et en accepter la demande.</p>
 <p>Pour plus de détails, je joins l'information d'AINC relative à cette stratégie, soit le Communiqué (Annexe A), l'historique (Annexe B) et le feuillet d'information (Annexe C). Vous pourrez adresser toute question additionnelle à Tom Simper, Direction de la politique des approvisionnements, au 819-956-0881.</p>
 <p>Le codage pour l'Environnement automatisé pour les acheteurs (EAA) relatif aux marchés réservés devrait être en place sous peu. Dans l'intervalle, <strong>en aucun cas</strong> est-il permis d'utiliser pour les marchés réservés, le code relatif au type d'accord. L'application du programme de marchés réservés devra être signalée dans le corps de l'Avis de projets de marchés.</p>
-<h2>Annexe A</h2>
-<h3>Dévoilement de la stratégie d'acquisitions auprès des entreprises autochtones</h3>
+<h3>Annexe A</h3>
+<h4>Dévoilement de la stratégie d'acquisitions auprès des entreprises autochtones</h4>
 <p><strong>1-9563</strong></p>
 <p><em>Ottawa (le 29 mars 1996) :</em> L'honorable Ronald A. Irwin, ministre des Affaires indiennes et du Nord canadien, a annoncé aujourd'hui de nouvelles mesures d'acquisition conçues pour rehausser la participation des entreprises autochtones aux appels d'offres du gouvernement fédéral.</p>
 <p>« La motivation principale à l'origine de la démarche du gouvernement fédéral est issue de notre engagement à créer des emplois et à assurer le développement économique des collectivités autochtones, ce dont bénéficieront tous les Canadiennes et Canadiens », a déclaré le ministre Irwin.</p>
@@ -33,13 +33,13 @@
 <p>Ce communiqué peut également être consulté Internet, à l'adresse <a href="http://www.inac.gc.ca" rel="external">http://www.inac.gc.ca</a>.</p>
 <p><strong>Pour obtenir plus de renseignements, veuillez communiquer avec :</strong></p>
 <p><strong>S/O</strong></p>
-<h2>Annexe B</h2>
-<h3>HISTORIQUE</h3>
+<h3>Annexe B</h3>
+<h4>HISTORIQUE</h4>
 <p><strong>Historique</strong></p>
 <p>Le nombre d'entreprises autochtones a augmenté ces derniers temps en raison du nombre croissant d'Autochtones diplômés du collège ou de l'université qui entrent sur le marché du travail. Le Canada compte aujourd'hui plus de 18 000 entreprises qui appartiennent à des Autochtones. Toutefois, le secteur des affaires autochtones n'a pas encore accédé au marché des acquisitions du gouvernement fédéral.</p>
 <p>L'adoption de politiques d'acquisition pour stimuler la création d'emplois et le développement économique dans les collectivités autochtones était un engagement du <em>Livre rouge</em>. Le ministère des Affaires indiennes et du Nord canadien (AINC) a assumé la direction de la Stratégie d'acquisitions auprès des entreprises autochtones.</p>
 <p>Des dirigeants du monde des affaires autochtones ont été consultés durant l'élaboration de la Stratégie d'acquisitions auprès des entreprises autochtones.</p>
-<h3>Principaux composants de la Stratégie d'acquisitions</h3>
+<h4>Principaux composants de la Stratégie d'acquisitions</h4>
 <p><strong>Activités d'information et de promotion :</strong> sensibiliser davantage les entreprises autochtones aux occasions d'affaires que représentent les marchés fédéraux chargés de l'approvisionnement aux entreprises autochtones.</p>
 <p><strong>Réservation pour la population autochtone :</strong> Les contrats d'une valeur excédant 5 000 $ pour des services principalement destinés à des populations autochtones seront réservés uniquement aux entreprises autochtones qualifiées lorsque les exigences opérationnelles, le meilleur rapport qualité-prix, la prudence, la probité et une saine gestion des contrats pourront être assurés.</p>
 <p><strong>Réservation sélective pour les entreprises autochtones :</strong> Les organismes et ministères fédéraux sont mandatés et encouragés à réserver volontairement des commandes supplémentaires pour le gouvernement fédéral en vertu du Programme de marchés réservés pour les entreprises autochtones, lorsque les exigences opérationnelles, le meilleur rapport qualité-prix, la prudence, la probité et une saine gestion des contrats peuvent être assurés.</p>
@@ -47,14 +47,14 @@
 <p>Les entreprises qui désirent être considérées en vertu de cette politique devront présenter un certificat officiel avec les autres documents requis pour les appels d'offres. Les soumissionnaires devront certifier pour chaque soumission qu'ils satisfont aux critères d'admissibilité, qu'ils respecteront les exigences relatives au contenu autochtone et qu'ils sont disposés à se soumettre aux vérifications d'admissibilité prévues par cette politique.</p>
 <p>La Stratégie d'acquisitions auprès des entreprises autochtones s'appliquera à tous les organismes et ministères du gouvernement fédéral.</p>
 <p>Mars 1996</p>
-<h2>Annexe C</h2>
-<h3>Feuillet d'information</h3>
+<h3>Annexe C</h3>
+<h4>Feuillet d'information</h4>
 <p><strong>Stratégie d'acquisitions auprès des entreprises autochtones</strong></p>
 <p><strong>Historique</strong></p>
 <p>Le gouvernement du Canada dépense 14 milliards de dollars annuellement en biens et services, notamment dans le domaine de la construction. On estime que 50 p. 100 de ces achats sont faits localement et que 90 p. 100 des contrats du gouvernement fédéral valent moins de 100 000 $.</p>
 <p>Le gouvernement du Canada désire octroyer plus de contrats aux entreprises autochtones.</p>
 <p>La Stratégie d'acquisitions auprès des entreprises autochtones est mise en uvre dans le but d'atteindre cet objectif.</p>
-<h3>Éléments clés de la Stratégie :</h3>
+<h4>Éléments clés de la Stratégie :</h4>
 <ul>
 <li>Documents d'information et séances d'orientation pour familiariser les entreprises autochtones avec les procédures du gouvernement fédéral et les occasions qu'il offre en matière de contrats.</li>
 <li>Activités de promotion et de mise en marché destinées à faire connaître les capacités des fournisseurs autochtones.</li>
@@ -62,21 +62,21 @@
 <li>Mesures d'impartition réservée permettant aux ministères de réserver des contrats aux entreprises autochtones.</li>
 <li>Modifications des politiques favorisant les coentreprises et la sous-traitance avec des entreprises autochtones.</li>
 </ul>
-<h3>Programme d'impartition réservée pour les entreprises autochtones</h3>
+<h4>Programme d'impartition réservée pour les entreprises autochtones</h4>
 <p>Le Programme d'impartition réservée pour les entreprises autochtones constitue un élément important de la Stratégie visant à offrir aux entreprises autochtones de nouvelles possibilités, notamment :</p>
 <ul>
 <li>l'occasion d'être les premières à soumissionner les contrats destinés à servir les populations autochtones;</li>
 <li>l'occasion de soumissionner d'autres contrats que le gouvernement fédéral pourrait réserver pour les entreprises autochtones;</li>
 <li>la participation à des contrats stipulant une part de sous-traitance accordée à des entreprises autochtones.</li>
 </ul>
-<h3>Quelles entreprises seront admissibles?</h3>
+<h4>Quelles entreprises seront admissibles?</h4>
 <p>Les entreprises et les coentreprises qui satisfont aux exigences suivantes en matière de propriété et d'emploi autochtones :</p>
 <ul>
 <li>les entreprises doivent être possédées et contrôlées à 51 p. 100 par des Autochtones;</li>
 <li>les entreprises autochtones qui emploient au moins six personnes à temps plein doivent compter au moins 33 p. 100 d'employés autochtones;</li>
 <li>les coentreprises doivent être formées avec des entreprises possédées et contrôlées à 51 p. 100 par des Autochtones.</li>
 </ul>
-<h3>Activités liées à l'information, à la promotion et à la sécurité des contrats</h3>
+<h4>Activités liées à l'information, à la promotion et à la sécurité des contrats</h4>
 <p>Les autres éléments clés de la Stratégie pourront :</p>
 <ul>
 <li>sensibiliser davantage les entreprises autochtones aux procédures du gouvernement fédéral et aux occasions qu'il offre en matière de contrats</li>

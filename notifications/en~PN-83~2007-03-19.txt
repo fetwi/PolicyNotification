@@ -1,14 +1,14 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>This policy notification provides: (1) the higher complexity bid solicitation and contract template for competitive and non-competitive requirements for the procurement of goods, services or both (excluding construction and architectural and engineering); (2) the modifications to the procedures 2T-PROC1 for the low dollar value, medium and higher complexity requirements, and (3) the modifications to the standard instructions and general conditions. </p>
-<h3>Policy</h3>
+<h4>Policy</h4>
 <p>Effective May 25, 2007, Public Works and Government Services Canada (PWGSC) contracting officers must use the departmental standard procurement documents in plain language for the procurement of higher complexity requirements for goods, services or both (excluding construction and architectural and engineering requirements) for competitive and non-competitive requirements.</p>
 <p>PWGSC contracting officers must use the bid solicitation and resulting contract template for higher complexity requirements in accordance with the parameters detailed under the procedures for using the standard procurement templates. </p>
 <p>In order to maintain a "common look and feel" for PWGSC's procurement documents, contracting officers must not modify or change the order and content of this standard template except where indicated.</p>
 <p>The table below provides a detailed list of new or modified documents that are applicable to the higher complexity template.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>The Acquisitions Branch Business Plan identifies the development of departmental standard procurement documents through its "plain language" initiative as a key priority in the Department.  The objectives are to standardize procurement terminology, simplify the language and ensure more consistency and uniformity in acquisition documents (e.g. 'common look and feel').</p>
 <p>Templates have been developed for competitive and non-competitive requirements for low dollar value, medium complexity and standing offers for the procurement of goods, services or both.</p>
 <table class="basic">
@@ -63,23 +63,23 @@
 <td> </td>
 </tr>
 </tbody></table>
-<h3>Implementation</h3>
+<h4>Implementation</h4>
 <p>Changes to the Supply Manual and the Standard Acquisition Clauses and Conditions (SACC) Manual are outlined in the attached <a href="#PN-83nxa">Annex A</a> and <a href="#PN-83nxb">Annex B</a> respectively.</p>
 <p>The next release of the SACC Manual is scheduled for May 25, 2007, and will reflect these changes.</p>
 <p>Standard instructions and conditions 9403 and 9403-5 will be cancelled effective May 25, 2007.</p>
 <p>The Departmental Standard Procurement Documents Web site has been established.  The purpose of this Web site is to provide assistance in the use and application of departmental standard procurement documents.  This Web site includes standard procurement templates for low dollar value, medium, and higher complexity requirements, and requests for standing offers.  These templates are available in various software versions, such as  PDF, Word Pro, MS Word and Word Perfect.  Also, examples of a low dollar value and medium complexity bid solicitation and resulting contract are available on the web site.</p>
-<h3>Next Steps </h3>
+<h4>Next Steps </h4>
 <p>The Plain Language Working Group will: (1) continue to develop new general conditions and supplemental general conditions; (2) continue to review the SACC Manual Clauses; (3) put in place a training program to familiarize contracting officers with the procurement templates, and (4) develop a standard procurement template for supply arrangements.</p>
 <p>Procurement Process Tools Division is responsible for maintaining all standard procurement documents under this plain language initiative.  All changes to these documents will be published in future updates to the SACC Manual and on the Departmental Standard Procurement Documents Web site.</p>
-<h3>For More Information</h3>
+<h4>For More Information</h4>
 <p><strong>N/A</strong></p>
 <div class="topPage"> <a href="#PN-83tphp" title="Return to Top of Page"><br/>
           Top of Page</a></div>
-<h2>Attachments:</h2>
+<h3>Attachments:</h3>
 <p> <a id="PN-83nxa"></a></p>
-<h3>Annex A - Changes to the Supply Manual</h3>
-<h4>Departmental Standard Procurement Documents</h4>
-<h5>6E.643</h5>
+<h4>Annex A - Changes to the Supply Manual</h4>
+<h5>Departmental Standard Procurement Documents</h5>
+<h6>6E.643</h6>
 <p><strong>(XXXX-XX-XX)</strong> The objectives of Public Works and Government Services (PWGSC) are to standardize procurement terminology, simplify the language and ensure more consistency and uniformity in acquisition documents (e.g. "common look and feel").</p>
 <p>PWGSC has implemented departmental standard procurement documents that includes standard instructions, general conditions and templates for bid solicitations and requests for standing offers, for use by its contracting officers for the procurement of goods, services or both (excluding construction and architectural and engineering requirements).</p>
 <p>PWGSC contracting officers must use the bid solicitation and resulting contract templates for competitive and non-competitive requirements for low dollar value (2T-LDV1), medium complexity (2T-MED1) and higher complexity (2T-HIGH1), and the template for requests for standing offers (2T-RFSO1) for the procurement of goods, services or both in accordance with the parameters detailed under the procedures for using the standard procurement templates.  To maintain a "common look and feel" for PWGSC's procurement documents, contracting officers must not modify or change the order and content of these templates except where indicated.</p>
@@ -88,7 +88,7 @@
 <div class="topPage"> <a href="#PN-83tphp" title="Return to Top of Page"><br/>
           Top of Page</a></div>
 <p> <a id="PN-83nxb"></a></p>
-<h3>Annex B</h3>
+<h4>Annex B</h4>
 <dl>
 <dt><a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap83-p1-nxb-pn83-p1-nxb-eng.html" rel="external">Appendix 1</a>:</dt>
 <dd>2T-PROC1, Procedures for Using the Departmental Standard Procurement Templates </dd>

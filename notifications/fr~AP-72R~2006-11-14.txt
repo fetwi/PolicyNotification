@@ -2,20 +2,20 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>Date : le 14 novembre 2006</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>Date : le 14 novembre 2006</h3>
 <p>La présente remplace l'avis relatif aux politiques (AP)-72 original au complet, qui a été publié le 13 décembre 2005. Cet avis donne à tous les employés responsables des achats des conseils sur le nouveau processus de création, de renouvellement et de prolongation des méthodes d'approvisionnement, soit les offres à commandes (OC) et les arrangements en matière d'approvisionnement (AA).</p>
 <p>Il faut prendre connaissance de cet AP à la lumière des dispositions des chapitres pertinents du Guide des approvisionnements (GDA) et de l'<a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap70-pn70-fra.html">AP-70</a>. Veuillez vous reporter à l'<a href="#AP-72Ranna">annexe A</a> du présent document pour prendre connaissance des modifications apportées au guide des <em>Clauses et conditions uniformisées d'achat</em> (CCUA). En cas de divergence entre le GDA et le présent AP, les dispositions de l'AP-72R l'emporteront.</p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>Dans le cadre de l'initiative <em>Les prochaines étapes</em>, il est devenu obligatoire depuis le 1er avril 2005 de recourir aux offres à commandes et aux arrangements en matière d'approvisionnement existants pour les dix groupes de biens et de services indiqués dans l'<a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap70-pn70-fra.html">AP-70</a>. Pour appuyer cette initiative, le personnel de l'approvisionnement doit s'assurer que les offres à commandes et les arrangements en matière d'approvisionnement actuels et futurs permettent d'obtenir le meilleur rapport qualité-prix, de répondre aux besoins des ministères clients et de démontrer des économies réelles.</p>
-<h3>Politique</h3>
+<h4>Politique</h4>
 <p>Les demandes de création, de renouvellement ou de prolongation des OC et des AA seront examinées au préalable par le chef d'équipe des biens et des services (CEBS) ayant été désigné pour les biens et services visés, ou, s'il n'y a pas d'équipe, par le réviseur régional affecté à chacune des régions. S'il n'y a pas de CEBS ou de réviseur régional, le directeur, Direction de gestion des biens et des services, Direction générale des approvisionnements, nommera un réviseur ou se chargera de l'examen. L'examen des demandes sera mené conformément aux procédures et aux lignes directrices figurant dans le présent AP. Une liste des CEBS et des réviseurs régionaux peut être obtenue à partir de la page d'accueil de l'<a href="http://soi.pwgsc.gc.ca/app/index.cfm?Fuseaction=prg.main&amp;&amp;&amp;altlang=-f" rel="external">Index des offres à commandes</a> (IOC) (<em>veuillez noter que cette liste sera mise à jour de façon régulière</em>).</p>
-<h3>Procédures</h3>
+<h4>Procédures</h4>
 <ol>
 <li>
 <p>Depuis le 15 août 2006, les agents de négociation des contrats de TPSGC doivent utiliser les Documents uniformisés d'approvisionnement ministériel en langage clair, lors de l'établissement d'OC pour des biens ou des services (voir l'AP-79U).</p>
@@ -79,11 +79,11 @@
 </li>
 </ol>
 <p>Une liste de vérification sommaire est fournie à l'<a href="#AP-72Rannb">Annexe B</a>. Les CEBS et les réviseurs régionaux se fonderont sur celle-ci pour effectuer les examens. L'<a href="#AP-72Rannb">Annexe B</a> comprend également des instructions supplémentaires à l'intention des agents de négociation des contrats.</p>
-<h3>Demandes de renseignements</h3>
+<h4>Demandes de renseignements</h4>
 <p>Pour toute demande de renseignements, communiquer avec John Courtney, Direction de gestion des biens et des services, Direction générale des approvisionnements, par téléphone, au 819-956-1097, ou par courriel à l'adresse : <a href="mailto:john.n.courtney@tpsgc-pwgsc.gc.ca" rel="external">john.n.courtney@tpsgc-pwgsc.gc.ca</a>.</p>
 <p> <a id="AP-72Ranna" name="anna"></a></p>
-<h2>Annexe A </h2>
-<h3>Modifications apportées au guide des CCUA</h3>
+<h3>Annexe A </h3>
+<h4>Modifications apportées au guide des CCUA</h4>
 <p><strong>M7010C Offres à commandes - établissement de rapports</strong></p>
 <p><strong>Usage :</strong> Texte intégral</p>
 <p><strong>Remarques :</strong></p>
@@ -119,8 +119,8 @@
 <p>Tous les champs de données du rapport doivent être remplis tel que demandé. Si certaines données ne sont pas disponibles, la raison doit en être indiquée dans le rapport. Si aucun bien ou service n'a été fourni pendant la période visée, le fournisseur doit soumettre un rapport portant la mention « NÉANT ».</p>
 <p>Le fait de ne pas fournir les rapports remplis au complet selon les directives mentionnées ci-dessus peut entraîner le retrait du Canada de l'arrangement en matière d'approvisionnement par le Canada, le retrait du fournisseur de la liste des fournisseurs qualifiés et l'application d'une mesure corrective du rendement du fournisseur.</p>
 <p> <a id="AP-72Rannb" name="annb"></a></p>
-<h2>Annexe B</h2>
-<h3>Liste de vérification sommaire</h3>
+<h3>Annexe B</h3>
+<h4>Liste de vérification sommaire</h4>
 <p><strong>Introduction :</strong></p>
 <p>L'AP-72R comprend la politique et les procédures applicables dont il faut tenir compte avant de créer, de renouveler ou de prolonger toutes les offres à commandes et tous les arrangements en matière d'approvisionnement.</p>
 <p><strong>Objectifs :</strong></p>

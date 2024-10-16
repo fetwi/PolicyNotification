@@ -1,11 +1,11 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Objet</h2>
+<h3>Objet</h3>
 
 L’avis relatif aux politiques AP-128U2 a pour but d’informer les agents de négociation des contrats du  Programme des approvisionnements (PA) de Travaux publics et Services gouvernementaux Canada (TPSGC) de certaines mises à jour et modifications requises relativement à la méthode de réception par le service de Connexion de la Société canadienne des postes (SCP).<p></p>
 <p>L’<abbr title="avis relatif aux politiques">AP</abbr>-128U2 est une mise à jour de l’<abbr title="avis relatif aux politiques">AP</abbr>-128U1.
 
-</p><h2>Aperçu</h2>
+</p><h3>Aperçu</h3>
 <p>L’avis relatif aux politiques <abbr title="avis relatif aux politiques">AP</abbr>-128U2 vise à modifier le nom du service offert par la Société canadienne des postes (SCP) ainsi que la formulation des clauses faisant référence à ce service afin d’assurer une meilleure interprétation de tous les utilisateurs. Cette mise à jour modifiera également l’adresse courriel et le numéro de télécopieur du Module de réception des soumissions (MRS) de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>. Les modifications requises sont les suivantes :</p>
 <ol>
 <li>Modification du texte, pour assurer la cohérence à la clause 3.1 Instructions pour la préparation des soumissions dans les modèles uniformisés d’approvisionnement de complexité élevée (CE), de complexité moyenne (CM), de demande d’offres à commandes (DOC), de demande d’offres à commandes (DOC) pour l’Initiative canadienne d’approvisionnement collaboratif ICAC et de demande d’arrangement en approvisionnement (DAMA) du Programme des approvisionnements (PA). </li>
@@ -17,21 +17,21 @@ L’avis relatif aux politiques AP-128U2 a pour but d’informer les agents de n
 <li>Enlever le numéro de télécopieur personnel du Module de réception des soumissions à la Section Annexe 2.3 : Liste des Modules des attributions de Travaux publics et Services gouvernementaux Canada. </li>
 <li>Corriger l’adresse courriel de la boîte générique des priorités de la défense et supprimer le numéro de télécopieur à la clause uniformisée d’achat Cote de priorité C2801C - Cote de priorité : Entrepreneurs établis au Canada.</li>
 </ol>
-<h2>Date d’entrée en vigueur</h2>
+<h3>Date d’entrée en vigueur</h3>
 <p> L’avis relatif aux politiques <abbr title="avis relatif aux politiques">AP</abbr>-128U2 entre en vigueur immédiatement.</p>
-<h2>Résumé des changements</h2>
-<h3>Modifications apportées au Guide des approvisionnements</h3>
+<h3>Résumé des changements</h3>
+<h4>Modifications apportées au Guide des approvisionnements</h4>
 <p>À l’appui de l’<abbr title="avis relatif aux politiques">AP</abbr>-128U2, le Guide des approvisionnements a été mis à jour.  Pour plus de détails, veuillez consulter les sections du Guide des approvisionnements visées ci-dessous.</p>
-<h3>Modifications apportées au Guide des clauses et conditions uniformisées d’achat (CCUA)</h3>
+<h4>Modifications apportées au Guide des clauses et conditions uniformisées d’achat (CCUA)</h4>
 <p>À l’appui de l’<abbr title="avis relatif aux politiques">AP</abbr>-128U2, le Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> a été mis à jour. Pour plus de détails, veuillez consulter les Items du Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> visés ci-dessous.</p>
-<h3>Modifications aux modèles uniformisés d’approvisionnement</h3>
+<h4>Modifications aux modèles uniformisés d’approvisionnement</h4>
 <p>Les modèles uniformisés d’approvisionnement ont été révisés sur GCpédia.</p>
-<h2>Coordonnées</h2>
+<h3>Coordonnées</h3>
 <p>Les questions concernant l’application de cet <abbr title="avis relatif aux politiques">AP</abbr>-128U2 peuvent être envoyées à l’équipe de la division de soutien opérationnel des approvisionnements (DSOA) à l’adresse suivante : <a href="mailto:tpsgc.pareceptiondessoumissions-apbidreceiving.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.pareceptiondessoumissions-apbidreceiving.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Les questions concernant le Guide des approvisionnements (GA) peuvent être envoyées par courriel à l’adresse suivante :  <a href="mailto:TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Les questions portant sur le Guide des clauses et conditions uniformisées d’achat (CCUA) ou les modèles uniformisés d’approvisionnement peuvent être envoyées à l’adresse : <a href="mailto:TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Sections du Guide des approvisionnements visées</h3>
+<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-779db192454c6380c2fb54c07555a169">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -47,7 +47,7 @@ L’avis relatif aux politiques AP-128U2 a pour but d’informer les agents de n
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h3>
+<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-58464411197b60b2d6ee196768f1ad51">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

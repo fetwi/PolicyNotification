@@ -1,16 +1,16 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Purpose</h2>
+<h3>Purpose</h3>
 <p>The purpose of Policy Notification (PN)-143 is to inform Acquisitions Program (AP) contracting officers of Supply Manual updates to the Foreign Military Sales (FMS) processes outlined in Chapter 9.15.</p>
-<h2>Effective date</h2>
+<h3>Effective date</h3>
 <p>This policy notification is effective immediately. </p>
-<h2>Background</h2>
+<h3>Background</h3>
 <p>The Foreign Military Sales (FMS) program is a form of security assistance authorized by the United States Government’s (USG’s) <a href="https://uscode.house.gov/view.xhtml?path=/prelim@title22/chapter39&amp;edition=prelim" rel="external">Arms Export Control Act</a> (AECA) that allows allies of the United States (US) to procure export controlled defence goods and services of <abbr title="United States">US</abbr> origin. </p>
 <p>Executed by the <abbr title="United States">US</abbr> Department of Defense (DoD), the <abbr title="Foreign Military Sales">FMS</abbr> program enables Canada to acquire defence goods and services that are export-controlled from the United States Government (USG) through a government-to-government agreement referred to as Letter of Offer and Acceptance (LOA). </p>
 <p>The <abbr title="Foreign Military Sales">FMS</abbr> program is a mutually beneficial government-to-government method for the procurement of export-controlled <abbr title="United States">US</abbr> defence articles and services. Responsible arms sales furthers <abbr title="United States">US</abbr> national security and foreign policy objectives by strengthening bilateral defence relations, which support coalition building, and enhance interoperability between <abbr title="United States">US</abbr> forces and military partners and allies. In the case of purchasing countries, <abbr title="Foreign Military Sales">FMS</abbr> allows access to otherwise controlled technologies, and extensive <abbr title="United States">US</abbr> supply chains. Leveraging the <abbr title="United States">US</abbr> procurement regime may also offer savings through economies of scale, procurement risk mitigation, and additional oversight.</p>
 <p>As the sole delegated Contracting Authority for <abbr title="Foreign Military Sales">FMS</abbr> acquisitions, <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Washington Sector [PWGSC (W)] is responsible for entering into government-to-government agreements with the <abbr title="United States">US</abbr> Department of Defense (DoD). <abbr title="Public Works and Government Services Canada">PWGSC</abbr> (<abbr title="Washington">W</abbr>) is responsible for entry into agreement, amendment, transportation, contract management, and monitoring <abbr title="United States">US</abbr> policy changes related to <abbr title="Foreign Military Sales">FMS</abbr> acquisitions. </p>
-<h2>Overview</h2>
+<h3>Overview</h3>
 <p>
     This policy notification provides an update to the processes outlined within the Supply Manual for <abbr title="Foreign Military Sales">FMS</abbr> acquisitions. The summary of the changes made are as follows: </p>
 <ol>
@@ -19,14 +19,14 @@
 <li>Third Party Transfer (TPT) processes have been added to provide clients and <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting officers with guidelines on how to proceed. </li>
 <li>The difference between <abbr title="Foreign Military Sales">FMS</abbr> and Direct Commercial Sales (DCS) has been added.</li>
 </ol>
-<h2>Summary of changes</h2>
+<h3>Summary of changes</h3>
 <p>In support of <abbr title="Policy Notification">PN</abbr>-143, the Supply Manual has been updated. For more details, refer to the Affected Supply Manual sections listed below.</p>
 <p>There were no changes to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> manual.</p>
-<h2>Contact information</h2>
+<h3>Contact information</h3>
 <p>Questions related to Foreign Military Sales acquisitions may be directed to <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Washington Sector at the following address: <a href="mailto:TPSGC.PAWSHDCBDG-APWSHDCDGO.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PAWSHDCBDG-APWSHDCDGO.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions regarding to the Supply Manual can be sent by email to the following email:
     <a href="mailto:TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected Supply Manual sections</h3>
+<h4 class="field-label">Affected Supply Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-5d992425847a908dce3b8e499310e7fd">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

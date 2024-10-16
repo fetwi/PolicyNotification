@@ -1,13 +1,13 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p>The purpose of Policy Notification (PN) 03R2 is to inform Acquisitions Program (AP) on changes to policy requirements for contracting with former public servants in receipt of a pension or a lump sum payment. </p>
-<h2>Effective date</h2>
+<h3>Effective date</h3>
 <p>This policy notification is effective immediately. </p>
-<h2>Policy requirements</h2>
+<h3>Policy requirements</h3>
 <p>To reflect modern comptrollership practices and risk-based oversight, requirements have been amended for the approvals of service contracts with former public servants in receipt of a pension.  The <a href="https://www.canada.ca/en/treasury-board-secretariat/services/policy-notice/changes-contracting-limits-approval-new-requirements.html" rel="external">Treasury Board Appendix C: Contracts Directive – Part 1 Basic Contracting Limits</a> – reflects the following changes: </p>
-<h3>Approvals for non-competitive contracts with former public servants</h3>
+<h4>Approvals for non-competitive contracts with former public servants</h4>
 <p>The responsible Minister must now provide contract approval prior to entering into a <strong>non-competitive</strong> service contract with a former public servant when one of the following conditions exist:</p>
 <ul>
 <li>the former public servant is in receipt of a pension under the <cite>Public Service Superannuation Act</cite> (PSSA) when the estimated total contract exceeds $200,000;</li>
@@ -15,20 +15,20 @@
 <li>the former public servant is in receipt of a lump sum payment when the total fees payable will exceed $5,000 during the lump sum payment period as provided in the <cite>Workforce Reduction Directive</cite> made pursuant to the <cite>Public Sector Compensation Act</cite>, or are former members of the Canadian Armed Forces or the Royal Canadian Mounted Police in receipt of lump sum payments through corresponding force reduction programs, regardless of whether one or more than one contract is involved.</li>
 </ul>
 <p>Treasury Board (TB) approval is no longer required in these cases. </p>
-<h3>Competitive contracting with former public servants</h3>
+<h4>Competitive contracting with former public servants</h4>
 <p>All competitive services contract or contractual arrangements with a former public servant in receipt of a pension are subject to contract-entry authorities delegated by the Minister.</p>
-<h3>Optional fee abatement for non-competitive contracts</h3>
+<h4>Optional fee abatement for non-competitive contracts</h4>
 <p>The fee abatement formula, which may be applied to a wage as a means to establish a fair and reasonable contract fee/rate, is no longer mandatory, but remains optional as a useful tool to manage costs for non-competitive contracts. </p>
 <p>When determining whether to apply the formula, Acquisitions Program contracting officers may also consider how similar the work to be performed under the contract is to the previous work performed by the contractor as a public servant (<abbr title="id est">i.e.</abbr> versus a subset of the work performed, or the degree of specialization, and how the pay compares to public service compensation models for similar classifications).</p>
-<h2>Summary of changes</h2>
-<h3>Supply Manual (SM) changes:</h3>
+<h3>Summary of changes</h3>
+<h4>Supply Manual (SM) changes:</h4>
 <p>In support of <abbr title="Policy Notification">PN</abbr>-03R2, the Supply Manual has been updated. For more details, refer to the Affected Supply Manual sections listed below. </p>
-<h3>Standard Acquisition Clauses and Conditions (SACC) Manual changes:</h3>
+<h4>Standard Acquisition Clauses and Conditions (SACC) Manual changes:</h4>
 <p>In support of <abbr title="Policy Notification">PN</abbr>-03R2, the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual has been updated. For more details, refer to the Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual items listed below. </p>
-<h2>Contact information</h2>
+<h3>Contact information</h3>
 <p>For assistance with the application, please contact <a href="mailto:TPSGC.PAPolitiques-APPolicy.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PAPolitiques-APPolicy.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected Supply Manual sections</h3>
+<h4 class="field-label">Affected Supply Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-3f221facc83710e454e3d52af827c1ab">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -40,7 +40,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h3>
+<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-a8ef80bc1fd7de561e629f71dceb9d6a">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

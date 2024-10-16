@@ -2,18 +2,18 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 17 mars 1998</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 17 mars 1998</h3>
 <p>À sa réunion du 11 décembre 1997, le Conseil du Trésor (CT) a approuvé le droit à l'Agence des services de santé au travail et d'hygiène du milieu (SSTHM) de présenter des soumissions dans le but de fournir des services aux ministères et agences du gouvernement fédéral (procès-verbal 825830)</p>
 <p>Conformément au paragraphe 10.1.2 du Manuel des Marchés du CT et au paragraphe 5 des Règlements sur les marchés de l'État, l'Agence SSTHM est donc autorisée à faire concurrence aux fournisseurs du secteur privé dans la fourniture de biens et de services aux ministères et organismes fédéraux.</p>
 <p>Les modifications connexes dans le <em>Guide des approvisionnements </em>(ci-après l'<strong>annexe A</strong>) seront incluses dans la modification 98-2 qui sera publiée le 15 juin 1998.</p>
-<h2>Annexe A</h2>
-<h3>Choix des soumissionnaires admissibles</h3>
+<h3>Annexe A</h3>
+<h4>Choix des soumissionnaires admissibles</h4>
 <p>5.060 (01/07/95) Habituellement, toute personne, entreprise ou autre entité peut présenter une soumission.</p>
 <p>5.061 (__/__/98) Un ministère ou organisme gouvernemental ou une société d'État (ou une entreprise qui est la propriété, en tout ou en partie, de l'un d'entre eux), tant au niveau fédéral que provincial ou municipal, ou d'un autre pays, peut être fournisseur s'il :</p>
 <ol type="a">
@@ -29,7 +29,7 @@
 </ol>
 <p>La politique concernant les services communs autorise également les ministères et organismes à acheter des services de CVC et du FPC, qui sont considérés comme des fournisseurs internes, au moyen de contrats négociés passés en exclusivité.</p>
 <p>Les ententes conclues entre entités gouvernementales ne sont pas considérées comme des marchés selon le RME, le Manuel du CT sur les marchés et les accords internationaux du Canada. Une documentation relative à l'achat doit donc être établie sous une forme appropriée avec l'aide du Contentieux.</p>
-<h2>Annexe 5.1 : LISTE DES ORGANISMES DE SERVICES SPÉCIAUX</h2>
+<h3>Annexe 5.1 : LISTE DES ORGANISMES DE SERVICES SPÉCIAUX</h3>
 <p>Les entités fédérales de prestation de services suivantes ont été désignées organismes de services spéciaux (OSS):</p>
 <p>Agence de pari mutuel (Agriculture et agro-alimentaire Canada)</p>
 <p>Agence de télécommunications gouvernementales (Travaux publics et Services gouvernementaux Canada)</p>

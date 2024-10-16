@@ -1,7 +1,7 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p><strong><em>Nota : Le présent document constitue une Ligne directrice provisoire plutôt qu'une politique nouvelle ou modifiée bien qu'on ait eu recours au processus de Notification réglementaire pour l'émettre.</em></strong></p>
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p>En règle générale, on parle d'Approvisionnement par un tiers (APT) lorsqu'un fournisseur du gouvernement, au cours de l'exécution d'un contrat intervenu avec ce dernier, se procure des biens et des services en se servant des sommes que le gouvernement lui verse au titre du contrat principal.</p>
 <p>L'<abbr title="Approvisionnement par un tiers">APT</abbr> n'est pas un phénomène nouveau. Qu'il serve à acquérir des biens, des services généraux, ou de GA, ou encore à la construction, ce mode d'approvisionnement par des entrepreneurs principaux a toujours eu cours et en voici des exemples:</p>
 <ul>
@@ -12,7 +12,7 @@
 <p>La question est de savoir si, et quand, des restrictions doivent être imposées à la « liberté » d'un fournisseur principal d'acheter des biens et des services. La présente directive vise à faciliter ce processus décisionnel; elle a été élaborée à la suite d'intenses discussions avec l'ensemble des régions et des secteurs.</p>
 <p>Afin de s'assurer que ces lignes directrices provisoires sont utiles au personnel chargé de l'approvisionnement, on analysera la mise en application de ces lignes directrices par <abbr title="Travaux publics et services gouvernementaux Canada">TPSGC</abbr> après trois mois, et on tiendra ensuite des discussions avec l'industrie afin d'émettre (s'il y a lieu) un énoncé de politique permanent. On invite les utilisateurs à communiquer leurs suggestions d'ajouts et de modifications à John Read, directeur des Projets spéciaux, SGPA, par courriel ou par téléphone au 819-956-2651.</p>
 <p>À la suite des Lignes directrices provisoires ci-dessous, vous trouverez une discussion générale de l'<abbr title="Approvisionnement par un tiers">APT</abbr>, des lignes directrices et de leur utilisation.</p>
-<h2>Lignes directrices provisoires</h2>
+<h3>Lignes directrices provisoires</h3>
 <ol type="a">
 <li>Au cours de la planification d'un approvisionnement, il faut établir la nécessité d'imposer des restrictions à la capacité d'un fournisseur principal à exécuter un <abbr title="Approvisionnement par un tiers">APT</abbr>.</li>
 <li>La Carte de planification d'un <abbr title="Approvisionnement par un tiers">APT</abbr> (Annexe A) et les Facteurs détaillés d'un <abbr title="Approvisionnement par un tiers">APT</abbr> (Annexe B) constituent le cadre de la prise de décision. Le personnel chargé de l'approvisionnement doit prendre le temps de se familiariser avec les différents éléments compris dans chacun des facteurs.</li>
@@ -21,7 +21,7 @@
 <li>On ne doit pas exiger ni autoriser qu'un fournisseur principal exécute un <abbr title="Approvisionnement par un tiers">APT</abbr> dans le but d'éviter les obligations en matière d'approvisionnement gouvernemental au titre des Ententes sur une revendication territoriale, des accords commerciaux, du Règlement sur les marchés de l'État, des délégations de pouvoirs du Conseil du trésor ou d'autres exigences juridiques ou réglementaires.</li>
 </ol>
 <p>On met le personnel chargé de l'approvisionnement en garde contre les situations où il est clair que l'entrepreneur principal exécutera des contrats d'approvisionnement au nom du gouvernement (p. ex., un contrat visant à fournir des services informatiques en réseau local et spécifiant que l'entrepreneur principal sera chargé de remplacer les ordinateurs de bureau d'un ministère). Selon le ministère de la Justice, un agent (ou un entrepreneur) qui agit conformément aux directives et au bénéfice de son mandat ne peut pas protéger l'approvisionnement contre des accords commerciaux. On tiendrait compte de facteurs tels que : de qui provient l'argent servant à payer les biens ou les service; qui établit les spécifications; Et qui possédera les biens ou au nom de qui les services sont rendus, afin de déterminer si l'approvisionnement est gouvernemental et assujetti aux accords commerciaux.</p>
-<h2>Discussion</h2>
+<h3>Discussion</h3>
 <ol type="i">
 <li>Il importe de souligner que <strong>l'émission des présentes lignes directrices ne vise pas à corriger un problème</strong>, mais plutôt à empêcher que les problèmes se reproduisent.</li>
 <li>Le défi qui se pose à <abbr title="Travaux publics et services gouvernementaux Canada">TPSGC</abbr> est de trouver la meilleure façon de répondre aux exigences opérationnelles d'un client en tenant compte des contraintes en matière de ressources que subissent de plus en plus <abbr title="Travaux publics et services gouvernementaux Canada">TPSGC</abbr> et ses clients, mais sans limiter indûment les occasions d'affaires des fournisseurs éventuels. Il faut donc prendre des décisions, dans le contexte du mandat d'approvisionnement de services communs de <abbr title="Travaux publics et services gouvernementaux Canada">TPSGC</abbr>, et reconnaître les engagements que le Canada a pris dans le cadre de ses Ententes sur une revendication territoriale et de ses accords commerciaux.</li>
@@ -93,7 +93,7 @@
 <li>Meubles à l'échelle d'un ministère - achat de meubles à éléments qui seront à la charge du gouvernement et deviendront sa propriété dans des locaux dans un bâtiment fédéral situé sur la rue Front. Le mandat clair de <abbr title="Travaux publics et services gouvernementaux Canada">TPSGC</abbr> pour l'acquisition du mobilier en tant que bien, comporte un risque élevé si l'acquisition est laissée au secteur privé; par conséquent, le gouvernement doit en être chargé.</li>
 <li>Projectiles - l'achat de munitions militaires ne peut être effectué par n'importe qui.</li>
 </ol>
-<h2>Annexe B</h2>
+<h3>Annexe B</h3>
 <ol type="i">
 <li><strong>Propriété</strong>
 <ul>

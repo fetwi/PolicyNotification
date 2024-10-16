@@ -1,10 +1,10 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>But</h2>
+<h3>But</h3>
 <p>Le but de l’AP-125 est d’informer tous les employés du Programme des approvisionnements (PA) et les agents de négociation des contrats de Travaux publics et Services gouvernementaux Canada (TPSGC) du remplacement de l’Accord sur le commerce intérieur (ACI) par l’<a href="https://www.cfta-alec.ca/wp-content/uploads/2017/06/CFTA-Consolidated-Text-Final-Print-Text-French-.pdf" rel="external">Accord de libre-échange canadien (ALEC)</a>, et de son effet sur les engagements commerciaux concernant les règles de procédure et la portée du champ d’application.</p>
-<h2>Date d’entrée en vigueur</h2>
+<h3>Date d’entrée en vigueur</h3>
 <p>Le présent AP entre en vigueur le 1<sup>er</sup> juillet 2017. L’<abbr title="Accord de libre-échange canadien">ALEC</abbr> s’appliquera à tous les achats qui seront faits à partir du 1<sup>er</sup> juillet 2017, alors que l’<abbr title="Accord sur le commerce intérieur">ACI</abbr> continuera de s’appliquer à tous les achats faits avant la date d’entrée en vigueur de l’<abbr title="Accord de libre-échange canadien">ALEC</abbr>, soit le 1<sup>er</sup> juillet 2017. Le processus de passation d’un marché commence après qu’une entité a défini ses prescriptions (voir l’article 1210 : Entrée en vigueur et l’article 1211 : Extinction de l’Accord sur le commerce intérieur).</p>
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p>Les accords commerciaux favorisent la concurrence et l’innovation en permettant aux fournisseurs canadiens de concurrencer les entreprises d’autres pays selon des règles plus uniformes grâce à des principes de concurrence ouverte, juste et transparente. Ces principes sont les suivants :</p>
 <ul>
 <li>pas de discrimination en fonction du pays, de la province, ou du territoire d’origine</li>
@@ -12,15 +12,15 @@
 <li>approvisionnement concurrentiel</li>
 <li>processus d’approvisionnement équitables</li>
 </ul>
-<h2>Aperçu</h2>
+<h3>Aperçu</h3>
 <p>L’<abbr title="Accord de libre-échange canadien">ALEC</abbr> remplace <abbr title="Accord sur le commerce intérieur">ACI</abbr>, qui a été en vigueur depuis 1995, et s’appliquera autant au gouvernement fédéral qu’aux provinces et territoires. L’<abbr title="Accord de libre-échange canadien">ALEC</abbr> améliore <abbr title="Accord sur le commerce intérieur">ACI</abbr> et aura des avantages importants. Le champ d’application et les règles de procédure de l’<abbr title="Accord de libre-échange canadien">ALEC</abbr> sont définis au chapitre 5 de l’Accord, tandis que les exceptions sont décrites à l’annexe 520.1 : Exceptions propres aux Parties, qui comprend les listes du Canada, des provinces et des territoires. Dans l’annexe 520.1, on utilise l’approche de la liste négative, en vertu de laquelle les exceptions aux obligations du chapitre sont répertoriées précisément dans les listes. Les règles de procédure de l’<abbr title="Accord de libre-échange canadien">ALEC</abbr> ont été harmonisées, dans une grande mesure, avec celles des accords commerciaux internationaux du Canada (les <abbr title="Accord sur le commerce intérieur">ACI</abbr>), y compris avec l’Accord sur les marchés publics de l’Organisation mondiale du commerce (AMP-OMC). Présentement, les seuils d’approvisionnement de l’<abbr title="Accord de libre-échange canadien">ALEC</abbr> demeurent aussi les mêmes que ceux de <abbr title="Accord sur le commerce intérieur">ACI</abbr>. On s’attend ainsi à ce que les obligations de l’<abbr title="Accord de libre-échange canadien">ALEC</abbr> aient une incidence minimale sur les activités d’approvisionnement fédérales. Toutefois, comme pour tout accord commercial, le chapitre sur les marchés publics doit être consulté afin que soient déterminées les obligations et les exceptions s’appliquant au Canada.</p>
-<h3>Obligations administratives</h3>
+<h4>Obligations administratives</h4>
 <p>Les obligations administratives se trouvent dans le texte du chapitre sur les marchés publics et sont harmonisées, dans une grande mesure, avec celles des <abbr title="Accord sur le commerce intérieur">ACI</abbr>, telles que l’<abbr title="Accord sur les marchés publics de l’Organisation mondiale du commerce">AMP-OMC</abbr>. Les règles de procédure couvrent notamment l’évaluation du contrat, les exceptions générales, les avis, le contenu des dossiers d’appel d’offres, les conditions de recours à l’appel d’offres limité, la publication des renseignements concernant l’attribution et l’utilisation de devis.</p>
-<h3>Entités visées</h3>
+<h4>Entités visées</h4>
 <p>Tous les organismes et ministères fédéraux sont visés par le chapitre sur les marchés publics de l’<abbr title="Accord de libre-échange canadien">ALEC</abbr>, à moins qu’ils soient exclus à l’annexe 520.1 : Exceptions propres aux Parties. Consulter les deux sections de la Liste du Canada à l’annexe 520.1, soit la section A (Entités exclues) et la section B (Exclusions et remarques).</p>
-<h3>Biens, services et services de construction</h3>
+<h4>Biens, services et services de construction</h4>
 <p>L’ensemble des biens, des services et des services de construction est visé par le chapitre sur les marchés publics de l’<abbr title="Accord de libre-échange canadien">ALEC</abbr>, à moins d’indication contraire dans la Liste du Canada, à la Section B : Exceptions et remarques, annexe 520.1 : Exceptions propres aux Parties.</p>
-<h3>Seuils</h3>
+<h4>Seuils</h4>
 <table class="table">
 <caption>Seuils pour l’<abbr title="Accord sur le commerce intérieur">ACI</abbr> et l’<abbr title="Accord de libre-échange canadien">ALEC</abbr> (en $ CAN)</caption>
 <tbody><tr>
@@ -49,9 +49,9 @@
 </tr>
 </tbody></table>
 <p>Les seuils de l’<abbr title="Accord de libre-échange canadien">ALEC</abbr> seront rajustés en fonction de l’inflation tous les deux ans à compter du 1<sup>er</sup> janvier 2018 et seront publiés sur la page Web des Avis sur la politique des marchés du Secrétariat du Conseil du Trésor (<a href="https://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/ContPolNotices/2015/15-03-fra.asp" rel="external">Accords commerciaux : Mise à jour des seuils</a>).</p>
-<h3>Exceptions</h3>
+<h4>Exceptions</h4>
 <p>Certaines exceptions sont répertoriées au chapitre 8 (Exceptions générales). Toutes les autres exceptions sont répertoriées à l’article 504:11 : Non-application, à l’article 520 : Exceptions et dans la Liste du Canada (annexe 520.1 : Exceptions propres aux Parties).</p>
-<h2>Résumé des modifications</h2>
+<h3>Résumé des modifications</h3>
 <p>Bien que le champ d’application et les règles administratives de l’<abbr title="Accord de libre-échange canadien">ALEC</abbr> soient semblables à ceux de l’<abbr title="Accord sur le commerce intérieur">ACI</abbr>, il existe quelques différences fondamentales en ce qui concerne les marchés publics. Par exemple, l’<abbr title="Accord de libre-échange canadien">ALEC</abbr> :</p>
 <ul>
 <li>a un champ d’application plus grand que l’<abbr title="Accord sur le commerce intérieur">ACI</abbr>, grâce à l’approche de la liste négative qui couvre tous les achats publics à l’exception des entités, des biens et des services qui sont précisément répertoriés dans les listes d’engagement en matière d’accès au marché du Canada et de chaque province et territoire</li>
@@ -65,10 +65,10 @@
 <li>conserver les seuils de l’<abbr title="Accord sur le commerce intérieur">ACI</abbr>. Soulignons toutefois qu’ils seront désormais révisés tous les deux ans afin de les rajuster en fonction de l’inflation</li>
 </ul>
 <p>Remarque : l’<abbr title="Accord de libre-échange canadien">ALEC</abbr> ne s’applique pas aux achats faits dans le cadre d’un programme de marchés réservés aux petites entreprises en autant que le programme est juste, ouvert, transparent et ne fait pas de discrimination selon le lieu d’origine ou l’emplacement des biens, des services ou des fournisseurs au Canada.</p>
-<h2>Coordonnées</h2>
+<h3>Coordonnées</h3>
 <p>Pour obtenir de l’aide sur l’application des accords commerciaux, les agents de négociation des contrats peuvent communiquer avec Natalie Dupont, Unité des accords commerciaux, Secteur de la politique stratégique, par téléphone au 819-420-1710, ou par courriel à l’adresse <a href="mailto:Natalie.Dupont@tpsgc-pwgsc.gc.ca." rel="external">Natalie.Dupont@tpsgc-pwgsc.gc.ca.</a></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Sections du Guide des approvisionnements visées</h3>
+<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-d33db1e9522c008779e6afe78cdd7424">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -154,7 +154,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h3>
+<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-8461ce4a7d462221cb1b8c50bb64f12b">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

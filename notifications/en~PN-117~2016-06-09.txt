@@ -1,12 +1,12 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Purpose</h2>
+<h3>Purpose</h3>
 <p>The purpose of PN-117 is to provide direction to contracting officers for the treatment of certifications, declarations and proof documents for all solicitations issued by Public Works and Government Services Canada (PWGSC)’s Acquisitions Program. </p>
 <p>Under this new policy, solicitations may request that bidders, offerors or suppliers provide mandatory certification, declaration or proof at bid closing, but these documents <strong>must not be required</strong> at bid closing unless identified as an exception listed below. </p>
-<h2>Background</h2>
+<h3>Background</h3>
 <p><abbr title="Public Works and Government Services Canada">PWGSC</abbr> is committed to developing policies and tools to support flexible bid evaluation. The Department is reinforcing this commitment through this policy, which establishes a process for how and when bidders, offerors or suppliers  will be required to provide certifications, declarations and proofs and will ensure consistent treatment of these documents.</p>
-<h2>Definitions and examples</h2>
+<h3>Definitions and examples</h3>
 <p>Certifications, declarations and proofs are standalone documents that substantiate information submitted with a bid, offer or arrangement. Standalone documents are independent from requirements for bid evaluation but they are mandatory to finalize the bid evaluation process. </p>
 <p>Examples of certifications, declarations and proof documents are provided below and are for illustration purposes only. Personal references may also be included under this policy but only if their use will not change the substance of a bid, offer or arrangement or introduce new information that could improve a score or ranking.</p>
 <table>
@@ -41,10 +41,10 @@
 </td>
 </tr>
 </tbody></table>
-<h2>Evaluation process</h2>
+<h3>Evaluation process</h3>
 <p>Mandatory certifications, declarations or proof documents may be requested at bid closing. However, under this policy bidders <strong>must not be required</strong> to provide these documents at bid closing unless, the documentation being requested is included in the Exceptions section below. Contracting officers must ensure that all solicitation documents identify which certifications, declarations and proofs are required. If these documents have not been provided at bid closing, <abbr title="Public Works and Government Services Canada">PWGSC</abbr> will notify the bidder, offeror or supplier that they are required to provide them within two business days following notification by <abbr title="Public Works and Government Services Canada">PWGSC</abbr>. (Note: this time requirement reflects <abbr title="Public Works and Government Services Canada">PWGSC</abbr>’s expectation that these documents ought to be readily available to a bidder, offeror or supplier.) </p>
 <p>Once notified, any bidder, offeror or supplier that fails to provide the required document(s) within two business days will be informed by the Department that their bid, offer or arrangement is non-responsive and that it will be given no further consideration. </p>
-<h2>Exceptions</h2>
+<h3>Exceptions</h3>
 <p>The following exceptions are permitted:</p>
 <ol>
 <li>Integrity Provisions - The bidder, offeror or supplier must provide a completed Declaration Form or list of directors or owners in accordance with conditions defined in <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/politique-policy-eng.html" rel="external">Ineligibility and Suspension Policy</a>.</li>
@@ -53,13 +53,13 @@
 <li>Requests for Financial Capability documentation – Contracting officers in consultation with the Cost and Price Analysis Group determine what financial information will be required from a subset of bidders during the bid evaluation phase and the time frame for providing the information.</li>
 <li>Two-Step Bid Evaluation Process - Provides bidders, offerors or suppliers two opportunities to achieve compliance with <strong>all</strong> mandatory requirements, including certifications, declarations and proofs.</li>
 </ol>
-<h2>Supply Manual, Standard Acquisition Clauses and Conditions Manual and Standard Procurement Templates</h2>
+<h3>Supply Manual, Standard Acquisition Clauses and Conditions Manual and Standard Procurement Templates</h3>
 <p>The Supply Manual has been updated to reflect this new policy. See Affected Supply Manual sections below for a complete list of modified sections.</p>
 <p>The contracting authority must apply the "two business days" time requirement to any <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> manual clause that currently allows for the contracting authority to stipulate the time to provide a certification, declaration or proof as defined by this policy notification. While no changes have been made to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual, a non-comprehensive list of clauses affected by these changes is provided below for information purposes. No changes have been made to Standard Procurement Templates.</p>
-<h2>Contact information</h2>
+<h3>Contact information</h3>
 <p>Please direct any enquiries to the Strategic Policy Sector by email at the following address:<br/> <a href="mailto:TPSGC.DPPApublications-APPDpublications.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.DPPApublications-APPDpublications.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected Supply Manual sections</h3>
+<h4 class="field-label">Affected Supply Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-46986a2da41570ad0dcc9bb112dff831">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
@@ -67,7 +67,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h3>
+<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-2f9871aa6efbaa788254dde69935acf7">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

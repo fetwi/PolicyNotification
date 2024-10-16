@@ -1,22 +1,22 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Objet </h2>
+<h3>Objet </h3>
 <p>L'objectif de l'avis relatif aux politiques (AP-48R1) est de mettre à jour les obligations à l'égard de la <cite><a href="https://laws-lois.justice.gc.ca/fra/lois/o-3.01/" rel="external">Loi sur les langues officielles</a></cite> (LLO) pour les agents de négociation des contrats du Programme des approvisionnements (PA).</p>
-<h2>Date d'entrée en vigueur</h2>
+<h3>Date d'entrée en vigueur</h3>
 <p>L'<abbr title="avis relatif aux politiques">AP</abbr>-48R1 entrera en vigueur à compter du 13 mai 2022 et remplace dans son intégralité l'<abbr title="avis relatif aux politiques">AP</abbr>-48.</p>
-<h2>Contexte</h2>
+<h3>Contexte</h3>
 <p>Le gouvernement a l'obligation juridique de servir le public et de communiquer avec lui dans les deux langues officielles, conformément à la <abbr title="Loi sur les langues officielles">LLO</abbr> et à tous les règlements en découlant, y compris le <cite><a href="https://laws.justice.gc.ca/fra/reglements/DORS-92-48/index.html" rel="external"> Règlement sur les langues officielles – communications avec le public et prestation des services</a></cite>.</p>
 <p>L'<abbr title="avis relatif aux politiques">AP</abbr> contient de nouvelles dispositions et des mises à jour dont le but est d'assurer la rédaction dans les deux langues officielles des avis d'approvisionnement et des documents relatifs aux appels d'offres publiés sur le Service électronique d'appels d'offres du gouvernement (SEAOG). Les contenus français et anglais doivent être de qualité égale et être publiés simultanément.</p>
-<h2>Révisions apportées au Guide des approvisionnements</h2>
+<h3>Révisions apportées au Guide des approvisionnements</h3>
 <p>Le Guide des approvisionnements a été révisé pour refléter le présent <abbr title="avis relatif aux politiques">AP</abbr>. Pour plus de détails, veuillez consulter les Items du Guide des approvisionnements visés ci-dessous.</p>
-<h2>Révisions apportées au Guide des clauses et conditions uniformisées d'achat (CCUA)</h2>
+<h3>Révisions apportées au Guide des clauses et conditions uniformisées d'achat (CCUA)</h3>
 <p>Le Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> a été révisé pour refléter le présent <abbr title="avis relatif aux politiques">AP</abbr>. Pour plus de détails, veuillez consulter les Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés ci-dessous.</p>
-<h2>Révisions apportées aux modèles uniformisés d'approvisionnement</h2>
+<h3>Révisions apportées aux modèles uniformisés d'approvisionnement</h3>
 <p>Aucune modification n'a été apportée aux modèles uniformisés d'approvisionnement.</p>
-<h2>Coordonnées</h2>
+<h3>Coordonnées</h3>
 <p>Pour toute question concernant cet <abbr title="avis relatif aux politiques">AP</abbr>, y compris les exigences en matière de langues officielles pour la publication d'avis et de documents relatifs aux appels d'offres, veuillez envoyer un courriel à :<a href="mailto:tpsgc.paspspublications-apspspublications.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.paspspublications-apspspublications.pwgsc@tpsgc-pwgsc.gc.ca</a> avec « Langues officielles » dans le champ « Sujet ».</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Sections du Guide des approvisionnements visées</h3>
+<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-77ce7f3cea6d880b3de11237baf76a22">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -40,7 +40,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h3>
+<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-6215742043e87f1e60a3e0600a9d3af9">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">

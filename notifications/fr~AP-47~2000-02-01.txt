@@ -2,20 +2,20 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 1<sup>er</sup> février 2000</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 1<sup>er</sup> février 2000</h3>
 <p>Le présent document, pertinent immédiatement, vise à annuler la politique voulant qu'on fasse approuver par le sous-ministre les taux ou les prix provisoires dans le cadre de contrats autorisés par le Conseil du Trésor.</p>
 <p>L'exigence relative à l'approbation des modifications par le sous-ministre est définie dans le Guide des approvisionnements, à l'annexe 6.1.5, paragraphe 9 c) -- <i>Taux (ou prix à négocier)/taux (ou prix) provisoires</i>. Cette politique, qui a été mise sur pied comme mesure de contrôle interne, était applicable lorsque le contrat original comportant des taux provisoires avait été approuvé par le Conseil du Trésor.</p>
 <p>Le Guide des approvisionnements sera mis à jour pour refléter ce changement, tel qu'indiqué à l'annexe A.</p>
 <p>La prochaine version du Guide des approvisionnements est prévue pour le 12 mai 2000.</p>
 <p>(Personne-ressource : <strong>S/O</strong>)</p>
-<h2>Annexe A</h2>
-<h3>Annexe 6.1.5 Instructions relatives à l'approbation des modifications de contrats</h3>
+<h3>Annexe A</h3>
+<h4>Annexe 6.1.5 Instructions relatives à l'approbation des modifications de contrats</h4>
 <p><strong>9. Taux (ou prix à négocier)/taux (ou prix) provisoires</strong></p>
 <p>Si la base de paiement d'un contrat comprend des taux (ou prix) provisoires et qu'il est proposé de modifier le contrat pour prévoir des taux (ou prix) fermes, les niveaux autorisés à approuver la modification seront les suivants (à moins d'avis contraire de la part du fondé de pouvoir ayant autorisé le contrat) :</p>
 <ol type="a">

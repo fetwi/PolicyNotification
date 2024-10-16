@@ -1,16 +1,16 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Objet</h2>
+<h3>Objet</h3>
 <p>L'Avis relatif aux politiques 91R1 (AP-91R1) vise à présenter la mise à jour des directives concernant le processus de compte rendu.</p>
-<h2>Date d'effet</h2>
+<h3>Date d'effet</h3>
 <p>L'<abbr title="Avis relatif aux politiques">AP</abbr>-91R1 et les modifications au <cite>Guide des approvisionnements</cite>, au Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> et aux modèles uniformisés d'approvisionnement entrent en vigueur immédiatement.</p>
-<h2>Politique</h2>
+<h3>Politique</h3>
 <p>Cet <abbr title="Avis relatif aux politiques">AP</abbr> comprend, en plus d'autres modifications, des instructions précises en ce qui a trait à l'organisation d'une rencontre de rétroaction plutôt que d'un compte rendu dans les cas où une demande de soumissions est annulée, puis lancée à nouveau.  Lorsqu'une demande de soumissions est annulée et relancée, il est très important que les agents de négociation des contrats fournissent les mêmes renseignements à tous les soumissionnaires, offrants ou fournisseurs dans un format générique, afin d'assurer l'équité, l'ouverture et la transparence de l'ensemble du processus d'approvisionnement.</p>
-<h2>Modifications apportées au <cite>Guide des approvisionnements</cite></h2>
+<h3>Modifications apportées au <cite>Guide des approvisionnements</cite></h3>
 <p>Pour appuyer cet <abbr title="Avis relatif aux politiques">AP</abbr>, le <cite>Guide des approvisionnements</cite> a été mis à jour. Voir <a href="#AP-91R1sections_du_guide_des_approvisionnements_visees">Section(s) du <cite>Guide des approvisionnements</cite> visée(s)</a> ci-dessous pour consulter la liste des sections modifiées. </p>
-<h2>Modifications apportées au Guide des clauses et conditions uniformisées d'achat (CCUA)</h2>
+<h3>Modifications apportées au Guide des clauses et conditions uniformisées d'achat (CCUA)</h3>
 <p>Des modifications ont été apportées aux <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr>. Pour prendre connaissance des clauses modifiées, voir <a href="#AP-91R1sections_du_guide_des_ccua_visees">Sections(s) du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visées</a> ci-dessous. Les agents de négociation des contrats doivent intégrer ces modifications à leurs documents d'approvisionnement.</p>
-<h2>Modifications apportées aux modèles uniformisés d'approvisionnement</h2>
+<h3>Modifications apportées aux modèles uniformisés d'approvisionnement</h3>
 <p>Les <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#TEMPLATES">modèles uniformisés d'approvisionnement</a> suivants ont été révisés. Les agents de négociation des contrats doivent intégrer ces modifications à leurs documents d'approvisionnement.</p>
 <ul>
 <li>Février 2013 Modèle de demande de soumissions et de contrat subséquent de faible valeur (Simple)</li>
@@ -19,11 +19,11 @@
 <li>Février 2013 Modèle de demande d'offres à commandes (DOC)</li>
 <li>Février 2013 Modèle de demande d'arrangements en matière d'approvisionnement (DAMA)</li>
 </ul>
-<h2>Ressources</h2>
+<h3>Ressources</h3>
 <p>Les questions peuvent être envoyées par courriel au Secteur de la politique, du risque, de l'intégrité et de la gestion stratégique (SPRIGS),  à <a href="mailto:dppapublications.appdpublications@tpsgc-pwgsc.gc.ca" rel="external">dppapublications.appdpublications@tpsgc-pwgsc.gc.ca</a>.</p>
 <p><a id="AP-91R1sections_du_guide_des_approvisionnements_visees"></a></p>
 <p><a id="AP-91R1sections_du_guide_des_ccua_visees"></a></p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Sections du Guide des approvisionnements visées</h3>
+<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-3f68fd3ae1b2bd5b5cdcdabc8e1f8b30">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
@@ -31,7 +31,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h3>
+<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-50b168bbe5a4df0d50f4b7b9de5a3d9a">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">

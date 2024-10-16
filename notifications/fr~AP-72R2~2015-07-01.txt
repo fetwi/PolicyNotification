@@ -1,12 +1,12 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Objectif</h2>
+<h3>Objectif</h3>
 <p>L’Avis relatif aux politiques 72R2 (AP-72R2) vise à informer les agents de négociation des contrats du Programme des approvisionnements des changements apportés aux processus touchant la création, le renouvellement et la prolongation des offres à commandes (OC) et des arrangements en matière d’approvisionnement (AMA), ainsi qu’aux rôles et aux responsabilités connexes de tous les intervenants associés concernant la diffusion d’information dans l’Index des offres à commandes (IOC). Les révisions décrites dans le présent <abbr title="avis relatif aux politiques">AP</abbr> renforceront le cadre de contrôle de gestion du Ministère pour ces instruments d’approvisionnement.</p>
 <p>Aux fins du présent document, les offres à commandes incluent toute offre à commandes principale et nationale (OCPN), offre à commandes individuelle et nationale (OCIN), offre à commandes principale et régionale (OCPR), offre à commandes individuelle et régionale (OCIR) et offre à commandes individuelle et ministérielle (OCIM).</p>
 <p>Le présent <abbr title="avis relatif aux politiques">AP</abbr> doit être lu conjointement avec l’<a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/avis-relatifs-aux-politiques/AP-92">AP-92 Politique de gestion des biens et des services</a>, qui décrit de quelle façon les stratégies nationales d’approvisionnement en biens et en services seront élaborées. Ce dernier a préséance sur l’AP-72R2 dans le cas où une telle stratégie existerait pour une catégorie pour laquelle une <abbr title="offre à commandes">OC</abbr> ou un <abbr title="arrangement en matière d’approvisionnement">AMA</abbr> est envisagé.</p>
-<h2>Contexte</h2>
+<h3>Contexte</h3>
 <p>En juillet 2013, le Bureau de la vérification et de l’évaluation a publié un rapport (Vérification des offres à commandes et des arrangements en matière d’approvisionnement : Création, renouvellement et prolongation, 2011-712) concernant son examen du cadre de contrôle de gestion du Ministère pour la création, le renouvellement et la prolongation des offres à commandes et des arrangements en matière d’approvisionnement. Ce rapport présente des recommandations en vue de renforcer ce cadre, principalement à l’égard de la gouvernance, des processus et des mesures de contrôle. Le Programme des approvisionnements met actuellement en œuvre un plan d’action de gestion se rattachant à ces recommandations, dont un exemple est le présent <abbr title="avis relatif aux politiques">AP</abbr>.</p>
-<h2>Résumé des modifications apportées au Guide des approvisionnements</h2>
+<h3>Résumé des modifications apportées au Guide des approvisionnements</h3>
 <p>La présente section indique les étapes obligatoires à suivre pour la création, le renouvellement ou la prolongation d’offres à commandes et d’arrangements en matière d’approvisionnement, la diffusion d’information dans l’Index des offres à commandes et l’utilisation de documents uniformisés d’approvisionnement ministériels, ainsi que les exigences d’établissement de rapports connexes pour les offres à commandes et les arrangements en matière d’approvisionnement.</p>
 <p>Le bureau de premier intérêt (BPI) pour des biens ou des services précis est désigné comme étant l’équipe de gestion des catégories, et chaque équipe compte un réviseur de catégories chargé d’endosser la création, la prolongation ou le renouvellement de toutes les offres à commandes et de tous les arrangements en matière d’approvisionnement.</p>
 <p>Si un produit ou un service requis ne figure pas dans une catégorie en particulier, l’agent de négociation des contrats doit demander l’endossement de l’<abbr title="offre à commandes">OC</abbr> ou de l’<abbr title="arrangement en matière d’approvisionnement">AMA</abbr> auprès :</p>
@@ -55,12 +55,12 @@ Pour émettre une demande d’offre à commande ou une demande d’arrangement e
 Pour garantir la gestion et le contrôle efficace des offres à commandes et des arrangements en matière d’approvisionnement, les agents de négociation des contrats doivent examiner attentivement les exigences d’établissement de rapports connexes et déterminer la meilleure façon de les respecter. Les sources de données pour les offres à commandes et les arrangements en matière d’approvisionnement comprennent, sans en exclure d’autres : l’<abbr title="Index des offres à commandes">IOC</abbr>, les ministères clients, les systèmes de suivi internes, les équipes de gestion des catégories, la Direction des services en analytique d’affaires (DSAA) à l’adresse <a href="mailto:NCR.ACQBReporting@tpsgc-pwgsc.gc.ca" rel="external">NCR.ACQBReporting@tpsgc-pwgsc.gc.ca</a>, ainsi que les offrants ou les fournisseurs.
 </li>
 </ol>
-<h2>Résumé des modifications apportées aux Clauses et conditions uniformisées d’achat</h2>
+<h3>Résumé des modifications apportées aux Clauses et conditions uniformisées d’achat</h3>
 <p>Aucune modification n’a été apportée aux clauses et conditions uniformisées d’achat.</p>
-<h2>Ressources</h2>
+<h3>Ressources</h3>
 <p>Transformation du Programme des approvisionnements (TPA) : <a href="mailto:DCBS-CCD@tpsgc-pwgsc.gc.ca" rel="external">DCBS-CCD@tpsgc-pwgsc.gc.ca</a></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Sections du Guide des approvisionnements visées</h3>
+<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-4d916e63c5c22015efb4c35c55dc8ecf">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

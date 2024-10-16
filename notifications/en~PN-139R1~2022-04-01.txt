@@ -1,20 +1,20 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Purpose</h2>
+<h3>Purpose</h3>
 <p><abbr title="Policy Notification">PN</abbr>-139R1 replaces and supersedes <abbr title="Policy Notification">PN</abbr>-139.</p>
 <p>The purpose of Policy Notification (PN)-139R1 is to inform <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Acquisitions Program (AP) contracting officers of the new clauses and templates drafted to support implementation of the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32610" rel="external">Directive on Government Contracts, Including Real Property Leases, in the Nunavut Settlement Area</a> (the Directive).</p>
-<h2>Effective date</h2>
+<h3>Effective date</h3>
 <p>This policy notification is effective immediately and supports the Directive that has been in effect since December 20, 2019. The Supply Manual (SM), Standard Acquisitions Clauses and Conditions (SACC) clauses, and Standard Procurement Templates have been updated.</p>
-<h2>Background</h2>
+<h3>Background</h3>
 <p>On December 20, 2019, the Treasury Board <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32610" rel="external">Directive on Government Contracts, Including Real Property Leases, in the Nunavut Settlement Area</a> came into effect. The Directive was developed in close consultation with the <a href="https://www.tunngavik.com/about/" rel="external">Nunavut Tunngavik Incorporated (NTI)</a>, the Designated Inuit Organization (DIO) for the Agreement between the Inuit of the Nunavut Settlement Area and Her Majesty the Queen in right of Canada (Nunavut Agreement). The Directive supports the <a href="https://nlca.tunngavik.com/?page_id=2366" rel="external">Government of Canada’s obligations under Article 24 (Government Contracts)</a> of the Nunavut Agreement to provide reasonable support and assistance to Inuit firms to enable them to compete for government contracts, for the supply of goods, services, construction services and real property leases. </p>
-<h2>Application of the Directive </h2>
+<h3>Application of the Directive </h3>
 <p>The requirements of the Directive apply to any government contract (as defined in Article 24.1.1 of the Nunavut Agreement), including real property leases, where the deliverable(s), or a portion of the deliverable(s) include final delivery or performance in or into the Nunavut Settlement Area (NSA).</p>
 <p>The Directive applies to departments and agencies listed in Schedules I, I.1 and II of the <a href="https://laws-lois.justice.gc.ca/eng/acts/F-11/FullText.html" rel="external"><cite>Financial Administration Act</cite></a> (FAA), with the exception of the Canada Revenue Agency and to Commissions established pursuant to the <cite>Inquiries Act</cite> that are designated as departments for the purposes of the <cite>Financial Administration Act</cite>.</p>
 <p>In the event of a conflict between the Directive and a requirement of any other Treasury Board or departmental policy, the Directive will take precedence.</p>
-<h2>Guide on Government Contracts in the Nunavut Settlement Area (the Guide)</h2>
+<h3>Guide on Government Contracts in the Nunavut Settlement Area (the Guide)</h3>
 <p>As required in the Directive, a government-wide guide titled “Guide on Government Contracts in the Nunavut Settlement Area” has been developed to assist Contracting Authorities (CA) and Technical Authorities (TA) in fulfilling the obligations of the Directive. The Guide assumes a general understanding of Canada’s procurement process, and focuses advice on areas where the Directive represents a significant departure from the standard procurement approach. The Guide can be accessed here: <a href="https://buyandsell.gc.ca/for-government/buying-for-the-government-of-canada/plan-the-procurement-strategy#nunavut-directive">Guide on Government Contracts in the Nunavut Settlement Area</a>.</p>
-<h2>Expected results</h2>
+<h3>Expected results</h3>
 <p>The Directive and its implementation measures (including the Guide) reflect the expected results of Article 24 of the Nunavut Agreement which are, to the extent possible, as follows: </p>
 <ul>
 <li>increased participation by Inuit firms in business opportunities in the <abbr title="Nunavut Settlement Area">NSA</abbr> economy;</li>
@@ -23,7 +23,7 @@
 </ul>
 <p>It is also expected that the procurement obligations in the Nunavut Agreement will be more consistently applied across the federal government by following the provisions of the Guide.
 </p>
-<h2>Key policy measures of the Directive</h2>
+<h3>Key policy measures of the Directive</h3>
 <ol type="i">
 <li><a href="https://inuitfirm.tunngavik.com/" rel="external"><strong>Inuit Firm Registry (IFR)</strong></a><br/>
 <p>As per the Nunavut Agreement, <abbr title="Nunavut Tunngavik Incorporated">NTI</abbr> is responsible for preparing and maintaining a registry of Inuit firms, and identifying the commodities and services those firms provide. This list is referred to as the Inuit Firm Registry (IFR). <abbr title="Contracting Authorities">CAs</abbr> and <abbr title="Technical Authorities">TA</abbr>s must consult the <abbr title="Inuit Firm Registry">IFR</abbr> before soliciting or inviting bids for a government contract in the <abbr title="Nunavut Settlement Area">NSA</abbr>.
@@ -56,15 +56,15 @@
 </ul>
 </li>
 </ol>
-<h2>Overview of changes</h2>
+<h3>Overview of changes</h3>
 <p>In support of <abbr title="Policy Notification">PN</abbr>-139R1, additions to the <abbr title="Standard Acquisitions Clauses and Conditions">SACC</abbr> Manual, modifications to the Standard Procurement Templates, and the Supply Manual have been made. These additions are meant to provide additional support for Contracting Authorities seeking to integrate the obligations of the Nunavut Directive within their procurements.</p>
 <p>Strategic Policy Sector’s Indigenous Procurement Policy Division (IPPD) must be advised of procurements that will be taking place in the <abbr title="Nunavut Settlement Area">NSA</abbr> and <abbr title="Contracting Authorities">CAs</abbr> may be required to provide file specific information to <abbr title="Indigenous Procurement Policy Division">IPPD</abbr> at any stage of their procurement regarding the implementation of the Directive.</p>
 <p>There are supplementary templates (Inuit Benefits Plan (IBP), <abbr title="Inuit Benefits Plan">IBP</abbr> Evaluation, and <abbr title="Inuit Benefits Plan">IBP</abbr> Progress Report) referenced in the new <abbr title="Standard Acquisitions Clauses and Conditions">SACC</abbr> Manual clauses and Standard Procurement Templates that must be applied to procurements subject to the Directive. For each new procurement, the most up-to-date supplementary templates must be obtained from <abbr title="Indigenous Procurement Policy Division">IPPD</abbr>.</p>
 <p>Procurements that are subject to the Directive and that will evaluate <abbr title="Inuit Benefits Plan">IBP</abbr>s must also include an <abbr title="Inuit Benefits Plan">IBP</abbr> Holdback clause to ensure that the <abbr title="Inuit Benefits Plan">IBP</abbr> is enforced. For each new procurement, the most up-to-date <abbr title="Inuit Benefits Plan">IBP</abbr> Holdback clause and guidance on its utilization must be obtained from <abbr title="Indigenous Procurement Policy Division">IPPD</abbr>. In the event that a <abbr title="Contracting Authority">CA</abbr> would like to implement a holdback clause to enforce the delivery of Indigenous participation in a procurement not subject to the Nunavut Directive, they must seek legal advice prior to doing so.</p>
-<h2>Summary of revisions to the Supply Manual</h2>
+<h3>Summary of revisions to the Supply Manual</h3>
 <p>The <abbr title="Supply Manual">SM</abbr> has been revised to include updated contact information for the Indigenous Procurement Policy Division (IPPD).</p>
 <p>The <abbr title="Supply Manual">SM</abbr> has been updated to reflect this <abbr title="Policy Notification">PN</abbr>. For more details, refer to the Affected Supply Manual sections listed below.</p>
-<h2>Summary of additions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h2>
+<h3>Summary of additions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h3>
 <p>New <abbr title="Standard Acquisitions Clauses and Conditions">SACC</abbr> Manual clauses have been developed in order to achieve the following:</p>
 <ol>
 <li>W0202T – Nunavut Directive<br/>
@@ -107,14 +107,14 @@
         To provide invoicing instructions and inform contractors that invoices must be accompanied by reports related to <abbr title="Inuit Benefits Plan">IBP</abbr> progress.</li>
 </ol>
 <p>The <abbr title="Standard Acquisitions Clauses and Conditions">SACC</abbr> Manual has been updated to reflect this <abbr title="Policy Notification">PN</abbr>. For more details, refer to the Affected <abbr title="Standard Acquisitions Clauses and Conditions">SACC</abbr> Manual sections listed below.</p>
-<h2>Summary of revisions to the Standard Procurement Templates</h2>
+<h3>Summary of revisions to the Standard Procurement Templates</h3>
 <p>The High Complexity Bid Solicitation and Resulting Contract Template (HC) and Medium Complexity Bid Solicitation and Resulting Contract Template (MC) have been modified in an effort to integrate elements of the Nunavut Directive, including references to <abbr title="Standard Acquisitions Clauses and Conditions">SACC</abbr> Manual items and the use of limited bidding, Inuit Benefit Plans (IBP), and <abbr title="Inuit Benefits Plan">IBP</abbr> progress reporting, into the standard procurement process.</p>
 <p>The Standard Procurement Templates have been revised on GCPedia.</p>
-<h2>Contact information</h2>
+<h3>Contact information</h3>
 <p>To advise <abbr title="Indigenous Procurement Policy Division">IPPD</abbr> of a procurement that will be taking place in the <abbr title="Nunavut Settlement Area">NSA</abbr> and for the most up-to-date version of the <abbr title="Inuit Benefits Plan">IBP</abbr> Holdback clause and supplementary templates, or for general advice and guidance on procurements subject to the Directive, send an email to: <a href="mailto:TPSGC.PAContratsNunavut-APNunavutContracts.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PAContratsNunavut-APNunavutContracts.PWGSC@tpsgc-pwgsc.gc.ca</a>. To expedite their requests, <abbr title="Contracting Authorities">CAs</abbr> should provide the basic file information identified in section <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-9#_9-35">9.35.1.i.i “General information on Modern Treaties (Comprehensive Land Claim Agreements)”</a> of the Supply Manual.</p>
 <p>Questions about the Supply Manual (SM) can be emailed to: <a href="mailto:TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions about the Standard Acquisition Clauses and Conditions (SACC) Manual or the Standard Procurement Templates can be emailed to: <a href="mailto:TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected Supply Manual sections</h3>
+<h4 class="field-label">Affected Supply Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-18e0886ceb96adac9ccef0cbc40b4525">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
@@ -122,7 +122,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h3>
+<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-a87dbda31b319ef8ff9de2349b51cf6a">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

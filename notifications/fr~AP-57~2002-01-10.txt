@@ -2,37 +2,37 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 10 janvier 2002</h2>
-<h3>Contexte</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 10 janvier 2002</h3>
+<h4>Contexte</h4>
 <p>Étant donné les récents événements, la Direction de la politique opérationnelle (DPO) a demandé au ministère des Affaires étrangères et du commerce international (MAECI) de revoir la clause actuelle sur les sanctions internationales. En revoyant la clause, le MAECI a pensé qu'il serait plus clair de mentionner explicitement des personnes plutôt que simplement des pays. Il a pensé aussi qu'une telle clarification serait utile non seulement à l'égard des terroristes et de l'Afghanistan, mais aussi d'autres endroits comme le Sierra Leone et l'Angola, où les cibles des sanctions sont des mouvements de rébellion à l'intérieur du pays, non le pays lui-même.</p>
-<h3>Question</h3>
+<h4>Question</h4>
 <p>Les clauses du Guide des CCUA K2105D et M2100D sur les sanctions internationales ont été mises à jour pour inclure les changements demandés par le MAECI, et le Guide des approvisionnements (6D.390) a été mis à jour en conséquence. Les changements apportés aux clauses du Guide des CCUA et au Guide des approvisionnements sont en rouge et sont indiqués en détail ci-dessous.</p>
 <hr/>
 <p><strong>GUIDE DES CCUA</strong></p>
-<h3>K2105D (xx/xx/xx) Sanctions internationales</h3>
+<h4>K2105D (xx/xx/xx) Sanctions internationales</h4>
 <p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT</strong>. Utiliser cette clause dans tous les documents contractuels. Au moment du lancement de l'invitation à soumissionner, <em>les sanctions sont indiquées</em> aux fournisseurs à titre d'information seulement.</p>
-<h3>Texte :</h3>
+<h4>Texte :</h4>
 <p>1. Les personnes au Canada <em>et les Canadiens à l'étranger</em> sont liés par les sanctions économiques imposées par le Canada. En conséquence, le gouvernement du Canada ne peut accepter la livraison d'aucun bien ou service provenant, directement ou indirectement, d'un ou plusieurs pays <em>ou personnes</em> assujettis aux sanctions économiques.</p>
 <p>Les détails relatifs aux sanctions actuellement en vigueur peuvent être vus à l'adresse suivante : <a href="http://www.dfait-maeci.gc.ca/trade/sanctions-f.asp" rel="external">http://www.dfait-maeci.gc.ca/trade/sanctions-f.asp</a></p>
 <p>2. Une condition essentielle de ce contrat est que l'entrepreneur ne fournisse pas au gouvernement canadien un bien ou un service assujetti aux sanctions économiques.</p>
 <p>3. Tel que prescrit par le règlement en vigueur, l'entrepreneur devra respecter tout changement apporté aux sanctions imposées durant la période du contrat. Lors de l'exécution du contrat, <em>si l'imposition de sanctions contre un pays ou une personne</em> ou l'ajout d'un bien ou service à la liste des biens et services sanctionnés devait empêcher l'entrepreneur de satisfaire la totalité ou une partie de ses obligations, l'entrepreneur pourra invoquer la force majeure. L'entrepreneur devra informer le Canada immédiatement de la situation; les procédures établies pour la force majeure s'appliqueront alors.</p>
 <hr/>
-<h3>M2100D (xx/xx/xx) Sanctions internationales</h3>
+<h4>M2100D (xx/xx/xx) Sanctions internationales</h4>
 <p>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT. Utiliser cette clause dans tous les documents d'offres à commandes. Au moment du lancement des invitations à soumissionner, <em>les sanctions sont indiquées</em> aux fournisseurs à titre d'information seulement.</p>
-<h3>Texte :</h3>
+<h4>Texte :</h4>
 <p>1. Les personnes au Canada <em>et les Canadiens à l'étranger</em> sont liés par les sanctions économiques imposées par le Canada. En conséquence, le gouvernement du Canada ne peut accepter la livraison d'aucun bien ou d'aucun service provenant, directement ou indirectement, d'un ou plusieurs pays <em>ou personnes </em>assujettis aux sanctions économiques.</p>
 <p>Les détails relatifs aux sanctions actuellement en vigueur peuvent être vus à l'adresse suivante : <a href="http://www.dfait-maeci.gc.ca/trade/sanctions-f.asp" rel="external">http://www.dfait-maeci.gc.ca/trade/sanctions-f.asp</a></p>
 <p>2. Une condition essentielle de l'offre à commandes et de toute commande subséquente à cette offre à commandes est que le proposant ne fournisse pas au gouvernement du Canada un bien ou un service assujetti aux sanctions économiques.</p>
 <p>3. Tel que prescrit par le règlement en vigueur, le proposant devra respecter tout changement apporté aux sanctions imposées durant la période de l'offre à commandes. Lors de l'exécution de commandes subséquentes à l'offre à commandes, <em>si l'imposition de sanctions contre un pays ou une personne </em>ou l'ajout d'un bien ou service à la liste des biens et services sanctionnés devait empêcher le proposant de satisfaire la totalité ou une partie de ses obligations, le proposant pourra invoquer la force majeure. Le proposant devra informer le Canada immédiatement de la situation; les procédures établies pour la force majeure s'appliqueront alors.</p>
 <hr/>
 <p><strong>Guide des approvisionnements</strong></p>
-<h3>Sanctions internationales</h3>
+<h4>Sanctions internationales</h4>
 <p>6D.390 (xx/xx/xx)  Le site Web du ministère des Affaires étrangères et du commerce international à l'adresse : <a href="http://www.dfait-maeci.gc.ca/trade/sanctions-f.asp" rel="external">http://www.dfait-maeci.gc.ca/trade/sanctions-f.asp</a> énumère les <em>sanctions économiques actuellement imposées par le Canada. La PARTIE A porte sur les INSTRUMENTS LÉGISLATIFS CANADIENS : 1) la Loi sur les Nations Unies</em>, 2) la <em>Loi sur les mesures économiques spéciales</em> et 3) certaines dispositions de la <em>Loi sur les licences d'exportation et d'importation</em>. La PARTIE B porte sur LES PAYS OU LES GROUPES ASSUJETTIS À DES SANCTIONS ÉCONOMIQUES CANADIENNES. La PARTIE C porte sur les PROCÉDURES DE DEMANDE DE CERTIFICATS ET DE PERMIS D'EXEMPTION.</p>
 <p>Afin de se conformer aux sanctions économiques imposées par le Canada, les clauses K2105D ou M2100D du Guide des CCUA doivent être incluses dans tous les documents contractuels. Le Canada ne peut pas acquérir des biens ou services<em> provenant directement ou indirectement des pays ou des personnes assujettis aux sanctions économiques.</em> </p>
 <p>6D.391 (03/06/96) Pour répondre aux besoins opérationnels du client, lorsqu'il semble nécessaire de déroger aux sanctions, il faudra consulter les services juridiques afin de déterminer la ligne de conduite la plus appropriée, s'il en est, pour le cas en question.</p>

@@ -1,31 +1,31 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Purpose</h2>
+<h3>Purpose</h3>
 <p>The purpose of Policy Notification (PN) 127 is to inform all Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) contracting officers of the revised <a href="https://www.njc-cnm.gc.ca/directive/d10/en" rel="external">National Joint Council Travel Directive</a>. The revised National Joint Council (NJC) Travel Directive indicates that incidental expense allowances are to be paid to public service employees rather than to travellers. This <abbr title="Policy Notification">PN</abbr> is issued to address the <abbr title="National Joint Council">NJC</abbr> Travel Directive dated July 1, 2017 regarding the exclusion of payment of incidentals to contractors.</p>
-<h2>Effective date</h2>
+<h3>Effective date</h3>
 <p>This <abbr title="Policy Notification">PN</abbr> is effective immediately. The Supply Manual (SM) and Standard Acquisitions Clauses and Conditions (SACC) Manual have been updated to reflect the changes.</p>
-<h2>Background</h2>
+<h3>Background</h3>
 <p>Treasury Board (TB) Contracting Policy 4.2.16 states: “The <a href="http://www.njc-cnm.gc.ca/directive/index.php?did=10&amp;lang=eng" rel="external">National Joint Council Travel Directive</a> applies to travel costs incurred by contractors when these costs are a specific element of the contract.”. Solicitation documents and contracts incorporate by reference, travel rates published in Appendices B, C and D of the <abbr title="National Joint Council">NJC</abbr> Travel Directive. The revised <abbr title="National Joint Council">NJC</abbr> Travel Directive replaces the archived version dated April 1, 2008, which stated that incidentals were allowed for government employees and travellers, which included contractors authorized to travel on government business.</p>
 <p>The <abbr title="National Joint Council">NJC</abbr> Travel Directive specifically defines the following: </p>
 <p>“<strong>Employee: a person employed in the public service.</strong></p>
 <p><strong>Traveller: a person who is authorized to travel on federal government business</strong>."</p>
 <p>Please refer to <a href="https://www.njc-cnm.gc.ca/directive/d10/v238/s641/en#s641-tc-tm_2_6" rel="external">
 National Joint Council Travel Directive definitions</a> for further information.</p>
-<h2>Overview</h2>
+<h3>Overview</h3>
 <p>The revised <abbr title="National Joint Council">NJC</abbr> Travel Directive allows incidental expenses for public service employees and does not reference ‘travellers' in regard to payment of incidentals. The directive states that a public service employee who is required to travel on government business shall be paid an incidental expense allowance that covers a number of miscellaneous expenses. As a result of the revision, the Supply Manual (SM) and <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual have been updated.</p>
-<h2>Policy</h2>
+<h3>Policy</h3>
 <p>The change to the <abbr title="National Joint Council">NJC</abbr> Travel Directive dated July 1, 2017 has implications for three different scenarios regarding the payment of incidentals to contractors in contracts that are issued under a procurement vehicle under the responsibility of <abbr title="Public Works and Government Services Canada">PWGSC</abbr> <abbr title="Acquisitions Program">AP</abbr>:</p>
 <ol>
 <li><strong>Existing contracts with reference to incidentals:</strong> Continue to respect the terms and conditions of these contracts. Incidentals pursuant to government-approved travel will continue to be paid in accordance to the terms and conditions of the contract. </li>
 <li><strong>Existing contracts without reference to incidentals:</strong> The decision to stop paying incidentals to contractors pursuant to government-approved travel, will be a business decision on a case-by-case basis, in consultation with Legal Services. This includes future call-ups (contracts) against existing standing offers and future contracts against existing supply arrangements. </li>
 <li><strong>New contracts:</strong> Incidentals are not to be paid to contractors pursuant to government-approved travel in new contracts. Incidentals are not to be included in the basis of payment regarding travel costs for contractors undertaking government-approved travel in new procurements, including contracts issued against standing offers and supply arrangements. <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s Standard Acquisitions Clauses and Conditions (SACC) Manual clauses will be revised to remove the term “incidentals” in the basis of payment clauses.</li>
 </ol>
-<h2>Summary of changes</h2>
+<h3>Summary of changes</h3>
 <p>Changes to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual involve deleting incidental expenses from applicable clauses. Changes to the Supply Manual involve updating links to reference the latest <abbr title="National Joint Council">NJC</abbr> Travel Directive and include references to the Treasury Board <a href="https://www.canada.ca/en/treasury-board-secretariat/services/travel-relocation/special-travel-authorities.html" rel="external">Special Travel Authorities</a>.</p>
-<h2>Contact information</h2>
+<h3>Contact information</h3>
 <p>Please direct any enquiries by email to the following address: <a href="mailto:tpsgc.dppapublications-appdpublications.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.dppapublications-appdpublications.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected Supply Manual sections</h3>
+<h4 class="field-label">Affected Supply Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-b6e1de19c70e8acf21774203b4252f9b">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -37,7 +37,7 @@ National Joint Council Travel Directive definitions</a> for further information.
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h3>
+<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-a1f17772803e0e81eb492eeab624c15c">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

@@ -2,7 +2,7 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
@@ -10,7 +10,7 @@
 </div>
 <!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap84-tdm-pn84-toc-fra.html">Retourner à la tables des matières</a></p>
 <p><strong>DATE : le 28 mai 2007</strong></p>
-<h2>Objectif</h2>
+<h3>Objectif</h3>
 <p>L'avis relatif aux politiques (AP) 84 vise à modifier les modèles afin d'éliminer une exigence reliée à la présentation des soumissions; à modifier et(ou) ajouter des articles et(ou) clauses selon le cas; et à modifier l'article « Ordre de priorité des documents » sous la Partie 6A du modèle d'offre à commandes.</p>
 <p>Ces modifications sont décrites à :</p>
 <ol>
@@ -20,7 +20,7 @@
 </ol>
 <p>Tous les changements sont en vigueur immédiatement.</p>
 <p>Ces modifications seront incorporées sous peu aux modèles qui sont disponibles sur le site Web Documents uniformisés d'approvisionnement ministériel. Toutefois le site Web du Guide des CCUA ne sera mis à jour qu'à la parution de la prochaine version du Guide.</p>
-<h3>Pour de plus amples renseignements</h3>
+<h4>Pour de plus amples renseignements</h4>
 <p><strong>S/O</strong></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

@@ -1,10 +1,10 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p>Bill C-13, "An Act to implement certain provisions of the budget tabled in Parliament on May  2, 2006," which includes a reduction in the rate of the goods and services tax (GST) and the federal component of the harmonized sales tax (HST), received Royal Assent on June 22, 2006.  As a result, effective July 1, 2006, the rate of the GST will be reduced from 7% to 6%, and the rate of the HST will be reduced from 15% to 14%.</p>
 <p>For further information on how the GST/HST rate reduction applies to real property contracting, please refer to the Questions and Answers on the Canada Revenue Agency (CRA) Website. The CRA is also preparing a technical information bulletin, GST/HST Rate Reduction and Real Property Transactions.</p>
-<h2>Procedures</h2>
+<h3>Procedures</h3>
 <p>Generally, the new GST/HST rates apply to the purchase of taxable goods and services in the following manner:</p>
 <ul>
 <li>If GST/HST becomes payable, or is paid, on or after July 1, 2006, the 6% GST rate, or the 14% HST rate will apply.</li>
@@ -12,20 +12,20 @@
 </ul>
 <p>Generally, GST/HST becomes payable either on the date on the invoice or on the payment date under the contract, whichever is earlier.</p>
 <p>Other considerations applicable on the purchase of taxable goods and services:</p>
-<h3>1. Existing Contracts</h3>
+<h4>1. Existing Contracts</h4>
 <p>Amounts paid or payable before July 1, 2006, under an existing contract will include GST at the rate of 7%, or HST at the rate of 15%. Amounts paid or payable under this contract on or after July 1, 2006, will include GST at the reduced rate of 6%, or HST at the reduced rate of 14%.</p>
 <p>Given that the GST/HST rate reduction is legislated, any amendments related to this tax change would be non-negotiable.  Therefore, contracting officers need not amend their existing contracts to reflect the change in tax.  Contracting officers may instead notify affected contractors of the GST/HST rate reduction either verbally or via a generic letter or e-mail.
    </p>
-<h3>2. Holdbacks</h3>
+<h4>2. Holdbacks</h4>
 <p>The rules that normally determine when GST/HST is payable will continue to apply to determine the appropriate rate of tax.</p>
 <p>Under contracts which contain holdback amounts, GST/HST is normally paid on the total amount claimed before any holdback is deducted. No GST/HST is paid when the holdback is released.  The rate of GST/HST payable will be that which is in effect on the date that the claim is paid or becomes due.</p>
 <p>The exception is a holdback under legislation or under a contract for the construction, renovation or repair of real property or a marine vessel.  In these cases, GST/HST calculated on the holdback amount becomes payable on the earlier of the day on which the holdback is paid or the day on which the holdback period expires. Therefore, if both of these days occur on or after July 1, 2006, GST/HST at the reduced rate of 6% or 14% will apply to the holdback amount.</p>
-<h2>Approvals</h2>
+<h3>Approvals</h3>
 <p>Funds that become unencumbered due to the GST/HST rate reduction cannot be used to purchase additional goods or services under a contract or contract amendment, as departments budget their project costs separately from GST/HST.</p>
 <p>However, for aggregate contract amendment purposes, approved amounts should remain unadjusted.</p>
 <p><strong>Revisions to the Supply and SACC Manuals</strong></p>
 <p>Please refer to Annexes A and B of this document for changes to the Supply Manual and the Standard Acquisitions Clauses and Conditions (SACC) Manual.</p>
-<h2>Contact</h2>
+<h3>Contact</h3>
 <p>For further information, contracting officers may refer to the Questions and Answers posted on the CRA Website.</p>
 <p>Enquiries may be directed to CRA at 1-866-959-7797 between 8:15 a.m. and 8:00 p.m. local time, Monday to Friday. Please note that only questions about the GST Rate Reduction should be addressed to this number.</p>
 <p>Enquiries may also be addressed to Veronica Nazareth, Acquisition Policy and Process Directorate, by phone at 819-956-5024.</p>

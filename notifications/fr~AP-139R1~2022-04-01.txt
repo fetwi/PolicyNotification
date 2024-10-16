@@ -1,19 +1,19 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Objet</h2>
+<h3>Objet</h3>
 <p>L’<abbr title="avis relatif aux politiques">AP</abbr>-139R1 remplace et annule l’<abbr title="avis relatif aux politiques">AP</abbr>-139.</p>
 <p>L’avis relatif aux politiques (AP)-139R1 a pour but d’informer les agents de négociation des contrats du Programme des approvisionnements de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> des nouvelles clauses et des nouveaux modèles rédigés pour appuyer la mise en œuvre de la <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32610" rel="external">Directive sur les marchés de l’État, incluant les baux immobiliers, dans la région du Nunavut</a> (la Directive).</p>
-<h2>Date d’entrée en vigueur</h2>
+<h3>Date d’entrée en vigueur</h3>
 <p>Le présent avis relatif aux politiques entre en vigueur immédiatement et il soutient la Directive entrée en vigueur le 20 décembre 2019. Le Guide des approvisionnements, le Guide des clauses et conditions uniformisées d’achat (CCUA) ainsi que les modèles uniformisés d’approvisionnement ont été mis à jour. </p>
-<h2>Contexte</h2>
+<h3>Contexte</h3>
 <p>Le 20 décembre 2019, la <a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32610" rel="external">Directive sur les marchés de l’État, incluant les baux immobiliers, dans la région du Nunavut</a> du Conseil du Trésor entrait en vigueur. La Directive a été élaborée en étroite consultation avec la <a href="https://www.tunngavik.com/about/" rel="external">Nunavut Tunngavik Incorporated</a> (NTI) (disponible seulement en anglais) l’organisation inuite désignée pour l’<cite>Accord entre les Inuits de la région du Nunavut et Sa Majesté la Reine du chef du Canada</cite> (Accord du Nunavut). La Directive appuie les <a href="https://nlca.tunngavik.com/?page_id=2366" rel="external">obligations du gouvernement du Canada énoncées dans l’article 24 (marchés publics)</a> (disponible seulement en anglais) de l’Accord du Nunavut, qui sont de fournir une aide raisonnable aux entreprises inuites pour leur permettre de participer aux marchés publics, de fournir des biens, des services, des services de construction et des baux immobiliers.</p>
-<h2>Application de la Directive</h2>
+<h3>Application de la Directive</h3>
 <p>Les exigences de la Directive s’appliquent à n’importe quel marché de l’État (tel qu’il est défini au paragraphe 24.1.1 de l’Accord du Nunavut), y compris les baux immobiliers, lorsque les produits livrables, ou une partie de ceux-ci, comprennent une livraison finale ou l’exécution dans la région du Nunavut.</p>
 <p>La Directive s’applique aux ministères et aux organismes nommés dans les annexes I, I.1 et II de la <cite>Loi sur la gestion des finances publiques</cite> (LGFP), à l’exception de l’Agence du revenu du Canada, et aux commissions établies en vertu de la <cite>Loi sur les enquêtes</cite> qui sont désignées comme des ministères aux fins de la <abbr title="Loi sur la gestion des finances publiques">LGFP</abbr>.</p>
 <p>En cas de divergence entre la directive et une exigence de toute autre politique ministérielle ou du Conseil du Trésor, la Directive l’emportera.</p>
-<h2>Guide sur les marchés de l’État dans la région du Nunavut (le Guide)</h2>
+<h3>Guide sur les marchés de l’État dans la région du Nunavut (le Guide)</h3>
 <p>Tel qu’il est exigé dans la Directive, un guide pancanadien intitulé « Guide sur les marchés de l’État dans la région du Nunavut » a été élaboré afin d’aider les autorités contractantes (AC) et les autorités techniques (AT) à s’acquitter des obligations énoncées dans la Directive. Le Guide suppose une compréhension générale du processus d’approvisionnement du Canada, et concentre les conseils sur les domaines où la Directive se démarque significativement de l’approche d’approvisionnement standard. Il peut être consulté ici : <a href="https://achatsetventes.gc.ca/pour-le-gouvernement/acheter-pour-le-gouvernement-du-canada/planifier-la-strategie-d-approvisionnement#directive-du-nunavut">Guide sur les marchés de l’État dans la région du Nunavut</a>.</p>
-<h2>Résultats escomptés</h2>
+<h3>Résultats escomptés</h3>
 <p>La Directive et ses mesures de mise en œuvre (y compris le Guide) reflètent les résultats attendus du chapitre 24 de l’Accord du Nunavut, qui s’énoncent ainsi, dans la mesure du possible :</p>
 <ul>
 <li>une participation accrue des entreprises inuites aux occasions d’affaires dans la région du Nunavut;</li>
@@ -21,7 +21,7 @@
 <li>l’embauche d’Inuits (à un niveau représentatif) dans la main-d’œuvre de la région du Nunavut.</li>
 </ul>
 <p>Si les directives de ce guide sont suivies, les obligations en matière d’approvisionnement prévues dans l’Accord du Nunavut devraient être appliquées de manière plus uniforme au sein du gouvernement fédéral.</p>
-<h2>Principales mesures stratégiques de la Directive</h2>
+<h3>Principales mesures stratégiques de la Directive</h3>
 <ol type="i">
 <li><strong><a href="https://inuitfirm.tunngavik.com/" rel="external">Répertoire des entreprises inuites (REI)</a></strong> (disponible seulement en anglais)<br/>
 <p>Conformément à l’Accord du Nunavut, la <abbr title="Répertoire des entreprises inuites">REI</abbr> est responsable de préparer et de tenir un répertoire des entreprises inuites, et de déterminer les produits et services qu’elles offrent. Cette liste est appelée Répertoire des entreprises inuites (REI). Les <abbr title="autorités contractantes">AC</abbr> et les <abbr title="autorités techniques">AT</abbr> doivent consulter la <abbr title="Répertoire des entreprises inuites">REI</abbr> avant de lancer une invitation à soumissionner pour un marché de l’État dans la région du Nunavut.</p>
@@ -54,15 +54,15 @@
 </ul>
 </li>
 </ol>
-<h2>Aperçu des changements</h2>
+<h3>Aperçu des changements</h3>
 <p>En appui à l’<abbr title="avis relatif aux politiques">AP</abbr>-139R1, des ajouts au Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr>, et modifications aux modèles uniformisés d’approvisionnement et au Guide des approvisionnements ont été apportées. Ces ajouts visent à soutenir davantage les autorités contractantes qui cherchent à intégrer les obligations découlant de la Directive du Nunavut dans leurs marchés publics.</p>
 <p>La Division des Politiques de l’approvisionnement autochtone (DPAA) du Secteur de la Politique Stratégique doit être informé des acquisitions qui auront lieu dans la Région du Nunavut. Les <abbr title="autorités contractantes">AC</abbr> peuvent être tenus responsable de fournir des renseignements particuliers au dossier de Division des Politiques de l’approvisionnement autochtone à chaque étape de leur approvisionnement concernant la mise en œuvre de la Directive.</p>
 <p>Il existe des modèles supplémentaires (Plan des avantages pour les Inuits [PAI], évaluation du <abbr title="Plan des avantages pour les Inuits">PAI</abbr>, et rapport d’étape du <abbr title="Plan des avantages pour les Inuits">PAI</abbr>) dont il est fait mention dans les nouvelles clauses du Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> et dans les modèles uniformisés d’approvisionnement à appliquer aux approvisionnements du Nunavut assujettis à la Directive. Pour chaque nouvelle acquisition, les modèles supplémentaires les plus récents doivent être obtenus de la <abbr title="Division des Politiques de l’approvisionnement autochtone">DPAA</abbr>.</p>
 <p>Les approvisionnements qui sont assujettis à la Directive et qui évalueront les <abbr title="Plan des avantages pour les Inuits">PAI</abbr> doivent également comprendre une clause de retenue du <abbr title="Plan des avantages pour les Inuits">PAI</abbr> pour s’assurer que le <abbr title="Plan des avantages pour les Inuits">PAI</abbr> soit appliqué. Pour chaque nouvel approvisionnement, la clause de retenue du <abbr title="Plan des avantages pour les Inuits">PAI</abbr> la plus récente et les directives sur son utilisation doivent être obtenues de la <abbr title="Division des Politiques de l’approvisionnement autochtone">DPAA</abbr>. Si un <abbr title="autorités contractantes">AC</abbr> souhaite appliquer une clause de retenue pour permettre la participation des Autochtones à un approvisionnement non assujetti à la Directive du Nunavut, l'<abbr title="autorités contractantes">AC</abbr> doit demander un avis juridique avant de le faire.</p>
-<h2>Sommaire des révisions apportées au Guide des approvisionnements</h2>
+<h3>Sommaire des révisions apportées au Guide des approvisionnements</h3>
 <p>Le Guide des approvisionnements a été révisé de sorte qu’il tienne compte des coordonnées à jour de la Division des Politiques d’approvisionnement autochtone (DPAA).</p>
 <p>Le Guide des approvisionnements a été mis à jour pour refléter le présent avis. Pour plus de détails, veuillez consulter les Sections du Guide des approvisionnements visées ci-dessous.</p>
-<h2>Sommaire des modifications apportées au Guide des clauses et conditions uniformisées d’achat (CCUA)</h2>
+<h3>Sommaire des modifications apportées au Guide des clauses et conditions uniformisées d’achat (CCUA)</h3>
 <p>De nouvelles clauses ont été élaborées pour le Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> en vue de ce qui suit :</p>
 <ol>
 <li>W0202T – Directive sur le Nunavut<br/>
@@ -105,14 +105,14 @@
         Fournir des instructions relativement à la facturation et informer les entrepreneurs que les factures doivent être accompagnées des rapports d’étape du <abbr title="Plan des avantages pour les Inuits">PAI</abbr>.</li>
 </ol>
 <p>Le Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> a été mis à jour pour tenir compte du présent avis. Pour plus de détails, veuillez consulter les Items du Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> visés ci-dessous.</p>
-<h2>Sommaire des révisions apportées aux modèles uniformisés d'approvisionnement</h2>
+<h3>Sommaire des révisions apportées aux modèles uniformisés d'approvisionnement</h3>
 <p>Le modèle de demande de soumissions et de contrat subséquent pour les besoins de complexité élevée (CE) et le modèle de demande de soumissions et de contrat subséquent pour les besoins de complexité moyenne (CM) ont été modifiés de manière à intégrer les éléments de la Directive sur le Nunavut, y compris les références aux articles du Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> ainsi que l’utilisation d’appels d’offres limités, de <abbr title="Plan des avantages pour les Inuits">PAI</abbr> et de rapports d’étape du <abbr title="Plan des avantages pour les Inuits">PAI</abbr> dans le processus d’approvisionnement standard.</p>
 <p>Les modèles uniformisés d’approvisionnement ont été révisés sur GCpédia.</p>
-<h2>Coordonnées</h2>
+<h3>Coordonnées</h3>
 <p>Pour aviser la <abbr title="Division des Politiques de l’approvisionnement autochtone">DPAA</abbr> la Région du Nunavut et pour la version la plus récente de la clause de retenue du <abbr title="Plan des avantages pour les Inuits">PAI</abbr> et des modèles supplémentaires, ou pour obtenir des conseils et des directives générales sur les approvisionnements assujettis à la Directive, écrivez à la Division des Politiques de l’approvisionnement autochtone (DPAA) à <a href="mailto:TPSGC.PAContratsNunavut-APNunavutContracts.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PAContratsNunavut-APNunavutContracts.PWGSC@tpsgc-pwgsc.gc.ca</a>. Pour accélérer le traitement de leur demande, les <abbr title="autorités contractantes">AC</abbr> doivent fournir les renseignements généraux du dossier définis à l’article <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-9#_9-35">9.35.1.i.i « Renseignements généraux sur les traités modernes (ententes sur les revendications territoriales globales) »</a> du Guide des approvisionnements.</p>
 <p>Les questions concernant le Guide des approvisionnements (GA) peuvent être envoyées par courriel à l’adresse suivante : <a href="mailto:TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Les questions portant sur le Guide des clauses et conditions uniformisées d’achat (CCUA) ou les modèles uniformisés d’approvisionnement peuvent être envoyées à l’adresse : <a href="mailto:TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Sections du Guide des approvisionnements visées</h3>
+<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-3e882507c82e43e641648287c0a52ba9">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
@@ -120,7 +120,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h3>
+<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-26163db17ebb95e077c98198467ee7c1">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

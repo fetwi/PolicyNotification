@@ -11,12 +11,12 @@
 <p>8. Upon request, the building owner or manager shall provide this information to prospective bidders, or to a successor employer.</p>
 <p>9. Such information shall be used only for the purpose of complying with the Act and shall not be disclosed except as authorized by the Act.</p>
 <p>10. The text of the Ontario Regulation was published in the Ontario Gazette, dated April 20, 1996, reference number 138/96.</p>
-<h2>Description of the provisions of <em>Ontario Regulation 138/96 - <acronym title="Employment Standards Act">ESA</acronym> Contract Tendering Regulation</em></h2>
-<h3>Purpose:</h3>
+<h3>Description of the provisions of <em>Ontario Regulation 138/96 - <acronym title="Employment Standards Act">ESA</acronym> Contract Tendering Regulation</em></h3>
+<h4>Purpose:</h4>
 <p>The Regulation is intended to provide prospective bidders on contracts for building services, such as cleaning, catering or security, with appropriate, accurate and clear information needed to determine their potential termination and severance obligations and make informed bids on a contract.</p>
-<h3>Contents of the Regulation:</h3>
+<h4>Contents of the Regulation:</h4>
 <p>The regulation sets out successor employer exemptions from compliance with Part XIV (termination and severance provisions) of the <acronym title="Employment Standards Act">ESA</acronym> and the type of information that building owners or managers may obtain from incumbent contractors and provide to prospective bidders or successor employers. The following provides a description of the Regulation's provisions.</p>
-<h3>Section 1: Exclusions</h3>
+<h4>Section 1: Exclusions</h4>
 <p>Successor employers do not have to provide termination and severance pay to employees who do not have a substantial connection to the site, specifically those:</p>
 <ul>
 <li>whose job duties were not primarily at premises during the 13 weeks before the successor takes over;</li>
@@ -24,19 +24,19 @@
 <li>who have not worked at the premises for at least 13 of the 26 weeks before the successor takes over contract; the 26 week period is extended by any period where services were temporarily suspended or where the employee was on <acronym title="Employment Standards Act">ESA</acronym> Part XI pregnancy/parental leave.</li>
 </ul>
 <p>Successor employers also do not have to provide termination and severance pay to employees who refuse a reasonable offer of employment. An employee's terms and conditions of employment with the previous employer is considered when determining the reasonableness of an offer.</p>
-<h3>Section 2: Information</h3>
+<h4>Section 2: Information</h4>
 <p>Upon request, an incumbent contractor is required to give a building owner or manager the following information for each employee providing services at the premises :</p>
 <ul>
 <li>name, address, telephone number, classification, wage rate, benefits, average weekly hours, initial hire date (including employment with previous employers under Bill 40), and number of weeks worked in the preceding 26 weeks (or a longer period if services were temporarily discontinued or an employee was on <acronym title="Employment Standards Act">ESA</acronym> Part XI (pregnancy/parental leave));</li>
 <li>a statement indicating which employees were not primarily employed at the premises during the preceding 13 weeks or during an employees most recent 13 weeks of active employment.</li>
 </ul>
-<h3>Section 3: Transmission of Information</h3>
+<h4>Section 3: Transmission of Information</h4>
 <p>Building owners or managers are required to give this information, excluding the names, addresses and telephone numbers of employees, to prospective bidders upon request.</p>
 <p>The <acronym title="Employment Standards Act">ESA</acronym> requires that building owners or managers transmit the full list, including names, addresses and telephone numbers, upon the request of the successful bidder.</p>
 <p>A revised text for <acronym title="Standard Acquisition Clauses and Conditions">SACC</acronym> Manual clauses K9015C and K9015T is attached along with a revised form to collect the information. This form will be incorporated in Section 2 of the <acronym title="Standard Acquisition Clauses and Conditions">SACC</acronym> Manual in the forthcoming amendment. The appropriate changes will also be incorporated in the next Amendment to the Supply Manual. (Contact : Lise Rieger at 819-956-0863.)</p>
-<h3>Clauses</h3>
+<h4>Clauses</h4>
 <p><strong>Remarks:</strong> Use this clause in contract documents where information is to be provided by the contractor in accordance with Ontario Labour Legislation requirements for janitorial, food catering and security service contracts.</p>
-<h3><em>K9015C Ontario Labour Legislation</em></h3>
+<h4><em>K9015C Ontario Labour Legislation</em></h4>
 <p>1. Without restricting the generality of the foregoing, the Contractor shall keep its employees' records up to date and, upon request by the Minister, submit to the Minister, within seven (7) days of the date of the request, the following information regarding its employees, as provided for in a new subsection 13.1 (8) of the <em>Employment Standard Act</em> and as set out in <em>Ontario Regulation 138/96:</em></p>
 <ol type="a">
 <li>the employee's name, residential address and telephone number;</li>
@@ -59,7 +59,7 @@
 <p>4. The information described above, with the exception of 1.a), will be provided by the Contracting Authority to prospective bidders for a future contract for those services relating to the premises.</p>
 <hr/>
 <p><strong>Remarks:</strong> Use this clause in bid solicitation documents where information is provided to bidders in accordance with Ontario Labour Legislation requirements for janitorial, food catering and security service contracts.</p>
-<h3><em>K9015T Ontario Labour Legislation</em></h3>
+<h4><em>K9015T Ontario Labour Legislation</em></h4>
 <p>1. In accordance with the requirements of new subsection 13.1 (10) of the <em>Employment Standards Act</em> (ESA), the following information concerning each employee of the previous employer providing services at the premises is attached hereto:</p>
 <ol type="a">
 <li>job classification or job description for each employee;</li>
@@ -83,7 +83,7 @@
 <p>6. Canada does not warrant the accuracy or completeness of any information concerning the employees of the previous employer providing services at the premises, nor shall it be responsible for any damage or loss which may result from use of or reliance upon any of this information.</p>
 <p>This form should be used when information is to be provided by the contractor in accordance with the requirements of Ontario's <em>Employment Standards Act</em> for janitorial, food catering and security service contracts.</p>
 <hr/>
-<h3>Information on incumbent employees company</h3>
+<h4>Information on incumbent employees company</h4>
 <p>Name: __</p>
 <p>Address:__</p>
 <p>Phone No.: __</p>
@@ -91,7 +91,7 @@
 <p>Workplace address: __</p>
 <p>Contract No.: __</p>
 <p><em>(The information contained in this section 1. can only be provided to the successful contractor</em>)</p>
-<h3>1. Employee</h3>
+<h4>1. Employee</h4>
 <p>Name: __</p>
 <p>Address: __</p>
 <p>Phone No.: __</p>

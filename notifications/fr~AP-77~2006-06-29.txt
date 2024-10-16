@@ -2,14 +2,14 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>Date : le 29 mai 2006</h2>
-<h3>Introduction</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>Date : le 29 mai 2006</h3>
+<h4>Introduction</h4>
 <p>Le 25 novembre 2005, le Conseil du Trésor (CT) a approuvé une<br/>
 					nouvelle « Politique d'achats écologiques » à l'échelle<br/>
 					du gouvernement. Cette politique a été élaborée<br/>
@@ -28,7 +28,7 @@
 					ou «écologiques» sont ceux qui sont moins nuisibles pour<br/>
 					l'environnement pendant leur cycle de vie, lorsqu'on les compare aux biens<br/>
 					et services concurrentiels servant aux mêmes fins.</p>
-<h3>Politique</h3>
+<h4>Politique</h4>
 <p>La mise en oeuvre de cette politique se fera graduellement au cours des<br/>
 					deux prochaines années et s'inspirera du processus de gestion des<br/>
 					produits, l'un des outils permettant de réaliser des économies<br/>
@@ -51,7 +51,7 @@
 					performance en matière d'achats écologiques et en faire rapport<br/>
 					chaque année dans les Rapports sur les plans et les priorités<br/>
 					et les Rapports ministériels sur le rendement. </p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>Comme il est indiqué dans le discours du Trône d'octobre 2004<br/>
 					et dans le budget de 2005, la politique du CT vient appuyer l'objectif du<br/>
 					gouvernement de réduire les émissions de gaz à effet<br/>
@@ -60,7 +60,7 @@
 					et de favoriser la réutilisation et le recyclage, de réduire<br/>
 					les substances toxiques et chimiques dangereuses, et de promouvoir un environnement<br/>
 					plus sain pour tous les Canadiens.</p>
-<h3>Exigences</h3>
+<h4>Exigences</h4>
 <p>Dès maintenant, le personnel d'adjudication des contrats doit :</p>
 <ol>
 <li> suivre<br/>
@@ -76,13 +76,13 @@
 						dans les rapports, que des produits ou des services à privilégier<br/>
 						du point de vue environnemental ont été pris en considération.</li>
 </ol>
-<h3>Outils de soutien</h3>
+<h4>Outils de soutien</h4>
 <p>Des normes, des outils et des conseils sont en cours d'élaboration à l'appui<br/>
 					de cette politique, notamment: des mises à jour de formulaires et<br/>
 					de modèles, des clauses d'invitations à soumissionner et de<br/>
 					contrats et le cadre de gestion des produits. Ils seront communiqués<br/>
 					quand ils seront finalisés. Veuillez consulter le site Web du <a href="http://www.tpsgc-pwgsc.gc.ca/ecologisation-greening/index-fra.html" rel="external">Bureau de l'écologisation des opérations gouvernementales</a> pour des renseignements additionnels.</p>
-<h3>Personne-ressource</h3>
+<h4>Personne-ressource</h4>
 <p>S/O</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

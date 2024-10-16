@@ -1,7 +1,7 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>This Policy Notification (PN)-73 changes the policy on direct notification<br/>
 					to potential bidders when a procurement is carried out subject<br/>
 					to a trade agreement. </p>
@@ -12,7 +12,7 @@
 <p>With this change, there will be no basic difference in approach: potential<br/>
 					suppliers may be notified directly, in appropriate circumstances<br/>
 					and with due prudence, whether or not a trade agreement applies.</p>
-<h3>Policy</h3>
+<h4>Policy</h4>
 <p>Effective immediately, when a procurement is subject to a trade agreement,<br/>
 					contracting officers may notify suppliers directly that a bid opportunity<br/>
 					has been posted on the Government Electronic Tendering Service<br/>
@@ -22,12 +22,12 @@
 					the appropriate procedures for the notification are outlined in<br/>
 					the attached <a href="#PN-73a">Annex A</a>. All changes highlighted in red text will be incorporated<br/>
 					in the next release of the Supply Manual.</p>
-<h3>Contact</h3>
+<h4>Contact</h4>
 <p><strong>N/A</strong></p>
-<h2><a id="PN-73a" name="a"></a>Annex A</h2>
-<h3>Changes to the Supply Manual</h3>
-<h4>Chapter 5, Sourcing Strategy</h4>
-<h5>Procurements Subject to Trade Agreements</h5>
+<h3><a id="PN-73a" name="a"></a>Annex A</h3>
+<h4>Changes to the Supply Manual</h4>
+<h5>Chapter 5, Sourcing Strategy</h5>
+<h6>Procurements Subject to Trade Agreements</h6>
 <p><strong>5.041 (xxxx-xx-xx)</strong> For procurements subject to <acronym title="North American Free Trade Agreement">NAFTA</acronym>, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> or AIT,<br/>
 					or a combination of these, public advertisement/notification provisions<br/>
 					specified within these trade agreements must be followed. The procedures<br/>
@@ -36,7 +36,7 @@
 					procedures that demonstrate the highest example of openness, e.g. the longer<br/>
 					of two bidding periods.</p>
 <p>Competitive procurements covered by <acronym title="North American Free Trade Agreement">NAFTA</acronym>, <strong>and/or the</strong> <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> <strong>and/or AIT</strong> must be advertised on the Government Electronic Tendering Service (GETS) <strong>and in the Government Business Opportunities (GBO)</strong> only. <strong>Procurements that are covered by the AIT must be advertised on GETS only.  A procurement that is covered by the AIT, and is also covered by <acronym title="North American Free Trade Agreement">NAFTA</acronym> or the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> must be advertised on both GETS and in the GBO. Additional notification processes (e.g. direct contact with suppliers), are not permitted.</strong><strong> On occasion, in appropriate circumstances, potential suppliers may be contacted directly after the notice has been posted, in accordance with procedure 7B.188.</strong></p>
-<h5>Procurements Not Subject to Trade Agreements</h5>
+<h6>Procurements Not Subject to Trade Agreements</h6>
 <p><strong>5.044 (xxxx-xx-xx)</strong> PWGSC's preferred process for notifying potential<br/>
 					suppliers is to publicly advertise requirements on the GETS. (See<br/>
 					7B.160.)</p>
@@ -46,8 +46,8 @@
 <p>When public advertising (GETS or other public media) is used, potential<br/>
 					suppliers may be notified directly about the opportunity, <strong>in accordance<br/>
 					with 7B.188.</strong></p>
-<h4>Chapter 7, Competitive Procurement</h4>
-<h5>Section 7B:  Issuing a Bid Solicitation</h5>
+<h5>Chapter 7, Competitive Procurement</h5>
+<h6>Section 7B:  Issuing a Bid Solicitation</h6>
 <p><strong>7B.187 (xxxx-xx-xx)</strong> If the electronic notices are received at GETS<br/>
 					(MERX) by 17:00 on a given day, and all the elements (notice,<br/>
 					document, attachments) match and are correct, then the notice will be<br/>
@@ -83,7 +83,7 @@
 					(MERX).</strong></p>
 <p><em><strong>Contracting officers must document, on the file, each supplier who was<br/>
 					contacted and when.</strong></em></p>
-<h5>Annex 7.6 - Sample Covering Letters</h5>
+<h6>Annex 7.6 - Sample Covering Letters</h6>
 <p><strong>DELETED</strong></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

@@ -2,28 +2,28 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>Date : le 14 septembre 2007</h2>
-<h2>Objectif</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>Date : le 14 septembre 2007</h3>
+<h3>Objectif</h3>
 <p>L'objectif de cet Avis relatif aux politiques (AP) 86 consiste à présenter les changements apportés au Guide des approvisionnements (chapitre 1, chapitre 5 et section 7D).  Ces changements visent à supprimer le texte qui pourrait prêter à un malentendu relativement à la responsabilité de Travaux publics et Services gouvernementaux Canada (TPSGC) pour ce qui est de l'exactitude de l'information fournie par les clients, sur laquelle TPSGC n'a aucun contrôle.</p>
 <p>Se référer à l'<a href="#AP-86annexea">Annexe A</a> de ce document pour consulter les changements apportés au Guide. </p>
 <p>Tous les changements sont en vigueur immédiatement.  Ces changements seront incorporés dans une modification à venir du Guide des approvisionnements.</p>
-<h2>Personne-ressource</h2>
+<h3>Personne-ressource</h3>
 <p><strong>S/O</strong></p>
-<h2><a id="AP-86annexea" name="annexea"></a>Annexe A - Révisions au guide des approvisionnements</h2>
-<h3>Chapitre 1 - Vue d'ensemble</h3>
-<h4>Achats de Travaux publics et Services gouvernementaux Canada</h4>
+<h3><a id="AP-86annexea" name="annexea"></a>Annexe A - Révisions au guide des approvisionnements</h3>
+<h4>Chapitre 1 - Vue d'ensemble</h4>
+<h5>Achats de Travaux publics et Services gouvernementaux Canada</h5>
 <p>1.001 (<span>2007-XX-XX</span>) Le présent guide décrit les activités d'approvisionnement de Travaux publics et Services gouvernementaux Canada (TPSGC). Il contient les lois, politiques et règlements pertinents du gouvernement et du Ministère. On y explique pourquoi et comment le Ministère mène ses activités d'approvisionnement.</p>
 <p>Un grand principe s'applique à TPSGC : celui de l'intégrité. De ce grand principe découlent cinq principes sur lesquels reposent les activités d'approvisionnement de TPSGC. Lorsqu'un agent de négociation des contrats de TPSGC doit prendre des mesures qui ne sont pas clairement énoncées dans le présent guide, le grand principe d'intégrité et les principes à l'appui lui donneront les directions nécessaires.</p>
-<h5>Grand principe</h5>
+<h6>Grand principe</h6>
 <h6>Intégrité</h6>
 <p>Les activités d'approvisionnement de TPSGC seront ouvertes, justes et honnêtes.</p>
-<h5>Principes</h5>
+<h6>Principes</h6>
 <h6>Service à la clientèle</h6>
 <p>TPSGC fera tous les efforts raisonnables pour répondre aux besoins opérationnels de ses clients, tout en obtenant la meilleure valeur dans chaque processus d'acquisition.</p>
 <h6>Objectifs nationaux</h6>
@@ -34,8 +34,8 @@
 <p>TPSGC s'assurera que tous les fournisseurs éventuels, pour un besoin spécifique, soient assujettis aux mêmes conditions.</p>
 <h6><del>Responsabilité: supprimé</del></h6>
 <div class="topPage"><a href="#AP-86tphp" title="Retourner au haut de la page"><br/>Haut de la page</a></div>
-<h3>CHAPITRE 5</h3>
-<h4>Achats estimés à moins de 25 000 $</h4>
+<h4>CHAPITRE 5</h4>
+<h5>Achats estimés à moins de 25 000 $</h5>
 <p>5.117 (<span>2007-XX-XX</span>) Les besoins dont la valeur est estimée à moins de 25 000 $ (incluant toutes les taxes applicables) sont considérés comme des achats de faible valeur (AFV). Lorsqu'ils définissent les besoins relatifs à des AFV en se basant sur la valeur estimative du contrat final, les agents de négociation des contrats ne doivent pas fractionner les marchés de façon à ce que leur valeur soit inférieure au seuil établi pour les AFV. (Voir 6A.001.)</p>
 <p>Les agents de négociation des contrats doivent traiter les AFV estimés à moins de 25 000 $ (incluant toutes les taxes applicables), en utilisant la méthode la plus efficace et la plus économique possible en vue de trouver un entrepreneur, soit en lançant un appel d'offres ou en faisant appel à un fournisseur exclusif lorsqu'il n'est pas rentable de lancer un appel d'offres.</p>
 <p>Les agents de négociation des contrats détermineront la stratégie d'achat la plus pertinente pour chaque AFV de façon à obtenir la meilleure valeur possible et assurer les délais et la rentabilité de chaque contrat, tout en respectant les Principes de TPSGC, notamment en matière de service à la clientèle, de concurrence et d'équité.  (Voir le chapitre 1.)</p>
@@ -49,8 +49,8 @@
 </ol>
 <p>Les agents de négociation des contrats doivent indiquer dans le dossier d'achat les raisons du choix de la stratégie d'achat retenue. Ils doivent également indiquer les raisons sur lesquelles la valeur estimative du contrat (à moins de 25 000 $) a été établie.</p>
 <div class="topPage"><a href="#AP-86tphp" title="Retourner au haut de la page"><br/>Haut de la page</a></div>
-<h3>SECTION 7D - TRAITEMENT DES SOUMISSIONS</h3>
-<h4>Évaluation par le client</h4>
+<h4>SECTION 7D - TRAITEMENT DES SOUMISSIONS</h4>
+<h5>Évaluation par le client</h5>
 <p>7D.395 (<span>2007-XX-XX</span>) Les clients ont la responsabilité de l'évaluation de la portion technique des soumissions. On ne leur fournit pas habituellement d'information relative aux prix. Quand on confie au client les soumissions au cours du processus d'évaluation, il faut ajouter la mise en garde suivante :</p>
 <p class="indent6">« Ne divulguez ces renseignements qu'aux représentants du gouvernement qui sont autorisés à participer à cet achat. N'en dévoilez aucune partie à l'industrie privée. »</p>
 <p>Il est souhaitable, particulièrement pour les marchés complexes, d'avoir recours au travail en équipe pour effectuer les évaluations techniques. Si TPSGC juge nécessaire de confier les soumissions au client pour toute autre raison, la mise en garde précédente devrait être utilisée.</p>

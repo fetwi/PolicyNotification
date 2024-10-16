@@ -2,16 +2,16 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 10 juillet 2006</h2>
-<h3>Introduction</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 10 juillet 2006</h3>
+<h4>Introduction</h4>
 <p>L'objectif de cet avis relatif aux politiques (AP) consiste à présenter et à mettre en application les documents uniformisés d'approvisionnement ministériels en langage clair à l'intention des agents de négociation des contrats de Travaux publics et Services gouvernementaux Canada (TPSGC) pour mettre en place des offres à commandes pour des biens ou des services (à l'exception des besoins pour la construction et l'architecture et le génie). Ces documents comprennent un modèle de demande d'offre à commandes (DOC) ainsi que de nouvelles instructions uniformisées et conditions générales.</p>
-<h3>Politique</h3>
+<h4>Politique</h4>
 <p>À partir du 15 août 2006, les agents de négociation de contrats de TPSGC doivent utiliser les documents uniformisés d'approvisionnement ministériel en langage clair dans le cadre de la préparation des offres à commandes portant sur des biens ou des services.</p>
 <p>Afin d'assurer l'uniformité de la présentation des documents d'achat du Ministère, les agents de négociation de contrats ne doivent pas modifier ou changer l'ordre et le contenu de ce modèle uniformisé, sauf dans les cas indiqués.</p>
 <p>Le tableau ci-dessous identifie le nouveau modèle de DOC et des nouvelles instructions uniformisées et conditions générales pour les offres à commandes.</p>
@@ -57,13 +57,13 @@
 <td>Se référer au guide des CCUA, Version 06-2, en date du 15 août 2006 </td>
 </tr>
 </tbody></table>
-<h3>Mise en œuvre </h3>
+<h4>Mise en œuvre </h4>
 <p>* Les instructions et conditions uniformisées 9403-6, Offres à commandes seront supprimées du guide des Clauses et conditions uniformisées d'achat (CCUA). Les parties A et B des instructions et conditions uniformisées 9403-6 seront remplacées par 2006 et 2005 respectivement. La partie C des instructions et conditions uniformisées 9403-6 est comprise dans les conditions générales 2029 et 2010 et les conditions générales modifiées 9601, 9676 et 9624. Ces documents font partie de l'annexe A de l'AP.</p>
 <p>Ces documents uniformisés d'approvisionnement ministériels<br/>
 					en langage clair seront disponibles dans la prochaine<br/>
 					version du guide des CCUA, à partir du 15 août 2006 et sur le site Web Modèles<br/>
 					uniformisés pour les documents d'approvisionnement.</p>
-<h3>Prochaines étapes</h3>
+<h4>Prochaines étapes</h4>
 <p>Le Groupe de travail sur le langage clair examinera et élaborera les documents uniformisés d'approvisionnement (à savoir des modèles en langage clair, des instructions uniformisées et des conditions générales pour les demandes de soumissions et les contrats) pour les besoins plus complexes et les arrangements en matière d'approvisionnement.</p>
 <p>La Division des outils relatifs au processus d'approvisionnement est<br/>
 					responsable de la mise à jour des documents uniformisés<br/>
@@ -71,9 +71,9 @@
 					documents seront publiées dans les versions ultérieures<br/>
 					du site Web Modèles uniformisés pour les documents d'approvisionnement<br/>
 					et du guide des CCUA. </p>
-<h3>Personne-ressource</h3>
+<h4>Personne-ressource</h4>
 <p>Veuillez adresser directement vos demandes de renseignements à Gaëtane Dagenais (<a href="mailto:gaetane.dagenais@tpsgc-pwgsc.gc.ca" rel="external">gaetane.dagenais@tpsgc-pwgsc.gc.ca</a>) ou à Ginette Plante (<a href="mailto:ginette.plante@tpsgc-pwgsc.gc.ca" rel="external">ginette.plante@tpsgc-pwgsc.gc.ca</a>), Division des outils relatifs au processus d'achat.</p>
-<h3 id="AP-79toptoc">Pièces jointes :</h3>
+<h4 id="AP-79toptoc">Pièces jointes :</h4>
 <ul>
 <li><strong>Annexe A</strong></li>
 <li><a href="#AP-79aone"><em>Appendice 1</em> - 2T-PROC2, Procédures pour l'utilisation du modèle de la demande d'offre à commandes - biens ou services</a></li>
@@ -85,13 +85,13 @@
 <li><a href="#AP-79aseven"><em>Appendice 7</em> - Modifications aux 9624, Conditions générales - recherche et développement</a></li>
 <li><a href="#AP-79annexb"><strong>Annexe B - Changements apportés au Guide des approvisionnements</strong></a></li>
 </ul>
-<h2 id="AP-79aone">APPENDICE 1 DE L'ANNEXE A</h2>
+<h3 id="AP-79aone">APPENDICE 1 DE L'ANNEXE A</h3>
 <div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><br/>
 					Haut de la page</a></div>
-<h4>2T-PROC2 (2006-08-15) Procédures pour l'utilisation du modèle de la demande d'offre à commandes - biens ou services</h4>
+<h5>2T-PROC2 (2006-08-15) Procédures pour l'utilisation du modèle de la demande d'offre à commandes - biens ou services</h5>
 <p>La demande d'offre à commandes (DOC), les instructions uniformisées ainsi que les conditions générales pour les offres à commandes ont été élaborées de concert avec les Services juridiques de Travaux publics et Services gouvernementaux Canada (TPSGC).</p>
 <p>Les agents de négociation des contrats doivent utiliser les documents uniformisés conformément aux procédures suivantes :</p>
-<h3>1. 2T-RFSO1, Modèle de demande d'offre à commandes - biens ou services</h3>
+<h4>1. 2T-RFSO1, Modèle de demande d'offre à commandes - biens ou services</h4>
 <p>1.1 Sont inclus :</p>
 <ol type="a">
 <li>les besoins pour les biens, services ou les deux dont les exigences et les caractéristiques sont uniformisées et bien définis;</li>
@@ -168,11 +168,11 @@
 </ol>
 <p>1.9 L'initiative Les prochaines étapes</p>
 <p>Un paragraphe d'introduction tel que détaillé sous l'article 1 « Introduction » de la DOC doit être inclus pour tous les besoins faisant partie de l'initiative<em> Les prochaines étapes</em>.</p>
-<h2 id="AP-79atwo">APPENDICE 2 DE L'ANNEXE A</h2>
+<h3 id="AP-79atwo">APPENDICE 2 DE L'ANNEXE A</h3>
 <div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><br/>
 					Haut de la page</a></div>
-<h4>2006 (2006-08-15) Instructions uniformisées - demande d'offre à commandes - biens ou services</h4>
-<h3>Travaux publics et Services gouvernementaux Canada</h3>
+<h5>2006 (2006-08-15) Instructions uniformisées - demande d'offre à commandes - biens ou services</h5>
+<h4>Travaux publics et Services gouvernementaux Canada</h4>
 <p>Renseignements généraux</p>
 <ol>
 <li>Numéro d'entreprise - approvisionnement</li>
@@ -191,15 +191,15 @@
 <li>Déroulement de l'évaluation</li>
 <li>Autres renseignements</li>
 </ol>
-<h3>Renseignements généraux</h3>
+<h4>Renseignements généraux</h4>
 <p>Parmi les méthodes d'approvisionnement utilisées par Travaux publics et des Services gouvernementaux Canada (TPSGC) pour répondre aux besoins des ministères et organismes, il y a celle qui consiste à demander à des fournisseurs de soumettre une offre à commandes pour la fourniture de biens, la prestation de services ou les deux pendant une période déterminée. TPSGC autorise ensuite des ministères et organismes particuliers à passer des commandes subséquentes à l'offre à commandes précisant les quantités exactes de biens ou le niveau de services qu'ils désirent commander à un moment particulier au cours de la période de validité de l'offre et conformément aux conditions préétablies.</p>
 <p>Le processus débute habituellement par la publication d'une demande d'offre à commandes (DOC) que les fournisseurs peuvent obtenir par l'entremise du Service électronique d'appels d'offres du gouvernement (SEAOG). Une DOC est une invitation aux fournisseurs à présenter une offre à commandes à TPSGC. Les quantités de biens, les niveaux de services et les dépenses estimatives précisés dans la DOC ne constituent qu'une approximation des besoins exprimés de bonne foi. Une DOC n'engage pas TPSGC à autoriser l'utilisation de l'offre à commandes ou à acheter des biens, services ou les deux ou à attribuer un contrat à cet effet. Une offre à commandes n'est pas un contrat. L'émission par TPSGC d'une autorisation de passer des commandes subséquentes à une offre à commandes (APCSOC) aux fournisseurs retenus et aux ministères et organismes autorisés à passer des commandes subséquentes ne constitue pas un engagement du Canada à commander les biens, services ou les deux offerts. Les ministères et les organismes pourraient passer une ou plusieurs commandes subséquentes à l'offre à commandes.</p>
-<h3>01. Numéro d'entreprise - approvisionnement</h3>
+<h4>01. Numéro d'entreprise - approvisionnement</h4>
 <p>Les fournisseurs canadiens doivent avoir un numéro d'entreprise - approvisionnement (NEA) avant qu'une offre à commandes soit émise. Les fournisseurs peuvent s'inscrire pour obtenir un NEA du système Données d'inscription des fournisseurs (DIF) en se rendant sur le site Web d'<a href="https://achatsetventes.gc.ca/">Achats et Ventes</a>. Pour s'inscrire autrement que par Internet, les fournisseurs peuvent communiquer avec la LigneInfo d'Accès entreprises Canada au 1-800-811-1148 afin d'obtenir le numéro de téléphone de l'agent d'inscription des fournisseurs le plus près.</p>
-<h3>02. Instructions, clauses et conditions uniformisées</h3>
+<h4>02. Instructions, clauses et conditions uniformisées</h4>
 <p>Conformément à la <em>Loi sur le ministère des<br/>
 					Travaux publics et des Services gouvernementaux</em>, L.C., 1996, ch. 16, les instructions, les clauses et les conditions identifiées dans la DOC, l'offre à commandes et contrat(s) subséquent(s) par un titre, un numéro et une date sont incorporées par renvoi et font partie intégrante de la DOC, de l'offre à commandes et de tout contrat découlant de l'offre à commandes comme si elles étaient formellement reproduites dans la DOC, l'offre à commandes et tout contrat subséquent. </p>
-<h3>03. Présentation des offres</h3>
+<h4>03. Présentation des offres</h4>
 <ol>
 <li>Le Canada exige que chaque offre soit signée par l'offrant ou par son représentant autorisé. Si une offre est déposée par un consortium, elle doit indiquer clairement qu'il s'agit d'un consortium et elle doit être signée par tous les membres de ce consortium ou être accompagnée d'une déclaration précisant que le signataire représente tous les membres du consortium.</li>
 <li>Il appartient à l'offrant :<br/>
@@ -222,9 +222,9 @@
 						sur la protection des renseignements personnels</em>, L.R.C. (1985), ch. P-21.</li>
 <li>Sauf dans les cas prévus expressément ailleurs dans cette DOC, le Canada évaluera l'offre de l'offrant d'après la documentation qui accompagnera cette offre. Le Canada ne tiendra pas compte lors de l'évaluation d'une offre des renvois à de l'information supplémentaire qui n'accompagne pas l'offre, comme les adresses de sites Web où l'on peut trouver de plus amples renseignements, ou les manuels ou les brochures techniques qui n'accompagnent pas l'offre.</li>
 </ol>
-<h3>04. Offres déposées en retard</h3>
+<h4>04. Offres déposées en retard</h4>
 <p>TPSGC renverra les offres livrées après la date et l'heure de clôture stipulées, à moins que ces offres ne soient considérées comme des offres retardées selon les circonstances énoncées ci-dessous. </p>
-<h3>05. Offres retardées</h3>
+<h4>05. Offres retardées</h4>
 <ol>
 <li>Une offre livrée à l'unité de réception désignée après l'heure et la date de clôture, mais avant l'émission de l'offre à commandes, peut être prise en considération, à condition que l'offrant puisse prouver que le retard est dû uniquement à un délai de livraison dont la Société canadienne des postes (SCP) (ou l'équivalent national d'un pays étranger) est responsable. On ne considère pas que Purolator Inc. fait partie de la SCP pour l'application de cette clause sur les offres retardées. Les seules preuves acceptées par TPSGC pour justifier un retard dû au service de la SCP sont les suivantes :<br/>
 <ol type="a">
@@ -237,7 +237,7 @@
 <li>TPSGC n'acceptera pas les offres qui sont reçues en retard en raison d'une erreur d'acheminement, du volume de trafic, de perturbations atmosphériques, de conflits du travail ou d'autres motifs.</li>
 <li>Le timbre de machine à affranchir, qu'il soit apposé par l'offrant, la SCP ou le service postal d'un pays étranger, ne constitue pas une preuve que l'offre a été expédiée à temps.</li>
 </ol>
-<h3>06. Transmission par télécopieur</h3>
+<h4>06. Transmission par télécopieur</h4>
 <ol>
 <li>À moins d'instructions contraires dans la DOC, les offres peuvent être transmises par télécopieur. Le seul numéro de télécopieur valide pour la réception des réponses aux DOC lancées par les secteurs de l'administration centrale de TPSGC est le 819-997-9776. Le numéro de télécopieur pour répondre aux DOC lancées par les bureaux régionaux de TPSGC est indiqué dans la DOC.</li>
 <li>Si l'offrant choisit de faire parvenir son offre par télécopieur, le Canada ne sera responsable d'aucune défaillance attribuable à l'utilisation de ce mode de transmission ou de réception. Entre autres, il n'assumera aucune responsabilité pour ce qui suit :<br/>
@@ -253,11 +253,11 @@
 </li>
 <li>Les offres transmises par télécopieur constitueront les offres officielles des offrants et devront être présentées conformément à l'article 03, Présentation des offres. Pour les offres transmises par télécopieur, une confirmation écrite doit être déposée dans un délai de deux (2) jours ouvrables suivant la date de clôture de la DOC, sauf instructions contraires dans la DOC. Tous les documents servant à confirmer l'offre devraient porter la mention «CONFIRMATION».</li>
 </ol>
-<h3>07. Dédouanement</h3>
+<h4>07. Dédouanement</h4>
 <p>L'offrant a la responsabilité de prévoir un délai suffisant pour obtenir un dédouanement, lorsqu'il y a lieu, avant la date et l'heure de clôture de la DOC. Les retards dus à l'obtention d'un dédouanement ne peuvent être considérés comme des « retards imprévus dus au service postal » et ne seront pas admissibles selon l'article 05, Offres retardées.</p>
-<h3>08. Capacité juridique</h3>
+<h4>08. Capacité juridique</h4>
 <p>L'offrant doit avoir la capacité juridique de contracter. Si l'offrant est une entreprise à propriétaire unique, une société de personnes ou une personne morale, il doit fournir, à la demande du responsable de l'offre à commandes , une déclaration et toutes les pièces justificatives demandées indiquant les lois en vertu desquelles son entreprise est incorporée ou enregistrée, ainsi que sa dénomination sociale et son lieu d'affaires. Ce qui précède s'applique également si l'offrant est un consortium.</p>
-<h3>09. Droits du Canada</h3>
+<h4>09. Droits du Canada</h4>
 <p>Le Canada se réserve le droit :</p>
 <ol type="a">
 <li>de rejeter l'une quelconque ou la totalité des offres reçues en réponse à la DOC;</li>
@@ -268,7 +268,7 @@
 <li>si aucune offre conforme n'est déposée et que le marché n'est pas modifié substantiellement, de relancer la DOC en invitant uniquement les offrants qui ont déposé des offres, à déposer de nouveau leur offre dans un délai indiqué par le Canada;</li>
 <li>de négocier avec le seul offrant qui a déposé une offre conforme pour s'assurer que le Canada profitera du meilleur rapport qualité/prix.</li>
 </ol>
-<h3>10. Rendement du fournisseur</h3>
+<h4>10. Rendement du fournisseur</h4>
 <ol>
 <li>Le Canada peut rejeter une offre dans l'un des cas suivants :<br/>
 <ol type="a">
@@ -287,10 +287,10 @@
 </li>
 <li>Dans le cas où le Canada a l'intention de rejeter une offre conformément au paragraphe 1 pour des motifs distincts de ceux exposés à l'alinéa 1(b), le responsable de l'offre à commandes le fera savoir à l'offrant et lui donnera un délai de dix (10) jours pour faire valoir son point de vue, avant de rendre une décision définitive sur le rejet de l'offre.</li>
 </ol>
-<h3>11. Communications en période d'invitation</h3>
+<h4>11. Communications en période d'invitation</h4>
 <p>Afin d'assurer l'intégrité du processus d'appel à la concurrence, toutes les demandes de renseignements et autre communication ayant trait à la DOC, doivent être adressées uniquement au responsable de l'offre à commandes dont le nom est indiqué dans la DOC. Le défaut de se conformer, pour cette raison uniquement, pourrait entraîner le rejet de l'offre.</p>
 <p>Afin d'assurer l'uniformité et la qualité de l'information fournie aux offrants, les demandes de renseignements importantes reçues, ainsi que les réponses à ces demandes, seront fournies simultanément à tous les offrants qui auront reçu la DOC sans que le nom de l'auteur des demandes de renseignements soit mentionné.</p>
-<h3>12. Support des prix</h3>
+<h4>12. Support des prix</h4>
 <p>Lorsque l'offre soumise par un offrant est la seule offre jugée recevable, l'offrant doit fournir sur demande, au Canada, un ou plusieurs des documents suivants pour justifier le prix, si cela s'applique :</p>
 <ol type="a">
 <li>la liste de prix publiée la plus récente, indiquant l'escompte, en pourcentage, offert à TPSGC;</li>
@@ -299,9 +299,9 @@
 <li>une attestation de prix ou de taux;</li>
 <li>toutes autres pièces justificatives demandées par le Canada.</li>
 </ol>
-<h3>13. Coûts relatifs aux offres</h3>
+<h4>13. Coûts relatifs aux offres</h4>
 <p>Aucun paiement ne sera versé pour des coûts encourus pour la préparation et la présentation d'une offre en réponse à la DOC. L'offrant sera seul responsable des frais engagés dans la préparation et la présentation d'une offre, ainsi que des frais engagés par lui pour l'évaluation de son offre.</p>
-<h3>14. Déroulement de l'évaluation</h3>
+<h4>14. Déroulement de l'évaluation</h4>
 <p>Lorsque le Canada évalue les offres, il peut, sans toutefois y être obligé, effectuer ce qui suit : </p>
 <ol type="a">
 <li>demander des précisions ou vérifier l'exactitude de certains renseignements ou de tous les renseignements fournis par les offrants relatifs à la DOC; </li>
@@ -313,16 +313,16 @@
 <li>interviewer, aux propres frais des offrants, tout offrant et/ou une des personnes qu'ils proposent pour répondre aux exigences de la DOC. </li>
 </ol>
 <p>Le responsable de l'offre à commandes établira le nombre de jours dont disposeront les offrants pour se conformer à la demande concernant tout item ci-haut mentionné. Le défaut de répondre pourra avoir pour conséquence que l'offre soit jugée non recevable.</p>
-<h3>15. Autres renseignements</h3>
+<h4>15. Autres renseignements</h4>
 <ol>
 <li>Pour obtenir d'autres renseignements, les offrants peuvent s'adresser au responsable de l'offre à commandes dont le nom est indiqué dans la DOC.</li>
 <li>Les demandes de renseignements concernant la réception des offres présentées en réponse aux DOC lancées par l'administration centrale de TPSGC peuvent être adressées à l'Unité de réception des soumissions, Division de soutien opérationnel des approvisionnements, au 819-956-3370. Dans le cas des DOC lancées par des bureaux régionaux de TPSGC, les demandes de renseignements concernant la réception des offres peuvent être adressées au responsable de l'offre à commandes dont le nom figure dans la DOC. </li>
 </ol>
-<h2 id="AP-79athree">APPENDICE 3 DE L'ANNEXE A</h2>
+<h3 id="AP-79athree">APPENDICE 3 DE L'ANNEXE A</h3>
 <div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><br/>
 					Haut de la page</a></div>
-<h4>2005 00 (2006-08-15) Conditions générales - offres à commandes - biens ou services</h4>
-<h3>Travaux publics et Services gouvernementaux Canada</h3>
+<h5>2005 00 (2006-08-15) Conditions générales - offres à commandes - biens ou services</h5>
+<h4>Travaux publics et Services gouvernementaux Canada</h4>
 <ol>
 <li>Interprétation</li>
 <li>Généralités</li>
@@ -333,7 +333,7 @@
 <li>Révision</li>
 <li>Divulgation de renseignements</li>
 </ol>
-<h4>2005 01 (2006-08-15) Interprétation</h4>
+<h5>2005 01 (2006-08-15) Interprétation</h5>
 <p>Dans l'offre à commandes, à moins que le contexte n'indique un sens différent :</p>
 <p>« commande » désigne une commande passée par un utilisateur désigné dûment autorisé à passer une commande subséquente à une offre à commandes particulière. La transmission à l'offrant d'une commande subséquente à une offre à commandes constitue l'acceptation de l'offre de celui-ci et forme un contrat entre Sa Majesté la Reine du chef du Canada et l'offrant pour les biens, services ou les deux décrits dans la commande;</p>
 <p>« Canada », « Couronne », « Sa Majesté » ou « l'État » désigne Sa Majesté la Reine du chef du Canada telle que représentée par le ministre des Travaux publics et Services gouvernementaux et toute autre personne dûment autorisée à agir au nom de ce ministre.</p>
@@ -341,11 +341,11 @@
 <p>« offrant » désigne la personne ou l'entité dont le nom figure sur la page de signature de l'offre à commandes et qui offre de fournir au Canada des biens, des services, ou les deux, dans le cadre d'une offre à commandes;</p>
 <p>« offre à commandes » désigne l'offre écrite de l'offrant, ces conditions générales, toutes les conditions et les clauses incorporées par renvoi et tout autre document précisé ou incorporé par renvoi comme faisant partie de l'offre à commandes;</p>
 <p>« responsable de l'offre à commandes » désigne la personne désignée comme telle dans l'offre à commandes, ou par un avis à l'offrant, pour agir à titre de représentant du Canada pour la gestion de l'offre à commandes. Le responsable de l'offre à commandes émettra un document appelé « Autorisation de passer des commandes subséquentes à une offre à commandes » (APCSOC) pour autoriser les utilisateurs désignés à passer des commandes subséquentes à l'offre à commandes et pour aviser l'offrant que l'autorisation de passer une commande subséquente à l'offre à commandes a été donnée aux utilisateurs désignés.</p>
-<h4>2005 02 (2006-08-15) Généralités</h4>
+<h5>2005 02 (2006-08-15) Généralités</h5>
 <p>L'offrant reconnaît qu'une offre à commandes n'est pas un contrat et que l'émission d'une offre à commandes et d'une autorisation de passer une commande subséquente n'oblige ni n'engage le Canada à acheter les biens, services, ou les deux énumérés dans l'offre à commandes ou à établir un contrat à cet effet. L'offrant comprend et convient que le Canada a le droit d'acheter les biens, services ou les deux précisés dans l'offre à commandes au moyen de tout autre contrat, offre à commandes ou méthode d'approvisionnement.</p>
-<h4>2005 03 (2006-08-15) Clauses et conditions uniformisées</h4>
+<h5>2005 03 (2006-08-15) Clauses et conditions uniformisées</h5>
 <p>Conformément à la <em>Loi sur le ministère des Travaux publics et des Services gouvernementaux, L.C., 1996</em>, ch. 16, les clauses et conditions identifiées par un titre, un numéro et une date, sont incorporées par renvoi dans l'offre à commandes et font partie intégrante de tout contrat résultant de l'offre à commandes comme si elles y étaient formellement reproduites.</p>
-<h4>2005 04 (2006-08-15) Offre</h4>
+<h5>2005 04 (2006-08-15) Offre</h5>
 <ol>
 <li>L'offrant propose de fournir et de livrer au Canada les biens, services ou les deux décrits dans l'offre à commandes selon les prix établis dans l'offre à commandes au fur et à mesure que l'utilisateur désigné pourrait demander ces biens, services ou les deux conformément aux dispositions du paragraphe 2 ci-après.</li>
 <li>L'offrant comprend et convient :<br/>
@@ -358,19 +358,19 @@
 </ol>
 </li>
 </ol>
-<h4>2005 05 (2006-08-15) Commandes subséquentes</h4>
+<h5>2005 05 (2006-08-15) Commandes subséquentes</h5>
 <p>Si applicable, les utilisateurs désignés utiliseront le formulaire spécifié dans l'offre à commandes pour commander les biens, les services ou les deux. Les biens, les services ou les deux peuvent également être commandés en utilisant d'autres méthodes comme le téléphone, le télécopieur ou les moyens électroniques. À l'exception des commandes subséquentes à l'offre à commandes payé avec une carte d'achat du gouvernement du Canada (carte de crédit) au point de vente, les commandes faites par téléphone devront être confirmées par écrit en utilisant le document spécifié dans l'offre à commandes.</p>
 <p>Les commandes subséquentes à une offre à commandes payées par la carte d'achat du gouvernement du Canada (carte de crédit) au point de vente devront bénéficier des mêmes prix et termes et conditions que toute autre commande.</p>
-<h4>2005 06 (2006-08-15) Retrait</h4>
+<h5>2005 06 (2006-08-15) Retrait</h5>
 <p>Si l'offrant désire retirer son offre à commandes une fois que l'autorisation de passer des commandes subséquentes à une offre à commandes a été donnée, il devra aviser le responsable de l'offre à commandes au moyen d'un préavis écrit d'au moins trente (30) jours, à moins d'indication contraire dans l'offre à commandes. La période de trente (30) jours débutera à la date de réception du préavis par le responsable de l'offre à commandes, et le retrait sera en vigueur à compter de la date d'expiration de cette période. L'offrant doit exécuter toutes les commandes passées avant la date d'expiration de cette période.</p>
-<h4>2005 07 (2006-08-15) Révision</h4>
+<h5>2005 07 (2006-08-15) Révision</h5>
 <p>La période de l'offre à commandes peut uniquement être prolongée, ou son utilisation augmentée, par le responsable de l'offre à commandes au moyen d'une révision à l'offre à commandes faite par écrit.</p>
-<h4>2005 08 (2006-08-15) Divulgation de renseignements</h4>
+<h5>2005 08 (2006-08-15) Divulgation de renseignements</h5>
 <p>L'offrant accepte que ses prix ou ses taux contenus dans l'offre à commandes soient divulgués par le Canada et convient qu'il n'aura aucun droit de réclamation contre le Canada, l'utilisateur désigné, leurs employés, agents ou préposés en ce qui a trait à ladite divulgation.</p>
-<h2 id="AP-79afour">APPENDICE 4 DE L'ANNEXE A</h2>
+<h3 id="AP-79afour">APPENDICE 4 DE L'ANNEXE A</h3>
 <div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><br/>
 					Haut de la page</a></div>
-<h4>2T-RFSO1, Modèle de demande d'offres à commandes - biens ou services</h4>
+<h5>2T-RFSO1, Modèle de demande d'offres à commandes - biens ou services</h5>
 <div>
 <p><strong>Introduction :</strong></p>
 <p>On a préparé le modèle de demande d'offre à commandes (DOC) dans le but de l'utiliser à la grandeur du ministère en tant que document générique devant servir à la préparation de modèles exclusifs à une division ou à certains biens, de sorte qu'il renferme des clauses qui ne s'appliqueront pas nécessairement lors de tous les achats.</p>
@@ -419,13 +419,13 @@
 </tr>
 </tbody></table>
 <p>On peut faire référence, dans les CCUA modifiées, à la clause « dérivée » de la CCUA concernée. On ne devrait pas utiliser les numéros de clause du Guide des CCUA dans la version publiée de la DOC. </p>
-<h3>Système de numérotation :</h3>
+<h4>Système de numérotation :</h4>
 <p>Aux fins du modèle, on qualifie les rubriques principales « d'articles ». Les clauses du guide des CCUA ou toute autre clause approuvée qu'on ajoute au modèle en vertu d'un article seront considérées comme des « clauses ». Chacun des articles de cette DOC présente un numéro unique. Les articles dans toutes les parties de la DOC sont numérotés dans l'ordre, soit 1, 2, etc. Les clauses qu'on retrouve dans les articles dans toutes les parties de la DOC sont numérotées ainsi : 1.1, 1.2, 2.1, 2.1, etc. </p>
 </div>
-<h4>2T-RFSO1 (2006-08-15) Modèle de demande d'offres à commandes - biens ou services</h4>
-<h3>TABLE DES MATIÈRES</h3>
+<h5>2T-RFSO1 (2006-08-15) Modèle de demande d'offres à commandes - biens ou services</h5>
+<h4>TABLE DES MATIÈRES</h4>
 <p>(Ajouter les articles ou supprimer les articles pertinents de la Table des matières, s'il y a lieu)</p>
-<h3>PARTIE 1 - RENSEIGNEMENTS GÉNÉRAUX </h3>
+<h4>PARTIE 1 - RENSEIGNEMENTS GÉNÉRAUX </h4>
 <ol>
 <li>Introduction</li>
 <li>Sommaire</li>
@@ -433,26 +433,26 @@
 <li><span>X.</span>  Termes-clés <em>(s'il y a lieu)</em></li>
 <li><span>X.</span>  Conflit d'intérêt <em>(s'il y a lieu)</em></li>
 </ol>
-<h3>PARTIE 2 - INSTRUCTIONS À L'INTENTION DES OFFRANTS</h3>
+<h4>PARTIE 2 - INSTRUCTIONS À L'INTENTION DES OFFRANTS</h4>
 <ol>
 <li>Instructions, clauses et conditions uniformisées</li>
 <li>Présentations des offres</li>
 <li>Demandes de renseignements - DOC</li>
 <li>Lois applicables</li>
 </ol>
-<h3>PARTIE 3 - INSTRUCTIONS POUR LA PRÉPARATION DES OFFRES </h3>
+<h4>PARTIE 3 - INSTRUCTIONS POUR LA PRÉPARATION DES OFFRES </h4>
 <ol>
 <li>Instructions pour la préparation des offres</li>
 </ol>
-<h3>PARTIE 4 - PROCÉDURES D'ÉVALUATION, MÉTHODE DE SÉLECTION ET ATTESTATIONS</h3>
+<h4>PARTIE 4 - PROCÉDURES D'ÉVALUATION, MÉTHODE DE SÉLECTION ET ATTESTATIONS</h4>
 <ol>
 <li>Procédures d'évaluation</li>
 <li>Méthode de sélection</li>
 <li>Exigences relatives à la sécurité <em>(s'il y a lieu)</em></li>
 <li><span>X.</span>  Attestations <em>(s'il y a lieu)</em></li>
 </ol>
-<h3>PARTIE 5 - OFFRE À COMMANDES ET CLAUSES DU CONTRAT SUBSÉQUENT</h3>
-<h4>A. OFFRE À COMMANDES</h4>
+<h4>PARTIE 5 - OFFRE À COMMANDES ET CLAUSES DU CONTRAT SUBSÉQUENT</h4>
+<h5>A. OFFRE À COMMANDES</h5>
 <ol>
 <li>Offre</li>
 <li>Exigences relatives à la sécurité</li>
@@ -469,7 +469,7 @@
 <li>Lois applicables</li>
 <li>(...) <em>(s'il y a lieu)</em></li>
 </ol>
-<h4>B. CLAUSES DU CONTRAT SUBSÉQUENT</h4>
+<h5>B. CLAUSES DU CONTRAT SUBSÉQUENT</h5>
 <ol>
 <li>Énoncé des travaux <em><strong>OU</strong></em> Besoins <em>(Choisir, selon le cas)</em></li>
 <li>Clauses et conditions uniformisées</li>
@@ -478,14 +478,14 @@
 <li>Instructions pour la facturation</li>
 <li><em>X.  (s'il y a lieu)</em></li>
 </ol>
-<h3>Liste des annexes : <em>(Ajouter les annexes pertinentes, s'il y a lieu)</em></h3>
+<h4>Liste des annexes : <em>(Ajouter les annexes pertinentes, s'il y a lieu)</em></h4>
 <ol class="noBullet">
 <li>Annexe <span>X</span> - Énoncé des travaux <em><strong>OU</strong></em> Besoins <em>(Choisir, selon le cas)</em></li>
 <li>Annexe <span>X</span> - Base de paiement</li>
 <li>Annexe <span>X</span> - Liste de vérification des exigences relatives à la sécurité</li>
 </ol>
-<h2>PARTIE 1 - RENSEIGNEMENTS GÉNÉRAUX</h2>
-<h3>1. Introduction</h3>
+<h3>PARTIE 1 - RENSEIGNEMENTS GÉNÉRAUX</h3>
+<h4>1. Introduction</h4>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Inclure le premier paragraphe si le besoin fait partie de l'initiative Les prochaines étapes. Supprimer si cela ne s'applique pas.</p>
 <p>Le gouvernement du Canada a lancé un programme qui vise à améliorer la façon dont il mène ses activités et qui est principalement axé sur la découverte et la mise en œuvre de méthodes novatrices permettant une livraison de biens et une prestation de services plus efficaces, plus rapides et plus économiques. Le gouvernement a recours à des pratiques stratégiques pour déterminer quels fournisseurs offrent la meilleure proposition de valeur et le meilleur rapport qualité-prix au Canada et pour accélérer les économies de coûts dans les différents secteurs d'approvisionnement. Ce travail est guidé par les principes de transparence, de responsabilité et d'éthique rigoureuse dans la conduite des affaires adoptés par le gouvernement du Canada.</p>
 <p>Le modèle de DOC comporte cinq parties : (i) Première partie - Renseignements généraux; (ii)Deuxième partie - Instructions à l'intention des offrants; (iii) Troisième partie - Instructions pour la préparation des offres; (iv) Quatrième partie - Procédures d'évaluation, Méthode de sélection et Attestations; et v) Cinquième partie - A. Offre à commandes et B. Clauses du contrat subséquent; et les annexes.</p>
@@ -516,17 +516,17 @@
 <li>pour des raisons d'uniformité, l'autorité responsable de l'offre à commandes devrait employer la même formulation pour décrire le besoin dans l'avis de projet de marché (APM). On devrait mentionner dans l'APM si la politique relative au contenu canadien s'applique au marché.</li>
 </ol>
 </div>
-<h3>2. Sommaire</h3>
+<h4>2. Sommaire</h4>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Inclure l'article ci-après, s'il y a lieu. Si le besoin ne comporte aucune exigence relative à la sécurité, supprimer cet article.</p>
-<h3>3. Exigences relatives à la sécurité</h3>
+<h4>3. Exigences relatives à la sécurité</h4>
 <p>Ce besoin comporte des exigences relatives à la sécurité. Pour de plus amples renseignements, veuillez consulter la partie 4, Procédures d'évaluation, Méthode de sélection et Attestations; et la partie 5 - Offre à commandes et clauses du contrat subséquent. </p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> S'il y a lieu, utiliser cet article pour ajouter des définitions des principaux termes techniques. Ne pas définir les termes contenus dans les conditions générales. Si certains termes techniques apparaissent déjà dans l'énoncé des travaux, renvoyer à ce dernier au lieu de répéter l'information et de risquer de commettre des erreurs.</p>
-<h3>X. Termes-clés</h3>
+<h4>X. Termes-clés</h4>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> S'il y a lieu, utiliser cet article quand le Canada a reçu l'aide d'entrepreneurs du secteur privé dans le cadre de la préparation d'une demande d'offres ou d'un énoncé des travaux. Voici des clauses qui pourraient être modifiées et utilisées : K2205D, K2210T. Au besoin, consulter les services juridiques pour déterminer quelle est la clause pertinente.</p>
-<h3>X. Conflit d'intérêt </h3>
-<h2>PARTIE 2 - INSTRUCTIONS À L'INTENTION DES OFFRANTS</h2>
+<h4>X. Conflit d'intérêt </h4>
+<h3>PARTIE 2 - INSTRUCTIONS À L'INTENTION DES OFFRANTS</h3>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Consulter l'article 02 du document 2006, Instructions uniformisées - demande d'offre à commandes - biens ou services.</p>
-<h3>1. Instructions, clauses et conditions uniformisées</h3>
+<h4>1. Instructions, clauses et conditions uniformisées</h4>
 <p>Toutes les instructions, clauses et conditions identifiées dans la demande d'offre à commandes par un titre, un numéro et une date sont reproduites dans le guide des Clauses et conditions uniformisées d'achat publié par Travaux publics et Services gouvernementaux Canada (TPSGC). Le guide est disponible sur le site Web de TPSGC: <a href="http://sacc.tpsgc.gc.ca/sacc/index-f.jsp" rel="external">http://sacc.tpsgc.gc.ca/sacc/index-f.jsp</a>.</p>
 <p>Les offrants qui présentent une offre s'engagent à respecter les instructions, les clauses et les conditions de la DOC et acceptent les clauses et les conditions de l'offre à commandes et du contrat subséquent.</p>
 <p>2006 ______<em><strong>(insérer la date)</strong></em> - Instructions uniformisées - demande d'offre à commandes - biens ou services, sont incorporées par renvoi à la DOC et en font partie intégrante. </p>
@@ -535,26 +535,26 @@
 <p>Supprimer : soixante (60) jours<br/>
 					Insérer : <em>____ ()</em> jours</p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Inclure par renvoi les clauses du guide des CCUA qui ne font pas partie des instructions uniformisées, s'il y a lieu. Des clauses de la section « 5-M » du guide des CCUA qui se terminent avec « T » peuvent être ajoutées dans cette partie. Cependant, s'il n'y a pas de clause dans cette section pour une exigence particulière, les clauses d'autres sections du guide des CCUA dont le numéro se termine par un «T» (p. ex. AXXXXT, etc.) doivent être révisées en vue d'être incorporées dans cette partie.</p>
-<h4>1.1 Clauses du guide des CCUA</h4>
+<h5>1.1 Clauses du guide des CCUA</h5>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Consulter les articles 03 à 08 du document 2006, Instructions uniformisées - demande d'offres à commandes - biens ou services.</p>
-<h3>2. Présentation des offres</h3>
+<h4>2. Présentation des offres</h4>
 <p>Les offres doivent être présentées au plus tard à la date, à l'heure et à l'endroit indiqués à la page 1 de la DOC.</p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Inclure le paragraphe ci-après lorsque les offres transmises par télécopieur ne sont pas acceptables.</p>
 <p>En raison du caractère de cette demande d'offre à commandes, la transmission des offres par télécopieur à l'intention de Travaux publics et Services gouvernementaux Canada n'est pas jugée pratique et ne sera conséquemment pas acceptée.</p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes : </strong>Inclure par renvoi les clauses du guide des CCUA portant sur les instructions et les exigences relatives à la présentation des offres qui ne font pas partie des instructions uniformisées, s'il y a lieu. Des clauses de la section « 5-M » du guide des CCUA qui se terminent avec « T » peuvent être ajoutées dans cette partie. Cependant, s'il n'y a pas de clause dans cette section pour une exigence particulière, les clauses d'autres sections du guide des CCUA dont le numéro se termine par un «T» (p. ex. AXXXXT, etc.) doivent être révisées en vue d'être incorporées dans cette partie.</p>
-<h4>2.1 Clauses du guide des CCUA</h4>
+<h5>2.1 Clauses du guide des CCUA</h5>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes : </strong>Inclure le texte intégral des clauses de la section « 5-M » du guide des CCUA qui se terminent avec « T » dans cette partie, sil y a lieu. Cependant, s'il n'y a pas de clause dans la section « 5-M » pour une exigence particulière, les clauses d'autres sections du guide des CCUA dont le numéro se termine par un «T» (p. ex. AXXXXT, etc.) doivent être révisées en vue d'être incorporées dans cette partie.</p>
-<h4>2.2 .......</h4>
+<h5>2.2 .......</h5>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Consulter l'article 11 du document 2006, Instructions uniformisées - demande d'offres à commandes - biens ou services. </p>
-<h3>3. Demandes de renseignements - DOC</h3>
+<h4>3. Demandes de renseignements - DOC</h4>
 <p>Toutes les demandes de renseignements doivent être présentées au responsable de l'offre à commandes au moins _____ (_____) <em><strong>(inscrire le nombre de jours civils)</strong></em> jours civils avant la date de clôture de la DOC. Pour ce qui est des demandes de renseignements reçues après ce délai, il est possible qu'on ne puisse pas y répondre avant la date de clôture de la DOC.</p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Indiquer la loi de quelle province ou de quel territoire le Canada propose d'appliquer à l'offre à commandes et à tout contrat subséquent. L'offrant, suivant les instructions, pourra proposer un changement aux lois applicables dans son offre. En ce qui concerne la version française, le mot « in » n'a pas été traduit puisqu'il n'y a pas de terme commun à toutes les provinces et territoire. Il faudra donc ajouter le mot « en » devant Alberta, Colombie-Britannique, Saskatchewan, Ontario et Nouvelle-Écosse, le mot « au » devant Manitoba, Québec, Nouveau-Brunswick et Yukon, le mot « à » devant Terre-Neuve et l'Ile-du-Prince-Édouard et les mots « dans les » devant Territoires du Nord Ouest.</p>
-<h3>4. Lois applicables</h3>
+<h4>4. Lois applicables</h4>
 <p>L'offre à commandes et tout contrat découlant de l'offre à commandes doivent être interprétés et régis selon les lois en vigueur _____. <em>(Le responsable de l'offre à commandes doit indiquer la loi de la province ou de quel territoire.)</em></p>
 <p>À sa discrétion, l'offrant peut indiquer les lois applicables d'une province ou d'un territoire canadien de son choix, sans que la validité de son offre ne soit mise en question, en supprimant le nom de la province ou le territoire canadien précisé et en insérant le nom de la province ou le territoire canadien de son choix. Si aucun changement n'est indiqué, cela signifie que l'offrant accepte les lois applicables indiquées.</p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Consulter les articles 03 à 08 du document 2006, Instructions uniformisées - demande d'offres à commandes - biens ou services.</p>
-<h2>PARTIE 3 - INSTRUCTIONS POUR LA PRÉPARATION DES OFFRES </h2>
-<h3>1. Instructions pour la préparation des offres</h3>
+<h3>PARTIE 3 - INSTRUCTIONS POUR LA PRÉPARATION DES OFFRES </h3>
+<h4>1. Instructions pour la préparation des offres</h4>
 <p>Les offrants doivent fournir les exemplaires de leur offre en sections distinctes, comme suit :</p>
 <p><strong>Section I :</strong> offre technique (____ exemplaires)<br/>
 <strong>Section II :</strong> offre financière (____ exemplaires)<br/>
@@ -565,12 +565,12 @@
 <li>utiliser du papier bond de 8,5 po x 11 po (216 mm x 279 mm);</li>
 <li>utiliser un système de numérotation correspondant à celui de la DOC.</li>
 </ol>
-<h3>Section I : Offre technique</h3>
+<h4>Section I : Offre technique</h4>
 <p>Dans son offre technique, l'offrant doit démontrer qu'il comprend les exigences décrites dans la DOC et aussi démontrer comment il respectera les exigences des critères d'évaluation et de la méthode de sélection détaillées dans la partie 4, article 1.1, Évaluation Technique.</p>
-<h3>Section II : Offre financière</h3>
+<h4>Section II : Offre financière</h4>
 <p>L'offrant doit présenter son offre financière en conformité avec l'annexe X, Base de paiement. Le montant total de la taxe sur les produits et les services (TPS) ou de la taxe sur la vente harmonisée (TVH), s'il y a lieu, doit être indiqué séparément.</p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Reproduire le texte intégral de cette clause lorsque l'on prévoit que les utilisateurs se serviront d'une carte d'achat du gouvernement du Canada (carte de crédit) pour le paiement des commandes subséquentes à l'offre à commandes au point de vente. Supprimer ci cela ne s'applique pas.</p>
-<h4>Paiement par carte de crédit</h4>
+<h5>Paiement par carte de crédit</h5>
 <p>On demande à l'offrant de compléter ce qui suit :</p>
 <ol type="a">
 <li>( )<br/>
@@ -592,15 +592,15 @@
 <p>L'offrant n'est pas obligé d'accepter les paiements par carte de crédit.</p>
 <p>L'acceptation du paiement par carte de crédit des commandes ne sera pas considérée comme un critère d'évaluation.</p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes : </strong>S'il y a lieu, inclure une des clauses ci-après, selon le cas. Utiliser les clauses de la section III ci-dessous en combinaison avec les «Attestations préalables à l'émission de l'offre à commandes » ou les « Attestations présentées avec l'offre» de la partie 4, article 4 - Attestations.</p>
-<h3>Section III : Attestations exigées</h3>
-<h4>Attestations préalables à l'émission de l'offre à commandes</h4>
+<h4>Section III : Attestations exigées</h4>
+<h5>Attestations préalables à l'émission de l'offre à commandes</h5>
 <p>Pour obtenir une offre à commandes, l'offrant doit fournir les attestations détaillées à la partie 4, sous « Attestations préalables à l'émission de l'offre à commandes ». Ces attestations devraient normalement accompagner son offre, mais peuvent être fournies par la suite. Le Canada pourra déclarer qu'une offre est irrecevable si les attestations ne sont pas fournies ou remplies sur demande. Si le Canada a l'intention de rejeter une offre conformément à ce paragraphe, le responsable de l'offre à commandes en informera l'offrant et lui donnera un délai afin de se conformer aux exigences. À défaut de donner suite à la demande du responsable de l'offre à commandes et de se conformer aux exigences dans les délais prévus, son offre sera jugée irrecevable.</p>
 <p>Le Canada pourra vérifier l'authenticité des attestations faites par l'offrant pendant la durée de la période d'évaluation des offres (avant l'émission de l'offre à commandes) et après l'émission de l'offre à commandes. Le responsable de l'offre à commandes aura le droit de demander des renseignements supplémentaires pour s'assurer que l'offrant respecte les attestations avant l'émission de l'offre à commandes.  L'offre sera déclarée irrecevable si on constate que l'offrant a fait de fausses déclarations, sciemment ou non. À défaut de respecter les attestations ou de donner suite à la demande de renseignements supplémentaires du responsable de l'offre à commandes, l'offre sera jugée irrecevable.</p>
 <p><strong>OU</strong></p>
-<h4>Attestations présentées avec l'offre</h4>
+<h5>Attestations présentées avec l'offre</h5>
 <p>L'offrant doit remplir et fournir, avec son offre, les attestations prévues à la partie 4, sous « Attestations présentées avec l'offre ». </p>
 <p>Le Canada pourra vérifier l'authenticité des attestations faites par l'offrant pendant la durée de la période d'évaluation des offres (avant l'émission de l'offre à commandes) et après l'émission de l'offre à commandes. Le responsable de l'offre à commandes aura le droit de demander des renseignements supplémentaires pour s'assurer que l'offrant respecte les attestations avant l'émission de l'offre à commandes. L'offre sera déclarée irrecevable si on constate que l'offrant a fait de fausses déclarations, sciemment ou non. À défaut de respecter les attestations ou de donner suite à la demande de renseignements supplémentaires du responsable de l'offre à commandes, l'offre sera jugée irrecevable.</p>
-<h2>PARTIE 4 - PROCÉDURES D'ÉVALUATION, MÉTHODE DE SÉLECTION ET ATTESTATIONS </h2>
+<h3>PARTIE 4 - PROCÉDURES D'ÉVALUATION, MÉTHODE DE SÉLECTION ET ATTESTATIONS </h3>
 <ol>
 <li><strong>Procédures d'évaluation</strong><br/>
 <ol type="a">
@@ -688,8 +688,8 @@
 </ol>
 </li>
 </ol>
-<h2>PARTIE 5 - OFFRE À COMMANDES ET CLAUSES DU CONTRAT SUBSÉQUENT</h2>
-<h3>A. OFFRE À COMMANDES </h3>
+<h3>PARTIE 5 - OFFRE À COMMANDES ET CLAUSES DU CONTRAT SUBSÉQUENT</h3>
+<h4>A. OFFRE À COMMANDES </h4>
 <p><strong>(Remarque à l'intention du responsable de l'offre à commandes :</strong> Choisir l'une des clauses ci-après.)</p>
 <ol>
 <li>Offre :<br/>
@@ -828,7 +828,7 @@
 </li>
 <li><strong>(....)</strong></li>
 </ol>
-<h3>B. CLAUSES DU CONTRAT SUBSÉQUENT</h3>
+<h4>B. CLAUSES DU CONTRAT SUBSÉQUENT</h4>
 <p>Les clauses et conditions suivantes s'appliquent et font partie intégrante de tout contrat résultant d'une commande subséquente à l'offre à commandes.</p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Choisir l'une des clauses ci-après.</p>
 <ol>
@@ -913,24 +913,24 @@
 </li>
 <li><strong>(....)</strong></li>
 </ol>
-<h2>Annexe <span>X</span></h2>
-<h3>ÉNONCÉ DES TRAVAUX<br/>
+<h3>Annexe <span>X</span></h3>
+<h4>ÉNONCÉ DES TRAVAUX<br/>
 <em>OU</em><br/>
-					BESOINS</h3>
-<h4><em>(à reproduire, s'il y a lieu)</em> </h4>
-<h2>Annexe <span>X</span> </h2>
-<h3>BASE DE PAIEMENT</h3>
-<h4><em>(à reproduire, s'il y a lieu)</em></h4>
-<h2>Annexe <span>X</span></h2>
-<h3>LISTE DE VÉRIFICATION DES EXIGENCES RELATIVES À LA SÉCURITÉ</h3>
-<h4><em>(INSÉRER LA LVERS, S'IL Y A LIEU)</em></h4>
-<h2 id="AP-79afive">APPENDICE 5 DE L'ANNEXE A </h2>
+					BESOINS</h4>
+<h5><em>(à reproduire, s'il y a lieu)</em> </h5>
+<h3>Annexe <span>X</span> </h3>
+<h4>BASE DE PAIEMENT</h4>
+<h5><em>(à reproduire, s'il y a lieu)</em></h5>
+<h3>Annexe <span>X</span></h3>
+<h4>LISTE DE VÉRIFICATION DES EXIGENCES RELATIVES À LA SÉCURITÉ</h4>
+<h5><em>(INSÉRER LA LVERS, S'IL Y A LIEU)</em></h5>
+<h3 id="AP-79afive">APPENDICE 5 DE L'ANNEXE A </h3>
 <div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><br/>
 					Haut de la page</a></div>
-<h3>Modifications aux 9601, Conditions générales - formule détaillée</h3>
+<h4>Modifications aux 9601, Conditions générales - formule détaillée</h4>
 <p>Les articles suivants sont ajoutés.</p>
-<h4>9601 00 (2006-08-15) Conditions générales - formule détaillée</h4>
-<h4>9601 38 (2006-08-15) Taxes</h4>
+<h5>9601 00 (2006-08-15) Conditions générales - formule détaillée</h5>
+<h5>9601 38 (2006-08-15) Taxes</h5>
 <ol>
 <li>Taxes municipales<br/>
 						Les taxes municipales ne s'appliquent pas.</li>
@@ -961,24 +961,24 @@
 <p>La taxe sur les produits et services (TPS) ou la taxe de vente harmonisée (TVH), dans la mesure où elle s'applique, est comprise dans le coût estimatif total indiqué à la page 1 du contrat. La TPS ou la TVH n'est pas comprise dans le prix contractuel, mais elle sera payée par le Canada conformément aux dispositions de la clause sur la présentation de factures ci-dessus. L'entrepreneur s'engage à verser à l'Agence du revenu du Canada toutes les sommes acquittées ou exigibles au titre de la TPS et de la TVH.</p>
 </li>
 </ol>
-<h4>9601 39 (2006-08-15) Présentation des factures</h4>
+<h5>9601 39 (2006-08-15) Présentation des factures</h5>
 <p>Les factures doivent être soumises au nom de l'entrepreneur. Elles doivent contenir le nom et l'adresse du ministère client, les numéros d'articles ou de référence, les produits livrables ou la description des travaux, le numéro du contrat, le numéro de référence du client, le numéro d'entreprise - approvisionnement et le ou les codes financiers, le cas échéant. Le mode d'expédition avec la date, le numéro de cas et de pièce ou de référence, le nom des articles et leur quantité, l'unité de distribution, le prix unitaire et les frais supplémentaires seront indiqués dans les factures s'il y a lieu. Les tarifs de main d'œuvre horaires fixes, le niveau d'effort et le montant facturé (excluant la taxe sur les produits et services {TPS} ou la taxe de vente harmonisée {TVH} devront être indiqués dans les factures, le cas échéant.</p>
 <p>La TPS, la TVH ou toutes autres taxes, dans la mesure où elles s'appliquent, seront précisées dans toutes les factures. Tous les biens ou les services détaxés, exonérés ou auxquels la TPS ou la TVH ne s'appliquent pas doivent être identifiés comme tel sur toutes les factures. L'entrepreneur doit soumettre des factures pour chaque livraison ou expédition; ces factures doivent s'appliquer à un seul contrat. Chaque facture doit indiquer si elle porte sur une livraison partielle ou finale.</p>
-<h4>9601 40 (2006-08-15) Documentation d'envoi</h4>
+<h5>9601 40 (2006-08-15) Documentation d'envoi</h5>
 <p>Pour l'expédition des biens, le connaissement de transport doit accompagner l'original de la facture, sauf s'il s'agit d'expéditions «payables sur livraison » (lorsque autorisé), auquel cas il doit accompagner la marchandise. En outre, un bordereau d'expédition doit accompagner chaque envoi et indiquer clairement le nom des articles, la quantité d'articles, les numéros de pièce ou de référence, la description des fournisseurs et les numéros de référence du contrat, incluant le numéro de référence du client (NRC) et le numéro d'entreprise - approvisionnement (NEA). Si les biens ont été inspectés à l'usine de l'entrepreneur, un certificat d'inspection signé doit être annexé au bordereau d'expédition normalement inclus dans l'enveloppe prévue à cette fin.</p>
-<h4>9601 41 (2006-08-15) Condition du matériel</h4>
+<h5>9601 41 (2006-08-15) Condition du matériel</h5>
 <p>Sauf disposition contraire du contrat, le matériel fourni doit être neuf et conforme à la plus récente version du dessin, de la spécification et (ou) du numéro de pièce pertinent, en vigueur à la date de clôture de la demande de soumissions.</p>
-<h4>9601 42 (2006-08-15) Frais de transport</h4>
+<h5>9601 42 (2006-08-15) Frais de transport</h5>
 <p>Si, aux termes du présent contrat, les frais de transport sont payables par le Canada et que l'entrepreneur est chargé de prendre les dispositions nécessaires pour le transport, les envois doivent être effectués par le moyen de transport le plus direct et le plus économique, selon les méthodes normales d'expédition. Ces frais doivent figurer séparément sur la facture. La politique du gouvernement fédéral voulant qu'il assume ses propres risques exclut le paiement de frais d'assurances ou d'évaluation pour le transport au-delà du point de transfert du droit de propriété sur les biens au gouvernement fédéral (c'est-à-dire le point FAB ou Incoterms). Lorsque l'entrepreneur est en mesure d'accroître la responsabilité du transporteur sans frais supplémentaires, il doit avoir recours à cette responsabilité accrue pour l'envoi.</p>
-<h4>9601 43 (2006-08-15) Biens expédiés au Canada</h4>
+<h5>9601 43 (2006-08-15) Biens expédiés au Canada</h5>
 <p>Les biens expédiés au Canada en provenance d'un autre pays doivent, à moins d'indication contraire, être acheminés, en douane, au point de livraison.</p>
-<h2 id="AP-79asix">APPENDICE 6 DE L'ANNEXE A </h2>
+<h3 id="AP-79asix">APPENDICE 6 DE L'ANNEXE A </h3>
 <div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><br/>
 					Haut de la page</a></div>
-<h3>Modifications aux 9676, Conditions générales - Services </h3>
+<h4>Modifications aux 9676, Conditions générales - Services </h4>
 <p><strong>Les articles suivants sont ajoutés.</strong></p>
-<h4>9676 00 (2006-08-15) Conditions générales - Services</h4>
-<h4>9676 35 (2006-08-15) Taxes</h4>
+<h5>9676 00 (2006-08-15) Conditions générales - Services</h5>
+<h5>9676 35 (2006-08-15) Taxes</h5>
 <ol>
 <li>Taxes municipales<br/>
 						Les taxes municipales ne s'appliquent pas.</li>
@@ -1009,16 +1009,16 @@
 <p>La taxe sur les produits et services (TPS) ou la taxe de vente harmonisée (TVH), dans la mesure où elle s'applique, est comprise dans le coût estimatif total indiqué à la page 1 du contrat. La TPS ou la TVH n'est pas comprise dans le prix contractuel, mais elle sera payée par le Canada conformément aux dispositions de la clause sur la présentation de factures ci-dessus. L'entrepreneur s'engage à verser à l'Agence du revenu du Canada toutes les sommes acquittées ou exigibles au titre de la TPS et de la TVH.</p>
 </li>
 </ol>
-<h4>9676 36 (2006-08-15) Présentation des factures</h4>
+<h5>9676 36 (2006-08-15) Présentation des factures</h5>
 <p>Les factures doivent être soumises au nom de l'entrepreneur. Elles doivent contenir le nom et l'adresse du ministère client, les numéros d'articles ou de référence, les produits livrables ou la description des travaux, le numéro du contrat, le numéro de référence du client, le numéro d'entreprise - approvisionnement et le ou les codes financiers, le cas échéant. Le mode d'expédition avec la date, le numéro de cas et de pièce ou de référence, le nom des articles et leur quantité, l'unité de distribution, le prix unitaire et les frais supplémentaires seront indiqués dans les factures s'il y a lieu. Les tarifs de main d'œuvre horaires fixes, le niveau d'effort et le montant facturé (excluant la taxe sur les produits et services {TPS} ou la taxe de vente harmonisée {TVH} devront être indiqués dans les factures, le cas échéant.</p>
 <p>La TPS, la TVH ou toutes autres taxes, dans la mesure où elles s'appliquent, seront précisées dans toutes les factures. Tous les biens ou les services détaxés, exonérés ou auxquels la TPS ou la TVH ne s'appliquent pas doivent être identifiés comme tel sur toutes les factures. L'entrepreneur doit soumettre des factures pour chaque livraison ou expédition; ces factures doivent s'appliquer à un seul contrat. Chaque facture doit indiquer si elle porte sur une livraison partielle ou finale.</p>
-<h2 id="AP-79aseven">APPENDICE 7 DE L'ANNEXE A </h2>
+<h3 id="AP-79aseven">APPENDICE 7 DE L'ANNEXE A </h3>
 <div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><br/>
 					Haut de la page</a></div>
-<h3>Modifications aux 9624, Conditions générales - Recherche et développement </h3>
+<h4>Modifications aux 9624, Conditions générales - Recherche et développement </h4>
 <p>Les articles suivants sont ajoutés.</p>
-<h4>9624 00 (2006-08-15) Conditions générales - Recherche et développement</h4>
-<h4>9624 45 (2006-08-15) Taxes</h4>
+<h5>9624 00 (2006-08-15) Conditions générales - Recherche et développement</h5>
+<h5>9624 45 (2006-08-15) Taxes</h5>
 <ol>
 <li>Taxes municipales<br/>
 						Les taxes municipales ne s'appliquent pas.</li>
@@ -1049,23 +1049,23 @@
 <p>La taxe sur les produits et services (TPS) ou la taxe de vente harmonisée (TVH), dans la mesure où elle s'applique, est comprise dans le coût estimatif total indiqué à la page 1 du contrat. La TPS ou la TVH n'est pas comprise dans le prix contractuel, mais elle sera payée par le Canada conformément aux dispositions de la clause sur la présentation de factures ci-dessus. L'entrepreneur s'engage à verser à l'Agence du revenu du Canada toutes les sommes acquittées ou exigibles au titre de la TPS et de la TVH.</p>
 </li>
 </ol>
-<h4>9624 46 (2006-08-15) Présentation des factures</h4>
+<h5>9624 46 (2006-08-15) Présentation des factures</h5>
 <p>Les factures doivent être soumises au nom de l'entrepreneur. Elles doivent contenir le nom et l'adresse du ministère client, les numéros d'articles ou de référence, les produits livrables ou la description des travaux, le numéro du contrat, le numéro de référence du client, le numéro d'entreprise - approvisionnement et le ou les codes financiers, le cas échéant. Le mode d'expédition avec la date, le numéro de cas et de pièce ou de référence, le nom des articles et leur quantité, l'unité de distribution, le prix unitaire et les frais supplémentaires seront indiqués dans les factures s'il y a lieu. Les tarifs de main d'œuvre horaires fixes, le niveau d'effort et le montant facturé (excluant la taxe sur les produits et services {TPS} ou la taxe de vente harmonisée {TVH} devront être indiqués dans les factures, le cas échéant.</p>
 <p>La TPS, la TVH ou toutes autres taxes, dans la mesure où elles s'appliquent, seront précisées dans toutes les factures. Tous les biens ou les services détaxés, exonérés ou auxquels la TPS ou la TVH ne s'appliquent pas doivent être identifiés comme tel sur toutes les factures. L'entrepreneur doit soumettre des factures pour chaque livraison ou expédition; ces factures doivent s'appliquer à un seul contrat. Chaque facture doit indiquer si elle porte sur une livraison partielle ou finale.</p>
-<h4>9624 47 (2006-08-15) Documentation d'envoi</h4>
+<h5>9624 47 (2006-08-15) Documentation d'envoi</h5>
 <p>Pour l'expédition des biens, le connaissement de transport doit accompagner l'original de la facture, sauf s'il s'agit d'expéditions «payables sur livraison » (lorsque autorisé), auquel cas il doit accompagner la marchandise. En outre, un bordereau d'expédition doit accompagner chaque envoi et indiquer clairement le nom des articles, la quantité d'articles, les numéros de pièce ou de référence, la description des fournisseurs et les numéros de référence du contrat, incluant le numéro de référence du client (NRC) et le numéro d'entreprise - approvisionnement (NEA). Si les biens ont été inspectés à l'usine de l'entrepreneur, un certificat d'inspection signé doit être annexé au bordereau d'expédition normalement inclus dans l'enveloppe prévue à cette fin.</p>
-<h4>9624 48 (2006-08-15) Condition du matériel</h4>
+<h5>9624 48 (2006-08-15) Condition du matériel</h5>
 <p>Sauf disposition contraire du contrat, le matériel fourni doit être neuf et conforme à la plus récente version du dessin, de la spécification et (ou) du numéro de pièce pertinent, en vigueur à la date de clôture de la demande de soumissions.</p>
-<h4>9624 49 (2006-08-15) Frais de transport</h4>
+<h5>9624 49 (2006-08-15) Frais de transport</h5>
 <p>Si, aux termes du présent contrat, les frais de transport sont payables par le Canada et que l'entrepreneur est chargé de prendre les dispositions nécessaires pour le transport, les envois doivent être effectués par le moyen de transport le plus direct et le plus économique, selon les méthodes normales d'expédition. Ces frais doivent figurer séparément sur la facture. La politique du gouvernement fédéral voulant qu'il assume ses propres risques exclut le paiement de frais d'assurances ou d'évaluation pour le transport au-delà du point de transfert du droit de propriété sur les biens au gouvernement fédéral (c'est-à-dire le point FAB ou Incoterms). Lorsque l'entrepreneur est en mesure d'accroître la responsabilité du transporteur sans frais supplémentaires, il doit avoir recours à cette responsabilité accrue pour l'envoi.</p>
-<h4>9624 50 (2006-08-15) Biens expédiés au Canada</h4>
+<h5>9624 50 (2006-08-15) Biens expédiés au Canada</h5>
 <p>Les biens expédiés au Canada en provenance d'un autre pays doivent, à moins d'indication contraire, être acheminés, en douane, au point de livraison.</p>
-<h2 id="AP-79annexb">Changements apportés au Guide des approvisionnements</h2>
+<h3 id="AP-79annexb">Changements apportés au Guide des approvisionnements</h3>
 <div class="topPage"> <a href="#AP-79tphp" title="Retourner au haut de la page"><br/>
 					Haut de la page</a></div>
-<h3>Chapitre 6 - Élaboration de la stratégie d'achat</h3>
-<h4>Section 6E - Processus</h4>
-<h4>Documents uniformisés d'approvisionnement ministériels en langage clair</h4>
+<h4>Chapitre 6 - Élaboration de la stratégie d'achat</h4>
+<h5>Section 6E - Processus</h5>
+<h5>Documents uniformisés d'approvisionnement ministériels en langage clair</h5>
 <dl>
 <dt>6E.643</dt>
 <dd>(2006-08-15) Travaux publics et Services gouvernementaux Canada (TPSGC) a mis en place les documents uniformisés d'approvisionnement ministériels en langage clair qui comprennent les nouvelles instructions uniformisées, les conditions générales et les modèles pour les demandes de soumissions et les demandes d'offres à commandes à l'intention de ses agents de négociation des contrats pour l'approvisionnement de biens, de services ou les deux (à l'exception des marchés pour la construction et l'architecture et le génie).

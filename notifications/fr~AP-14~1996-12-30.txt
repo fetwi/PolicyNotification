@@ -2,13 +2,13 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 30 décembre 1996</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 30 décembre 1996</h3>
 <p>Le ministre, Diane Marleau, et M. André Lafond, président de l'Association de la construction navale du Canada, ont annoncé le 19 décembre 1996 des changements à la Politique sur l'approvisionnement en matière de construction navale, qui vont élargir la concurrence pour les contrats de réparation, de radoub et de modernisation du gouvernement du Canada.</p>
 <p>Les changements à cette politique entrent en vigueur immédiatement. Ils ont été élaborés de concert avec l'industrie de la construction navale et le gouvernement du Canada, en réponse à une proposition présentée à Travaux publics et Services gouvernementaux Canada (TPSGC) par l'Association de la construction navale du Canada (ACNC).</p>
 <p>Auparavant, les contrats pour des travaux de plus de 5 millions de dollars faisaient l'objet d'appels d'offres soit dans la région de l'Est, soit dans la région de l'Ouest du Canada, selon le port d'attache du navire. Conformément à la politique, la région de l'Est comprend les provinces de l'Atlantique, le Québec et l'Ontario, alors que la région de l'Ouest comprend tous les chantiers navals qui sont situés à l'ouest de l'Ontario, au Yukon et dans les Territoires du Nord-Ouest.</p>
@@ -17,8 +17,8 @@
 <p>La politique revisée, qui sera incluse dans la prochaine version du Guide des approvisionnements, figurent à l'<strong>annexe A</strong>.</p>
 <p>La clause A0240T, qui doit être utilisée pour déterminer les coûts de déplacement des navires, figure à l'<strong>annexe B</strong>. Cette clause sera incluse dans la prochaine version du Guide des CCUA.</p>
 <p>Personne-ressource : <strong>S/O</strong></p>
-<h2>Annexe A</h2>
-<h3>Construction de navires, réparation, radoub et modernisation</h3>
+<h3>Annexe A</h3>
+<h4>Construction de navires, réparation, radoub et modernisation</h4>
 <p>5.104 (19/12/96) Les procédures que suit TPSGC pour la sélection de fournisseurs devant effectuer des travaux sur les navires du gouvernement canadien sont tirées de la <strong>Politique d'achats en matière de construction navale</strong> du gouvernement. Cette politique vise à encourager la concurrence entre les divers chantiers navals du Canada. Pour tous les besoins en matière de construction, de réparation et de modernisation de navire faisant appel au régime de concurrence, tel que défini par la Politique d'achats en matière de construction navale et assujetti à l'ACI, les agents de négociation des contrats doivent s'assurer que les détails relatifs aux restrictions ou aux pratiques sont clairement stipulés dans l'Avis de projet de marché (APM) ou les documents d'invitation à soumissionner.</p>
 <p><strong>L'APM et les documents d'invitation à soumissionner</strong> doivent porter la mention suivante : </p>
 <blockquote><p>« Pour le présent marché, la stratégie de sélection du fournisseur sera restreinte à la zone d'origine (selon le cas) conformément à la Politique d'achats en matière de construction navale. »</p>
@@ -80,14 +80,14 @@
 <li>Un besoin urgent nécessite l'utilisation du chantier le plus près qui peut exécuter le travail.</li>
 <li>Des exigences opérationnelles spéciales de la part du client limitent le déplacement du navire au-delà d'un endroit précis.</li>
 </ol>
-<h2>Annexe B</h2>
-<h3>REMARQUES:</h3>
+<h3>Annexe B</h3>
+<h4>REMARQUES:</h4>
 <p>1. Les agents des achats devront utiliser le plus récent tableau de l'est ou de l'ouest du Canada approuvé par le directeur de la Direction maritime pour préparer la liste des chantiers navals, où le travail pourrait potentiellement être entrepris, tel que requis dans la section 3.0 de cette clause. Les agents des achats doivent inclure, à partir du tableau, les frais applicables de transfert des navires pour chaque chantier naval figurant sur la liste, en tenant compte de l'emplacement du port d'attache du navire et du travail de radoub avec ou sans équipage. Losque le tableau ne mentionne aucun port d'attache spécifique pour le navire ou le nom de chantiers navals où le travail pourrait potentiellement être entrepris, les agents des achats doivent communiquer avec le directeur de la Direction maritime, à Place du Portage, Phase III - 6C2, au numéro de téléphone 819-956-0664 ou au numéro de télécopieur 819-956-0897, pour obtenir les données nécessaires.</p>
 <p>2. Les agents des achats doivent inscrire le nombre de jours civils dans la section 2b) de cette clause.</p>
-<h4>A0240T FRAIS DE TRANSFERT DU NAVIRE</h4>
+<h5>A0240T FRAIS DE TRANSFERT DU NAVIRE</h5>
 <p>1. Le prix d'évaluation doit inclure les frais de transfert du navire en provenance de son port d'attache et à destination des chantiers navals et vice-versa où la majorité du travail sera entrepris conformément à ce qui suit:</p>
 <p>2. a) Le soumissionaire doit inscrire ci-dessous l'emplacement des chantiers navals où il propose d'entreprendre le travail ainsi que les frais applicables de transfert du navire, à partir de la liste fournie à la section 3.0 de cette clause.</p>
-<h5>À REMPLIR PAR LE SOUMISSIONNAIRE</h5>
+<h6>À REMPLIR PAR LE SOUMISSIONNAIRE</h6>
 <p>Chantiers navals : _____</p>
 <p>Frais applicables de transfert du navire : ____</p>
 <p>b) Si l'emplacement des chantiers navals où le soumissionnaire a l'intention d'exécuter le travail n'apparait pas sur la liste fournie à la section 3.0 de cette clause, le soumissionnaire devra alors en aviser, par écrit, l'autorité contractante au cours des____ jours <strong>(l'agent des achats doit inscrire le nombre de jours civils dans cet espace et supprimer cet énoncé)</strong> précédents la date de fermeture des soumissions, de l'emplacement proposé pour l'exécution du travail. L'autorité contractante accusera réception, par écrit, au soumissionnaire de l'emplacement des chantiers navals et confirmera les frais applicables de transfert des navires.</p>

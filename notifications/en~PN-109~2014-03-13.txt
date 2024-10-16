@@ -1,23 +1,23 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p>On February 5, 2014, the Honourable Diane Finley, Minister of Public Works and Government Services and the Honourable Robert Nicholson, Minister of National Defence, launched Canada’s new Defence Procurement Strategy.</p>
 <p>See the <a href="http://news.gc.ca/web/article-en.do?mthd=tp&amp;crtr.page=1&amp;nid=813789&amp;crtr.tp1D=1" rel="external">News Release</a>.</p>
-<h2>Purpose</h2>
+<h3>Purpose</h3>
 <p>The <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/stamgp-lamsmp/sskt-eng.html" rel="external">Defence Procurement Strategy</a> (DPS) represents a fundamental change in the Government of Canada’s approach to defence procurement, and includes the following components:</p>
 <ul>
 <li>Delivering the right equipment to the Canadian Armed Forces in a timely manner;</li>
 <li>Leveraging our purchases of defence equipment to create jobs and economic growth in Canada; and</li>
 <li>Streamlining defence procurement processes.</li>
 </ul>
-<h2>Background</h2>
+<h3>Background</h3>
 <p>The <abbr title="Defence Procurement Strategy">DPS</abbr> is informed by the Government’s extensive engagement with the industry and by the recommendations found in the <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/stamgp-lamsmp/eam-lmp-eng.html" rel="external">Jenkins</a> and <a href="http://aerospacereview.ca/eic/site/060.nsf/eng/h_00003.html" rel="external">Emerson</a> reports commissioned by the Government of Canada. </p>
 <p>The <abbr title="Defence Procurement Strategy">DPS</abbr> fulfills the Government’s commitment to ensure defence equipment procurement creates economic opportunities and jobs for Canadians.  </p>
-<h2>Effective Date</h2>
+<h3>Effective Date</h3>
 <p>This Policy Notification is effective February 5, 2014. The implementation of the Defence Procurement Strategy will begin immediately with a phased implementation following ongoing industry consultations.  Please see the <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/stamgp-lamsmp/planmise-impplan-eng.html" rel="external">Implementation Plan</a> for important details on how the strategy will be implemented.</p>
 <p>The Defence Procurement Strategy will be implemented through a whole-of-government approach to meet the three objectives of the strategy and will be supported by a new decision-making regime, including a Deputy Ministers’ Governance Committee and a new permanent Defence Procurement Secretariat within <abbr title="Public Works and Government Services Canada">PWGSC</abbr>. </p>
-<h2>Policy</h2>
+<h3>Policy</h3>
 <p>Information on the various components of the strategy is provided in the following sections.  Additional details will be provided to contracting officers in the near future through updates to this Policy Notification and other communications.</p>
 <p>The <abbr title="Defence Procurement Strategy">DPS</abbr> represents a fundamental change in the Government of Canada’s approach to defence procurement, and includes the following components: </p>
 <p>Delivering the right equipment to the Canadian Armed Forces and the Canadian Coast Guard in a timely manner:</p>
@@ -39,7 +39,7 @@
 <li>Establishing a <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/stamgp-lamsmp/streamlined-eng.html#a1" rel="external">Defence Procurement Secretariat</a> within <abbr title="Public Works and Government Services Canada">PWGSC</abbr>;</li>
 <li>Reviewing the current <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/stamgp-lamsmp/autorite-authority-eng.html" rel="external">National Defence delegated authority</a> to purchase goods with a view to increasing the level from the current $25,000 to achieve more efficient procurement practices. </li>
 </ul>
-<h3>Value Proposition and Industrial and Technological Benefits</h3>
+<h4>Value Proposition and Industrial and Technological Benefits</h4>
 <p>Under the Defence Procurement Strategy, the Government has committed to ensuring that purchases of military equipment create great economic opportunities.</p>
 <p>Traditionally, procurement bid proposals have been evaluated based on the rating and weighting of technical compliance and price only—the ‘benefit to Canada’ element was assessed on a pass/fail basis. A key feature of the Defence Procurement Strategy (DPS) will be the use of the Value Proposition as a weighted and rated element of a procurement bid evaluation.</p>
 <p>The specific composition of Value Propositions will reflect activities and investments supporting outcomes of benefit to Canada that should be realized for a particular procurement, including the following:</p>
@@ -55,13 +55,13 @@
 <li>Procurements valued at $100 million or more will require a Value Proposition as part of a comprehensive <abbr title="Industrial and Technological Benefit">ITB</abbr> plan.</li>
 </ul>
 <p>In addition, Industrial and Regional Benefits (IRBs) will be transformed into Industrial and Technological Benefits (ITBs). </p>
-<h3>Industrial and Regional Benefits Policy – Revised</h3>
+<h4>Industrial and Regional Benefits Policy – Revised</h4>
 <p>The revised policy will include two important changes:</p>
 <ul>
 <li>‘Benefit to Canada’ commitments will no longer be assessed on a pass/fail basis but will be rated and weighted as part of a Value Proposition in the bid evaluation process.</li>
 <li>‘Benefit to Canada’ obligations will have a public reporting requirement.  Exemptions may be granted if a reasonable argument is made that the information concerning a given commitment is commercially sensitive, or for security reasons.</li>
 </ul>
-<h2>Next Steps</h2>
+<h3>Next Steps</h3>
 <p>In the coming days and weeks you will be provided specific guidance on implementation details of how the <abbr title="Defence Procurement Strategy">DPS</abbr> will impact upcoming procurements. This policy will not impact current solicitations.  You may however, get questions from suppliers and clients on implementation details. If you are unable to answer questions based on the information here, please speak to your supervisor or contact <a href="mailto:PAretroaction.APfeedback@tpsgc-pwgsc.gc.ca" rel="external">PAretroaction.APfeedback@tpsgc-pwgsc.gc.ca</a> for additional information or clarification.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

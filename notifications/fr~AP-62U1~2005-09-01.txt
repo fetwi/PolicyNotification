@@ -2,30 +2,30 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 1<sup>er</sup> septembre 2005</h2>
-<h3>Introduction</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 1<sup>er</sup> septembre 2005</h3>
+<h4>Introduction</h4>
 <p>Le présent Avis relatif aux politiques (AP-62U1) vise à mettre à jour les instructions d'expédition figurant dans la clause D0035D du guide des <em>Clauses et conditions uniformisées d'achat</em> (CCUA), étant donné que contrat du ministère de la Défense (MDN) portant sur des services d'expédition, conclu avec Transcar GMBH, viendra à échéance le 1er septembre 2005. Tous les documents d'achat, nouveaux et existants, portant sur des services d'expédition vers l'Europe à compter du 1er septembre 2005 devront comprendre la clause <a href="#AP-62U1D0035D">D0035D</a> révisée du guide des CCUA. </p>
 <p>En outre, veuillez prendre note que la Direction de la gestion des activités (Logistique) du MDN a fait l'objet d'une réorganisation opérationnelle et s'appelle maintenant la Direction des opérations de la chaîne d'approvisionnement (DOCA). Le paragraphe <a href="#AP-62U1a6e_622">6E.622</a> du <em>Guide des approvisionnements</em> (GA) et les clauses <a href="#AP-62U1D0037D">D0037D</a> et <a href="#AP-62U1C2608D">C2608D</a> du Guide des CCUA sont modifiés en conséquence. Tous les documents d'achat, nouveaux et existants, comportant les clauses <a href="#AP-62U1D0037D">D0037D</a> ou <a href="#AP-62U1C2608D">C2608D</a> du guide des CCUA, devraient comprendre les versions révisées de ces clauses.</p>
 <p>Toutes les modifications prennent effet immédiatement et seront intégrées à la prochaine édition du GA et du guide des CCUA de décembre 2005. Veuillez consulter les annexes A et B figurant ci-dessous pour prendre connaissance des modifications apportées au GA et au guide des CCUA. Les modifications sont indiquées en <span>rouge</span> et en <strong>caractères gras</strong>. </p>
-<h3>Personne-ressource</h3>
+<h4>Personne-ressource</h4>
 <p><strong>S/O</strong></p>
-<h2>Annexe A</h2>
-<h3>Modifications apportées au Guide des approvisionnements</h3>
-<h3>Chapitre 6 :  Processus</h3>
-<h3>Renseignements relatifs au transport</h3>
+<h3>Annexe A</h3>
+<h4>Modifications apportées au Guide des approvisionnements</h4>
+<h4>Chapitre 6 :  Processus</h4>
+<h4>Renseignements relatifs au transport</h4>
 <p> <a id="AP-62U1a6e_622" name="a6e_622"></a></p>
 <p>6E.622  (xxxx-xx-xx)  Les conditions FCA franco transporteur (... lieu convenu) des Incoterms 2000 doivent s'appliquer dans tous les contrats attribués à des fournisseurs uniques par le ministère de la Défense nationale (MDN) et dans tous les contrats de réparation et de révision de ce ministère lorsque le transport ne fait pas partie de l'offre déposée en régime de concurrence. Le MDN gérera la logistique interne (soit la coordination, l'organisation et le paiement de tous les frais de transport à l'arrivée) dans le cadre de ces contrats. Pour les contrats de ventes militaires étrangères aux États-Unis seulement (et non pour tous les contrats passés avec les États-Unis), on continuera d'appliquer les modalités FOB usine et le MDN gérera également la logistique interne dans le cadre de ces contrats. <span>Si l'établissement de l'entrepreneur n'est pas situé au Canada, la clause <a href="#AP-62U1C2608D">C2608D</a> et, s'il y a lieu, la clause C2610D doivent être intégrées au contrat. </span></p>
 <p>L'entrepreneur doit livrer ces biens FCA. Pour ces contrats, le lieu convenu sera toujours l'établissement de l'entrepreneur, sauf indication contraire du MDN. L'agent de négociation des contrats doit s'assurer que la demande de soumission et le contrat comprennent l'une des clauses suivantes du guide des CCUA sur le transport : <a href="#AP-62U1D0035D">D0035D</a>, <a href="#AP-62U1D0037D">D0037D</a> ou D0038D. Ces clauses obligent l'entrepreneur à s'adresser au MDN pour obtenir des instructions sur l'expédition et pour connaître la marche à suivre. L'entrepreneur peut aussi contacter <span>le Quartier général du MDN (Directeur - Opérations de la chaîne d'approvisionnement [2-5], Opérations de distribution du matériel) au 819-994-9288 ou le Quartier général de la Logistique intégrée au 1-877-447-7701, poste 6101</span>, s'il a des demandes de renseignements à propos du transport.</p>
-<h2>Annexe B</h2>
-<h3>Modifications apportées au guide des CCUA </h3>
+<h3>Annexe B</h3>
+<h4>Modifications apportées au guide des CCUA </h4>
 <p> <a id="AP-62U1D0035D" name="D0035D"></a></p>
-<h4>D0035D	(xxxx-xx-xx)	Expédition à l'étranger - MDN - livraison au point d'origine</h4>
+<h5>D0035D	(xxxx-xx-xx)	Expédition à l'étranger - MDN - livraison au point d'origine</h5>
 <p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT.</strong> Utiliser la clause suivante pour les marchés de biens attribués à des fournisseurs uniques du ministère de la Défense nationale (MDN) et pour tous les contrats de service de réparation et de révision dans les cas où le transport ne fait pas partie de l'offre déposée en régime de concurrence et lorsque le MDN est responsable de l'expédition (les clauses <a href="#AP-62U1C2608D">C2608D</a> et C2610D peuvent s'appliquer).</p>
 <p>Cette clause ne s'applique pas aux marchés de ventes militaires étrangères des États-Unis. (Voir la clause D0038D.) Entre les parenthèses du premier alinéa, préciser les coordonnées de l'usine de l'entrepreneur.</p>
 <p><strong>Texte :</strong></p>
@@ -97,7 +97,7 @@
 <li>En ce qui concerne tous les envois du Royaume-Uni et d'Irlande, les articles de plus de 600 livres sterling (GPB) exportés du Royaume-Uni devront être dédouanés correctement à l'aide des nouveaux systèmes d'exportation " <em>Her Majesty's Customs &amp; Excise (HMCE) New Export Systems (NES)</em> ".  L'entrepreneur doit respecter les exigences de " <em>HMCE</em> " en s'enregistrant auprès de cette organisation ou en ayant un transitaire qui procède à l'entrée des envois au pays.  Une copie imprimée de la section " <em>Export Declaration</em> " dans les " <em>NES</em> ", indiquant clairement le numéro " <em>Declaration Unique Consignment Reference Number</em> ", doit être fournie par l'entrepreneur et jointe à l'envoi. Il incombe à l'entrepreneur de s'assurer que cette procédure est exécutée pour tous les fournisseurs, que les envois comprennent des achats initiaux ou des articles exportés de réparation et de révision.  Dans les cas où cette procédure n'est PAS suivie de façon intégrale et convenable, " <em>HMCE</em> " a donné l'ordre à l'USFC(E) de ne pas procéder aux préparatifs liés à l'expédition de l'envoi sans avoir obtenu toute la documentation requise.</li>
 </ol>
 <p> <a id="AP-62U1D0037D" name="D0037D"></a></p>
-<h4>D0037D	(xxxx-xx-xx)	Expédition au Canada - MDN - livraison au point d'origine</h4>
+<h5>D0037D	(xxxx-xx-xx)	Expédition au Canada - MDN - livraison au point d'origine</h5>
 <p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT.</strong> Utiliser la clause suivante dans les marchés attribués à des fournisseurs uniques du ministère de la Défense nationale (MDN) et dans tous les contrats de réparation et de révision de ce ministère lorsque le transport ne fait pas partie de l'offre déposée en régime de concurrence, dans les cas où ces marchés et contrats sont attribués au Canada et que le MDN est responsable de l'expédition. </p>
 <p>Entre les parenthèses dans le premier alinéa et en a), préciser les coordonnées de l'usine de l'entrepreneur.</p>
 <p><strong>Texte :</strong></p>
@@ -124,7 +124,7 @@
 <li>Si le Canada accuse des retards qui ont pour effet de reporter la livraison des biens, la propriété et le risque relatifs à ces biens seront transférés au Canada à la fin du délai de trente (30) jours suivant la date à laquelle le Canada ou son mandataire transitaire désigné pour la livraison aura reçu une demande d'expédition remplie en bonne et due forme, ou trente (30) jours suivant la date de livraison précisée dans le contrat, selon le dernier terme atteint.</li>
 </ol>
 <p> <a id="AP-62U1C2608D" name="C2608D"></a></p>
-<h4>C2608D	(xxxx-xx-xx)	Documentation des douanes canadiennes</h4>
+<h5>C2608D	(xxxx-xx-xx)	Documentation des douanes canadiennes</h5>
 <p>Utiliser la clause suivante dans les contrats et demandes de soumission lorsque le ministère de la Défense nationale est l'importateur. (Les clauses <a href="#AP-62U1D0035D">D0035D</a> ou D0038D peuvent s'appliquer.)</p>
 <p><strong>Texte :</strong></p>
 <p><strong>Généralités</strong></p>

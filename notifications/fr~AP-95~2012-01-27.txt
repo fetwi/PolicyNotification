@@ -1,16 +1,16 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p>Le but de l'avis relatif aux  politiques (AP) 95 est d’annoncer un changement au processus du plan d’achat  formel. La plupart des plans d’achat formels seront maintenant approuvés au  niveau du directeur général ou directeur général régional (DG/DGR) au lieu de  celui du sous-ministre adjoint (SMA) de la Direction générale des  approvisionnements (DGA). Ce changement simplifie le processus d’approbation et  appuie un processus d’achat efficace et efficient. </p>
 <p>Le <abbr title="Sous-ministre adjoint">SMA</abbr> continuera d’approuver  les plans d’achat pour les marchés non concurrentiels (notamment les marchés non concurrentiels pour  lesquels on émet un préavis d'adjudication de contrat [PAC]). On avisera le <abbr title="Sous-ministre adjoint">SMA</abbr> des  projets d’achat de nature délicate une fois que le <abbr title="Directeur général">DG</abbr> ou le <abbr title="Directeur général régional">DGR</abbr> aura donné son  approbation en signant le plan d’achat en lui faisant parvenir une copie signée  de ce dernier.</p>
 <p>Le modèle proposé en pièce  jointe vise à aider à la préparation d’un plan d’achat et à uniformiser la  méthode utilisée pour ces plans. Ce <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/ap95-pn95-frm-fra.html" rel="external">modèle</a> reprend les éléments nécessaires à  tout plan d’achat et peut être utilisé conjointement avec l’annexe 6.1, Instructions relatives au plan  d’achat, du Guide des approvisionnements.</p>
-<h2>Contexte</h2>
+<h3>Contexte</h3>
 <p>Le plan d’achat formel est  exigé pour obtenir l’approbation de la stratégie d’achat. Actuellement, pour  tous les besoins dont on estime que la valeur dépasse les niveaux d’approbation  du <abbr title="Directeur général">DG</abbr> ou du <abbr title="Directeur général régional">DGR</abbr>, le plan d’achat est préparé pour obtenir la signature du <abbr title="Sous-ministre adjoint">SMA</abbr> qui dispose du plein pouvoir d’approbation des plans d’achat. </p>
 <p>Le processus changera afin de  permettre au <abbr title="Directeur général">DG</abbr> ou au <abbr title="Directeur général régional">DGR</abbr> d’approuver la plupart des plans d’achat pour des  besoins dont la valeur dépasse leurs pouvoirs d’approbation de contrats, à  l’exception des marchés non concurrentiels (y compris les marchés non concurrentiels pour  lesquels on émet un <abbr title="préavis d'adjudication de contrat">PAC</abbr>). Le fait que le niveau d’approbation passe du <abbr title="Sous-ministre adjoint">SMA</abbr> au <abbr title="Directeur général">DG</abbr> ou au <abbr title="Directeur général régional">DGR</abbr> n’aura pas d’incidence sur les processus d’approbation des besoins  au niveau équivalent ou inférieur à celui de <abbr title="Directeur général">DG</abbr> ou de <abbr title="Directeur général régional">DGR</abbr>.</p>
 <p>Aucune modification n’est apportée au processus de  demande de contrat. Les demandes de contrat à conclure continueront d’être  préparées pour le <abbr title="Sous-ministre adjoint">SMA</abbr> pour les besoins qui requièrent l’approbation du niveau  équivalent à celui de <abbr title="Sous-ministre adjoint">SMA</abbr>.</p>
-<h2>Date d'entrée en vigueur</h2>
+<h3>Date d'entrée en vigueur</h3>
 <p>Cet avis relatif aux  politiques entre en vigueur immédiatement.</p>
-<h2>Modifications  à la politique actuelle</h2>
+<h3>Modifications  à la politique actuelle</h3>
 <p>La partie suivante est un  résumé des modifications apportées au Guide des approvisionnements, qui  découlent des changements au processus du plan d’achat formel.</p>
 <p>Les modèles de plans d’achat formels continueront  d’être utilisés pour les besoins qui dépassent les pouvoirs du <abbr title="Directeur général">DG</abbr> ou du <abbr title="Directeur général régional">DGR</abbr>,  mais seront maintenant approuvés au niveau du <abbr title="Directeur général">DG</abbr> ou du <abbr title="Directeur général régional">DGR</abbr>, à l’exception des  marchés non concurrentiels (notamment les marchés non concurrentiels pour lesquels on  émet un <abbr title="préavis d'adjudication de contrat">PAC</abbr>).</p>
 Le <abbr title="Sous-ministre adjoint">SMA</abbr> continuera d’approuver les marchés non  concurrentiels (y  compris les marchés non concurrentiels pour lesquels on émet un <abbr title="préavis d'adjudication de contrat">PAC</abbr>). Une fois que le <abbr title="Directeur général">DG</abbr> ou le <abbr title="Directeur général régional">DGR</abbr> aura approuvé le  plan d’achat, on avisera le <abbr title="Sous-ministre adjoint">SMA</abbr> qu’il y a des achats de nature délicate qui  dépassent les limites d’approbation de contrat des <abbr title="Directeur général">DG</abbr> ou des <abbr title="Directeur général régional">DGR</abbr>. Une copie du  plan d’achat signé sera acheminée au <abbr title="Sous-ministre adjoint">SMA</abbr>. Voici des exemples d’achats de nature  délicate :
@@ -26,17 +26,17 @@ Le <abbr title="Sous-ministre adjoint">SMA</abbr> continuera d’approuver les m
 <p>Le processus pour les demandes  de contrat ne change pas. Pour les besoins qui requièrent une approbation de  passation de contrat au niveau équivalent à celui de <abbr title="Sous-ministre adjoint">SMA</abbr>, une demande  d’autorisation de passation de contrat doit être préparée pour signature du <abbr title="Sous-ministre adjoint">SMA</abbr>.</p>
 <p>La Planification et approbation préalable des  contrats (PAPC) continuera d’être utilisée pour les besoins allant jusqu’aux  limites d’approbation du <abbr title="Directeur général">DG</abbr> ou du <abbr title="Directeur général régional">DGR</abbr> inclusivement, à moins qu’un plan d’achat  ne s’applique. </p>
 <p><a href="#AP-95AnnexeA">Annexe A</a> : Elle comprend les modifications  apportées au Guide des approvisionnements. Les articles 3.1.1, 6.5.1.5, 6.20 et  l’annexe 6.1 ont été modifiées pour tenir compte du processus  d’approbation du nouveau plan d’achat formel. </p>
-<h2>Personnes-ressources</h2>
+<h3>Personnes-ressources</h3>
 <p>Pour de plus amples  renseignements, veuillez communiquer avec Susan Blakeney de la Direction de la  politique et du processus d’approvisionnement au 819-956-8235, ou par courriel  à <a href="mailto:susan.blakeney@tpsgc-pwgsc.gc.ca" rel="external">susan.blakeney@tpsgc-pwgsc.gc.ca</a>.</p>
-<h2 id="AP-95AnnexeA">Annexe A – Modifications au Guide  des approvisionnements</h2>
-<h3>3.1.1	Plan  d'achat</h3>
+<h3 id="AP-95AnnexeA">Annexe A – Modifications au Guide  des approvisionnements</h3>
+<h4>3.1.1	Plan  d'achat</h4>
 <p>(<time>2012-01-27</time>)</p>
 <ol start="3" type="a">
 <li value="3">
     Le titulaire du pouvoir  d’approbation du plan d’achat doit avoir l’occasion d’approuver ou de rejeter  le plan d’achat proposé dès que possible dans le processus, afin d’éviter qu’un  agent de négociation des contrats effectue un travail important en ce qui  concerne une stratégie qui peut ne pas être approuvée.
   </li>
 </ol>
-<h4>6.5.1.5	Contrats</h4>
+<h5>6.5.1.5	Contrats</h5>
 <p>(<time>2012-01-27</time>)</p>
 <ol class="double-space" type="a">
 <li>Le plan d'achat formel est exigé pour  l'approbation de la stratégie d'approvisionnement. Ce dernier est généralement  préparé pour :
@@ -61,12 +61,12 @@ Le <abbr title="Sous-ministre adjoint">SMA</abbr> continuera d’approuver les m
 <li>Il n’est pas  nécessaire de présenter un plan d’achat formel pour l’approvisionnement en  produits agricoles et de pêche comestibles dans le cadre de programmes d’aide  extérieure et de contrats conclus par la Corporation commerciale canadienne.</li>
 <li>Si des modifications  importantes sont apportées au plan d'achat original, le plan d'achat doit être  présenté de nouveau.</li>
 </ol>
-<h4>6.10.1 Examen  de contrôle de la qualité des contrats</h4>
+<h5>6.10.1 Examen  de contrôle de la qualité des contrats</h5>
 <p>(<time>2012-01-27</time>)</p>
 <ol start="2" type="a">
 <li value="2">Dans les régions, l'assurance de la qualité régionale examine les  documents d'approbation proposés qui doivent être approuvés à un niveau  d'approbation équivalent ou supérieur à celui de directeur régional. Il incombe  également à ce dernier de vérifier l'exactitude et la pertinence des documents  d'approbation.</li>
 </ol>
-<h4>6.20 Pouvoirs d’approbation et de signature des contrats</h4>
+<h5>6.20 Pouvoirs d’approbation et de signature des contrats</h5>
 <p>(<time>2012-01-27</time>)</p>
 <ol start="6" type="a">
 <li value="6">Dans les cas où l’on a  recours à un plan d’achat formel, le  directeur général ou le directeur général régional et leurs postes supérieurs  ont les pleins pouvoirs d'approbation pour utiliser une offre à commandes comme  méthode d'approvisionnement ou un arrangement en matière d'approvisionnement,  sauf pour les marchés non concurrentiels (y compris les marchés non  concurrentiels pour lesquels on émet un préavis d'adjudication de contrat  [PAC]) qui dépassent sa limite d’approbation pour lesquels le  sous-ministre adjoint, Direction générale des approvisionnements, a pleins  pouvoirs d'approbation, conformément  à l'<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-6-annexes#_6-4">Annexe 6.4.3 :  Pouvoirs exceptionnels d'attribution des contrats</a>, colonne 56. Pour  plus de renseignements sur les offres à commandes, voir les articles <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-3#_3-40">3.40 Offres  à commandes</a> et <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-4#_4-10">4.10.20 Demande  d'offres à commandes</a>; pour plus de renseignements sur les arrangements en  matière d'approvisionnement, voir les articles <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-3#_3-45">3.45 arrangements  en matière d'approvisionnement</a> et <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-4#_4-10">4.10.25 Demande  d'arrangements en matière d'approvisionnement</a>. Il est facultatif d'inclure  une clause de limitation des dépenses dans les offres à commandes (voir  l'article <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-4#_4-10">4.10.20.1 Procédures  d'offre à commandes</a>.) Le pouvoir d'approbation et de signature pour les  offres à commandes sans limitation des dépenses seront déterminés selon les  limites établies à l'<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-6-annexes#_6-4">Annexe 6.4.3 :  Pouvoirs exceptionnels d'attribution des contrats</a>. On utilisera la valeur  estimative totale de l'achat pour toute la durée de l'offre à commandes afin de  déterminer le pouvoir d'approbation et de signature pour les offres à commandes.</li>
@@ -74,44 +74,44 @@ Le <abbr title="Sous-ministre adjoint">SMA</abbr> continuera d’approuver les m
 <li value="8">Il est interdit d'émettre, dans quelque circonstance que ce soit, plus  d'un document contractuel afin de contourner l'exigence d'obtenir le pouvoir  d'approbation requis.</li>
 <li value="9">Pour ce qui concerne les pouvoirs d'approbation des contrats, <abbr title="préavis d'adjudication de contrat">PAC</abbr> est  classé dans la catégorie « invitation électronique à soumissionner ».  Les niveaux d'approbation des invitations électroniques à soumissionner  s'appliquent lorsqu'un <abbr title="préavis d'adjudication de contrat">PAC</abbr> a été publié et qu'aucun énoncé des capacités acceptable n'a été présenté. Voir  l'<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-6-annexes#_6-4">Annexe 6.4.2 :  Pouvoirs généraux d'attribution des contrats</a>.</li>
 </ol>
-<h4>Annexe 6.1 : Instructions relatives au plan d'achat</h4>
+<h5>Annexe 6.1 : Instructions relatives au plan d'achat</h5>
 <p>(<time>2012-01-27</time>)</p>
 <p>Le plan d'achat doit être préparé comme une note de service et il doit  comprendre les éléments indiqués ci-dessous. Des exemples et des formulaires  (qui ne peuvent être consultés que par les employés de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>) se trouvent sur  le site Web de la Direction générale des approvisionnements.</p>
-<h4>Plan d'achat formel</h4>
-<h5>Description</h5>
+<h5>Plan d'achat formel</h5>
+<h6>Description</h6>
 <p>Faire une brève description du besoin, incluant les options et les  montants réservés. Indiquer la période du contrat proposé ainsi que les options, s’il y a  lieu.</p>
 <p>(Indiquer tout renseignement qui pourrait être pertinent pour le  sous-ministre adjoint si le plan d’achat dépasse la limite d’approbation de  contrat des directeurs généraux ou des directeurs généraux régionaux et s’il  s’agit d’un marché non concurrentiel (y  compris les marchés non concurrentiels pour lesquels on émet un préavis  d'adjudication de contrat). </p>
 <p>On avisera le sous-ministre adjoint des achats de nature délicate une  fois que les directeurs généraux ou directeurs généraux régionaux auront donné  leur approbation en lui faisant parvenir une copie signée du plan d’achat. </p>
-<h5>Contexte</h5>
+<h6>Contexte</h6>
 <ol>
 <li>Fournir les renseignements  généraux ainsi que le contexte global. Traiter des recommandations relatives à  la vérification, des déterminations du Tribunal canadien du commerce extérieur  et de celles du Conseil du Trésor (CT), etc., propres au besoin.</li>
 </ol>
-<h5>Coût estimatif et nom  du client</h5>
+<h6>Coût estimatif et nom  du client</h6>
 <p>Indiquer le coût estimatif du besoin, y compris la taxe sur les produits  et services ou la taxe de vente harmonisée. Inclure les options, les  montants réservés, etc., et préciser le ministère client auquel ils sont  imputables.</p>
-<h5>Pouvoir d'approbation des contrats (ou des offres à commandes ou des arrangements en matière d'approvisionnement) prévu</h5>
+<h6>Pouvoir d'approbation des contrats (ou des offres à commandes ou des arrangements en matière d'approvisionnement) prévu</h6>
 <p>Identifier le titulaire du pouvoir d’approbation des contrats prévu.  Expliquer la raison pour laquelle il est le titulaire du pouvoir d’approbation,  si ce n’est pas évident.</p>
-<h5>Sélection des fournisseurs</h5>
+<h6>Sélection des fournisseurs</h6>
 <p>Indiquer les accords commerciaux applicables (Accord de libre-échange  nord-américain, Accord sur les marchés publics de l’Organisation mondiale du  commerce, Accord sur le commerce intérieur et ententes sur les revendications  territoriales globales) et les politiques importantes qui régissent les  décisions relatives à la sélection des fournisseurs (Programme de marchés  réservés aux entreprises autochtones, Politique sur le contenu canadien,  construction, réparation, révision et modernisation de navires, Politique  d’achats écologiques, etc.)</p>
 <p>Expliquer la stratégie d’approvisionnement utilisée, c’est-à-dire le <abbr title="Service électronique d'appels d'offres du gouvernement 
 ">SEAOG</abbr>, une autre forme d’annonce publique ou les listes de fournisseurs  (répétitives, non répétitives).</p>
 <p>Justifier toute décision de recourir à un fournisseur unique.</p>
 <p>Dans le cas des plans d’achat  pour lesquels des présentations au <abbr title="Conseil du Trésor">CT</abbr> seront exigées, il est nécessaire  d’inclure une justification, tel que détaillé à l’article <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-6#_6-5">6.5.15  b) (ii)</a>. </p>
-<h5>Questions stratégiques</h5>
+<h6>Questions stratégiques</h6>
 <p>Joindre le document pertinent du Comité d’examen des acquisitions.  Préciser les autres considérations environnementales ou socio-économiques  pertinentes. Pour plus de renseignements sur le Programme des retombées  industrielles et régionales, voir l’article <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-3#_3-70">3.70</a>.</p>
 <p>Décrire tous les aspects spéciaux ou inhabituels de l’achat, par exemple  un écart à la politique.</p>
 <p>Recommander l'adoption de mesures visant à résoudre tous les problèmes  liés à d'éventuels risques majeurs en cause ou à des écarts marqués par rapport  à la politique de sélection des fournisseurs ou à d'autres politiques de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>.  Lorsque la ligne de conduite proposée comporte des risques majeurs, il convient  de les étudier en consultation avec les conseillers financiers et les Services  juridiques de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>.</p>
-<h5>Élaboration des critères d'évaluation et de la méthode de sélection des entrepreneurs</h5>
+<h6>Élaboration des critères d'évaluation et de la méthode de sélection des entrepreneurs</h6>
 <p>Préciser les critères  d'évaluation et la méthode de sélection qui seront utilisés pour chaque demande  de soumissions, notamment la base de tarification, la cotation numérique ou les  critères d'évaluation technique obligatoires ou souhaitables.</p>
-<h5>Base de paiement prévue</h5>
+<h6>Base de paiement prévue</h6>
 <p>Fournir une indication de la  base de paiement prévue qui doit être utilisée dans le contrat (p.  ex., prix ferme, taux fixes basés sur le temps, prix plafond, limitation  des dépenses, etc.).</p>
 <p>Utiliser cette section pour  justifier le recours aux paiements anticipés, et pour indiquer la date à  laquelle la garantie financière (p. ex., garantie, lettre de crédit de soutien  irrévocable) sera exigée du fournisseur ou de l’entrepreneur. Traiter des  dispositions relatives à la vérification du contrat.</p>
-<h5>Étapes</h5>
+<h6>Étapes</h6>
 <p>Fournir des dates cibles pour  les étapes importantes (par exemple, la demande de soumissions, l'attribution  du contrat, le calendrier de livraison) sous la forme « début » mai  ou « mi- » août ou « fin » octobre, plutôt que des dates  précises.</p>
-<h5>Renseignements supplémentaires</h5>
+<h6>Renseignements supplémentaires</h6>
 <p>Inclure tous les renseignements qui devraient être portés à l’attention  du titulaire du pouvoir d’approbation (p. ex., limitation de la responsabilité  de l’entrepreneur, surveillance de l’équité, exigences relatives à la sécurité  industrielle, propriété intellectuelle, consultations auprès des secteurs  d’activités, achats écologiques).</p>
-<h5>Agent de négociation des contrats</h5>
+<h6>Agent de négociation des contrats</h6>
 <p>Indiquer le nom et le  numéro de téléphone de l'agent responsable du projet, ainsi que le secteur ou  la région et la division auxquels il appartient.</p>
-<h5>Commentaires</h5>
+<h6>Commentaires</h6>
 <p>Réserver deux ou  trois lignes pour les commentaires du titulaire du pouvoir d’approbation.</p>
 <div>
 <div><strong>Recommandé par :</strong></div>
@@ -136,7 +136,7 @@ Le <abbr title="Sous-ministre adjoint">SMA</abbr> continuera d’approuver les m
 </div>
 </div>
 <div> </div>
-<h4>Annexe 6.4.3 : Pouvoirs exceptionnels d'attribution des contrats</h4>
+<h5>Annexe 6.4.3 : Pouvoirs exceptionnels d'attribution des contrats</h5>
 <p>(<time>2012-01-27</time>)</p>
 <div>
 <table class="basic">
@@ -411,20 +411,20 @@ Voir la Note dans la colonne
 </tbody>
 </table>
 </div>
-<h4>Annexe 6.4.4 :  Notes relatives aux pouvoirs exceptionnels d'attribution des contrats</h4>
+<h5>Annexe 6.4.4 :  Notes relatives aux pouvoirs exceptionnels d'attribution des contrats</h5>
 <p>(<time>2012-01-27</time>)</p>
-<h5>Colonne 55  Achat de carburants en vrac</h5>
+<h6>Colonne 55  Achat de carburants en vrac</h6>
 <p>Pouvoir d'approbation permettant de conclure ou de modifier un contrat pour  l'achat de carburants en vrac, si le montant total payable en vertu du contrat,  y compris les modifications, ou d'une commande subséquente à une offre à  commandes, ne dépasse pas 10 000 000$ :</p>
 <p>Note 1 :  conformément au tableau approprié de l'<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-6-annexes#_6-4">Annexe 6.4.2 : Pouvoirs généraux  d'attribution des contrats</a>, jusqu'à la limite indiquée;</p>
 <p>Note 2 : si la limite prévue pour les dépenses totales dépasse  les limites établies au tableau approprié de l'<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-6-annexes#_6-4">Annexe 6.4.2 :  Pouvoirs généraux d'attribution des contrats</a>, jusqu'à la limite  indiquée. Dans les cas où  l’on a recours à un plan d’achat formel, le directeur général ou le directeur général  régional et leurs postes supérieurs ont les pleins pouvoirs d'approbation pour  utiliser une offre à commandes comme méthode d'approvisionnement ou un  arrangement en matière d'approvisionnement, sauf pour les marchés non  concurrentiels (y compris les marchés non concurrentiels pour lesquels on émet  un préavis d'adjudication de contrat [PAC]) qui dépassent sa limite  d’approbation pour lesquels le sous-ministre adjoint, Direction générale des  approvisionnements, a pleins pouvoirs d'approbation.</p>
 <p>Référence  sur les pouvoirs :</p>
 <p>Politique sur les  marchés du <abbr title="Conseil du Trésor">CT</abbr>, Appendice C - Directive sur les marchés,  partie II, Répertoire ministériel sur les pouvoirs spéciaux de passation des  marchés, article 32.</p>
-<h5>Colonne 56  Offres à commandes et arrangements en matière d'approvisionnement</h5>
+<h6>Colonne 56  Offres à commandes et arrangements en matière d'approvisionnement</h6>
 <p>Pouvoir d'approbation d'utiliser une offre à commandes comme méthode  d'approvisionnement ou un arrangement en matière d'approvisionnement lorsque le  montant des commandes subséquentes ou des contrats ne dépassera pas les limites  prévues par le <abbr title="Conseil du Trésor">CT</abbr> :</p>
 <p>Note 1 :  conformément au tableau approprié de l'<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-6-annexes#_6-4">Annexe 6.4.2 : Pouvoirs généraux  d'attribution des contrats</a> jusqu'à la limite indiquée;</p>
 <p>Note 2 : si le  total des dépenses estimatives dépasse les limites établies au  tableau approprié de l'<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-6-annexes#_6-4">Annexe 6.4.2 : Pouvoirs généraux  d'attribution des contrats</a>. Dans les cas où l’on a recours à un plan d’achat formel, le directeur général ou le directeur général  régional et leurs postes supérieurs ont les pleins pouvoirs d'approbation pour  utiliser une offre à commandes comme méthode d'approvisionnement ou un  arrangement en matière d'approvisionnement, sauf pour les marchés non  concurrentiels (y compris les marchés non concurrentiels pour lesquels on émet  un préavis d'adjudication de contrat [PAC]) qui dépassent sa limite  d’approbation pour lesquels le sous-ministre adjoint, Direction générale des approvisionnements, a  pleins pouvoirs d'approbation.</p>
 <p><strong>NOTA :</strong> Voir la colonne 55 pour les achats de  carburants en vrac.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Sections du Guide des approvisionnements visées</h3>
+<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-a191165c37a2e81b7f4daaf3540d3315">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

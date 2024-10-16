@@ -2,18 +2,18 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>Date : le 19 mars 2001</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>Date : le 19 mars 2001</h3>
 <p>Le présent Avis de politique remplace l'Avis de politique 43 du 17 août 1999. Cet avis comprend les rubriques suivantes : contexte, principes, mise en œuvre, description du champ d'application et énoncé des responsabilités du client.</p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>Le présent avis vise à réduire, pour le gouvernement, les risques que comportent les projets de construction et les projets d'architecture et de génie (AG); (une description du champ d'application est jointe à <strong>l'annexe A</strong>). Les marchés assujettis à la présente politique peuvent faire intervenir des questions complexes de nature technique et dans les domaines de la santé et de la sécurité ainsi que de la gestion de projets.</p>
 <p>Le point clé de l'AP-43U, pour les marchés dont Travaux publics et Services gouvernementaux Canada (TPSGC) est l'autorité contractante, est que les agents de négociation des contrats du Service des approvisionnements (SA) devront utiliser les approches appropriées de gestion des risques, afin d'assurer à l'avance que les projets soient réalisés en faisant appel aux compétences voulues i) dans la passation des marchés et ii) pour ce qui est des questions techniques.</p>
-<h3>Principes</h3>
+<h4>Principes</h4>
 <p>1. Lorsque la Direction générale des services immobiliers (DGSI) est le responsable technique ou le gestionnaire de projet dans le cadre d'un projet de construction ou d'AG, il est admis qu'on fera appel aux compétences techniques voulues pour l'élaboration et la gestion du projet. Le SA doit donc fournir à la DGSI l'éventail complet de ses services d'attribution de marchés immobiliers.</p>
 <p>2. Lorsqu'un autre ministère a l'intention de jouer le rôle de responsable technique dans un projet de construction ou d'AG, le SA demandera que les risques inhérents à l'achat prévu soient évalués avant de commencer les activités de passation de marchés. L'analyse de risques doit comprendre la confirmation que ce client possède effectivement la capacité nécessaire (y compris les moyens et les procédures appropriés pour la gestion de la construction) et qu'il accepte d'assumer les responsabilités à cet égard. Les directives suivantes visent à aider les agents de négociation des contrats à effectuer l'analyse de risques :</p>
 <ol type="a">
@@ -25,12 +25,12 @@
 <p>Dans ces cas (qui, on l'espère, seront rares), le ministère client doit recevoir une confirmation écrite des raisons pour lesquelles on ne fournira pas les services de passation de marchés.</p>
 </li>
 </ol>
-<h3>Mise en œuvre</h3>
+<h4>Mise en œuvre</h4>
 <p>On devrait accepter avec circonspection les projets dans lesquels le client sera le responsable technique. Les clients peuvent se voir demander de décrire par écrit les modalités selon lesquelles ils prévoient appliquer leurs compétences techniques (responsabilités du client) aux projets à réaliser; les employés responsables de la passation des marchés au SA peuvent accepter cette description ou juger utile de demander conseil à leurs collègues de la DGSI.</p>
 <p>Les responsabilités suggérées des clients sont jointes à <strong>l'annexe C</strong>.</p>
 <p>Un cadre de gestion des risques qui a pour objet de donner plus de latitude aux employés responsables de la passation des marchés - en particulier dans l'application du principe 2b) - est en cours d'élaboration <em>(Secteur des Produits industriels et commerciaux et Services de normalisation - Direction de l'attribution des marchés immobiliers; Secteur de la Gestion du programme des approvisionnements - Direction de la Gestion des risques et de l'assurance de la qualité)</em></p>
-<h2>Annexe A</h2>
-<h3>Description du champ d'application</h3>
+<h3>Annexe A</h3>
+<h4>Description du champ d'application</h4>
 <p>Le texte suivant, qui s'inspire du Règlement sur les marchés de l'État (RME), définit les services de construction et d'architecture et de génie faisant l'objet de l'AP-43U.</p>
 <p>1. L'AP-43U s'applique à tous les marchés qui répondent à la définition suivante d'un marché de <strong>construction</strong> dans le RME, à savoir :</p>
 <p>« marché de travaux publics » (construction contract) - marché qui porte sur la construction, la réparation, la rénovation ou la restructuration d'un ouvrage à l'exception d'un navire et qui comprend :</p>
@@ -52,8 +52,8 @@
 <p>Il faut toutefois faire observer que le client ne doit jamais faire appel à plus d'un corps de métier à la fois sur le même chantier. Si elle le fait, l'autorité contractante devient un entrepreneur général et assume toutes les responsabilités qui en découlent selon la loi; dans ce cas, le marché proposé est alors effectivement assujetti à l'AP-43U selon les modalités de l'alinéa 2d) ci-dessus.</p>
 <p>5. L'AP-43U s'applique à tous les marchés de<strong> services d'architecture et de génie</strong>, dont la définition est la suivante :</p>
 <p>« marché de services d'architectes et d'ingénieurs » (architectural and engineering service contract) - marché passé pour la fourniture de services portant sur la planification, la conception, la préparation ou la surveillance de la construction, de la réparation, de la rénovation ou de la restauration d'un ouvrage.</p>
-<h2>Annexe B</h2>
-<h3>Pouvoirs de passation de marchés délégués par le Conseil du Trésor (en milliers de dollars)</h3>
+<h3>Annexe B</h3>
+<h4>Pouvoirs de passation de marchés délégués par le Conseil du Trésor (en milliers de dollars)</h4>
 <table class="basic" summary="Ce tableau démontre Construction - Pouvoirs de passation de marchés de, Appel d'offres lancés par voie électronique, Marché traditionnel en régime de concurrence, Marché traditionnel en exclusivité">
 <caption>
 					Construction<br/>
@@ -141,10 +141,10 @@
 <td headers="nocomp2">40</td>
 </tr>
 </tbody></table>
-<h2>Annexe C</h2>
-<h3>Responsabilités du client</h3>
+<h3>Annexe C</h3>
+<h4>Responsabilités du client</h4>
 <p>En tant que directeur responsable du projet défini comme ____________, je certifie par la présente que le gestionnaire de projet indiqué à la fin du présent document est pleinement compétent au chapitre des études et de l'expérience requises et qu'il a le pouvoir nécessaire pour s'acquitter des responsabilités énumérées ci-après. Il est convenu que les pratiques et procédures actuelles de TPSGC en matière de passation de marchés seront strictement respectées dans le cadre du présent projet.</p>
-<h3>Responsabilités</h3>
+<h4>Responsabilités</h4>
 <p>Le gestionnaire de projet doit :</p>
 <ol type="i">
 <li>obtenir les approbations et le financement ministériels internes nécessaires à la réalisation du projet avant que TPSGC publie l'avis de projet de marché ou l'invitation à soumissionner;</li>

@@ -1,11 +1,11 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p>Through this Policy Notification 107U1 – Integrity Provisions (PN-107U1), Public Works and Government Services Canada (PWGSC) is updating the Integrity Provisions surrounding its procurement and real property transactions. The updated provisions include new offences and similar foreign offences, establishment of a Time Period within which convicted suppliers will be ineligible to do business with <abbr title="Public Works and Government Services Canada">PWGSC</abbr>, and extension of the Integrity Provisions to subcontractors.</p>
-<h2>Effective Date</h2>
+<h3>Effective Date</h3>
 <p>These changes are effective March 1, 2014. Contracting officers must modify solicitations which are closing on or after this date to reflect these updated provisions. </p>
-<h2>Summary of Revisions to Current Policy</h2>
+<h3>Summary of Revisions to Current Policy</h3>
 <p>The Integrity Provisions are being updated to:</p>
 <ul>
 <li>Add new offences; </li>
@@ -17,7 +17,7 @@
 <li>Clarify the circumstances when Canada may invoke the Public Interest Exception.</li>
 </ul>
 <p>See the departmental <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/ci-if-eng.html" rel="external">Integrity Framework</a> page for further details on these policy changes.</p>
-<h2>Background and Context</h2>
+<h3>Background and Context</h3>
 <p>Over the past several years, Public Works and Government Services Canada (<abbr title="Public Works and Government Services Canada">PWGSC</abbr>) has implemented numerous measures to enhance the integrity of the Department’s procurement and real property processes, including the previous integrity enhancements announced in <a href="https://buyandsell.gc.ca/policy-and-guidelines/policy-notifications/PN-107">Policy Notification 107 - Integrity Provisions</a> on November 9, 2012. Continuing this effort, additional steps are being taken to further strengthen the integrity of <abbr title="Public Works and Government Services Canada">PWGSC</abbr>’s procurement and real property transactions and ensure that the Department does business with suppliers that abide by the law.</p>
 <p>First, the following new offences are being added to the list of convictions that render companies and individuals ineligible to do business with the Department: </p>
 <ul>
@@ -35,7 +35,7 @@
 <p>A new Time Period of 10 years is also being added, within which suppliers that are convicted of one of the offences listed will be ineligible to do business with <abbr title="Public Works and Government Services Canada">PWGSC</abbr>, regardless of whether or not a pardon or a record suspension has been obtained. Once this Time Period elapses, bidders must certify that measures have been diligently put in place to avoid the reoccurrence of such convictions or reprehensible actions. Note that for some convictions, a pardon or a record suspension will still be required after that 10 year period, as required by law.</p>
 <p>In addition to convictions, companies and individuals who have pleaded guilty to criminal offences and received a conditional or absolute discharge will now be limited from doing business with <abbr title="Public Works and Government Services Canada">PWGSC</abbr> for the 10 year period.</p>
 <p>Finally, contractors are now required to apply the integrity provisions to subcontractors.</p>
-<h2>Supply Manual</h2>
+<h3>Supply Manual</h3>
 <p>The <cite>Supply Manual</cite> is revised to reflect the following changes.</p>
 <ul>
 <li>Director General or Regional Director General approval is required for procurement transactions where potential wrongdoing is found. Assistant Deputy Minister – Acquisitions will be required in some cases.</li>
@@ -45,17 +45,17 @@
 <li>Annex 8.13: Letter Templates for Integrity is added to include integrity template letters previously published on GCpedia.</li>
 </ul>
 <p>To view the modified sections, please refer to "Affected Supply Manual Section(s)" below.</p>
-<h2>Standard Acquisition Clauses and Conditions (SACC) Manual </h2>
+<h3>Standard Acquisition Clauses and Conditions (SACC) Manual </h3>
 <p>The "Integrity Provisions" section (formerly the "Code of Conduct" section) of all of the Standard Instructions, General Instructions and General Conditions are updated in their entirety to reflect the above policy changes. See section 01 of Standard Instructions 2003, attached as Annex B to this <abbr title="Policy Notification">PN</abbr>, as an example of the revised Integrity Provisions.</p>
 <p>To view the affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr>, please refer to "Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual Section(s)" below.</p>
-<h2>Standard Procurement Templates</h2>
+<h3>Standard Procurement Templates</h3>
 <p>All five standard procurement templates are revised under the part titled “Certifications” to reflect the terminology change from “Code of Conduct and Certifications” to “Integrity Provisions”. Parts 1 or 2 of the bid solicitation templates (Higher Complexity, Medium Complexity and Simple) are also modified to reflect this change.</p>
-<h2>Contact</h2>
+<h3>Contact</h3>
 <p>Inquiries regarding the application of the Integrity Provisions may be sent to the Policy, Risk, Integrity and Strategic Management Sector (PRISMS) at the following new e-mail address: <a href="mailto:DGAIntegrite.ABIntegrity@tpsgc-pwgsc.gc.ca" rel="external">DGAIntegrite.ABIntegrity@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions regarding the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual or the standard procurement templates may be sent to Procurement Policy and Tools Division by e-mail at: <a href="mailto:Outilsd'approvisionnement.ProcurementTools@tpsgc-pwgsc.gc.ca" rel="external">Outilsd'approvisionnement.ProcurementTools@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Supply Manual-related questions may be forwarded to the policy directorate's general inbox at <a href="mailto:DPPApublications.APPDpublications@tpsgc-pwgsc.gc.ca" rel="external">DPPApublications.APPDpublications@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected Supply Manual sections</h3>
+<h4 class="field-label">Affected Supply Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-4c3d882775aadbfce0b7f04205b42af8">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -91,7 +91,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h3>
+<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-16b5027fc254cbd8376364659a93dffa">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

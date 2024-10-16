@@ -2,21 +2,21 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 2 février 1998</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 2 février 1998</h3>
 <p>1. À compter d'aujourd'hui, des mises à jour ont été faites dans le Guide des approvisionnements (procédures 7.304 et 7.305) ainsi que dans le Guide des clauses et conditions uniformisées d'achat (DSS-MAS 9403) afin de mieux indiquer aux soumissionnaires qu'il leur incombe de bien acheminer leur soumission au point de réception désigné. Les soumissionnaires doivent assumer tous les risques et conséquences attribuables à une soumission mal acheminée.</p>
 <p>2. Ces changements NE MODIFIENT PAS les méthodes courantes utilisées par le personnel responsable des achats, mais ils permettent de souligner que les soumissionnaires doivent présenter leur soumission SEULEMENT au point de réception des soumissions désigné.</p>
 <p>3. De plus, le formulaire DSS-MAS 9400-2 (DDP) est modifié de façon à ce que l'adresse et le numéro de télécopieur du Module de réception des soumissions soient indiqués plus clairement.</p>
 <p>4. Les modifications connexes dans le Guide des approvisionnements (ci-après à <strong>l'annexe A</strong>) seront incluses dans la modification n<sup>o</sup> 98-2, qui sera publiée le 15 juin 1998.</p>
 <p>5. Les modifications connexes dans le Guide des clauses et conditions uniformisées d'achat (ci-jointes à <strong>l'annexe B</strong>) seront incluses dans la modification n<sup>o</sup> 98-2, qui sera publiée le 15 juin 1998.</p>
-<h2>ANNEXE A</h2>
-<h3>MODIFICATIONS DANS LE GUIDE DES APPROVISIONNEMENTS</h3>
-<h3>Respect des délais</h3>
+<h3>ANNEXE A</h3>
+<h4>MODIFICATIONS DANS LE GUIDE DES APPROVISIONNEMENTS</h4>
+<h4>Respect des délais</h4>
 <p>7.304  (15/06/98) Pour toutes les invitations à soumissionner, sauf les demandes de prix (DP) adressées à l'agent de négociation des contrats, l'heure et la date de clôture des soumissions stipulées dans l'invitation à soumissionner sont fermes. On peut attribuer un marché immédiatement après la clôture des soumissions ou en tout temps par la suite. Il incombe au soumissionnaire de s'assurer que la soumission est livrée à temps au point de réception désigné dans l'invitation. Seul un timbre indiquant la date et l'heure ou tout autre bordereau de réception contrôlé par le point de réception désigné constitue une preuve acceptable de la réception en temps des soumissions.</p>
 <p>Les soumissions en retard ne seront pas acceptées et seront retournées. On doit tenir un registre des soumissions ou propositions retournées.</p>
 <p><em>À l'administration centrale, le MRS offre ce service</em>.</p>
@@ -36,16 +36,16 @@
 <p>7.308  (23/06/94) Pour qu'elle soit acceptée, la soumission doit comprendre le numéro de référence, la date et l'heure de clôture, et suffisamment de renseignements pour permettre l'évaluation, par exemple : les prix unitaires; le pays ( lorsque que la soumission est faite en devises étrangères); la taxe de vente; les droits de douane; les données techniques, le cas échéant; et tout écart par rapport au document d'invitation à soumissionner.</p>
 <p>7.309  (23/06/94) Afin de veiller à ce que tous les appareils d'horodatage officiels servant à la réception de soumissions soient réglés à la même heure, les services de réception des soumissions doivent procéder à l'étalonnage de ces appareils et autres dispositifs officiels servant à l'horodatage, selon l'heure officielle du Conseil national de recherche (CNR), au moins tous les deux jours ouvrables.</p>
 <p><em>On peut vérifier l'horloge officielle du CNR 24 heures par jour; il suffit de composer le 613-745-9426 (français) ou le 613-745-1576 (anglais).</em></p>
-<h3>Réception des soumissions</h3>
+<h4>Réception des soumissions</h4>
 <p>7.315  (15/06/98) Toutes les soumissions résultant d'une invitation à soumissionner en régime de concurrence et acheminées à un point désigné pour la réception des soumissions doivent être horodatées sitôt reçues, et gardées scellées dans un contenant verrouillé jusqu'après l'heure de clôture.</p>
 <p>Si l'enveloppe ou le paquet dans lequel les documents de soumission ont été acheminés ne contient pas suffisamment de renseignements sur la soumission - c'est-à-dire le numéro de demande, le nom de l'entreprise et la date et l'heure de clôture - il faudra l'ouvrir. Les employés chargés de la réception des soumissions devront alors transcrire les renseignements nécessaires sur l'enveloppe ou le paquet, le resceller et y apposer leurs initiales avant de le déposer dans le contenant à soumissions.</p>
 <p>Les soumissions livrées après la date de clôture (soumissions en retard - voir 7.304) ou dont la demande a été annulée, sont retournées, intactes, au soumissionnaire, avec une lettre d'accompagnement expliquant les raisons pour lesquelles la soumission a été retournée. Si l'enveloppe ou le paquet ne contient pas suffisamment de renseignements pour déterminer le nom du soumissionnaire ou le numéro de la demande, le personnel du Module de réception des soumissions (MRS) l'ouvrira pour trouver ces renseignements et le retournera à l'entrepreneur, avec une lettre décrivant les raisons pour lesquelles l'enveloppe ou le paquet a été ouvert.</p>
 <p><em>À l'administration centrale, les soumissions reçues à la salle du courrier sont triées, puis envoyées non ouvertes au MRS. Les soumissions transmises par télécopieur à l'intention du MRS doivent être envoyées au Centre des communications.</em></p>
-<h2>ANNEXE B</h2>
-<h3>MODIFICATIONS DANS LE GUIDE DES CCUA</h3>
+<h3>ANNEXE B</h3>
+<h4>MODIFICATIONS DANS LE GUIDE DES CCUA</h4>
 <p><strong>DSS-MAS 9403 (15/06/98) Instructions et conditions uniformisées</strong></p>
 <p><strong>A. INSTRUCTIONS (APPLICABLES AUX DEMANDES DE SOUMISSIONS)</strong></p>
-<h3>1. Présentation des soumissions</h3>
+<h4>1. Présentation des soumissions</h4>
 <ol>
 <li>Il incombe au soumissionnaire :<br/>
 <ol type="a">
@@ -61,9 +61,9 @@
 <li>Bien que le Canada puisse passer un marché sans négociation, il se réserve le droit d'en négocier les dispositions avec le soumissionnaire.</li>
 <li>Les documents de soumission et les renseignements connexes peuvent être présentés en français ou en anglais.</li>
 </ol>
-<h3>2. Soumissions en retard</h3>
+<h4>2. Soumissions en retard</h4>
 <p>C'est la politique de TPSGCG de renvoyer, non décachetées, les soumissions livrées après la date et l'heure de clôture stipulées, à moins que ces dernières ne soient considérées comme des soumissions retardées selon les circonstances énoncées ci-dessous.</p>
-<h3>3. Soumissions retardées</h3>
+<h4>3. Soumissions retardées</h4>
 <ol>
 <li>Les soumissions livrées au point de réception désigné après l'heure et la date de clôture, mais avant l'adjudication du contrat, peuvent être prises en considération, à condition que le soumissionnaire puisse prouver que le retard est dû uniquement à un délai de livraison dont la Société canadienne des postes (SCP) (ou l'équivalent national d'un pays étranger) est responsable ou à une erreur commise par TPSGC. Les seules preuves acceptées par TPSGC pour justifier un retard dû au service de la SCP sont les suivantes :<br/>
 <ol type="a">
@@ -79,9 +79,9 @@
 <li>Pour les soumissions transmises par télécopieur ou par télégramme commercial, seulement la date et l'heure consignées par TPSGC au numéro de réception des soumissions figurant dans le document d'invitation à soumissionner serviront comme preuve d'une soumission retardée.</li>
 <li>TPSGC n'acceptera pas les soumissions qui sont reçues en retard en raison d'une erreur d'acheminement, du volume de trafic, de perturbations atmosphériques ou d'autres motifs.</li>
 </ol>
-<h3>4. Machines à affranchir</h3>
+<h4>4. Machines à affranchir</h4>
 <p>Le timbre de machine à affranchir, qu'il soit apposé par le fournisseur, la SCP ou le service postal d'un pays étranger, ne constitue pas une preuve que la soumission a été expédiée à temps. Il est à noter que la SCP n'appose pas habituellement de timbre à date d'oblitération sur le courrier affranchi à la machine; elle ne le fait généralement que lorsque le courrier est affranchi au moyen d'un timbre-poste.</p>
-<h3>5. Réponses transmises par télécopieur ou par télégramme commercial</h3>
+<h4>5. Réponses transmises par télécopieur ou par télégramme commercial</h4>
 <ol>
 <li>
 <p>Si vous n'êtes pas certain que votre soumission parviendra à temps à l'adresse exacte indiquée pour la réception des soumissions, vous pouvez utiliser un télécopieur ou un télégramme commercial, à moins d'avoir reçu des instructions contraires dans la demande de soumissions.</p>

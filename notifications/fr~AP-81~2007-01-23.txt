@@ -2,20 +2,20 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 23 janvier 2007</h2>
-<h3>Introduction</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 23 janvier 2007</h3>
+<h4>Introduction</h4>
 <p>Le présent avis relatif aux politiques (AP)-81 fait suite à une<br/>
 					récente recommandation du Bureau du vérificateur général<br/>
 					et au courriel subséquent envoyé par la directrice exécutive,<br/>
 					Opérations d'approvisionnement, aux directeurs généraux<br/>
 					et aux directeurs généraux régionaux le 6 décembre 2006.</p>
-<h3>Politique</h3>
+<h4>Politique</h4>
 <p>À compter de maintenant, et dans les circonstances suivantes,<br/>
 					plus d'un employé de Travaux public et Services gouvernementaux<br/>
 					Canada (TPSGC) devra participer à l'évaluation des prix<br/>
@@ -46,13 +46,13 @@
 					A</a> du présent document pour connaître les modifications<br/>
 					apportées au <em>Guide des approvisionnements</em>, lesquelles seront intégrées<br/>
 					au Guide à l'occasion de sa prochaine parution.</p>
-<h3>Personne-ressource</h3>
+<h4>Personne-ressource</h4>
 <p><strong>S/O</strong></p>
 <p> <a id="AP-81annexa" name="annexa"></a></p>
-<h2>Annexe A - Changements apportés au Guide des approvisionnements</h2>
-<h3>SECTION 7D : TRAITEMENT DES SOUMISSIONS</h3>
-<h4>Évaluation des réponses</h4>
-<h5>Évaluation par le client</h5>
+<h3>Annexe A - Changements apportés au Guide des approvisionnements</h3>
+<h4>SECTION 7D : TRAITEMENT DES SOUMISSIONS</h4>
+<h5>Évaluation des réponses</h5>
+<h6>Évaluation par le client</h6>
 <p><span>7D.393 (xxxx-xx-xx)</span> Les clients ont la responsabilité de<br/>
 					l'évaluation de la portion technique des soumissions. <span><em>TPSGC</em> ne<br/>
 					fournit habituellement pas d'information sur les prix aux clients.</span> Quand<br/>
@@ -74,7 +74,7 @@
 					et transparente, et en conformité avec les critères énoncés<br/>
 					dans la demande de soumissions.</p>
 <div>
-<h5>Évaluation financière des soumissions</h5>
+<h6>Évaluation financière des soumissions</h6>
 <p>7D.394 (xxxx-xx-xx) TPSGC est responsable de l'évaluation financière<br/>
 						des soumissions. TPSGC ne fournit <em>habituellement</em> pas d'information sur<br/>
 						les prix <em>aux clients au cours</em> de la phase d'évaluation.</p>

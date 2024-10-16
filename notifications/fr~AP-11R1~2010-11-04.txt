@@ -2,14 +2,14 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
 <!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p class="fontSize115"><strong>Date : Le 4 novembre 2010</strong></p>
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p>Le présent Avis relatif aux politiques AP-11R1 vise à mettre à jour l'actuelle Politique sur le rendement des fournisseurs (PRF) publiée en 1996. <acronym title="Travaux publics et Services gouvernementaux Canada">TPSGC</acronym> a clarifié le but de la <acronym title="Politique sur le rendement des fournisseurs">PRF</acronym>, soit d'atténuer les risques liés aux contrats futurs, et a normalisé davantage les processus et les procédures pour l'approbation et l'application d'une Mesure corrective du rendement d'un fournisseur (MCRF). La <acronym title="Politique sur le rendement des fournisseurs">PRF</acronym> a toujours comme principe fondamental de veiller à ce que les fournisseurs continuent à être traités d'une manière juste, ouverte et transparente.</p>
 <p>L'entrée en vigueur de cet <acronym title="Avis relatif aux politiques">AP</acronym> prévoit une période d'essai jusqu'au 31 mars 2011. Au cours de cette période, aucune conséquence découlant de la <acronym title="Politique sur le rendement des fournisseurs">PRF</acronym> révisée ne sera appliquée à l'encontre des fournisseurs. Au 1<sup>er</sup> avril 2011, la <acronym title="Politique sur le rendement des fournisseurs">PRF</acronym> révisée sera finalisée et entrera pleinement en vigueur.</p>
 <p>Pour des fins d'éclaircissement, il est important de noter que :</p>
@@ -30,7 +30,7 @@
 </ol>
 <div class="topPage"> <a href="#AP-11R1tphp" title="Retourner au haut de la page"><br/>
           Haut de la page</a></div>
-<h2>Contexte</h2>
+<h3>Contexte</h3>
 <p>L'application de mesures correctives à l'encontre des fournisseurs qui ne respectent pas leurs obligations contractuelles a été introduite dans la version précédente de la <acronym title="Politique sur le rendement des fournisseurs">PRF</acronym>. De telles mesures affectent la capacité d'un fournisseur à soumissionner sur les opportunités futures avec <acronym title="Travaux publics et Services gouvernementaux Canada">TPSGC</acronym> ou à recevoir des contrats. L'examen de la politique effectué par la Direction générale des approvisionnements a soulevé le besoin de clarifier les processus, les rôles et les responsabilités dans l'évaluation et l'application possible d'une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym>. L'examen a également permis de soulever le besoin de positionner le rôle de la <acronym title="Politique sur le rendement des fournisseurs">PRF</acronym> dans le contexte global de la gestion du risque lié à l'approvisionnement.</p>
 <p>Le processus d'examen a mis en lumière les éléments suivants qui devraient être pris en considération :</p>
 <ol class="double-space" type="a">
@@ -58,40 +58,40 @@
 <li>Le <acronym title="Système d'information sur les fournisseurs">SIF</acronym> doit maintenant être consulté à la date de clôture de la demande de soumissions avant l'évaluation de celles-ci de même qu'avant l'octroi du contrat ou l'émission d'une modification au contrat pour s'assurer de l'existence ou non d'une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym>. </li>
 <li>Le contenu des notes et l'information relative à des <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym>s dans le <acronym title="Système d'information sur les fournisseurs">SIF</acronym> seront supprimés après six ans plutôt que sept. </li>
 </ol>
-<h3>Changements apportés au Guide des approvisionnements</h3>
+<h4>Changements apportés au Guide des approvisionnements</h4>
 <p>Les changements ci-joints au Guide des approvisionnements (Annexe A) seront inclus dans une édition future du Guide des approvisionnements.</p>
 <p>Vous trouverez en pièces jointes les articles suivants du Guide des approvisionnements mis à jour : 1.5.1, 3.100, 3.110, 5.55, 8.70, et 8.180; et les Annexes 8.4, 8.6, 8.6a, 8.7 et 8.8.</p>
-<h3><acronym title="Forme électronique">ELF</acronym> Documents</h3>
+<h4><acronym title="Forme électronique">ELF</acronym> Documents</h4>
 <p>Les deux documents suivants sont disponibles sous forme électronique ELF :</p>
 <ul>
 <li>Directive pour ajouter des notes dans le <acronym title="Système d'information sur les fournisseurs">SIF</acronym> et Autorisation de procéder à une Évaluation d'une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> et Recommandation</li>
 <li>Évaluation d'une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> et Recommandation</li>
 </ul>
-<h2>Personne-ressource</h2>
+<h3>Personne-ressource</h3>
 <p>Pour plus de renseignements, prière de communiquer avec Alexandre Tremblay, au sein du Secteur de la politique, du risque, de l'intégrité et de la gestion stratégique, au 819-956-0171 ou par courriel à <a href="mailto:alexandre.tremblay@tpsgc-pwgsc.gc.ca" rel="external">alexandre.tremblay@tpsgc-pwgsc.gc.ca</a>.</p>
 <div class="topPage"> <a href="#AP-11R1tphp" title="Retourner au haut de la page"><br/>
           Haut de la page</a></div>
-<h2>Annexe A - Changements apportés au<br/>
-          Guide des approvisionnements</h2>
+<h3>Annexe A - Changements apportés au<br/>
+          Guide des approvisionnements</h3>
 <p>Les changements entrent en vigueur immédiatement et seront inclus dans une édition future du Guide des approvisionnements.</p>
-<h3>1.5.1 Organisation du Guide</h3>
+<h4>1.5.1 Organisation du Guide</h4>
 <p><strong>(2010-11-04)</strong></p>
 <p>Les changements à cette section sont identifiés en caractère gras dans le texte qui suit :</p>
 <p>h) <strong>Chapitre 8</strong>, Gestion des contrats, fournit des renseignements sur la gestion des contrats pendant la durée de ces derniers. Ces renseignements concernent notamment l'exécution des contrats, les paiements progressifs, la sous-traitance, les travaux prévus par la garantie, les différends, les résiliations et <strong>la Politique sur le rendement des fournisseurs</strong>. </p>
-<h3>3.100 Mesures correctives du rendement du fournisseur</h3>
+<h4>3.100 Mesures correctives du rendement du fournisseur</h4>
 <p><strong>(2010-11-04)</strong></p>
 <p>Les changements à cette section sont identifiés en caractère gras dans le texte qui suit :</p>
 <p>Pour plus de renseignements sur la Politique du rendement des fournisseurs, les agents de négociation des contrats devraient consulter l'article <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/ga-sm/chapitre08-chapter08-fra.html#s8-180" title="Pour plus d'information, voir 8.180.">8.180</a>. Pour plus de renseignements sur le <strong>rejet d'une soumission, offre ou arrangement découlant d'une Mesure corrective du rendement du fournisseur</strong>, voir l'article <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/ga-sm/chapitre05-chapter05-fra.html#s5-55" title="Pour plus d'information, voir 5.55.">5.55</a>.</p>
-<h3>3.110 Services juridiques</h3>
+<h4>3.110 Services juridiques</h4>
 <p><strong>(2010-11-04)</strong></p>
 <p>Cette section demeure inchangée à l'exception de l'ajout de l'article (c). (xiii), qui est identifié en caractère gras dans le texte qui suit :</p>
 <p>c) Les agents de négociation des contrats doivent consulter un conseiller juridique : </p>
 <p class="indent2"><strong>(xiii) pour toutes modifications conditionnelles (Voir l'article 8.180.)</strong></p>
 <div class="topPage"> <a href="#AP-11R1tphp" title="Retourner au haut de la page"><br/>
           Haut de la page</a></div>
-<h3>5.55 Rejet des soumissions, offres ou arrangements [Changement de titre]</h3>
+<h4>5.55 Rejet des soumissions, offres ou arrangements [Changement de titre]</h4>
 <p>Les changements à cette section sont identifiés en caractère gras dans le texte qui suit :</p>
-<h4>5.55.1 Rôle de l'agent de négociation des contrats</h4>
+<h5>5.55.1 Rôle de l'agent de négociation des contrats</h5>
 <p><strong>(2010-11-04)</strong></p>
 <ol class="double-space" type="a">
 <li>L'agent de négociation des contrats <strong>doit </strong>vérifier si le soumissionnaire, l'offrant ou le fournisseur choisi suite au processus concurrentiel, ou un fournisseur à qui on envisage d'accorder un contrat à fournisseur unique, est visé par une mesure corrective sur le rendement du fournisseur (MCRF) et <strong>doit </strong>déterminer si cette mesure s'applique à l'opération d'achat dont l'agent de négociation des contrats s'occupe. <strong>[Rayer : Si c'est le cas, il se peut alors que le contrat ne soit pas attribué ou que l'attribution soit sujette à des conditions imposées.]</strong></li>
@@ -99,16 +99,16 @@
 <li><strong>Une décision de rejeter une soumission, offre ou arrangement en raison d'une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> peut-être prise en tout temps jusqu'à l'attribution du contrat ou l'émission d'une offre à commande ou d'un arrangement en matière d'approvisionnement. Il faut vérifier si une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> figure dans le <acronym title="Système d'information sur les fournisseurs">SIF</acronym> à la date de clôture en régime concurrentiel et avant de contacter un fournisseur lorsqu'il s'agit d'un contrat à fournisseur unique. De plus, avant l'attribution d'un contrat ou l'émission d'une offre à commande ou d'un arrangement en matière d'approvisionnement, il faut de nouveau vérifier dans le <acronym title="Système d'information sur les fournisseurs">SIF</acronym>.</strong></li>
 <li>En consultant le fichier d'un soumissionnaire, un offrant ou un fournisseur dans le <acronym title="Système d'information sur les fournisseurs">SIF</acronym>, l'agent de négociation des contrats y verra clairement un avis confirmant qu'une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> est en vigueur. L'environnement automatisé de l'acheteur n'empêchera pas l'attribution d'un contrat ou l'émission d'une offre à commande ou d'un arrangement en matière d'approvisionnement  à un soumissionnaire, un offrant ou un fournisseur visé par une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym>. <strong>[Rayer : Étant donné que la zone des détails sur la <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> est limitée à environ 250 caractères, on peut reproduire d'autres renseignements dans les commentaires portant sur la nature de la <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym>, commentaires qu'il faut également consulter.]</strong></li>
 </ol>
-<h4>5.55.5 Pouvoir de rejeter une soumission, offre ou arrangement</h4>
+<h5>5.55.5 Pouvoir de rejeter une soumission, offre ou arrangement</h5>
 <p><strong>(2010-11-04)</strong></p>
 <p>Le pouvoir de rejeter une soumission, une offre ou un arrangement, conformément <strong>aux articles applicables [Rayer : à l'article portant sur le rendement des fournisseurs contenus dans les] des</strong> instructions uniformisées <a href="http://ccua-sacc.tpsgc-pwgsc.gc.ca/pub/rqqr.do?id=2003&amp;date=courant&amp;lang=fra" rel="external" title="Pour plus d'information, voir sous 2003.">2003</a>, <a href="http://ccua-sacc.tpsgc-pwgsc.gc.ca/pub/rqqr.do?id=2004&amp;date=courant&amp;lang=fra" rel="external" title="Pour plus d'information, voir sous 2004.">2004</a>, <a href="http://ccua-sacc.tpsgc-pwgsc.gc.ca/pub/rqqr.do?id=2006&amp;date=courant&amp;lang=fra" rel="external" title="Pour plus d'information, voir sous 2006.">2006</a>, <a href="http://ccua-sacc.tpsgc-pwgsc.gc.ca/pub/rqqr.do?id=2007&amp;date=courant&amp;lang=fra" rel="external" title="Pour plus d'information, voir sous 2007.">2007</a> et <a href="http://ccua-sacc.tpsgc-pwgsc.gc.ca/pub/rqqr.do?id=2008&amp;date=courant&amp;lang=fra" rel="external" title="Pour plus d'information, voir sous 2008.">2008</a>, du guide des <em>Clauses et conditions uniformisées d'achat</em> (CCUA), appartient à l'agent de négociation des contrats responsable de l'évaluation des soumissions, des offres ou des arrangements. Toutefois, pour les soumissions, les offres ou les arrangements que l'on envisage de rejeter conformément aux sous-alinéas 1.(<strong>c</strong>)(ii), ou (iv), le pouvoir de rejeter une soumission, une offre ou un arrangement appartient au directeur général compétent.</p>
-<h4>5.55.10 Avis adressé au soumissionnaire, à l'offrant ou au fournisseur </h4>
+<h5>5.55.10 Avis adressé au soumissionnaire, à l'offrant ou au fournisseur </h5>
 <p><strong>(2010-11-04)</strong></p>
 <ol class="double-space" type="a">
 <li>L'avis d'intention de rejeter une soumission, une offre ou un arrangement en vertu de l'article mentionné ci-dessus devrait être transmis par téléphone, puis confirmé par lettre ou télécopie. <strong>[Rayer : Toutefois, on n'enverra pas d'avis au soumissionnaire, à l'offrant ou au fournisseur exclu conformément à l'article portant sur le rendement du fournisseur contenu dans toutes les instructions uniformisées du guide des <acronym title="Clauses et conditions uniformisées d'achat">CCUA</acronym>.]</strong> Le soumissionnaire, l'offrant ou le fournisseur dont la soumission, l'offre ou l'arrangement est rejeté est réputé avoir reçu cet avis au moment de l'appel téléphonique. La personne qui fait l'appel devrait noter dans le dossier la date et l'heure de la communication, ainsi que le nom de son interlocuteur.</li>
 <li>L'avis d'intention doit faire état des faits et des motifs de la décision de rejeter la soumission, l'offre ou l'arrangement. <strong>[Rayer : Par exemple, lorsqu'un soumissionnaire, un offrant ou un fournisseur qui accuse des retards chroniques est exclu d'un achat dont les délais sont impératifs, conformément à l'alinéa 1.d) de l'article portant sur le rendement du fournisseur contenu dans toutes les instructions générales du guide des <acronym title="Clauses et conditions uniformisées d'achat">CCUA</acronym>, l'avis devrait faire état des contrats pour lesquels le soumissionnaire, l'offrant ou le fournisseur a accusé des retards (les faits) et préciser que son dossier représente un risque inadmissible, étant donné l'importance des délais à respecter dans le contrat à attribuer (les motifs).] </strong>Toutefois, lorsqu'une soumission, une offre ou un arrangement est rejeté conformément à l'alinéa 1.b) ou c) de<strong> [Rayer : cet article] la section applicable des instructions uniformisées du guide des <acronym title="Clauses et conditions uniformisées d'achat">CCUA</acronym></strong> parce qu'une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> est imposée, il est suffisant tout simplement de faire référence à cette <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym>. </li>
 </ol>
-<h4>5.55.15 Examen</h4>
+<h5>5.55.15 Examen</h5>
 <p><strong>(2010-11-04)</strong></p>
 <ol class="double-space" type="a">
 <li>Un soumissionnaire, un offrant ou un fournisseur, sauf un soumissionnaire, un offrant ou un fournisseur exclu conformément à l'alinéa 1.b) de l'article <strong>applicable [Rayer : portant sur le rendement dur fournisseur contenu dans toutes les]</strong> des instructions uniformisées du guide des <acronym title="Clauses et conditions uniformisées d'achat">CCUA</acronym>, <strong>[Rayer : le soumissionnaire, l'offrant, ou le fournisseur] </strong>peut demander au sous-ministre adjoint de la Direction générale des approvisionnements (SMA/DGA) d'examiner la décision de rejet de sa soumission, offre ou arrangement. La décision de mettre en attente le processus d'évaluation des soumissions et d'attribution du contrat, pour qu'on puisse examiner la décision de rejet, est à l'entière discrétion du <acronym title="Sous-ministre adjoint de la Direction générale des approvisionnements">SMA/DGA</acronym>.</li>
@@ -116,10 +116,10 @@
 </ol>
 <div class="topPage"> <a href="#AP-11R1tphp" title="Retourner au haut de la page"><br/>
           Haut de la page</a></div>
-<h2>8.70 Facteurs liés à l'administration des contrats</h2>
+<h3>8.70 Facteurs liés à l'administration des contrats</h3>
 <p>Cette section demeure inchangée à l'exception des articles 8.70.5 et 8.70.10.</p>
 <p>Les changements aux articles 8.70.5 et 8.70.10 sont identifiés en caractère gras dans le texte qui suit : </p>
-<h3>8.70.5 Modification des contrats</h3>
+<h4>8.70.5 Modification des contrats</h4>
 <p><strong>(2010-11-04)</strong></p>
 <ol class="double-space" type="a">
 <li>Les modifications de contrat servent à supprimer, modifier ou ajouter officiellement de nouvelles conditions au contrat original. La nécessité d'apporter une modification peut découler de négociations qui se poursuivent, de changements dans les besoins ou de la nécessité de réagir à des circonstances imprévues. Les modifications de contrat devraient tenir compte des meilleurs intérêts du Canada. Elles sont soumises à l'approbation des deux parties au contrat. <strong>Une modification au contrat ne peut être émise à un fournisseur faisant l'objet d'une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym>.</strong></li>
@@ -129,7 +129,7 @@
 <li>Pour réduire les frais d'administration, les agents de négociation des contrats et les ministères clients devraient regrouper le plus de changements possibles dans une même modification. Par exemple, divers changements ou modifications ou altérations de conception peuvent faire l'objet d'une même modification.</li>
 <li>Les modifications doivent être distribuées à la même échelle que le contrat original.</li>
 </ol>
-<h3>8.70.10 Approbation des modifications au contrat</h3>
+<h4>8.70.10 Approbation des modifications au contrat</h4>
 <p><strong>(2010-11-04)</strong></p>
 <ol class="double-space" type="a">
 <li>Les modifications qui apportent des changements importants au contrat doivent être approuvées par le niveau d'approbation compétent, sauf pour les options qui constituent des changements approuvés au préalable ou prévus dans des autorisations existantes. </li>
@@ -138,9 +138,9 @@
 </ol>
 <div class="topPage"> <a href="#AP-11R1tphp" title="Retourner au haut de la page"><br/>
           Haut de la page</a></div>
-<h2>8.180 Politique sur le rendement des fournisseurs</h2>
+<h3>8.180 Politique sur le rendement des fournisseurs</h3>
 <p>Cette section est remplacée par le texte qui suit :</p>
-<h3>8.180.1 Introduction </h3>
+<h4>8.180.1 Introduction </h4>
 <p><strong>(2010-11-04)</strong></p>
 <ol class="double-space" type="a">
 <li>La Politique sur le rendement des fournisseurs (PRF) vise à appuyer la collectivité de l'approvisionnement de <acronym title="Travaux publics et Services gouvernementaux Canada">TPSGC</acronym> dans l'atténuation des risques liés à l'approvisionnement des futurs marchés.</li>
@@ -149,14 +149,14 @@
 <li>La <acronym title="Politique sur le rendement des fournisseurs">PRF</acronym> met l'accent sur l'utilisation des renseignements sur le rendement du fournisseur qui se trouvent dans les contrats fermés pour évaluer la nécessité d'appliquer une mesure corrective. Ces mesures permettent le rejet des soumissions dans le cadre de futurs marchés de <acronym title="Travaux publics et Services gouvernementaux Canada">TPSGC</acronym>.</li>
 <li>En outre, les renseignements généraux sur la nature et la portée des problèmes de rendement obtenus pendant la période du contrat et après la clôture du contrat devraient être utilisés pendant les autres phases. Lors de la phase précontractuelle, les renseignements contribueront à l'élaboration de la stratégie de gestion des risques liés à l'approvisionnement. Au cours de cette phase, les renseignements serviront également à évaluer la nécessité d'un programme personnalisé pour gérer le rendement du fournisseur relativement à une catégorie précise de biens ou services ou à un groupe de biens ou de services. À la phase contractuelle, les renseignements ont aussi leur importance non seulement pour le développement des critères de rendement mais également de tout autre terme d'atténuation des risques, tant dans les documents de demande de soumissions que ceux de contrat.</li>
 </ol>
-<h3>8.180.5 Principes</h3>
+<h4>8.180.5 Principes</h4>
 <p><strong>(2010-11-04)</strong></p>
 <ol class="double-space" type="a">
 <li><acronym title="Travaux publics et Services gouvernementaux Canada">TPSGC</acronym> a le pouvoir et la responsabilité de prendre des mesures raisonnables pour s'assurer que les fournisseurs respectent leurs obligations. <acronym title="Travaux publics et Services gouvernementaux Canada">TPSGC</acronym> a, autant que tout autre acheteur sur le marché, le droit d'évaluer le rendement d'un fournisseur. <acronym title="Travaux publics et Services gouvernementaux Canada">TPSGC</acronym> peut, en se fondant sur le rendement antérieur d'un fournisseur, prendre des mesures afin d'éviter tout problème éventuel. Le pouvoir discrétionnaire permettant de prendre ces mesures doit être exercé de façon juste et raisonnable.</li>
 <li>La <acronym title="Politique sur le rendement des fournisseurs">PRF</acronym> se fonde sur les principes qui soutiennent l'engagement de <acronym title="Travaux publics et Services gouvernementaux Canada">TPSGC</acronym> à exécuter les processus d'approvisionnement d'une manière qui contribue à accroître la concurrence, l'équité et la transparence.</li>
 <li>Toute mesure corrective prise doit correspondre logiquement à la nature et à la gravité du problème pour lequel elle est appliquée. </li>
 </ol>
-<h3>8.180.10 Définitions</h3>
+<h4>8.180.10 Définitions</h4>
 <p><strong>(2010-11-04)</strong></p>
 <p>Aux fins de la présente politique, les termes ou les expressions qui suivent se définissent comme suit :</p>
 <ol class="double-space" type="a">
@@ -167,8 +167,8 @@
 </ol>
 <div class="topPage"> <a href="#AP-11R1tphp" title="Retourner au haut de la page"><br/>
           Haut de la page</a></div>
-<h3>8.180.15 Processus</h3>
-<h4>8.180.15.1 Surveillance</h4>
+<h4>8.180.15 Processus</h4>
+<h5>8.180.15.1 Surveillance</h5>
 <p><strong>(2010-11-04)</strong></p>
 <ol class="double-space" type="a">
 <li>Les agents de négociation des contrats devraient appliquer les modalités contractuelles dans la mesure du possible. Un même incident peut servir à l'application des mesures prévues au contrat, à l'inscription d'une note dans le <acronym title="Système d'information sur les fournisseurs">SIF</acronym> et à l'imposition d'une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym>.</li>
@@ -185,7 +185,7 @@
 <li>Un contrat ayant fait l'objet d'une résiliation(s) pour manquement et/ou d'une modification(s) conditionnelle(s) entraîne une évaluation obligatoire visant à déterminer si une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> doit être appliquée. L'agent de négociation des contrats suivra le processus décrit ci-dessous à l'article <strong>8.180.15.5</strong> avant de clore le dossier.</li>
 <li>Outre les éléments ci-dessus, <acronym title="Travaux publics et Services gouvernementaux Canada">TPSGC</acronym> se réserve le droit d'inclure une note dans le <acronym title="Système d'information sur les fournisseurs">SIF</acronym> pour tout autre problème important relatif à l'exécution d'un contrat. Lorsqu'il s'agit de la première inscription, l'approbation du directeur général est requise. S'il s'agit de la seconde inscription, il faut obtenir l'approbation du Conseil des <acronym title="Directeur général">DG</acronym>s sur la gestion des risques liés à l'approvisionnement. Bien que ces notes puissent entraîner l'application d'une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym>, elles ne sont pas considérées avec le formulaire et le processus d'Évaluation d'une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> et Recommandation.</li>
 </ol>
-<h4>8.180.15.5 Processus d'évaluation pour déterminer la nécessité d'appliquer une mesure corrective du rendement du fournisseur</h4>
+<h5>8.180.15.5 Processus d'évaluation pour déterminer la nécessité d'appliquer une mesure corrective du rendement du fournisseur</h5>
 <p><strong>(2010-11-04)</strong></p>
 <ol class="double-space" type="a">
 <li>La prise de mesures correctives officielles devrait être envisagée lorsqu'il est évident que la poursuite d'un contrat avec un fournisseur peut engendrer un risque plus élevé que le risque acceptable pour le Canada. Cela peut être lié à un cas majeur de rendement insatisfaisant dans un contrat ayant entraîné une résiliation pour manquement ou une modification conditionnelle ou à une accumulation de résiliations pour manquement ou de modifications conditionnelles. </li>
@@ -200,7 +200,7 @@
 <li>Toute évaluation de la nécessité d'appliquer une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> doit être soumise au directeur pertinent qui décidera s'il faut ou non recommander une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym>.</li>
 <li>L'évaluation doit être entreprise dès que le contrat prend fin. </li>
 </ol>
-<h4>8.180.15.10 Recommandation d'appliquer une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym></h4>
+<h5>8.180.15.10 Recommandation d'appliquer une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym></h5>
 <p><strong>(2010-11-04)</strong></p>
 <ol class="double-space" type="a">
 <li>Une recommandation d'appliquer une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> (voir <strong>l'Annexe 8.6</strong> pour la procédure à suivre pour l'application d'une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> à l'aide du processus générique) se fonde sur l'évaluation visant à déterminer la nécessité d'une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> et sur la décision s'il est ou non dans l'intérêt du Canada de continuer à faire affaire avec le fournisseur.</li>
@@ -234,13 +234,13 @@
 </ol>
 <div class="topPage"> <a href="#AP-11R1tphp" title="Retourner au haut de la page"><br/>
           Haut de la page</a></div>
-<h4>8.180.15.15 Décision du sous-ministre adjoint</h4>
+<h5>8.180.15.15 Décision du sous-ministre adjoint</h5>
 <p><strong>(2010-11-04)</strong></p>
 <ol class="double-space" type="a">
 <li>Sauf dans les cas où il existe un Programme de secteur/région du rendement du fournisseur, le <acronym title="Sous-ministre adjoint de la Direction générale des approvisionnements">SMA/DGA</acronym> examinera toutes les recommandations pour l'application d'une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym>, y compris les renseignements transmis par le fournisseur, et pourra décider de modifier la recommandation. </li>
 <li>Le <acronym title="Sous-ministre adjoint de la Direction générale des approvisionnements">SMA/DGA</acronym> informera le fournisseur de la décision à savoir si une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> s'appliquera. Tous les secteurs et toutes les régions particulièrement concernés par la décision seront également avisés. </li>
 </ol>
-<h4>8.180.15.20 Mise en application de <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym>s</h4>
+<h5>8.180.15.20 Mise en application de <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym>s</h5>
 <p><strong>(2010-11-04)</strong></p>
 <ol class="double-space" type="a">
 <li>L'agent de négociation des contrats fera parvenir une copie du formulaire d'Évaluation de la <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> et Recommandation au coordonnateur du <acronym title="Système d'information sur les fournisseurs">SIF</acronym> pour le <acronym title="Vendor Performance Policy">VPP</acronym>, et ce, pour toute évaluation terminée. L'information relative à une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> ne sera entrée dans le <acronym title="Système d'information sur les fournisseurs">SIF</acronym> que par le SPRIGS.</li>
@@ -265,13 +265,13 @@
 </ol>
 </li>
 </ol>
-<h4>8.180.20 Dispositions du Guide des <acronym title="Clauses et conditions uniformisées d'achat">CCUA</acronym> concernant les ordres de suspendre les travaux, les suspensions du contrat et les autres motifs de rejet d'une soumission</h4>
+<h5>8.180.20 Dispositions du Guide des <acronym title="Clauses et conditions uniformisées d'achat">CCUA</acronym> concernant les ordres de suspendre les travaux, les suspensions du contrat et les autres motifs de rejet d'une soumission</h5>
 <p><strong>(2010-11-04)</strong></p>
 <p>Aucune disposition de la <acronym title="Politique sur le rendement des fournisseurs">PRF</acronym> ne surpassera les droits de <acronym title="Travaux publics et Services gouvernementaux Canada">TPSGC</acronym> en ce qui concerne les ordres d'arrêt des travaux, les suspensions du contrat et les autres motifs de rejet d'une soumission, d'une offre ou d'un arrangement énoncés dans le Guide des <acronym title="Clauses et conditions uniformisées d'achat">CCUA</acronym>.</p>
-<h4>8.180.25 Exceptions</h4>
+<h5>8.180.25 Exceptions</h5>
 <p><strong>(2010-11-04)</strong></p>
 <p>Dans les cas d'urgence d'approvisionnement, un <acronym title="Directeur général/directeur général régional">DG/DGR</acronym> peut recommander une exception à une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym>. En pareil cas, il faut apporter une attention particulière afin de protéger le Canada. Lorsqu'on a recours à une exception, le motif doit être noté dans le dossier du contrat. Ces exceptions doivent être approuvées par le <acronym title="Sous-ministre adjoint de la Direction générale des approvisionnements">SMA/DGA</acronym> ou par le chargé d'approbation désigné du programme de rendement du fournisseur du secteur ou de la région en question.</p>
-<h4>8.180.30 Programmes de secteur/région du rendement du fournisseur</h4>
+<h5>8.180.30 Programmes de secteur/région du rendement du fournisseur</h5>
 <p><strong>(2010-11-04)</strong></p>
 <ol class="double-space" type="a">
 <li>Un secteur ou une région peut établir un programme personnalisé ou sur mesure pour évaluer le rendement de fournisseur et déterminer les mesures appropriées qui doivent s'appliquer dans le cas de biens ou de services précis ou de groupes de biens ou de services. Lorsqu'un tel programme a reçu l'approbation du <acronym title="Sous-ministre adjoint de la Direction générale des approvisionnements">SMA/DGA</acronym>, il n'est pas nécessaire que ce dernier passe les cas en revue. Les décisions peuvent être prises par les personnes à qui l'on a délégué une telle autorité dans le cadre du programme.</li>
@@ -281,13 +281,13 @@
 </ol>
 <div class="topPage"> <a href="#AP-11R1tphp" title="Retourner au haut de la page"><br/>
           Haut de la page</a></div>
-<h2>Annexe 8.4 – Résiliation pour manquement</h2>
+<h3>Annexe 8.4 – Résiliation pour manquement</h3>
 <p><strong>(2010-11-04)</strong></p>
 <p>Cette section demeure inchangée à l'exception de l'article c)(iii)(C) Les changements à l'article c)(iii)(C) sont identifiés en caractère gras dans le texte qui suit :</p>
 <p>a) Le Canada peut résilier un contrat en tout ou en partie pour manquement si : </p>
 <p class="indent2">(iii) L'entrepreneur ne livre pas les biens ou ne rend pas les services dans les délais stipulés  dans le contrat.</p>
 <p class="indent3">(C) Lorsque l'on a toutes les raisons de croire que la livraison sera faite, même si elle est en retard, il peut être souhaitable de négocier une prolongation du délai avec le client. Si le délai est prolongé, il peut être approprié de réduire le prix du contrat. <strong>Il s'agit d'une modification conditionnelle (voir l'article 8.70.5) qui engendre une note dans le <acronym title="Système d'information sur les fournisseurs">SIF</acronym> ainsi que le recours au formulaire et au processus d'Évaluation d'une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> et Recommandation. </strong></p>
-<h2 id="AP-11R1img1">Annexe 8.6 – Approche de la gestion du risque lié au rendement des fournisseurs</h2>
+<h3 id="AP-11R1img1">Annexe 8.6 – Approche de la gestion du risque lié au rendement des fournisseurs</h3>
 <p><strong>(2010-11-04)</strong></p>
 <p id="AP-11R1ann86"></p>
 <p><em><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap11r1-pn11r1-desc1-fra.html">Description texte pour Annexe 8.6 – Approche de la gestion du risque lié au rendement des fournisseurs</a> est disponible sur une page séparée.</em> </p>
@@ -299,16 +299,16 @@
 <p class="smallFont"><em>Remarque 4 : Des « Notes Autres » sont ajoutées lorsque d'importants problèmes l'exigent, conformément à l'article 8.180.15.1.(h).</em></p>
 <div class="topPage"> <a href="#AP-11R1tphp" title="Retourner au haut de la page"><br/>
           Haut de la page</a></div>
-<h2 id="AP-11R1img2">Annexe 8.6a – Procédure à suivre pour l'application d'une mesure corrective du rendement du fournisseur (MCRF)</h2>
+<h3 id="AP-11R1img2">Annexe 8.6a – Procédure à suivre pour l'application d'une mesure corrective du rendement du fournisseur (MCRF)</h3>
 <p><strong>(2010-11-04)</strong></p>
 <p id="AP-11R1ann86a"></p>
 <p><em><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap11r1-pn11r1-desc2-fra.html">Description texte pour Annexe 8.6a – Procédure à suivre pour l'application d'une mesure corrective du rendement du fournisseur (MCRF)</a> est disponible sur une page séparée.</em> </p>
 <p><em>Une <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/hist/ap11r1-pn11r1-tblcht-fra.html#ann86a">grande vue de ce diagramme</a> est disponible sur une page séparée. Il est possible que vous ayez de la difficulté à visualiser cette image en raison de sa dimension.</em></p>
 <p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/documents/appn11r1-86a-fra.pdf">Version PDF</a> ( 68Ko)</p>
 <p class="smallFont"><em>Remarque 1 : Le Conseil des directeurs généraux réfère au Conseil des <acronym title="Directeur général">DG</acronym>s de la <acronym title="Direction générale des approvisionnements">DGA</acronym> sur la gestion des risques liés à l'approvisionnement.</em></p>
-<h2>Annexe 8.7 – Principaux éléments de l'Évaluation d'une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> et Recommandation</h2>
+<h3>Annexe 8.7 – Principaux éléments de l'Évaluation d'une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> et Recommandation</h3>
 <p><strong>(2010-11-04)</strong></p>
-<h3>1. Pointage des répercussions pour le contrat actuel</h3>
+<h4>1. Pointage des répercussions pour le contrat actuel</h4>
 <p>Cette étape réfère aux répercussions associées aux problèmes de rendement insatisfaisant qui ont entraîné une ou des résiliation(s) pour manquement et/ou une ou des modification(s) conditionnelle(s) dans le cadre du contrat actuel. Ce pointage des répercussions tient compte de l'importance relative des exigences dans le contexte global. Trois catégories de problèmes de rendement sont prises en considération et la grille de notation suivante s'applique :</p>
 <ol type="i">
 <li>Sans objet   =   S/O</li>
@@ -316,7 +316,7 @@
 <li>Répercussion moyenne   =   4 à 6</li>
 <li>Répercussion élevée   =   7 à 9</li>
 </ol>
-<h3>2. Pointage converti</h3>
+<h4>2. Pointage converti</h4>
 <p>Lorsqu'il y a une note de 9 attribuée à l'un des enjeux relatifs au rendement, le Pointage converti s'établira à 40 points. Cette situation entre dans la catégorie des répercussions majeures découlant d'un rendement insatisfaisant. Sinon, la table de conversion suivante sera utilisée :</p>
 <table class="basic" summary="Dans l'Annexe 8.7 titré Principaux éléments d'une MCRF et Recommandations, le tableau Pointage converti décrit la conversion du pointage établit à 40 points accordés selon la catégorie de répercussion majeures découlant d'un rendement insatisfaisant.">
 <tbody><tr>
@@ -340,7 +340,7 @@
 <td class="alignCenter">40 points</td>
 </tr>
 </tbody></table>
-<h3>3. Pointage de l'historique</h3>
+<h4>3. Pointage de l'historique</h4>
 <p>Les contrats comportant une ou des résiliation(s) pour manquement et/ou une ou des modification(s) conditionnelle(s) ainsi que les <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> sont considérés dans le calcul du Pointage total de l'historique qui s'établit comme suit :</p>
 <ol type="i">
 <li>10 points pour chaque cas de <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym> </li>
@@ -348,7 +348,7 @@
 <li>20 points pour chaque cas de contrat comportant une répercussion moyenne découlant d'un rendement insatisfaisant </li>
 <li>40 points pour chaque cas de contrat comportant une répercussion majeure découlant d'un rendement insatisfaisant </li>
 </ol>
-<h3>4. Pointage total des répercussions et les conséquences d'une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym></h3>
+<h4>4. Pointage total des répercussions et les conséquences d'une <acronym title="Mesure corrective du rendement d'un fournisseur">MCRF</acronym></h4>
 <p>Ce pointage se calcule en additionnant le Pointage converti et le Pointage total de l'historique. Si le Pointage total des répercussions est de 40 points ou plus, les conséquences sont les suivantes :</p>
 <table class="basic" summary="Dans cette même annexe, le tableau titré Pointage total des répercussions et les conséquences d'une MCRF, décrit la façon dont le pointage se calcule et les conséquences selon le résultat des répercussions est de 40 ou plus.">
 <tbody><tr>
@@ -370,12 +370,12 @@
 </tbody></table>
 <div class="topPage"> <a href="#AP-11R1tphp" title="Retourner au haut de la page"><br/>
           Haut de la page</a></div>
-<h2>Annexe 8.8 – Cadre pour l'élaboration d'un Programme de secteur/région du rendement du fournisseur</h2>
+<h3>Annexe 8.8 – Cadre pour l'élaboration d'un Programme de secteur/région du rendement du fournisseur</h3>
 <p><strong>(2010-11-04)</strong></p>
 <p>Les programmes personnalisés de rendement antérieur devraient traiter des éléments suivants, s'il y a lieu, et s'ils sont applicables selon les circonstances :</p>
-<h3>1. Portée :</h3>
+<h4>1. Portée :</h4>
 <p>Dans cette section, les secteurs ou les régions définiront la portée de chaque programme personnalisé de rendement antérieur en ce qui concerne le(les) bien(s) ou service(s), le type de marché, les seuils en dollars et le risque lié à l'exécution du marché. La définition de la portée précisera également si le programme est intégré à  une quelconque initiative sur les achats stratégiques.</p>
-<h3>2. Comment fonctionne le programme personnalisé :</h3>
+<h4>2. Comment fonctionne le programme personnalisé :</h4>
 <p>Cette section décrira le fonctionnement du programme personnalisé. Les éléments suivants doivent être considérés au moment de l'élaboration d'un programme :</p>
 <ol class="double-space" type="i">
 <li>Implication des associations pertinentes de l'industrie et/ou des fournisseurs/fournisseurs potentiels<br/>

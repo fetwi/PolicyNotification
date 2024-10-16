@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Introduction </h2>
+<h3>Introduction </h3>
 <p>L'Avis relatif aux politiques 102 (AP-102) vise à mettre à jour les consignes destinées aux agents de négociation des contrats quant au processus d'approvisionnement en biens et services lorsqu'il existe un besoin urgent. </p>
-<h2>Date d'entrée en vigueur</h2>
+<h3>Date d'entrée en vigueur</h3>
 <p>Le présent <abbr title="Avis relatifs aux politiques">AP</abbr> entre en vigueur immédiatement.</p>
-<h2>Modifications à la politique actuelle</h2>
+<h3>Modifications à la politique actuelle</h3>
 <p>Cet <abbr title="Avis relatifs aux politiques">AP</abbr> nécessite l'ajout d'une section sur les achats urgents au Guide des approvisionnements. Les changements apportés sont décrits en détails à l'<a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/ap102-pn102-fra.html#anna" rel="external" title="Pour plus d'information, voir annexe A.">annexe A</a>. </p>
-<h2>Personnes-ressources</h2>
+<h3>Personnes-ressources</h3>
 <p>Pour plus de renseignements, veuillez communiquer avec Heather Bartlett, par téléphone au 819-956-0912, ou par courriel à l'adresse suivante : <a href="mailto:heather.bartlett@tpsgc-pwgsc.gc.ca" rel="external">heather.bartlett@tpsgc-pwgsc.gc.ca</a>.</p>
-<h2 id="AP-102anna">Annexe A</h2>
-<h3>3.21 Gestion des achats urgents</h3>
+<h3 id="AP-102anna">Annexe A</h3>
+<h4>3.21 Gestion des achats urgents</h4>
 <ol class="double-space" type="a">
 <li>Un besoin (ou achat) urgent doit faire l'objet de mesures immédiates et comporte une notion d'urgence. L'agent de négociation des contrats devra déterminer, après consultation avec le client et la gestion de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> lorsque nécessaire, si le besoin doit être traité comme un achat urgent. L'utilisation du qualificatif « urgent » dépendra des priorités du ministère client et de celles du gouvernement en entier. Les achats pour lesquels des retards imprévus pourraient amener d'importantes conséquences économiques, avoir des répercussions sur les programmes de santé et sécurité, ou présenter un risque de retard pour une étape clé d'un projet ou d'un programme peuvent être considérés, par exemple, comme des achats urgents.</li>
 <li>Dans la plupart des cas, il importe que <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> participe très tôt au processus, tout en respectant les rôles et responsabilités, afin de s'assurer que l'on développe une stratégie globale d'approvisionnement qui répond aux objectifs opérationnels du client.</li>

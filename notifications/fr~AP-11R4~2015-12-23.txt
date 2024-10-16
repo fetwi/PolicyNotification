@@ -1,8 +1,8 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Date d’entrée en vigueur</h2>
+<h3>Date d’entrée en vigueur</h3>
 <p>L'avis relatif aux politiques 11R4 (AP-11R4) entre en vigueur dès maintenant.</p>
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p>L’<abbr title="avis relatif aux politiques">AP</abbr>-11R4 vise à actualiser et améliorer l'<abbr title="avis relatif aux politiques">AP</abbr>-11R3 publié le 25 octobre 2012 en : 
 </p><ol type="a">
 <li>instaurant une période fixe de trois mois pour l’achèvement de l’évaluation des mesures correctives du rendement des fournisseurs (MCRF);</li>
@@ -12,19 +12,19 @@
 </li>
 </ol>
 <p></p>
-<h2>Modifications apportées au <cite>Guide des approvisionnements</cite></h2>
+<h3>Modifications apportées au <cite>Guide des approvisionnements</cite></h3>
 <p>En appui à cet <abbr title="avis relatif aux politiques">AP</abbr>, des articles du <cite>Guide des approvisionnements</cite> ont été modifiés. Ces articles sont énumérés sous Sections du <cite>Guide des approvisionnements</cite> visées ci-dessous.</p>
-<h2>Modifications apportées au Guide des clauses et conditions uniformisées d’achat (CCUA)</h2>
+<h3>Modifications apportées au Guide des clauses et conditions uniformisées d’achat (CCUA)</h3>
 <p>Aucune modification n'a été apportée aux <abbr title="Guide des clauses et conditions uniformisées d’achat">CCUA</abbr>.</p>
-<h2>Documents FEL</h2>
+<h3>Documents FEL</h3>
 <p>Les deux documents suivants sont disponibles dans l’application Formulaires électroniques (FEL) :</p>
 <ul>
 <li>Directive pour ajouter des notes dans le <abbr title="Système d'information sur les fournisseurs">SIF</abbr> et Autorisation de procéder à une évaluation d’une <abbr title="mesures correctives du rendement des fournisseurs">MCRF</abbr> (Formulaire 149)</li>
 <li>Évaluation d’une <abbr title="mesures correctives du rendement des fournisseurs">MCRF</abbr> (Formulaire 149-1)</li>
 </ul>
-<h2>Pour communiquer avec nous</h2>
+<h3>Pour communiquer avec nous</h3>
 <p>Pour plus de renseignements, communiquer avec le coordonnateur de <abbr title="mesures correctives du rendement des fournisseurs">MCRF</abbr> par courriel à l'adresse suivante : <a href="mailto:CoordPMCRF.VPCMPCoord@tpsgc-pwgsc.gc.ca" rel="external">CoordPMCRF.VPCMPCoord@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Sections du Guide des approvisionnements visées</h3>
+<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-9a414d03030242fe2f6149297aa3a14f">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

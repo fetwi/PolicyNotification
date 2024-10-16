@@ -2,14 +2,14 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : 20 juin 2001</h2>
-<h3>Le AP-51U remplace le AP-51 du 30 avril dernier.</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : 20 juin 2001</h3>
+<h4>Le AP-51U remplace le AP-51 du 30 avril dernier.</h4>
 <p>Le projet de loi S-25 a modifié la Loi sur la production de défense (LPD) en y ajoutant deux nouvelles parties qui ont établi un nouveau régime pour réglementer l'accès à certains biens et technologie militaires contrôlés et de nature militaire («marchandises contrôlées» - <strong>voir l'annexe D pour la définition</strong>). Pour répondre à ces exigences, le Programme d'inscription donnant accès aux « marchandises contrôlées » (PIMC) a été établi par le gouvernement fédéral en vertu de la LPD et du Règlement sur les marchandises contrôlées. Pour examiner des « marchandises contrôlées », en avoir en sa possession ou en transférer à une autre personne au Canada, une «personne», au Canada , doit être inscrite au Programme ou exemptée de l'inscription. Le programme est administré par TPSGC. L'adresse du site Web du PIMC est la suivante : <a href="http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-f.asp" rel="external">http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-f.asp</a></p>
 <p>Les « marchandises contrôlées » citées ci-dessous apparaissent dans la Liste des marchandises d'exportation contrôlées affichée sur le site du ministère des Affaires étrangères et du Commerce international à l'adresse suivante : <a href="http://www.dfait-maeci.gc.ca/~eicb/export/contentf.htm" rel="external">http://www.dfait-maeci.gc.ca/~eicb/export/contentf.htm</a></p>
 <ul>
@@ -40,9 +40,9 @@
 <strong>Annexe C</strong> - Modèle d'avis concernant le PIMC pour tous les entrepreneurs canadiens liés par un contrat nécessitant la vérification, la possession ou le transfert de « marchandises contrôlées »<br/>
 <strong>Annexe D</strong> - Définitions du PIMC</p>
 <hr/>
-<h3>Annexe A</h3>
-<h4>Programme d'inscription pour les marchandises contrôlées (PIMC)</h4>
-<h4>Questions et réponses</h4>
+<h4>Annexe A</h4>
+<h5>Programme d'inscription pour les marchandises contrôlées (PIMC)</h5>
+<h5>Questions et réponses</h5>
 <p><strong>Q1: Où puis-je trouver de l'information sur le Groupe 5, article 5504?</strong></p>
 <p> R1: Vous trouverez de l'information relative au Groupe 5, article 5504 dans le site Web dont l'adresse est la suivante : </p>
 <p> <a href="http://www.dfait-maeci.gc.ca/~eicb/export/contentf.htm" rel="external">http://www.dfait-maeci.gc.ca/~eicb/export/contentf.htm</a> </p>
@@ -106,18 +106,18 @@
 <p>					-les employés temporaires provenant de pays étrangers;<br/>
 					-les visiteurs provenant de pays étrangers </p>
 <hr/>
-<h3>Annexe B</h3>
-<h4>Clause relative au PIMC pour les nouvelles demandes de soumissions et contrats :</h4>
+<h4>Annexe B</h4>
+<h5>Clause relative au PIMC pour les nouvelles demandes de soumissions et contrats :</h5>
 <p>Le <strong>Programme d'inscription pour les marchandises contrôlées</strong> (PIMC) est entré en vigueur le 30 avril 2001, et il s'applique au présent contrat. Pour qu'une personne ou une entreprise canadienne puisse obtenir des « marchandises contrôlées » dans le cadre du processus de sélection des fournisseurs, elles doivent fournir leur numéro d'inscription au PIMC. L'entrepreneur établi au Canada reconnaît et accepte, qu'en vertu de ce Programme, seules les personnes et les entreprises inscrites ou exemptées sont habilitées à examiner, posséder ou transférer des « marchandises contrôlées » au Canada. Pour de l'information sur la façon de s'inscrire au Programme, consultez l'adresse suivante : <a href="http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-f.asp" rel="external">http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-f.asp</a></p>
 <hr/>
-<h3>Annexe C</h3>
-<h4>Avis à tous les entrepreneurs canadiens avec lesquels un contrat exigeant la vérification, la possession ou le transfert de « marchandises contrôlées » est en vigueur</h4>
+<h4>Annexe C</h4>
+<h5>Avis à tous les entrepreneurs canadiens avec lesquels un contrat exigeant la vérification, la possession ou le transfert de « marchandises contrôlées » est en vigueur</h5>
 <p>En vertu du Chapitre 31 de la <em>Loi sur la production de défense</em> modifiée, les <em>Lois du Canada 2000</em> et le <em>Règlement sur les marchandises contrôlées</em>, le Programme d'inscription pour les «marchandises contrôlées » s'applique au présent contrat. Pour pouvoir exécuter ce contrat, votre entreprise doit être inscrite au PIMC.</p>
 <p>					Pour de l'information sur la façon de s'inscrire au Programme, consulter l'adresse suivante : <a href="http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-f.asp" rel="external">http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-f.asp</a></p>
 <hr/>
-<h3>Annexe D</h3>
-<h4>Programme d'inscription pour les marchandises contrôlées</h4>
-<h4>Définitions</h4>
+<h4>Annexe D</h4>
+<h5>Programme d'inscription pour les marchandises contrôlées</h5>
+<h5>Définitions</h5>
 <p>« <strong>les marchandises contrôlées</strong>» sont définies dans la Liste des marchandises d'exportation contrôlée (LMEC) (une partie du groupe 2, l'article 5504 du groupe 5 et le groupe 6 au complet).</p>
 <p>Conformément à la LMEC, en plus du matériel, qui va de soi dans la plupart des cas, la « technologie » et la « documentation technique » sont considérées comme étant des « marchandises contrôlées », dans certains cas. En d'autres mots, les « marchandises contrôlées » englobent certaines technologies et documentation technique. Afin d'éviter l'utilisation de divers termes qui ont plusieurs significations, tels que « spécifications techniques », « information technique détaillée », « jeu de documents techniques », <strong>il est important d'établir une définition commune de « marchandise contrôlée », qui englobe le matériel et l'information technique connexes, tel qu'indiqué ci-dessous.</strong></p>
 <p><strong>Quelle « technologie » est considérée comme étant une « marchandise contrôlée »?</strong></p>

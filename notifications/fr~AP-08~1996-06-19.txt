@@ -2,14 +2,14 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 19 juin 1996</h2>
-<h3>Nouvelles dispositions de la <em>loi sur les normes d'emploi</em> de l'Ontario</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 19 juin 1996</h3>
+<h4>Nouvelles dispositions de la <em>loi sur les normes d'emploi</em> de l'Ontario</h4>
 <p>1. Un nouvel article, 13.1 de la Loi, s'applique aux employeurs qui, le 31 octobre 1995 ou par la suite, commencent à fournir dans des locaux (de la province de l'Ontario) des services reliés aux immeubles, notamment les services de nettoyage, d'alimentation et de sécurité du bâtiment, que fournissait un autre employeur qu'il remplace.</p>
 <p>2. Ces services sont les mêmes que ceux qui étaient régis aux termes de la Partie XIII.2 de la Loi avant son abrogation du 31 octobre 1995.</p>
 <p>3. Lorsque l'employeur qui succède emploie un employé de l'employeur précédent qui fournissait les services dans les locaux, l'employé sera réputé avoir un service ininterrompu, et toute période d'emploi auprès d'employeurs précédents (en vertu du Projet de loi 40, à partir du 4 juin 1992) sera comptée aux fins de ses droits en vertu de la Loi pour ce qui est des fêtes légales, des congés annuels, de maternité ou parentaux, et des indemnités de cessation d'emploi ou de départ.</p>
@@ -20,12 +20,12 @@
 <p>8. Sur demande, le propriétaire ou le gérant de l'immeuble devra fournir ces renseignements aux soumissionnaires éventuels, ou à l'employeur qui succède.</p>
 <p>9. De tels renseignements ne peuvent servir que pour se conformer à la Loi et ne pourront pas être divulgés sauf comme l'autorise la Loi.</p>
 <p>10. Le texte du Règlement de l'Ontario a été publié dans la Gazette de l'Ontario le 20 avril 1996, numéro de référence 138/96.</p>
-<h2>Description des dispositions du <em>Règlement de l'Ontario 138/96 - règlement relatif aux appels d'offres</em></h2>
-<h3>But :</h3>
+<h3>Description des dispositions du <em>Règlement de l'Ontario 138/96 - règlement relatif aux appels d'offres</em></h3>
+<h4>But :</h4>
 <p>Le Règlement vise à fournir aux soumissionnaires éventuels des marchés de services relatifs aux locaux, notamment les services de nettoyage, d'alimentation ou de sécurité, des renseignements pertinents, nets et précis, nécessaires à determiner leurs obligations relatives à la cessation d'emploi et l'indemnité de départ leur permettant de soumissionner des marchés en connaissance de cause.</p>
-<h3>Contenu du Règlement :</h3>
+<h4>Contenu du Règlement :</h4>
 <p>Le Règlement décrit les dispositions exemptant l'employeur qui succède d'observer la Partie XIV de la Loi (cesssation d'emploi et indemnité de départ), et le type de renseignements que les propriétaires ou gérants d'immeuble pourront obtenir des entrepreneurs actuels et fournir aux soumissionnaires éventuels ou employeurs qui succèdent. Les dispositions du Règlement sont décrites comme suit :</p>
-<h3>Article 1 : Exclusions</h3>
+<h4>Article 1 : Exclusions</h4>
 <p>Les employeurs qui succèdent n'ont pas à verser une indemnité de cessation d'emploi ou de départ aux employés qui n'ont pas de lien important aux locaux, notamment :</p>
 <ul>
 <li>ceux dont les tâches n'étaient pas liées principalement aux locaux dans les 13 semaines précédant la date à laquelle le nouvel employeur a pris la charge;</li>
@@ -33,20 +33,20 @@
 <li>ceux qui n'ont pas travaillé dans les locaux au moins 13 des 26 semaines précédant la prise en charge du nouvel entrepreneur; la période de 26 semaines est prolongée de toute période pendant laquelle les services ont été suspendus temporairement ou pendant laquelle l'employé était en congé de maternité ou parental en vertu de la Partie XI de la Loi.</li>
 </ul>
 <p>Les employeurs qui succèdent n'auront pas également à verser des indemnités de cessation et de départ aux employés qui refusent une offre d'emploi raisonnable. Les termes et conditions d'emploi auprès de l'employeur précédent serviront à établir le caractère raisonnable d'une offre.</p>
-<h3>Article 2 : Renseignements</h3>
+<h4>Article 2 : Renseignements</h4>
 <p>Sur demande, l'entrepreneur actuel doit fournir au propriétaire ou gérant de l'immeuble les renseignements suivants pour chacun des employés qui fournissent des services dans les locaux :</p>
 <ul>
 <li>nom, adresse, numéro de téléphone, classification, salaire, avantages, nombre d'heures/semaine moyen, date d'embauche initiale (y compris toute période d'emploi auprès d'employeurs précédents en vertu de la Loi 40) et le nombre de semaines travaillées dans les 26 semaines (ou plus si les services ont été temporairement suspendus ou si l'employé était en congé (de maternité ou parental) en vertu de la partie XI de la Loi);</li>
 <li>une déclaration indiquant quels employés n'étaient pas employés principalement dans les locaux dans les 13 semaines précédentes ou pendant les 13 semaines les plus récentes d'emploi d'un employé.</li>
 </ul>
-<h3>Article 3 : Transmission des renseignements</h3>
+<h4>Article 3 : Transmission des renseignements</h4>
 <p>Les propriétaires ou gérants d'immeubles doivent fournir les renseignements, excluant les noms, adresses et numéros de téléphone des employés, aux soumissionnaires éventuels sur demande.</p>
 <p>La Loi exige que les propriétaires ou gérants d'immeubles transmettent la liste complète, incluant les noms, adressses et numéros de téléphone, sur demande du soumissionnaire gagnant.</p>
 <p>Un texte révisé pour les clauses K9015C et K9015T du Guide des CCUA est annexé, ainsi qu'un formulaire révisé servant à recueillir l'information. Ce formulaire sera incorporé à la Section 2 du Guide des CCUA lors de la prochaine modification. Les modifications pertinentes seront également incorporées à la prochaine modification du Guide des approvisionnements. (Personne-ressource : Lise Rieger, 819-956-0863.)</p>
-<h2>Annexe A</h2>
-<h3>Clauses</h3>
+<h3>Annexe A</h3>
+<h4>Clauses</h4>
 <p><strong>Remarques</strong> : Utiliser cette clause dans tous les documents de contrat pour lesquels l'information doit être fournie par l'entrepreneur conformément à la législation du travail de l'Ontario pour des services de conciergerie, d'alimentation et de sécurité.</p>
-<h3>K9015C Législation du travail de l'Ontario</h3>
+<h4>K9015C Législation du travail de l'Ontario</h4>
 <p>1. Sans limiter la portée de ce qui précède, l'entrepreneur doit conserver les dossiers de ses employés à jour et, sur demande du Ministre, présenter à ce dernier dans les sept (7) jours de la date de la demande l'information ci-après concernant ses employés, tel que prévu dans le nouvel article 13.1 de la <em>Loi sur les normes d'emploi</em>, alinéa (8) et tel que prescrit dans le Règlement de l'Ontario 138/96 :</p>
 <ol type="a">
 <li>le nom, l'adresse et le numéro de téléphone de chaque employé;</li>
@@ -69,7 +69,7 @@
 <p>4. À l'exception de 1.a), l'information décrite ci-dessus sera fournie par l'autorité contractante aux soumissionnaires éventuels pour un contrat futur pour les services liés aux lieux.</p>
 <hr/>
 <p><strong>Remarques : </strong>Utiliser cette clause dans tous les documents de demande de soumissions quand l'information est fournie aux soumissionnaires conformément aux prescriptions de la législation du travail de l'Ontario pour les contrats de services de conciergerie, de services d'alimentation et de services de sécurité.</p>
-<h3>K9015T Législation du travail de l'Ontario</h3>
+<h4>K9015T Législation du travail de l'Ontario</h4>
 <p>1. Conformément aux dispositions du nouvel article 13.1 alinéa (10) de la <em>Loi sur les normes d'emploi</em>, l'information ci-après relative à chacun des employés de l'employeur précédent fournissant des services sur les lieux est annexée ici :</p>
 <ol type="a">
 <li>la classification ou une description de tâches pour chaque employé;</li>
@@ -93,7 +93,7 @@
 <p>6. Le Canada ne garantit pas que cette information concernant les employés de l'ancien employeur qui assurait les services est exacte ou complète ni ne se considère responsable des pertes ou des dommages qui peuvent résulter de l'utilisation de cette information ou du fait de s'y fier.</p>
 <p>Le présent formulaire devrait servir à recueillir les renseignements devant être fournis par l'entrepreneur en vertu des exigences de la <em>Loi sur les normes d'emploi </em>de l'Ontario pour les services de nettoyage, d'alimentation et de sécurité du bâtiment.</p>
 <hr/>
-<h2>Renseignements sur les employés titulaires d'un poste entreprise</h2>
+<h3>Renseignements sur les employés titulaires d'un poste entreprise</h3>
 <p>Nom : __</p>
 <p>Adresse de l'entreprise : __</p>
 <p>N<sup>o</sup> de téléphone : __</p>
@@ -101,7 +101,7 @@
 <p>Adresse du lieu de travail : __</p>
 <p>N<sup>o</sup> du contrat : __</p>
 <p><em>(Tous les renseignements au paragraphe 1. ci-dessous ne doivent être divulgués qu'à l'entrepreneur retenu)</em></p>
-<h3>1. Employé</h3>
+<h4>1. Employé</h4>
 <p>Nom : __</p>
 <p>Adresse : __</p>
 <p>N<sup>o</sup> de téléphone : __</p>

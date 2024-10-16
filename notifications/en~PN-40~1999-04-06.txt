@@ -9,7 +9,7 @@
 <p><strong><a href="#PN-40nxb">Annex B</a></strong>: Request for Non-Accessioned Disposal</p>
 <p><strong><a href="#PN-40nxc">Annex C</a></strong>: Security Requirements Check List (SRCL)</p>
 <p>The present Policy Notification has been prepared as an interim measure. Related changes to the Supply Manual and the SACC Manual will be incorporated in the next amendment, both to be released in December 1999.</p>
-<h3>Destruction of Sensitive Information</h3>
+<h4>Destruction of Sensitive Information</h4>
 <p><strong>Corporate Security Technical Standard</strong></p>
 <p><strong>SUPPLY MANUAL POLICIES</strong></p>
 <p><strong>A Introduction</strong></p>
@@ -45,7 +45,7 @@
 <li>Verification of the security screening of Contractor personnel can be obtained from CIISD.</li>
 <li>Information is to be destroyed on site, and under no circumstances is the waste material to be sold before it is shredded.</li>
 </ol>
-<h3>PROCEDURES</h3>
+<h4>PROCEDURES</h4>
 <p><strong>Mobile Destruction</strong></p>
 <p>The Regional Manager of Security (or, for the National Capital area, the local security representative) is to be contacted any time mobile shredding is being considered.</p>
 <p>1. No <acronym title="Public Works and Government Services Canada">PWGSC</acronym> classified information or designated Protected "C" information is to be forwarded for destruction outside the department.</p>
@@ -70,7 +70,7 @@
 </ol>
 <p>12. The Certificate for Destruction should be completed by the company. It is to include the date of destruction and signature of the authorized person who witnessed the destruction.</p>
 <p>13. Please have questions directed to the Manager, Corporate Security.</p>
-<h3>SACC MANUAL CLAUSE</h3>
+<h4>SACC MANUAL CLAUSE</h4>
 <p><strong>F2036D (__/__/99) Security Requirements</strong></p>
 <p>1. The attached Security Requirements Check List (SRCL) identifies the security requirements for the destruction of designated information at the Protected A and B levels using approved shredding equipment on the Contractor's premises.</p>
 <p>2. The Contractor shall, at all times during the performance of the Contract, hold a valid Designated Organization Screening (DOS), with approved Document Safeguarding at the level of Protected B, issued or approved by the Canadian &amp; International Industrial Security Division (CIISD) of the Department of Public Works and Government Services Canada.</p>
@@ -81,7 +81,7 @@
 <li>the Security Requirements Check List (SRCL), attached at <strong>Annex C</strong> which includes a Security Guide.</li>
 <li>the Industrial Security Manual (June 1992). <a id="PN-40nxa" name="nxa"></a></li>
 </ol>
-<h3>CLASSIFICATION LEVELS OF SHREDDERS</h3>
+<h4>CLASSIFICATION LEVELS OF SHREDDERS</h4>
 <p>The following lists the classification levels of shredders as defined in the Destruction in the National Interest (DNI) Test Standard. Figures 1 and 2 illustrate these definitions, where Samples 1 and 2 are<strong>actual examples</strong>of<strong>Type II and Type III Shredder chaff</strong>.</p>
 <p><strong>TYPE II</strong></p>
 <p>A single piece of residue shall be no greater than<strong>1.00 mm in width and 14.3 mm in length</strong>, provided there is no more than one complete alphanumeric character from any one line, and no more than one complete alphanumeric character from the one immediately above and below the said line. Consistent with the foregoing, there shall not be more than three (3) complete alphanumeric characters<strong>*</strong>on any one piece of residue.</p>
@@ -104,10 +104,10 @@
 <p></p>
 <p><strong>NOTE: *An alphanumeric character in this standard cannot be smaller than 15 cpi with 6 lpi. Annex B Annex C</strong></p>
 <p> <a id="PN-40nxb" name="nxb"></a></p>
-<h2>Annex B</h2>
+<h3>Annex B</h3>
 <p></p>
 <p> <a id="PN-40nxc" name="nxc"></a></p>
-<h2>Annex C</h2>
+<h3>Annex C</h3>
 <p><strong>1.</strong><br/>
 </p>
 <p><strong>2.</strong><br/>

@@ -2,23 +2,23 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 24 septembre 1996</h2>
-<h3>CLAUSE PORTANT SUR LE RENDEMENT DU FOURNISSEUR</h3>
-<h4>Application de la clause portant sur le rendement du fournisseur</h4>
-<h5>Pouvoir de rejeter une soumission</h5>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 24 septembre 1996</h3>
+<h4>CLAUSE PORTANT SUR LE RENDEMENT DU FOURNISSEUR</h4>
+<h5>Application de la clause portant sur le rendement du fournisseur</h5>
+<h6>Pouvoir de rejeter une soumission</h6>
 <p>Le pouvoir de rejeter une soumission en vertu de la clause sur<br/>
 					le rendement du fournisseur (A9100T) appartient à l'agent<br/>
 					responsable de l'évaluation des soumissions; toutefois,<br/>
 					dans le cas des soumissions qu'on envisage de rejeter conformément<br/>
 					aux alinéas 1d)(2), 1d)(3) ou 1d)(4), ce pouvoir appartient<br/>
 					au directeur général compétent.</p>
-<h5>Avis adressé au soumissionnaire</h5>
+<h6>Avis adressé au soumissionnaire</h6>
 <p>L'avis d'intention de rejeter une soumission conformément à cette clause est transmis par téléphone; l'appel téléphonique<br/>
 					est confirmé par une télécopie ou une lettre;<br/>
 					toutefois, on n'envoie pas d'avis au soumissionnaire exclu au titre<br/>
@@ -28,7 +28,7 @@
 					fournisseur dont la soumission est rejetée est réputé avoir reçu cet avis au moment de l'appel téléphonique.<br/>
 					La personne qui fait l'appel doit noter dans le dossier la date<br/>
 					et l'heure de la communication, ainsi que le nom de son interlocuteur.</p>
-<h5>Teneur de l'avis</h5>
+<h6>Teneur de l'avis</h6>
 <p>L'avis doit faire état des faits et des motifs de la décision<br/>
 					de rejeter la soumission. Par exemple, lorsqu'un fournisseur qui<br/>
 					accuse des retards chroniques, mais qui n'a pas encore été soumis à une MCRF, est exclu d'un marché dans le cadre duquel les délais<br/>
@@ -39,7 +39,7 @@
 					critique des délais à respecter dans le marché à attribuer (les motifs).</p>
 <p>Lorsqu'une soumission est rejetée en vertu de l'alinéa<br/>
 					1c), il suffit d'invoquer la MCRF.</p>
-<h5>Examen</h5>
+<h6>Examen</h6>
 <p>Le soumissionnaire, sauf s'il est exclu en vertu de l'alinéa<br/>
 					1b), peut demander au sous-ministre adjoint, Direction générale du service des approvisionnements, d'examiner la décision<br/>
 					de rejet. La décision de mettre en attente le processus<br/>
@@ -52,7 +52,7 @@
 					la décision est prise, on en fait connaître par écrit<br/>
 					les résultats au soumissionnaire.</p>
 <hr/>
-<h3>A9100T Rendement du fournisseur</h3>
+<h4>A9100T Rendement du fournisseur</h4>
 <p><strong>Remarque</strong> : Cette clause doit être<br/>
 					reproduite dans toues les demandes de soumission en régime<br/>
 					de concurrence.</p>
@@ -123,7 +123,7 @@
 					son point de vue, avant de rendre une décision définitive<br/>
 					sur le rejet de la soumission.</p>
 <hr/>
-<h3>A9100T Rendement du fournisseur</h3>
+<h4>A9100T Rendement du fournisseur</h4>
 <p><strong>Remarque</strong> : Cette clause doit être<br/>
 					reproduite dans toutes les demandes de soumission en régime<br/>
 					de concurrence.</p>

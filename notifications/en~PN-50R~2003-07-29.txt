@@ -14,7 +14,7 @@
 <p>Amendments to the Supply Manual are provided under <strong><a href="#PN-50Rannexa">Annex A</a></strong>, and amendment to the SACC Manual are provided under <strong><a href="#PN-50Rannexb">Annex B</a></strong>.</p>
 <p><strong>Inquiries:</strong></p>
 <p><strong>N/A</strong></p>
-<h2><a id="PN-50Rannexa" name="annexa">Annex A</a></h2>
+<h3><a id="PN-50Rannexa" name="annexa">Annex A</a></h3>
 <p><strong>Amendments to the Supply Manual</strong></p>
 <p><strong>Chapter 5 - Sourcing Strategy</strong></p>
 <p><strong>Federal Contractors Program for Employment Equity</strong></p>
@@ -86,7 +86,7 @@
 <p>8.035 (xx/xx/xx) When it is proposed to award a contract to a contractor subject to the Federal Contractors Program for Employment Equity (FCP-EE) that is estimated over the threshold for soliciting bids (i.e. over $25,000 including all applicable taxes), contracting officers must ensure that the recommended bidder is eligible to receive government contracts.  This can be done either by using the <em>Standard Acquisition Clauses and Conditions</em> (SACC) Manual clause <strong>K2000T</strong> for requirements estimated at $200,000 and over, or <strong>K2002T</strong> for requirements over $25,000 but below $200,000, in conjunction with <strong>K2003C</strong>, or by verifying the proposed contractor's eligibility by consulting the listing of "Ineligible Contractors" on the Publiservice site: <a href="http://publiservice.gc.ca/services/fcp-pcf/index_e.htm" rel="external">http://publiservice.gc.ca/services/fcp-pcf/index_e.htm</a>.  (<strong><em>NOTE: Only federal government employees can access this site</em></strong>).</p>
 <p><em>Information and tools, including Frequently Asked Questions and the Certificate of Commitment (LAB 1168), are available to all departments and contractors on HRDC's Website:</em> <em><a href="http://info.load-otea.hrdc-drhc.gc.ca/workplace_equity/fcp/" rel="external">http://info.load-otea.hrdc-drhc.gc.ca/workplace_equity/fcp/</a>.</em><em> For policy advice and guidance, contact the Workplace Equity Program Advisor directly at 613-953-2961, or the <acronym title="Public Works and Government Services Canada">PWGSC</acronym> policy advisor at 819-956-0863</em>.</p>
 <p>In exceptional circumstances where the only supplier capable of performing a goods and services contract does not conform to the FCP-EE requirements, the matter is to be referred to Senior Management for approval.  Prior consultation with HRDC-Labour should take place to attempt to resolve the issue.</p>
-<h2><a id="PN-50Rannexb" name="annexb">Annex B</a></h2>
+<h3><a id="PN-50Rannexb" name="annexb">Annex B</a></h3>
 <p><strong>AMENDMENTS TO SACC MANUAL</strong></p>
 <p>The following is a new clause to apply to all solicitations <strong>over $25,000 and under $200,000</strong> that requires bidders to certify that they have not been declared "ineligible" by HRDC-Labour, and that if they have been assigned a certificate number in the past, it is still valid. (See <em>Supply Manual</em> procedures <strong>5.131</strong>, 7A.128 and <strong>8.035</strong>).</p>
 <hr/>

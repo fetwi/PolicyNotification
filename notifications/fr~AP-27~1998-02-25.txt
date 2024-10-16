@@ -2,20 +2,20 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 25 février 1998</h2>
-<h3>Introduction:</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 25 février 1998</h3>
+<h4>Introduction:</h4>
 <p>Le présent avis porte sur l'application des nouvelles procédures relatives aux marchés réservés visés par l'ALENA et l'AMP-OMC et assujettis aux ententes sur la revendication territoriale globale, aux accords sur les parcs nationaux ou aux accords de coopération du MDN<sup><a href="#AP-27n_1">(1)</a></sup>. Ces marchés continueront d'être exclus de l'application de l'ALENA et de l'AMP-OMC. Toutefois, il faudra désormais fournir plus de précisions au sujet de l'Entente sur la revendication territoriale applicable dans l'Avis de projet de marché (APM) et dans l'invitation à soumissionner.</p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>Le conseiller juridique du ministère des Affaires étrangères et du Commerce international a conclu qu'il faudra établir des politiques claires en matière de marchés réservés pour que l'administration fédérale puisse s'acquitter de ses obligations en vertu des ententes sur la revendication territoriale et également respecter les obligations du Canada dans le cadre de l'ALENA et de l'AMP-OMC.</p>
-<h3>Politique</h3>
+<h4>Politique</h4>
 <p>D'après cette conclusion, le Secrétariat du Conseil du Trésor (SCT) nous a demandé de mettre en œuvre les procédures décrites ci-après, conformément à son Avis de politique sur les marchés 1997-8. On a mis au point une politique de marchés réservés pour chaque entente sur la revendication territoriale, en fonction des obligations du gouvernement fédéral qui y sont exprimées. Il importe de signaler que l'importance du traitement de faveur accordé aux auteurs des revendications se limite aux obligations du gouvernement fédéral en vertu de l'entente de revendication territoriale pertinente. Cette politique ne vise pas les marchés réservés qui ne sont pas assujettis à l'ALENA ou à l'AMP-OMC en vertu du Programme des marchés réservés pour les entreprises autochtones.</p>
-<h3>Procédures</h3>
+<h4>Procédures</h4>
 <p>1. Se demander si un marché est assujetti à la fois à une entente de revendication territoriale et à l'ALENA et (ou) à l'AMP-OMC.</p>
 <p>2. Si un marché est assujetti à l'ALENA et (ou) à l'AMP-OMC et à au moins une entente de revendication territoriale, la partie du marché à livrer dans la zone visée par l'entente applicable doit, lorsque cela est possible, faire l'objet d'un marché distinct de la partie du marché à livrer en dehors de cette zone.</p>
 <p>3. La partie du marché destinée à être livrée en dehors de la zone visée par l'entente de revendication territoriale continue de faire l'objet d'un marché conformément aux dispositions de l'ALENA ou de l'AMP-OMC, le cas échéant.</p>
@@ -55,10 +55,10 @@
 <p>10. On a mis au point des clauses particulières à intégrer dans les appels d'offres et les contrats ou les offres à commandes qui prévoient ou pourraient prévoir des livraisons à l'intérieur des zones de revendications territoriales globales. Ces clauses, qui sont reproduites à l'annexe 3, sont intégrées dans le Guide des CCUA. La section Remarques de chaque clause en précise l'application.</p>
 <p>11. Les marchés auxquels s'appliquent l'ALENA et l'AMP-OMC doivent être codés en conséquence; les marchés réservés en vertu de cette Politique sur les marchés réservés dans le cadre des revendications territoriales doivent porter le code MRRT et être désignés comme des dérogations au titre des « marchés réservés pour les petites entreprises et les entreprises des minorités ». On modifiera l'Environnement automatisé de l'acheteur (ABE) pour y ajouter deux nouveaux types d'entente, soit les MRRT et les MRRT-ACI. Dans les cas où on retient le même fournisseur dans le cadre des deux appels d'offres, on devra établir des documents contractuels distincts afin de respecter les exigences de codage du système pour les différents types d'entente.</p>
 <p>12. On peut adresser les questions à propos de cette politique à Heather Harrison, Direction de la politique des approvisionnements, au 819-956-0912. </p>
-<h2>Annexe A</h2>
-<h3>Résumé des avantages découlant de l'Avis de politique des marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada</h3>
-<h3>Titre des colonnes</h3>
-<h3>Explications</h3>
+<h3>Annexe A</h3>
+<h4>Résumé des avantages découlant de l'Avis de politique des marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada</h4>
+<h4>Titre des colonnes</h4>
+<h4>Explications</h4>
 <p><strong>Entente - </strong> Cette colonne dresse la liste des ententes de revendications territoriales en vigueur à l'heure actuelle.</p>
 <p><strong>Dispositions des avis -</strong> Dispositions générales relatives aux avis exprimés dans les différentes ententes de revendications territoriales globales. Ces dispositions sont nécessaires pour faire connaître, à tous les groupes revendicateurs, les projets de marchés dans leur zone ou leur région. Lorsqu'un marché est assujetti à une entente de revendication territoriale, on doit reproduire, dans l'APM et dans l'appel d'offres, les dispositions relatives aux avis obligatoires énumérés sous le titre « Invitation à soumissionner ». Les dispositions notées dans la colonne « Le cas échéant » doivent être reproduites s'il y a lieu. On doit en outre reproduire les dispositions des avis énumérées dans la colonne « Établissement d'une liste » lorsqu'on diffuse un APM pour faire connaître l'existence d'une liste qui sera utilisée afin d'informer les fournisseurs au sujet des besoins réels.</p>
 <p><strong>Dispositions générales relatives à l'évaluation -</strong> Liste des dispositions relatives aux conditions préférentielles d'évaluation. On n'utilise ces clauses que lorsque le plan d'acquisition et l'invitation à soumissionner précisent les conditions préférentielles d'évaluation prévues dans les ententes de revendications territoriales pertinentes.</p>
@@ -84,7 +84,7 @@
 <p>Section 8: Accord de cogestion du parc national Tuktut Nogait</p>
 <p>Section 9: Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant l'exploitation et la maintenance du Système d'alerte du Nord</p>
 <p>Section 10: Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant le réaménagement et le nettoyage des sites DEW dans la région de peuplement des Inuvialuit</p>
-<h3>Résumé des avantages découlant de l'Avis de politique sur les marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada</h3>
+<h4>Résumé des avantages découlant de l'Avis de politique sur les marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada</h4>
 <table class="basic fontSize70">
 <tbody><tr>
 <th id="AP-27header1" scope="col">Ententes</th>
@@ -313,11 +313,11 @@
 </tr>
 </tbody></table>
 <p>Remarque <sup>2</sup> : Les dispositions de la Convention définitive des Premières Nations du Conseil des Indiens du Yukon s'appliquent aussi aux marchés assujettis à la Convention définitive de la Première Nation Nacho Nyak Dun, à l'Entente définitive des Premières Nations de Champagne et de Aishihik, à l'Entente définitive du Conseil Tlingit de Teslin, à l'Entente définitive de la Première Nation des Gwitchin de Vuntut, à l'Entente définitive de la Première Nation des Selkirk et à l'Entente définitive de la Première Nation Little des Salmon/Carmacks.</p>
-<h2>Annexe B</h2>
-<h3>Clauses de l'Avis de politique des marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada</h3>
+<h3>Annexe B</h3>
+<h4>Clauses de l'Avis de politique des marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada</h4>
 <p>Les avantages qui s'appliquent à un marché réservé en vertu de la Politique sur les marchés réservés dans le cadre des revendications territoriales (MRRT) doivent être indiqués dans l'Avis de projet de marché (APM) et dans l'appel d'offres. Veuillez consulter le tableau intitulé « Résumé des avantages découlant de l'Avis de politique des marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada » (à l'annexe A) pour connaître les avantages applicables. Les numéros des clauses et le texte correspondant au numéro du tableau sont indiqués ci-après.</p>
-<h2>Convention de la Baie James et du Nord québécois (CBJNQ)</h2>
-<h3>N<sup>o</sup> de référence W0011T au tableau</h3>
+<h3>Convention de la Baie James et du Nord québécois (CBJNQ)</h3>
+<h4>N<sup>o</sup> de référence W0011T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 1 des clauses de la Convention de la Baie James et du Nord québécois (CBJNQ) : 4.3; 28.10.3 b) (ii), (iii); 29.0.31 b) (ii), (iii). »</p>
@@ -341,7 +341,7 @@
 <li>(iii) fixer la date, le lieu et les conditions de soumission des offres afin que les Inuit puissent soumettre leurs offres facilement, individuellement ou en groupe.</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0012T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0012T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 1 des clauses de la Convention de la Baie James et du Nord québécois (CBJNQ) : 8.1; 8.2; 8.3; 8.4; 8.5; 8.6. »</p>
@@ -358,7 +358,7 @@
 <p>8.5 Lorsque le Canada compte demander à plus d'une entreprise qualifiée située dans le territoire de présenter une soumission, il prendra tous les moyens raisonnables pour déterminer si des entreprises inuit sont qualifiées pour exécuter le marché envisagé et demandera à ces dernières de lui présenter une soumission.</p>
 <p>8.6 Dans le cas d'un marché adjugé, il incombe à l'autorité adjudicatrice de s'assurer que le document contractuel renferme des dispositions permettant de s'assurer que les sous-traitants doivent aussi se conformer à l'esprit et aux dispositions particulières énoncées dans le document contractuel.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0013T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0013T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 1 des clauses de la Convention de la Baie James et du Nord québécois (CBJNQ) : 28.10.3 b) (i), (ii), (iii); 29.0.31 b) (i), (ii), (iii). »</p>
@@ -383,7 +383,7 @@
 <li>(iii) fixer la date, le lieu et les conditions de soumission des offres afin que les Inuit puissent soumettre leurs offres facilement, individuellement ou en groupe.</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0014T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0014T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 1 des clauses de la Convention de la Baie James et du Nord québécois (CBJNQ) : 7.1, a), b), c). »</p>
@@ -399,8 +399,8 @@
 <li>b) la création de sièges sociaux, de bureaux d'administration ou d'autres services permanents dans le territoire;</li>
 <li>c) les engagements prévus au marché en ce qui concerne la formation en cours d'emploi et le perfectionnement professionnel à l'intention des Inuit.</li>
 </ul>
-<h2>Convention définitive des Inuvialuit (CDI)</h2>
-<h3>N<sup>o</sup> de référence W0021T au tableau</h3>
+<h3>Convention définitive des Inuvialuit (CDI)</h3>
+<h4>N<sup>o</sup> de référence W0021T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 2 des clauses de la Convention définitive des Inuvialuit (CDI) : 16(8). b), c). »</p>
@@ -414,7 +414,7 @@
 <p>b) aviser les Inuvialuit de tous les contrats gouvernementaux soumis à un appel d'offres, relativement aux activités dans la région désignée et dans les collectivités inuvialuit. Lorsque les Inuvialuit présentent la meilleure offre, compte tenu du prix, de la qualité, des délais et des autres conditions stipulées, le contrat leur est octroyé;</p>
 <p>c) aviser la SID des cas où les contrats d'approvisionnement du gouvernement fédéral en biens et services connexes aux activités menées dans la région désignée sont concédés sans appel d'offres. Si les inuvialuit sont des fournisseurs de bonne foi des biens et services visés, une part raisonnable des contrats leur sera concédée.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0022T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0022T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 2 des clauses de la Convention définitive des Inuvialuit (CDI) : 6.00, a), b), c). »</p>
@@ -431,8 +431,8 @@
 <li>b) la création de bureaux administratifs ou d'autres installations dans la région où sont établis les Inuvialuit;</li>
 <li>c) les engagements contractuels, en ce qui concerne la formation en cours d'emploi connexe ou l'acquisition de compétences pour les Inuvialuit.</li>
 </ul>
-<h2>Entente sur la revendication territoriale globale des Gwich'in (ERTGG)</h2>
-<h3>N<sup>o</sup> de référence W0031T au tableau</h3>
+<h3>Entente sur la revendication territoriale globale des Gwich'in (ERTGG)</h3>
+<h4>N<sup>o</sup> de référence W0031T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 3 de l'Entente sur la revendication territoriale globale des Gwich'in (ERTGG), à l'appendice C : 17.2.1. »</p>
@@ -444,7 +444,7 @@
 <p>Les avantages qui s'appliquent à ce marché sont exprimés dans la section 3 de l'Entente sur la revendication territoriale globale des Gwich'in (ERTGG), à l'appendice C :</p>
 <p>17.2.1 Pour ce qui est des marchés devant être adjugés dans la zone d'exploitation principale, le Canada s'engage à inscrire sur les listes d'entrepreneurs le nom des Gwich'in Tetlit qualifiés qui ont indiqué leur intérêt à conclure des marchés.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0032T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0032T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 3 de l'Entente sur la revendication territoriale globale des Gwich'in (ERTGG), à l'appendice C : 17.2.5. »</p>
@@ -456,7 +456,7 @@
 <p>Les avantages qui s'appliquent à ce marché sont exprimés dans la section 3 de l'Entente sur la revendication territoriale globale des Gwich'in (ERTGG), à l'appendice C :</p>
 <p>17.2.5 Le Canada veille à ce que soient fournis aux Gwich'in Tetlit des conseils sur la manière de participer aux marchés fédéraux, et à ce que les Gwich'in Tetlit et les entreprise appartenant aux Gwich'in Tetlit puissent s'inscrire sur les listes et répertoire utilisés par le Canada en vue de la passation des marchés.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0033T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0033T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 3 de l'Entente sur la revendication territoriale globale des Gwich'in (ERTGG) à la clause: 25.1.0. »</p>
@@ -468,7 +468,7 @@
 <p>Les avantages qui s'appliquent à ce marché sont exprimés dans la section 3 de l'Entente sur la revendication territoriale globale des Gwich'in (ERTGG):</p>
 <p>25.1.10 Les Gwich'in doivent être embauchés en priorité dans les lieux publics, les musées, les projets relatifs aux ressources patrimoniales, les travaux archéologiques et autres établissements et projets analogues dans la région visée par le règlement qui se rapportent à des ressources patrimoniales gwich'in, selon les modalités prévues par l'accord relatif à la zone protégée ou, en l'absence d'un tel accord, par les plans de gestion ou de travail des lieux publics, musées, projets, établissements et travaux dont il est question dans le présent chapitre. Le Conseil tribal des Gwich'in doit être consulté dans le cours de l'élaboration de ces plans.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0034T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0034T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 3 de l'Entente sur la revendication territoriale globale des Gwich'in (ERTGG), à l'appendice C : 9.7.1; 9.7.2; 9.7.5 a), b). »</p>
@@ -486,7 +486,7 @@
 <li>b) un critère concernant les connaissances spéciales ou l'expérience requises à l'égard du lieu historique désigné.</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0035T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0035T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 3 de l'Entente sur la revendication territoriale globale des Gwich'in (ERTGG), à l'appendice C : 11.6.1, a), b); 11.6.2, a), b). »</p>
@@ -505,7 +505,7 @@
 <li>b) Lorsque des terres gwich'in tetlit au Yukon sont attenantes à des terres visées par le règlement de la première nation des Na'Cho N'y'ak Dun, les Gwich'in Tetlit et cette première nation doivent s'entendre sur les modalités du partage des avantages économiques visés à l'alinéa a).</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0036T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0036T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 3 de l'Entente sur la revendication territoriale globale des Gwich'in (ERTGG), à l'appendice C : 13.6.2; 13.6.3; 13.6.6. »</p>
@@ -518,8 +518,8 @@
 <p>13.6.2 Le gouvernement avise par écrit les Gwich'in Tetlit de tout appel d'offres concernant des marchés relatifs à des activités de sylviculture dans la zone d'exploitation principale.</p>
 <p>13.6.3 Les Gwich'in Tetlit doivent se voir offrir en priorité les marchés de durée déterminée proposés par le gouvernement relativement à des activités de sylviculture dans la zone d'exploitation principale.</p>
 <p>13.6.6 Le gouvernement doit inclure à toute offre de marché relatif à des activités de sylviculture dans la zone d'exploitation principale un critère concernant l'embauchage de main-d'uvre gwich'in tetlit.</p>
-<h2>Entente sur la revendication territoriale des Inuit du Nunavut (ERTIN)</h2>
-<h3>N<sup>o</sup> de référence W0041T au tableau</h3>
+<h3>Entente sur la revendication territoriale des Inuit du Nunavut (ERTIN)</h3>
+<h4>N<sup>o</sup> de référence W0041T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 4 des clauses de l'Entente sur les revendications territoriales des Inuit du Nunavut (ERTIN) : 24.5.1; 24.5.2; 24.5.3. »</p>
@@ -533,7 +533,7 @@
 <p>24.5.2 L'entreprise inuit qui s'est déjà vue adjuger un marché de l'État et qui l'a exécuté avec succès doit être sollicitée à l'égard des marchés de nature analogue.</p>
 <p>24.5.3 En l'absence d'appels à la concurrence visant des marchés de l'État, les entreprises inuit qualifiées doivent être traitées équitablement.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0042T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0042T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 4 des clauses de l'Entente sur les revendications territoriales des Inuit du Nunavut (ERTIN) : 24.7.1. »</p>
@@ -545,7 +545,7 @@
 <p>Les avantages qui s'appliquent à ce marché sont exprimés dans la section 4 des clauses de l'Entente sur les revendications territoriales des Inuit du Nunavut (ERTIN) :</p>
 <p>24.7.1 L' Organisation inuit désignée (OID) prépare et tient à jour une liste exhaustive des entreprises inuit. Cette liste fait état de renseignements quant aux produits et services que les entreprises inuit sont en mesure de fournir à l'égard des marchés de l'État. Le gouvernement du Canada et le gouvernement territorial tiennent compte de cette liste dans l'exécution des obligations qui leur incombent en vertu du présent chapitre.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0043T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0043T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 4 des clauses de l'Entente sur les revendications territoriales des Inuit du Nunavut (ERTIN) : 24.6.1, a), b), c). »</p>
@@ -562,7 +562,7 @@
 <li>c) prise d'engagements, dans le cadre du marché, relativement à la formation en cours d'emploi ou au perfectionnement professionnel des Inuit.</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0044T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0044T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 4 des clauses de l'Entente sur les revendications territoriales des Inuit du Nunavut (ERTIN) : 8.4.8, a), b); 8.4.9. »</p>
@@ -579,7 +579,7 @@
 </ul>
 <p>8.4.9 L'OID dispose d'un droit de premier refus relativement à l'exploitation des occasions d'affaires et entreprises visant les parcs de la région du Nunavut qui sont données à contrat. Le gouvernement met à la disposition de l'OID qui en fait la demande tous les rapports et autres éléments d'information qu'il a en sa possession et qui sont utiles aux fins de l'analyse de la faisabilité économique de ces occasions d'affaires et entreprises.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0045T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0045T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 4 des clauses de l'Entente sur les revendications territoriales des Inuit du Nunavut (ERTIN) : 33.6.1, a), b); 33.6.2. »</p>
@@ -595,8 +595,8 @@
 <li>b) il doit veiller à ce que tous les entrepreneurs accordent un traitement préférentiel aux Inuit qualifiés.</li>
 </ul>
 <p>33.6.2 Tous les programmes archéologiques administrés par le gouvernement dans la région du Nunavut doivent respecter, au minimum, les dispositions en matière d'embauchage et de formation prévues au chapitre 23.</p>
-<h2>Accord-cadre définif du Conseil des Indiens du Yukon (ACDCIY)</h2>
-<h3>N<sup>o</sup> de référence W0051T au tableau</h3>
+<h3>Accord-cadre définif du Conseil des Indiens du Yukon (ACDCIY)</h3>
+<h4>N<sup>o</sup> de référence W0051T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5 des clauses de l'Accord-cadre définitif du Conseil des Indiens du Yukon (ACDCIY) : 22.5.1. (i). »</p>
@@ -608,7 +608,7 @@
 <p>Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5 des clauses de l'Accord-cadre définitif du Conseil des Indiens du Yukon (ACDCIY) :</p>
 <p>22.5.1 Lorsqu'il lance un appel d'offres, le Yukon en avise par écrit les premières nations du Yukon qui ont manifesté le désir d'en être informées. Lorsque des listes de soumissionnaires ou d'autres méthodes analogues sont utilisées, le Yukon en avise les premières nations du Yukon qui ont manifesté leur intérêt à conclure des marchés et indiqué leur aptitude à fournir les biens ou services demandés.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0052T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0052T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5 des clauses de l'Accord-cadre définitif du Conseil des Indiens du Yukon (ACDCIY) : 22.5.4; 22.5.8. »</p>
@@ -621,7 +621,7 @@
 <p>22.5.4 Pour les contrats devant être adjugés au Yukon, le Canada s'engage à inscrire sur ses listes d'entrepreneurs les premières nations du Yukon qui possèdent les compétences requises et qui ont manifesté leur intérêt à conclure des marchés.</p>
 <p>22.5.8 Le gouvernement veille à ce que les Indiens du Yukon et les corporations des premières nations du Yukon soient informés de la marche à suivre pour participer pleinement aux marchés gouvernementaux et à ce que ces particuliers et ces entreprises aient l'occasion de s'inscrire sur les listes ou répertoires utilisés par le gouvernement aux fins de la passation des marchés.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0053T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0053T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5 des clauses de l'Accord-cadre définitif du Conseil des Indiens du Yukon (ACDCIY) : 15.7.1; 15.7.2. »</p>
@@ -633,8 +633,8 @@
 <p>Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5 des clauses de l'Accord-cadre définitif du Conseil des Indiens du Yukon (ACDCIY) :</p>
 <p>15.7.1 Lorsque des occasions d'emploi dans l'arpentage des terres visées par le règlement découlent directement de l'application de l'entente définitive conclue par une première nation du Yukon, les parties à cette entente définitive négocient, dans le cadre de cette entente définitive, la participation à ces activités des Indiens du Yukon qui possèdent les compétences ou l'expérience appropriées, ainsi que la définition des compétences et de l'expérience que doivent posséder les candidats.</p>
 <p>15.7.2 Les premières nations du Yukon doivent avoir accès aux possibilités d'affaires et autres avantages économiques liés à l'arpentage des terres visées par le règlement. Tout marché attribué en vue de l'arpentage des terres visées par le règlement doit contenir une condition portant que doivent être considérés en priorité les Indiens du Yukon et les entreprises des premières nations du Yukon possédant les compétences et l'expérience requises pour fournir les services techniques et de soutien nécessaires à l'exécution du marché. La liste des entreprises des premières nations du Yukon et des Indiens intéressés à offrir ce genre de services aux entrepreneurs qui pourraient être chargés de l'arpentage des terres visées par le règlement d'une première nation du Yukon doit accompagner toutes les demandes de propositions. Les propositions des entrepreneurs doivent contenir une preuve documentaire attestant qu'il ont considéré en priorité la candidature des entreprises des premières nations du Yukon et des Indiens du Yukon.</p>
-<h2>Entente définitive de la Première Nation des Nacho Nyak Dun (EDPNNND)</h2>
-<h3>N<sup>o</sup> de référence W0061T au tableau</h3>
+<h3>Entente définitive de la Première Nation des Nacho Nyak Dun (EDPNNND)</h3>
+<h4>N<sup>o</sup> de référence W0061T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.1 des clauses de l'Entente définitive de la Première Nation des Nacho Nyak Dun (EDPNNND) : 13.12.1.1; 13.12.1.2; 13.12.1.5 a), b). »</p>
@@ -652,7 +652,7 @@
 <li>b) un critère concernant les connaissances ou l'expérience spéciales des Nacho Nyak Dun qui sont pertinentes au lieu historique désigné.</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0062T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0062T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.1 des clauses de l'Entente définitive de la Première Nation des Nacho Nyak Dun (EDPNNND) : 15.7.1.1; 15.7.1.2, a). »</p>
@@ -668,7 +668,7 @@
 <li>a) En attendant que soit élaboré le plan des possibilités de développement économique visé à l'article 22.3.1, le gouvernement et la première nation des Nacho Nyak Dun peuvent s'entendre sur la définition des compétences et de l'expérience appropriées à l'arpentage de ces terres.</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0063T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0063T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.1 des clauses de l'Entente définitive de la Première Nation des Nacho Nyak Dun (EDPNNND) : 17.14.2.2; 17.14.2.3; 17.14.2.6. »</p>
@@ -681,8 +681,8 @@
 <p>17.14.2.2 Le gouvernement avise par écrit la première nation des Nacho Nyak Dun de tout appel d'offres concernant des marchés relatifs à des activités sylvicoles dans le territoire traditionnel de cette première nation.</p>
 <p>17.14.2.3 La première nation des Nacho Nyak Dun doit se voir offrir en premier la possibilité de conclure tout marché de durée déterminée proposé par le gouvernement relativement à des activités sylvicoles dans le territoire traditionnel de cette première nation.</p>
 <p>17.14.2.6 Le gouvernement doit assortir toute offre de marché relatif à des activités sylvicoles dans le territoire traditionnel de la première nation des Nacho Nyak Dun d'un critère concernant l'embauchage de Nacho Nyak Dun.</p>
-<h2>Entente définitive des premières nations de Champagne et de Aishihik (EDPNCA)</h2>
-<h3>N<sup>o</sup> de référence W0071T au tableau</h3>
+<h3>Entente définitive des premières nations de Champagne et de Aishihik (EDPNCA)</h3>
+<h4>N<sup>o</sup> de référence W0071T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.2 de l'Entente définitive des premières nations de Champagne et de Aishihik (EDPNCA), au chapitre 10, à l'annexe A : 9.3; 9.3.1; 9.3.2; 9.3.3. »</p>
@@ -697,7 +697,7 @@
 <p>9.3.2 lorsque les premières nations de Champagne et de Aishihik n'acceptent pas le marché offert par le Service canadien des parcs, celui-ci peut procéder à une offre publique du marché, aux conditions précisées dans l'avis donné conformément à l'article 9.3.1;</p>
 <p>9.3.3 si le marché faisant l'objet d'une offre publique n'est pas accepté, le Service canadien des parcs peut offrir à nouveau le marché à de nouvelles conditions, conformément au processus énoncé à l'article 9.3.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0072T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0072T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.2 de l'Entente définitive des premières nations de Champagne et de Aishihik (EDPNCA), au chapitre 10, à l'annexe A : 9.4; 9.4.1; 9.4.2; 9.4.3. »</p>
@@ -712,7 +712,7 @@
 <p>9.4.2 lorsque les premières nations de Champagne et de Aishihik n'acceptent pas l'offre dans les 30 jours, le Service canadien des parcs peut procéder à une offre publique du marché, aux conditions précisées dans l'avis donné conformément à l'article 9.4.1;</p>
 <p>9.4.3 si le marché faisant l'objet d'une offre publique n'est pas accepté, le Service canadien des parcs peut offrir à nouveau le marché à de nouvelles conditions, conformément au processus énoncé à l'article 9.4</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0073T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0073T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.2 de l'Entente définitive des premières nations de Champagne et de Aishihik (EDPNCA), au chapitre 10, à l'annexe A : 13.12.1.1; 13.12.1.2; 13.12.1.5, a), b). »</p>
@@ -730,7 +730,7 @@
 <li>b) un critère concernant les connaissances ou l'expérience spéciales des Indiens de Champagne et de Aishihik qui sont pertinentes au lieu historique désigné.</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0074T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0074T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.2 de l'Entente définitive des premières nations de Champagne et de Aishihik (EDPNCA), au chapitre 10, à l'annexe A : 15.7.1.1; 15.7.1.2, a). »</p>
@@ -746,7 +746,7 @@
 <li>a) En attendant que soit élaboré le plan des possibilités de développement économique visé à l'article 22.3.1, le gouvernement et les premières nations de Champagne et de Aishihik peuvent s'entendre sur la définition des compétences et de l'expérience appropriées à l'arpentage de ces terres.</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0075T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0075T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.2 de l'Entente définitive des premières nations de Champagne et de Aishihik (EDPNCA), au chapitre 10, à l'annexe A : 17.14.2.2; 17.14.2.3; 17.14.2.6. »</p>
@@ -759,8 +759,8 @@
 <p>17.14.2.2 Le gouvernement avise par écrit les premières nations de Champagne et de Aishihik de tout appel d'offres concernant des marchés relatifs à des activités sylvicoles dans le territoire traditionnel de ces premières nations.</p>
 <p>17.14.2.3 Les premières nations de Champagne et de Aishihik doivent se voir offrir en premier la possibilité de conclure tout marché de durée déterminée proposé par le gouvernement relativement à des activités sylvicoles dans le territoire traditionnel de ces premières nations.</p>
 <p>17.14.2.6 Le gouvernement doit assortir toute offre de marché relatif à des activités sylvicoles dans le territoire traditionnel des premières nations de Champagne et de Aishihik d'un critère concernant l'embauchage d'Indiens de Champagne et de Aishihik.</p>
-<h2>Entente définitive du Conseil des Tlingits de Teslin (EDCTT)</h2>
-<h3>N<sup>o</sup> de référence W0081T au tableau</h3>
+<h3>Entente définitive du Conseil des Tlingits de Teslin (EDCTT)</h3>
+<h4>N<sup>o</sup> de référence W0081T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.3 des clauses de l'Entente définitive du Conseil des Tlingits de Teslin (EDCTT) : 13.12.1.1; 13.12.1.2; 13.12.1.5, a), b). »</p>
@@ -778,7 +778,7 @@
 <li>b) un critère concernant les connaissances ou l'expérience spéciales des Tlingits de Teslin qui sont pertinentes au lieu historique désigné.</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0082T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0082T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.3 des clauses de l'Entente définitive du Conseil des Tlingits de Teslin (EDCTT) : 15.7.1.1; 15.7.1.2. »</p>
@@ -791,7 +791,7 @@
 <p>15.7.1.1 Le gouvernement tient compte, dans l'évaluation des offres des propositions et des soumissions relatives à l'arpentage des terres visées par le règlement du conseil des Tlingits de Teslin, de facteurs tels l'embauchage de Tlingits de Teslin ainsi que de leur participation ou de leur avoir dans l'entreprise qui soumet l'offre, la proposition ou la soumission ou dans toute entreprise de sous-traitance de cette dernière.</p>
 <p>15.7.1.2 Le plan mentionné à l'article 22.3.1 et visant à permettre aux Tlingits de Teslin de profiter des possibilités de développement économique doit préciser les compétences et l'expérience appropriées à l'arpentage des terres visées par le règlement du conseil des Tlingits de Teslin.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0083T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0083T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.3 des clauses de l'Entente définitive du Conseil des Tlingits de Teslin (EDCTT) : 17.14.2.2; 17.14.2.3; 17.14.2.6. »</p>
@@ -804,8 +804,8 @@
 <p>17.14.2.2 Le gouvernement avise par écrit le conseil des Tlingits de Teslin de tout appel d'offres concernant des marchés relatifs à des activités sylvicoles dans le territoire traditionnel de ce conseil.</p>
 <p>17.14.2.3 Le conseil des Tlingits de Teslin doit se voir offrir en premier la possibilité de conclure tout marché de durée déterminée proposé par le gouvernement relativement à des activités sylvicoles dans le territoire traditionnel de ce conseil.</p>
 <p>17.14.2.6 Le gouvernement doit assortir toute offre de marché relatif à des activités sylvicoles dans le territoire traditionnel du conseil des Tlingits de Teslin d'un critère concernant l'embauchage de Tlingits de Teslin.</p>
-<h2>Entente définitive de la première nation des Gwich'in de Vuntut (EDPNGV)</h2>
-<h3>N<sup>o</sup> de référence W0091T au tableau</h3>
+<h3>Entente définitive de la première nation des Gwich'in de Vuntut (EDPNGV)</h3>
+<h4>N<sup>o</sup> de référence W0091T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.4 des clauses de l'Entente définitive de la première nation des Gwich'in de Vuntut (EDPNGV), au chapitre 10, à l'annexe A : 9.6; 9.7; 9.7.1; 9.7.2; 9.7.3; 9.7.4. »</p>
@@ -822,7 +822,7 @@
 <p>9.7.3 si la première nation des Gwitchin Vuntut n'exerce pas son droit de premier refus visé à l'article 9.7, le Service canadien des parcs peut procéder à une offre publique du marché, aux conditions précisées dans l'avis donné conformément à l'article 9.7.1;</p>
 <p>9.7.4 si le marché faisant l'objet d'une offre publique n'est pas accepté, le Service canadien des parcs peut offrir à nouveau le marché à de nouvelles conditions, conformément au processus énoncé à l'article 9.7.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0092T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0092T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.4 des clauses de l'Entente définitive de la première nation des Gwich'in de Vuntut (EDPNGV), au chapitre 10, à l'annexe A : 13.12.1.1; 13.12.1.3; 13.12.1.6, a), b). »</p>
@@ -840,7 +840,7 @@
 <li>b) un critère concernant les connaissances ou l'expérience spéciales des Gwitchin Vuntut qui sont pertinentes au lieu historique.</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0093T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0093T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.4 des clauses de l'Entente définitive de la première nation des Gwich'in de Vuntut (EDPNGV), au chapitre 10, à l'annexe A : 15.7.1.1; 15.7.1.2 a). »</p>
@@ -856,7 +856,7 @@
 <li>a) En attendant que soit élaboré le plan des possibilités de développement économique visé à l'article 22.3.1, le gouvernement et la première nation des Gwitchin Vuntut peuvent s'entendre sur la définition des compétences et de l'expérience appropriées à l'arpentage de ces terres.</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0094T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0094T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.4 des clauses de l'Entente définitive de la première nation des Gwich'in de Vuntut (EDPNGV), au chapitre 10, à l'annexe A : 17.14.2.2; 17.14.2.3; 17.14.2.6; 17.14.2.7. »</p>
@@ -871,7 +871,7 @@
 <p>17.14.2.6 Le gouvernement doit assortir toute offre de marché relatif à des activités sylvicoles dans le territoire traditionnel de la première nation des Gwitchin Vuntut d'un critère concernant l'embauchage des Gwitchin Vuntut.</p>
 <p>17.14.2.7 Le gouvernement tient compte, dans l'évaluation des offres, propositions et soumissions relatives à la gestion des ressources forestières du territoire traditionnel de la première nation des Gwitchin Vuntut, de facteurs tels l'embauchage de Gwitchin Vuntut et leur participation ou leur avoir dans l'entreprise qui soumet la proposition, la soumission ou l'offre ou dans toute entreprise de sous-traitance de cette dernière.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0095T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0095T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.4 des clauses de l'Entente définitive de la première nation des Gwich'in de Vuntut (EDPNGV), au chapitre 10, à l'annexe A : 9.8; 9.8.1; 9.8.2. »</p>
@@ -885,8 +885,8 @@
 <p>9.8.1 à la connaissance de la langue, de la culture et de la vie en société des Gwitchin Vuntut, ainsi qu'à la connaissance des traditions qui ont cours sur leur territoire traditionnel;</p>
 <p>9.8.2 au recours aux services professionnels des Gwitchin Vuntut et à des fournisseurs qui sont des Gwitchin Vuntut ainsi qu'à la formation en cours d'emploi ou au perfectionnement professionnel des Gwitchin Vuntut.</p>
 <hr/>
-<h2>Entente définitive de la Première Nation des Selkirk</h2>
-<h3>N<sup>o</sup> de référence W0101T au tableau</h3>
+<h3>Entente définitive de la Première Nation des Selkirk</h3>
+<h4>N<sup>o</sup> de référence W0101T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em> </p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.5 des clauses de l'Entente définitive de la Première Nation des Selkirk (EDPNS) : 13.12.1.1; 13.12.1.2; 13.12.1.3; 13.12.1.7, a), b). »</p>
@@ -905,7 +905,7 @@
 <li>b) un critère concernant les connaissances ou l'expérience spéciales des Indiens de Selkirk qui sont pertinentes au lieu historique désigné.</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0102T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0102T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.5 des clauses de l'Entente définitive de la Première Nation des Selkirk (EDPNS), au chapitre 13, à l'annexe A : 5.1. »</p>
@@ -917,7 +917,7 @@
 <p>Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.5 des clauses de l'Entente définitive de la Première Nation des Selkirk (EDPNS), au chapitre 13, à l'annexe A :</p>
 <p>5.1 La première nation de Selkirk se voit offrir en premier la possibilité de conclure avec le gouvernement et la première nation de Selkirk ou avec l'un d'entre eux des marchés liés au Fort Selkirk et ce, aux mêmes conditions que celles qui seraient offertes à d'autres personnes.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0103T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0103T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.5 des clauses de l'Entente définitive de la Première Nation des Selkirk (EDPNS) : 15.7.1.1; 15.7.1.2. »</p>
@@ -930,7 +930,7 @@
 <p>15.7.1.1 Le gouvernement tient compte, dans l'évaluation des offres, des propositions et des soumissions relatives à l'arpentage des terres visées par le règlement de la première nation de Selkirk, de facteurs tels l'embauchage d'Indiens de Selkirk ainsi que de la participation ou de l'avoir de ceux-ci et de la première nation de Selkirk dans l'entreprise qui soumet l'offre, la proposition ou la soumission ou dans toute entreprise de sous-traitance de cette dernière.</p>
 <p>15.7.1.2 La première nation de Selkirk et le gouvernement veillent à ce que les compétences et l'expérience exigées pour l'embauchage d'Indiens de Selkirk en vue de l'arpentage des terres visées par le règlement de cette première nation soient définies à des niveaux correspondant à la nature des tâches à exécuter dans le cadre d'un tel emploi et fassent entrer en ligne de compte la connaissance que les Indiens de Selkirk ont du milieu local.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0104T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0104T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.5 des clauses de l'Entente définitive de la Première Nation des Selkirk (EDPNS) : 17.14.2.2; 17.14.2.3; 17.14.2.4; 17.14.2.8. »</p>
@@ -944,8 +944,8 @@
 <p>17.14.2.3 Le gouvernement doit inclure la première nation de Selkirk dans tout appel d'offres restreint relativement à la gestion de ressources forestières dans le territoire traditionnel de celle-ci.</p>
 <p>17.14.2.4 Le gouvernement offre d'abord à la première nation de Selkirk la possibilité de conclure un marché offert autrement que par appel d'offres public ou restreint, relativement à des activités sylvicoles dans son territoire traditionnel et ce, aux mêmes conditions que celles qui seraient offertes à d'autres personnes.</p>
 <p>17.14.2.8 Le gouvernement doit assortir toute offre de marché relatif à des activités sylvicoles dans le territoire traditionnel de la première nation de Selkirk d'un critère concernant l'embauchage d'Indiens de Selkirk.</p>
-<h2>Entente définitive de la première nation des Little Salmon/Carmacks (EDPNLSC)</h2>
-<h3>N<sup>o</sup> de référence W0111T au tableau</h3>
+<h3>Entente définitive de la première nation des Little Salmon/Carmacks (EDPNLSC)</h3>
+<h4>N<sup>o</sup> de référence W0111T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.6 des clauses de l'Entente définitive de la première nation des Little Salmon/Carmacks (EDPNLSC) : 13.12.1.1; 13.12.1.2; 13.12.1.3; 13.12.1.7, a), b). »</p>
@@ -964,7 +964,7 @@
 <li>b) un critère concernant les connaissances ou l'expérience spéciales des Indiens de Little Salmon/Carmacks qui sont pertinentes au lieu historique désigné.</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0112T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0112T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.6 des clauses de l'Entente définitive de la première nation des Little Salmon/Carmacks (EDPNLSC) : 15.7.1.1; 15.7.1.2. »</p>
@@ -977,7 +977,7 @@
 <p>15.7.1.1 Le gouvernement tient compte, dans l'évaluation des offres, des propositions et des soumissions relatives à l'arpentage des terres visées par le règlement de la première nation de Little Salmon/Carmacks, de facteurs tels l'embauchage d'Indiens de Little Salmon/Carmacks ainsi que de la participation ou de l'avoir de ceux-ci et de la première nation de Little Salmon/Carmacks dans l'entreprise qui soumet l'offre, la proposition ou la soumission ou dans toute entreprise de sous-traitance de cette dernière.</p>
 <p>15.7.1.2 La première nation de Little Salmon/Carmacks et le gouvernement veillent à ce que les compétences et l'expérience exigées pour l'embauchage d'Indiens de Little Salmon/Carmacks en vue de l'arpentage des terres visées par le règlement de cette première nation soient définies à des niveaux correspondant à la nature des tâches à exécuter dans le cadre d'un tel emploi et fassent entrer en ligne de compte la connaissance que les Indiens de Little Salmon/Carmacks ont du milieu local.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0113T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0113T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 5.6 des clauses de l'Entente définitive de la première nation des Little Salmon/Carmacks (EDPNLSC) : 17.14.2.2; 17.14.2.3; 17.14.2.4; 17.14.2.8. »</p>
@@ -991,8 +991,8 @@
 <p>17.14.2.3 Le gouvernement doit inclure la première nation de Little Salmon/Carmacks dans tout appel d'offres restreint relativement à la gestion de ressources forestières dans le territoire traditionnel de celle-ci.</p>
 <p>17.14.2.4 Le gouvernement offre d'abord à la première nation de Little Salmon/Carmacks la possibilité de conclure un marché offert autrement que par appel d'offres public ou restreint, relativement à des activités sylvicoles dans son territoire traditionnel et ce, aux mêmes conditions que celles qui seraient offertes à d'autres personnes.</p>
 <p>17.14.2.8 Le gouvernement doit assortir toute offre de marché relatif à des activités sylvicoles dans le territoire traditionnel de la première nation de Little Salmon/Carmacks d'un critère concernant l'embauchage d'Indiens de Little Salmon/Carmacks.</p>
-<h2>Entente sur la revendication territoriale globale des Dénés et des Métis du Sahtu (ERTGDMS)</h2>
-<h3>N<sup>o</sup> de référence W0121T au tableau</h3>
+<h3>Entente sur la revendication territoriale globale des Dénés et des Métis du Sahtu (ERTGDMS)</h3>
+<h4>N<sup>o</sup> de référence W0121T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 6 des clauses de l'Entente sur la revendication territoriale globale des Dénés et des Métis du Sahtu (ERTGDMS) : 12.2.1 a), b). »</p>
@@ -1008,7 +1008,7 @@
 <li>b) s'il s'agit du gouvernement des Territoires du Nord-Ouest, il doit appliquer ses politiques, procédures et méthodes de passation préférentielle des marchés en vue de maximiser les possibilités d'affaires et d'emplois, tant à l'échelle locale et régionale que dans le Nord.</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0122T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0122T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 6 des clauses de l'Entente sur la revendication territoriale globale des Dénés et des Métis du Sahtu (ERTGDMS) : 26.2.8. »</p>
@@ -1019,8 +1019,8 @@
 <p><strong>Texte :</strong></p>
 <p>Les avantages qui s'appliquent à ce marché sont exprimés dans la section 6 des clauses de l'Entente sur la revendication territoriale globale des Dénés et des Métis du Sahtu (ERTGDMS) :</p>
 <p>26.2.8 Les participants doivent avoir la priorité d'embauche pour les lieux publics, les musées, les projets relatifs aux ressources patrimoniales, les travaux archéologiques et autres établissements et projets analogues dans la région visée par le règlement qui se rapportent à des ressources patrimoniales du Sahtu, selon les modalités prévues par l'accord relatif à la zone protégée ou, en l'absence d'un tel accord, par les plans de gestion ou de travail des lieux publics, musées, projets, établissements et travaux dont il est question dans le présent chapitre. Le Conseil tribal du Sahtu doit être consulté dans le cours de l'élaboration de ces plans.</p>
-<h2>Convention pour l'établissement d'un parc national sur l'île Banks</h2>
-<h3>N<sup>o</sup> de référence W0131T au tableau</h3>
+<h3>Convention pour l'établissement d'un parc national sur l'île Banks</h3>
+<h4>N<sup>o</sup> de référence W0131T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 7 des clauses de la Convention pour l'établissement d'un parc national sur l'île Banks : 8.02; 8.03, a), b), c), d). »</p>
@@ -1039,7 +1039,7 @@
 <li>d) Dans le cadre d'une partie précise d'un marché plus large, il autorisera les soumissions visant des biens et des services à fournir, afin que des entreprises inuvialuit relativement petites ou spécialisées puissent soumissionner;</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0132T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0132T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 7 des clauses de la Convention pour l'établissement d'un parc national sur l'île Banks : 8.05, a), b), c). »</p>
@@ -1056,7 +1056,7 @@
 <li>c) la création de sièges sociaux, de bureaux d'administration ou d'autres services permanents dans l'Arctique de l'Ouest ou, plus particulièrement, dans la communauté de Sachs Harbour.</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0133T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0133T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 7 des clauses de la Convention pour l'établissement d'un parc national sur l'île Banks : 8.04; 8.06, a), b), c), d), e); 8.07, a), b), c). »</p>
@@ -1082,8 +1082,8 @@
 <li>b) Le processus d'appel d'offres prendra en considération les critères d'évaluation énoncés au paragraphe 8.05 lorsque le marché envisagé concerne le parc.</li>
 <li>c) Lorsqu'il adjugera un marché conformément à l'alinéa (b) ci-dessus, le gouvernement du Canada veillera à ce que le document contractuel renferme des dispositions permettant de s'assurer que les sous-traitants se conforment aussi à l'esprit du document contractuel et aux dispositions particulières qui y sont énoncées.</li>
 </ul>
-<h2>Accord de cogestion du parc national Tuktut Nogait</h2>
-<h3>N<sup>o</sup> de référence W0141T au tableau</h3>
+<h3>Accord de cogestion du parc national Tuktut Nogait</h3>
+<h4>N<sup>o</sup> de référence W0141T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 8 des clauses de l'Accord de cogestion du parc national Tuktut Nogait : 14.2; 14.3, (i), (ii), (iii), (iv), (v). »</p>
@@ -1103,7 +1103,7 @@
 <li>(v) élaborer les contrats de construction de façon que les entreprises inuvialuit plus petites et plus spécialisées soient d'avantage en mesure de soumettre une offre;</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0142T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0142T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 8 des clauses de l'Accord de cogestion du parc national Tuktut Nogait : 14.5, (i), (ii), (iii). »</p>
@@ -1120,7 +1120,7 @@
 <li>(iii) l'emplacement des sièges sociaux, des bureaux administratifs et d'autres installations dans la RRI, notamment à Paulatuk.</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0143T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0143T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 8 des clauses de l'Accord de cogestion du parc national Tuktut Nogait : 14.4; 14.6, (i), (ii), (iii), (iv), (v); 14.7 (i), (ii), (iii). »</p>
@@ -1146,8 +1146,8 @@
 <li>(ii) Lorsque le Canada a l'intention de lancer un appel d'offres à l'égard de marchés de l'État liés au Parc, les critères d'évaluation des offres énoncés au paragraphe 14.5 sont appliqués au cours de l'appel d'offres.</li>
 <li>(iii) Lorsqu'un marché a été attribué conformément aux dispositions de l'alinéa (ii) qui précède, le Canada veille à ce que le document du contrat renferme les conditions nécessaires pour que les sous-traitants soient également assujettis à l'intention et aux dispositions spécifiques du contrat.</li>
 </ul>
-<h2>Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant l'exploitation et la maintenance du Système d'alerte du Nord (SAN)</h2>
-<h3>N<sup>o</sup> de référence W0151T au tableau</h3>
+<h3>Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant l'exploitation et la maintenance du Système d'alerte du Nord (SAN)</h3>
+<h4>N<sup>o</sup> de référence W0151T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 9 de l'Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant l'exploitation et la maintenance du Système d'alerte du Nord (SAN) : 4.2 a), c). »</p>
@@ -1163,7 +1163,7 @@
 <li>c) Quand une importante partie (plus de 50 p. 100) des travaux d'exécution d'un marché doit avoir lieu dans la REI, les entrepreneurs et sous-traitants responsables de l'E&amp;E du SAN commencent par faire un appel d'offres aux entreprises admissibles figurant dans la liste des entreprises inuvialuit fournie par l'IRC en application de l'alinéa 4.2 b) Cette façon de procéder n'empêche nullement les autres entreprises inuvialuit admissibles de soumissionner elles aussi. Parallèlement, les documents d'appel d'offres sont communiqués à l'IRC. Le MDN, TPSGC et ses entrepreneurs responsables de l'E&amp;E ne sont pas blâmés si des entreprises inuvialuit admissibles n'ont pas été invitées à soumissionner parce que leur nom ne figurait pas dans la liste fournie par l'IRC. Les entreprises inuvialuit peuvent être ajoutées ou rayées de la liste selon leur rendement effectif.</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0152T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0152T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 9 de l'Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant l'exploitation et la maintenance du Système d'alerte du Nord (SAN) : 4.0; 4.1. »</p>
@@ -1176,7 +1176,7 @@
 <p>4.0 Conformément aux lois, aux règlements et aux politiques d'achat en vigueur du gouvernement fédéral, les mesures raisonnables d'encouragement suivantes de la participation des Inuvialuit aux marchés de services adjugés dans la REI sont prises.</p>
 <p>4.1 Les mesures raisonnables susmentionnées comprennent l'inclusion de clauses appropriées dans les contrats d'E&amp;E adjugés pour des travaux dans la REI obligeant les entrepreneurs à prendre eux aussi des mesures raisonnables pour encourager la participation des Inuvialuit.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0153T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0153T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 9 de l'Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant l'exploitation et la maintenance du Système d'alerte du Nord (SAN) : 4.3; 4.3.1. »</p>
@@ -1190,7 +1190,7 @@
 <p>4.3.1 Aklak Air a la première possibilité de soumissionner pour tous les marchés de transport de personnel et de marchandises par des aéronefs à voilure fixe pour les vols à partir et à destination de la REI;</p>
 <p>Sauf en cas d'urgence ou quand les opérations d'un ou de plusieurs sites du SAN risqueraient d'être interrompues, il est accordé à ces entreprises au moins dix jours pour présenter une offre, à compter de la date où les documents d'appel d'offres sont rendus publics. Les marchés sont adjugés si les offres répondent aux exigences techniques en fonction des plus bas des deux tarifs suivants, les tarifs publiés ou ceux des meilleurs clients. À l'expiration des marchés en vigueur, leur prorogation ou l'adjudication de nouveaux marchés se fait conformément à ce paragraphe.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0154T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0154T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 9 de l'Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant l'exploitation et la maintenance du Système d'alerte du Nord (SAN) : 4.3; 4.3.2. »</p>
@@ -1204,7 +1204,7 @@
 <p>4.3.2 NTCL a la première possibilité de soumissionner pour tous les marchés de transport d'équipement, de matériaux et de fournitures par bateau et par péniche.</p>
 <p>Sauf en cas d'urgence ou quand les opérations d'un ou de plusieurs sites du SAN risqueraient d'être interrompues, il est accordé à ces entreprises au moins dix jours pour présenter une offre, à compter de la date où les documents d'appel d'offres sont rendus publics. Les marchés sont adjugés si les offres répondent aux exigences techniques en fonction des plus bas des deux tarifs suivants, les tarifs publiés ou ceux des meilleurs clients. À l'expiration des marchés en vigueur, leur prorogation ou l'adjudication de nouveaux marchés se fait conformément à ce paragraphe.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0155T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0155T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 9 de l'Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant l'exploitation et la maintenance du Système d'alerte du Nord (SAN) : 4.3; 4.3.3. »</p>
@@ -1217,7 +1217,7 @@
 <p>4.3 L'entrepreneur ou les sous-traitants responsables de l'E&amp;E du SAN sont tenus d'offrir les possibilités d'affaires suivantes pour la prestation de services associés aux travaux dans la REI.</p>
 <p>4.3.3 Conformément à la CDI, l'entrepreneur responsable de l'E&amp;E du SAN obtient des Inuvialuit le gravier utilisé pour tous les sites situés dans leurs terres (cap Parry, péninsule Nicholson, rivière Horton, baie Liverpool et pointe Keats). Les quantités de gravier nécessaires sont déterminées par l'entrepreneur ou le sous-traitant responsable de l'E&amp;E du SAN. Les Inuvialuit se procurent ces matériaux à l'endroit ou aux endroits les plus proches, conformément aux critères de protection de l'environnement et de minimisation des coûts. Tous les autres contrats de fourniture de gravier sont adjugés par appel d'offres, conformément à l'article 4.2 de la présente entente.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0156T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0156T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 9 de l'Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant l'exploitation et la maintenance du Système d'alerte du Nord (SAN) : 4.3; 4.3.4. »</p>
@@ -1229,8 +1229,8 @@
 <p>Les avantages qui s'appliquent à ce marché sont exprimés dans la section 9 de l'Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant l'exploitation et la maintenance du Système d'alerte du Nord (SAN) :</p>
 <p>4.3 L'entrepreneur ou les sous-traitants responsables de l'E&amp;E du SAN sont tenus d'offrir les possibilités d'affaires suivantes pour la prestation de services associés aux travaux dans la REI.</p>
 <p>4.3.4 À compter d'avril 1985, ou plus tôt si la possibilité se présente, Stanton Distributing a la première possibilité de faire une offre pour tous les marchés de fourniture d'articles d'épicerie et d'aliments ainsi que de services de traiteurs à l'intention des installations de campement temporaire ou permanent dans la REI. Les marchés sont adjugés à condition que Stanton Distributing réponde aux exigences des documents d'appel d'offres et que ses offres soient concurrentielles. Sauf en cas d'urgence, ou quand les opérations d'un ou de plusieurs sites du SAN risquent d'être interrompus, il est accordé à Stanton Distributing au moins dix jours pour présenter une offre, à compter de la date où les documents d'appel d'offres sont rendus publics.</p>
-<h2>Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant le réaménagement et le nettoyage des sites DEW dans la région de peuplement des Inuvialuit</h2>
-<h3>N<sup>o</sup> de référence W0161T au tableau</h3>
+<h3>Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant le réaménagement et le nettoyage des sites DEW dans la région de peuplement des Inuvialuit</h3>
+<h4>N<sup>o</sup> de référence W0161T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 10 de l'Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant le réaménagement et le nettoyage des sites DEW dans la région de peuplement des Inuvialuit : 6.1, b). »</p>
@@ -1245,7 +1245,7 @@
 <li>b) Le MDN inclut dans tous les contrats de services qu'il passe avec un entrepreneur l'obligation pour celui qui veut faire de la sous-traitance ou acheter des biens pour effectuer des travaux l'obligation de commencer par faire un appel d'offres aux entreprises admissibles figurant dans la liste des entreprises inuvialuit mentionnées au paragraphe 5.2. Cette façon de procéder n'empêche nullement les autres entreprises inuvialuit admissibles de soumissionner elles aussi. Parallèlement, les documents d'appel d'offres sont communiqués à l'IRC. Le MDN et ses entrepreneurs ne sont pas blâmés si des entreprises inuvialuit admissibles n'ont pas été invitées à soumissionner parce que leur nom ne figurait pas dans la liste fournie par l'IRC.</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0162T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0162T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 10 de l'Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant le réaménagement et le nettoyage des sites DEW dans la région de peuplement des Inuvialuit : 4.1.a; 5.1; 5.2; 6.1,c). »</p>
@@ -1265,7 +1265,7 @@
 <li>c) Le MDN fixe comme condition dans tous ses marchés de services avec un entrepreneur que si, après un appel d'offres, une ou des entreprises inuvialuit admissibles soumettent une offre concurrentielle respectant les exigences dans les délais précisés dans les documents d'appel d'offres et que l'entrepreneur décide d'adjuger un marché pour le travail en question, le marché est adjugé à une entreprise inuvialuit. Le délai accordé aux entreprises inuvialuit pour préparer une offre tient compte de l'ampleur et de la complexité du travail envisagé dans l'appel d'offres. Dans tous les cas, il n'est pas accordé moins de quinze (15) jours ouvrables pour la présentation des offres, à compter de la date de livraison des documents d'appel d'offres. L'entrepreneur détermine si l'offre est compétitive et répond aux exigences; sa décision n'est pas soumise à la procédure d'arbitrage précisée dans la présente entente. S'il est déterminé qu'une offre contient des différences mineures à cause desquelles elle ne peut être considérée comme théoriquement conforme ou concurrentielle, l'entreprise qui l'a soumise a la possibilité de se faire préciser l'ampleur du travail et de modifier son offre en conséquence, au besoin. Si l'entrepreneur conclut de façon répétée que les offres des Inuvialuit ne répondent pas aux exigences en tentant délibérément de contourner les objectifs de la présente entente, l'IRC peut avoir recours au Comité de révision et, si nécessaire, se prévaloir du paragraphe 4(7) de la présente entente.</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0163T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0163T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 10 de l'Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant le réaménagement et le nettoyage des sites DEW dans la région de peuplement des Inuvialuit : 6.2, a). »</p>
@@ -1280,7 +1280,7 @@
 <li>a) Aklak Air a la première possibilité de soumissionner pour tous les marchés de transport de personnel et de marchandises par des aéronefs à voilure fixe pour les vols à partir et à destination de la REI ou d'Inuvik;</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0164T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0164T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 10 de l'Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant le réaménagement et le nettoyage des sites DEW dans la région de peuplement des Inuvialuit : 6.2, b). »</p>
@@ -1295,7 +1295,7 @@
 <li>b) la coentreprise Inuvialuit Projects Inc./Canadian Helicopters Ltd. a la première possibilité de soumissionner pour tous les marchés de transport de personnel et de marchandises par aéronefs à voilure tournante pour les vols à partir et à destination de la REI ou d'Inuvik;</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0165T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0165T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 10 de l'Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant le réaménagement et le nettoyage des sites DEW dans la région de peuplement des Inuvialuit : 6.2, c). »</p>
@@ -1310,7 +1310,7 @@
 <li>c) NTCL a la première possibilité de soumissionner pour tous les marchés de transport d'équipement, de matériaux et de fournitures par bateau et par péniche;</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0166T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0166T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 10 de l'Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant le réaménagement et le nettoyage des sites DEW dans la région de peuplement des Inuvialuit : 6.2, d). »</p>
@@ -1325,7 +1325,7 @@
 <li>d) Inuvialuit Projects Inc. a la première possibilité de soumissionner pour tous les marchés d'installations de campement requises, en plus des installations de campement appartenant au MDN actuellement situées aux sites du réseau DEW;</li>
 </ul>
 <hr/>
-<h3>N<sup>o</sup> de référence W0167T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0167T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 10 de l'Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant le réaménagement et le nettoyage des sites DEW dans la région de peuplement des Inuvialuit : 6.2, e). »</p>
@@ -1338,7 +1338,7 @@
 <p>6.2 Le MDN fixe comme condition dans tous ses marchés avec un entrepreneur que les possibilités d'affaires particulières pour la fourniture des biens et des services associés aux travaux requis soient fournies par l'intermédiaire de l'entrepreneur ou de ses sous-traitants comme le précise la disposition suivante. L'entrepreneur accorde aux entreprises énumérées ci-dessous le temps nécessaire pour préparer une offre, compte tenu de l'ampleur et de la complexité du travail demandé. Dans tous les cas, il n'est pas accordé moins de quinze (15) jours civils pour la présentation d'une offre à compter de la date de livraison des documents d'appel d'offres. Dans les cas où, par suite d'un appel d'offres pour l'un des services précisés dans la présente disposition, l'entreprise inuvialuit correspondante a présenté une offre techniquement conforme, concurrentielle et fondée sur le moindre des tarifs publiés (le cas échéant) ou des tarifs du meilleur client (le cas échéant) et que l'entrepreneur décide d'adjuger un marché à cet égard, le marché est offert à l'entreprise inuvialuit en question. S'il a été déterminé qu'une offre contient des différences mineures à cause desquelles elle ne peut être considérée comme théoriquement conforme ou concurrentielle, l'entreprise qui l'a soumise a la possibilité de se faire préciser l'ampleur du travail et de modifier son offre en conséquence, au besoin.</p>
 <p>e) Stanton Distributing a la première possibilité de soumissionner pour tous les marchés de fourniture d'articles d'épicerie et d'aliments nécessaires aux installations de campement aménagées pour les travaux.</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0168T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0168T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 10 de l'Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant le réaménagement et le nettoyage des sites DEW dans la région de peuplement des Inuvialuit : 6.3. »</p>
@@ -1350,7 +1350,7 @@
 <p>Les avantages qui s'appliquent à ce marché sont exprimés dans la section 10 de l'Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant le réaménagement et le nettoyage des sites DEW dans la région de peuplement des Inuvialuit :</p>
 <p>6.3 a) Les entrepreneurs et les sous-traitants obtiennent des Inuvialuit le gravier utilisé pour tous les sites situés dans leurs terres. Ce sont les entrepreneurs et les sous-traitants qui déterminent les besoins précis de gravier. Le gravier nécessaire en sus de celui qui a déjà été extrait et utilisé pour d'autres fins (p. ex. pour des pistes d'atterrissage) au moment de la signature de la présente entente est fourni par la Société inuvialuit de développement, conformément à l'Appendice 3. Tous les autres matériaux assimilés sont achetés conformément à la procédure de la clause 6.1</p>
 <hr/>
-<h3>N<sup>o</sup> de référence W0169T au tableau</h3>
+<h4>N<sup>o</sup> de référence W0169T au tableau</h4>
 <p><em>Reproduire la clause A9110T du Guide des CCUA (cf. l'annexe C) au début de la case de texte de l'APM et dans l'appel d'offres.</em></p>
 <p><em>Reproduire la phrase suivante à la fin de la case de texte de l'APM.</em></p>
 <p>« Les avantages qui s'appliquent à ce marché sont exprimés dans la section 10 de l'Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant le réaménagement et le nettoyage des sites DEW dans la région de peuplement des Inuvialuit : 6.4. »</p>
@@ -1361,8 +1361,8 @@
 <p><strong>Texte :</strong></p>
 <p>Les avantages qui s'appliquent à ce marché sont exprimés dans la section 10 de l'Accord de coopération entre l'Inuvialuit Regional Corporation et le ministère de la Défense nationale concernant le réaménagement et le nettoyage des sites DEW dans la région de peuplement des Inuvialuit :</p>
 <p>6.4 a) Sous réserve de l'alinéa 6.4b, le MDN envoie les sols de catégorie II des sites du réseau DEW à un site d'enfouissement situé à l'extérieur de la REI. NTCL fournit les services de transport par bateau et par péniche de ces sols à partir de la péninsule Nicholson, du cap Parry et de la pointe Shingle jusqu'à Hay River, conformément aux barèmes de prix de l'Appendice 4. Les tarifs de transport des sols des sites restants du réseau DEW de la REI sont fixés six mois avant leur transport à partir de là, avec un rabais sur les tarifs publiés comparable à celui consenti pour le transport à partir de la péninsule Nicholson et du cap Parry.</p>
-<h2>Annexe C</h2>
-<h3>Clauses relatives à la Politique sur les marchés réservés dans le cadre des revendications territoriales</h3>
+<h3>Annexe C</h3>
+<h4>Clauses relatives à la Politique sur les marchés réservés dans le cadre des revendications territoriales</h4>
 <p><strong>A9110T (__/__/98) Marchés réservés dans le cadre des revendications territoriales</strong></p>
 <p><strong>Remarques :</strong></p>
 <p>Reproduire intégralement la clause suivante au début du document d'appel d'offres lorsque le marché est réservé dans le cadre de la Politique sur les marchés réservés en vertu des revendications territoriales. Veiller à indiquer, dans cette clause, l'accord commercial pertinent.</p>

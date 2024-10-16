@@ -1,9 +1,9 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>The purpose of this Policy Notification (PN) is to introduce and implement Departmental Plain Language Standard Procurement documents for use by Public Works and Government Services Canada (PWGSC) contracting officers to put in place standing offers for goods or services (excluding construction and architectural and engineering).  These documents include a Request for Standing Offer (RFSO) template, new standard instructions and general conditions.</p>
-<h3>Policy</h3>
+<h4>Policy</h4>
 <p>Effective August 15, 2006, PWGSC contracting officers must use the Departmental Plain Language Standard Procurement documents for the issuance of Standing Offers for goods or services.</p>
 <p>In order to maintain a "common look and feel" for PWGSC's procurement documents, contracting officers must not modify or change the order and content of this standard template except where indicated.</p>
 <p>The new RFSO template and the new standard instructions and general conditions for standing offers are identified in the table below.</p>
@@ -49,15 +49,15 @@
 <td>See SACC Manual  Version 06-2, dated August 15, 2006</td>
 </tr>
 </tbody></table>
-<h3>Implementation</h3>
+<h4>Implementation</h4>
 <p>* Standard Instructions and Conditions - Standing Offers 9403-6 will be deleted in the <em>Standard Acquisition Clauses and Conditions</em> (SACC) Manual. Parts A and B of 9403-6 are replaced by 2006 and 2005 respectively. Part C of 9403-6 is contained in general conditions 2029 and 2010 and the modified general conditions 9601, 9676 and 9624. These documents are included in Annex A to the PN.</p>
 <p> These Departmental Plain Language Standard Procurement documents will be available in the next release of the SACC Manual on 15 August 2006 and on the Plain Language Standard Procurement Website.</p>
-<h3>Next Steps </h3>
+<h4>Next Steps </h4>
 <p>The Plain Language Working Group will review and develop standard procurement documents (e.g. plain language templates, standard instructions and general conditions for bid solicitations and contracts) for higher complexity requirements and supply arrangements.</p>
 <p>Procurement Process Tools Division is responsible for the ongoing maintenance of the Departmental Plain Language Standard Procurement documents.  All modifications to these documents will be published in future updates to the Plain Language Standard Procurement Website and to the SACC Manual.</p>
-<h3>Contact</h3>
+<h4>Contact</h4>
 <p><strong>N/A</strong></p>
-<h3 id="PN-79toptoc">Attachments:</h3>
+<h4 id="PN-79toptoc">Attachments:</h4>
 <ul>
 <li><strong>Annex A</strong></li>
 <li><a href="#PN-79aone"><em>Appendix 1</em> -  2T-PROC2, Procedures for Using the  Request for Standing Offers Template - Goods or Services</a></li>
@@ -69,13 +69,13 @@
 <li><a href="#PN-79aseven"><em>Appendix 7</em> -  Modifications to 9624, General Conditions - Research &amp; Development</a></li>
 <li><a href="#PN-79annexb"><strong>Annex B - Changes to Supply Manual</strong></a></li>
 </ul>
-<h2 id="PN-79aone">APPENDIX 1 TO ANNEX A</h2>
+<h3 id="PN-79aone">APPENDIX 1 TO ANNEX A</h3>
 <div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
-<h3>2T-PROC2 (2006-08-15) Procedures for Using the Request for Standing Offers Template - Goods or Services</h3>
+<h4>2T-PROC2 (2006-08-15) Procedures for Using the Request for Standing Offers Template - Goods or Services</h4>
 <p>The Request for Standing Offers (RFSO), the standard instructions and the general conditions for standing offers were established in consultation with Public Works and Government Services Canada (PWGSC) Legal Services.</p>
 <p>Contracting officers must use the standard documents in accordance with the following procedures:</p>
-<h3>1. 2T-RFSO1, Request for Standing Offers Template - Goods or Services</h3>
+<h4>1. 2T-RFSO1, Request for Standing Offers Template - Goods or Services</h4>
 <p>1.1	Inclusions:</p>
 <ol type="a">
 <li>must be used for standard, well defined requirements for goods, services or both</li>
@@ -152,11 +152,11 @@
 </ol>
 <p>1.9	WAY FORWARD</p>
 <p>An introductory paragraph under the RFSO Part I, Article 1 "Introduction" must be included for all Way Forward requirements.</p>
-<h2 id="PN-79atwo">APPENDIX 2 TO ANNEX A</h2>
+<h3 id="PN-79atwo">APPENDIX 2 TO ANNEX A</h3>
 <div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
-<h3>2006 (2006-08-15) Standard Instructions - Request for Standing Offers - Goods or Services</h3>
-<h3>Public Works and Government Services Canada</h3>
+<h4>2006 (2006-08-15) Standard Instructions - Request for Standing Offers - Goods or Services</h4>
+<h4>Public Works and Government Services Canada</h4>
 <p>General Information</p>
 <ol>
 <li>Procurement Business Number</li>
@@ -175,10 +175,10 @@
 <li>Conduct of Evaluation</li>
 <li>Further Information</li>
 </ol>
-<h3>General Information</h3>
+<h4>General Information</h4>
 <p>One method of supply used by Public Works and Government Services Canada (PWGSC) to satisfy the requirements of departments and agencies is to arrange with suppliers to submit a standing offer to provide goods, services or both during a specified period. Specific departments and agencies are then authorized by PWGSC to make call-ups against the standing offer detailing the exact quantities of goods or level of services they wish to order at a particular time, during the effective period of the standing offer in accordance with the predetermined conditions.</p>
 <p>The process normally starts with a Request for Standing Offer (RFSO) that suppliers may obtain through the Government Electronic Tendering Service (GETS). A RFSO is an invitation to suppliers to provide PWGSC with a standing offer. The quantity of goods, level of services and estimated expenditure specified in the RFSO are only an approximation of requirements given in good faith. A RFSO does not commit PWGSC to authorize the utilization of a standing offer or to procure or contract for any goods, services or both. A standing offer is not a contract. The issuance by PWGSC of a Standing Offer and Call-up Authority (SOCA) to successful suppliers and to departments and agencies authorized to make call-ups does not constitute an agreement by Canada to order any or all of the goods, services or both offered. Departments and agencies may make one or several call-ups against a standing offer. </p>
-<h3>01. Procurement Business Number</h3>
+<h4>01. Procurement Business Number</h4>
 <p>Canadian suppliers are required to have a Procurement Business Number<br/>
 					(PBN) before issuance of a standing offer. Suppliers<br/>
 					may register for a PBN in the Supplier Registration<br/>
@@ -186,9 +186,9 @@
 					may contact the Buy and Sell InfoLine at<br/>
 					1-800-811-1148 to obtain the telephone number of the<br/>
 	nearest Supplier Registration Agent.</p>
-<h3>02. Standard Instructions, Clauses and Conditions</h3>
+<h4>02. Standard Instructions, Clauses and Conditions</h4>
 <p>Pursuant to the <em>Department of Public Works and Government Services Act</em>, S.C. 1996, c.16, the instructions, clauses and conditions identified in the RFSO, standing offer and resulting contract(s) by title, number and date are incorporated by reference into and form part of the RFSO, standing offer and resulting contract(s) as though expressly set out in the RFSO, the standing offer and the resulting contract(s). </p>
-<h3>03. Submission of Offers</h3>
+<h4>03. Submission of Offers</h4>
 <ol>
 <li>Canada requires that each offer be signed by the Offeror or by an authorized representative of the Offeror. If an offer is being submitted by a joint venture, the offer must clearly state that it is submitted as a joint venture and must be signed by all members of the joint venture or a statement must be provided to the effect that the signatory represents all members of the joint venture.</li>
 <li>It is the Offeror's responsibility to:<br/>
@@ -211,9 +211,9 @@
 						Act </em>R.S.C. 1985, c.P-21.</li>
 <li>Except as specifically provided otherwise in the RFSO, Canada will evaluate an offeror's offer only on the documentation provided as part of its offer. Canada will not consider in the evaluation of the offer references to additional information not submitted with the offer, such as website addresses where additional information can be found or technical manuals or brochures not submitted with the offer.</li>
 </ol>
-<h3>04. Late Offers</h3>
+<h4>04. Late Offers</h4>
 <p>PWGSC will return offers delivered after the stipulated RFSO closing date and time, unless they qualify as a delayed offer as described below.</p>
-<h3>05. Delayed Offers</h3>
+<h4>05. Delayed Offers</h4>
 <ol>
 <li>An offer delivered to the specified Bid Receiving Unit after the closing date and time but before the standing offer issuance date may be considered, provided the delay can be proven to have been due solely to a delay in delivery that can be attributed to the Canada Post Corporation (CPC) (or national equivalent of a foreign country). Purolator Inc. is not considered to be part of CPC for the purposes of delayed offers. The only pieces of evidence relating to a delay in the CPC system that are acceptable to PWGSC are:<br/>
 <ol type="a">
@@ -226,7 +226,7 @@
 <li>Misrouting, traffic volume, weather disturbances, labour disputes or any other causes for the late delivery of offers are not acceptable reasons for the offer to be accepted by PWGSC.</li>
 <li>Postage meter imprints, whether imprinted by the Offeror, the CPC or the postal authority outside Canada, are not acceptable as proof of timely mailing.</li>
 </ol>
-<h3>06. Transmission by Facsimile</h3>
+<h4>06. Transmission by Facsimile</h4>
 <ol>
 <li>Unless otherwise instructed in the RFSO, offers may be submitted by facsimile. The only acceptable facsimile number for responses to RFSOs issued by PWGSC headquarters is 819-997-9776. The facsimile number for responses to RFSOs issued by PWGSC regional offices is identified in the RFSO.</li>
 <li>If the Offeror submits an offer by facsimile, Canada will not be responsible for any failure attributable to the transmission or receipt of the faxed offer including, but not limited to, the following:<br/>
@@ -242,11 +242,11 @@
 </li>
 <li>Offers submitted by facsimile will constitute the formal offer of the Offeror and must be submitted in accordance with Section 03, Submission of Offers.  For responses transmitted by facsimile, written confirmation is required within two (2) working days after RFSO closing, unless otherwise specified in the RFSO. All documents confirming offers should bear the word "CONFIRMATION".</li>
 </ol>
-<h3>07. Customs Clearance</h3>
+<h4>07. Customs Clearance</h4>
 <p>It is the responsibility of the Offeror to allow sufficient time to obtain customs clearance, where required, before the RFSO closing date and time. Delays related to the obtaining of customs clearance cannot be construed as "undue delay in the mail" and will not be accepted as a delayed offer under Section 05, Delayed Offers.</p>
-<h3>08. Legal Capacity</h3>
+<h4>08. Legal Capacity</h4>
 <p>The Offeror must have the legal capacity to contract. If the Offeror is a sole proprietorship, a partnership or a corporate body, the Offeror must provide, if requested by the Standing Offer Authority, a statement and any requested supporting documentation indicating the laws under which it is registered or incorporated together with the registered or corporate name and place of business. This also applies to offerors submitting an offer as a joint venture.</p>
-<h3>09. Rights of Canada</h3>
+<h4>09. Rights of Canada</h4>
 <p>Canada reserves the right to:</p>
 <ol type="a">
 <li>reject any or all offers received in response to the RFSO;</li>
@@ -257,7 +257,7 @@
 <li>if no compliant offers are received and the requirement is not substantially modified, re-tender the requirement by inviting only the offerors who submitted an offer to re-submit offers within a period designated by Canada; and,</li>
 <li>negotiate with the sole compliant Offeror to ensure best value to Canada.</li>
 </ol>
-<h3>10.Vendor Performance</h3>
+<h4>10.Vendor Performance</h4>
 <ol>
 <li>Canada may reject an offer where any of the following circumstances is present:<br/>
 <ol type="a">
@@ -276,10 +276,10 @@
 </li>
 <li>Where Canada intends to reject an offer pursuant to a provision of paragraph 1, other than 1(b), the Standing Offer Authority will so inform the Offeror and provide the Offeror ten (10) days within which to make representations, before making a final decision on the offer rejection.</li>
 </ol>
-<h3>11. Communications - Solicitation Period</h3>
+<h4>11. Communications - Solicitation Period</h4>
 <p>To ensure the integrity of the competitive RFSO process, enquiries and other communications regarding the RFSO, must be directed only to the Standing Offer Authority identified in the RFSO. Failure to comply can (for that reason alone) result in the disqualification of the offer.</p>
 <p>To ensure consistency and quality of information provided to offerors, significant enquiries received and the replies to such enquiries will be provided simultaneously to offerors to which the RFSO has been sent, without revealing the sources of the enquiries.</p>
-<h3>12. Price Support</h3>
+<h4>12. Price Support</h4>
 <p>In the event that the Offeror's offer is the sole responsive offer received, the Offeror must provide, on Canada's request, one or more of the following price support if applicable:</p>
 <ol type="a">
 <li>a current published price list indicating the percentage discount available to PWGSC</li>
@@ -288,9 +288,9 @@
 <li>price or rate certifications;</li>
 <li>any other supporting documentation as requested by Canada.</li>
 </ol>
-<h3>13.Offer Costs</h3>
+<h4>13.Offer Costs</h4>
 <p>No payment will be made for costs incurred in the preparation and submission of an offer in response to the RFSO. Costs associated with preparing and submitting an offer as well as any costs incurred by the Offeror associated with the evaluation of the offer, are the sole responsibility of the Offeror.</p>
-<h3>14. Conduct of Evaluation</h3>
+<h4>14. Conduct of Evaluation</h4>
 <p>In conducting its evaluation of the offers, Canada may, but will have no obligation to, do the following:</p>
 <ol type="a">
 <li>seek clarification or verification from offerors regarding any or all information provided by them with respect to the RFSO;</li>
@@ -302,16 +302,16 @@
 <li>interview, at the sole costs of offerors, any offeror and/or any or all of the resources proposed by offerors to fulfill the requirement of the RFSO.</li>
 </ol>
 <p>Offerors will have the number of days specified in the request by the Standing Offer Authority to comply with any request related to any of the above items.  Failure to comply with the request may result in the offer being declared non-responsive.</p>
-<h3>15. Further Information</h3>
+<h4>15. Further Information</h4>
 <ol>
 <li>For further information, offerors may contact the Standing Offer Authority identified in the RFSO</li>
 <li>For RFSOs issued out of PWGSC headquarters, enquiries concerning receipt of offers may be addressed to the Bid Receiving Unit, Procurement Operational Support Division, telephone 819-956-3370. For RFSOs issued out of PWGSC regional offices, enquiries concerning receipt of offers may be addressed to the Standing Offer Authority identified in the RFSO</li>
 </ol>
-<h2 id="PN-79athree">APPENDIX 3 TO ANNEX A</h2>
+<h3 id="PN-79athree">APPENDIX 3 TO ANNEX A</h3>
 <div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
-<h3>2005 00 (2006-08-15) General Conditions - Standing Offer - Goods or Services</h3>
-<h3>Public Works and Government Services Canada</h3>
+<h4>2005 00 (2006-08-15) General Conditions - Standing Offer - Goods or Services</h4>
+<h4>Public Works and Government Services Canada</h4>
 <ol>
 <li>Interpretation</li>
 <li>General</li>
@@ -322,7 +322,7 @@
 <li>Revision</li>
 <li>Disclosure of Information</li>
 </ol>
-<h4>2005 01 (2006-08-15) Interpretation</h4>
+<h5>2005 01 (2006-08-15) Interpretation</h5>
 <p>In the Standing Offer, unless the context otherwise requires:</p>
 <p>"Call-up" means an order issued under the authority of the duly authorized Identified User against a particular standing offer. Communication of a call-up against a standing offer to the Offeror constitutes acceptance of its offer and results in the creation of a contract between Her Majesty the Queen in right of Canada and the Offeror for the goods, services or both described in the Call-up;</p>
 <p>"Canada", "Crown", "Her Majesty" or "the Government" means Her Majesty the Queen in right of Canada as represented by the Minister of Public Works and Government Services and any other person duly authorized to act on behalf of that Minister.</p>
@@ -330,11 +330,11 @@
 <p>"Offeror" means the person or entity whose name appears on the signature page of the Standing Offer and who offers to provide goods,  services or both to Canada under the Standing Offer;</p>
 <p>"Standing Offer" means the written offer from the Offeror, these general conditions, any referenced conditions and clauses, and any other document specified or referred to as forming part of the Standing Offer;</p>
 <p>"Standing Offer Authority" means the person designated as such in the Standing Offer, or by notice to the Offeror, to act as the representative of Canada in the management of the Standing Offer. The Standing Offer Authority will issue a document called "Standing Offer and Call-up Authority" (SOCA) to authorize Identified Users to make Call-ups against the Standing Offer and to notify the Offeror that authority to  make Call-ups against the Standing Offer has been given to Identified Users.</p>
-<h4>2005 02 (2006-08-15) General</h4>
+<h5>2005 02 (2006-08-15) General</h5>
 <p>The Offeror acknowledges that a standing offer is not a contract and that the  issuance of a Standing Offer and Call-up Authority does not oblige or commit Canada to procure or contract for any goods, services or both listed in the Standing Offer. The Offeror understands and agrees that Canada has the right to procure the goods, services or both specified in the Standing Offer by means of any other contract, standing offer or contracting method.</p>
-<h4>2005 03 (2006-08-15) Standard Conditions and Clauses</h4>
+<h5>2005 03 (2006-08-15) Standard Conditions and Clauses</h5>
 <p>Pursuant to the <em>Department of Public Works and Government Services Act</em>, S.C. 1996, c.16, the clauses and conditions identified in the Standing Offer by title, number and date are incorporated by reference into the Standing Offer and form part of any contract resulting from the Standing Offer as though expressly set out in the Standing Offer and resulting Contract.</p>
-<h4>2005 04 (2006-08-15) Offer</h4>
+<h5>2005 04 (2006-08-15) Offer</h5>
 <ol>
 <li>The Offeror offers to  provide and deliver to Canada the goods, services or both described in the Standing Offer, in accordance with the pricing set out in the Standing Offer as and when the Identified User may request such goods, services or both, in accordance with the conditions listed at paragraph 2 below. </li>
 <li>The Offeror understands and agrees that:<br/>
@@ -347,19 +347,19 @@
 </ol>
 </li>
 </ol>
-<h4>2005 05 (2006-08-15) Call-ups</h4>
+<h5>2005 05 (2006-08-15) Call-ups</h5>
 <p>If applicable, Designated Users will use the form specified in the Standing Offer to order goods, services or both. Goods, services or both may also be ordered by other methods such as telephone, facsimile or electronic means.  With the exception of call-ups paid for with a Government of Canada acquisition card (credit card), call-ups made by telephone must be confirmed in writing on the document specified in the Standing Offer.</p>
 <p>Call-ups against the Standing Offer paid for with the Government of Canada acquisition card (credit card) at point of sale must be accorded the same prices and terms and conditions as any other Call-up.</p>
-<h4>2005 06 (2006-08-15) Withdrawal</h4>
+<h5>2005 06 (2006-08-15) Withdrawal</h5>
 <p>In the event that the Offeror wishes to withdraw the Standing Offer after authority to call-up against the Standing Offer has been given, the Offeror must provide no less than thirty (30) days' written notice to the Standing Offer Authority, unless otherwise indicated in the Standing Offer. The thirty (30) days' period will start upon receipt of the notification by the Standing Offer Authority and the withdrawal will be effective at the expiry of that period. The Offeror must fulfill any and all Call-ups which are made before the expiry of that period.</p>
-<h4>2005 07 (2006-08-15) Revision</h4>
+<h5>2005 07 (2006-08-15) Revision</h5>
 <p>The period of the Standing Offer may only be extended, or its usage  increased, by the Standing Offer Authority issuing a revision to the Standing Offer in writing.</p>
-<h4>2005 08 (2006-08-15) Disclosure of Information</h4>
+<h5>2005 08 (2006-08-15) Disclosure of Information</h5>
 <p>The Offeror agrees to the disclosure of its standing offer unit prices or rates by Canada, and further agrees that it will have no right to claim against Canada, the Identified User, their employees, agents or servants, or any of them, in relation to such disclosure.</p>
-<h2 id="PN-79afour">APPENDIX 4 TO ANNEX A</h2>
+<h3 id="PN-79afour">APPENDIX 4 TO ANNEX A</h3>
 <div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
-<h3>2T-RFSO1 (2006-08-15) Request for Standing Offers Template - Goods or Services</h3>
+<h4>2T-RFSO1 (2006-08-15) Request for Standing Offers Template - Goods or Services</h4>
 <div>
 <p><strong>Introduction:</strong></p>
 <p>The Request for Standing Offers (RFSO) Template has been developed for use Department-wide as a generic document and must be used to prepare division-specific or commodity-specific templates and, therefore, contains clauses that will not necessarily apply to every procurement.</p>
@@ -408,13 +408,13 @@
 </tr>
 </tbody></table>
 <p>Modified SACC Manual clauses may include a reference to the clause being "derived from" the relevant SACC Manual clause.  The SACC Manual clause numbers should not appear in the published version of the solicitation. </p>
-<h3>Numbering System:</h3>
+<h4>Numbering System:</h4>
 <p>For the purposes of the template, the main headings are referred to as "articles".  SACC Manual clauses or other approved clauses added to the template under an article will be addressed as "clauses".  Every article in this RFP contains a unique number.  Articles in all parts of the RFSO are numbered 1, .2, etc.  Clauses under the articles in all parts of the RFSO numbered 1.1, 1.2, 2.1, 2.1,etc.</p>
 </div>
-<h4>2T-RFSO1 (2006-08-15) Request for Standing Offers Template  - Goods or Services</h4>
-<h3>TABLE OF CONTENTS</h3>
+<h5>2T-RFSO1 (2006-08-15) Request for Standing Offers Template  - Goods or Services</h5>
+<h4>TABLE OF CONTENTS</h4>
 <p><em>(Add articles to or delete articles from the Table of Contents as applicable)</em></p>
-<h3>PART 1 - GENERAL INFORMATION</h3>
+<h4>PART 1 - GENERAL INFORMATION</h4>
 <ol>
 <li>Introduction</li>
 <li>Summary</li>
@@ -422,26 +422,26 @@
 <li><span>X.</span>  Key Terms <em>(if applicable)</em></li>
 <li><span>X.</span>  Conflict of Interest <em>(if applicable)</em></li>
 </ol>
-<h3>PART 2  -  OFFEROR INSTRUCTIONS</h3>
+<h4>PART 2  -  OFFEROR INSTRUCTIONS</h4>
 <ol>
 <li>Standard Instructions, Clauses and Conditions</li>
 <li>Submission of Offers</li>
 <li>Enquiries - RFSO</li>
 <li>Applicable Laws</li>
 </ol>
-<h3>PART 3 -  OFFER PREPARATION INSTRUCTIONS</h3>
+<h4>PART 3 -  OFFER PREPARATION INSTRUCTIONS</h4>
 <ol>
 <li>Offer Preparation Instructions</li>
 </ol>
-<h3>PART 4 -  EVALUATION PROCEDURES,  BASIS OF SELECTION AND CERTIFICATIONS</h3>
+<h4>PART 4 -  EVALUATION PROCEDURES,  BASIS OF SELECTION AND CERTIFICATIONS</h4>
 <ol>
 <li>Evaluation Procedures</li>
 <li>Basis of Selection</li>
 <li>Security Requirement <em>(if applicable)</em></li>
 <li><span>X.</span>  Certifications <em>(if applicable)</em></li>
 </ol>
-<h3>PART 5 -  STANDING OFFER AND RESULTING CONTRACT CLAUSES</h3>
-<h4>A. STANDING OFFER</h4>
+<h4>PART 5 -  STANDING OFFER AND RESULTING CONTRACT CLAUSES</h4>
+<h5>A. STANDING OFFER</h5>
 <ol>
 <li>Offer</li>
 <li>Security Requirement</li>
@@ -458,7 +458,7 @@
 <li>Applicable Laws</li>
 <li>(...) <em>(if applicable)</em></li>
 </ol>
-<h4>B.	RESULTING CONTRACT CLAUSES</h4>
+<h5>B.	RESULTING CONTRACT CLAUSES</h5>
 <ol>
 <li>Statement of Work <em><strong>OR</strong></em> Requirement <em>(Choose as applicable)</em></li>
 <li>Standard Clauses and Conditions </li>
@@ -467,14 +467,14 @@
 <li>Invoicing Instructions</li>
 <li><em>X.  ... (if applicable)</em></li>
 </ol>
-<h3>List of Annexes: <em>(CHOOSE AND ADD ANNEXES AS APPLICABLE )</em></h3>
+<h4>List of Annexes: <em>(CHOOSE AND ADD ANNEXES AS APPLICABLE )</em></h4>
 <ol class="noBullet">
 <li>Annex <span>"X"</span> Statement of Work <em>OR</em> Requirement <em>(Choose as applicable)</em></li>
 <li>Annex <span>"X"</span> Basis of Payment</li>
 <li>Annex <span>"X"</span> Security Requirements Checklist</li>
 </ol>
-<h2>PART 1 - GENERAL INFORMATION</h2>
-<h3>1. Introduction</h3>
+<h3>PART 1 - GENERAL INFORMATION</h3>
+<h4>1. Introduction</h4>
 <p><strong>Remark to Standing Offer Authority:</strong> Include the first paragraph if the requirement is part of the Way Forward.  Delete if not applicable.</p>
 <p>The Government of Canada has launched a program to improve the way the government does business, with a focus on identifying and implementing innovative ways to deliver  goods and services smarter, faster, and at reduced costs.  The Government is using strategic practices to identify suppliers who offer the best price/quality value proposition to Canada and to accelerate cost savings across commodity areas.  This work is guided by the Government of Canada's principles of transparency; accountability and high ethical conduct in doing business.</p>
 <p>The RFSO Template is divided into five (parts) plus annexes: (i) Part I - General Information; (ii) Part 2 - Offeror Instructions; (iii) Part 3 - Offer Preparation Instructions; (iv) Part 4 - Evaluation Procedures, Basis of Selection and Certifications; (v) Part 5 - A.. Standing Offer and B.  Resulting Contract Clauses; and, the Annexes.</p>
@@ -505,17 +505,17 @@
 <li>To ensure consistency, the Standing Offer Authority should use the same wording to describe the requirement in the Notice of Proposed Procurement (NPP). The NPP should include a notice if the Canadian Content Policy applies to the requirement.</li>
 </ol>
 </div>
-<h3>2. Summary</h3>
+<h4>2. Summary</h4>
 <p><strong>Remark to Standing Offer Authority:</strong> If there is a security requirement, use the  article below. If there is no security requirement, delete this article.</p>
-<h3>3. Security Requirement</h3>
+<h4>3. Security Requirement</h4>
 <p>There is a  security requirement associated with the requirement of the Standing Offer. For additional information, see Part 4 - Evaluation Procedures, Basis of Selection and Certifications and Part 5 - Standing Offer and Resulting Contract Clauses.</p>
 <p><strong>Remark to the Standing Offer Authority:</strong> If applicable, use this article to add definitions of key technical terms.  Do not include definitions of terms that are contained in the general conditions.  If some key technical terms are already contained in the SOW, refer to the SOW rather than repeat the same information and risk errors.</p>
-<h3>X. Key Terms</h3>
+<h4>X. Key Terms</h4>
 <p><strong>Remark to the Standing Offer Authority:</strong> If applicable, use this article when Canada has employed the assistance of private sector contractors in the preparation of a solicitation or statement of work.  Examples of SACC Manual clauses to be modified for use: K2205D, K2210T.  Legal should be consulted for the appropriate clause, as required.</p>
-<h3>X. Conflict of Interest</h3>
-<h2>PART 2 - OFFEROR INSTRUCTIONS</h2>
+<h4>X. Conflict of Interest</h4>
+<h3>PART 2 - OFFEROR INSTRUCTIONS</h3>
 <p><strong>Remark to Standing Offer Authority: </strong> Refer to information in Section 02 of 2006, Standard Instructions - Request for Standing Offers - Goods or Services.</p>
-<h3>1. Standard Instructions, Clauses and Conditions</h3>
+<h4>1. Standard Instructions, Clauses and Conditions</h4>
 <p>All instructions, clauses and conditions identified in the RFSO by title, number and date are set out in the Standard Acquisition Clauses and Conditions Manual issued by Public Works and Government Services Canada (PWGSC).  The Manual is available on the PWGSC Website: <a href="http://sacc.pwgsc.gc.ca/sacc/index-e.jsp" rel="external">http://sacc.pwgsc.gc.ca/sacc/index-e.jsp</a></p>
 <p>Offerors who submit an offer agree to be bound by the instructions, clauses and conditions of the RFSO and accept the terms and conditions of the Standing Offer and Resulting Contract(s).</p>
 <p>2006 _____ <em><strong>(insert date)</strong></em> Standard Instructions - Request for Standing Offers - Goods or Services are incorporated by reference into and form part of the RFSO.</p>
@@ -524,26 +524,26 @@
 <p>Delete: sixty (60) days<br/>
 					Insert: <em>_____ (___)</em> days</p>
 <p><strong>Remark to Standing Offer Authority:</strong> Use SACC Manual clauses for specific instructions not covered by the standard instructions and include by reference, if applicable.  Section "5-M" clauses ending with "T" of the SACC Manual may be added in this part, however, if there is no existing section "5-M" clause to address a specific requirement, clauses from other sections with SACC Manual clause number ending with "T" (ex. AXXXXT, etc.) may be added in this part subject to modification.</p>
-<h4>1.1 SACC Manual Clauses</h4>
+<h5>1.1 SACC Manual Clauses</h5>
 <p><strong>Remark to Standing Offer Authority:</strong> Refer to information in Sections 03 to 08 of 2006, Standard Instructions - Request for Standing Offers - Goods or Services.</p>
-<h3>2. Submission of Offers</h3>
+<h4>2. Submission of Offers</h4>
 <p>Offers must be submitted by the date, time and place indicated on page 1 of the RFSO.</p>
 <p><strong>Remark to Standing Offer Authority:</strong> Use the following paragraph where faxed offers are not acceptable.</p>
 <p>Due to the nature of the solicitation, transmission of offers by facsimile to Public Works and Government Services Canada is not considered to be practical and therefore will not be accepted.</p>
 <p><strong>Remark to Standing Offer Authority:</strong> Use SACC Manual clauses for specific instructions and requirements for the submission of offers not covered by the standard instructions and include by reference, if applicable. Section "5-M" clauses ending with "T" of the SACC Manual may be added in this part, however, if there is no existing section "5-M" clause to address a specific requirement,  clauses from other sections with SACC Manual clause number ending with "T" (ex. AXXXXT, etc.) may be added in this part subject to modification.</p>
-<h4>2.1 SACC Manual Clauses</h4>
+<h5>2.1 SACC Manual Clauses</h5>
 <p><strong>Remark to Standing Offer Authority:</strong> Section "5-M" full text clauses ending with "T" of the SACC Manual may be added in this part, however, if there is no existing section "5-M" clause to address a specific requirement, clauses from other sections with SACC Manual number ending with "T" (ex. AXXXXT, etc.) may be added in this part subject to modification.</p>
-<h4>2.2 .......</h4>
+<h5>2.2 .......</h5>
 <p><strong>Remark to Standing Offer Authority:</strong> Refer to information in Section 11 of 2006, Standard Instructions - Request for Standing Offers - Goods or Services.</p>
-<h3>3. Enquiries - RFSO</h3>
+<h4>3. Enquiries - RFSO</h4>
 <p>All enquiries must be submitted to the Standing Offer Authority at least  (    ) ___ <em><strong>(insert number of calendar days)</strong></em> calendar days before the RFSO closing date.  Enquiries received after that time may not be answered before the RFSO closing date.</p>
 <p><strong>Remark to Standing Offer Authority:</strong> Indicate the laws of which Canadian province or territory Canada proposes to apply to the standing offer and any resulting contract. The offeror, as instructed, will be able to propose a change to the applicable laws in its offer.  For the French version, the word "en" must be added in front of Alberta, Colombie-Britannique, Saskatchewan, Ontario and Nouvelle-Écosse; the word "au" in front of Manitoba, Québec, Nouveau-Brunswick and Yukon, the word "à" in front of Terre-Neuve and l'Ile-du-Prince-Édouard, and the words "dans les" in front of Territoires du Nord Quest.</p>
-<h3>4.Applicable Laws</h3>
+<h4>4.Applicable Laws</h4>
 <p>The Standing Offer and any contract resulting from the Standing Offer must be interpreted and governed by the laws in force in __________. <em>(The Standing Offer Authority must fill in the province or territory.)</em></p>
 <p>The Offeror may, at its discretion, substitute the applicable laws of a Canadian province or territory of its choice without affecting the validity of its offer, by deleting the name of the Canadian province or territory specified and inserting the name of the Canadian province or territory of its choice. If no change is made, it acknowledges that the applicable laws specified are acceptable to the Offeror.</p>
 <p><strong>Remark to Standing Offer Authority:</strong> Refer to information in Sections 03 to 08 of 2006, Standard Instructions - Request for Standing Offers - Goods or Services.</p>
-<h2>PART 3 - OFFER PREPARATION INSTRUCTIONS</h2>
-<h3>1.Offer Preparation Instructions</h3>
+<h3>PART 3 - OFFER PREPARATION INSTRUCTIONS</h3>
+<h4>1.Offer Preparation Instructions</h4>
 <p>Offerors must provide copies of their offers in separately bound sections as follows:</p>
 <p><strong>Section I:</strong> Technical Offer (_______copies)<br/>
 <strong>Section II:</strong> Financial Offer (_______copies)<br/>
@@ -554,12 +554,12 @@
 <li>Use 8.5 x 11 inch bond paper;</li>
 <li>Use a numbering system corresponding to that of the RFSO and Statement of Work</li>
 </ol>
-<h3>Section I:  Technical Offer</h3>
+<h4>Section I:  Technical Offer</h4>
 <p>In its technical offer, the Offeror must demonstrate its understanding of the requirement described in the RFSO, as well as demonstrate how the Offeror will meet the requirements as detailed in Part 4, Article 1.1 Technical Evaluation.</p>
-<h3>Section II:  Financial Offer</h3>
+<h4>Section II:  Financial Offer</h4>
 <p>The Offeror must submit its financial offer in accordance with Annex X - Basis of Payment. The total amount of Goods and Services Tax (GST) or Harmonized Sales Tax (HST) is to be shown separately, if applicable.</p>
 <p><strong>Remarks to Standing Offer Authority:</strong> Use the following clause in full text when it is anticipated that users will make payments for call-ups against the standing offer by Government of Canada Acquisition Card credit card at the point of sale.  Delete if not applicable.</p>
-<h4>Payment by Credit Card</h4>
+<h5>Payment by Credit Card</h5>
 <p>The Offeror is requested to complete the following:</p>
 <ol type="a">
 <li>( )<br/>
@@ -581,15 +581,15 @@
 <p>The Offeror is not obligated to accept payment by credit card.</p>
 <p>Acceptance of credit cards for payment of call-ups will not be considered as an evaluation criterion.</p>
 <p><strong>Remark to Standing Offer Authority:</strong> As applicable, include one of the clauses below in conjunction with Certifications Precedent to Issuance of Standing Offer or the "Certifications with the Offer" under Part 4, Article 4 - Certifications.</p>
-<h3>Section III:  Certification Requirements</h3>
-<h4>Certifications Precedent to Issuance of Standing Offer</h4>
+<h4>Section III:  Certification Requirements</h4>
+<h5>Certifications Precedent to Issuance of Standing Offer</h5>
 <p>In order to be issued a standing offer, the certifications detailed in Part 4 under Certifications Precedent to Issuance of Standing Offer are required. These certifications should normally be submitted with the offer, but may be provided afterwards. Canada may declare an offer non-responsive if the certifications are not submitted or completed when requested. Where Canada intends to reject an offer pursuant to this paragraph, the Standing Offer Authority will so inform the Offeror and provide the Offeror with a time frame within which to meet the requirement. Failure to comply with the request of the Standing Offer Authority and meet the requirement within that time period will render the offer non-responsive.</p>
 <p>Compliance with the certifications the Offeror provides to Canada is subject to verification by Canada during the offer evaluation period (before issuance of standing offer) and after issuance of standing offer. The Standing Offer Authority will have the right to ask for additional information to verify the Offeror's compliance with the certifications before issuance of standing offer. The offer will be declared non-responsive if it is determined that any certification made by the Offeror is untrue, whether made knowingly or unknowingly. Any failure to comply with the certifications or to comply with the request of the Standing Offer Authority for additional information  will also render the offer non-responsive.</p>
 <p><strong>OR</strong></p>
-<h4>Certifications with the Offer</h4>
+<h5>Certifications with the Offer</h5>
 <p>The certifications detailed in Part 4 under Certifications with the Offer  must be completed and submitted with the Offer.</p>
 <p>Compliance with the certifications the Offeror provides to Canada is subject to verification by Canada during the offer evaluation period (before issuance of standing offer) and after issuance of standing offer. The Standing Offer Authority will have the right to ask for additional information to verify the Offeror's compliance with the certifications before issuance of a standing offer. The offer will be declared non-responsive if it is determined that any certification made by the Offeror is untrue, whether made knowingly or unknowingly. Any failure to comply with the certifications or to comply with the request of the Standing Offer Authority for additional information will also render the offer non-responsive.</p>
-<h2>PART 4 - EVALUATION PROCEDURES, BASIS OF SELECTION AND CERTIFICATIONS</h2>
+<h3>PART 4 - EVALUATION PROCEDURES, BASIS OF SELECTION AND CERTIFICATIONS</h3>
 <ol>
 <li>
 <p><strong>Evaluation Procedures</strong></p>
@@ -678,8 +678,8 @@
 </ol>
 </li>
 </ol>
-<h2>PART 5 -  STANDING OFFER AND RESULTING CONTRACT CLAUSES</h2>
-<h3>A. STANDING OFFER</h3>
+<h3>PART 5 -  STANDING OFFER AND RESULTING CONTRACT CLAUSES</h3>
+<h4>A. STANDING OFFER</h4>
 <p><strong>Remark to Standing Offer Authority:</strong> Choose one of the clauses below.</p>
 <ol>
 <li>Offer:<br/>
@@ -821,7 +821,7 @@
 </li>
 <li><strong>(....)</strong></li>
 </ol>
-<h3>B. RESULTING CONTRACT CLAUSES</h3>
+<h4>B. RESULTING CONTRACT CLAUSES</h4>
 <p>The following clauses and conditions apply to and form part of any contract resulting from a call-up against the Standing Offer.</p>
 <p><strong>Remark to Standing Offer Authority:</strong> Choose one of the clauses below.</p>
 <ol>
@@ -906,24 +906,24 @@
 </li>
 <li><strong>(....)</strong></li>
 </ol>
-<h2>Annex <span>X</span></h2>
-<h3>STATEMENT OF WORK<br/>
+<h3>Annex <span>X</span></h3>
+<h4>STATEMENT OF WORK<br/>
 <em>OR</em><br/>
-					REQUIREMENT</h3>
-<h4><em>(Insert as appropriate)</em></h4>
-<h2>Annex <span>X</span></h2>
-<h3>BASIS OF PAYMENT</h3>
-<h4><em>(Insert as appropriate)</em></h4>
-<h2>Annex <span>X</span></h2>
-<h3>SECURITY REQUIREMENTS CHECK LIST</h3>
-<h4><em>(SRCL MUST BE INSERTED, if applicable)</em></h4>
-<h2 id="PN-79afive">APPENDIX 5 TO ANNEX A</h2>
+					REQUIREMENT</h4>
+<h5><em>(Insert as appropriate)</em></h5>
+<h3>Annex <span>X</span></h3>
+<h4>BASIS OF PAYMENT</h4>
+<h5><em>(Insert as appropriate)</em></h5>
+<h3>Annex <span>X</span></h3>
+<h4>SECURITY REQUIREMENTS CHECK LIST</h4>
+<h5><em>(SRCL MUST BE INSERTED, if applicable)</em></h5>
+<h3 id="PN-79afive">APPENDIX 5 TO ANNEX A</h3>
 <div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
-<h3>Modifications to 9601, General Conditions - Long Form</h3>
+<h4>Modifications to 9601, General Conditions - Long Form</h4>
 <p><strong>The following sections have been added.</strong></p>
-<h4>9601	00 (2006-08-15) General Conditions - Long Form</h4>
-<h4>9601	38 (2006-08-15) Taxes</h4>
+<h5>9601	00 (2006-08-15) General Conditions - Long Form</h5>
+<h5>9601	38 (2006-08-15) Taxes</h5>
 <ol>
 <li>Municipal Taxes<br/>
 						Municipal Taxes are not applicable.</li>
@@ -954,24 +954,24 @@
 <p>The estimated Goods and Services Tax (GST) or Harmonized Sales Tax (HST), if applicable, is included in the total estimated cost on page 1 of the Contract.  The GST or HST is not included in the Contract price but will be paid by Canada as provided in the Invoice Submission clause above. The Contractor agrees to remit to Canada Revenue Agency any amounts of GST and HST paid or due.</p>
 </li>
 </ol>
-<h4>9601	39 (2006-08-15) Invoice Submission</h4>
+<h5>9601	39 (2006-08-15) Invoice Submission</h5>
 <p>Invoices must be submitted in the name of the Contractor.  They must show the name and address of the client department, item/reference number, deliverable and/or description of Work, contract serial number, Client Reference Number (CRN), Procurement Business Number (PBN) and financial code(s).  If applicable, the method of shipment together with date, case numbers and part or reference numbers, item, quantity, unit of issue, unit price, and additional charges will be shown on the invoice.  If applicable, fixed time labour rates and level of effort and, the amount invoiced (exclusive of the Goods and Services Tax {GST} or Harmonized Sales Tax {HST} as appropriate), will be shown separately.</p>
 <p>GST or HST, if applicable, will be incorporated into all invoices and shown as a separate item on invoices.  All items that are zero-rated, exempt or to which the GST or HST does not apply, are to be identified as such on all invoices.  Invoices must be submitted for each delivery/shipment and must apply to one contract only.  Each invoice must indicate whether it covers partial or final delivery.</p>
-<h4>9601	40 (2006-08-15) Shipment Documentation</h4>
+<h5>9601	40 (2006-08-15) Shipment Documentation</h5>
 <p>For the shipment of goods, the transportation bill of lading must accompany the original invoice, except for "collect" shipments (if and when stipulated), in which event it must accompany the shipment.  In addition, a packing slip must accompany each shipment, showing item, quantity, part or reference numbers, description of suppliers and contract reference numbers, including the Client Reference Number (CRN) and Procurement Business Number (PBN).  If the goods have been inspected at the Contractor's plant, the signed inspection voucher must be attached to the packing slip normally enclosed in the packing note envelope.</p>
-<h4>9601	41 (2006-08-15) Condition of Material</h4>
+<h5>9601	41 (2006-08-15) Condition of Material</h5>
 <p>Unless otherwise specified elsewhere in the Contract, materiel supplied shall be new and conform to the latest issue of the applicable drawing, specification and/or part number that is in effect on the solicitation closing date.</p>
-<h4>9601	42 (2006-08-15) Transportation Charges</h4>
+<h5>9601	42 (2006-08-15) Transportation Charges</h5>
 <p>If transportation charges are payable by Canada under the terms of the Contract and the Contractor makes the transportation arrangements, shipments must be made by the most direct and economical means consistent with normal shipping practice.  The charges must be shown as a separate item on the invoice.  The federal government's policy of underwriting its own risks precludes payment of insurance or valuation charges for transportation beyond the point at which title of goods passes to the federal government (determined by the FOB point or Incoterms).  Where increased carrier liability is available without charge, the Contractor must obtain the increased liability for shipment.</p>
-<h4>9601	43 (2006-08-15) Shipment into Canada</h4>
+<h5>9601	43 (2006-08-15) Shipment into Canada</h5>
 <p>Goods shipped into Canada from another country are to be consigned to destination, in bond, unless otherwise directed.</p>
-<h2 id="PN-79asix">APPENDIX 6 TO ANNEX A</h2>
+<h3 id="PN-79asix">APPENDIX 6 TO ANNEX A</h3>
 <div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
-<h3>Modifications to 9676, General Conditions - Services</h3>
+<h4>Modifications to 9676, General Conditions - Services</h4>
 <p><strong>The following sections have been added.</strong></p>
-<h4>9676	00 (2008-08-15) General Conditions - Services</h4>
-<h4>9676	35 (2006-08-15) Taxes</h4>
+<h5>9676	00 (2008-08-15) General Conditions - Services</h5>
+<h5>9676	35 (2006-08-15) Taxes</h5>
 <ol>
 <li>Municipal Taxes <br/>
 						Municipal Taxes are not applicable.</li>
@@ -1000,16 +1000,16 @@
 <p>The estimated Goods and Services Tax (GST) or Harmonized Sales Tax (HST), if applicable, is included in the total estimated cost on page 1 of the Contract.  The GST or HST is not included in the Contract price but will be paid by Canada as provided in the Invoice Submission clause above. The Contractor agrees to remit to Canada Revenue Agency any amounts of GST and HST paid or due.</p>
 </li>
 </ol>
-<h4>9676	36 (2008-08-15) Invoice Submission</h4>
+<h5>9676	36 (2008-08-15) Invoice Submission</h5>
 <p>Invoices must be submitted in the name of the Contractor.  They must show the name and address of the client department, item/reference number, deliverable and/or description of Work, contract serial number, Client Reference Number (CRN), Procurement Business Number (PBN) and financial code(s).  If applicable, the method of shipment together with date, case numbers and part or reference numbers, item, quantity, unit of issue, unit price, and additional charges will be shown on the invoice.  If applicable, fixed time labour rates and level of effort and, the amount invoiced (exclusive of the Goods and Services Tax {GST} or Harmonized Sales Tax {HST} as appropriate), will be shown separately.</p>
 <p>GST or HST, if applicable, will be incorporated into all invoices and shown as a separate item on invoices.  All items that are zero-rated, exempt or to which the GST or HST does not apply, are to be identified as such on all invoices.  Invoices must be submitted for each delivery/shipment and must apply to one contract only.  Each invoice must indicate whether it covers partial or final delivery.</p>
-<h2 id="PN-79aseven">APPENDIX 7 TO ANNEX A</h2>
+<h3 id="PN-79aseven">APPENDIX 7 TO ANNEX A</h3>
 <div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
-<h3>Modifications to 9624, General Conditions - Research &amp; Development</h3>
+<h4>Modifications to 9624, General Conditions - Research &amp; Development</h4>
 <p><strong>The following sections have been added.</strong></p>
-<h4>9624	00 (2008-08-15) General Conditions - Research &amp; Development</h4>
-<h4>962	45 (2008-08-15) Taxes</h4>
+<h5>9624	00 (2008-08-15) General Conditions - Research &amp; Development</h5>
+<h5>962	45 (2008-08-15) Taxes</h5>
 <ol>
 <li>Municipal Taxes <br/>
 						Municipal Taxes are not applicable</li>
@@ -1040,23 +1040,23 @@
 <p>The estimated Goods and Services Tax (GST) or Harmonized Sales Tax (HST), if applicable, is included in the total estimated cost on page 1 of the Contract.  The GST or HST is not included in the Contract price but will be paid by Canada as provided in the Invoice Submission clause above. The Contractor agrees to remit to Canada Revenue Agency any amounts of GST and HST paid or due.</p>
 </li>
 </ol>
-<h4>9624	46 (2006-08-15) Invoice Submission</h4>
+<h5>9624	46 (2006-08-15) Invoice Submission</h5>
 <p>Invoices must be submitted in the name of the Contractor.  They must show the name and address of the client department, item/reference number, deliverable and/or description of Work, contract serial number, Client Reference Number (CRN), Procurement Business Number (PBN) and financial code(s).  If applicable, the method of shipment together with date, case numbers and part or reference numbers, item, quantity, unit of issue, unit price, and additional charges will be shown on the invoice.  If applicable, fixed time labour rates and level of effort and, the amount invoiced (exclusive of the Goods and Services Tax {GST} or Harmonized Sales Tax {HST} as appropriate), will be shown separately.</p>
 <p>GST or HST, if applicable, will be incorporated into all invoices and shown as a separate item on invoices.  All items that are zero-rated, exempt or to which the GST or HST does not apply, are to be identified as such on all invoices.  Invoices must be submitted for each delivery/shipment and must apply to one contract only.  Each invoice must indicate whether it covers partial or final delivery.</p>
-<h4>9624	47 (2006-08-15) Shipment Documentation</h4>
+<h5>9624	47 (2006-08-15) Shipment Documentation</h5>
 <p>For the shipment of goods, the transportation bill of lading must accompany the original invoice, except for "collect" shipments (if and when stipulated), in which event it must accompany the shipment.  In addition, a packing slip must accompany each shipment, showing item, quantity, part or reference numbers, description of suppliers and contract reference numbers, including the Client Reference Number (CRN) and Procurement Business Number (PBN).  If the goods have been inspected at the Contractor's plant, the signed inspection voucher must be attached to the packing slip normally enclosed in the packing note envelope.</p>
-<h4>9624	48 (2006-08-15) Condition of Material</h4>
+<h5>9624	48 (2006-08-15) Condition of Material</h5>
 <p>Unless otherwise specified elsewhere in the Contract, materiel supplied shall be new and conform to the latest issue of the applicable drawing, specification and/or part number that is in effect on the solicitation closing date.</p>
-<h4>9624	49 (2006-08-15) Transportation Charges</h4>
+<h5>9624	49 (2006-08-15) Transportation Charges</h5>
 <p>If transportation charges are payable by Canada under the terms of the Contract and the Contractor makes the transportation arrangements, shipments must be made by the most direct and economical means consistent with normal shipping practice.  The charges must be shown as a separate item on the invoice.  The federal government's policy of underwriting its own risks precludes payment of insurance or valuation charges for transportation beyond the point at which title of goods passes to the federal government (determined by the FOB point or Incoterms).  Where increased carrier liability is available without charge, the Contractor must obtain the increased liability for shipment.</p>
-<h4>9624	50 (2006-08-15) Shipment into Canada</h4>
+<h5>9624	50 (2006-08-15) Shipment into Canada</h5>
 <p>Goods shipped into Canada from another country are to be consigned to destination, in bond, unless otherwise directed.</p>
-<h2 id="PN-79annexb">Changes to Supply Manual</h2>
+<h3 id="PN-79annexb">Changes to Supply Manual</h3>
 <div class="topPage"><a href="#PN-79tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
-<h3>Chapter 6 - Developing the Procurement Strategy</h3>
-<h4>Section 6E - Process</h4>
-<h4>Departmental Plain Language Standard Procurement Documents</h4>
+<h4>Chapter 6 - Developing the Procurement Strategy</h4>
+<h5>Section 6E - Process</h5>
+<h5>Departmental Plain Language Standard Procurement Documents</h5>
 <dl>
 <dt>6E.643</dt>
 <dd>(2006-08-15) Public Works and Government Services Canada (PWGSC) has implemented Departmental Plain Language Standard Procurement documents which includes new standard instructions, general conditions and templates for use by its contracting officers for the procurement of goods, services or both (excluding construction and architectural and engineering requirements).

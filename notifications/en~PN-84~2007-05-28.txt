@@ -1,7 +1,7 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Purpose</h2>
+<h3>Purpose</h3>
 <p>The purpose of this policy notification (PN) 84 is to modify the templates to eliminate a mandatory requirement related to the submission of bids; modify/incorporate articles/clauses as applicable; and modify the article "Priority of Documents" under Part 6A of the Standing Offer template.</p>
 <p>These modifications are detailed in:</p>
 <ol>

@@ -9,9 +9,9 @@
 <p>The revisions will be incorporated into the next Supply Manual amendment, to be released 24 May 2002.  The changes will be incorporated into the next SACC manual, to be released 24 May 2002.</p>
 <p>Any questions on the application of the Canadian Content Policy should be directed to the Strategic Policy Directorate (SPD), at telephone number 819-956-6497.</p>
 <hr/>
-<h2>SACC MANUAL</h2>
+<h3>SACC MANUAL</h3>
 <hr/>
-<h3>K4001T (XX/XX/XX) Canadian Content Certification - Mandatory With Bid - Solely Limited - Single Item or Aggregate Basis</h3>
+<h4>K4001T (XX/XX/XX) Canadian Content Certification - Mandatory With Bid - Solely Limited - Single Item or Aggregate Basis</h4>
 <p><strong>Remarks:</strong></p>
 <p>Use the following clause in all competitive bid solicitations in which the Canadian Content policy is applicable (see Supply Manual), where competition is being solely limited to bids offering Canadian Goods and/or Services and where it is <strong>mandatory</strong> that bidders submit a certification with their bid. This clause is to be used for single item requirements and multi-item requirements that are being certified on an aggregate basis.</p>
 <p>This clause must be used in conjunction with clause K4000D, Canadian Content Definition.</p>
@@ -26,7 +26,7 @@
 <p>___________________<br/>
 				Date</p>
 <hr/>
-<h3>K4003T (XX/XX/XX) Canadian Content Certification - Mandatory With Bid - Solely Limited - Multi-Item Requirements Listed in Bid</h3>
+<h4>K4003T (XX/XX/XX) Canadian Content Certification - Mandatory With Bid - Solely Limited - Multi-Item Requirements Listed in Bid</h4>
 <p><strong>Remarks:</strong></p>
 <p>Use the following clause in all competitive bid solicitations in which the Canadian Content policy is applicable (see Supply Manual), where competition is being solely limited to bids offering Canadian Goods and/or Services and where it is <strong>mandatory</strong> that bidders submit a certification with their bid. This clause is to be used for multi-item requirements that are being certified on an individual item basis and where the bidder will be required to indicate beside each item, listed in the bid, whether the item is Canadian.</p>
 <p>This clause must be used in conjunction with clause K4000D, Canadian Content Definition.</p>
@@ -42,7 +42,7 @@
 <p>___________________<br/>
 				Date</p>
 <hr/>
-<h3>K4004T (XX/XX/XX) Canadian Content Certification - Mandatory With Bid - Solely Limited - Multi-Item Requirements Listed in Clause</h3>
+<h4>K4004T (XX/XX/XX) Canadian Content Certification - Mandatory With Bid - Solely Limited - Multi-Item Requirements Listed in Clause</h4>
 <p>Remarks:</p>
 <p>Use the following clause in all competitive bid solicitations in which the Canadian Content policy is applicable (see Supply Manual), where competition is being solely limited to bids offering Canadian Goods and/or Services and where it is <strong>mandatory</strong> that bidders submit a certification with their bid. This clause is to be used for multi-item requirements that are being certified on an individual item basis and where the bidder is to list in the clause those items in its bid that are to be considered Canadian.</p>
 <p>This clause must be used in conjunction with clause K4000D, Canadian Content Definition.</p>
@@ -62,7 +62,7 @@
 <p>___________________<br/>
 				Date</p>
 <hr/>
-<h3>K4011T (XX/XX/XX) Canadian Content Certification - Not Mandatory With Bid - Solely Limited - Single Item or Aggregate Basis</h3>
+<h4>K4011T (XX/XX/XX) Canadian Content Certification - Not Mandatory With Bid - Solely Limited - Single Item or Aggregate Basis</h4>
 <p><strong>Remarks:</strong></p>
 <p>Use the following clause in all competitive bid solicitations in which the Canadian Content policy is applicable (see Supply Manual), where competition is being solely limited to bids offering Canadian Goods and/or Services and where it is <strong>not mandatory</strong> that bidders submit a certification with their bid. This clause is to be used for single item requirements and multi-item requirements that are being certified on an aggregate basis.</p>
 <p>This clause must be used in conjunction with clause K4000D, Canadian Content Definition.</p>
@@ -77,7 +77,7 @@
 <p>___________________<br/>
 				Date</p>
 <hr/>
-<h3>K4013T (XX/XX/XX) Canadian Content Certification - Not Mandatory With Bid - Solely Limited - Multi-Item Requirements Listed in Bid</h3>
+<h4>K4013T (XX/XX/XX) Canadian Content Certification - Not Mandatory With Bid - Solely Limited - Multi-Item Requirements Listed in Bid</h4>
 <p><strong>Remarks:</strong></p>
 <p>Use the following clause in all competitive bid solicitations in which the Canadian Content policy is applicable (see Supply Manual), where competition is being solely limited to bids offering Canadian Goods and/or Services and where it is <strong>not mandatory</strong> that bidders submit a certification with their bid. This clause is to be used for multi-item requirements that are being certified on an individual item basis and where the bidder will be required to indicate beside each item, listed in the bid, whether the item is Canadian.</p>
 <p>This clause must be used in conjunction with clause K4000D, Canadian Content Definition.</p>
@@ -93,7 +93,7 @@
 <p>___________________<br/>
 				Date</p>
 <hr/>
-<h3>K4014T (XX/XX/XX) Canadian Content Certification - Not Mandatory With Bid - Solely Limited - Multi-Item Requirements Listed in Clause</h3>
+<h4>K4014T (XX/XX/XX) Canadian Content Certification - Not Mandatory With Bid - Solely Limited - Multi-Item Requirements Listed in Clause</h4>
 <p><strong>Remarks:</strong></p>
 <p>Use the following clause in all competitive bid solicitations in which the Canadian Content policy is applicable (see Supply Manual), where competition is being solely limited to bids offering Canadian Goods and/or Services and where it is <strong>not mandatory</strong> that bidders submit a certification with their bid. This clause is to be used for multi-item requirements that are being certified on an individual item basis and where the bidder is to list in the clause those items in its bid that are to be considered Canadian.</p>
 <p>This clause must be used in conjunction with clause K4000D, Canadian Content Definition.</p>
@@ -112,8 +112,8 @@
 <p>___________________<br/>
 				Date</p>
 <hr/>
-<h2>Supply Manual</h2>
-<h3>Supply Manual Changes</h3>
+<h3>Supply Manual</h3>
+<h4>Supply Manual Changes</h4>
 <p>5.074 (01/07/95) The bidder will certify Canadian content by signing a statement that the products offered meet the definition of Canadian Goods and Services. The certification forms are contained in the <em>Standard Acquisition Clauses and Conditions</em> (SACC) Manual under clause numbers K4001T, K4002T, K4003T, K4004T, K4005T, K4006T, K4011T, K4013T, K4014T and K4015T.</p>
 <p>7A.011 (XX/XX/XX) For procurement to which the Canadian Content Policy applies (except Science and Technology -- See 7A.012), the contracting officer shall decide, at the procurement planning stage, whether a procurement is:</p>
 <ol type="a">

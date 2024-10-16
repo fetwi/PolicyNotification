@@ -1,10 +1,10 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Objet</h2>
+<h3>Objet</h3>
 <p>L'avis relatif aux politiques (AP) - 122 vise à informer les agents de négociation des contrats du Programme des approvisionnements de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> de l'effet des engagements commerciaux internationaux sur les règles de procédure et le champ d'application dans le cadre de la mise en œuvre des obligations d'approvisionnement prévues par l'Accord économique et commercial global (AECG) entre le Canada et l'Union européenne.</p>
-<h2>Date d'entrée en vigueur</h2>
+<h3>Date d'entrée en vigueur</h3>
 <p>Le présent avis relatif aux politiques entre en vigueur le 21 septembre 2017. Les obligations du gouvernement en matière d'approvisionnement, définies dans l'<abbr title="Accord économique et commercial global"><abbr title="Accord économique et commercial global">AECG</abbr></abbr> Canada-Union européenne, entreront en vigueur le 21 septembre 2017. Le Guide des approvisionnements et le Guide des clauses et conditions uniformisées d'achat (CCUA) ont été mis à jour afin de tenir compte de ces changements.</p>
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p>Les accords commerciaux internationaux favorisent la concurrence et l'innovation mondiales en permettant aux fournisseurs canadiens de faire concurrence aux entreprises d'autres pays selon des règles plus uniformes, grâce à des principes qui appuient une concurrence ouverte, juste et transparente. Ces principes sont notamment les suivants:</p>
 <ul>
 <li>pas de discrimination en fonction du pays d'origine </li>
@@ -12,21 +12,21 @@
 <li>approvisionnement concurrentiel </li>
 <li>processus d'approvisionnement équitables</li>
 </ul>
-<h2>Aperçu</h2>
+<h3>Aperçu</h3>
 <p>Le Canada et l'Union européenne ont conclu l'<abbr title="Accord économique et commercial global">AECG</abbr> le 30 octobre 2016. L'<abbr title="Union européenne">UE</abbr> est l'un des plus gros marchés d'approvisionnement au monde (évalué à environ 3,3 billions de dollars par an), ce qui confèrera des avantages commerciaux importants aux entreprises canadiennes. L'<abbr title="Accord économique et commercial global">AECG</abbr> prévoit également un accès réciproque des fournisseurs de l'<abbr title="Union européenne">UE</abbr> aux marchés publics canadiens. Les dispositions relatives à l'approvisionnement sont énoncées au <a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19.aspx?lang=fra" rel="external">Chapitre 19 de l'<abbr title="Accord économique et commercial global">AECG</abbr></a> et dans huit annexes regroupées dans la <a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=fra#a" rel="external">Liste d'engagements en matière d'accès aux marchés du Canada</a>. Les obligations et le format de l'<abbr title="Accord économique et commercial global">AECG</abbr> sont semblables à ceux de l'Accord sur les marchés publics de l'Organisation mondiale du commerce (AMP-OMC), dans le cadre duquel le Canada et l'<abbr title="Union européenne">UE</abbr> se sont déjà engagés à respecter certaines règles pour les procédures de passation de marchés. Les seuils de l'<abbr title="Accord économique et commercial global">AECG</abbr> sont eux aussi identiques à ceux de l'<abbr title="Accord sur les marchés publics de l'Organisation mondiale du commerce"><abbr title="Accord sur les marchés publics de l'Organisation mondiale du commerce">AMP-OMC</abbr></abbr>. Bien que l'<abbr title="Accord économique et commercial global">AECG</abbr> s'appuie sur les engagements dans le cadre de l'<abbr title="Accord sur les marchés publics de l'Organisation mondiale du commerce">AMP-OMC</abbr> (pour les activités d'approvisionnement principalement sous-fédérales), les obligations qui sont énoncées devraient avoir un impact réduit sur les activités d'approvisionnement fédérales. Toutefois, comme pour tout accord de libre-échange, le chapitre sur les marchés publics doit être consulté pour connaître les obligations et les exceptions s'appliquant au Canada.</p>
-<h3>Entités visées</h3>
+<h4>Entités visées</h4>
 <ul>
 <li>La liste des ministères et organismes visés figure à l'<a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=fra#a1" rel="external">Annexe 19-1 : Entités du gouvernement central</a>.</li>
 <li>La liste des sociétés d'État visées figure à l'<a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=fra#a3" rel="external">Annexe 19-3 : Autres entités</a>.</li>
 </ul>
-<h3>Biens, services et services de construction</h3>
+<h4>Biens, services et services de construction</h4>
 <ul>
 <li>Tous les biens sont visés, sauf d'indication contraire à l'<a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=fra#a4" rel="external">Annexe 19-4 : Marchandises</a>.</li>
 <li>Les services concernés sont précisés à l'<a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=fra#a5" rel="external">Annexe 19-5 : Services</a>.</li>
 <li>Les services de construction sont précisés à l'<a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=fra#a6" rel="external">Annexe 19-6 : Services de construction</a>.</li>
 <li>Les exceptions sont énumérées à l'<a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=fra#a7" rel="external">Annexe 19-7 : Notes générales</a>.</li>
 </ul>
-<h3>Seuils</h3>
+<h4>Seuils</h4>
 <table>
 <caption>Seuils : entrée en vigueur, 31 décembre 2017 (en $CAN)</caption>
 <tbody><tr>
@@ -51,16 +51,16 @@
 </tr>
 </tbody></table>
 <p>Les seuils seront révisés tous les deux ans à compter du 1<sup>er</sup> janvier 2018 et seront publiés sur la page <a href="https://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/ContPolNotices/2015/15-03-fra.asp" rel="external">Accords commerciaux : Mise à jour des seuils</a> du Conseil du Trésor.</p>
-<h3>Obligations administratives</h3>
+<h4>Obligations administratives</h4>
 <p>Les obligations administratives sont définies au chapitre sur les marchés publics. Les règles de procédure portent notamment sur l'évaluation du contrat, les exceptions générales, les avis, le contenu des dossiers d'appel d'offres, les conditions de recours à l'appel d'offres limité et la publication des renseignements concernant l'attribution.</p>
-<h3>Exceptions </h3>
+<h4>Exceptions </h4>
 <p>Il convient de consulter les passages suivants pour connaître les exceptions qui s'appliquent :</p>
 <ul>
 <li>Article 19.2 : Champ d'application et portée</li>
 <li>Article 19.3 : Sécurité et exceptions générales</li>
 <li>Annexes au chapitre, notamment l'<a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=fra#a7" rel="external">Annexe 19-7 : Notes générales</a></li>
 </ul>
-<h2>Résumé des modifications</h2>
+<h3>Résumé des modifications</h3>
 <p>Bien que le champ d'application et les règles de procédure de l'<abbr title="Accord économique et commercial global">AECG</abbr> soient semblables à ceux de l'<abbr title="Accord sur les marchés publics de l'Organisation mondiale du commerce">AMP-OMC</abbr>, il existe quelques différences fondamentales en ce qui concerne les marchés publics :</p>
 <ul>
 <li>élargissement du champ d'application des obligations relatives à l'approvisionnement pour inclure d'autres sociétés d'État</li>
@@ -69,17 +69,17 @@
 <li>ne permet pas les marchés réservés aux petites entreprises</li>
 <li>inclusion de l'Agence spatiale canadienne dans la liste des entités couvertes</li>
 </ul>
-<h3>Dragage</h3>
+<h4>Dragage</h4>
 <p>L'<abbr title="Accord économique et commercial global">AECG</abbr> englobe désormais les services de dragage (<a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=fra#a6" rel="external">Annexe 19-6 : Services de construction</a>). Dans le cadre des nouvelles dispositions, le matériel et les navires de dragage fabriqués par les États membres de l'Union européenne seront traités de la même manière que le matériel de dragage fabriqué au Canada, qu'il s'agisse de marchés de services de dragage ou de services de dragage accessoires aux marchés de services de construction. Lorsque la valeur estimée du marché est de 8 500 000 $ ou plus, les agents de négociation des contrats qui achètent des services de dragage ou des services de construction comprenant le dragage doivent inclure les éléments suivants dans leur appel d'offres :</p>
 <p>R2710T Instructions générales – Services de construction – Exigences relatives à la garantie de la soumission </p>
 <p>En outre, les agents de négociation des contrats doivent joindre à l'appel d'offres la soumission et le Formulaire de soumission et d'acceptation, Outillage flottant (<abbr title="Accord économique et commercial global">AECG</abbr>) plutôt que le Formulaire de soumission et d'acceptation, Outillage flottant.</p>
-<h3>Marchés réservés</h3>
+<h4>Marchés réservés</h4>
 <p>Les marchés réservés aux petites entreprises et aux entreprises minoritaires ne sont pas autorisés dans le cadre de l'<abbr title="Accord économique et commercial global">AECG</abbr>. Cependant, l'<a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=fra#a7" rel="external">Annexe 19-7 : Notes générales</a> prévoit une exception pour les marchés ou les mesures en faveur des peuples ou entreprises autochtones. Par conséquent, les marchés qui sont réservés soit aux bénéficiaires d'une entente sur les revendications territoriales globales (ERTG), soit aux entreprises autochtones assujetties à la Stratégie d'approvisionnement auprès des entreprises autochtones (SAEA), ne sont pas visés par l'<abbr title="Accord économique et commercial global">AECG</abbr> entre le Canada et l'Union européenne et ne sont donc pas soumis aux obligations prévues par cet accord.</p>
-<h3>L'Agence spatiale canadienne</h3>
+<h4>L'Agence spatiale canadienne</h4>
 <p>Les approvisionnements de l'Agence spatiale canadienne liés à certains types de systèmes à satellites sont couverts dans le cadre de l'Accord économique et commercial global. Afin qu'un approvisionnement soit couvert, il doit non seulement respecter les modalités imposées aux approvisionnements des autres organisations fédérales pour la couverture, mais il doit également se limiter aux télécommunications par satellite, à l'observation de la Terre et aux systèmes mondiaux de navigation par satellite.</p>
-<h2>Coordonnées</h2>
+<h3>Coordonnées</h3>
 <p>Pour obtenir de l'aide sur l'application des accords commerciaux, les agents de négociation des contrats peuvent communiquer avec Natalie Dupont, Unité des accords commerciaux, Secteur de la  politique stratégique de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>, par téléphone au 819-420-1710, ou par courriel à l'adresse <a href="mailto:Natalie.dupont@tpsgc-pwgsc.gc.ca" rel="external">Natalie.dupont@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Sections du Guide des approvisionnements visées</h3>
+<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-0e63566c9c4df55845113db497121751">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -155,7 +155,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h3>
+<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-5f1bfcf60432cef14a718826d0c835f8">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

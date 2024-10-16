@@ -1,16 +1,16 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Objectif</h2>
+<h3>Objectif</h3>
 <p>L'avis relatif aux politiques 106 (AP-106) vise à informer les employés de la Direction générale des approvisionnements et des régions des modifications apportées au <cite>Guide des approvisionnements</cite> et aux modèles uniformisés d'approvisionnement pour tout ce qui touche les exigences relatives à la sécurité pour la passation de marchés.</p>
-<h2>Contexte</h2>
+<h3>Contexte</h3>
 <p>Pour faire suite au <a href="http://www.oag-bvg.gc.ca/internet/Francais/parl_oag_200710_01_f_23825.html" rel="external">Chapitre 1 — La protection des renseignements et des biens du gouvernement lors de l'octroi des contrats</a> du <cite>Rapport de la vérificatrice générale du Canada d'octobre 2007</cite>, un examen des contrats en cours et adjugés par Travaux publics et Services gouvernementaux Canada (TPSGC) a été mené.</p>
 <p>En 2009, un exercice de détermination des faits a été mené relativement à un examen de sécurité visant des offres à commandes et des arrangements en matière d’approvisionnement, et leur utilisation par les ministères clients. Bien qu'aucun manquement n'ait été relevé en ce qui a trait aux exigences relatives à la sécurité, cet exercice a mis en lumière le besoin d'apporter des précisions quant aux rôles et responsabilités de tous ceux impliqués dans le processus d'approvisionnement.</p>
 <p>À la suite de cet exercice, les responsables du Secteur de la politique, des risques, de l'intégrité et de la gestion stratégique (SPRIGS) et du Programme de la sécurité industrielle (PSI) ont revu les outils et les renseignements à la disposition du personnel d’approvisionnement afin de l’aider à s’assurer que les exigences relatives à la sécurité sont respectées dans tous les documents contractuels.</p>
 <p>De plus, une nouvelle politique ministérielle, <a class="gov-auth-link" href="http://publiservice.tpsgc-pwgsc.gc.ca/ipm-dpi/politique-policy/p123-fra.html" rel="external">Politique sur la conformité et la mise en application des exigences relatives à la sécurité industrielle (PM123)</a><span> (accessible uniquement sur le réseau du gouvernement du Canada)</span> a été approuvée et est entrée en vigueur le 1<sup>er</sup> juin 2012. Des renseignements sur la mise en œuvre de cette politique et de ses processus ont été ajoutés au chapitre 8 du <cite>Guide des approvisionnements</cite>.</p>
 <p>Un examen complet du <cite>Guide des approvisionnements</cite> a été réalisé et il en est ressorti qu’il était nécessaire d’apporter un grand nombre de modifications au processus d’approvisionnement et aux renseignements exigés. Ces modifications sont mineures, mais elles sont importantes. Elles entrent en vigueur immédiatement.</p>
-<h2>Changements apportés au <cite>Guide des approvisionnements</cite></h2>
+<h3>Changements apportés au <cite>Guide des approvisionnements</cite></h3>
 <p>Résumé des changements :</p>
-<h3>Chapitre 1 :</h3>
+<h4>Chapitre 1 :</h4>
 <ul>
 <li>Assujettissement du Programme de la sécurité industrielle à un système de recouvrement des coûts.</li>
 <li>Nouveau processus lié aux exigences relatives à la sécurité lors d’achats faits au nom de la Gendarmerie royale du Canada (GRC) et de l’Agence des services frontaliers du Canada (ASFC).</li>
@@ -18,24 +18,24 @@
 <li>Clarification des responsabilités relatives à l’analyse des risques et à la prise de décisions basées sur les résultats des enquêtes de sécurité.</li>
 <li>Présentation des protocoles d’entente signés avec la Direction de la sécurité industrielle canadienne (DSIC), la <abbr title="Gendarmerie royale du Canada">GRC</abbr> et l’<abbr title="Agence des services frontaliers du Canada">ASFC</abbr>.</li>
 </ul>
-<h3>Chapitre 2 :</h3>
+<h4>Chapitre 2 :</h4>
 <p>Changements apportés afin d'inclure le nouveau processus en vertu duquel les ministères clients doivent demander les clauses relatives à la sécurité directement à la <abbr title="Direction de la sécurité industrielle canadienne">DSIC</abbr>.</p>
-<h3>Chapitre 3 :</h3>
+<h4>Chapitre 3 :</h4>
 <p>Texte ajouté pour rappeler aux agents de négociation des contrats de l’importance d’indiquer clairement dans les documents d’offres à commandes comment les exigences relatives à la sécurité seront traitées et qu'il est de la responsabilité des ministères clients de confirmer auprès de la <abbr title="Direction de la sécurité industrielle canadienne">DSIC</abbr> la cote de sécurité de l’entreprise ou des ressources à qui ils souhaitent attribuer une commande subséquente. Des détails concernant les attestations de sécurité nécessaires pour la <abbr title="technologie de l'information">TI</abbr>, la production et/ou <abbr title="sécurité des communications">COMSEC</abbr> sont aussi donnés et le formulaire PWGSC-TPSGC 186, Demande d’enquête de sécurité sur une organisation du secteur privé (ESOSP) est présenté.</p>
-<h3>Chapitre 4 :</h3>
+<h4>Chapitre 4 :</h4>
 <p>Des renseignements au sujet du processus relatif à la Liste de vérification des exigences relatives à la sécurité (LVERS) et de la nécessité d’identifier le lieu de la réalisation des travaux sont ajoutés. Les directives ayant trait à la responsabilité du ministère client et les autorisations de sécurité des entreprises ou des ressources sont réitérées.</p>
-<h3>Chapitre 5 :</h3>
+<h4>Chapitre 5 :</h4>
 <p>Modifications mineures apportées au processus de vérification de la conformité aux exigences relatives à la sécurité.</p>
-<h3>Chapitre 7 :</h3>
+<h4>Chapitre 7 :</h4>
 <p>Modifications mineures apportées aux exigences relatives à la sécurité industrielle.</p>
-<h3>Chapitre 8 :</h3>
+<h4>Chapitre 8 :</h4>
 <p>Des renseignements sur la conformité et la mise en application des exigences relatives à la sécurité industrielle ainsi que les processus connexes sont présentés.</p>
-<h2>Modifications apportées aux modèles uniformisés d'approvisionnement</h2>
+<h3>Modifications apportées aux modèles uniformisés d'approvisionnement</h3>
 <p>Les cinq modèles uniformisés d’approvisionnement ont été révisés pour tenir compte des changements apportés aux exigences relatives à la sécurité qui entrent en vigueur immédiatement.  Ils seront publiés sur GCpédia en février 2013. D'ici là, les agents de négociation des contrats de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> peuvent utiliser les modèles révisés reçus avec le communiqué concernant l’Avis relatif aux politiques (AP) 106 émis par <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>.</p>
 <p>Les questions concernant les changements aux modèles uniformisés peuvent être envoyées par courriel à la Division des outils relatifs au processus d’approvisionnement à l’adresse suivante : <a href="mailto:outilsapprov.proctools@tpsgc-pwgsc.gc.ca" rel="external">outilsapprov.proctools@tpsgc-pwgsc.gc.ca</a>.</p>
-<h2>Ressources</h2>
+<h3>Ressources</h3>
 <p>Pour plus de renseignements concernant le contenu de cet avis relatif aux politiques, veuillez communiquer avec la Direction de la politique et du processus d’approvisionnement à l’adresse suivante : <a href="mailto:DPPApublications.APPDpublications@tpsgc-pwgsc.gc.ca" rel="external">DPPApublications.APPDpublications@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Sections du Guide des approvisionnements visées</h3>
+<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-aec098b2623ed85dfaa76a8488ba34c9">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

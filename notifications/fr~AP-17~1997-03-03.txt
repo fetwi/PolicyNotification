@@ -2,13 +2,13 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE :  le 3 mars 1997</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE :  le 3 mars 1997</h3>
 <p>Le 1<sup>er</sup> avril 1997, la taxe de vente au détail en vigueur en <strong>Nouvelle-Écosse,</strong> au <strong> Nouveau-Brunswick</strong> ainsi qu'à <strong>Terre-Neuve et au Labrador</strong> et la TPS fédérale dans les « provinces participantes » seront remplacées par une seule et même taxe harmonisée à la valeur ajoutée, qui portera le nom de « taxe de vente harmonisée (TVH) ».</p>
 <p>Les règles régissant l'application de la TVH seront définies dans la <em>Loi sur la taxe d'accise;</em> il s'agira généralement des règles selon lesquelles la TPS s'applique à l'heure actuelle.</p>
 <p>La TPS sera calculée selon un taux unique de 15 % sur la même assiette de biens et de services que la TPS actuelle. La tranche fédérale de cette taxe correspondra à sept points de pourcentage, et la tranche provinciale, à huit points.</p>
@@ -17,36 +17,36 @@
 <p>De même, des mécanismes spéciaux de réduction s'appliqueront dans les cas où on achète des biens ou des services dans les provinces participantes et lorsque ces biens sont emportés ou que les services sont utilisés hors de ces provinces par des personnes se trouvant à l'extérieur de ces provinces et qui ne peuvent pas demander de crédit de taxe sur les intrants.</p>
 <p>Il ne sera pas nécessaire de distinguer les tranches fédérale et provinciale de la TVH.</p>
 <p>L'assiette fiscale de la TVH sera identique à celle de la TPS.</p>
-<h3>Invitations à soumissionner ou appels d'offres</h3>
+<h4>Invitations à soumissionner ou appels d'offres</h4>
 <p>Même si on continuera de tenir compte, dans le calcul de la valeur de tous les marchés, de l'ensemble des taxes, y compris la TVH, afin de veiller à traiter sur un pied d'égalité les fournisseurs qui déposeront des soumissions dans les régions touchées du Canada, on exclura les taxes applicables dans l'évaluation des soumissions déposées. Tous les marchés attribués ultérieurement tiendront compte de la TPS et (ou) de la TVH, selon le cas.</p>
-<h3>Mécanisme de réduction</h3>
+<h4>Mécanisme de réduction</h4>
 <p>Les provinces participantes et le gouvernement fédéral se sont entendus pour adopter un mécanisme de réduction réciproque pour l'application de la TVH. Dans le cadre de ce mécanisme, le gouvernement fédéral et les provinces paieront la TVH sur les biens et les services qu'ils achètent.</p>
 <p>Le gouvernement fédéral se prévaudra de la réduction applicable grâce au compte des avances remboursables (CAR) existant. Les administrations provinciales établiront un compte comparable au CAR et les sommes portées au crédit de ce compte permettront d'établir les demandes de réduction des provinces adressées à Revenu Canada.</p>
 <p>Les ministères et les organismes récupéreront toutes les taxes payées (y compris la tranche fédérale de 7 % et la tranche provinciale de 8 % de la TVH) grâce au CAR. Par conséquent, les budgets ministériels ne comporteront pas de charges fiscales.</p>
-<h3>Marchés attribués pendant la période de transition</h3>
+<h4>Marchés attribués pendant la période de transition</h4>
 <p>Ces lignes directrices transitoires visent à s'assurer qu'il n'y a aura de recoupement entre, d'une part, la TPS actuelle et les régimes provinciaux de taxe de vente au détail et, d'autre part, la TVH. En règle générale, si la TVH ne s'applique pas à certaines opérations, les politiques en vigueur en ce qui concerne le paiement de la TPS et de la TVP produiront leurs effets.</p>
 <p>Pour les marchés attribués avant le 1<sup>er</sup> avril 1997, y compris la période après laquelle la TVH entrera en vigueur, on devra considérer que les factures soumises après la date de mise en œuvre et tenant compte de la TVH <strong>au lieu de la TPS</strong> sont <strong>justifiées</strong>, et normalement, on devra autoriser les clients à payer le prix prévu au contrat, majoré de la TVH. On devra prendre la décision de modifier les contrats visés dans chaque cas particulier.</p>
-<h3>Marchés attribués après la date de mise en œuvre du 1<sup>er</sup> avril 1997</h3>
+<h4>Marchés attribués après la date de mise en œuvre du 1<sup>er</sup> avril 1997</h4>
 <p>Pour les marchés attribués après la date de mise en œuvre, les agents d'approvisionnement considéreront que la « taxe sur les produits et services » est remplacée par la « taxe de vente harmonisée » dans les cas où les marchés sont attribués en Nouvelle-Écosse, au Nouveau-Brunswick ou à Terre-Neuve et au Labrador.</p>
-<h3>Clause de substitution</h3>
+<h4>Clause de substitution</h4>
 <p>On doit se servir de la clause suivante dans les contrats, lorsque les biens ou les services doivent être livrés après le 1<sup>er</sup> avril 1997.</p>
-<h3>C2215D TPS/TVH</h3>
+<h4>C2215D TPS/TVH</h4>
 <p>Dans le présent contrat, sauf indication contraire, tous les prix et toutes les sommes excluent la TPS ou la TVH, le cas échéant. La taxe sur les produits et services (TPS) ou la taxe de vente harmonisée (TVH), s'il y a lieu, vient s'ajouter au prix indiqué dans le présent contrat et sera acquittée par le Canada.</p>
 <p>La TPS ou la TVH estimative est comprise dans le coût estimatif total. Dans la mesure où elle s'applique, la TPS ou la TVH sera précisée dans toutes les factures et demandes d'acompte et sera indiquée distinctement sur ces factures et dans ces demandes. Tous les biens ou les services détaxés, oxénérés ou auxquels la TPS ou la TVH ne s'appliquent pas doivent être précisés à ce titre sur toutes les factures. L'entrepreneur s'engage à verser à Revenu Canada toutes les sommes acquittées ou exigibles au titre de la TPS et de la TVH.</p>
 <p>La présente clause continuera de produire ses effets jusqu'à ce que les clauses du Guide des CCUA et du Guide des approvisionnements soient modifiées.</p>
-<h3>Lieu où les biens et les services sont fournis</h3>
+<h4>Lieu où les biens et les services sont fournis</h4>
 <p>En règle générale, si les biens ou les services sont fournis (livrés) dans les provinces participantes, c'est la TVH qui s'applique; sinon, la TPS est applicable. Les deux taxes viendraient s'ajouter au prix du contrat.</p>
 <p>Exemples :</p>
 <p>Le fournisseur A, qui a son siège social en Alberta, livre des biens ou des services à Moncton, au Nouveau-Brunswick. C'est la TVH qui s'applique.</p>
 <p>Le fournisseur B, qui a son siège social à Halifax en Nouvelle-Écosse, livre des biens ou des services à Winnipeg, au Manitoba. C'est la TPS qui s'applique.</p>
 <p>Dans les cas où les biens ou les services sont livrés à plusieurs endroits, il peut s'avérer nécessaire de payer une taxe regroupant la TPS et la TVH. Il appartient à l'entrepreneur de percevoir et de verser les sommes correspondantes.</p>
-<h3>Fourniture de biens en continu</h3>
+<h4>Fourniture de biens en continu</h4>
 <p>La TVH ne sera pas facturable sur les produits livrés en continu grâce à des fils, à des pipelines ou à d'autres canalisations avant le 1<sup>er</sup> avril 1997, dans la mesure où la contrepartie est versée ou devient exigible avant août 1997. La TVH devra être payée sur la contrepartie exigible après juillet 1997, quel que soit le moment où les produits ont été livrés.</p>
-<h3>Paiement de biens à l'avance</h3>
+<h4>Paiement de biens à l'avance</h4>
 <p>Toutes les sommes versées d'avance et devenant exigibles après janvier 1997 mais avant avril 1997 pour des biens dont la propriété et la possession sont transférées à l'acheteur après mars 1997 sont soumises à la TVH.</p>
-<h3>Accords de réciprocité fiscale</h3>
+<h4>Accords de réciprocité fiscale</h4>
 <p>Les accords de réciprocité fiscale en vigueur, qui prévoient l'exemption au titre du paiement de la TVP, seront annulés et remplacés par les lois sur la TVH, dans les cas où elles s'appliquent aux provinces participantes et lorsque le gouvernement fédéral s'engage à payer la TVH.</p>
-<h3>Personne-ressource</h3>
+<h4>Personne-ressource</h4>
 <p><strong>S/O</strong></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

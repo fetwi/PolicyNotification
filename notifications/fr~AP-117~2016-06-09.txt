@@ -1,11 +1,11 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Objectif</h2>
+<h3>Objectif</h3>
 <p>L’objectif de l’Avis relatif aux politiques 117 est de fournir une orientation aux agents de négociation des contrats dans le cadre du traitement des attestations, des déclarations et des preuves pour toutes les demandes de soumissions publiées par le Programme des approvisionnements de Travaux publics et Services gouvernementaux Canada (TPSGC).</p>
 <p>En vertu de cette nouvelle politique, il est possible que l’on exige, dans les demandes de soumissions, que les soumissionnaires, les offrants ou les fournisseurs fournissent une attestation, une déclaration ou une preuve obligatoire à la date de clôture des soumissions, mais ces documents <strong>ne doivent pas être exigés</strong> à cette date, à moins que cette exigence ne soit mentionnée dans la section Exceptions, plus loin dans le présent document.</p>
-<h2>Contexte</h2>
+<h3>Contexte</h3>
 <p><abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> s’est engagé à élaborer des politiques et des outils à l’appui d’une évaluation souple des soumissions. Le Ministère renforce son engagement en adoptant cette politique, qui vise à établir un processus permettant de déterminer la façon dont les soumissionnaires, les offrants ou les fournisseurs devront fournir les attestations, les déclarations et les preuves ainsi que le moment où ils devront le faire. Cette politique assurera également le traitement uniforme de ces documents.</p>
-<h2>Définitions et exemples</h2>
+<h3>Définitions et exemples</h3>
 <p>Les attestations, les déclarations et les preuves sont des documents indépendants qui corroborent les renseignements fournis dans le cadre d’une soumission, d’une offre ou d’un arrangement. Ces documents sont indépendants des exigences relatives à l’évaluation des soumissions, mais ils sont obligatoires pour mener à bien le processus d’évaluation des soumissions.</p>
 <p>Des exemples d’attestations, de déclarations et de preuves sont donnés ci-dessous, à titre indicatif seulement. Des références personnelles peuvent également être incluses en vertu de cette politique, mais seulement si leur utilisation ne modifie pas le fond d’une soumission, d’une offre ou d’un arrangement, ou n’intègre pas de nouveaux renseignements qui pourraient améliorer la note ou le classement d’une soumission.</p>
 <table>
@@ -40,10 +40,10 @@
 </td>
 </tr>
 </tbody></table>
-<h2>Processus d’évaluation</h2>
+<h3>Processus d’évaluation</h3>
 <p>Des attestations, des déclarations ou des preuves obligatoires peuvent être demandées à la clôture des soumissions. Cependant, en vertu de cette politique, les soumissionnaires <strong>ne doivent pas être tenus</strong> de fournir ces documents à la clôture des soumissions, sauf si les documents demandés sont inclus dans la section Exceptions ci-dessous. Les agents de négociation des contrats doivent s’assurer que tous les documents d’invitation à soumissionner précisent les attestations, les déclarations et les preuves requises. Si ces documents n’ont pas été fournis à la clôture des soumissions, <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> avisera les soumissionnaires, les offrants ou les fournisseurs qu’ils doivent fournir ces documents dans un délai de deux jours ouvrables suivant l’avis donné par <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>. (Remarque : Ce délai est fondé sur l’attente de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> selon laquelle ces documents devraient être facilement accessibles aux soumissionnaires, aux offrants ou aux fournisseurs.)</p>
 <p>Une fois qu’ils auront été avisés, les soumissionnaires, les offrants ou les fournisseurs qui ne fourniront pas les documents exigés dans un délai de deux jours ouvrables seront informés par le Ministère que leur soumission, leur offre ou leur arrangement est non recevable et ne fera l’objet d’aucun autre examen.</p>
-<h2>Exceptions</h2>
+<h3>Exceptions</h3>
 <p>Les exceptions suivantes sont permises :</p>
 <ol>
 <li>Dispositions relatives à l’intégrité – Les soumissionnaires, les offrants ou les fournisseurs doivent fournir un formulaire de déclaration dûment rempli ou une liste des directeurs ou des propriétaires, conformément aux conditions énoncées dans la <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/politique-policy-fra.html" rel="external">Politique d’inadmissibilité et de suspension</a>.</li>
@@ -52,13 +52,13 @@
 <li>Exigence relative aux documents prouvant la capacité financière – Les agents de négociation des contrats doivent, en collaboration avec le Groupe d’analyse des coûts et des prix, déterminer les renseignements financiers que sera tenu de fournir un sous-ensemble de soumissionnaires au cours de la phase d’évaluation des soumissions ainsi que le délai dans lequel ils devront fournir ces renseignements.</li>
 <li>Processus d’évaluation des soumissions en deux étapes – Ce processus donne aux soumissionnaires, aux offrants ou aux fournisseurs deux occasions de se conformer à <strong>toutes</strong> les exigences obligatoires, y compris les attestations, les déclarations et les preuves.</li>
 </ol>
-<h2>Guide des approvisionnements, Guide des clauses et conditions uniformisées d’achat et modèles uniformisés d’approvisionnement</h2>
+<h3>Guide des approvisionnements, Guide des clauses et conditions uniformisées d’achat et modèles uniformisés d’approvisionnement</h3>
 <p>Le Guide des approvisionnements a été mis à jour de manière à refléter cette nouvelle politique. Pour savoir quelles sections ont été modifiées, veuillez vous reporter à la section « Sections du Guide des approvisionnements visées » ci-dessous.</p>
 <p>L’autorité contractante doit appliquer l’exigence relative au délai de « deux jours ouvrables » à toute clause du Guide des clauses et conditions uniformisées d’achat (CCUA) qui lui permet actuellement de prescrire un délai à l’intérieur duquel une attestation, une déclaration ou une preuve, selon les définitions fournies dans le présent avis relatif aux politiques, doit être fournie. Même si aucune modification n’a été apportée au Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr>, une liste non exhaustive des clauses touchées par ces changements est fournie ci-dessous à titre indicatif. Aucune modification n’a été apportée aux modèles uniformisés d’approvisionnement.</p>
-<h2>Ressources</h2>
+<h3>Ressources</h3>
 <p>Les demandes de renseignements peuvent être acheminées par courriel au Secteur de la politique stratégique à l’adresse suivante :<br/> <a href="mailto:TPSGC.DPPApublications-APPDpublications.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.DPPApublications-APPDpublications.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Sections du Guide des approvisionnements visées</h3>
+<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-cbbf757ab0892a2a55c7da51b5a3a2e9">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
@@ -66,7 +66,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h3>
+<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-52396dd7d91463bada5b9e03b6f71208">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

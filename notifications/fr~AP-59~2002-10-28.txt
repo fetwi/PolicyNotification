@@ -2,13 +2,13 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE DE SORTIE : 28 octobre 2002</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE DE SORTIE : 28 octobre 2002</h3>
 <p>Pour faire suite à une suggestion du Conseil de la politique<br/>
 					des approvisionnements, un groupe de travail dirigé par<br/>
 					le gestionnaire de la Direction de la politique opérationnelle<br/>
@@ -41,9 +41,9 @@
 					version du <em>Guide des approvisionnements</em>, qui doit être<br/>
 					publiée en décembre 2002.</p>
 <hr/>
-<h3><a id="AP-59annex-a" name="annex-a"></a>Annexe A</h3>
-<h4>GUIDE DES APPROVISIONNEMENTS</h4>
-<h4>CHAPITRE 5 - STRATÉGIE DE SÉLECTION DES FOURNISSEURS</h4>
+<h4><a id="AP-59annex-a" name="annex-a"></a>Annexe A</h4>
+<h5>GUIDE DES APPROVISIONNEMENTS</h5>
+<h5>CHAPITRE 5 - STRATÉGIE DE SÉLECTION DES FOURNISSEURS</h5>
 <p><strong>Offres à commandes </strong></p>
 <p>5.153 (13/12/02) Une offre à commandes (OC) n'est pas un<br/>
 					contrat. Il s'agit d'une offre faite par un offrant (un fournisseur<br/>
@@ -564,7 +564,7 @@
 					d'entrée en vigueur du retrait. Les commandes subséquentes<br/>
 					passées à l'offrant avant cette date sont exécutoires<br/>
 					selon la loi; l'offrant doit donc les exécuter. </p>
-<h4>TERMINOLOGIE</h4>
+<h5>TERMINOLOGIE</h5>
 <p><strong>La méthode d'approvisionnement de l'offre à commandes </strong>permet<br/>
 					de lancer un appel d'offres pour la fourniture de biens et/ou la<br/>
 					prestation de services d'après un volume d'activités<br/>

@@ -2,14 +2,14 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 15 avril 2005</h2>
-<h3>Politique</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 15 avril 2005</h3>
+<h4>Politique</h4>
 <p>La section <em>«  Partage des responsabilités entre TPSGC et<br/>
 			le MDN pour l'acquisition de matériel et de services »</em> est<br/>
 			revue conformément à l'annexe A ci-jointe, à la suite d'un<br/>
@@ -20,10 +20,10 @@
 			version du Guide des approvisionnements qui sera publiée le 10 juin<br/>
 			2005.</p>
 <p>La section <em>«  Partage des responsabilités entre TPSGC et le MDN pour l'assurance de la qualité du matériel et des services »</em> (Guide des approvisionnements, annexe 3.2) demeure inchangée.</p>
-<h3>Personne-ressource</h3>
+<h4>Personne-ressource</h4>
 <p><strong>S/O</strong></p>
-<h2>Annexe 3 : Modifications apportées au Guide des approvisionnements
-</h2><p>			Annexe 3.1 : Partage des responsabilités entre TPSGC et le MDN pour l'acquisition<br/>
+<h3>Annexe 3 : Modifications apportées au Guide des approvisionnements
+</h3><p>			Annexe 3.1 : Partage des responsabilités entre TPSGC et le MDN pour l'acquisition<br/>
 			de matériel et de services
 </p><p>3.1(i) La présente matrice décrit le partage des responsabilités<br/>
 			attribuées, accepté par les ministres du ministère de<br/>
@@ -70,8 +70,8 @@
 			exige que les communications se fassent par l'entremise du responsable fonctionnel<br/>
 			des approvisionnements, soit le gestionnaire / agent pertinent du MDN, à moins<br/>
 			qu'il en ait été décidé autrement avec ce responsable.</p>
-<h3><a id="AP-74materiel" name="materiel"></a>Matrice des responsabilités du<br/>
-			MDN/TPSGC</h3>
+<h4><a id="AP-74materiel" name="materiel"></a>Matrice des responsabilités du<br/>
+			MDN/TPSGC</h4>
 <p><strong>AA</strong> (Agent d'approvisionnement)<br/>
 <strong>GP</strong> (Gestionnaire de projet)<br/>
 <strong>AF</strong> (Autorité fonctionnelle - y compris le GCVM)<br/>
@@ -81,8 +81,8 @@
 <strong>GP/AF</strong> signifie que c'est le GP qui veille habituellement au projet<br/>
 			d'acquisition d'immobilisations d'AN et l'AF pour l'acquisition sur<br/>
 			place</p>
-<h4>1. DÉFINIR LES BESOINS OPÉRATIONNELS DU<br/>
-			MDN</h4>
+<h5>1. DÉFINIR LES BESOINS OPÉRATIONNELS DU<br/>
+			MDN</h5>
 <p><strong>1.1 </strong>Définir les caractéristiques<br/>
 			essentielles – déficiences sur le plan de l'énoncé des<br/>
 			capacités ou de l'énoncé des besoins<strong><br/>
@@ -171,8 +171,8 @@
 <p> <strong>1.18 </strong>Souscrire au plan directeur du MDN<strong><br/>
 </strong><strong>Responsabilité <br/>
 </strong>MDN : AA </p>
-<h4>2. DÉFINIR LES BESOINS TECHNIQUES ET PRÉPARER LES DOCUMENTS<br/>
-			D'ACHAT</h4>
+<h5>2. DÉFINIR LES BESOINS TECHNIQUES ET PRÉPARER LES DOCUMENTS<br/>
+			D'ACHAT</h5>
 <p><strong> 2.1 </strong>Mettre sur pied une équipe (officielle<br/>
 			ou officieuse au besoin) pour un document d'achat particulier, y compris<br/>
 			l'intervenant requis<br/>
@@ -245,8 +245,8 @@
 <p><strong>2.9 </strong>Approuver le document d'achat (Réquisition)<strong><br/>
 			Responsabilité <br/>
 </strong>MDN : AA</p>
-<h4>3. ÉLABORER LE PLAN D'ACHAT(*basé sur le document d'achat<br/>
-			du MDN)</h4>
+<h5>3. ÉLABORER LE PLAN D'ACHAT(*basé sur le document d'achat<br/>
+			du MDN)</h5>
 <p><strong> 3.1 </strong>Évaluer le potentiel industriel *<br/>
 <strong>Responsabilité <br/>
 </strong>TPSGC : X</p>
@@ -306,7 +306,7 @@
 <p> <strong>3.6 </strong>Obtenir un plan d'approvisionnement<br/>
 <strong>Responsabilité <br/>
 </strong>TPSGC : X</p>
-<h4>4. PROCESSUS CONTRACTUEL</h4>
+<h5>4. PROCESSUS CONTRACTUEL</h5>
 <p><strong> 4.1 </strong>Examiner l'instrument de réquisition ou d'approvisionnement<br/>
 <strong>Responsabilité <br/>
 </strong>TPSGC : X<br/>
@@ -376,7 +376,7 @@
 			Responsabilité <br/>
 </strong>TPSGC : X<br/>
 			MDN participe normalement : G </p>
-<h4>5. ADMINISTRATION DU CONTRAT</h4>
+<h5>5. ADMINISTRATION DU CONTRAT</h5>
 <p> <strong>5.1 </strong>Initier l'administration du contrat</p>
 <p><strong>5.1.1 </strong>Mettre en place les outils et les processus pour l'administration<br/>
 <strong>Responsabilité <br/>

@@ -2,16 +2,16 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 21 novembre 2003</h2>
-<h3>Politique</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 21 novembre 2003</h3>
+<h4>Politique</h4>
 <p>Les agents de négociation des contrats de Travaux publics et Services gouvernementaux Canada (TPSGC) doivent traiter les achats de faible valeur (AFV) estimés à moins de 25000$ (incluant toutes les taxes applicables) en utilisant la méthode la plus efficace et la plus économique possible en vue de trouver un entrepreneur, soit en lançant un appel d'offres ou en faisant appel à un fournisseur exclusif, et en utilisant le processus approprié de sélection du fournisseur suivant un ordre de priorité.</p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>La politique de TPSGC à l'égard des AFV estimés à moins de 25000$ (incluant toutes les taxes applicables) est modifiée de façon à ce qu'elle soit conforme à la Politique sur les marchés du Conseil du Trésor (CT).</p>
 <p>En général, les AFV estimés à moins de 25 000 $ (incluant toutes les taxes applicables) représentent un faible risque, sont peu complexes et sont d'une valeur inférieure aux seuils pour le lancement d'appels d'offres établis par la Politique du CT et le Règlement sur les marchés de l'État (RME). La Politique du CT et le RME fixent à 25000$ le seuil sous lequel un agent de négociation des contrats n'est pas obligé d'avoir recours au processus concurrentiel lorsqu'il n'est pas rentable de lancer un appel d'offres.</p>
 <p>La modification à la politique vise à prescrire aux agents de négociation des contrats l'instruction de choisir une stratégie d'achat pertinente pour les AFV afin d'obtenir la meilleure valeur et améliorer les délais et la rentabilité de ces contrats tout en respectant les Principes de TPSGC.</p>
@@ -24,10 +24,10 @@
 <li>le SEAOG.</li>
 </ol>
 <p>Les différentes sections du Guide des approvisionnements ont été mises à jour afin de refléter les changements à la politique qui se retrouvent dans l'annexe A.</p>
-<h3>Renseignements</h3>
+<h4>Renseignements</h4>
 <p><strong>S/O</strong></p>
-<h3>Annexe A</h3>
-<h4>CHAPITRE 5 - STRATÉGIE DE SÉLECTION DES FOURNISSEURS</h4>
+<h4>Annexe A</h4>
+<h5>CHAPITRE 5 - STRATÉGIE DE SÉLECTION DES FOURNISSEURS</h5>
 <p><strong>Achats estimés à moins de 25 000 $</strong></p>
 <p>5.117 (xx/xx/xx) Les achats estimés à moins de 25 000 $ (incluant toutes les taxes applicables) sont considérés comme des achats de faible valeur (AFV). Lorsqu'ils définissent les besoins relatifs à des AFV en se basant sur la valeur estimative du contrat final, les agents de négociation des contrats ne doivent pas fractionner les achats de façon à ce que leur valeur soit inférieure au seuil établi pour les AFV. (Voir 6A.001.)</p>
 <p>Les agents de négociation des contrats doivent traiter les AFV estimés à moins de 25000$ (incluant toutes les taxes applicables), en utilisant la méthode la plus efficace et la plus économique possible en vue de trouver un entrepreneur, soit en lançant un appel d'offres ou en faisant appel à un fournisseur exclusif lorsqu'il n'est pas rentable de lancer un appel d'offres.</p>
@@ -52,8 +52,8 @@
 <p><strong>Achat par téléphone</strong></p>
 <p>5.150 (xx/xx/xx) L'achat par téléphone constitue une forme de DPrix qui peut être utilisée pour lancer des invitations à soumissionner par téléphone afin de répondre à des achats estimés à moins de 25 000$ (incluant toutes les taxes applicables). Il n'est pas nécessaire de demander au soumissionnaire de confirmer par écrit les soumissions reçues par téléphone; toutefois, l'agent de négociation des contrats doit noter, dans le dossier d'achat, les détails de la soumission reçue par téléphone. On peut conclure un contrat verbal par téléphone mais ce contrat doit être confirmé par écrit par l'émission du document contractuel pertinent. (Voir 7E.500.)</p>
 <hr/>
-<h4>CHAPITRE 7 - ACHATS EN RÉGIME DE CONCURRENCE</h4>
-<h4>Section 7A - Préparation d'une invitation à soumissionner</h4>
+<h5>CHAPITRE 7 - ACHATS EN RÉGIME DE CONCURRENCE</h5>
+<h5>Section 7A - Préparation d'une invitation à soumissionner</h5>
 <p><strong>Clôture des soumissions</strong></p>
 <p>7A.017 (xx/xx/xx) Les soumissions en réponse à une demande de prix (DPrix) en régime de concurrence estimées à moins de 25 000 $ (incluant toutes les taxes applicables) peuvent être envoyées à l'agent de négociation des contrats plutôt qu'à un lieu précis de réception des soumissions. Ces DPrix doivent informer les fournisseurs que :</p>
 <ol type="a">
@@ -83,15 +83,15 @@
 </ol>
 <p>Lorsque la transmission électronique des soumissions n'est pas acceptable, l'invitation à soumissionner doit l'indiquer clairement, et cette exigence doit figurer dans l'avis de projet de marché.</p>
 <hr/>
-<h4>Section 7B - Publication d'une invitation à soumissionner</h4>
+<h5>Section 7B - Publication d'une invitation à soumissionner</h5>
 <p><strong>Détermination des périodes de soumission</strong></p>
 <p>7B.211 (xx/xx/xx) Dans le cas des achats qui ne sont pas assujettis à l'ALENA, l'OMC-AMP ou à l'ACCMT (qu'ils soient annoncés publiquement ou non) la durée de l'invitation à soumissionner ne doit pas être inférieure à quinze (15) jours civils, soit à partir de la date à laquelle on annonce publiquement le projet de marché ou de la date à laquelle les invitations à soumissionner sont expédiées dans le cas des invitations qui ne sont pas annoncées publiquement. Les achats de faible valeur estimés à moins de 25 000 $ (incluant toutes les taxes applicables) peuvent être publiés pour moins de quinze (15) jours, pour raisons d'efficacité et d'économie.</p>
 <hr/>
-<h4>Section 7D - Traitement des soumissions</h4>
+<h5>Section 7D - Traitement des soumissions</h5>
 <p><strong>Réception des soumissions</strong></p>
 <p>7D.316 (xx/xx/xx) Lorsque l'invitation à soumissionner se fait par téléphone, l'agent de négociation des contrats doit transcrire exactement l'information reçue, indiquer l'heure et la date, et initialiser immédiatement le relevé écrit au dossier. Les réponses reçues par écrit à la suite d'invitations à soumissionner faites par téléphone et acheminées à un service central de réception des soumissions ne devraient pas être dépouillées publiquement. </p>
 <hr/>
-<h4>CHAPITRE 12 - GLOSSAIRE</h4>
+<h5>CHAPITRE 12 - GLOSSAIRE</h5>
 <p><strong>achat de faible valeur (AFV)</strong><br/>
 					Généralement, un achat de faible valeur (AFV) représente un faible risque et est peu complexe, dont la valeur totale est estimée à moins de 25000$ (incluant toutes les taxes applicables) (xx/xx/xx) (Low Dollar Value [LDV]).</p>
 <p><strong>achat par téléphone</strong><br/>

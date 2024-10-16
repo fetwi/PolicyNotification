@@ -1,26 +1,26 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p>The purpose of Policy Notification 99 is  to notify contracting officers of the following:</p>
 <ol>
 <li>A new  Requisition Checklist (<a href="http://publiservice-app.pwgsc.gc.ca/forms/pdf/195.pdf" rel="external"><abbr title="Public Works and Government Services Canada">PWGSC</abbr>-TPSGC 195</a>)  for clients;</li>
 <li>A new process for acknowledgement of requisition  receipt; and</li>
 <li>The implementation of new service standards for  acknowledgement of requisition receipt.</li>
 </ol>
-<h2>Background</h2>
+<h3>Background</h3>
 <p>In its efforts to modernize the procurement function, the Acquisitions Branch, Procurement Renewal Office, formed a working group to develop solutions to streamline procurement processes.  Over the past two years, the Procurement Solutions Modernization (PSM) working group, with representatives from sectors and regions, have been reviewing procurement processes for basic and standard procurements with the aim of supporting a streamlined approach and improving our service level.</p>
-<h2>Effective Date</h2>
+<h3>Effective Date</h3>
 <p>This PN is effective immediately.</p>
-<h2>Policy</h2>
+<h3>Policy</h3>
 <p>Please refer to <a href="#PN-99anna">Annex A</a> (Revisions to the Supply Manual) for the new procedures regarding the client requisition checklist and the new process and service standards for acknowledgement of requisition receipt.</p>
 <p><abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting officers must still review all requisitions for  acceptability and completeness so that procurement action can proceed. The Requisition Checklist in <a href="#PN-99anna21">Annex 2.1</a> of the  Supply Manual remains available for use by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> contracting officers. </p>
 <p><a href="#PN-99annb">Annex B</a> provides the contact information  for the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Allocation Units.</p>
-<h2>Contact Person</h2>
+<h3>Contact Person</h3>
 <p>For more information, contact the Procurement  Solutions Modernization (PSM) working group by e-mail at the following address: <a href="mailto:Modernizingtogether.modernisonsensemble@pwgsc-tpsgc.gc.ca" rel="external">Modernizingtogether.modernisonsensemble@pwgsc-tpsgc.gc.ca</a>.</p>
-<h2 id="PN-99anna">Annex A – Revisions to the Supply Manual</h2>
+<h3 id="PN-99anna">Annex A – Revisions to the Supply Manual</h3>
 <p>Changes  are effective immediately and will be included in the next release of the  Supply Manual.</p>
-<h3>2.30 Requisition Receipt</h3>
+<h4>2.30 Requisition Receipt</h4>
 <ol class="double-space" type="a">
 <li>Client departments must complete the Requisition for Goods and Services and Construction form (<a href="http://publiservice-app.pwgsc.gc.ca/forms/pdf/9200.pdf" rel="external"><abbr title="Public Works and Government Services Canada">PWGSC</abbr>-TPSGC 9200</a>)  and submit it to a <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Allocation Unit (AU).  The client Requisition Checklist (<a href="http://publiservice-app.pwgsc.gc.ca/forms/pdf/195.pdf" rel="external"><abbr title="Public Works and Government Services Canada">PWGSC</abbr>-TPSGC 195</a>)  is an optional tool that  can assist client departments in completing the requisition and in determining  the required supporting documents.</li>
 <li>Client departments must submit completed requisitions to the AU by e-mail, fax or mail, although e-mail is the preferred format.  Contracting officers who receive a requisition directly from the client must forward it to the AU and inform the client department of the procedures to follow.  The AU will acknowledge receipt of a requisition to the client department within one business day for electronically (e-mail) submitted requisitions, and within two business days for hard copy (fax/mail) submitted requisitions.  While processing the requisition, the AU will contact the client department to obtain any missing information and/or documents. Once a requisition is complete, the AU will enter it into the Automated Buyer Environment (ABE), and the requisition will be assigned to the appropriate acquisitions office in the region or National Capital Area.</li>
@@ -61,7 +61,7 @@
 </ol>
 </li>
 </ol>
-<h2 id="PN-99anna21">Annex 2.1: Requisition Checklist</h2>
+<h3 id="PN-99anna21">Annex 2.1: Requisition Checklist</h3>
 <p>15. Have appropriate standards,  specifications or purchase descriptions been included? If not, can an existing  one be used; or </p>
 <ol class="double-space" type="a">
 <li>Is  there a need for the development of a new standard, specification or purchase  description? </li>
@@ -70,7 +70,7 @@
 </li>
 </ol>
 <p>(<em>The rest of Annex 2.1  remains unchanged.)</em></p>
-<h2 id="PN-99annb">Annex B - List of <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Allocation Units</h2>
+<h3 id="PN-99annb">Annex B - List of <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Allocation Units</h3>
 <p><strong>Note</strong>: This Annex will be referred to as Annex 2.3 of the  Supply Manual.</p>
 <table class="basic">
 <caption>

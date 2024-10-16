@@ -2,14 +2,14 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 27 octobre 2003</h2>
-<h3>Objectif</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 27 octobre 2003</h3>
+<h4>Objectif</h4>
 <p>L'avis relatif aux politiques (AP) a pour objectif la mise à jour du <em>Guide des approvisionnements</em> avant sa prochaine publication officielle et ce, afin de l'harmoniser avec les pratiques actuelles ayant trait à l'invocation de l'exception relative à la sécurité nationale (ESN) dans le cadre des divers accords commerciaux, plus particulièrement l'utilisation de l'ESN dans des domaines non traditionnels, comme l'acquisition de médicaments pour faire face à d'éventuelles armes bioterroristes. L'AP offre un processus simplifié de présentation des demandes d'invocation de l'ESN, distinct du processus de plan d'approvisionnement.</p>
 <p>La révision fournit également un certain contexte pour l'utilisation de l'ESN; on indique notamment que le fait d'invoquer l'ESN ne limite pas ou ne définit pas le choix d'une méthode d'approvisionnement. Par exemple, l'utilisation de l'ESN ne rend pas obligatoire l'attribution du marché à un fournisseur unique ou, lorsque cette dernière option est justifiée, l'ESN n'empêche pas le recours à un Préavis d'adjudication.</p>
 <p>Cet AP ne s'applique pas aux circonstances afférentes à la soustraction des activités d'approvisionnement aux accords commerciaux internationaux lorsque ces marchés:</p>
@@ -21,10 +21,10 @@
 </ol>
 <p>Il n'est pas nécessaire d'invoquer ces exceptions. Leur application doit être pleinement justifiée et le dossier du marché doit être bien documenté en vue d'appuyer l'application d'une règle d'exception à des activités d'approvisionnement. Le personnel affecté à la négociation des contrats devrait être conscient que le recours à ces exceptions est assujetti à l'examen du Tribunal canadien du commerce extérieur (TCCE). Par conséquent, il faudrait avoir recours à l'interprétation la plus étroite lorsque vient le moment de déterminer s'il faut appliquer une règle d'exception à des activités d'approvisionnement en particulier.</p>
 <p>Les changements que l'on propose d'apporter au <em>Guide des approvisionnements</em> apparaîtront à la modification 03-2 qui sera rendue public le 12 décembre 2003.</p>
-<h3>Demandes de renseignements</h3>
+<h4>Demandes de renseignements</h4>
 <p><strong>S/O</strong></p>
-<h3>GUIDE DES APPROVISIONNEMENTS</h3>
-<h4>CHAPITRE 5 STRATÉGIE DE SÉLECTION DES FOURNISSEURS</h4>
+<h4>GUIDE DES APPROVISIONNEMENTS</h4>
+<h5>CHAPITRE 5 STRATÉGIE DE SÉLECTION DES FOURNISSEURS</h5>
 <p><strong>Utilisation de l'exception relative à la sécurité nationale</strong></p>
 <p>5.007 (<strong>nouveau</strong>) L'exception relative à la sécurité nationale (ESN) prévue dans le cadre de l'Accord de libre-échange nord-américain (ALENA), l'Accord sur les marchés publics de l'Organisation mondiale du commerce (OMC-AMP), l'Accord Canada-Corée sur les achats de matériel de télécommunication (ACCAMT) et l'Accord sur le commerce intérieur (ACI) permet au Canada de soustraire les activités d'approvisionnement à certaines ou à l'ensemble des modalités d'un accord commercial pertinent là où le Canada le juge nécessaire afin de protéger ses intérêts en matière de sécurité nationale, précisés dans le texte de l'ESN. L'objectif de l'ESN est de faire en sorte que les parties à l'accord ne soient en aucune façon tenues de compromettre ces intérêts par l'application des modalités des accords commerciaux.</p>
 <p>5.008 (<strong>nouveau</strong>) Textes relatifs à l'ESN</p>

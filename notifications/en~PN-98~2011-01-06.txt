@@ -1,21 +1,21 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p>The purpose of Policy Notification PN-98 is to reiterate the importance of accurate reporting and to clarify the function of the National Security Indicator in the Automated Buyer Environment (ABE) Procurement Summary.</p>
-<h2>Effective Date</h2>
+<h3>Effective Date</h3>
 <p>This PN is effective immediately.</p>
-<h2>Background</h2>
+<h3>Background</h3>
 <p>For each specific document including both original and amendment documents, contracting officers may select either "Yes" (by checking the box) or "No" (by leaving it unchecked) for the National Security Indicator in the ABE Procurement Summary.  When the National Security Indicator is checked, (set to "Yes"), that specific document award will not be posted on either the Contracts Canada Contract History (CSI) database or the Government Electronic Tendering System (GETS).  When the National Security Indicator is left unchecked, (set to "No"), that specific document, if it is an original award, will be posted on GETS and if the document is either an original award or an amendment, will be posted on the Contracts Canada website as well. </p>
 <p><em>(Amendments are never posted on GETS – only original awards.  CSI will post both originals and amendments.)</em></p>
 <p>There are additional circumstances, other than national security, when it is not in the public interest to post the issuance of a contractual document on either GETS or the Contracts Canada website.  Currently, the only way a contracting officer can suppress posting on these websites is by checking the box for the National Security Indicator in the ABE Procurement Summary.</p>
 <p> On the other hand, there are procurements for which a National Security Exception (NSE) was invoked in accordance with paragraph 3.105 of the Supply Manual, but it is still appropriate to post an award notice.  For these procurements, the National Security Indicator must not be checked if an award notice is to be posted.</p>
-<h2>Procedures</h2>
+<h3>Procedures</h3>
 <p>Refer to <a href="#PN-98anna">Annex A</a> of this document for clarified Supply Manual procedures on the use of the National Security Indicator in the ABE Procurement Summary.  There are no changes to the SACC Manual.</p>
-<h2>Contact</h2>
+<h3>Contact</h3>
 <p>Any inquiries are to be addressed to Sylvie Moquin, Policy Analyst, Acquisition Policy and Process Directorate, by phone at 819-956-0717, or by e-mail at: <a href="mailto:sylvie.moquin@tpsgc-pwgsc.gc.ca" rel="external">sylvie.moquin@tpsgc-pwgsc.gc.ca</a></p>
-<h2 id="PN-98anna">Annex A Revision to Supply Manual</h2>
-<h3>7.30	Procurement Reporting and Posting of Award Notices</h3>
+<h3 id="PN-98anna">Annex A Revision to Supply Manual</h3>
+<h4>7.30	Procurement Reporting and Posting of Award Notices</h4>
 <p>(201X-XX-XX)</p>
 <ol class="double-space" type="a">
 <li>Contracting officers must ensure that procurement reporting is accurate as the information is used in the reports and websites below, which are required to meet legal, policy, corporate and parliamentary needs:<br/>

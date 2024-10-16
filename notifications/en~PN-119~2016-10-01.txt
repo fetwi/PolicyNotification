@@ -1,20 +1,20 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Introduction</h2>
+<h3>Introduction</h3>
 <p>This is to inform contracting officers that Prince Edward Island (P.E.I.) will increase the Harmonized Sales Tax (HST). </p>
 <p>As of October 1, 2016, <abbr title="Prince Edward Island">P.E.I.</abbr> will increase the provincial component of the <abbr title="Harmonized Sales Tax">HST</abbr> by 1%. The blended rate of the <abbr title="Harmonized Sales Tax">HST</abbr> in that province will increase from 14% to 15%.</p>
-<h2>Transitional rules</h2>
+<h3>Transitional rules</h3>
 <p>Contracts that have been awarded prior to October 1, 2016 will not have to be amended as a result of the increase of the <abbr title="Harmonized Sales Tax">HST</abbr> rate in <abbr title="Prince Edward Island">P.E.I.</abbr> In the same way, contracts awarded prior to October 1, 2016 will not have to be re-approved as a result of the increase of the <abbr title="Harmonized Sales Tax">HST</abbr> rate in <abbr title="Prince Edward Island">P.E.I.</abbr></p>
 <p>Any questions regarding the payment of additional taxes as a result of the increase of the <abbr title="Harmonized Sales Tax">HST</abbr> rate in <abbr title="Prince Edward Island">P.E.I.</abbr> on existing contracts should be directed to the person responsible to authorize payments as per Section 33 of the <a href="http://laws-lois.justice.gc.ca/eng/acts/f-11/" rel="external">Financial Administration Act</a>.</p>
-<h2>General considerations</h2>
+<h3>General considerations</h3>
 <p>Contracting officers are reminded that amounts for tax have to be taken into consideration throughout the procurement process. There is a legal obligation for contracting officers to estimate the cost of a procurement including applicable taxes for the purpose of determining the applicability of trade agreements. It is also government policy that the cost of procurement includes applicable taxes for various purposes, including approval thresholds. For that reason, contracting officers must make an estimation of the applicable taxes based on the place of supply rules. An overview of the place of supply rules can be found in <a href="#PN-119aa">Annex A - Place of Supply Rules</a>. </p>
 <p>While tax is part of the approval process, it should not be part of the contract itself. Tax is not created by the contract. Tax is created by the invoice. The supplier has the obligation to charge and remit tax. Contracting officers do not have the authority to provide tax advice as this is the exclusive prerogative of the Canada Revenue Agency (CRA). Contracting officers are encouraged not to include rates or amounts for applicable taxes in contracts as they could be construed as tax advice by suppliers. The only exception is for amounts that have to appear on Page 1 of the contract: the Total Estimated Cost, Revised Estimated Cost, and Increase (Decrease) boxes which will continue to include amounts corresponding to estimated applicable taxes. Ancillary changes have also been made to forms to reflect the above. Because tax is not part of the contract, contracts should never be amended because of tax. </p>
 <p>Every time an address is required in the procurement process or contract, the address shall indicate a precise geographical location in a province. References to the National Capital Region (NCR) or a postal code are not acceptable. </p>
 <p>See <a href="#PN-119ab">Annex B - Tax rates as October 1, 2016</a> for cumulative tables of the various tax rates.</p>
-<h2>Contact information</h2>
+<h3>Contact information</h3>
 <p>Please direct any enquiries to the Strategic Policy Sector (SPS) by email at the following address: <a href="mailto:TPSGC.DPPApublications-APPDpublications.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.DPPApublications-APPDpublications.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
-<h2 id="PN-119aa">Annex A - Place of supply rules</h2>
+<h3 id="PN-119aa">Annex A - Place of supply rules</h3>
 <p>The place of supply rules that determine whether a supply is made in Canada are explained in chapter <a href="http://www.cra-arc.gc.ca/E/pub/gm/3-3/3-3-e.html" rel="external">3.3 Place of Supply</a> of Canada Revenue Agency (<abbr title="Canada Revenue Agency">CRA</abbr>)’s <abbr title="Goods and Services Tax">GST</abbr>/<abbr title="Harmonized Sales Tax">HST</abbr> Memoranda Series.</p>
 <p>The place of supply rules that determine in which province a supply is made determine whether, and at what rate, suppliers must charge the provincial taxes on their taxable supplies (other than zero-rated supplies) of property and services that are made in Canada. </p>
 <p>The place of supply rules are explained in <a href="http://www.cra-arc.gc.ca/E/pub/gm/b-103/b-103-e.pdf" rel="external"><abbr title="Canada Revenue Agency">CRA</abbr>’s <abbr title="Goods and Services Tax">GST</abbr>/<abbr title="Harmonized Sales Tax">HST</abbr> Technical Information Bulletin B-103 (June 2012)</a>. The bulletin constitutes <abbr title="Canada Revenue Agency">CRA</abbr>’s position on the place of supply rules even though it contains the mention “For discussion purposes only”. This bulletin is an update of the June 2010 version that was circulated with <a href="https://buyandsell.gc.ca/policy-and-guidelines/policy-notifications/PN-94">PN-94 – Transition to Harmonized Sales Tax in Ontario and British Columbia, New Place of Supply Rules and Increase of Harmonized Sales Tax Rate in Nova Scotia</a>.</p>
@@ -43,7 +43,7 @@
 <p>As noted above, different, specific, place of supply rules apply for the supply of services in relation to <abbr title="Tangible Personal Property">TPP</abbr> or <abbr title="Real Property">RP</abbr> and for other specified services. <a href="http://www.cra-arc.gc.ca/E/pub/gm/b-103/b-103-e.html" rel="external"><abbr title="Goods and Services Tax">GST</abbr>/<abbr title="Harmonized Sales Tax">HST</abbr> Technical Information Bulletin B-103</a> should be consulted for details.</p>
 </li>
 </ol>
-<h2 id="PN-119ab">Annex B - Tax rates as of October 1, 2016</h2>
+<h3 id="PN-119ab">Annex B - Tax rates as of October 1, 2016</h3>
 <p><strong>Disclaimer:</strong> The information in these tables is provided by the Strategic Policy Sector (SPS), Acquisitions Branch and is up-to-date as of October 1, 2016. These tables are provided as a courtesy to help summarize the different rates in one convenient location but do not replace the authoritative sources (provincial or federal, as applicable).</p>
 <table>
 <caption>Table 1 - Provinces with Harmonized Sales Tax (HST)</caption>

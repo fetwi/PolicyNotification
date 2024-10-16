@@ -2,13 +2,13 @@
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 
 <div class="critical">
-<h2>Historique : ***</h2>
+<h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h2>DATE : le 4 mars 1997</h2>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 4 mars 1997</h3>
 <p>1. À compter du 7 mars 1997, les clients qui obtenaient auparavant des services d'imprimerie et des services connexes auprès du Groupe Communication Canada (GCC) peuvent désormais se procurer ces services auprès du Canada Communication Group Inc. - Groupe Communication Canada Inc. (CCG Inc. - GCC Inc.), société du secteur privé.</p>
 <p>2. Si les ministères décidaient d'ajouter aux installations internes pour substituer des services du genre de ceux que fournit le GCC, de telles décisions iraient à l'encontre des intentions du gouvernement et réduiraient les avantages de la privatization.</p>
 <p>3. Le Secretariat du Conseil du Trésor a publié le bulletin « Information » concernant l' « Acquisition de photocopieurs à grande vitesse et de duplicateurs électroniques », qui fait ressortir la nécesssité pour les clients de joindre aux demandes qu'ils soumettront à TPSGC, une bonne analyse de rentabilisation justifiant l'acquisition.</p>
@@ -28,11 +28,11 @@
 					Secrétariat du Conseil du Trésor du Canada<br/>
 					Téléphone : 613-957-7651 <br/>
 					Télécopieur : 613-957-2405</p>
-<h3>Le Directeur</h3>
+<h4>Le Directeur</h4>
 <p>Services gouvernementaux et gestion du matériel Opérations gouvernementales, Norman Beaudry</p>
-<h2>Annexe B</h2>
-<h3>Appendice B de la Politique sur la gestion du matériel</h3>
-<h3>Lignes directrices sur l'acquisition de photocopieurs et de duplicateurs électroniques</h3>
+<h3>Annexe B</h3>
+<h4>Appendice B de la Politique sur la gestion du matériel</h4>
+<h4>Lignes directrices sur l'acquisition de photocopieurs et de duplicateurs électroniques</h4>
 <p>1. Définitions</p>
 <p>Les photocopieurs et les duplicateurs électroniques<br/>
 					sont classés en fonction du nombre de copies produites à<br/>

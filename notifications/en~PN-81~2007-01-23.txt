@@ -1,12 +1,12 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>This Policy Notification (PN)-81 is being issued further to a recent<br/>
 					recommendation by the Office of the Auditor General and the subsequent<br/>
 					e-mail sent by the Executive Director of Acquisitions Operations to Director<br/>
 					Generals and Regional Director Generals on 6 December 2006.</p>
-<h3>Policy</h3>
+<h4>Policy</h4>
 <p>Effective immediately, and under the following circumstances, more than<br/>
 					one Public Works and Government Services Canada (PWGSC) employee must<br/>
 					be involved in the evaluation of the bid prices to ensure an appropriate<br/>
@@ -31,13 +31,13 @@
 <p>Please refer to<a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap81-pn81-eng.html#annexa" rel="external"> Annex A</a> of<br/>
 					this document for changes to the Supply Manual. These changes will be<br/>
 					incorporated in the next release of the Supply Manual. </p>
-<h3>Contact</h3>
+<h4>Contact</h4>
 <p><strong>N/A</strong></p>
 <p> <a id="PN-81annexa" name="annexa"></a></p>
-<h2>Annex A - Changes to the Supply Manual</h2>
-<h3>SECTION 7D: BID HANDLING</h3>
-<h4>Evaluation of Responses</h4>
-<h5>Client Review</h5>
+<h3>Annex A - Changes to the Supply Manual</h3>
+<h4>SECTION 7D: BID HANDLING</h4>
+<h5>Evaluation of Responses</h5>
+<h6>Client Review</h6>
 <p><span>7D.393 (xxxx-xx-xx)</span> Clients are responsible<br/>
 					for the evaluation of the technical portion of the bids. <span>PWGSC does not<br/>
 					normally provide clients</span> with price information. When referring bids to<br/>
@@ -57,7 +57,7 @@
 					process was conducted in a fair and transparent manner, in accordance<br/>
 					with the criteria set out in the bid solicitation.</p>
 <div>
-<h5>Financial Evaluation of Bids</h5>
+<h6>Financial Evaluation of Bids</h6>
 <p>7D.394 (xxxx-xx-xx) PWGSC is responsible for the evaluation of the<br/>
 						financial portion of the bids. PWGSC does not normally<br/>
 						provide clients with price information during the evaluation phase.</p>

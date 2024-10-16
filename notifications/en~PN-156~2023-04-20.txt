@@ -1,40 +1,40 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2>Purpose</h2>
+<h3>Purpose</h3>
 <p>The purpose of Policy Notification (PN)-156 is to inform Public Works and Government Services Canada, Acquisitions Program (AP) contracting officers of updates to the Supply Manual (SM) to align with current guidance in the <a href="https://buyandsell.gc.ca/procurement-pricing/pricing-guide">Practitioner’s Guide for Procurement Pricing</a>.</p>
 <p><abbr title="Policy Notification">PN</abbr>-156 provides an update to the guidance and processes outlined within the Supply Manual to reinforce the importance of managing pricing throughout the acquisition lifecycle; to clarify the application of procurement pricing strategies in the determination of cost and profit; to support innovation; to provide flexibility in pricing decisions; and to achieve best value for Canadians.</p>
-<h2>Effective date</h2>
+<h3>Effective date</h3>
 <p><abbr title="Policy Notification">PN</abbr>-156 is effective immediately.</p>
-<h2>Expected outcomes</h2>
+<h3>Expected outcomes</h3>
 <ul>
 <li>Strengthen Canada’s capability and capacity to manage pricing throughout the lifecycle of the contract, contributing to sound stewardship of public funds, procurement modernization and modern comptrollership;</li>
 <li>Enhance awareness of leading pricing practices to support innovative contracting arrangements and maximize value for Canadians in procurement; and</li>
 <li>Enable Canada to fairly reward contractors for costs and risks undertaken in contract performance through contract pricing.</li>
 </ul>
-<h2>Background</h2>
+<h3>Background</h3>
 <p>As detailed in the <a href="https://www.tpsgc-pwgsc.gc.ca/app-acq/amd-dp/samd-dps/reponse-respond-eng.html" rel="external">Department’s response</a>, an independent study dated December 2015 concluded that Canada’s pricing framework (composed of contract cost principles and profit policy) is sound but findings indicated that guidance material and tools were recommended to further foster transparency and consistency in pricing decisions.</p>
 <p>Several consultations held since then have provided insights and best practices on the application of pricing and profit principles to support the delivery of optimal value especially in negotiated contracts. As a result, the <a href="https://buyandsell.gc.ca/procurement-pricing/pricing-guide">Practitioner’s Guide for Procurement Pricing</a> (“Guide”) was introduced. In the Guide, the pricing framework components, including available pricing options and pricing tools, are adapted to incorporate innovative and flexible pricing strategies to align pricing with desired procurement performance objectives to achieve best value for Canadians.</p>
 <p>The updates to the Supply Manual referred to in this <abbr title="Policy Notification">PN</abbr>-156 are aligned with the guidance provided in the Guide.</p>
-<h2>Requirements and responsibility</h2>
+<h3>Requirements and responsibility</h3>
 <p>The Acquisitions Program (AP) contracting officer leads the development of the procurement process and a key element of this process is to establish, document and validate the contract price.</p>
 <p>Once the pricing approach is authorized through standard procurement approval processes, the contracting officer will ensure all aspects of the price are clearly documented in the contract such as in an annex. A detailed breakdown of the cost, profit and incentives should be included in the contract Basis of Payment section, where applicable.</p>
 <p>Public Works and Government Services Canada (PWGSC) has dedicated in-house Chartered Professional Accountants (CPAs) for the provision of financial expertise to assist <abbr title="Acquisitions Program">AP</abbr> contracting officers in support of contract pricing as required or as stipulated in the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> <a class="gov" href="https://www.gcpedia.gc.ca/gcwiki/images/d/d0/Directive_on_the_Use_of_Cost_and_Price_Analysis_FINAL_EN.pdf" rel="external">Directive on the Use of Cost and Price Analysis Services</a><span> (accessible only on the Government of Canada network)</span> (<abbr title="portable document format">PDF</abbr> file - 314 KB) - (<a href="https://buyandsell.gc.ca/help/accessibility-help#20">Help on File Formats</a>) and the <a class="gov" href="https://www.gcpedia.gc.ca/gcwiki/images/d/dd/Guideline_on_the_Use_of_Cost_and_Profit_Analysis_FINAL_EN.pdf" rel="external">Guideline on the Use of Cost and Price Analysis Services</a><span> (accessible only on the Government of Canada network)</span> (<abbr title="portable document format">PDF</abbr> file - 321 KB) - (<a href="https://buyandsell.gc.ca/help/accessibility-help#20">Help on File Formats</a>).</p>
-<h2>Guidance</h2>
+<h3>Guidance</h3>
 <p>The <a href="https://buyandsell.gc.ca/procurement-pricing/pricing-guide">Practitioner’s Guide for Procurement Pricing</a> provides more information on building a common understanding among all stakeholders in regards to pricing components and options. This includes guidance on risk sharing, responsibilities and the encouragement of innovation through the use of a pricing approach. More specifically, Section 5 Pricing Principles of the <a href="https://buyandsell.gc.ca/procurement-pricing/pricing-guide">Practitioner’s Guide for Procurement Pricing</a> relating to costing, profit determination and the use of a validation strategy complements updated Chapters 3 and 10 of the Supply Manual.</p>
 <p>The <a class="gov" href="https://www.gcpedia.gc.ca/gcwiki/images/d/d0/Directive_on_the_Use_of_Cost_and_Price_Analysis_FINAL_EN.pdf" rel="external">Directive on the Use of Cost and Price Analysis Services</a><span> (accessible only on the Government of Canada network)</span> (<abbr title="portable document format">PDF</abbr> file - 314 KB) - (<a href="https://buyandsell.gc.ca/help/accessibility-help#20">Help on File Formats</a>) and the <a class="gov" href="https://www.gcpedia.gc.ca/gcwiki/images/d/dd/Guideline_on_the_Use_of_Cost_and_Profit_Analysis_FINAL_EN.pdf" rel="external">Guideline on the Use of Cost and Price Analysis Services</a><span> (accessible only on the Government of Canada network)</span> (<abbr title="portable document format">PDF</abbr> file - 321 KB) - (<a href="https://buyandsell.gc.ca/help/accessibility-help#20">Help on File Formats</a>) describe the professional accounting services available to assist contracting officers involved in identifying financial and pricing risks and determining the most suitable pricing approach of a procurement.</p>
-<h2>Revisions to the Supply Manual</h2>
+<h3>Revisions to the Supply Manual</h3>
 <p>The Supply Manual has been updated to reflect this <abbr title="Policy Notification">PN</abbr>. For more details, refer to the Affected Supply Manual sections listed below.</p>
-<h2>Revisions to the Standard Acquisition Clauses and Conditions Manual (SACC)</h2>
+<h3>Revisions to the Standard Acquisition Clauses and Conditions Manual (SACC)</h3>
 <p>There are no changes to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual.</p>
-<h2>Revisions to the Standard Procurement Templates </h2>
+<h3>Revisions to the Standard Procurement Templates </h3>
 <p>There are no changes to the Standard Procurement Templates.</p>
-<h2>Contact information</h2>
+<h3>Contact information</h3>
 <p>Enquiries related to <abbr title="Policy Notification">PN</abbr>-156 and additional information on the <a href="https://buyandsell.gc.ca/procurement-pricing/pricing-guide">Practitioners’ Guide for Procurement Pricing</a> can be sent by email to the Pricing Practices and Guidance Group at the following address: <a href="mailto:TPSGC.padgamtp-appbipm.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.padgamtp-appbipm.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Enquiries related to price analysis and assurance services can be sent by email to the Price Support Directorate at the following address: <a href="mailto:TPSGC.PASoutiendesprix-APPriceSupport.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PASoutiendesprix-APPriceSupport.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions related to the Supply Manual can be sent by e-mail to the Strategic Policy Sector’s <abbr title="Supply Manual">SM</abbr>/<abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Team at the following address: <a href="mailto:tpsgc.paspspublications-apspspublications.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.paspspublications-apspspublications.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h3 class="field-label">Affected Supply Manual sections</h3>
+<h4 class="field-label">Affected Supply Manual sections</h4>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-fe3aac9507356d188d5a1ed57199472f">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

@@ -6,7 +6,7 @@
 <p>However, it will no longer be mandatory that this information be provided by bid closing. Contracting officers will be responsible for ensuring compliance of the proposed contractor with the FCP EE requirement <strong>prior to contract award</strong>.</p>
 <p>A revised SACC K2000T is provided in Annex A, and revised SM procedures (5.112 and 7D.364) are provided in Annex B.</p>
 <hr/>
-<h2>ANNEX A - SACC MANUAL CLAUSE</h2>
+<h3>ANNEX A - SACC MANUAL CLAUSE</h3>
 <p>(See Supply Manual procedure 5.113 for exclusions from the FCP EE)</p>
 <p><strong>K2000T (xx/xx/xx) Employment Equity</strong></p>
 <p>1. The Federal Contractors Program for Employment Equity requires that Canadian organizations bidding for federal government contracts, $200,000.00 and over, make a formal commitment to implement employment equity, as a pre-condition to the validation of their bids. If the bidder is subject to the Program, evidence of its commitment must be provided prior to the award of any contract.</p>
@@ -18,12 +18,12 @@
 <li>If the bidder's organization does not fall within the parameters of items above, the program requirements do apply and, as such the bidder is required to submit a duly signed Certificate of Commitment as referenced below, or its Certificate number _______ confirming its adherence to the program.</li>
 </ol>
 <p>2. In all cases, the bidder is required to produce evidence of supporting information on demand, if such evidence is not provided with its bid. Under no circumstance will a contract be awarded to an organization that does not comply with the requirements of the Federal Contractors Program for Employment Equity, unless it is exempt from the Program.</p>
-<h3>NOTE:</h3>
+<h4>NOTE:</h4>
 <p>1. The Federal Contractors Program for Employment Equity applies to Canadian-based bidders only.</p>
 <p>2. The Certificate of Commitment, criteria and other information about the Federal Contractors Program for Employment Equity, are available in the Standard Acquisition Clauses and Conditions (SACC) Manual, Section 2, and on the <acronym title="Public Works and Government Services Canada">PWGSC</acronym> Internet site at: <a href="http://sacc.pwgsc.gc.ca/sacc/index-e.jsp" rel="external">http://sacc.pwgsc.gc.ca/sacc/index-e.jsp</a>.</p>
 <hr/>
-<h2>ANNEX B - SUPPLY MANUAL - AMENDMENTS TO PROCEDURES</h2>
-<h3>CHAPTER 5 - SOURCING STRATEGY</h3>
+<h3>ANNEX B - SUPPLY MANUAL - AMENDMENTS TO PROCEDURES</h3>
+<h4>CHAPTER 5 - SOURCING STRATEGY</h4>
 <p><strong>Employment Equity</strong></p>
 <p>5.112 (xx/xx/xx) The eligibility of suppliers to bid on procurement opportunities may be limited by the Federal Contractors Program for Employment Equity. Contracts for requirements for goods and services valued at $200,000 or more must be awarded to vendors who:</p>
 <ol type="a">
@@ -42,7 +42,7 @@
 </ul>
 <p>For requirements falling under the scope of NAFTA or WTO-AGP, the employment equity requirements only apply to vendors operating under Canadian jurisdiction.</p>
 <hr/>
-<h2>CHAPTER 7 - BID HANDLING</h2>
+<h3>CHAPTER 7 - BID HANDLING</h3>
 <p><strong>Employment Equity</strong></p>
 <p>7D.364 (xx/xx/xx) A recommended bid from a supplier subject to the Federal Contractors Program for Employment Equity cannot proceed to award unless a signed Certificate of Commitment or Certificate number is provided.</p>
 <p>The Certificate of Commitment or Certificate number is a pre-condition to the validation of bids rather than a condition of the contract.</p>
