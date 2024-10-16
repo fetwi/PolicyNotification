@@ -1,21 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<!-- InstanceBeginEditable name="content" --><h1><a id="AP-38Rcont" name="cont"><br/>
-AP-38R : Exception relative à la sécurité nationale (utilisation de l'accord commercial)</a></h1> <div class="region region-site-wide-message">
-<section id="AP-38Rsite-wide-message">
-<p><span class="badge-new">Attention !</span><strong> Nous avons déménagé !</strong> Le Guide des approvisionnements a été transféré sur le site AchatsCanada. Jetez un coup d’œil à la nouvelle page d'accueil du <a href="https://canadabuys.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=2023HL_sm_redirect_fr" rel="external">Guide des approvisionnements</a>.</p>
-</section>
-<section id="AP-38Rsite-wide-message">
-<div></div>
-<p><span class="badge-new">Attention !</span> Le Guide des CCUA sera supprimé du site Achatsetventes.gc.ca. Pour plus d’informations, veuillez consulter ce <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/guide-des-ccua-archive-sur-l-achatscanada" rel="external">communiqué de press</a>.</p>
-<p>Nous apprécions vos commentaires continus et votre coopération pendant cette transition.</p>
-</section>
-<section id="AP-38Rsite-wide-message">
-<div></div>
-<p><span class="badge-new">Attention !</span><strong> Plus d’informations pour les fournisseurs</strong>. Consultez les  <a href="https://achatscanada.canada.ca/fr/nouvelles-et-evenements/spac-modernise-ses-documents-contractuels?utm_source=canadabuys&amp;utm_medium=ybanner&amp;utm_campaign=SCCI_banner_fr" rel="external">dernières nouvelles</a> sur les mises à jour sur le CCUA et l'Initiative de modernisation des contrats.</p>
-</section>
-</div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/info-arch-fra.html"><em>Cette page Web a été archivée dans le Web.</em></a></p>
+
 <div class="critical">
 <h2>Historique : ***</h2>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
