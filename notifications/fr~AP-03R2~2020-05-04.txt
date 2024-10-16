@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2 class="pn-content-title">Contenu de l'AP-03R2</h2>
 <h3>Introduction</h3>
 <p>L’avis relatif aux politiques (AP) 03R2 a pour but d’informer l’équipe du Programme des approvisionnements (PA) des changements aux exigences de la politique concernant les marchés avec d’anciens fonctionnaires touchant une pension ou un paiement forfaitaire.</p>
 <h3>Date d’entrée en vigueur</h3>

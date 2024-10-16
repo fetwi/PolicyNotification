@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-48R1</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose</h3>
 <p>The purpose of Policy Notification (PN)-48R1, is to update the obligations for acquisitions Program (AP) contracting officers in respect of the <a href="https://laws-lois.justice.gc.ca/eng/acts/o-3.01/" rel="external"><cite>Official Languages Act</cite></a> (OLA).</p>

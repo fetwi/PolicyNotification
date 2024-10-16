@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-105R1</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose</h3>
 <p>The purpose of this Policy Notification 105R1 (PN-105R1) is to notify all Acquisitions Program (AP) employees and any other persons providing procurement services on behalf of <abbr title="Acquisitions Program">AP</abbr> about the new procurement complexity levels, risk assessment, and approval authorities.</p>

@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2 class="pn-content-title">Contenu de l'AP-116</h2>
 <h3>Introduction</h3>
 <p>La présente vise à informer les agents de négociation des contrats que le Nouveau-Brunswick (N.-B.) et Terre-Neuve-et-Labrador (T.-N.-L.) vont augmenter la taxe de vente harmonisée (TVH).</p>
 <p>À  partir du 1<sup>er</sup> juillet 2016, le N.-B. et <abbr title="Terre-Neuve-et-Labrador">T.-N.-L.</abbr> augmenteront la composante provinciale de la <abbr title="Taxe de vente harmonisée">TVH</abbr> de 2 %. Le taux combiné de la <abbr title="Taxe de vente harmonisée">TVH</abbr> dans ces provinces augmentera de 13 % à 15 %.</p>

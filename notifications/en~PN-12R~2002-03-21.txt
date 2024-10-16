@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-12R</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The Canadian Content Policy is a Cabinet-mandated policy. The Policy encourages industrial development in Canada by limiting, in specific circumstances, competition for government procurement opportunities to suppliers of Canadian goods and services.</p>
 <p>For procurement to which the Canadian Content Policy applies, the bidder had previously been required to submit the certification of Canadian content with bid.  To increase flexibility, this requirement may, at the discretion of the contracting officer, be removed for procurement solely limited to Canadian goods and/or services.  Three new Standard Acquisitions Clauses and Conditions (SACC) clauses - K4011T, K4013T and K4014T - have been developed in the case where the bidder will be permitted to submit certification after bid closing.  Clauses K4001T, K4003T and K4004T have been revised to require the bidder to submit certification with bid. </p>

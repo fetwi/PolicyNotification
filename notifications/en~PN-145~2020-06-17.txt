@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-145</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose</h3>
 <p>The purpose of Policy Notification (PN)-145 is to inform all Public Works and Government Services Canada (PWGSC) Acquisitions Program contracting officers of the inclusion of new clauses in the Standard Procurement Templates to provide suppliers with information on potentially available bid challenge and recourse mechanisms, as well as dispute resolution.</p>

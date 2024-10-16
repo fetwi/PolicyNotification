@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-83</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h4>Introduction</h4>
 <p>This policy notification provides: (1) the higher complexity bid solicitation and contract template for competitive and non-competitive requirements for the procurement of goods, services or both (excluding construction and architectural and engineering); (2) the modifications to the procedures 2T-PROC1 for the low dollar value, medium and higher complexity requirements, and (3) the modifications to the standard instructions and general conditions. </p>

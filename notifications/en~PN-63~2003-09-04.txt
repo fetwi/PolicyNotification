@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-63</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>On May 8, 2003, the Treasury Board (TB) approved a new Policy entitled 'Policy on Decision Making in Limiting Contractor Liability in Crown Procurement Contracts.' The new Policy has come into effect on September 1, 2003, replacing the TB Interim Policy on Indemnification in Contracting adopted on August 15, 1995.</p>

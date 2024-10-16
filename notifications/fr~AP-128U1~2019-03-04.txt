@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2 class="pn-content-title">Contenu de l'AP-128U1</h2>
 <h3>Objet</h3>
 <p><abbr title="avis relatif aux politiques">AP</abbr>-128U1 mises à jour <abbr title="avis relatif aux politiques">AP</abbr>-128R1.</p>
 <p>Les objectifs de l’avis relatif aux politiques 128U1 (<abbr title="avis relatif aux politiques">AP</abbr>-128U1) sont de : 1) modifier les modèles uniformisés d’approvisionnement afin d’ajouter une phrase pour préciser que l’adresse courriel de Connexion postel doit être employée uniquement avec le service Connexion postel et ne doit pas être utilisée pour présenter des soumissions directement; 2) modifier les instructions uniformisées de 2003, 2006 et 2008 pour informer les soumissionnaires que les Unités de réception des soumissions enverront un accusé de réception des soumissions reçues au moyen de la conversation du service Connexion postel; et fournir des informations sur la capacité de transmission du service Connexion postel.</p>

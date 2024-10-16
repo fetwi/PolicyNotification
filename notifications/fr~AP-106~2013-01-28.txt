@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2 class="pn-content-title">Contenu de l'AP-106</h2>
 <h3>Objectif</h3>
 <p>L'avis relatif aux politiques 106 (AP-106) vise à informer les employés de la Direction générale des approvisionnements et des régions des modifications apportées au <cite>Guide des approvisionnements</cite> et aux modèles uniformisés d'approvisionnement pour tout ce qui touche les exigences relatives à la sécurité pour la passation de marchés.</p>
 <h3>Contexte</h3>

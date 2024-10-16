@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-157</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose</h3>
 <p>The purpose of this Policy Notification (PN) is to inform Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) contracting officers of the obligations under the Government of Canada <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32743" rel="external"><cite>Standard on the Disclosure of Greenhouse Gas Emissions and the Setting of Reduction Targets</cite></a> (the <abbr title="greenhouse gas">GHG</abbr> Disclosure Standard).</p>

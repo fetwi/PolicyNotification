@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-32U2</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This policy notification relates to a revised procedure for the routing and processing of Procurement Information Forms (PIFs) to the Minister. It is effective immediately and replaces the current <em>routing process</em> for PIFs. All other aspects of PN-32, 32U and 32U1 remain active and applicable.</p>
 <h3>Issues:</h3>

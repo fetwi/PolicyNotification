@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2 class="pn-content-title">Contenu de l'AP-130</h2>
 <h3>But</h3>
 L’avis relatif aux politiques (AP)-130 vise à présenter des clauses provisoires pour toute nouvelle demande d’offre à commandes et d’arrangement en matière d’approvisionnement (DOC-DAMA) dans l’optique de fournir des renseignements et d’appuyer le Programme des approvisionnements de Travaux publics et Services gouvernementaux Canada (TPSGC) dans le cadre de sa transition prévue vers une solution d’achats électroniques (SAE).
 <h3>Date d’entrée en vigueur et application</h3>

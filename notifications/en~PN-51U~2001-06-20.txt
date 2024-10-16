@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-51U</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>PN-51U supersedes PN-51 dated 30 April 2001</h3>
 <p>Bill S-25 amended the Defence Production Act (DPA) by adding two new parts to the Act which established a new regime for regulating access to certain controlled military and military related goods and technology ("controlled goods" - <strong>see Annex D for definition</strong>). To meet this requirement, the Controlled Goods Registration Program (CGRP), a federal government program, was established under the DPA and the Controlled Goods Regulations. It requires all "persons" in Canada examining, possessing, or transferring "controlled goods", to another person in Canada to be registered or exempted from registration. The CGRP is administered by PWGSC. The Web site address for the CGRP may be found at: <a href="http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp" rel="external">http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp</a></p>

@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-130</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose</h3>
 <p>The purpose of Policy Notification (PN) 130 is to introduce interim clauses in all new requests for standing offers and supply arrangements (RFSOs/RFSAs) in order to inform on the support Public Works and Government Services Canada (PWGSC)’s Acquisition Program (AP) in its anticipated transition to an e-procurement solution (EPS).</p>

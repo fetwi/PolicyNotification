@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-72R2</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose</h3>
 <p>The purpose of Policy Notification 72R2 (PN-72R2) is to notify Acquisitions Program (AP) contracting officers of changes to the processes involved in the creation, renewal and extension of Standing Offers (SOs) and Supply Arrangements (SAs), and the related roles and responsibilities of all associated stakeholders regarding posting information to the Standing Offer Index (SOI). The revisions to this <abbr title="Policy Notification">PN</abbr> will strengthen the Department’s management control framework for these procurement instruments.</p>

@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-74</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h4>Policy</h4>
 <p>The <em>"Division of Responsibilities Between <acronym title="Public Works and Government Services Canada">PWGSC</acronym> and DND for the Acquisition of Goods and Services"</em> is revised as per Annex A attached, further to a collaborative effort between Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>) and Department of National Defence (DND).</p>

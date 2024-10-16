@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-32U</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This Policy Notification (PN) Update provides:</p>
 <p>1. A Quick Reference Guide to determine when a Procurement Information Form (PIF) is required, attached as <strong>Annex A</strong>;</p>

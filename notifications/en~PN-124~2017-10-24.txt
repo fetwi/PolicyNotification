@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-124</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose </h3>
 <p>The interim pricing measure (IPM) provides contracting officers with a consistent process to justify, document and obtain authorization for the use of pricing practices, including the use of incentives, not currently addressed by Chapter 10 in the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Supply Manual.</p>

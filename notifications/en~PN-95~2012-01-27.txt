@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-95</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>The purpose of Policy Notification (PN) 95 is to announce a change to the Formal Procurement Plan process. Most Formal Procurement Plans will now be approved at the director general/regional director general (DG/RDG) level instead of at the level of the Assistant Deputy Minister (ADM), Acquisitions Branch. This change simplifies the approval process and supports an effective and efficient procurement process.</p>

@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-41</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The new Departmental Delegation of Authority framework was implemented on July 17, 1998. A key objective of this new approval framework is to encourage more comprehensive preplanning of all procurements. It is expected that these changes will improve the identification and pre-approval of options and of amounts set aside for anticipated amendments.</p>
 <p>Nevertheless, the revised framework will also result in a greater number of amendments requiring ministerial approval. Because of the resource implications of this increased amendment volume, it was necessary to review and update the CAAP in order to strike a better balance between the need for in- depth review and acceptable risk.</p>

@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-35U1</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Background</h3>
 <p>This policy notification provides updated guidance for implementing<br/>

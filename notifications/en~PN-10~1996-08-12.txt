@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-10</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The Minister was sworn in as the Minister of Public Works and Government Services on July 12, 1996.</p>
 <p>The name of our Department is now the Department of Public Works and Government Services, and the applicable legislation under which contracting activities are conducted is the <em>Department of Public Works and Government Services Act</em>, S.C., 1996, c.16.</p>

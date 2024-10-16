@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2 class="pn-content-title">Contenu de l'AP-135U1</h2>
 <h3>But</h3>
 <p>Le présent avis aux politiques (AP-135U1) vise à informer les agents de négociation des contrats du Programme des approvisionnements (PA) de Travaux publics et Services gouvernementaux Canada (TPSGC) des changements apportés à l’application sur les offres à commandes et arrangements en matière d’approvisionnement (Appli OCAMA) en ce qui concerne la protection des documents.</p>
 <p>Le présent <abbr title="avis aux politiques">AP</abbr> devrait être lu en conjonction avec l’<a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/avis-relatifs-aux-politiques/AP-135">avis relatif aux politiques 135 - Publier des offres à commandes et des arrangements en matière d’approvisionnement dans l’<abbr title="Application sur les offres à commandes et arrangements en matière d'approvisionnement">Appli OCAMA</abbr></a>.</p>

@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2 class="pn-content-title">Contenu de l'AP-98</h2>
 <h3>Introduction</h3>
 <p>Le présent avis relatif aux politiques AP-98 vise à réitérer l'importance de la production de rapports exacts et à clarifier la fonction de l'indicateur relatif à la sécurité nationale dans le sommaire de l'approvisionnement dans l'environnement automatisé de l'acheteur l'(EAA).</p>
 <h3>Date d'entrée en vigueur</h3>

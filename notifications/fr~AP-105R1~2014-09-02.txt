@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2 class="pn-content-title">Contenu de l'AP-105R1</h2>
 <h3>Objet</h3>
 <p>Le présent avis relatif aux politiques 105R1 (AP-105R1) vise à informer tous les employés du Programme des approvisionnements et toute autre personne fournissant des services d'approvisionnement pour le compte du Programme des approvisionnements des nouveaux niveaux de complexité des achats, de l'évaluation des risques et des pouvoirs d'approbation.</p>
 <p>L'<abbr title="Avis relatif aux politiques">AP</abbr>-105R1 introduit l'accroissement des niveaux de complexité des achats de trois à cinq, et fournit des précisions et établit les normes quant à la délégation des pouvoirs à tous les niveaux de complexité. Le Guide des approvisionnements sera modifié de façon à refléter ces changements.</p>

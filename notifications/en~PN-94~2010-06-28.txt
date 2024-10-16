@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-94</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>Starting July 1, 2010, the provincial sales taxes in Ontario and British Columbia will be replaced by a value-added tax structure and combined with the federal Goods and Services Tax (<abbr title="Goods and Services Tax">GST</abbr>) to create a single, federally administered Harmonized Sales Tax (<abbr title="Harmonized Sales Tax">HST</abbr>). The <abbr title="Harmonized Sales Tax">HST</abbr> will be applied on most supplies of property and services made in those provinces at a blended rate of 13% in Ontario (5% federal component and 8% provincial component) and 12% in British Columbia (5% federal component and 7% provincial component). With some exceptions, the <abbr title="Harmonized Sales Tax">HST</abbr> will apply to the same base of property and services as the <abbr title="Goods and Services Tax">GST</abbr>.</p>

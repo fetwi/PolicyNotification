@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-127</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose</h3>
 <p>The purpose of Policy Notification (PN) 127 is to inform all Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) contracting officers of the revised <a href="https://www.njc-cnm.gc.ca/directive/d10/en" rel="external">National Joint Council Travel Directive</a>. The revised National Joint Council (NJC) Travel Directive indicates that incidental expense allowances are to be paid to public service employees rather than to travellers. This <abbr title="Policy Notification">PN</abbr> is issued to address the <abbr title="National Joint Council">NJC</abbr> Travel Directive dated July 1, 2017 regarding the exclusion of payment of incidentals to contractors.</p>

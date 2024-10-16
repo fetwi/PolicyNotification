@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-50R</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p><strong>Policy</strong></p>
 <p>In accordance with Treasury Board Secretariat (TBS) Contracting Policy Notice 2003-04, Strengthened Federal Contractors Program for Employment Equity: "Effective July 1, 2003, officials are to implement a revised Federal Contractors Program for Employment Equity through the Treasury Board Contracting Policy (Appendix D). Departments have a three-month transition period from that date to amend their policies and procedures accordingly."</p>

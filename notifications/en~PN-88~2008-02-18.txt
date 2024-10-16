@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-88</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>The purpose of Policy Notification (PN) 88 is to update  contracting officers on changes to the Public Works and Government Services  Canada (PWGSC) insurance clauses contained in the <em>Standard Acquisitions  Clauses and Conditions (SACC) Manual</em>, Section 5-G, and referenced in Annex  6.7 of the <em>Supply Manual</em>. The  insurance clauses have been updated to more accurately reflect standard  conditions present in the marketplace. </p>

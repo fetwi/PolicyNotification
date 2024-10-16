@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-147</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose</h3>
 <p>The purpose of Policy Notification (PN)-147 is to notify Acquisitions Program (AP) contracting officers of the updates to the <a class="gov" href="https://www.gcpedia.gc.ca/gcwiki/images/d/d0/Directive_on_the_Use_of_Cost_and_Price_Analysis_FINAL_EN.pdf" rel="external">Directive on the Use of Cost and Price Analysis Services</a><span> (accessible only on the Government of Canada network)</span> and the corresponding <a class="gov" href="https://www.gcpedia.gc.ca/gcwiki/images/d/dd/Guideline_on_the_Use_of_Cost_and_Profit_Analysis_FINAL_EN.pdf" rel="external">Guideline on the Use of Cost and Price Analysis Services</a><span> (accessible only on the Government of Canada network)</span>.</p>

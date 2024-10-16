@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2 class="pn-content-title">Contenu de l'AP-154</h2>
 <h3>But</h3>
 <p>Le but de l’Avis relatif aux politiques (AP)-154 est d’informer les agents de négociation des contrats du Programme des approvisionnements (PA) des nouvelles clauses de vérification aux fins d’harmonisation avec les orientations actuelles en matière d’établissement des prix.</p>
 <p>L’inclusion de clauses de vérification générales et supplémentaires dans le Guide des clauses et conditions uniformisées d’achat (CCUA) permet de renforcer et de clarifier l’utilisation des clauses de vérification dans les contrats. </p>

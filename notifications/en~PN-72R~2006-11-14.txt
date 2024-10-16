@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-72R</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This replaces the original Policy Notification (PN)-72 of December 13, 2005, in its entirety.<br/>
 					This notification provides new direction to all procurement personnel on a new process for the<br/>

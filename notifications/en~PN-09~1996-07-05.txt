@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-09</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Distribution, to senior management, of CPAAs, procurement plans and contract summaries for requirements over $1 million is a condition of the Minister's delegation of contract approval authorities.</p>
 <p>Further to the standard distribution prescribed by the <em>Supply Manual</em> (procedures 6.656 and 6.667) and complementary internal procedures, CPAAs, procurement plans and contract summaries for procurements valued greater than $1 million must be provided to the following distribution lists:</p>

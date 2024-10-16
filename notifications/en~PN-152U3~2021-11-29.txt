@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-152U3</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p><strong>Note:</strong> Several updates were made shortly after the first promulgation of <abbr title="Policy Notification">PN</abbr>-152 on Oct 15, 2021. In the interest of ease of implementation, the latest version <abbr title="Policy Notification">PN</abbr>-152U3 was implemented here. This version includes the changes that were made in <abbr title="Policy Notification">PN</abbr>-152U1 (October 18, 2021), <abbr title="Policy Notification">PN</abbr>-152U2 (October 22, 2021) and <abbr title="Policy Notification">PN</abbr>-152U3 (November 29, 2021).</p>
 <p>Other updates may be published at a later date. As per the regular process in place, <abbr title="Policy Notification">PN</abbr> promulgations will be done by emails until content can be uploaded online in a subsequent release.</p>

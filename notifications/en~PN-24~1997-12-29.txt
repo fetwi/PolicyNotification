@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-24</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>1. Treasury Board Secretariate has provided notice of the amendment of previously established thresholds for the international trade agreements. The new thresholds are applicable for two years, January 1, 1998 to December 31, 1999.</p>
 <p>2. Revised thresholds</p>

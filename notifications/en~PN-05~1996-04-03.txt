@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-05</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>For some time, we have been working together with staff from Indian and Northern Affairs Canada (INAC) to develop a procurement strategy for aboriginal business in order to meet the government's commitment to stimulate aboriginal business development. This strategy has now been approved and was recently announced by Minister Irwin.</p>
 <p>The strategy consists of a procurement policy for aboriginal business, changes to contracting policy and procurement review policy, supplier development activities and the elimination of administrative obstacles inhibiting aboriginal participation in federal procurement.</p>

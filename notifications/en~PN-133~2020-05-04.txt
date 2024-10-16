@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-133</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose</h3>
 <p>The purpose of Policy Notification 133 (PN-133) is to notify all Acquisitions Program (AP) contracting officers of a new policy on the Cost Accounting Practices (CAP) Submission. This <abbr title="Policy Notification">PN</abbr> supports the <a class="gov" href="http://www.gcpedia.gc.ca/gcwiki/images/d/d0/Directive_on_the_Use_of_Cost_and_Price_Analysis_FINAL_EN.pdf" rel="external">Directive on the Use of Cost and Price Analysis Services</a><span> (accessible only on the Government of Canada network)</span>.</p>

@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-106</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose</h3>
 The purpose of Policy Notification 106 (PN-106) is to notify all Acquisitions Branch and Regional employees of changes to the <cite>Supply Manual</cite> and the Standard Procurement Templates concerning all references to security requirements in contracting.

@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-111</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose</h3>
 <p>The purpose of Policy Notification 111 (PN-111) is to notify all Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) employees and any other persons providing procurement services on behalf of <abbr title="Acquisitions Program">AP</abbr> about the Public–Private Partnership (P3) procurement approach.</p>

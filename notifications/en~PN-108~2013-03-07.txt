@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-108</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Effective Date: March 7, 2013</h3>
 <p>This <abbr title="Policy Notification">PN</abbr> was originally promulgated via a Communiqué to <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Procurement Staff on March 7, 2013.  This published version includes the following updates:  A revision to Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual Sections to include Clauses C3010T, C6001T, C9010C, C9011C, D6009C, M3025T, M3026T, M4506C and S3025T; and, revisions to Annex A, in French only, to make corrections to the text of General Conditions 2010A 01 – Interpretation.</p>

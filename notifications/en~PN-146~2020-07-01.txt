@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-146</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose</h3>
 <p>The purpose of Policy Notification (PN) 146 is to inform Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) of the entry into force of the <a href="https://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/cusma-aceum/text-texte/toc-tdm.aspx?lang=eng" rel="external"><cite>Canada-United States-Mexico Agreement</cite> (CUSMA)</a> and its effect on government procurement. <strong>The Government Procurement Chapter of <abbr title="Canada-United States-Mexico Agreement">CUSMA</abbr> does not apply to Canada</strong> – it applies to the United States and Mexico only.</p>

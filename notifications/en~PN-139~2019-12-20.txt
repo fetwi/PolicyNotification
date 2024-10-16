@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-139</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose </h3>
 <p>The purpose of Policy Notification (PN)-139 is to inform <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Acquisitions Program (AP) contracting officers of the new <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32610" rel="external">Directive on Government Contracts Including Real Property Leases in the Nunavut Settlement Area (the Directive)</a> and the accompanying contracting guidance document titled "<a href="https://buyandsell.gc.ca/for-government/buying-for-the-government-of-canada/plan-the-procurement-strategy#nunavut-directive">Guide on Government Contracts in the Nunavut Settlement Area</a>" (the Guide). <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s Real Property Services have developed a separate Guide on Real Property Leases in the <abbr title="Nunavut Settlement Area">NSA</abbr>.</p>

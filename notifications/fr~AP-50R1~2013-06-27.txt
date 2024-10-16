@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2 class="pn-content-title">Contenu de l'AP-50R1</h2>
 <h3>Objet</h3>
 <p>L'Avis relatif aux politiques 50R1 (AP 50R1) vise à rendre compte des modifications apportées au Programme de contrats fédéraux (PCF) pour l’équité en matière d’emploi.</p>
 <h3>Date d’entrée en vigueur</h3>

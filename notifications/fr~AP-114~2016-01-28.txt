@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2 class="pn-content-title">Contenu de l'AP-114</h2>
 <h3>Objet</h3>
 <p>L’<abbr title="Avis relatif aux politiques">AP</abbr>-114 vise à inciter les employés du Programme des approvisionnements (PA) de Travaux publics et Services gouvernementaux Canada (TPSGC) ainsi que toute autre personne fournissant des services d’approvisionnement pour le compte du <abbr title="Programme des approvisionnements">PA</abbr> à recourir à des instruments de paiement électronique, sans papier.</p>
 <p>Les cartes d’achat peuvent être utilisées à la fois comme instrument d’approvisionnement et comme instrument de paiement et peuvent permettre de réaliser des gains d’efficience. Par conséquent, à n’importe quelle étape du processus d’approvisionnement mais de préférence au cours de l’étape de définition des besoins, les agents de négociation des contrats devraient analyser avec le client les possibilités qui existent quant à l’utilisation des instruments de paiement électronique.</p>

@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-137</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>Policy Notification (PN) 137 is to inform Acquisitions Program on recent changes to contracting limits in Appendix C of the Treasury Board (TB) <cite>Contracting Policy</cite> and recent amendments to the <cite>Government Contracts Regulations</cite>. </p>

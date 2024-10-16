@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-62U</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>The purpose of Policy Notification (PN)-62U is to update Incoterms 2000 and other miscellaneous shipping instructions, and related invoicing clauses. PN-62 was originally promulgated in May 2003 to introduce shipping clauses which use the Incoterm 2000 "FCA Free Carrier (...named place)" instead of Free on Board (FOB) Plant for Department of National Defence (DND) sole source contracts.</p>

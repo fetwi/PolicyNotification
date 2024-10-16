@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-78</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>Bill C-13, "An Act to implement certain provisions of the budget tabled in Parliament on May  2, 2006," which includes a reduction in the rate of the goods and services tax (GST) and the federal component of the harmonized sales tax (HST), received Royal Assent on June 22, 2006.  As a result, effective July 1, 2006, the rate of the GST will be reduced from 7% to 6%, and the rate of the HST will be reduced from 15% to 14%.</p>

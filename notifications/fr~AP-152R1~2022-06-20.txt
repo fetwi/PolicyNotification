@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
+<h2 class="pn-content-title">Contenu de l'AP-152R1</h2>
 <h3 id="AP-152R1a1">But</h3>
 <p>L’avis relatif aux politiques (AP)-152R1 a pour but d’informer les autorités contractantes du gouvernement du Canada de la suspension de la Politique de vaccination contre la COVID-19 relative au personnel des fournisseurs (la politique) de Travaux publics et Services gouvernementaux Canada (TPSGC).</p>
 <p>Cet <abbr title="Avis relatif aux politiques">AP</abbr> remplace l’<abbr title="Avis relatif aux politiques">AP</abbr>-152U3 dans son intégralité.</p>

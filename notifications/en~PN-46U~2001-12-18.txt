@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-46U</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>1. Treasury Board Secretariat has provided notice of the amendment of previously established thresholds for the international trade agreements. The new thresholds in Canadian dollars are applicable for two years, January 1, 2002 to December 31, 2003.</p>
 <p>2. CKTEA has the same WTO-AGP threshold for goods, therefore the CKTEA threshold in Canadian dollars has also changed.</p>

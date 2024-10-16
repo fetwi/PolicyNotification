@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-107U1</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>Through this Policy Notification 107U1 – Integrity Provisions (PN-107U1), Public Works and Government Services Canada (PWGSC) is updating the Integrity Provisions surrounding its procurement and real property transactions. The updated provisions include new offences and similar foreign offences, establishment of a Time Period within which convicted suppliers will be ineligible to do business with <abbr title="Public Works and Government Services Canada">PWGSC</abbr>, and extension of the Integrity Provisions to subcontractors.</p>

@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-11R2</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction:</h3>
 <p>This  replaces Policy Notification PN-11R1 of November 4, 2010 in its entirety.  Policy Notification PN-11R2 updates the 1996 version of the Vendor Performance  Policy (VPP) and PN-11R1. These policy notifications clarify the purpose and  scope of the policy, and further standardize the processes and procedures  pertaining to the application of a Vendor Performance Corrective Measure  (VPCM). The fair, open and transparent treatment of vendors  will continue to be a fundamental principle of the policy.</p>

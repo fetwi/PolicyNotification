@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-03</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Treasury Board Approval</h3>
 <p>6.006 (01/01/96) TB approval is required for competitive service contracts with former public servants in receipt of a pension, if the total amount payable under the contract, including any amendments, exceeds $100,000 and non-competitive contracts if the total amount payable under the contract, including any amendments, exceeds $25,000. (See 6.477.)</p>

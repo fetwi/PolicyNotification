@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-26</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h4>Procurement Strategy Committee</h4>
 <p>Effective December 19, 1997, requirements in excess of $2 million which fall under the following categories, are no longer subject to consideration by the Procurement Strategy Committee:</p>

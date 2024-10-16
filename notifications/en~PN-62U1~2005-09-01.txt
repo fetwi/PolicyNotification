@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-62U1</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h4>Introduction</h4>
 <p>The purpose of Policy Notification (PN) 62U1 is to update the shipping instructions detailed in <em>Standard Acquisitions Clauses and Conditions</em> (SACC) Manual clause D0035D given that the Department of National Defence (DND) shipping contract with Transcar GMBH is expiring as of 01 September 2005.  All new and existing procurement documents that involve shipping to Europe on or after 01 September 2005 must include updated SACC clause <a href="#PN-62U1D0035D">D0035D</a>. </p>

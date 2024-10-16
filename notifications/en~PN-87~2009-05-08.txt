@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-87</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3 id="PN-87no1">Introduction</h3>
 <p>The purpose of Policy Notification (PN) 87 is to revise the common service acquisition authorities, associated conditions and related procedures in the Supply Manual. On April 17, 2009, the Minister approved a new departmental Delegation of Authority instrument. Schedule 3 of this instrument sets out the maximum limits for common service acquisition authorities. The Supply Manual tables of approval and signing authority limits have been modified to reflect changes as a result of the new delegation instrument.</p>

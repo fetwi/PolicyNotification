@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-76</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The <em>Standard Acquisitions Clauses and Conditions</em> (SACC) Manual update, Version 05-1 released June 10, 2005, issued a revised version of clauses M0000T and M0000C.  A problem has been identified in the wording of the revised version which makes it improper to use the clauses as revised.  As a result, the revised versions of clauses M0000T and M0000C released on June 10, 2005, are temporarily put on hold. </p>
 <p>Effective immediately, clauses M0000T and M0000C bearing the date "2005-06-10" shall not be used.  Contracting officers shall continue to use the prior version of these clauses until further notice: M0000T, released May 14, 2004; and M0000C, released December 12, 2003, which are either available electronically on the SACC Manual web site or as attached in Annex A.</p>

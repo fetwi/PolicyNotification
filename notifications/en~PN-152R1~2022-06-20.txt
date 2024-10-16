@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-152R1</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3 id="PN-152R1a1">Purpose</h3>
 <p>The purpose of Policy Notification (PN)-152R1 is to inform Government of Canada contracting authorities of the suspension of Public Works and Government Services Canada’s (PWGSC) COVID-19 Vaccination Policy for Supplier Personnel (“the policy”).</p>

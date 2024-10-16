@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-66</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose</h3>
 <p>The purpose of PN-66 is to revise the policy and guidelines on extending the bid validity period and to incorporate additional terms to the standard instructions and conditions (9403 series) to inform bidders in the original solicitation of Canada's right to seek an extension of bid validity period, and of Canada's options to proceed to award with only those bidders who have agreed to the extension, or to cancel the solicitation, or cancel and reissue the solicitation, should any of the bidders not agree to extend the validity period of their bid.</p>

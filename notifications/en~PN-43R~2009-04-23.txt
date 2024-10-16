@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-43R</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>This Policy Notification (PN)-43R supersedes PN-43U released March 19, 2001.  As client departments increase their project management capacities and capabilities relating to construction and architectural and engineering (A&amp;E) services, it is incumbent upon Public Works and Government Services Canada (PWGSC) to remove barriers to using our contracting services and recognize the willingness of client departments in accepting responsibility and accountability for their requirements.  As such, PN-43U requires updating for a clearer and more formal definition of the roles and responsibilities of the client departments, Real Property Branch (RPB) and Real Property Contracting (RPC) Acquisitions Branch (AB).  Consequently, the Client Responsibilities Certification introduced in 2001 is replaced by a formal Memorandum of Understanding.</p>

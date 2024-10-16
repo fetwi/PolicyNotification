@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-70</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>In Budget 2005 the government announced that as part of its action plan to realize procurement savings it will be mandatory for departments to use 'standing offers' negotiated by Public Works and Government Services Canada (PWGSC).</p>

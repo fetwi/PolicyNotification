@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-128</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose</h3>
 <p>The purpose of Policy Notification (PN)-128 is to inform all Public Works and Government Services Canada (PWGSC) Acquisitions Program's contracting officers of the implementation of an additional receiving method using Canada Post Corporation’s epost Connect service in the Bid Receiving Unit (BRU), Headquarters (HQ), located in the National Capital Region (NCR). The ability for contracting officers to offer to suppliers the use of the epost Connect service as a delivery method to <abbr title="Bid Receiving Unit">BRU</abbr>s located within Acquisitions Program's regional offices will be provided through amendment(s) to this <abbr title="Policy Notification">PN</abbr>.</p>

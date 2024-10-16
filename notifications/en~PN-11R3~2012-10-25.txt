@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-11R3</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction:</h3>
 <p>Policy Notification 11R3 (PN-11R3) replaces <abbr title="Policy Notification">PN</abbr>-11R2 of June 29, 2011 in its entirety.  All the provisions of this <abbr title="Policy Notification">PN</abbr> are retroactive to June 29, 2011. <abbr title="Policy Notification">PN</abbr>-11R3 clarifies the purpose and scope of the policy, and further standardizes the processes and procedures pertaining to the application of a Vendor Performance Corrective Measure (VPCM). Fairness, openness and transparency will continue to be fundamental principles of the policy.</p>

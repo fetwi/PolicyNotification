@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-22U1</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Under advisement from Treasury Board, there is no continuing requirement to include the Year 2000 Warranty SACC clauses in contracts and standing offers except where there is residual repair work either contemplated or in progress for procurements of goods or services which were thought to require date related processing prior to, during or after the Year 2000.</p>
 <p>The following list of SACC clauses were put into effect for the purpose of covering procurement into the year 2000 and will remain active for residual repair work until further notice:</p>

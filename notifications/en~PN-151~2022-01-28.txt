@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-151</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose</h3>
 <p>The purpose of Policy Notification (PN)-151 is to inform Public Works and Government Services Canada (PWGSC) Acquisitions Program contracting officers of updates to the <a href="https://www.tpsgc-pwgsc.gc.ca/app-acq/cndt-cndct/cca-ccp-eng.html" rel="external"><cite>Code of Conduct for Procurement</cite></a> (the Code).</p>

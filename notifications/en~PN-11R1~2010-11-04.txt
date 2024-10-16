@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-11R1</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>The purpose of Policy Notification PN-11R1 is to update the Vendor Performance Policy (<abbr title="Vendor Performance Policy">VPP</abbr>) issued in 1996. <abbr title="Public Works and Government Services Canada">PWGSC</abbr> has clarified the purpose of the <abbr title="Vendor Performance Policy">VPP</abbr>, which is to mitigate risks for future contracts, and has further standardized the processes and procedures for the approval and application of a Vendor Performance Corrective Measure (<abbr title="Vendor Performance Corrective Measure">VPP</abbr>). The fair, open and transparent treatment of vendors will continue to be a fundamental principle of the <abbr title="Vendor Performance Policy">VPP</abbr>.</p>

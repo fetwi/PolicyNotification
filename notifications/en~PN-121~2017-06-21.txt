@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-121</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Purpose</h3>
 <p>The purpose of Policy Notification (PN) 121 is to encourage the use of acquisition cards (Visa, MasterCard) as another option to procure goods and services under standing offers and supply arrangements (SO/SAs). The acquisition cards can be used instead of form 942 (Call-Up Against a Standing Offer) as the procurement tool. This means that the requirement for issuing form 942 when requesting goods and/or services is no longer mandatory but optional.</p>

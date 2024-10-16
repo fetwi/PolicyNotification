@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-90</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h3>Introduction</h3>
 <p>The purpose of Policy Notification (PN) 90 is to provide instructions for the advance review and consent of Department of National Defence (DND) proposed transactions to buy or otherwise acquire goods directly from the North Atlantic Treaty Organization (NATO) Maintenance and Supply Agency (NAMSA).</p>

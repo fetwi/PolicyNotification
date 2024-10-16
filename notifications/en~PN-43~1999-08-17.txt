@@ -1,5 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div>
+<h2 class="pn-content-title">Content of PN-43</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>1. The Supply Operations Service (HQ and Regions) <strong>will not</strong> use its delegated contracting authorities for (i) construction, and (ii) A&amp;E services, unless the Real Property Services Branch (RPSB) is the client, and/or the technical authority for the project.</p>
 <p>Contracts that might be entered into using <strong>these two specific types</strong> of authority are called, in this Policy Notification, real property contracts.</p>
