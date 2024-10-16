@@ -1,5 +1,4 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
-<h2 class="pn-content-title">Contenu du AP-117U</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Objectif</h2>
 <p>L’objectif de l’Avis relatif aux politiques 117 est de fournir une orientation aux agents de négociation des contrats dans le cadre du traitement des attestations, des déclarations et des preuves pour toutes les demandes de soumissions publiées par le Programme des approvisionnements de Travaux publics et Services gouvernementaux Canada (TPSGC).</p>

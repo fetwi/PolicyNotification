@@ -1,5 +1,4 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
-<h2 class="pn-content-title">Contenu du AP-143</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Objet</h2>
 <p>Le but de l’avis relatif aux politiques (AP)-143 est d’informer les agents de négociation des contrats du Programme des approvisionnements (PA) des mises à jour du Guide des approvisionnements aux processus de ventes militaires à l’étranger (<span lang="en">Foreign Military Sales</span> [FMS]) décrits dans le chapitre 9.15.</p>

@@ -1,5 +1,4 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
-<h2 class="pn-content-title">Content of PN-20</h2>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>1. On February 13, 1997, the Treasury Board approved increases in the following threshold levels for entering into and/or amending contracts above which Public Works and Government Services must seek Treasury Board approval:</p>

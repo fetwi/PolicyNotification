@@ -1,5 +1,4 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
-<h2 class="pn-content-title">Content of PN-07</h2>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Legal counsel at Industry Canada has concluded that procurements which are subject to Comprehensive Land Claim Agreements (CLCAs) can also be subject to the Agreement on Internal Trade (AIT). Based on Article 1802 of the <acronym title="Agreement on Internal Trade">AIT</acronym>, Industry Canada considers that the notification and other requirements in the <acronym title="Comprehensive Land Claim Agreements">CLCA</acronym>s are "measures", as defined in Chapter 2 of the <acronym title="Agreement on Internal Trade">AIT</acronym>, and, that, to the extent they are "severable" from the procurement as a whole, are excluded from the obligations of the <acronym title="Agreement on Internal Trade">AIT</acronym>, but the procurement itself and all other aspects of it remain covered.</p>

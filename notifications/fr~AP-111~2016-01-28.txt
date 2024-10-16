@@ -1,5 +1,4 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
-<h2 class="pn-content-title">Contenu du AP-111</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Objet</h2>
 <p>L’avis relatif aux politiques 111 (AP-111) vise à fournir des renseignements au sujet de la méthode d’approvisionnement en partenariat public-privé (PPP) à tous les employés du Programme des approvisionnements (PA) de Travaux publics et Services gouvernementaux Canada (TPSGC) et à toute autre personne fournissant des services d’approvisionnement pour le compte du <abbr title="Programme des approvisionnements">PA</abbr>.</p>

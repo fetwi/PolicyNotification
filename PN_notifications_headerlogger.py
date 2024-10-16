@@ -7,7 +7,7 @@ directory = os.path.join(dir_path, "notifications")
 
 # Function to check for h1 or h2 tags in the content
 def contains_h1_or_h2(content):
-    return re.search(r'<h1', content, re.IGNORECASE) is not None
+    return re.search(r'<h2', content, re.IGNORECASE) is not None
 
 # Iterate over all files in the directory
 for filename in os.listdir(directory):

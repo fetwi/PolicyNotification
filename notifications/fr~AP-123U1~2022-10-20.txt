@@ -1,5 +1,4 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
-<h2 class="pn-content-title">Contenu du AP-123U1</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Objet</h2>
 <p>L’avis relatif aux politiques (AP)-123U1 a pour but d’informer les agents de négociation des contrats du Programme des approvisionnements (PA) de Travaux publics et Services gouvernementaux Canada (TPSGC) que la Politique sur le Processus de conformité des soumissions en phases (PCSP) a été révisée et que le manuel du <abbr title="Processus de conformité des soumissions en phases">PCSP</abbr> est maintenant disponible sur GCpédia.</p>

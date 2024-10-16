@@ -1,5 +1,4 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
-<h2 class="pn-content-title">Contenu du AP-120</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>But</h2>
 <p>Le but de cet avis relatif aux politiques (AP) 120 est de fournir des directives à jour aux agents de négociation des contrats concernant l’utilisation admissible du processus de passation de contrats non concurrentiels pour les besoins de moins de 25 000 $ (c.-à-d. besoins de faible valeur). </p>

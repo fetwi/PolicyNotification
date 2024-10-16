@@ -1,5 +1,4 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
-<h2 class="pn-content-title">Content of PN-22</h2>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The year 2000 computer problem has the potential to cause severe disruption in the Government of Canada's computer systems. To reduce the probability of this disruption, procurement staff shall, effective immediately, follow the procedures detailed in Annex "A" attached, and use the applicable clause contained in Annex "B" attached, to obtain a warranty from vendors for procurements which include the provision of hardware, software, firmware or services for systems which will be required to perform date related processing prior to, during or after the year 2000.</p>

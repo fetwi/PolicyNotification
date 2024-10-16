@@ -1,5 +1,4 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
-<h2 class="pn-content-title">Content of PN-23</h2>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Policies and procedures for issuing Notices of Termination for Convenience have been revised to allow contracting officers to issue an initial Notice of Termination on the basis of written instruction from client departments, prior to receipt of the formalized amendment to the requisition and without seeking legal advice. The initial Notice of Termination which directs the contractor to stop all work and incur no further expense affects a legally binding termination. Following issuance of the initial Notice of Termination a confirming Notice of Termination must be issued; the confirming Notice cannot be issued until the formal requisition amendment is received, and a legal opinion has been sought.</p>

@@ -1,5 +1,4 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
-<h2 class="pn-content-title">Content of PN-19</h2>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Effective immediately, irrevocable standby letters of credit, issued or confirmed by financial institutions which are members of the Canadian Payments Association may be accepted as security for both bidding and contract performance. Treasury Board has indicated that a specific form for letters of credit is not to be developed. Letters of credit must however, to be deemed acceptable, contain the elements specified within the policy. Most, if not all, financial institutions have standard forms which include these elements.</p>

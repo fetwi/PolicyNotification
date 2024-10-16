@@ -1,5 +1,4 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
-<h2 class="pn-content-title">Content of PN-30</h2>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>1. The Supply Manual (procedures 5.072 and 7.366 and Annex 5.5) and the Standard Acquisition Clauses and Conditions Manual (clause K4000D) have been revised to show a change to the Rules of Origin as applied under the Canadian Content Policy. The NAFTA Rules of Origin have replaced the FTA Rules of Origin as rules of origin for the Policy. These revisions are effective immediately.</p>

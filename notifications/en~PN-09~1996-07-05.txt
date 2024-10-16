@@ -1,5 +1,4 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
-<h2 class="pn-content-title">Content of PN-09</h2>
 <div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Distribution, to senior management, of CPAAs, procurement plans and contract summaries for requirements over $1 million is a condition of the Minister's delegation of contract approval authorities.</p>

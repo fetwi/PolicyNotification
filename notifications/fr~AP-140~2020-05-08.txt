@@ -1,5 +1,4 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
-<h2 class="pn-content-title">Contenu du AP-140</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Objet</h2>
 <p>Le présent avis relatif aux politiques (AP)-140 vise à informer les agents de négociation des contrats du Programme des approvisionnements (PA) de Travaux publics et Services gouvernementaux Canada (TPSGC) de la création d'un nouveau groupe de produits (GP) en gestion de l'information et technologie de l'information (GI-TI), soit les logiciels-services (<abbr lang="en" title="Software as a Service">SaaS</abbr>) dans un nuage public, et la clause d'accompagnement à utiliser pour ce groupe de produits.</p>

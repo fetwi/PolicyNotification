@@ -1,5 +1,4 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
-<h2 class="pn-content-title">Contenu du AP-84</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <!-- InstanceBeginEditable name="content" --><h1><a id="AP-84cont" name="cont"><br/>
 AP-84 : Documents uniformisés d'approvisionnement ministériels : Modifications aux modèles pour les besoins plus complexes, de complexité moyenne et les offres à commandes - biens, services ou les deux</a></h1> <div class="region region-site-wide-message">

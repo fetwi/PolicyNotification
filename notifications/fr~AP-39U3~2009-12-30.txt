@@ -1,5 +1,4 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
-<h2 class="pn-content-title">Contenu du AP-39U3</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2>Introduction</h2>
 <p>L'avis relatif aux politiques (<abbr title="Avis relatif aux politiques">AP</abbr>)-39U3 consiste à mettre à jour les instructions à l'intention des agents de négociation des contrats concernant les préavis d'adjudication de contrats (PAC).</p>
