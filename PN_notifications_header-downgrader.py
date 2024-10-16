@@ -25,8 +25,8 @@ for filename in os.listdir(directory):
         with open(os.path.join(directory, filename), 'r', encoding='utf-8') as file:
             content = file.read()
 
-        # Check if the content contains <h1> or <h2> tags
-        if h1_pattern.search(content) or h2_pattern.search(content):
+        # Check if the content contains <h2> tags
+        if h2_pattern.search(content):
             # Downgrade all header tags by one level
             modified_content = content
             for tag, (pattern, replacement) in header_patterns.items():
