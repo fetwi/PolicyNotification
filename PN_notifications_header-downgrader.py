@@ -9,12 +9,12 @@ directory = os.path.join(dir_path, "notifications")
 h1_pattern = re.compile(r'<h1(.*?)>(.*?)<\/h1>', re.DOTALL)
 h2_pattern = re.compile(r'<h2(.*?)>(.*?)<\/h2>', re.DOTALL)
 header_patterns = {
-    'h1': (re.compile(r'<h1(.*?)>(.*?)<\/h1>', re.DOTALL), '<h2\\1>\\2</h2>'),
-    'h2': (re.compile(r'<h2(.*?)>(.*?)<\/h2>', re.DOTALL), '<h3\\1>\\2</h3>'),
-    'h3': (re.compile(r'<h3(.*?)>(.*?)<\/h3>', re.DOTALL), '<h4\\1>\\2</h4>'),
-    'h4': (re.compile(r'<h4(.*?)>(.*?)<\/h4>', re.DOTALL), '<h5\\1>\\2</h5>'),
+    'h6': (re.compile(r'<h6(.*?)>(.*?)<\/h6>', re.DOTALL), '<h6\\1>\\2</h6>'),  # h6 remains h6
     'h5': (re.compile(r'<h5(.*?)>(.*?)<\/h5>', re.DOTALL), '<h6\\1>\\2</h6>'),
-    'h6': (re.compile(r'<h6(.*?)>(.*?)<\/h6>', re.DOTALL), '<h6\\1>\\2</h6>')  # h6 remains h6
+    'h4': (re.compile(r'<h4(.*?)>(.*?)<\/h4>', re.DOTALL), '<h5\\1>\\2</h5>'),
+    'h3': (re.compile(r'<h3(.*?)>(.*?)<\/h3>', re.DOTALL), '<h4\\1>\\2</h4>'),
+    'h2': (re.compile(r'<h2(.*?)>(.*?)<\/h2>', re.DOTALL), '<h3\\1>\\2</h3>'),
+    'h1': (re.compile(r'<h1(.*?)>(.*?)<\/h1>', re.DOTALL), '<h2\\1>\\2</h2>')
 }
 
 # Iterate over all files in the directory
