@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-07R</h2>
 
@@ -24,4 +25,5 @@
 <p>Le présent accord ne s'applique pas aux mesures adoptées ou maintenues à l'égard des peuples autochtones. Il ne modifie pas les droits existants -- ancestraux ou issus de traités -- reconnus et confirmés par l'article 35 de la <em>Loi constitutionnelle de 1982</em> aux peuples autochtones du Canada.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

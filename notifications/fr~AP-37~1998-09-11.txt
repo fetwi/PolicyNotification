@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-37</h2>
 
@@ -39,4 +40,5 @@
 <p>Chaque étape du processus apporte une responsabilité de communiquer deux types d'information : quel est le moment auquel la demande sera acheminée à la prochaine étape de la chaîne, et quels sont les problèmes de calendrier qui peuvent intervenir dans l'obtention de l'examen d'une demande. Dès que possible, on doit s'entendre de manière ferme sur le processus à suivre lorsque cela est possible (p. ex. le directeur enverra le dossier au DG par courrier électronique dans tel délai; ou le DG et le SMA se rencontreront pour discuter du besoin à tel moment; ou le SMA rencontrera le ministre pour présenter le cas à tel moment).</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-85</h2>
 
@@ -195,4 +196,5 @@
 <p>9J.4 (2007-xx-xx) Avant l'établissement d'un AA, l'agent de négociation des contrats élaborera et publiera une demande d'arrangement en matière d'approvisionnement concurrentielle, qui permettra de sélectionner un groupe convenable de fournisseurs en fonction des critères d'évaluation énoncés. À ce même moment, les exigences en matière de sécurité industrielle (c.-à-d. la sécurité du personnel, des installations et de la technologie de l'information) doivent être définies, lorsque tous les clients qui auront recours à l'AA seront visés par un ou tous ces aspects relatifs à la sécurité. (<em>Voir 3.009, 6C.270 - 6C.278 et 7E.534 - 7E.536 pour plus de renseignements concernant le traitement des approvisionnements avec des exigences en matière de sécurité.</em>)</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

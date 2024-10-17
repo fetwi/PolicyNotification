@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-76U</h2>
 
@@ -49,4 +50,5 @@
 <p>7A.081 (XXXX-XX-XX)   Les instructions et conditions uniformisées 9403-6, <span>Offre à commandes</span>, sont conçues spécialement pour les offres à commandes et devraient être <strong>incorporées par renvoi</strong> <span>utilisées avec la clause M0000T</span> au début de chaque demande d'offre à commandes et de <strong>chaque autorisation de passer des</strong> commandes subséquentes à une offre à commandes.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

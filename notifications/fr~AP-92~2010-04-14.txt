@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-92</h2>
 <h3>Introduction</h3>
@@ -31,4 +32,5 @@
 <h3>Personne-ressource</h3>
 <p>Le directeur principal de la Direction de la gestion du rendement, des dépenses et des biens et services (DGRDBS) est le bureau de première responsabilité en ce qui concerne la Politique de gestion des biens et des services. Les demandes de renseignements doivent être envoyées par courriel à la Division de la coordination des biens et des services, <abbr title="La Direction de la gestion du rendement, des dépenses et des biens et services">DGRDBS</abbr>, à : <a href="mailto:DCBS-CCD@tpsgc-pwgsc.gc.ca" rel="external">DCBS-CCD@tpsgc-pwgsc.gc.ca</a></p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

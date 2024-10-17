@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-64</h2>
 
@@ -101,4 +102,5 @@
 					Une DPrix est une demande de propositions utilisée pour obtenir des soumissions pour des achats de faible valeur estimés à moins de 25000$ (incluant toutes les taxes applicables) auprès d'un ou de plusieurs fournisseurs. Il s'agit d'une demande présentée aux soumissionnaires, évaluée en vue d'accepter la soumission admissible la plus basse. Une DPrix peut ne pas comprendre toutes les modalités d'un contrat, et la réponse ou la soumission fournie par le soumissionnaire est de l'information pouvant être utilisée pour former le document contractuel pertinent, en plus des modalités et du prix final. Il est préférable d'éviter de négocier; cependant, lorsque le besoin n'a pas été défini adéquatement en raison de contraintes de temps et de coûts, il peut être nécessaire de négocier afin d'obtenir le meilleur rapport qualité-prix. (Voir 5.148.) (xx/xx/xx) (Request for Quotation [RFQ])</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

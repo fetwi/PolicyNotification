@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-26</h2>
 
@@ -26,4 +27,5 @@
 <p>Les cas devant faire l'objet d'un examen détaillé de la part du CEA proviennent habituellement de la catégorie G. Les achats assujettis à l'ALENA et à l'OMC doivent également être triés par le CSA et ce, même s'ils n'ont pas à être revus par le CEA.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AAC-003</h2>
 <h3>Objet</h3>
@@ -33,5 +34,6 @@
 <li class="views-row views-row-2 views-row-even views-row-last">
 <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2035ACB">3.2035ACB: AchatsCanadaBuys Conditions générales :  besoins plus complexes de services</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

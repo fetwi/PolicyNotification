@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-100</h2>
 <h3>Introduction</h3>
@@ -14,4 +15,5 @@
 <h3>Personne-ressource</h3>
 <p>Pour de plus amples renseignements, veuillez communiquer avec Susan Blakeney, Direction de la politique et du processus d'approvisionnement, par téléphone au 819-956-8235 ou par courriel à l'adresse suivante : <a href="mailto:susan.blakeney@tpsgc-pwgsc.gc.ca" rel="external">susan.blakeney@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-75R1</h2>
 <p>Le but de l'avis relatif aux politiques (<abbr title="Avis relatifs aux politiques">AP</abbr>)-75R1 est de fournir de nouvelles directives au  personnel des approvisionnements à l'égard des contrats avec autorisation de  tâches. La nouvelle démarche comporte de nouveaux outils et de nouvelles lignes  directrices ainsi que des modifications au <em>Guide  des approvisionnements</em> (<abbr title="Guide des approvisionnements">GDA</abbr>) et de nouvelles clauses dans le guide des<em> Clauses et conditions  uniformisées d'achat</em> (<abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr>).</p>
@@ -1516,4 +1517,5 @@ Ce tableau propose les rôles et les responsabilités pour les contrats avec aut
 <p>Une  autorisation de tâches qui dépasserait cette limite doit être approuvée par le  __________ <em>(<strong>insérer</strong></em> responsable «   du projet  » <em>ou </em>«  technique  ») et  l'autorité contractante  » <em>ou </em>«   l'autorité contractante  »<em>)</em> avant d'être  émise. </p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

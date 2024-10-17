@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-45</h2>
 
@@ -36,4 +37,5 @@
 <p>Pour tous les services de transport requis dans le cadre de ce contrat, l'entrepreneur accepte de payer les taux de transport minimums établis par les gouvernements provinciaux ou territoriaux où se déroule le projet ou la majeure partie du projet.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

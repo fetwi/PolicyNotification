@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-12R</h2>
 
@@ -154,4 +155,5 @@
 <p>7D.368 (XX/XX/XX) Il appartient au fournisseur de démontrer que sa soumission répond à la définition de biens et (ou) de services canadiens. Ce fournisseur doit signer le formulaire d'attestation et le déposer (voir 5.069). Lorsqu'on se prévaut des clauses K4003T, K4004T , K4005T, K4006T, K4013T, ou K4014T du guide des CCUA, le fournisseur doit indiquer clairement le statut de chacun des différents produits.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

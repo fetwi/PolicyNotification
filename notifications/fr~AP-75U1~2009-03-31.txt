@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-75U1</h2>
 
@@ -34,4 +35,5 @@
 <p>Pour toute demande de renseignements généraux au sujet des rapports sur les achats, envoyer un courriel à : <a href="mailto:ncr.ACQBReporting@tpsgc-pwgsc.gc.ca" rel="external">ncr.ACQBReporting@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

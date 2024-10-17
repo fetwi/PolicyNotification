@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-22U</h2>
 
@@ -77,4 +78,5 @@
 <p>Dans les cas où un client demande que les clauses de la garantie de conversion au nouveau millénaire ne soient pas reproduites dans ses documents d'achat (par exemple lorsqu'on ne se sert pas d'un produit, d'une application ou de services connexes pour effectuer le traitement relatif à la date), le personnel des achats doit accéder à cette demande, à la condition que le directeur général de l'informatique ou son homologue auprès du ministère qui lance la demande d'achat donne par écrit des instructions à cette fin.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

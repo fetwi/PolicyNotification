@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-76</h2>
 
@@ -66,4 +67,5 @@
 <p>Conformément à la <em>Loi sur le ministère des Travaux publics et des Services gouvernementaux</em>, L.C. 1996, ch. 16, les conditions et les clauses indiquées dans la présente par un titre, un numéro et une date, ainsi que les Particularités de l'offre à commandes décrites dans la partie B et, aux fins d'achat de biens, les Conditions décrites dans la partie C des instructions et conditions uniformisées 9403-6 (_____) (insérer la date et supprimer cette instruction) sont incorporées par renvoi à la présente offre à commandes et font partie de tout contrat découlant d'une commande subséquente à ladite offre à commandes comme si elles y étaient formellement reproduites, sous réserve des autres conditions contenues dans la présente.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

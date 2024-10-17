@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-05U</h2>
 
@@ -256,4 +257,5 @@
 <p>Le contrat, incluant les appendices, les annexes et toutes autres modalités, y compris celles intégrées par renvoi et les documents <em>Exigences relatives aux marchés réservés aux entreprises autochtones</em> et <em>Attestation aux fins du Programme des marchés réservés aux entreprises autochtones</em>, dûment remplis et soumis par le soumissionnaire, représente la totalité et la seule entente intervenue entre les parties relativement à l'objet du contrat et remplace toute négociation, communication ou autre entente antérieure, écrite ou verbale, s'y rapportant, à moins qu'elle ne soit intégrée par renvoi au contrat. Seuls les engagements, conditions, déclarations et modalités qui figurent au contrat lient les parties.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

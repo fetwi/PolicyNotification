@@ -20,7 +20,7 @@ for filename in os.listdir(directory):
             new_lines.append(line)
             if '<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>' in line:
                 # Insert text without encoding it
-                new_lines.append('\n<div>\n')
+                new_lines.append('<div>\n')
                 button_found = True
 
         # Add a closing div tag at the end of the document if the button was found

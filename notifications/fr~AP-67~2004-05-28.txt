@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-67</h2>
 
@@ -109,4 +110,5 @@
 <p>7F.717 (xx/xx/xx) Pour tous les projets de marchés qui sont annoncés publiquement, un avis d'adjudication est généré automatiquement dans l'Environnement automatisé de l'acheteur (EAA) et publié par le Service électronique d'appels d'offres du gouvernement (SEAOG) MERX. Toutefois, les projets de marchés qui ne sont pas annoncés pour des raisons de sécurité nationale font exception à cette règle. Les agents de négociation des contrats doivent indiquer, pour chaque contrat, le numéro d'identification des biens et des services (NIBS) pertinent, constitué de huit caractères. Il convient de faire observer que les agents de négociation des contrats qui n'ont pas recours à l'EAA sont chargés de créer un avis d'adjudication à l'aide de l'outil de création d'avis en direct de MERX, car MERX ne créera pas automatiquement cet avis.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

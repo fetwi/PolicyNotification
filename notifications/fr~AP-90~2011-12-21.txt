@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-90</h2>
 <h3>Introduction </h3>
@@ -58,4 +59,5 @@
 <h3>Personnes-ressources </h3>
 <p>Pour les demandes de renseignement relatives au processus d'examen préalable et de consentement concernant les transactions du <abbr title="Ministère de la Défense nationale">MDN</abbr> avec la <abbr title="Organisation du Traité de l'Atlantique Nord d'entretien et d'approvisionnement">NAMSA</abbr>, veuillez communiquer avec la Direction de la politique et du processus d'approvisionnement - Politique d'approvisionnement de la <abbr title="Organisation du Traité de l'Atlantique Nord d'entretien et d'approvisionnement">NAMSA</abbr>, par téléphone, au 819-956-0272, ou par courriel à l'adresse suivante : <a href="mailto:NAMSADPPA.NAMSAAPPD@tpsgc-pwgsc.gc.ca" rel="external">NAMSADPPA.NAMSAAPPD@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

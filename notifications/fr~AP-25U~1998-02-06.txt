@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-25U</h2>
 
@@ -247,4 +248,5 @@
 <p>Un proposant qui exerce ses activités commerciales sous un nom autre que son nom personnel doit, avant l'attribution de l'offre à commandes, de manière à déterminer sa capacité civile fournir, à la demande de l'autorité contractante, une preuve de sa capacité civile sous laquelle il exerce ses activités commerciales. Il peut s'agir d'une copie des documents d'incorporation ou de l'enregistrement d'un nom commercial d'un propriétaire unique, d'une raison sociale (appellation commerciale), de la constitution d'une société.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-51U</h2>
 
@@ -134,4 +135,5 @@
 <p>« <strong>personne exemptée </strong>» L'expression «personne exemptée» (voir question 19) désigne un travailleur temporaire ou un visiteur d'un pays étranger; ces deux catégories de personnes n'entrent pas dans le champ d'application de l'inscription d'une personne inscrite. <strong>Elles doivent se conformer à l'une des deux dispositions existantes du Règlement sur les marchandises contrôlées pour pouvoir examiner ou posséder une « marchandise contrôlée » au Canada</strong>. La <strong>première disposition</strong> stipule qu'une demande d'exemption doit être présentée au nom du travailleur temporaire ou du visiteur, par une personne inscrite au Canada au Programme d'inscription pour les « marchandises contrôlées » de Travaux publics et Services gouvernementaux Canada, pour examen. Si la demande est approuvée, on indiquera au travailleur temporaire ou au visiteur les conditions régissant l'examen, la possession et le transfert de « marchandise contrôlée » au Canada ainsi que la période de validité. La <strong>deuxième disposition</strong> du Règlement sur les « marchandises contrôlées » exempte une catégorie de personnes de l'inscription règlementaire. Cette exemption s'applique au directeur, à l'agent ou à l'employé de la personne inscrite qui a accès aux « marchandises contrôlées » en vertu de l'International Traffic in Arms Regulation (ITAR) des États-Unis. Dans ce cas, on doit fournir à la personne canadienne inscrite une preuve du statut de l'individu en tant que directeur, agent ou employée ainsi qu'une preuve d'inscription de l'employeur à l'ITAR.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

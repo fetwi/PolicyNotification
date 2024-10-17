@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-91</h2>
 <h3>Introduction</h3>
@@ -343,4 +344,5 @@ Autorité contractante</p>
 <h6>6. <strong>S</strong>éances de compte rendu</h6>
 <p>Après l'émission d'un arrangement en matière  d'approvisionnement, les fournisseurs peuvent demander un compte rendu sur les  résultats de la demande d'arrangement en matière d'approvisionnement. Les  fournisseurs devraient en faire la demande au responsable de l'arrangement en  matière d'approvisionnement dans les 15 jours ouvrables, suivant la réception  de l'avis les informant que leur arrangement n'a pas été retenu. Le compte  rendu peut être fourni par écrit, par téléphone ou en personne.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

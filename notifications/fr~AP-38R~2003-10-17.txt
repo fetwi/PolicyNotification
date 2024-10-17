@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-38R</h2>
 
@@ -67,4 +68,5 @@
 <p><em>Les agents de négociation des contrats désirant obtenir des conseils pour aider les ministères clients à rédiger et à demander l'ESN de façon adéquate devraient communiquer avec la DRPA au numéro 819-956-0869.</em></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

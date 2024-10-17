@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-11R2</h2>
 <p>Cet avis remplace au complet l'Avis de politique AP-11R1, publié le 4 novembre 2010. L'Avis de politique AP-11R2 met à jour la version de 1996 de la Politique sur le rendement des fournisseurs (PRF) et l'AP-11R1. Ces avis de politique clarifient le but et la portée de la politique et normalisent davantage les processus et les procédures relatifs à l'application d'une Mesure corrective du rendement d'un fournisseur (MCRF). L'équité, l'ouverture et la transparence continueront d'être des principes fondamentaux de la politique.</p>
@@ -662,4 +663,5 @@
 <p>Conformément à la Politique sur les mesures correctives du rendement des fournisseurs, cette résiliation partielle pour manquement déclenchera une évaluation d'une mesure corrective du rendement du fournisseur à la fin du contrat. De plus, une note indiquant qu'il y a eu une résiliation partielle pour manquement pour ce contrat sera inscrite dans le Système d'information sur les fournisseurs.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-28U</h2>
 
@@ -271,4 +272,5 @@
 <p>Pour tout achat dont les activités de négociation de contrat se déroulent dans une zone de règlement des revendications territoriales globales, les agents de négociation des contrats devraient consulter la Division de l'analyse et de la mise en application des politiques, Direction de la politique des approvisionnements (DPA), au 819-956-0863, afin de déterminer si une ERTG peut avoir une incidence sur la stratégie d'approvisionnement globale. Dans chaque cas, la DPA aidera les agents de négociation de contrats à identifier ces obligations et à élaborer des méthodes permettant de les respecter.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

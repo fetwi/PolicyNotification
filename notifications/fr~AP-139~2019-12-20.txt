@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-139</h2>
 <h3>Objet</h3>
@@ -78,4 +79,5 @@
 <h3>Coordonnées</h3>
 <p>Les questions concernant l'Avis relatif aux politiques <abbr title="avis relatif aux politiques">AP</abbr>-139, les obligations de la directive et le Guide peuvent être acheminées par courriel à la Division de l'implication autochtone dans les approvisionnements du Secteur de la politique stratégique, à l'adresse suivante : <a href="mailto:TPSGC.PAContratsNunavut-APNunavutContracts.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PAContratsNunavut-APNunavutContracts.PWGSC@tpsgc-pwgsc.gc.ca</a> </p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

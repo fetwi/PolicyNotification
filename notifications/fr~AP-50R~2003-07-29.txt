@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-50R</h2>
 <p><strong><span>Politique</span></strong></p>
@@ -118,4 +119,4 @@
 <p><strong><span>Texte&nbsp;:</span></strong></p>
 <p><span>Dans sa proposition, l&acute;entrepreneur a attest&eacute; sa situation relativement au Programme de contrats f&eacute;d&eacute;raux pour l&acute;&eacute;quit&eacute; en mati&egrave;re d&acute;emploi.</span></p>
 <p><span>L&rsquo;entrepreneur reconna&icirc;t que le ministre s&rsquo;est fond&eacute; sur cette attestation pour conclure le pr&eacute;sent contrat. Cette attestation peut &ecirc;tre v&eacute;rifi&eacute;e de la mani&egrave;re jug&eacute;e raisonnable par le ministre. L&rsquo;entrepreneur reconna&icirc;t que dans l&rsquo;&eacute;ventualit&eacute; d&rsquo;une fausse d&eacute;claration, le ministre aura le droit de traiter le contrat comme &eacute;tant en d&eacute;faut, conform&eacute;ment aux dispositions du contrat relatives au manquement de la part de l&rsquo;entrepreneur.</span></p>
-</div>
+</div></div>

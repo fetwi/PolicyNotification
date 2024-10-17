@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-152U3</h2>
 <p><strong>Note :</strong> Plusieurs mises à jour ont été effectuées peu après la première promulgation de l’<abbr title="avis relatif aux politiques">AP</abbr>-152 le 15 octobre 2021. Dans l'intérêt de faciliter la mise en œuvre, la dernière version <abbr title="avis relatif aux politiques">AP</abbr>-152U3 a été mise en œuvre ici. Cette version inclut les changements qui ont été apportés dans l’<abbr title="avis relatif aux politiques">AP</abbr>-152U1 (18 octobre 2021), l’<abbr title="avis relatif aux politiques">AP</abbr>-152U2 (22 octobre 2021) et l’<abbr title="avis relatif aux politiques">AP</abbr>-152U3 (29 novembre 2021).</p>
@@ -427,5 +428,6 @@
 <li class="views-row views-row-15 views-row-odd views-row-last">
 <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#S3037T">ARCHIVÉE : 5.S.S3037T: Applicabilité des exigences de vaccination contre la COVID-19 aux demandes de soumissions individuelles</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

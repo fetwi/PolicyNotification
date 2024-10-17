@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-51</h2>
 
@@ -35,4 +36,5 @@
 <p>Plusieurs questions doivent être examinées plus en profondeur, et elles seront élaborées davantage lors d'une mise à jour du présent avis quand de plus amples renseignements seront disponibles. Ces questions comprennent l'attribution de contrats à des conseillers qui pourraient avoir accès à des données techniques sur des marchandises contrôlées et l'examen des mesures qui pourraient être nécessaires pour les marchandises contrôlées requises par les ministères autres que le ministère de la Défense nationale.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

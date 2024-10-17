@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-43U1</h2>
 <h3>Introduction</h3>
@@ -17,4 +18,5 @@
 <h3>Ressources</h3>
 <p>Les demandes de renseignements peuvent être acheminées à l’analyste des politiques, Direction des politiques du Programme des approvisionnements à l’adresse <a href="mailto:DPPApublications.APPDpublications@tpsgc-pwgsc.gc.ca" rel="external">DPPApublications.APPDpublications@tpsgc-pwgsc.gc.ca</a>, <strong>ou</strong> au directeur principal, Direction de l’attribution des marchés immobiliers, à l’adresse <a href="mailto:Alain.Dorion@tpsgc-pwgsc.gc.ca" rel="external">Alain.Dorion@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>

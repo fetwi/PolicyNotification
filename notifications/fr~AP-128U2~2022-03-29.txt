@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-128U2</h2>
 <h3>Objet</h3>
@@ -60,5 +61,6 @@ L’avis relatif aux politiques AP-128U2 a pour but d’informer les agents de n
 <li class="views-row views-row-4 views-row-even views-row-last">
 <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#C2801C">5.C.C2801C: Cote de priorité : Entrepreneurs établis au Canada</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

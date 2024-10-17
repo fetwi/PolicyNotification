@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-107</h2>
 <h3>Introduction</h3>
@@ -184,5 +185,6 @@ Travaux publics et Services gouvernementaux Canada (TPSGC), par l'entremise de c
 <li class="views-row views-row-21 views-row-odd views-row-last">
 <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#R5110T">ARCHIVÉE : 5.R.R5110T: Instructions générales aux soumissionnaires</a> </li>
 </ul></div> </div>
+</div>
 </div>
 </div>

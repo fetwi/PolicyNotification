@@ -1,4 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
+<div>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-12</h2>
 
@@ -194,4 +195,5 @@
 <p>7.368 (__/__/96) Il revient au fournisseur de prouver que sa soumission respecte les définitions des produits et des services canadiens. Le fournisseur doit signer et présenter une attestation avec sa soummision (voir également la procédure 5.074). Lorsque les clauses K4003T, K4004T, K4005T or K4006T (évaluation individuelle de chaque article) du Guide des CCUA sont utilisées, le fournisseur doit indiquer clairement l'origine de chaque produit.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
+</div>
 </div>
