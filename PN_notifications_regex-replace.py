@@ -28,5 +28,3 @@ for filename in os.listdir(directory):
 
         # Print the filename
         print(f"Processed Filename: {filename}")
-
-# change this code so that it replaces the matched content with a custom html code.
