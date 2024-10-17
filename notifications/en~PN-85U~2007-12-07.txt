@@ -6,7 +6,7 @@
 <p>The purpose of Policy Notification (PN) 85U is to update the  instructions to Public Works and Government Services Canada (PWGSC) contracting  officers regarding the security block of the requisition form<br/>
 <a href="http://publiservice-app.tpsgc-pwgsc.gc.ca/forms/index.cfm?fuseaction=search.details&amp;lang=e&amp;display=5451" rel="external">PWGSC-TPSGC 9200</a>.</p>
 <p>Until such time as the financial systems of client  departments are modified to include the revised security block of the  requisition form PWGSC-TPSGC 9200, contracting officers can accept the previous version of the requisition form PWGSC-TPSGC 9200 from clients as long as certification against the wording of the new security block is provided, either  by replicating the new security wording (see below) in the "Special Instructions" block of the requisition form PWGSC-TPSGC 9200, or by providing it as a separate document.</p>
-<p>"Requisition No. ___________________</p>
+<p>"Requisition No. <span class="blankline" aria-label="Blank placeholder"></span> </p>
 <p>Security:<br/>
 					Does this requisition include security provisions?<br/>
 					( ) No ( ) Yes</p>
@@ -14,9 +14,9 @@
 					If an SRCL is required, attach the properly completed and signed SRCL to this requisition.</p>
 <p>If an SRCL is not required, but the requisition does include security provisions, explain why in the requisition.</p>
 <p>The Undersigned certifies that this requisition, including any attached SRCL, accurately details the security provisions of this requirement.</p>
-<p>_____________________ <br/>
+<p><span class="blankline" aria-label="Blank placeholder"></span>  <br/>
 					Signature (Mandatory)</p>
-<p> _____________________ <br/>
+<p> <span class="blankline" aria-label="Blank placeholder"></span>  <br/>
 					Date"</p>
 <p>PWGSC contracting officers must ensure that the completed security certification is included on each procurement file for which the requirement has not been contracted yet.</p>
 <h3>Contact</h3>

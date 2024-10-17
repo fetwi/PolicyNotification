@@ -82,7 +82,7 @@
 <p><strong>Texte :</strong></p>
 <ol>
 <li>
-<p>La livraison doit s'effectuer FCA franco transporteur ________ (<strong><em>Insérer le nom du lieu convenu, par ex. l'établissement de l'entrepreneur</em></strong>) selon les <span lang="en">Incoterms 2000</span>. <em>L'entrepreneur doit charger les biens dans les véhicules de l'entreprise de transport désigné par le ministère de la Défense nationale (MDN).</em> Le Canada est responsable par la suite du transport des biens, du point de livraison jusqu'au destinataire.</p>
+<p>La livraison doit s'effectuer FCA franco transporteur <span class="blankline" aria-label="Espace réservé vide"></span>  (<strong><em>Insérer le nom du lieu convenu, par ex. l'établissement de l'entrepreneur</em></strong>) selon les <span lang="en">Incoterms 2000</span>. <em>L'entrepreneur doit charger les biens dans les véhicules de l'entreprise de transport désigné par le ministère de la Défense nationale (MDN).</em> Le Canada est responsable par la suite du transport des biens, du point de livraison jusqu'au destinataire.</p>
 </li>
 <li>
 <p>Avant l'expédition des biens, l'entrepreneur doit aviser la personne-ressource ci-dessous en matière de logistique intégrée du MDN par téléphone, télécopieur ou courriel afin d'arranger l'expédition et fournir l'information détaillée à l'article 3.</p>
@@ -148,7 +148,7 @@
 <p><strong>Texte :</strong></p>
 <ol>
 <li>
-<p>La livraison doit s'effectuer FCA franco transporteur ________ (<strong><em>Insérer le nom du lieu convenu, par ex. l'établissement de l'entrepreneur</em></strong>) selon les <span lang="en">Incoterms 2000</span>. <em>L'entrepreneur doit charger les biens dans les véhicules de l'entreprise de transport désigné par le ministère de la Défense nationale (MDN).</em> Le Canada est responsable par la suite du transport des biens, du point de livraison jusqu'au destinataire.</p>
+<p>La livraison doit s'effectuer FCA franco transporteur <span class="blankline" aria-label="Espace réservé vide"></span>  (<strong><em>Insérer le nom du lieu convenu, par ex. l'établissement de l'entrepreneur</em></strong>) selon les <span lang="en">Incoterms 2000</span>. <em>L'entrepreneur doit charger les biens dans les véhicules de l'entreprise de transport désigné par le ministère de la Défense nationale (MDN).</em> Le Canada est responsable par la suite du transport des biens, du point de livraison jusqu'au destinataire.</p>
 </li>
 <li>
 <p>Avant l'expédition des biens, l'entrepreneur doit aviser la personne-ressource ci-dessous en matière de logistique intégrée du MDN par téléphone, télécopieur ou courriel afin d'arranger l'expédition et fournir l'information détaillée à l'article 3.</p>

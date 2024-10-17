@@ -125,7 +125,7 @@ The Formal Procurement Plan format will continue to be used for procurements exc
 <strong>Recommended by:</strong>
 </div>
 <div>
-        _____________________________
+        <span class="blankline" aria-label="Blank placeholder"></span> 
         <br/>
         Senior Director or Regional Director OR
         <br/>
@@ -135,7 +135,7 @@ The Formal Procurement Plan format will continue to be used for procurements exc
         <br/>
 </div>
 <div>
-        _________________
+        <span class="blankline" aria-label="Blank placeholder"></span> 
         <br/>
         Date
     </div>
@@ -151,7 +151,7 @@ The Formal Procurement Plan format will continue to be used for procurements exc
 <strong>Approved by:</strong>
 </div>
 <div>
-        _____________________________
+        <span class="blankline" aria-label="Blank placeholder"></span> 
         <br/>
         Director General/Regional Director General
         <br/>
@@ -159,7 +159,7 @@ The Formal Procurement Plan format will continue to be used for procurements exc
         <br/>
 </div>
 <div>
-        _________________
+        <span class="blankline" aria-label="Blank placeholder"></span> 
         <br/>
         Date
         <br/>

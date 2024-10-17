@@ -299,7 +299,7 @@
 <p>Use the following clause when insurance requirements are specifically described in the contract. Contracting officers must insert  the applicable insurance clauses contained in Section 5-G of the <em>Standard Acquisition Clauses and Conditions</em> Manual in an annex to the contract.  For any other  insurance requirements, contact PWGSC Risk Management Advisory Services, at: <a href="mailto:ncr.rmias-scgra@tpsgc-pwgsc.gc.ca" rel="external">ncr.rmias-scgra@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Use clause G1005C  when there is no specific insurance requirements to be included in the  contract.</p>
 <h5>Text:</h5>
-<p>The Contractor must  comply with the insurance requirements specified in Annex ____. The Contractor must maintain the required  insurance coverage for the duration of the Contract. Compliance with the insurance requirements does not release the  Contractor from or reduce its liability under the Contract.</p>
+<p>The Contractor must  comply with the insurance requirements specified in Annex <span class="blankline" aria-label="Blank placeholder"></span> . The Contractor must maintain the required  insurance coverage for the duration of the Contract. Compliance with the insurance requirements does not release the  Contractor from or reduce its liability under the Contract.</p>
 <p>The Contractor is  responsible for deciding if additional insurance coverage is necessary to  fulfill its obligation under the Contract and to ensure compliance with any  applicable law. Any additional  insurance coverage is at the Contractor's expense, and for its own benefit and  protection.</p>
 <p>The  Contractor must forward to the Contracting Authority within ten (10) days after  the date of award of the Contract, a Certificate of Insurance evidencing the  insurance coverage and confirming that the insurance policy complying with the  requirements is in force. Coverage must  be placed with an Insurer licensed to carry out business in Canada. The Contractor must, if requested by the  Contracting Authority, forward to Canada a certified true copy of all  applicable insurance policies.</p>
 <div class="topPage"> <a href="#PN-88tphp" title="Return to Top of Page"><br/>
@@ -495,7 +495,7 @@
 <p>Contracting officers  must consult PWGSC Risk Management Advisory Services, at: <a href="mailto:ncr.rmias-scgra@tpsgc-pwgsc.gc.ca" rel="external">ncr.rmias-scgra@tpsgc-pwgsc.gc.ca</a> if the suggested  limit of $1,000,000 per accident or occurrence is not considered adequate.</p>
 <h5>Text: </h5>
 <ol>
-<li>The Contractor must obtain _______ (<strong class="blue"><em>Contracting  officers must insert one of the four types of environmental insurance coverage  provided under the remarks section above</em></strong>) insurance, and  maintain it in force throughout the duration of the Contract, in an amount  usual for a contract of this nature, but for not less than $1,000,000 per  accident or occurrence and in the annual aggregate.</li>
+<li>The Contractor must obtain <span class="blankline" aria-label="Blank placeholder"></span>  (<strong class="blue"><em>Contracting  officers must insert one of the four types of environmental insurance coverage  provided under the remarks section above</em></strong>) insurance, and  maintain it in force throughout the duration of the Contract, in an amount  usual for a contract of this nature, but for not less than $1,000,000 per  accident or occurrence and in the annual aggregate.</li>
 <li>If the  policy is written on a claims-made basis, coverage must be in place for a  period of at least 12 months after the completion or termination of the  Contract.</li>
 <li>The (Contracting officers must insert  one of the four types of environmental insurance coverage provided under the  remarks section above) policy must include the following:<br/>
 <ol type="a">
@@ -533,14 +533,14 @@
 <p>The value and basis  of valuation of Government Property must be filled in the clause. The basis of valuation of this property  should be established with the client and mentioned in the contractor's  insurance policy. Contracting officers  must insert one of the options provided in the second blank of paragraph 1.</p>
 <p>The limits are to be  evaluated on a case-by-case basis. For further assistance, contact PWGSC Risk Management Advisory Services, at: <a href="mailto:ncr.rmias-scgra@tpsgc-pwgsc.gc.ca" rel="external">ncr.rmias-scgra@tpsgc-pwgsc.gc.ca</a>. </p>
 <h5>Text:</h5>
-<p>The  Contractor must obtain Bailee's Customer's Goods Insurance while Government  Property is under its care, custody or control for repair or servicing, and  maintain it in force throughout the duration of the Contract, in an amount of  not less than $_____. Government  Property must be insured on a ___________ basis. (<em><strong class="blue">Contracting  officers must insert one of the following basis of valuation</strong></em>: <strong>"Replacement Cost (new)"; "Actual Cash Value (depreciated cost)",  or "Agreed Value (appraisal)"</strong>.) </p>
+<p>The  Contractor must obtain Bailee's Customer's Goods Insurance while Government  Property is under its care, custody or control for repair or servicing, and  maintain it in force throughout the duration of the Contract, in an amount of  not less than $<span class="blankline" aria-label="Blank placeholder"></span> . Government  Property must be insured on a <span class="blankline" aria-label="Blank placeholder"></span>  basis. (<em><strong class="blue">Contracting  officers must insert one of the following basis of valuation</strong></em>: <strong>"Replacement Cost (new)"; "Actual Cash Value (depreciated cost)",  or "Agreed Value (appraisal)"</strong>.) </p>
 <ol>
 <li>Administration of Claims:  The Contractor must notify Canada promptly about any losses or damages  to Government Property and monitor, investigate and document losses of or  damage to ensure that claims are properly made and paid.</li>
 <li>The Bailee's  Customer's Goods must include the following:<br/>
 <ol type="a">
 <li>Notice of  Cancellation: The Insurer will  endeavour to provide the Contracting Authority thirty (30) days written notice  of cancellation.</li>
 <li>Settlement  of Claims: The insurance proceeds  regarding any loss of or damage to Government Property must be payable to the  appropriate party as directed by the Contracting Authority.</li>
-<li>Waiver of  Subrogation Rights: Contractor's  Insurer to waive all rights of subrogation against Canada as represented by  ____________ (<em class="blue"><strong>insert department</strong></em>) and Public  Works and Government Services Canada for any and all loss of or damage to the  property however caused.</li>
+<li>Waiver of  Subrogation Rights: Contractor's  Insurer to waive all rights of subrogation against Canada as represented by  <span class="blankline" aria-label="Blank placeholder"></span>  (<em class="blue"><strong>insert department</strong></em>) and Public  Works and Government Services Canada for any and all loss of or damage to the  property however caused.</li>
 </ol>
 </li>
 </ol>
@@ -553,14 +553,14 @@
 <p>The limits are to be  evaluated on a case-by-case basis. For  further assistance, contact PWGSC Risk Management Advisory Services, at: <a href="mailto:ncr.rmias-scgra@tpsgc-pwgsc.gc.ca" rel="external">ncr.rmias-scgra@tpsgc-pwgsc.gc.ca</a>. </p>
 <h5>Text: </h5>
 <ol>
-<li>The Contractor must obtain Warehouseman's Legal Liability  Insurance coverage on Government Property, and maintain it in force while under  its care, custody or control for storage, in an amount of not less than  $______. The Government's Property must  be insured on a _________ basis. (<em><strong class="blue">Contracting  officers must insert one of the following basis of valuation</strong>:  "<strong>Replacement Cost (new)</strong>";<strong> "Actual Cash Value  (depreciated cost)</strong>", or "<strong>Agreed Value (appraisal)</strong></em>")</li>
+<li>The Contractor must obtain Warehouseman's Legal Liability  Insurance coverage on Government Property, and maintain it in force while under  its care, custody or control for storage, in an amount of not less than  $<span class="blankline" aria-label="Blank placeholder"></span> . The Government's Property must  be insured on a <span class="blankline" aria-label="Blank placeholder"></span>  basis. (<em><strong class="blue">Contracting  officers must insert one of the following basis of valuation</strong>:  "<strong>Replacement Cost (new)</strong>";<strong> "Actual Cash Value  (depreciated cost)</strong>", or "<strong>Agreed Value (appraisal)</strong></em>")</li>
 <li>Administration  of Claims: The Contractor must notify  Canada promptly about any losses or damages to Government Property and monitor,  investigate and document losses of or damage to Government Property to ensure  that claims are properly made and paid.</li>
 <li>The following endorsements must be included:<br/>
 <ol type="a">
 <li>Notice of Cancellation:  The Insurer will endeavour to provide the Contracting Authority thirty  (30) days written notice of cancellation.</li>
 <li>Settlement of Claims:  The insurance proceeds regarding any loss of or damage to Government  Property must be payable to the appropriate party as directed by the  Contracting Authority.</li>
 <li>Loss Payee: Canada as its interest may appear or it may  direct.</li>
-<li>Waiver  of Subrogation Rights: Contractor's  Insurer to waive all rights of subrogation against Canada as represented by  ____________ (<em><span class="blue"><strong>insert department</strong></span></em>) and Public  Works and Government Services Canada for any and all loss of or damage to the  property however caused.</li>
+<li>Waiver  of Subrogation Rights: Contractor's  Insurer to waive all rights of subrogation against Canada as represented by  <span class="blankline" aria-label="Blank placeholder"></span>  (<em><span class="blue"><strong>insert department</strong></span></em>) and Public  Works and Government Services Canada for any and all loss of or damage to the  property however caused.</li>
 </ol>
 </li>
 </ol>
@@ -573,14 +573,14 @@
 <p>The value and basis  of valuation of government property must be filled in the clause. The basis of valuation of this property  should be established with the client and mentioned in the contractor's  insurance policy. Contracting officers  must insert one of the options provided in the second blank of paragraph 1.</p>
 <p>The values are to be  evaluated on a case-by-case basis. For further assistance, contact PWGSC's Risk  Management Advisory Services, at: <a href="mailto:ncr.rmias-scgra@tpsgc-pwgsc.gc.ca" rel="external">ncr.rmias-scgra@tpsgc-pwgsc.gc.ca</a>. </p>
 <h5>Text: </h5>
-<p>The Contractor must  obtain All Risks Property Insurance while the Government Property is under its  care, custody or control, and maintain it in force throughout the duration of  the Contract, in an amount of not less than $______. The Government's Property must be insured on ___________ basis. (<em><span class="blue"><strong>Contracting officers must insert one of the following basis  of valuation</strong>:</span></em> <strong><em>"Replacement  Cost (new)"; "Actual Cash  Value (depreciated cost)", or "Agreed Value (appraisal)"</em></strong>.)</p>
+<p>The Contractor must  obtain All Risks Property Insurance while the Government Property is under its  care, custody or control, and maintain it in force throughout the duration of  the Contract, in an amount of not less than $<span class="blankline" aria-label="Blank placeholder"></span> . The Government's Property must be insured on <span class="blankline" aria-label="Blank placeholder"></span>  basis. (<em><span class="blue"><strong>Contracting officers must insert one of the following basis  of valuation</strong>:</span></em> <strong><em>"Replacement  Cost (new)"; "Actual Cash  Value (depreciated cost)", or "Agreed Value (appraisal)"</em></strong>.)</p>
 <ol>
 <li>Administration of Claims:  The Contractor must notify Canada promptly about any losses or damages  to Government Property and monitor, investigate and document losses of or  damage to ensure that claims are properly made and paid.</li>
 <li>The All Risks Property Insurance policy  must include the following:<br/>
 <ol type="a">
 <li>Notice of Cancellation: The Insurer will endeavour to  provide the Contracting Authority at least thirty (30) days written notice of  policy cancellation.</li>
 <li>Loss Payee:  Canada as its interest may appear or as it may direct.</li>
-<li>Waiver of Subrogation Rights:  Contractor's Insurer to waive all rights of subrogation against Canada as  represented by ____________ (<em><span class="blue"><strong>insert department</strong></span></em>)  and Public Works and Government Services Canada for any and all loss of or  damage to the property however caused.</li>
+<li>Waiver of Subrogation Rights:  Contractor's Insurer to waive all rights of subrogation against Canada as  represented by <span class="blankline" aria-label="Blank placeholder"></span>  (<em><span class="blue"><strong>insert department</strong></span></em>)  and Public Works and Government Services Canada for any and all loss of or  damage to the property however caused.</li>
 </ol>
 </li>
 </ol>
@@ -599,7 +599,7 @@
 <ul class="noBullet">
 <li>2. The policy must include the following endorsements:<br/>
 <ol type="a">
-<li>Waiver of Subrogation Rights: Contractor's Insurer to waive all rights of  subrogation against Canada as represented by ____________ (<em><span class="blue"><strong>insert  department</strong></span></em>) and Public Works and Government Services Canada for  any and all loss of or damage to the watercraft, however caused.</li>
+<li>Waiver of Subrogation Rights: Contractor's Insurer to waive all rights of  subrogation against Canada as represented by <span class="blankline" aria-label="Blank placeholder"></span>  (<em><span class="blue"><strong>insert  department</strong></span></em>) and Public Works and Government Services Canada for  any and all loss of or damage to the watercraft, however caused.</li>
 <li>Notice  of Cancellation: The Insurer will  endeavour to provide the Contracting Authority thirty (30) days written notice  of cancellation.</li>
 </ol>
 </li>
@@ -612,10 +612,10 @@
 <p>The value and basis  of valuation of government property must be filled in the clause. The basis of valuation of this property  should be established with the client and mentioned in the contractor's  insurance policy. Contracting officers  must insert one of the options provided in the second blank of paragraph 1.</p>
 <p>The limits are to be  evaluated on a case-by-case basis. For  further assistance, contact PWGSC Risk Management Advisory Services, at: <a href="mailto:ncr.rmias-scgra@tpsgc-pwgsc.gc.ca" rel="external">ncr.rmias-scgra@tpsgc-pwgsc.gc.ca</a>. </p>
 <h5>Text: </h5>
-<p>The Contractor must  obtain Aircraft Hull Insurance including All Risks Flight and Ground coverage,  and maintain it in force throughout the duration of the contract, in an amount  of not less than ____________. The Aircraft  must be insured on (<em><span class="blue"><strong>Contracting officers must insert one of the  following</strong>:</span></em> <strong>"<em>Replacement  Cost (new)"; "Actual Cash  Value (depreciated cost)", </em>or<em> "Agreed Value (appraisal)</em>"</strong>.) value basis.</p>
+<p>The Contractor must  obtain Aircraft Hull Insurance including All Risks Flight and Ground coverage,  and maintain it in force throughout the duration of the contract, in an amount  of not less than <span class="blankline" aria-label="Blank placeholder"></span> . The Aircraft  must be insured on (<em><span class="blue"><strong>Contracting officers must insert one of the  following</strong>:</span></em> <strong>"<em>Replacement  Cost (new)"; "Actual Cash  Value (depreciated cost)", </em>or<em> "Agreed Value (appraisal)</em>"</strong>.) value basis.</p>
 <p>The  Aircraft Hull Insurance policy must include the following:</p>
 <ol type="a">
-<li>Waiver of Subrogation:  Contractor's Insurer to waive all rights of subrogation against Canada  as represented by ____________ (<em><strong class="blue">insert department</strong></em>)  and Public Works and Government Services Canada for any and all loss of or  damage to the aircraft however caused.</li>
+<li>Waiver of Subrogation:  Contractor's Insurer to waive all rights of subrogation against Canada  as represented by <span class="blankline" aria-label="Blank placeholder"></span>  (<em><strong class="blue">insert department</strong></em>)  and Public Works and Government Services Canada for any and all loss of or  damage to the aircraft however caused.</li>
 <li>Notice of Cancellation: The Insurer will endeavour to provide the  Contracting Authority thirty (30) days written notice of cancellation.</li>
 </ol>
 <div class="topPage"> <a href="#PN-88tphp" title="Return to Top of Page"><br/>
@@ -629,8 +629,8 @@
 <ol>
 <li>The Contractor must obtain Comprehensive Crime (Fidelity)  Insurance on a blanket basis, and maintain it in force throughout the duration  of the contract period, in an amount as listed below:<br/>
 <ol type="a">
-<li>Insuring Agreement 1: Employee Dishonesty (Form A) in an  amount of not less than $______ covering all employees of the Contractor. Such Fidelity Insurance must contain a  "Third-Party Extension" or "Client Coverage" extending such  coverage to Canada with respect to the risks associated with this agreement.</li>
-<li>Agreement II/III: Money &amp; Securities Loss Inside  Premises/Outside Premises in an amount not less than $________;</li>
+<li>Insuring Agreement 1: Employee Dishonesty (Form A) in an  amount of not less than $<span class="blankline" aria-label="Blank placeholder"></span>  covering all employees of the Contractor. Such Fidelity Insurance must contain a  "Third-Party Extension" or "Client Coverage" extending such  coverage to Canada with respect to the risks associated with this agreement.</li>
+<li>Agreement II/III: Money &amp; Securities Loss Inside  Premises/Outside Premises in an amount not less than $<span class="blankline" aria-label="Blank placeholder"></span> ;</li>
 </ol>
 </li>
 <li>The Comprehensive Crime Insurance must include the  following:<br/>
@@ -649,13 +649,13 @@
 <p>The limits are to be  evaluated on a case-by-case basis. For  further assistance, contact PWGSC Risk Management Advisory Services, at: <a href="mailto:ncr.rmias-scgra@tpsgc-pwgsc.gc.ca" rel="external">ncr.rmias-scgra@tpsgc-pwgsc.gc.ca</a>.</p>
 <h5>Text: </h5>
 <ol>
-<li>The Contractor must obtain on the government property, and  maintain in force throughout the duration of the Contract, All Risk Property in  Transit Insurance coverage for all applicable conveyances while under its care,  custody or control, in an amount of not less than $______ per shipment. Government property must be insured on  _________ basis. (<em><span class="blue"><strong>Contracting officers must insert one of the following basis  of valuation</strong>:</span></em> <strong>"<em>Replacement  Cost (new)"; "Actual Cash  Value (depreciated cost)", or "Agreed Value (appraisal)</em>"</strong>.)</li>
+<li>The Contractor must obtain on the government property, and  maintain in force throughout the duration of the Contract, All Risk Property in  Transit Insurance coverage for all applicable conveyances while under its care,  custody or control, in an amount of not less than $<span class="blankline" aria-label="Blank placeholder"></span>  per shipment. Government property must be insured on  <span class="blankline" aria-label="Blank placeholder"></span>  basis. (<em><span class="blue"><strong>Contracting officers must insert one of the following basis  of valuation</strong>:</span></em> <strong>"<em>Replacement  Cost (new)"; "Actual Cash  Value (depreciated cost)", or "Agreed Value (appraisal)</em>"</strong>.)</li>
 <li>Administration of Claims:  The Contractor must notify Canada promptly about any losses or damages  to government property and monitor, investigate and document losses of or  damage to ensure that claims are properly made and paid.</li>
 <li>The All Risk Property in Transit insurance must include the  following:<br/>
 <ol type="a">
 <li>Notice of Cancellation: The Insurer will endeavour to  provide the Contracting Authority at least thirty (30) days written notice of  any policy cancellation. </li>
 <li>Loss Payee: Canada  as its interest appears or as it may direct.</li>
-<li>Waiver  of Subrogation Rights: Contractor's Insurer to waive all rights of subrogation  against Canada as represented by ____________ (<em><span class="blue"><strong>insert  department</strong></span></em>) and Public Works and Government Services Canada for  any and all loss of or damage to the property however caused. </li>
+<li>Waiver  of Subrogation Rights: Contractor's Insurer to waive all rights of subrogation  against Canada as represented by <span class="blankline" aria-label="Blank placeholder"></span>  (<em><span class="blue"><strong>insert  department</strong></span></em>) and Public Works and Government Services Canada for  any and all loss of or damage to the property however caused. </li>
 </ol>
 </li>
 </ol>
@@ -727,7 +727,7 @@
 <li>The Ship Repairer's Liability insurance must include the  following:<br/>
 <ol type="a">
 <li>Additional Insured: Canada is added as an additional  insured, but only with respect to liability arising out of the Contractor's  performance of the Contract. The  interest of Canada as additional insured should read as follows: Canada,  represented by Public Works and Government Services Canada.</li>
-<li>Waiver of Subrogation Rights: Contractor's Insurer to waive  all rights of subrogation against Canada as represented by _________ (<strong class="blue"><em>insert department</em></strong>) and Public Works and  Government Services Canada for any and all loss of or damage to the vessel,  however caused.</li>
+<li>Waiver of Subrogation Rights: Contractor's Insurer to waive  all rights of subrogation against Canada as represented by <span class="blankline" aria-label="Blank placeholder"></span>  (<strong class="blue"><em>insert department</em></strong>) and Public Works and  Government Services Canada for any and all loss of or damage to the vessel,  however caused.</li>
 <li>Notice of Cancellation: The Insurer will endeavour to  provide the Contracting Authority thirty (30) days written notice of  cancellation.</li>
 <li>Contractual Liability:  The policy must, on a blanket basis or by specific reference to the  contract, extend to assumed liabilities with respect to contractual provisions.</li>
 <li>Cross  Liability/Separation of Insureds: Without increasing the limit of liability,  the policy must protect all insured parties to the full extent of coverage  provided. Further, the policy must  apply to each Insured in the same manner and to the same extent as if a  separate policy had been issued to each.
@@ -769,7 +769,7 @@
 <li>The Protection and Indemnity insurance  policy must include the following:<br/>
 <ol type="a">
 <li>Additional  Insured: Canada is added as an additional insured, but only with respect to  liability arising out of the Contractor's performance of the Contract. The interest of Canada as additional insured  should read as follows: Canada, represented by Public Works and Government  Services Canada</li>
-<li>Waiver of  Subrogation Rights: Contractor's Insurer to waive all rights of subrogation  against Canada as represented by ____________ (<strong class="blue"><em>insert  department</em></strong>) and Public Works and Government Services Canada for  any and all loss of or damage to the watercraft however caused</li>
+<li>Waiver of  Subrogation Rights: Contractor's Insurer to waive all rights of subrogation  against Canada as represented by <span class="blankline" aria-label="Blank placeholder"></span>  (<strong class="blue"><em>insert  department</em></strong>) and Public Works and Government Services Canada for  any and all loss of or damage to the watercraft however caused</li>
 <li>Notice of  Cancellation: The Insurer will endeavour to provide the Contracting Authority  thirty (30) days written notice of cancellation.</li>
 <li>Cross  Liability/Separation of Insureds: Without increasing the limit of liability,  the policy must protect all insured parties to the full extent of coverage  provided. Further, the policy must  apply to each Insured in the same manner and to the same extent as if a  separate policy had been issued to each.
 <p><em>(<span class="blue"><strong>Contracting officers must insert the following option, if applicable.</strong></span>)</em></p>
@@ -849,7 +849,7 @@
 <p>This clause is used  to ensure that any liability claim arising from the use of the rented vehicle  by federal government employees traveling on official government business, be  resolved by Canada rather than the employees own Automobile Liability Insurance  policy. (Bill 18, Ontario - changes to  the <em>Highway Traffic Act</em>).</p>
 <p>For further  assistance, contact PWGSC Risk Management Advisory Services, at: <a href="mailto:ncr.rmias-scgra@tpsgc-pwgsc.gc.ca" rel="external">ncr.rmias-scgra@tpsgc-pwgsc.gc.ca</a>.</p>
 <h5>Text: </h5>
-<p>For  vehicles rented by federal government employees, while travelling on official  government business, for a period of less than 31 days, the Contractor must  insert as lessee, Canada, as presented by ___________ (<em><strong class="blue">insert the employee's department</strong></em>).</p>
+<p>For  vehicles rented by federal government employees, while travelling on official  government business, for a period of less than 31 days, the Contractor must  insert as lessee, Canada, as presented by <span class="blankline" aria-label="Blank placeholder"></span>  (<em><strong class="blue">insert the employee's department</strong></em>).</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
 </div>

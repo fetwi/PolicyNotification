@@ -44,8 +44,8 @@
 							de crédit) seront acceptées pour le paiement<br/>
 							des commandes subséquentes à l'offre à commandes.<br/>
 							Les cartes de crédit suivantes sont acceptées :<br/>
-							VISA _____<br/>
-							MasterCard _____ </p>
+							VISA <span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+							MasterCard <span class="blankline" aria-label="Espace réservé vide"></span>  </p>
 <p><strong><del>OU</del></strong></p>
 </li>
 <li>(b) ( )

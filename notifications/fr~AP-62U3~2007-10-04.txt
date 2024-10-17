@@ -50,7 +50,7 @@
 <p>Les clauses C2608C et C2610D peuvent s'appliquer.</p>
 <h5>Texte :</h5>
 <ol>
-<li>La livraison doit s'effectuer FCA franco transporteur ________ (<strong><em>Insérer<br/>
+<li>La livraison doit s'effectuer FCA franco transporteur <span class="blankline" aria-label="Espace réservé vide"></span>  (<strong><em>Insérer<br/>
 						le nom du lieu convenu, par ex. l'établissement de l'entrepreneur</em></strong>)<br/>
 						selon les Incoterms 2000. L'entrepreneur doit charger les biens<br/>
 						dans les véhicules de l'entreprise de transport désigné par<br/>

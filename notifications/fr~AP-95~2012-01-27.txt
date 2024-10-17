@@ -117,23 +117,23 @@ Le <abbr title="Sous-ministre adjoint">SMA</abbr> continuera d’approuver les m
 <p>Réserver deux ou  trois lignes pour les commentaires du titulaire du pouvoir d’approbation.</p>
 <div>
 <div><strong>Recommandé par :</strong></div>
-<div>_____________________________ <br/>
+<div><span class="blankline" aria-label="Espace réservé vide"></span>  <br/>
     Directeur principal ou directeur<br/>
     régional OU Directeur général<br/>
     ou directeur général régional<br/>
     Secteur ou région </div>
-<div> _________________<br/>
+<div> <span class="blankline" aria-label="Espace réservé vide"></span> <br/>
     Date </div>
 </div>
 <div> </div>
 <div> </div>
 <div>
 <div><strong>Approuvé par :</strong></div>
-<div>_____________________________ <br/>
+<div><span class="blankline" aria-label="Espace réservé vide"></span>  <br/>
     Directeur général ou directeur<br/>
     général régional OU<br/>
     Sous-ministre adjoint </div>
-<div>_________________<br/>
+<div><span class="blankline" aria-label="Espace réservé vide"></span> <br/>
     Date<br/>
 </div>
 </div>

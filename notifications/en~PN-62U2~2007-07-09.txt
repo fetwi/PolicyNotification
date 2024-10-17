@@ -71,7 +71,7 @@
 <p><strong>Text:</strong></p>
 <ol>
 <li>
-<p>Delivery will be FCA Free Carrier at________ (<strong><em>Insert the named place, e.g. Contractor's facility</em></strong>) Incoterms 2000. <em>The Contractor must load the goods onto the carrier designated by the Department of National Defence (DND).</em> Onward shipment from the delivery point to the consignee will be Canada's responsibility.</p>
+<p>Delivery will be FCA Free Carrier at<span class="blankline" aria-label="Blank placeholder"></span>  (<strong><em>Insert the named place, e.g. Contractor's facility</em></strong>) Incoterms 2000. <em>The Contractor must load the goods onto the carrier designated by the Department of National Defence (DND).</em> Onward shipment from the delivery point to the consignee will be Canada's responsibility.</p>
 </li>
 <li>
 <p><em> Before shipping the goods, the Contractor must advise the following DND Inbound Logistics contact by telephone, facsimile or e-mail, to arrange for shipment, and provide the information detailed at section 3.</em></p>
@@ -138,7 +138,7 @@
 <p><strong>Text:</strong></p>
 <ol>
 <li>
-<p>Delivery will be FCA Free Carrier at ________ (<strong><em>Insert the named place, e.g. Contractor's facility</em></strong>) Incoterms 2000. The Contractor must load the materiel onto the carrier designated by the Department of National Defence (DND). Onward shipment from the delivery point to the consignee will be Canada's responsibility.</p>
+<p>Delivery will be FCA Free Carrier at <span class="blankline" aria-label="Blank placeholder"></span>  (<strong><em>Insert the named place, e.g. Contractor's facility</em></strong>) Incoterms 2000. The Contractor must load the materiel onto the carrier designated by the Department of National Defence (DND). Onward shipment from the delivery point to the consignee will be Canada's responsibility.</p>
 </li>
 <li>
 <p>Before shipping the goods, the Contractor must advise the following DND Inbound Logistics contact by telephone, facsimile or e-mail, to arrange for shipment, and provide the information detailed at section 3.</p>

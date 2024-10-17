@@ -26,8 +26,8 @@
 							(credit cards) will be accepted for<br/>
 							payment of call-ups against the standing offer.<br/>
 							The following credit card(s) are accepted:<br/>
-							VISA _______<br/>
-							Master Card _______</p>
+							VISA <span class="blankline" aria-label="Blank placeholder"></span> <br/>
+							Master Card <span class="blankline" aria-label="Blank placeholder"></span> </p>
 <p><strong><del>OR</del></strong></p>
 </li>
 <li>(b) ( )

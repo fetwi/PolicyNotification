@@ -71,7 +71,7 @@
 <ol class="double-space" type="1">
 <li>To  direct this form to the appropriate Reviewer, consult the <a href="http://soi.pwgsc.gc.ca/app/index.cfm?Fuseaction=prg.main&amp;altlang=-e" rel="external">Standing Offer Index</a>, specifically the “Tables of Commodity Teams, Regional  Reviewers and Designated Commodities”.</li>
 <li>Provide  a succinct description of what is being procured, including geographical  location(s) of coverage.</li>
-<li>Requisition  Number: _________________________; <abbr title="Goods and Services Identification Number">GSIN</abbr>: _______________</li>
+<li>Requisition  Number: <span class="blankline" aria-label="Blank placeholder"></span> ; <abbr title="Goods and Services Identification Number">GSIN</abbr>: <span class="blankline" aria-label="Blank placeholder"></span> </li>
 <li>Type  of <abbr title="standing offer">SO</abbr> (<abbr title="National Master Standing Offer">NMSO</abbr>, <abbr title="National Individual Standing Offer">NISO</abbr>, <abbr title="Regional Master Standing Offer">RMSO</abbr>, <abbr title="Regional Individual Standing Offer">RISO</abbr>, <abbr title="Departmental Individual Standing Offer">DISO</abbr>)/<abbr title="supply arrangement">SA</abbr>: </li>
 <li>What is the estimated business  volume per year?<br/>
 What is the estimated “extended period” business  volume?</li>
@@ -103,11 +103,11 @@ What is the estimated “extended period” business  volume?</li>
 <li>What  was the original <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr> duration and what is the proposed extension period?</li>
 <li>How  is the extension in the best interest of Canada?</li>
 </ol>
-<p>Name of contracting officer  (please print) ___________________</p>
-<p>Phone  number: ____________________</p>
+<p>Name of contracting officer  (please print) <span class="blankline" aria-label="Blank placeholder"></span> </p>
+<p>Phone  number: <span class="blankline" aria-label="Blank placeholder"></span> </p>
 <h4>This section must be completed by the Reviewer</h4>
 <ol class="double-space" type="A">
-<li>Endorsed without  comment – The Reviewer,  _________________________ (<em>insert name of Reviewer</em>),  endorses this request for issuance of a <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr> or amendment for extension  ____________ (<em>insert </em><em>requisition number</em>), without  comment. The date of this endorsement is  ________________ (insert date).</li>
+<li>Endorsed without  comment – The Reviewer,  <span class="blankline" aria-label="Blank placeholder"></span>  (<em>insert name of Reviewer</em>),  endorses this request for issuance of a <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr> or amendment for extension  <span class="blankline" aria-label="Blank placeholder"></span>  (<em>insert </em><em>requisition number</em>), without  comment. The date of this endorsement is  <span class="blankline" aria-label="Blank placeholder"></span>  (insert date).</li>
 <li>Endorsed with  comments/recommendations/conditions – Outline  comments/recommendations/conditions or attach in a separate document</li>
 <li>Declined – Outline the rationale for  the decision or attach in a separate document</li>
 <li>If any aspect of the  original request or the file has been modified as a result of Reviewer’s comments  or recommendations, summarize the main aspects of the changes in the box to the  right.

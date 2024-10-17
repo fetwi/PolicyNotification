@@ -152,9 +152,9 @@
 <p>Utiliser la clause suivante dans les contrats, les offres à commandes et les commandes subséquentes pour lesquels le Canada sera responsable de tous les frais de livraison et d'administration, de tous les coûts et risques liés au transport ainsi que du dédouanement et des droits de douane (s'il y a lieu).</p>
 <p>Dans le <em>premier espace en blanc en 1.</em>, préciser <em>le type de document</em> (à savoir le contrat, l'offre à commandes ou la commande subséquente) et dans le second espace en blanc <em>en 1. a) et entre les parenthèses en 1. b), les coordonnées de l'usine de l'entrepreneur.</em></p>
 <h5>Texte :</h5>
-<p>1. Les marchandises seront expédiées au point de destination précisé dans _______ et seront livrées : </p>
+<p>1. Les marchandises seront expédiées au point de destination précisé dans <span class="blankline" aria-label="Espace réservé vide"></span>  et seront livrées : </p>
 <ul class="noBullet">
-<li>(a) franco bord (destination) transporteur _______ pour les expéditions en provenant du gouvernement des États-Unis;</li>
+<li>(a) franco bord (destination) transporteur <span class="blankline" aria-label="Espace réservé vide"></span>  pour les expéditions en provenant du gouvernement des États-Unis;</li>
 <li>(b) CA franco transporteur (... lieu convenu, à savoir l'installation de l'entrepreneur) des Incoterms 2000 pour les expéditions en provenance d'un fournisseur commercial.</li>
 </ul>
 <p>2. Le Canada sera responsable de tous les frais de transport, de l'administration, des coûts et des risques du transport, ainsi que du dédouanement et des droits de douane (le cas échéant).</p>
@@ -164,9 +164,9 @@
 <p>Utiliser la clause suivante dans les contrats, les offres à commandes et les commandes subséquentes pour lesquels l'entrepreneur est responsable de tous les frais de livraison et d'administration, de tous les coûts et risques liés au transport ainsi que du dédouanement et des droits de douane.</p>
 <p>Dans le premier espace en blanc en <em>1.</em>, préciser <em>le type de document</em> (à savoir le contrat, l'offre à commandes ou la commande subséquente) et dans le deuxième espace en blanc en <em>1. a) et entre les parenthèses en 1. b), le lieu de destination convenu</em>.</p>
 <h5>Texte :</h5>
-<p>1. Les marchandises seront expédiées au point de destination précisé dans _______ et seront livrées :</p>
+<p>1. Les marchandises seront expédiées au point de destination précisé dans <span class="blankline" aria-label="Espace réservé vide"></span>  et seront livrées :</p>
 <ul class="noBullet">
-<li>(a) franco bord (destination) transporteur _______ pour les expéditions en provenant du gouvernement des États-Unis;</li>
+<li>(a) franco bord (destination) transporteur <span class="blankline" aria-label="Espace réservé vide"></span>  pour les expéditions en provenant du gouvernement des États-Unis;</li>
 <li>(b) rendu droits acquittés (DDP) (... lieu de destination convenu) selon les Incoterms 2000 pour les expéditions en provenance d'un fournisseur commercial.</li>
 </ul>
 <p>2. L'entrepreneur sera responsable de l'ensemble des frais de livraison, de l'administration, des coûts et des risques du transport et du dédouanement, ainsi que du paiement des droits de douane et des taxes.</p>
@@ -211,17 +211,17 @@
 <li>(a) l'original et un exemplaire au consignataire;</li>
 <li>(b) un (1) exemplaire à :</li>
 <li>Ministère des Travaux publics et des Services gouvernementaux<br/>
-						(Division) ______<br/>
-						(Adresse) ______<br/>
-						(Ville/prov.) ______<br/>
-						(Code postal) ______<br/>
-						À l'attention de ______</li>
+						(Division) <span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+						(Adresse) <span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+						(Ville/prov.) <span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+						(Code postal) <span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+						À l'attention de <span class="blankline" aria-label="Espace réservé vide"></span> </li>
 <li>(c) un (1) exemplaire au :</li>
 <li>Quartier général de la Défense nationale<br/>
 						Immeuble Mgén George R. Pearkes<br/>
 						101, Promenade du Colonel By<br/>
 						Ottawa (ON) K1A 0K2<br/>
-						À l'attention de _____.</li>
+						À l'attention de <span class="blankline" aria-label="Espace réservé vide"></span> .</li>
 </ul>
 <p>2. Le Canada ne paiera les factures que si elles sont satisfaisantes et justifiées en bonne et due forme par les documents d'autorisation précisés et tous les autres documents exigés dans le contrat.</p>
 <p><em>3. L'entrepreneur ne doit pas soumettre de factures avant :</em></p>
@@ -234,13 +234,13 @@
 <p>Remarques: <strong>Le texte de cette clause doit figurer en entier dans les documents d'achat</strong>.<br/>
 					Utiliser la clause suivante dans les demandes de soumission, pour l'équipement d'aéronefs ou d'appareils aéroportés d'aéronef, selon les principes distincts des modalités FCA franco transporteur (.lieu convenu) des Incoterms 2000. <em>(La clause D4001C peut s'appliquer.)</em></p>
 <h5>Texte :</h5>
-<p>Les articles _____, tels que spécifiés par le ministère de la Défense nationale, doivent servir à équiper des aéronefs ou des appareils aéroportés d'aéronef; par conséquent, les prix proposés ne doivent pas comprendre les droits de douane.</p>
+<p>Les articles <span class="blankline" aria-label="Espace réservé vide"></span> , tels que spécifiés par le ministère de la Défense nationale, doivent servir à équiper des aéronefs ou des appareils aéroportés d'aéronef; par conséquent, les prix proposés ne doivent pas comprendre les droits de douane.</p>
 <hr/>
 <h5>C2600C (xx/xx/xx) Droits de douane - aéronef</h5>
 <p>Remarques: <strong>Le texte de cette clause doit figurer en entier dans les documents d'achat.</strong><br/>
 					Utiliser la clause suivante dans les contrats attribués en régime de concurrence, pour l'équipement d'aéronefs ou d'appareils aéroportés d'aéronef, selon les principes distincts des modalités FCA franco transporteur (... lieu convenu) des Incoterms 2000. <em>(La clause D4001C peut s'appliquer.)</em></p>
 <h5>Texte :</h5>
-<p>Les articles _____, tels que spécifiés par le ministère de la Défense nationale, doivent servir à équiper des aéronefs ou des appareils aéroportés d'aéronef. Les droits de douane du Canada pour ces articles ne sont pas compris dans le prix contractuel. Si imputable, les droits de douane sont en sus et seront acquittés par l'entrepreneur qui sera remboursé du montant des droits de douane payés ainsi que de la taxe de vente payée à l'importation, sur présentation d'une facture et des documents de douane à l'appui.</p>
+<p>Les articles <span class="blankline" aria-label="Espace réservé vide"></span> , tels que spécifiés par le ministère de la Défense nationale, doivent servir à équiper des aéronefs ou des appareils aéroportés d'aéronef. Les droits de douane du Canada pour ces articles ne sont pas compris dans le prix contractuel. Si imputable, les droits de douane sont en sus et seront acquittés par l'entrepreneur qui sera remboursé du montant des droits de douane payés ainsi que de la taxe de vente payée à l'importation, sur présentation d'une facture et des documents de douane à l'appui.</p>
 <hr/>
 <h5>C2608D (xx/xx/xx) Documentation des douanes canadiennes</h5>
 <p>Remarques: Utiliser la clause suivante dans <em>les contrats et demandes de soumission</em> lorsque le ministère de la Défense nationale est l'importateur. <em>(Les clauses D0035D ou D0038D peuvent s'appliquer.)</em></p>
@@ -291,7 +291,7 @@
 <p>Remarques: LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT. Ne pas utiliser la clause suivante pour les marchés du ministère de la Défense nationale comportant des modalités FCA franco transporteur (... lieu convenu) des Incoterms 2000. <em>(Les clauses D4000C ou D4001C peuvent s'appliquer.)</em></p>
 <p>Utiliser la clause suivante si la clause C5200T a été utilisée et si les instructions d'expédition qui ont été fournies par la Direction de la gestion des transports étaient différentes de celles proposées et inscrites par l'entrepreneur.</p>
 <h5>Texte :</h5>
-<p>La marchandise doit être expédiée payée d'avance via _____ y compris tous les frais de livraison à _____. Les frais de transport, payés d'avance, doivent être inscrits séparément sur la facture, avec, à l'appui, une copie certifiée de la facture de transport acquittée.</p>
+<p>La marchandise doit être expédiée payée d'avance via <span class="blankline" aria-label="Espace réservé vide"></span>  y compris tous les frais de livraison à <span class="blankline" aria-label="Espace réservé vide"></span> . Les frais de transport, payés d'avance, doivent être inscrits séparément sur la facture, avec, à l'appui, une copie certifiée de la facture de transport acquittée.</p>
 <hr/>
 <h5>C5201C (xx/xx/xx) Frais de transport payé d'avance</h5>
 <p>Remarques : Ne pas utiliser la clause suivante pour les marchés du ministère de la Défense nationale comportant des modalités FCA franco transporteur (... lieu convenu) des Incoterms 2000. </p>

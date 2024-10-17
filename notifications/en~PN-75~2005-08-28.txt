@@ -184,7 +184,7 @@
 <li>The Procurement Authority must include the following two DND clauses in the PWGSC 9200:<br/>
 <ol type="a">
 <li><em>Requirement for use of DND626 Task Authorization</em>
-<p><em>This Requisition contains the requirement for DND to authorize the contractor to perform some or all of the work on an "as and when requested" basis using the terms and conditions of the contract.  DND will issue a DND626 Task Authorization to authorize the work to be performed.  The requested DND threshold for each DND626 is $____________* including amendments.   Tasks over this limit will be passed to the Contracting Authority for review and signature in the PWGSC block on the DND626 prior to release to the contractor.</em></p>
+<p><em>This Requisition contains the requirement for DND to authorize the contractor to perform some or all of the work on an "as and when requested" basis using the terms and conditions of the contract.  DND will issue a DND626 Task Authorization to authorize the work to be performed.  The requested DND threshold for each DND626 is $<span class="blankline" aria-label="Blank placeholder"></span> * including amendments.   Tasks over this limit will be passed to the Contracting Authority for review and signature in the PWGSC block on the DND626 prior to release to the contractor.</em></p>
 <p>*  The amount listed here should be identified by the TA and represents the average expected limitation of expenditure for the majority of tasks.   While the threshold is subject to negotiation between the PWGSC contracting officer and the DND Procurement Authority, if it is necessary to change the threshold requested in the 9200, every effort shall be made to keep it at a level where the majority of tasks will still be approved by DND in order to maintain the efficiency of this administrative process and prevent duplication of effort between the two departments.</p>
 </li>
 <li><em>DND626 Administrative Process</em>
@@ -223,7 +223,7 @@
 <ol class="upper-roman double">
 <li>In this clause,
 <p>"Maximum Contract Value" means the amount specified in the Limitation of Expenditure clause set out in this Contract; and</p>
-<p>"Minimum Contract Value" means ______ of the Maximum Contract Value.</p>
+<p>"Minimum Contract Value" means <span class="blankline" aria-label="Blank placeholder"></span>  of the Maximum Contract Value.</p>
 </li>
 <li>Under the terms of this Contract, the Contractor shall provide to Canada the Work described in this Contract as and when requested by Canada during the period of this Contract. Canada's obligation under this Contract is to request Work in the amount of the Minimum Contract Value or, at Canada's option, to pay the Contractor in accordance with paragraph 3 at the end of the Contract.  In consideration of such obligation, the Contractor agrees to stand in readiness throughout the Contract period to perform the work described in the Contract.  Canada's maximum liability for work performed under this Contract shall not exceed the Maximum Contract Value, unless an increase is authorized in writing by the Minister.</li>
 <li>In the event that Canada does not request work in the amount of the Minimum Contract Value during the period of the Contract, Canada shall pay the Contractor the difference between the Minimum Contract Value and the cost of the work requested.</li>

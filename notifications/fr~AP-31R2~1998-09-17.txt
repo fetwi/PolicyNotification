@@ -39,7 +39,7 @@
 <hr/>
 <p><strong>Remarques : Le texte de cette clause doit figurer en entier dans tous les documents contractuels.</strong> Utiliser la clause suivante de concert avec A9115D lorsque le ministère-client désire recevoir l'information directement de l'entrepreneur suivant l'attribution du marché.</p>
 <p><strong>A9116D(xx/xx/98) Information T4A à transmettre par l'entrepreneur</strong></p>
-<p>1. L'entrepreneur doit fournir l'information suivante dans les ____ jours suivant la date d'attribution du marché :</p>
+<p>1. L'entrepreneur doit fournir l'information suivante dans les <span class="blankline" aria-label="Espace réservé vide"></span>  jours suivant la date d'attribution du marché :</p>
 <ol type="a">
 <li>l'appellation légale de l'entité ou du particulier, selon le cas, i.e. le nom associé au numéro d'assurance sociale (NAS) ou au numéro d'entreprise, ainsi que l'adresse et le code postal;</li>
 <li>le statut juridique de l'entrepreneur, c'est-à-dire, particulier, société de personnes, ou société;</li>
@@ -51,8 +51,8 @@
 <p>2. L'information doit être expédiée à l'adresse indiquée ci-dessous. Lorsque l'information pertinente inclut le NAS, c'est-à-dire lorsque l'entrepreneur est un particulier ou une société de personnes, celle-ci devra être expédiée dans une enveloppe portant l'inscription <br/>
 					« protégé ».</p>
 <p><strong>NOTA : <i>(L'agent de négociation des contrats doit insérer le contact et l'adresse fournis par le ministère-client)</i>.</strong></p>
-<p>Contact : __________</p>
-<p>Adresse : __________</p>
+<p>Contact : <span class="blankline" aria-label="Espace réservé vide"></span> </p>
+<p>Adresse : <span class="blankline" aria-label="Espace réservé vide"></span> </p>
 <hr/>
 <p><strong>Remarques : Le texte de cette clause doit figurer en entier dans tous les documents contractuels.</strong> Utiliser la clause suivante de concert avec A9115D lorsque le ministère-client désire communiquer directement avec les entrepreneurs afin d'obtenir l'information requise.</p>
 <p><strong>A9117D(xx/xx/98) Information T4A - Demande directe du ministère-client</strong></p>

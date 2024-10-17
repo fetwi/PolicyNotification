@@ -519,11 +519,11 @@
 <h4>1. Standard Instructions, Clauses and Conditions</h4>
 <p>All instructions, clauses and conditions identified in the RFSO by title, number and date are set out in the Standard Acquisition Clauses and Conditions Manual issued by Public Works and Government Services Canada (PWGSC).  The Manual is available on the PWGSC Website: <a href="http://sacc.pwgsc.gc.ca/sacc/index-e.jsp" rel="external">http://sacc.pwgsc.gc.ca/sacc/index-e.jsp</a></p>
 <p>Offerors who submit an offer agree to be bound by the instructions, clauses and conditions of the RFSO and accept the terms and conditions of the Standing Offer and Resulting Contract(s).</p>
-<p>2006 _____ <em><strong>(insert date)</strong></em> Standard Instructions - Request for Standing Offers - Goods or Services are incorporated by reference into and form part of the RFSO.</p>
+<p>2006 <span class="blankline" aria-label="Blank placeholder"></span>  <em><strong>(insert date)</strong></em> Standard Instructions - Request for Standing Offers - Goods or Services are incorporated by reference into and form part of the RFSO.</p>
 <p><strong>Remark to Standing Offer Authority:</strong> The following modification to standard instructions, is to be added to the RFSO when the offers are to remain valid for more than 60 days. The Standing Offer Authority will insert the number of days the offer is to remain valid.</p>
 <p>2006, Standard Instructions - Request for Standing Offers - Goods or Services, subsection 3.4 is amended as follows: </p>
 <p>Delete: sixty (60) days<br/>
-					Insert: <em>_____ (___)</em> days</p>
+					Insert: <em><span class="blankline" aria-label="Blank placeholder"></span>  (<span class="blankline" aria-label="Blank placeholder"></span> )</em> days</p>
 <p><strong>Remark to Standing Offer Authority:</strong> Use SACC Manual clauses for specific instructions not covered by the standard instructions and include by reference, if applicable.  Section "5-M" clauses ending with "T" of the SACC Manual may be added in this part, however, if there is no existing section "5-M" clause to address a specific requirement, clauses from other sections with SACC Manual clause number ending with "T" (ex. AXXXXT, etc.) may be added in this part subject to modification.</p>
 <h5>1.1 SACC Manual Clauses</h5>
 <p><strong>Remark to Standing Offer Authority:</strong> Refer to information in Sections 03 to 08 of 2006, Standard Instructions - Request for Standing Offers - Goods or Services.</p>
@@ -537,18 +537,18 @@
 <h5>2.2 .......</h5>
 <p><strong>Remark to Standing Offer Authority:</strong> Refer to information in Section 11 of 2006, Standard Instructions - Request for Standing Offers - Goods or Services.</p>
 <h4>3. Enquiries - RFSO</h4>
-<p>All enquiries must be submitted to the Standing Offer Authority at least  (    ) ___ <em><strong>(insert number of calendar days)</strong></em> calendar days before the RFSO closing date.  Enquiries received after that time may not be answered before the RFSO closing date.</p>
+<p>All enquiries must be submitted to the Standing Offer Authority at least  (    ) <span class="blankline" aria-label="Blank placeholder"></span>  <em><strong>(insert number of calendar days)</strong></em> calendar days before the RFSO closing date.  Enquiries received after that time may not be answered before the RFSO closing date.</p>
 <p><strong>Remark to Standing Offer Authority:</strong> Indicate the laws of which Canadian province or territory Canada proposes to apply to the standing offer and any resulting contract. The offeror, as instructed, will be able to propose a change to the applicable laws in its offer.  For the French version, the word "en" must be added in front of Alberta, Colombie-Britannique, Saskatchewan, Ontario and Nouvelle-Écosse; the word "au" in front of Manitoba, Québec, Nouveau-Brunswick and Yukon, the word "à" in front of Terre-Neuve and l'Ile-du-Prince-Édouard, and the words "dans les" in front of Territoires du Nord Quest.</p>
 <h4>4.Applicable Laws</h4>
-<p>The Standing Offer and any contract resulting from the Standing Offer must be interpreted and governed by the laws in force in __________. <em>(The Standing Offer Authority must fill in the province or territory.)</em></p>
+<p>The Standing Offer and any contract resulting from the Standing Offer must be interpreted and governed by the laws in force in <span class="blankline" aria-label="Blank placeholder"></span> . <em>(The Standing Offer Authority must fill in the province or territory.)</em></p>
 <p>The Offeror may, at its discretion, substitute the applicable laws of a Canadian province or territory of its choice without affecting the validity of its offer, by deleting the name of the Canadian province or territory specified and inserting the name of the Canadian province or territory of its choice. If no change is made, it acknowledges that the applicable laws specified are acceptable to the Offeror.</p>
 <p><strong>Remark to Standing Offer Authority:</strong> Refer to information in Sections 03 to 08 of 2006, Standard Instructions - Request for Standing Offers - Goods or Services.</p>
 <h3>PART 3 - OFFER PREPARATION INSTRUCTIONS</h3>
 <h4>1.Offer Preparation Instructions</h4>
 <p>Offerors must provide copies of their offers in separately bound sections as follows:</p>
-<p><strong>Section I:</strong> Technical Offer (_______copies)<br/>
-<strong>Section II:</strong> Financial Offer (_______copies)<br/>
-<strong>Section III:</strong> Certifications Requirements (______copies)</p>
+<p><strong>Section I:</strong> Technical Offer (<span class="blankline" aria-label="Blank placeholder"></span> copies)<br/>
+<strong>Section II:</strong> Financial Offer (<span class="blankline" aria-label="Blank placeholder"></span> copies)<br/>
+<strong>Section III:</strong> Certifications Requirements (<span class="blankline" aria-label="Blank placeholder"></span> copies)</p>
 <p>Price must not appear in any other area of the offer except in the financial offer.</p>
 <p>It is requested that offers follow the response format/instructions as detailed below:</p>
 <ol type="a">
@@ -567,8 +567,8 @@
 <dl>
 <dd>Government of Canada Acquisition Cards (credit cards) will be accepted for payment of call-ups against the standing offer.</dd>
 <dd>The following credit card(s) are accepted:<br/>
-								VISA _______<br/>
-								MasterCard _______
+								VISA <span class="blankline" aria-label="Blank placeholder"></span> <br/>
+								MasterCard <span class="blankline" aria-label="Blank placeholder"></span> 
 <p> <strong>OR</strong></p></dd>
 <dt> </dt>
 </dl>
@@ -600,7 +600,7 @@
 </li>
 <li>An evaluation team composed of representatives Canada will evaluate the offers. <br/>
 <p><strong>OR</strong></p>
-<p>An evaluation team composed of representatives of Canada and <em>__________(insert name of firm or consultant)</em> will evaluate the offers.</p>
+<p>An evaluation team composed of representatives of Canada and <em><span class="blankline" aria-label="Blank placeholder"></span> (insert name of firm or consultant)</em> will evaluate the offers.</p>
 <ol class="noBullet">
 <li><strong>1.1 Technical Evaluation</strong><br/>
 <ol class="noBullet">
@@ -633,8 +633,8 @@
 <ol class="noBullet">
 <li>3.1 Before issuance of standing offer, the following conditions must be met:<br/>
 <ol type="a">
-<li>The Offeror must hold a valid __________, issued by the Canadian and International Industrial Security Directorate (CIISD) of Public Works and Government Services Canada (PWGSC); and</li>
-<li>The Offeror's proposed individuals requiring access to ___________ information, assets or sensitive work site(s) shall each hold a valid personnel security screening at the requisite level of __________, granted or approved by the CIISD of PWGSC.</li>
+<li>The Offeror must hold a valid <span class="blankline" aria-label="Blank placeholder"></span> , issued by the Canadian and International Industrial Security Directorate (CIISD) of Public Works and Government Services Canada (PWGSC); and</li>
+<li>The Offeror's proposed individuals requiring access to <span class="blankline" aria-label="Blank placeholder"></span>  information, assets or sensitive work site(s) shall each hold a valid personnel security screening at the requisite level of <span class="blankline" aria-label="Blank placeholder"></span> , granted or approved by the CIISD of PWGSC.</li>
 </ol>
 <p>Canada will not delay the issuance of any standing offer to allow offerors to obtain the required clearance.</p>
 <p><strong>OR</strong></p>
@@ -642,8 +642,8 @@
 </li>
 <li>3.1 At the time of offer submission, the following conditions must be met:<br/>
 <ol type="a">
-<li>The Offeror must hold a valid __________, issued by the Canadian and International Industrial Security Directorate (CIISD) of Public Works and Government Services Canada (PWGSC); and</li>
-<li>The Offeror's proposed individuals requiring access to __________ information, assets or sensitive work site(s) must each hold a valid personnel security screening at the requisite level of __________, granted or approved by the CIISD of PWGSC.</li>
+<li>The Offeror must hold a valid <span class="blankline" aria-label="Blank placeholder"></span> , issued by the Canadian and International Industrial Security Directorate (CIISD) of Public Works and Government Services Canada (PWGSC); and</li>
+<li>The Offeror's proposed individuals requiring access to <span class="blankline" aria-label="Blank placeholder"></span>  information, assets or sensitive work site(s) must each hold a valid personnel security screening at the requisite level of <span class="blankline" aria-label="Blank placeholder"></span> , granted or approved by the CIISD of PWGSC.</li>
 </ol>
 <p><strong>Remark to Standing Offer Authority:</strong> If applicable, use one of the certification clauses contained under this article in conjunction with the applicable clause "Certification Requirements" under Section III.</p>
 </li>
@@ -708,11 +708,11 @@
 <p>The Manual is available on the PWGSC Website:  <a href="http://sacc.pwgsc.gc.ca/sacc/index-e.jsp" rel="external">http://sacc.pwgsc.gc.ca/sacc/index-e.jsp</a>.</p>
 <ol class="noBullet">
 <li><strong>3.1 General Conditions</strong><br/>
-								2005 ______ <em>(insert date)</em> General Conditions - Standing Offers - Goods or Services, apply to and form part of this Standing Offer
+								2005 <span class="blankline" aria-label="Blank placeholder"></span>  <em>(insert date)</em> General Conditions - Standing Offers - Goods or Services, apply to and form part of this Standing Offer
 <p><strong>Remark to Standing Offer Authority:</strong> Unless otherwise authorized by the responsible Commodity Team, use the modified clause M7010C below in multi-departmental (master) standing offers when more than one department is identified as a user of the standing offer. The Standing Offer Authority must attach a list of the data to be reported on by the Offeror as an annex to the standing offer documents.  The Value Management Office, Acquisition Renewal Sector, requires as a minimum the data elements that are detailed within the business volume report made available at the Standing Offer Index.</p>
 </li>
 <li><strong>3.2 Standing Offer Reporting</strong>
-<p>The Offeror must compile and maintain records on its provision of goods, services or both to the federal government under contracts resulting from the Standing Offer. This data must include all purchases ordered, including purchases paid for by a Government of Canada Acquisition Card.  The data must be aggregated and submitted on a quarterly basis to the Public Works and Government Services Canada (PWGSC) Standing Offer Authority. The reported data must include the data shown at Annex "_____." </p>
+<p>The Offeror must compile and maintain records on its provision of goods, services or both to the federal government under contracts resulting from the Standing Offer. This data must include all purchases ordered, including purchases paid for by a Government of Canada Acquisition Card.  The data must be aggregated and submitted on a quarterly basis to the Public Works and Government Services Canada (PWGSC) Standing Offer Authority. The reported data must include the data shown at Annex "<span class="blankline" aria-label="Blank placeholder"></span> ." </p>
 <p>Quarterly periods are defined as follows:</p>
 <p>1st quarter: April 1, to June 30;<br/>
 									2nd quarter: July 1 to September 30;<br/>
@@ -728,9 +728,9 @@
 <p><strong>Remark to Standing Offer authority:</strong> The first clause below provides that a call up must be made during the period of the Standing Offer but that the work under the call-up can continue beyond the period of the Standing Offer.  In exceptional circumstances where services must be rendered before the end of the period stated, use the second clause below as the alternate clause.</p>
 <ol class="noBullet">
 <li><strong>4.1 Period of Standing Offer</strong>
-<p>The period for making Call-ups against the Standing Offer is from __________ to __________. </p>
+<p>The period for making Call-ups against the Standing Offer is from <span class="blankline" aria-label="Blank placeholder"></span>  to <span class="blankline" aria-label="Blank placeholder"></span> . </p>
 <p><strong>OR</strong></p>
-<p>The period for making call-ups and providing services against the Standing Offer is from __________ to _________ inclusive.</p>
+<p>The period for making call-ups and providing services against the Standing Offer is from <span class="blankline" aria-label="Blank placeholder"></span>  to <span class="blankline" aria-label="Blank placeholder"></span>  inclusive.</p>
 <p><strong>Remark to Standing Offer Authority:</strong> If applicable, add revised clause M9014C - Extension of Standing Offer.</p>
 </li>
 <li><strong>4.2 Extension of Standing Offer</strong>
@@ -742,27 +742,27 @@
 <li>
 <strong>5.1 Standing Offer Authority</strong><br/>
 								The Standing Offer Authority for the Standing Offer is:
-<p>__________________(<em>Name of Standing Offer Authority</em>)<br/>
-									__________________(<em>Title</em>)<br/>
+<p><span class="blankline" aria-label="Blank placeholder"></span> (<em>Name of Standing Offer Authority</em>)<br/>
+									<span class="blankline" aria-label="Blank placeholder"></span> (<em>Title</em>)<br/>
 									Public Works and Government Services Canada<br/>
 									Acquisitions Branch<br/>
-									__________________ (<em>Fill in</em>) Directorate<br/>
-									__________________ (<em>Fill in Address</em>) </p>
-<p>Telephone: (_____) ______-________<br/>
-									Facsimile:  (_____) ______-________<br/>
-									E-mail address:___________________________ </p>
+									<span class="blankline" aria-label="Blank placeholder"></span>  (<em>Fill in</em>) Directorate<br/>
+									<span class="blankline" aria-label="Blank placeholder"></span>  (<em>Fill in Address</em>) </p>
+<p>Telephone: (<span class="blankline" aria-label="Blank placeholder"></span> ) <span class="blankline" aria-label="Blank placeholder"></span> -<span class="blankline" aria-label="Blank placeholder"></span> <br/>
+									Facsimile:  (<span class="blankline" aria-label="Blank placeholder"></span> ) <span class="blankline" aria-label="Blank placeholder"></span> -<span class="blankline" aria-label="Blank placeholder"></span> <br/>
+									E-mail address:<span class="blankline" aria-label="Blank placeholder"></span>  </p>
 <p>The Standing Offer Authority is responsible for the establishment of the Standing Offer, its administration and its revision, if applicable. Upon the making of a call-up, as Contracting Authority, he is responsible for any contractual issues relating to individual call-ups made against the Standing Offer by any Identified User.</p>
 <p><strong>Remark to Standing Offer Authority:</strong> Use one of the clauses below, if applicable.  The first clause is to be used when there is one designated user and is to be filled in at issuance of the standing offer only.  The second clause is to be used when there is more than one designated user and the project authority will be identified in the call-up.</p>
 </li>
 <li><strong>5.2 Project Authority</strong>
 <p>The Project Authority for the Standing Offer is:</p>
-<p>_________________________ <span><strong>(Name of Project Authority)</strong></span><br/>
-									_________________________ <span><strong>(Title)</strong></span><br/>
-									_________________________ <span><strong>(Fill in Organization)</strong></span><br/>
-									_______________________________ <span><strong>(Fill in Address)</strong></span></p>
-<p>Telephone: (______)______-________<br/>
-									Facsimile: (______)______-________<br/>
-									E-mail address:______________________</p>
+<p><span class="blankline" aria-label="Blank placeholder"></span>  <span><strong>(Name of Project Authority)</strong></span><br/>
+									<span class="blankline" aria-label="Blank placeholder"></span>  <span><strong>(Title)</strong></span><br/>
+									<span class="blankline" aria-label="Blank placeholder"></span>  <span><strong>(Fill in Organization)</strong></span><br/>
+									<span class="blankline" aria-label="Blank placeholder"></span>  <span><strong>(Fill in Address)</strong></span></p>
+<p>Telephone: (<span class="blankline" aria-label="Blank placeholder"></span> )<span class="blankline" aria-label="Blank placeholder"></span> -<span class="blankline" aria-label="Blank placeholder"></span> <br/>
+									Facsimile: (<span class="blankline" aria-label="Blank placeholder"></span> )<span class="blankline" aria-label="Blank placeholder"></span> -<span class="blankline" aria-label="Blank placeholder"></span> <br/>
+									E-mail address:<span class="blankline" aria-label="Blank placeholder"></span> </p>
 <p>The Project Authority is the representative of the department or agency for whom the Work will be carried out pursuant to a call-up under the Standing Offer and is responsible for all the technical 	content of the Work under the resulting Contract.</p>
 <p><strong>OR</strong></p>
 <p>The Project Authority for the Standing Offer is identified in the call-up.</p>
@@ -779,7 +779,7 @@
 							Administration Act</em>,  R.S.C. 1985, c. F-11.</p>
 <p><strong>OR</strong></p>
 <p><strong>Remark to Standing Offer Authority:</strong> Use the clause when the standing offer is limited to a specific user. For more than one user, modify accordingly.</p>
-<p>The Identified User authorized to make call-ups against the Standing Offer is :  _____ </p>
+<p>The Identified User authorized to make call-ups against the Standing Offer is :  <span class="blankline" aria-label="Blank placeholder"></span>  </p>
 <p><strong>Remark to Standing Offer Authority:</strong> A ranking methodology for multiple standing offers may be used, if applicable. Refer to SM procedure 5.180 - Multiple Standing Offers to establish the appropriate ranking methodologies applicable to your requirement. </p>
 </li>
 <li><strong>Call-up Procedures</strong><br/>
@@ -790,7 +790,7 @@
 <p><strong>Remark to Standing Offer Authority:</strong> Insert and complete the clause below, if applicable. Refer to SM 5.164 and 5.166 on Treasury Board Contracting Limits.</p>
 </li>
 <li><strong>Limitation of Call-ups</strong>
-<p>Individual call-ups against this Standing Offer must not exceed $_____(Goods and Services Tax or Harmonized Sales Tax included).</p>
+<p>Individual call-ups against this Standing Offer must not exceed $<span class="blankline" aria-label="Blank placeholder"></span> (Goods and Services Tax or Harmonized Sales Tax included).</p>
 <p><strong>Remark to Standing Offer Authority:</strong> If applicable, use the revised SACC Manual clause M4506C below in standing offers where there is a need to include a Limitation of Expenditure on the total value of the call-ups. Refer to SM procedure 5.170.</p>
 </li>
 <li><strong>Limitation of Expenditure</strong><br/>
@@ -801,11 +801,11 @@
 <ol>
 <li>the call up against the Standing Offer, including any annexes;</li>
 <li>the Standing Offer;</li>
-<li><em>(Standing Offer Authority to delete if not applicable)</em> the supplemental general conditions __________; <em>(Insert number and title)</em></li>
-<li>General conditions ___________ ; <em>(insert number and title)</em></li>
-<li>Annex "_______"  - ____________;</li>
-<li>Annex  "______"  - ____________;</li>
-<li>the Offeror's offer_________________________<em>(insert date of offer)</em>, as amended  _________. <em>(insert date(s) of  amendment(s)- if applicable)</em></li>
+<li><em>(Standing Offer Authority to delete if not applicable)</em> the supplemental general conditions <span class="blankline" aria-label="Blank placeholder"></span> ; <em>(Insert number and title)</em></li>
+<li>General conditions <span class="blankline" aria-label="Blank placeholder"></span>  ; <em>(insert number and title)</em></li>
+<li>Annex "<span class="blankline" aria-label="Blank placeholder"></span> "  - <span class="blankline" aria-label="Blank placeholder"></span> ;</li>
+<li>Annex  "<span class="blankline" aria-label="Blank placeholder"></span> "  - <span class="blankline" aria-label="Blank placeholder"></span> ;</li>
+<li>the Offeror's offer<span class="blankline" aria-label="Blank placeholder"></span> <em>(insert date of offer)</em>, as amended  <span class="blankline" aria-label="Blank placeholder"></span> . <em>(insert date(s) of  amendment(s)- if applicable)</em></li>
 </ol>
 </li>
 <li><strong>Certifications</strong><br/>
@@ -817,7 +817,7 @@
 </ol>
 </li>
 <li><strong>Applicable Laws</strong><br/>
-						The Standing Offer and any contract resulting from the Standing Offer must be interpreted and governed  by the laws in force in __________ <em>(The Standing Offer Authority must fill in the province or territory as specified by the Offeror in its offer)</em>. 
+						The Standing Offer and any contract resulting from the Standing Offer must be interpreted and governed  by the laws in force in <span class="blankline" aria-label="Blank placeholder"></span>  <em>(The Standing Offer Authority must fill in the province or territory as specified by the Offeror in its offer)</em>. 
 <p><strong>Remark to Standing Offer Authority:</strong> If applicable, insert in full text additional Section "M" SACC Manual clauses ending with "C" in this part as stand alone clauses with appropriate numbering.</p>
 </li>
 <li><strong>(....)</strong></li>
@@ -835,17 +835,17 @@
 <p><strong>Remark to Standing Offer Authority: </strong> Choose one of the general conditions below for the resulting contract.</p>
 <ol class="noBullet">
 <li><strong>2.1 General Conditions</strong>
-<p>2029 _____ (<em><strong>insert date</strong></em>) General Conditions - Goods and Services (Low Dollar Value) apply to and form part of the Contract.</p>
+<p>2029 <span class="blankline" aria-label="Blank placeholder"></span>  (<em><strong>insert date</strong></em>) General Conditions - Goods and Services (Low Dollar Value) apply to and form part of the Contract.</p>
 <p><strong>OR</strong></p>
-<p>2010 _____ (<em><strong>insert date</strong></em>) General Conditions - Goods and Services (Medium Complexity) apply to and form part of the Contract.</p>
+<p>2010 <span class="blankline" aria-label="Blank placeholder"></span>  (<em><strong>insert date</strong></em>) General Conditions - Goods and Services (Medium Complexity) apply to and form part of the Contract.</p>
 <p><strong><em>OR</em></strong></p>
-<p>9601 _____ (<em><strong>insert date</strong></em>) General Conditions - Long Form, apply to and form part of the Contract.</p>
+<p>9601 <span class="blankline" aria-label="Blank placeholder"></span>  (<em><strong>insert date</strong></em>) General Conditions - Long Form, apply to and form part of the Contract.</p>
 <p><strong>OR</strong></p>
-<p>9676 _____ (<em><strong>insert date</strong></em>) General Conditions - Services, apply to and form part of the Contract.</p>
+<p>9676 <span class="blankline" aria-label="Blank placeholder"></span>  (<em><strong>insert date</strong></em>) General Conditions - Services, apply to and form part of the Contract.</p>
 <p><strong>OR</strong></p>
-<p>9624 ______ (<em><strong>insert date</strong></em>) General Conditions - Research and Development, apply to and form part of the Contract.</p>
+<p>9624 <span class="blankline" aria-label="Blank placeholder"></span>  (<em><strong>insert date</strong></em>) General Conditions - Research and Development, apply to and form part of the Contract.</p>
 <p><strong>Remark to Standing Offer Authority:</strong> Use the following clause when payment by credit cards is accepted by the Offeror.</p>
-<p>Section_____________________(<em>insert section number</em>) Payment and Interest on Overdue Accounts of_________________________(<em>date of applicable general conditions</em>) will not apply to payments made by credit cards at point of sale.</p>
+<p>Section<span class="blankline" aria-label="Blank placeholder"></span> (<em>insert section number</em>) Payment and Interest on Overdue Accounts of<span class="blankline" aria-label="Blank placeholder"></span> (<em>date of applicable general conditions</em>) will not apply to payments made by credit cards at point of sale.</p>
 <p><strong>Remark to Standing Offer Authority:</strong> Specific SACC Manual clauses not already covered by the general conditions and not part of Section 5-M may be added, if applicable.</p>
 </li>
 <li><strong>2.2 SACC Manual Clauses</strong><br/>
@@ -882,10 +882,10 @@
 <li><strong>4.5 Payment by Credit Card</strong><br/>
 <em>(The Standing Offer Authority must complete the clause if the Offeror has accepted payment by credit card(s) (Visa, MasterCard) as specified by the Offeror under Part 3 of the RFSO.)</em> <br/>
 <em>(Use this clause if only one credit card is accepted)</em><br/>
-								The following credit card is accepted: ___________ 
+								The following credit card is accepted: <span class="blankline" aria-label="Blank placeholder"></span>  
 <p><strong>OR</strong></p>
 <p> <em>(Use this clause if more than one credit card are accepted)</em><br/>
-								The following credit cards are accepted: <em>_______ and _________.</em></p>
+								The following credit cards are accepted: <em><span class="blankline" aria-label="Blank placeholder"></span>  and <span class="blankline" aria-label="Blank placeholder"></span> .</em></p>
 <p><strong>Remark to Standing Offer Authority:</strong> Choose one of the clauses below based on the general conditions applicable to the requirement. Refer to the appropriate sections in the general conditions for information related to Invoice Submission, Payment and Interest on Overdue Accounts.  Use other applicable SACC Manual clauses or other approved clauses related to Invoicing Instructions.  No section "5-M" clause of the SACC Manual is to be added in Part 5B - Resulting Contract Clause. Only clauses from sections other than "5-M" which are used for contracts and have a SACC Manual clause number ending with "C" or "D" may be added.  Invoicing Instructions also cover progress claims and therefore any reference to invoice would also cover progress claims.</p>
 </li>
 </ol>

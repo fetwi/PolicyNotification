@@ -280,7 +280,7 @@
 <span class="description"><em>Include, if applicable, a statement regarding the applicability of the procurement to one or more of the Comprehensive Land Claims Agreements (CLCAs).</em></span>
 <br/>6. Comprehensive Land Claims Agreement(s)
 		
-		This procurement is subject to the <var title="blank">______________________</var> <em>(insert the applicable <abbr title="Comprehensive Land Claims Agreement">CLCA</abbr>)</em>
+		This procurement is subject to the <var title="blank"><span class="blankline" aria-label="Blank placeholder"></span> </var> <em>(insert the applicable <abbr title="Comprehensive Land Claims Agreement">CLCA</abbr>)</em>
 </li>
 <li value="7">
 <span class="description"><em>Indicate the reason(s)/justification for the pre-identified supplier. This should clearly demonstrate why the pre-identified supplier has been identified as the only supplier capable of performing the work or of meeting the government's requirements. (See <a href="#PN-39U4a3151">3.15.1</a>)</em></span>
@@ -296,7 +296,7 @@
 	
 	The following exception to the Government Contracts Regulations is invoked for this procurement under subsection
 	<br/>
-<var title="blank">___________________</var>(<em>for example: subsection 6(d) - "only one person is capable of performing the work"</em>).
+<var title="blank"><span class="blankline" aria-label="Blank placeholder"></span> </var>(<em>for example: subsection 6(d) - "only one person is capable of performing the work"</em>).
 
 </li>
 <li value="9">
@@ -306,9 +306,9 @@
 <br/>9. Exclusions and/or Limited Tendering Reasons
 		
 		The following exclusion(s) and/or limited tendering reasons are invoked <em>under the section of the trade agreement(s) specified:</em>
-<br/>Agreement on Internal Trade (AIT) – Article(s) <var title="blank">_____</var> <em>(insert applicable article(s))</em>
-<br/>World Trade Organization - Agreement on Government Procurement (WTO-AGP) – Article(s) <var title="blank">_____</var> <em>(insert applicable article(s))</em>
-<br/>North American Free Trade Agreement (NAFTA) – Article(s) <var title="blank">_____</var> (insert applicable article(s))</li>
+<br/>Agreement on Internal Trade (AIT) – Article(s) <var title="blank"><span class="blankline" aria-label="Blank placeholder"></span> </var> <em>(insert applicable article(s))</em>
+<br/>World Trade Organization - Agreement on Government Procurement (WTO-AGP) – Article(s) <var title="blank"><span class="blankline" aria-label="Blank placeholder"></span> </var> <em>(insert applicable article(s))</em>
+<br/>North American Free Trade Agreement (NAFTA) – Article(s) <var title="blank"><span class="blankline" aria-label="Blank placeholder"></span> </var> (insert applicable article(s))</li>
 <li value="10">
 <span class="description"><em>Where intellectual property will be created during the course of the contract, a statement should indicate whether an exception set out in the Treasury Board <a href="http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=13697" rel="external">ARCHIVED - Policy on Title to Intellectual Property Arising under Crown Procurement Contracts</a> is being invoked or if the ownership of intellectual property will rest with the contractor. See examples below.</em></span>
 <ul class="no-markers options">
@@ -326,7 +326,7 @@
 <ul class="no-markers options">
 <li>11. The period of the proposed contract or the delivery date(s)
 				
-				The product/system/equipment <em>(as appropriate)</em> must be delivered on <var title="blank">_________</var> <em>(insert the delivery date(s) required or requested).</em> If the contract includes optional quantities and/or optional goods, insert the delivery date (<em>e.g. within x (insert number) days of exercising the option</em>).</li>
+				The product/system/equipment <em>(as appropriate)</em> must be delivered on <var title="blank"><span class="blankline" aria-label="Blank placeholder"></span> </var> <em>(insert the delivery date(s) required or requested).</em> If the contract includes optional quantities and/or optional goods, insert the delivery date (<em>e.g. within x (insert number) days of exercising the option</em>).</li>
 <li>OR
 				
 				<br/>The proposed contract is for a period of x <em>(insert number)</em> years, from <em>(insert estimated start date)</em> to <em>(insert estimated completion date).</em> If the contract includes an option to extend the contract period, insert the option information, e.g. two one-year periods.	

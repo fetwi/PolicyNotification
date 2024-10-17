@@ -68,7 +68,7 @@
 <ol class="double-space" type="1">
 <li>Afin  de faire parvenir ce formulaire au réviseur pertinent, consulter l'<a href="http://soi.pwgsc.gc.ca/app/index.cfm?Fuseaction=prg.main&amp;altlang=-f" rel="external">Index des  offres à commandes</a>, plus précisément le « Tableaux des équipes  de biens et de services, des réviseurs régionaux et des biens et services  désignés ».</li>
 <li>Fournir  une description concise des biens ou des services achetés, y compris la ou les  régions géographiques visées par les achats.</li>
-<li>Numéro  de la demande : _________________________ NIBS : ______________</li>
+<li>Numéro  de la demande : <span class="blankline" aria-label="Espace réservé vide"></span>  NIBS : <span class="blankline" aria-label="Espace réservé vide"></span> </li>
 <li>Type  d'<abbr title="offre à commandes">OC</abbr> (<abbr title="offres à commandes principales et nationales">OCPN</abbr>, <abbr title="offres à commandes individuelles et nationales">OCIN</abbr>, <abbr title="offres à commandes principales et régionales">OCPR</abbr>, <abbr title="offres à commandes individuelles et régionales">OCIR</abbr>, <abbr title="offres à commandes individuelles et ministérielles">OCIM</abbr>) ou d'<abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s :</li>
 <li>Quel est le volume  d'affaires prévu par année?<br/>
   Quel  est le volume d'affaires prévu pour la « période de prolongation »?</li>
@@ -100,11 +100,11 @@
 <li>Quelle  était la durée de l'<abbr title="offre à commandes">OC</abbr> ou de l'<abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s initial, et quelle est la période de  prolongation proposée?</li>
 <li>Comment  la prolongation de l'<abbr title="offre à commandes">OC</abbr> ou de l'<abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s est-elle dans l'intérêt du Canada?</li>
 </ol>
-<p>Nom de l'agent de  négociation des contrats (écrire en lettres imprimées) :  ________________________</p>
-<p>Numéro  de téléphone : ____________________</p>
+<p>Nom de l'agent de  négociation des contrats (écrire en lettres imprimées) :  <span class="blankline" aria-label="Espace réservé vide"></span> </p>
+<p>Numéro  de téléphone : <span class="blankline" aria-label="Espace réservé vide"></span> </p>
 <h4>Cette section doit être  complétée par le réviseur</h4>
 <ol class="double-space" type="A">
-<li>Acceptée sans commentaire – Le réviseur, ________ (<em>insérer le nom du réviseur</em>), accepte cette  demande d'émission d'une <abbr title="offre à commandes">OC</abbr> ou d'un <abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s, ou de la modification pour prolongation  ______ (<em>insérer le numéro de demande</em>),  sans commentaire.  Date  d'approbation : ___________ (<em>insérer la date</em>).</li>
+<li>Acceptée sans commentaire – Le réviseur, <span class="blankline" aria-label="Espace réservé vide"></span>  (<em>insérer le nom du réviseur</em>), accepte cette  demande d'émission d'une <abbr title="offre à commandes">OC</abbr> ou d'un <abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s, ou de la modification pour prolongation  <span class="blankline" aria-label="Espace réservé vide"></span>  (<em>insérer le numéro de demande</em>),  sans commentaire.  Date  d'approbation : <span class="blankline" aria-label="Espace réservé vide"></span>  (<em>insérer la date</em>).</li>
 <li>Acceptée avec  commentaires/recommandations/conditions – Décrire brièvement les  commentaires/recommandations/conditions ou attacher sous pli séparé.</li>
 <li>Refusée – Indiquer la justification  pour la décision prise ou attacher sous pli séparé.</li>
 <li>Si un aspect quelconque de  la demande initiale ou du dossier a été modifié à la suite des commentaires ou  des recommandations du réviseur, résumer les grandes lignes de ces changements  dans la case de droite.</li>

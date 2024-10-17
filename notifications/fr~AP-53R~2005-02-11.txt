@@ -228,7 +228,7 @@
 <h5>Texte :</h5>
 <p><em>Les parties reconnaissent que l'entrepreneur,<br/>
 					afin de respecter ses obligations énoncées dans le<br/>
-					contrat, a, à partir du _______ , commencé les travaux<br/>
+					contrat, a, à partir du <span class="blankline" aria-label="Espace réservé vide"></span>  , commencé les travaux<br/>
 					requis en vertu du contrat avant la date d'entrée en vigueur<br/>
 					de ce dernier (travaux précontractuels) et a engagé<br/>
 					certains coûts directement liés aux travaux</em>,<br/>
@@ -272,7 +272,7 @@
 					C0210C sous la Base de paiement.</p>
 <h5>Texte :</h5>
 <p>Le Canada et l'entrepreneur reconnaissent que l'entrepreneur a<br/>
-					commencé, à partir du _______, avec le <em>consentement</em> du __________ (<em><strong>Insérer le nom du ministère client)</strong></em> et sans <em>contrat</em> écrit, à exécuter les travaux<br/>
+					commencé, à partir du <span class="blankline" aria-label="Espace réservé vide"></span> , avec le <em>consentement</em> du <span class="blankline" aria-label="Espace réservé vide"></span>  (<em><strong>Insérer le nom du ministère client)</strong></em> et sans <em>contrat</em> écrit, à exécuter les travaux<br/>
 					requis en vertu du présent contrat. Le Canada confirme par<br/>
 					la présente son obligation de payer l'entrepreneur <em>conformément à la base de paiement du contrat en contrepartie des travaux exécutés avant la date d'entrée en vigueur du contrat (travaux précontractuels).</em> L'entrepreneur <em>convient</em> que, sur paiement du montant mentionné ci-dessus<br/>
 					par le Canada à l'entrepreneur, le Canada sera dégagé<br/>

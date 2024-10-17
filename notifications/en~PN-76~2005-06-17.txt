@@ -31,10 +31,10 @@
 <p>the general terms, conditions and clauses identified herein by number, date and title;</p>
 </li>
 <li>
-<p>the Instructions set out in Part A of the standard instructions and conditions 9403-6 (_____) (insert date and delete this instruction), and</p>
+<p>the Instructions set out in Part A of the standard instructions and conditions 9403-6 (<span class="blankline" aria-label="Blank placeholder"></span> ) (insert date and delete this instruction), and</p>
 </li>
 <li>
-<p>the Particulars of the Standing Offer set out in Part B and, for the purchase of goods, the Conditions set out in Part C of standard instructions and conditions 9403-6 (_____) (insert date and delete this instruction) </p>
+<p>the Particulars of the Standing Offer set out in Part B and, for the purchase of goods, the Conditions set out in Part C of standard instructions and conditions 9403-6 (<span class="blankline" aria-label="Blank placeholder"></span> ) (insert date and delete this instruction) </p>
 </li>
 </ol>
 <ul class="noBullet">
@@ -56,7 +56,7 @@
 <p>An electronic version of the Manual is available on the PWGSC Web site:<br/>
 <a href="http://sacc.pwgsc.gc.ca/sacc/index-e.jsp" rel="external">http://sacc.pwgsc.gc.ca/sacc/index-e.jsp</a>.</p>
 <p><strong>Terms and Conditions - Standing Offer</strong></p>
-<p>Pursuant to the <em>Department of Public Works and Government Services Act</em>, S.C. 1996, c.16, the general terms, conditions and clauses identified herein by title, number and date, and the Particulars of the Standing Offer set out in Part B and, for the purchase of goods, the Conditions set out in Part C of standard instructions and conditions 9403-6 (_____) (insert date and delete this instruction) are hereby incorporated by reference into this Standing Offer and form part of any contract resulting from any call-up made pursuant to this Standing Offer as though expressly set out herein, subject to any other express terms and conditions herein contained.</p>
+<p>Pursuant to the <em>Department of Public Works and Government Services Act</em>, S.C. 1996, c.16, the general terms, conditions and clauses identified herein by title, number and date, and the Particulars of the Standing Offer set out in Part B and, for the purchase of goods, the Conditions set out in Part C of standard instructions and conditions 9403-6 (<span class="blankline" aria-label="Blank placeholder"></span> ) (insert date and delete this instruction) are hereby incorporated by reference into this Standing Offer and form part of any contract resulting from any call-up made pursuant to this Standing Offer as though expressly set out herein, subject to any other express terms and conditions herein contained.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
 </div>

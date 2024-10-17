@@ -145,7 +145,7 @@
 </tbody></table>
 <h3>Annexe C</h3>
 <h4>Responsabilités du client</h4>
-<p>En tant que directeur responsable du projet défini comme ____________, je certifie par la présente que le gestionnaire de projet indiqué à la fin du présent document est pleinement compétent au chapitre des études et de l'expérience requises et qu'il a le pouvoir nécessaire pour s'acquitter des responsabilités énumérées ci-après. Il est convenu que les pratiques et procédures actuelles de TPSGC en matière de passation de marchés seront strictement respectées dans le cadre du présent projet.</p>
+<p>En tant que directeur responsable du projet défini comme <span class="blankline" aria-label="Espace réservé vide"></span> , je certifie par la présente que le gestionnaire de projet indiqué à la fin du présent document est pleinement compétent au chapitre des études et de l'expérience requises et qu'il a le pouvoir nécessaire pour s'acquitter des responsabilités énumérées ci-après. Il est convenu que les pratiques et procédures actuelles de TPSGC en matière de passation de marchés seront strictement respectées dans le cadre du présent projet.</p>
 <h4>Responsabilités</h4>
 <p>Le gestionnaire de projet doit :</p>
 <ol type="i">
@@ -162,10 +162,10 @@
 <li>fournir à TPSGC toutes les informations nécessaires sur le programme et le projet afin de permettre à TPSGC de suivre ses processus internes de passation de marchés;</li>
 <li>participer aux négociations de plainte et aux activités de règlement de conflit et financer tout règlement convenu à la suite de la mesure du rendement des travaux ou des services.</li>
 </ol>
-<p>Par la présente, M. ou Mme _______________________ est désigné(e) gestionnaire de projet pour les travaux à accomplir ou les services à rendre et il (elle) peut être joint(e) au (___) __ - ____.</p>
-<p>__________________<br/>
+<p>Par la présente, M. ou Mme <span class="blankline" aria-label="Espace réservé vide"></span>  est désigné(e) gestionnaire de projet pour les travaux à accomplir ou les services à rendre et il (elle) peut être joint(e) au (<span class="blankline" aria-label="Espace réservé vide"></span> ) __ - <span class="blankline" aria-label="Espace réservé vide"></span> .</p>
+<p><span class="blankline" aria-label="Espace réservé vide"></span> <br/>
 					Directeur</p>
-<p>__________________<br/>
+<p><span class="blankline" aria-label="Espace réservé vide"></span> <br/>
 					Gestionnaire de projet</p>
 <hr/>
 <div class="smallFont" id="AP-43Ufootnote">

@@ -9,12 +9,12 @@ directory = os.path.join(dir_path, "notifications")
 pattern = re.compile(r'_{3,}', re.DOTALL)
 
 # Define the custom HTML code to replace the matched content
-replacement_html = '<span class="blankline" aria-label="Blank placeholder"></span> '
+replacement_html = '<span class="blankline" aria-label="Espace réservé vide"></span> '
 
 # Iterate over all files in the directory
 for filename in os.listdir(directory):
-    # Check if the file is a .txt file
-    if filename.endswith('.txt'):
+    # Check if the file is a .txt file and its filename begins with 'en'
+    if filename.endswith('.txt') and filename.startswith('fr'):
         # Open the file in read mode and read all content
         with open(os.path.join(directory, filename), 'r', encoding='utf-8') as file:
             content = file.read()

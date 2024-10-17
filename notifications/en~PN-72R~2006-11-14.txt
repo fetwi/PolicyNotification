@@ -144,7 +144,7 @@
 <p>The Offeror must compile and maintain records on its provision of goods, services or both to<br/>
 					the federal government under contracts resulting from the Standing Offer. This data must<br/>
 					include all purchases paid for by a Government of Canada Acquisition Card. The data must be<br/>
-					submitted on a ____________ (<em class="blue">The Standing Offer Authority must insert  "quarterly basis" or<br/>
+					submitted on a <span class="blankline" aria-label="Blank placeholder"></span>  (<em class="blue">The Standing Offer Authority must insert  "quarterly basis" or<br/>
 					specify an alternate reporting period</em>) to the Public Works and Government Services Canada<br/>
 					(PWGSC) Standing Offer Authority.</p>
 <p>(<em class="blue">If an alternate reporting period is required, the Standing Offer Authority must delete the<br/>
@@ -158,7 +158,7 @@
 					than 15 calendar days after the end of the (<em class="blue">The Standing Offer Authority<br/>
 					must insert "quarterly period" or the alternate reporting period as identified in the first<br/>
 					paragraph above</em>).  An electronic version of the form in Excel and/or Lotus spreadsheet<br/>
-					format ___________ (<em class="blue">The Standing Offer Authority must choose "will be provided<br/>
+					format <span class="blankline" aria-label="Blank placeholder"></span>  (<em class="blue">The Standing Offer Authority must choose "will be provided<br/>
 					to the Offeror electronically by the Standing Offer Authority" or</em><em> "is available on the Buy and Sell Website at the following address: <a href="https://buyandsell.gc.ca/">https://buyandsell.gc.ca/</a>.)</em></p>
 <p>All data fields of the report must be completed as requested. If some data is not available, the<br/>
 					reason must be indicated in the report. If no goods or services are provided during a given<br/>
@@ -183,7 +183,7 @@
 <p>The Supplier must compile and maintain records on its provision of goods, services or both to<br/>
 					the federal government under contracts resulting from the Supply Arrangement.  This data must<br/>
 					include all purchases paid for by a Government of Canada Acquisition Card.  The data must be<br/>
-					submitted on a ______________ (<em class="blue">The Supply Arrangement Authority must insert<br/>
+					submitted on a <span class="blankline" aria-label="Blank placeholder"></span>  (<em class="blue">The Supply Arrangement Authority must insert<br/>
 					"quarterly basis" or specify an alternate reporting period</em>) to the Public Works and<br/>
 					Government Services Canada (PWGSC) Supply Arrangement Authority. </p>
 <p><em class="blue">(If an alternate reporting period is required, the Supply Arrangement Authority<br/>
@@ -197,7 +197,7 @@
 					later than 15 calendar days after the end of the <em class="blue">(The Supply Arrangement<br/>
 					Authority must insert "quarterly period" or the alternate reporting period as identified in<br/>
 					the first paragraph above)</em>.  An electronic version of the form in Excel and/or Lotus<br/>
-					spreadsheet format ___________ <em class="blue">(The Supply Arrangement Authority must choose<br/>
+					spreadsheet format <span class="blankline" aria-label="Blank placeholder"></span>  <em class="blue">(The Supply Arrangement Authority must choose<br/>
 					"will be provided to the Supplier electronically by the Supply Arrangement Authority" or<br/>
 					"</em><em>is available on the Buy and Sell website at the following address: <a href="https://buyandsell.gc.ca/">https://buyandsell.gc.ca/</a>).</em></p>
 <p>All data fields of the report must be completed as requested.  If some data is not available,<br/>
@@ -243,7 +243,7 @@
 <p>							Note: If a summary document is being used as an alternative document, the following<br/>
 							statement must be included in the formal procurement plan or CPAA.</p>
 <p> <em>"In accordance with PN-72R the procurement strategy has been reviewed by the Commodity Team<br/>
-							(CT) ______ (insert: team designation) for _____ (state: commodity class).  The CT has endorsed<br/>
+							(CT) <span class="blankline" aria-label="Blank placeholder"></span>  (insert: team designation) for <span class="blankline" aria-label="Blank placeholder"></span>  (state: commodity class).  The CT has endorsed<br/>
 							the proposed strategy as acceptable under "The Way Forward" initiative."</em></p></li>
 <li>Once reviewed by the Manager, send the procurement plan, CPAA, or a summary document, for review<br/>
 							by e-mail with the subject line as follows: <strong>PN-72R - GSIN and title - document type and Serial<br/>

@@ -32,9 +32,9 @@
 <p>4. Si la vérification du Ministre révèle un manquement à l'engagement, le Ministre peut considérer que le soumissionnaire est en défaut pour tout marché découlant de la présente soumission.</p>
 <p>5. Si le soumissionnaire ne peut pas vérifier l'origine des produits ou des services offerts dans sa soumission, cette soumission sera jugée irrecevable.</p>
 <p>6. Le défaut de dûment signer la présente déclaration et attestation dans l'espace prévu ci-dessous et de la joindre à la soumission rendra la soumission irrecevable.</p>
-<p>___________________<br/>
+<p><span class="blankline" aria-label="Espace réservé vide"></span> <br/>
 					Signature<br/>
-					___________________<br/>
+					<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
 					Date</p>
 <hr/>
 <h5>K5003T (XX/XX/XX) Attestation de l'ACCMT - Obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la soumission</h5>
@@ -49,9 +49,9 @@
 <p>5. Si la vérification du Ministre révèle un manquement à l'engagement, le Ministre peut considérer que le soumissionnaire est en défaut pour tout marché découlant de la présente soumission.</p>
 <p>6. Si le soumissionnaire ne peut pas vérifier l'origine des produits ou des services offerts dans sa soumission, cette soumission sera jugée irrecevable.</p>
 <p>7. Le défaut de dûment signer la présente déclaration et attestation dans l'espace prévu ci-dessous et de la joindre à la soumission rendra la soumission irrecevable.</p>
-<p>___________________<br/>
+<p><span class="blankline" aria-label="Espace réservé vide"></span> <br/>
 					Signature<br/>
-					___________________<br/>
+					<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
 					Date</p>
 <hr/>
 <h5>K5004T (XX/XX/XX) Attestation de l'ACCMT - Obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la clause</h5>
@@ -62,17 +62,17 @@
 <p>1. Cet achat est limité aux produits et aux services canadiens et (ou) coréens au sens défini dans la clause K5000D, Définitions de l'ACCMT.</p>
 <p>2. Les soumissions peuvent être acceptées en entier ou en partie.</p>
 <p>3. Le soumissionnaire déclare et atteste que les produits ou les services suivants qui sont offerts sont des produits ou des services canadiens et (ou) coréens, conformément aux définitions de la clause K5000D, Définitions de l'ACCMT, et il reconnaît que seuls ces produits ou ces services seront pris en considération.</p>
-<p>____________________<br/>
-					____________________<br/>
-					____________________<br/>
-					____________________</p>
+<p><span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+					<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+					<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+					<span class="blankline" aria-label="Espace réservé vide"></span> </p>
 <p>4. Le soumissionnaire reconnaît que le Ministre s'appuie sur la présente déclaration et attestation pour évaluer les soumissions et adjuger tout marché pouvant découler de la présente soumission. La présente déclaration et attestation relative au contenu canadien peut être vérifiée de la manière que le Ministre peut raisonnablement exiger.</p>
 <p>5. Si la vérification du Ministre révèle un manquement à l'engagement, le Ministre peut considérer que le soumissionnaire est en défaut pour tout marché découlant de la présente soumission.</p>
 <p>6. Si le soumissionnaire ne peut pas vérifier l'origine des produits ou des services offerts dans sa soumission, cette soumission sera jugée irrecevable.</p>
 <p>7. Le défaut de dûment signer la présente déclaration et attestation dans l'espace prévu ci-dessous et de la joindre à la soumission rendra la soumission irrecevable.</p>
-<p>___________________<br/>
+<p><span class="blankline" aria-label="Espace réservé vide"></span> <br/>
 					Signature<br/>
-					___________________<br/>
+					<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
 					Date</p>
 <hr/>
 <h5>K5011T (XX/XX/XX) Attestation de l'ACCMT - Non obligatoire avec soumission - Limitée exclusivement - Produits uniques ou attestation globale</h5>
@@ -85,10 +85,10 @@
 <p>3. Le soumissionnaire reconnaît que le Ministre s'appuie sur la présente déclaration et attestation pour évaluer les soumissions et adjuger tout marché pouvant découler de la présente soumission. La présente déclaration et attestation relative au contenu canadien peut être vérifiée de la manière que le Ministre peut raisonnablement exiger.</p>
 <p>4. Si la vérification du Ministre révèle un manquement à l'engagement, le Ministre peut considérer que le soumissionnaire est en défaut pour tout marché découlant de la présente soumission.</p>
 <p>5. Si le soumissionnaire ne peut pas vérifier l'origine des produits ou des services offerts dans sa soumission, cette soumission sera jugée irrecevable.</p>
-<p>6. La signature de la présente déclaration et attestation dans l'espace prévu ci-dessous est une condition essentielle à la recevabilité de la soumission. À défaut de déposer l'attestation signée sur demande dans le délai de ________ jours civils, si elle n'a pas été déposée avec votre soumission, cette dernière sera jugée irrecevable.</p>
-<p>___________________<br/>
+<p>6. La signature de la présente déclaration et attestation dans l'espace prévu ci-dessous est une condition essentielle à la recevabilité de la soumission. À défaut de déposer l'attestation signée sur demande dans le délai de <span class="blankline" aria-label="Espace réservé vide"></span>  jours civils, si elle n'a pas été déposée avec votre soumission, cette dernière sera jugée irrecevable.</p>
+<p><span class="blankline" aria-label="Espace réservé vide"></span> <br/>
 					Signature<br/>
-					___________________<br/>
+					<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
 					Date</p>
 <hr/>
 <h5>K5013T (XX/XX/XX) Attestation de l'ACCMT - Non obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la soumission</h5>
@@ -102,10 +102,10 @@
 <p>4. Le soumissionnaire reconnaît que le Ministre s'appuie sur la présente déclaration et attestation pour évaluer les soumissions et adjuger tout marché pouvant découler de la présente soumission. La présente déclaration et attestation relative au contenu canadien peut être vérifiée de la manière que le Ministre peut raisonnablement exiger.</p>
 <p>5. Si la vérification du Ministre révèle un manquement à l'engagement, le Ministre peut considérer que le soumissionnaire est en défaut pour tout marché découlant de la présente soumission.</p>
 <p>6. Si le soumissionnaire ne peut pas vérifier l origine des produits ou des services offerts dans sa soumission, cette soumission sera jugée irrecevable.</p>
-<p>7. La signature de la présente déclaration et attestation dans l'espace prévu ci-dessous est une condition essentielle à la recevabilité de la soumission. À défaut de déposer l'attestation signée sur demande dans le délai de _________ jours civils, si elle n'a pas été déposée avec votre soumission, cette dernière sera jugée irrecevable.</p>
-<p>___________________<br/>
+<p>7. La signature de la présente déclaration et attestation dans l'espace prévu ci-dessous est une condition essentielle à la recevabilité de la soumission. À défaut de déposer l'attestation signée sur demande dans le délai de <span class="blankline" aria-label="Espace réservé vide"></span>  jours civils, si elle n'a pas été déposée avec votre soumission, cette dernière sera jugée irrecevable.</p>
+<p><span class="blankline" aria-label="Espace réservé vide"></span> <br/>
 					Signature<br/>
-					___________________<br/>
+					<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
 					Date</p>
 <hr/>
 <h5>K5014T (XX/XX/XX) Attestation de l'ACCMT - Non obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la clause</h5>
@@ -116,20 +116,20 @@
 <p>1. Cet achat est limité aux produits et aux services canadiens et (ou) coréens au sens défini dans la clause K5000D, Définitions de l'ACCMT.</p>
 <p>2. Les soumissions peuvent être acceptées en entier ou en partie.</p>
 <p>3. Le soumissionnaire déclare et atteste que les produits ou les services suivants qui sont offerts sont des produits ou des services canadiens et (ou) coréens, conformément aux définitions de la clause K5000D, Définitions de l'ACCMT, et il reconnaît que seuls ces produits ou ces services seront pris en considération.</p>
-<p>____________________<br/>
-					____________________<br/>
-					____________________<br/>
-					____________________<br/>
-					____________________<br/>
-					____________________<br/>
-					____________________</p>
+<p><span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+					<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+					<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+					<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+					<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+					<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+					<span class="blankline" aria-label="Espace réservé vide"></span> </p>
 <p>4. Le soumissionnaire reconnaît que le Ministre s'appuie sur la présente déclaration et attestation pour évaluer les soumissions et adjuger tout marché pouvant découler de la présente soumission. La présente déclaration et attestation relative au contenu canadien peut être vérifiée de la manière que le Ministre peut raisonnablement exiger.</p>
 <p>5. Si la vérification du Ministre révèle un manquement à l'engagement, le Ministre peut considérer que le soumissionnaire est en défaut pour tout marché découlant de la présente soumission.</p>
 <p>6. Si le soumissionnaire ne peut pas vérifier l'origine des produits ou des services offerts dans sa soumission, cette soumission sera jugée irrecevable.</p>
-<p>7. La signature de la présente déclaration et attestation dans l'espace prévu ci-dessous est une condition essentielle à la recevabilité de la soumission. À défaut de déposer l'attestation signée sur demande dans le délai de ______ jours civils, si elle n'a pas été déposée avec votre soumission, cette dernière sera jugée irrecevable.</p>
-<p>___________________<br/>
+<p>7. La signature de la présente déclaration et attestation dans l'espace prévu ci-dessous est une condition essentielle à la recevabilité de la soumission. À défaut de déposer l'attestation signée sur demande dans le délai de <span class="blankline" aria-label="Espace réservé vide"></span>  jours civils, si elle n'a pas été déposée avec votre soumission, cette dernière sera jugée irrecevable.</p>
+<p><span class="blankline" aria-label="Espace réservé vide"></span> <br/>
 					Signature<br/>
-					___________________<br/>
+					<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
 					Date</p>
 <hr/>
 <h5>Guide des approvisionnements</h5>

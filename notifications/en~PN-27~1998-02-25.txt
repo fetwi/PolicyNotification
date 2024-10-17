@@ -16,7 +16,7 @@
 <p>5. The Treasury Board of Canada Secretariat Contracting Policy Notice 1997-8 identifies Canada's contracting obligations under each land claims agreement. The chart, entitled Summary of Benefits from Treasury Board of Canada Secretariat Contracting Policy Notice 1997-8, attached at Annex A, was derived from this Notice. Using this chart, determine which provisions in the applicable land claims agreements apply. Ensure that only the relevant provisions are selected. For example, provisions related to silviculture would not apply to a procurement for food services.</p>
 <p>6. Insert the following information at the beginning of the text box in the NPP.</p>
 <ul>
-<li>"This procurement is set aside from _________ (insert as applicable the North American Free Trade Agreement, the World Trade Organization - Agreement on Government Procurement) pursuant to Treasury Board of Canada Secretariat Contracting Policy Notice 1997-8  of December 10, 1997."</li>
+<li>"This procurement is set aside from <span class="blankline" aria-label="Blank placeholder"></span>  (insert as applicable the North American Free Trade Agreement, the World Trade Organization - Agreement on Government Procurement) pursuant to Treasury Board of Canada Secretariat Contracting Policy Notice 1997-8  of December 10, 1997."</li>
 </ul>
 <p>7. Insert the following information at the end of the text box in the NPP.</p>
 <ul>
@@ -28,7 +28,7 @@
 </ul>
 <p>8. Insert the following information at the beginning of the bid solicitation.</p>
 <ul>
-<li>"This procurement is set aside from _________ (insert as applicable, the North American Free Trade Agreement, the World Trade Organization - Agreement on Government Procurement) pursuant to Treasury Board of Canada Secretariat Contracting Policy Notice 1997-8 of December 10, 1997."</li>
+<li>"This procurement is set aside from <span class="blankline" aria-label="Blank placeholder"></span>  (insert as applicable, the North American Free Trade Agreement, the World Trade Organization - Agreement on Government Procurement) pursuant to Treasury Board of Canada Secretariat Contracting Policy Notice 1997-8 of December 10, 1997."</li>
 </ul>
 <p>A copy of this clause is provided in Annex C. It will be incorporated into the SACC Manual.</p>
 <p>9. The following sentence and the text of the applicable provisions from the land claims agreements must be inserted at the end of the bid solicitation, but before any annexes or appendices.</p>
@@ -1347,15 +1347,15 @@
 <p><strong>Remarks:</strong></p>
 <p>Insert the following clause in full text at the beginning of the bid solicitation when the procurement is being set aside under the Land Claims Set-Aside Policy. Ensure that the applicable trade agreement(s) are identified in the clause.</p>
 <p><strong>Text:</strong></p>
-<p>This procurement is set aside from _________ (insert as applicable the North American Free Trade Agreement, the World Trade Organization - Agreement on Government Procurement) pursuant to Treasury Board of Canada Secretariat Contracting Policy Notice 1997-8 of December 10, 1997.</p>
+<p>This procurement is set aside from <span class="blankline" aria-label="Blank placeholder"></span>  (insert as applicable the North American Free Trade Agreement, the World Trade Organization - Agreement on Government Procurement) pursuant to Treasury Board of Canada Secretariat Contracting Policy Notice 1997-8 of December 10, 1997.</p>
 <hr/>
 <p><strong>W0001T (__/__/98) DELIVERY REQUIREMENTS OUTSIDE CLCSA</strong></p>
 <p><strong>Remarks:</strong></p>
 <p>This clause is to be used in solicitations involving final delivery to locations <strong>outside </strong>Comprehensive Land Claims Settlement Areas (CLCSA) when the original requirement has been divided to handle final delivery locations <strong>outside </strong>CLCSAs on one solicitation and final delivery locations <strong>inside </strong>CLCSAs on a different solicitation. Officers are to modify the clauses as required for either a standing offer or contract and to insert the solicitation number dealing with deliveries inside CLCSAs.</p>
 <p>The second paragraph of this clause is to cover the eventuality of there being no bids received as a result of the solicitation pertaining to delivery locations inside a CLCSA. The clause gives the Crown the capability to include final delivery locations inside CLCSAs in the proposed standing offer/contract with the successful bidder of the solicitation for delivery points outside CLCSAs.</p>
 <p><strong>Text:</strong></p>
-<p>Any resulting (Standing Offer(s) Contract(s)) shall be for delivery requirements to locations within Canada, except locations within Comprehensive Land Claims Settlement Areas. For delivery requirements to locations within Comprehensive Land Claims Settlement Areas, solicitation number ____ (insert applicable number) applies.</p>
-<p>In the event that there (is/are) no (Standing Offer(s)/Contract(s)) (issued/awarded) pursuant to solicitation number____ (insert applicable number), the Crown reserves the right to negotiate for deliveries within Comprehensive Land Claims Settlement Areas with suppliers who have been approved for (issuance/award) of a (Standing Offer/Contract) under this (Request for Standing Offer/Request for Proposal).</p>
+<p>Any resulting (Standing Offer(s) Contract(s)) shall be for delivery requirements to locations within Canada, except locations within Comprehensive Land Claims Settlement Areas. For delivery requirements to locations within Comprehensive Land Claims Settlement Areas, solicitation number <span class="blankline" aria-label="Blank placeholder"></span>  (insert applicable number) applies.</p>
+<p>In the event that there (is/are) no (Standing Offer(s)/Contract(s)) (issued/awarded) pursuant to solicitation number<span class="blankline" aria-label="Blank placeholder"></span>  (insert applicable number), the Crown reserves the right to negotiate for deliveries within Comprehensive Land Claims Settlement Areas with suppliers who have been approved for (issuance/award) of a (Standing Offer/Contract) under this (Request for Standing Offer/Request for Proposal).</p>
 <hr/>
 <p><strong>W0002D (__/__/98) DELIVERY REQUIREMENTS OUTSIDE CLCSA</strong></p>
 <p><strong>Remarks:</strong></p>

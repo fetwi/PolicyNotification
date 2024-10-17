@@ -345,7 +345,7 @@
 <p><strong>4.2 Clauses du Guide des CCUA</strong></p>
 <p>(Remarque à l'attention de l'autorité contractante : Consultez la section 12 des Instructions uniformisées – Biens ou services 2003, intitulée Communications en période de soumission.)</p>
 <p><strong>4.3 Renseignements – Demande de soumissions<br/>
-</strong>Toutes les demandes de renseignements relatives à la demande de soumissions doivent être présentées au moins _____ (xx) jours civils avant la date de clôture des soumissions. Pour ce qui est des demandes de renseignements reçues après cette date, il se peut qu'on ne puisse pas y répondre avant la date de clôture des soumissions.</p>
+</strong>Toutes les demandes de renseignements relatives à la demande de soumissions doivent être présentées au moins <span class="blankline" aria-label="Espace réservé vide"></span>  (xx) jours civils avant la date de clôture des soumissions. Pour ce qui est des demandes de renseignements reçues après cette date, il se peut qu'on ne puisse pas y répondre avant la date de clôture des soumissions.</p>
 <p><strong>4.4 CRITÈRES D'éVALUATION ET BASE DE SéLECTION</strong><br/>
 					(Reprendre les clauses du Guide des CCUA ou une autre clause approuvée, s'il y a lieu.)</p>
 <p><strong>4.4.X Critères d'évaluation</strong></p>
@@ -362,14 +362,14 @@
 <p><strong>4.4.X Exigences relatives à la sécurité<br/>
 </strong>(Remarque à l'intention de l'autorité contractante :Reproduire et remplir la clause ci-dessous si le soumissionnaire a jusqu'à l'adjudication du contrat pour obtenir les attestations de sécurité nécessaires. Voir le Guide des approvisionnements, article 6C.273)<br/>
 					Avant l'adjudication du contrat, les conditions suivantes doivent être respectées :<br/>
-					a) Le soumissionnaire doit détenir une _____________________ valable, délivrée par la Direction de la sécurité industrielle et internationale (DSICI) de Travaux publics et Services gouvernementaux Canada (TPSGC).<br/>
-					b) Les employés proposés par le soumissionnaire et qui doivent avoir accès à des renseignements ou à des biens ______________ ou à des établissements de travail dont l'accès est réglementé doivent tous être titulaires d'une cote de sécurité pour le personnel au niveau exigé de ____________, délivrée ou approuvée par la DSICI de TPSGC.</p>
+					a) Le soumissionnaire doit détenir une <span class="blankline" aria-label="Espace réservé vide"></span>  valable, délivrée par la Direction de la sécurité industrielle et internationale (DSICI) de Travaux publics et Services gouvernementaux Canada (TPSGC).<br/>
+					b) Les employés proposés par le soumissionnaire et qui doivent avoir accès à des renseignements ou à des biens <span class="blankline" aria-label="Espace réservé vide"></span>  ou à des établissements de travail dont l'accès est réglementé doivent tous être titulaires d'une cote de sécurité pour le personnel au niveau exigé de <span class="blankline" aria-label="Espace réservé vide"></span> , délivrée ou approuvée par la DSICI de TPSGC.</p>
 <p>Le Canada ne retardera pas l'attribution d'un contrat pour permettre aux soumissionnaires d'obtenir les cotes de sécurité désignées</p>
 <p>OU</p>
 <p>(Remarque à l'intention de l'autorité contractante :Reproduire et remplir la clause ci-dessous si le soumissionnaire doit détenir les cotes de sécurité nécessaires lorsque la soumission est déposée. Voir le Guide des approvisionnements, article 6C.273)<br/>
 					Lorsque la soumission est déposée, les conditions suivantes doivent être respectées :<br/>
-					a) Le soumissionnaire doit détenir une _____________________ valable, délivrée par la Direction de la sécurité industrielle et internationale (DSICI) de Travaux publics et Services gouvernementaux Canada (TPSGC).<br/>
-					b) Les employés proposés par le soumissionnaire et qui doivent avoir accès à des renseignements ou à des biens ______________ ou à des établissements de travail dont l'accès est réglementé doivent tous être titulaires d'une cote de sécurité pour le personnel au niveau exigé de ____________, délivrée ou approuvée par la DSICI de TPSGC.</p>
+					a) Le soumissionnaire doit détenir une <span class="blankline" aria-label="Espace réservé vide"></span>  valable, délivrée par la Direction de la sécurité industrielle et internationale (DSICI) de Travaux publics et Services gouvernementaux Canada (TPSGC).<br/>
+					b) Les employés proposés par le soumissionnaire et qui doivent avoir accès à des renseignements ou à des biens <span class="blankline" aria-label="Espace réservé vide"></span>  ou à des établissements de travail dont l'accès est réglementé doivent tous être titulaires d'une cote de sécurité pour le personnel au niveau exigé de <span class="blankline" aria-label="Espace réservé vide"></span> , délivrée ou approuvée par la DSICI de TPSGC.</p>
 <h5>5. LOIS APPLICABLES</h5>
 <p>Le contrat doit être interprété et régi selon les lois en vigueur dans (<em>l'autorité contractante doit indiquer la province ou le territoire</em>), et les relations entre les parties seront déterminées par ces lois.</p>
 <p>À sa discrétion, le soumissionnaire peut utiliser les lois applicables d'une province ou d'un territoire canadien de son choix, sans que la validité de sa soumission ne soit mise en question, en supprimant le nom de la province ou le territoire canadien précisé et en insérant le nom de la province ou le territoire canadien de son choix. Si aucun changement n'est indiqué, cela signifie que le soumissionnaire accepte les lois applicables indiquées.</p>
@@ -638,7 +638,7 @@
 					Les Instructions uniformisées – Biens ou services 2003 (2005-06-10) font partie de la présente demande de soumissions.</p>
 <p>(Remarque à l'intention de l'autorité contractante: Il faut apporter la modification suivante aux Instructions uniformisées – Biens ou services 2003 dans la demande de soumissions lorsque les soumissions doivent rester valides pendant plus de 60jours. L'autorité contractante indiquera le nombre de jours pendant lesquels la soumission doit rester valide.)</p>
 <p>Instructions uniformisées – Biens ou services 2003, la section 03 (4) est modifié comme suit : Supprimer : soixante (60) jours<br/>
-					Remplacer par : ____ (xx) jours</p>
+					Remplacer par : <span class="blankline" aria-label="Espace réservé vide"></span>  (xx) jours</p>
 <p>(Remarque à l'intention de l'autorité contractante: Il faut intégrer par renvoi les instructions particulières qui ne font pas partie des instructions uniformisées, s'il y a lieu.)</p>
 <p><em>1.2 Clauses du Guide des CCUA</em><br/>
 					(Remarque à l'intention de l'autorité contractante: Il faut reproduire ci-après les instructions et les exigences particulières pour la présentation des soumissions qui ne font pas déjà partie des instructions uniformisées. Consultez les sections 03 à 08 des Instructions uniformisées – Biens ou services 2003.)</p>
@@ -650,7 +650,7 @@
 <p><em>2.1 Clauses du Guide des CCUA</em><br/>
 					(Remarque à l'intention de l'autorité contractante : Consultez la section 11, Communications en période de soumission, des Instructions uniformisées – Biens ou services 2003.)</p>
 <h5>3. COMMUNICATIONS – EN PÉRIODE D'INVITATION</h5>
-<p>Toutes les demandes de renseignements relatives à la demande de soumissions doivent être présentées au moins _____ (xx) jours civils avant la date de clôture des soumissions. Pour ce qui est des demandes de renseignements reçues après cette date, il se peut qu'on ne puisse pas y répondre avant la date de clôture des soumissions.</p>
+<p>Toutes les demandes de renseignements relatives à la demande de soumissions doivent être présentées au moins <span class="blankline" aria-label="Espace réservé vide"></span>  (xx) jours civils avant la date de clôture des soumissions. Pour ce qui est des demandes de renseignements reçues après cette date, il se peut qu'on ne puisse pas y répondre avant la date de clôture des soumissions.</p>
 <h5>4. LOIS APPLICABLES</h5>
 <p>Tout contrat qui pourrait être attribué sera interprété et régi selon les lois en vigueur dans (<em>l'autorité contractante doit indiquer la province ou le territoire</em>), et les relations entre les parties seront déterminées par ces lois.</p>
 <p>À sa discrétion, le soumissionnaire peut utiliser les lois applicables d'une province ou d'un territoire canadien de son choix, sans que la validité de sa soumission ne soit mise en question, en supprimant le nom de la province ou le territoire canadien précisé et en insérant le nom de la province ou le territoire canadien de son choix. Si aucun changement n'est indiqué, cela signifie que le soumissionnaire accepte les lois applicables indiquées.</p>
@@ -739,7 +739,7 @@
 <p><em>4.2 Clauses du Guide des CCUA<br/>
 </em>(Remarque à l'intention de l'autorité contractante: s'il y a lieu, reprendre la clause suivante et remplir les zones libres.)</p>
 <p><em>4.3 Option de prolongation du contrat<br/>
-</em>L'entrepreneur accorde au Canada une option irrévocable lui permettant de prolonger la durée du contrat d'une durée d'au plus _____ période(s) supplémentaire(s) de _____ année(s) chacune, selon les mêmes modalités et conditions. Le Canada pourra se prévaloir de cette option n'importe quand, en adressant à l'entrepreneur un avis écrit au moins _____ jours civils avant la date d'expiration du contrat ou de sa prolongation.</p>
+</em>L'entrepreneur accorde au Canada une option irrévocable lui permettant de prolonger la durée du contrat d'une durée d'au plus <span class="blankline" aria-label="Espace réservé vide"></span>  période(s) supplémentaire(s) de <span class="blankline" aria-label="Espace réservé vide"></span>  année(s) chacune, selon les mêmes modalités et conditions. Le Canada pourra se prévaloir de cette option n'importe quand, en adressant à l'entrepreneur un avis écrit au moins <span class="blankline" aria-label="Espace réservé vide"></span>  jours civils avant la date d'expiration du contrat ou de sa prolongation.</p>
 <p>Il est entendu avec l'entrepreneur que pendant la durée prolongée du contrat, les prix et les tarifs seront conformes aux dispositions du contrat.</p>
 <p>Cette option, qui ne pourra être exercée que par l'autorité contractante, sera confirmée, pour des raisons administratives seulement, par une modification au contrat établie et en bonne et due forme.</p>
 <h5>5. RESPONSABLES</h5>
@@ -820,13 +820,13 @@
 <h5>PARTIE 4. EXIGENCES RELATIVES À LA SÉCURITÉ</h5>
 <p>(Remarque à l'intention de l'autorité contractante : Reproduire et remplir la clause ci-dessous si le soumissionnaire a jusqu'à l'adjudication du contrat pour obtenir les attestations de sécurité nécessaires. Voir le Guide des approvisionnements, article 6C.273)</p>
 <p>Avant l'adjudication du contrat, les conditions suivantes doivent être respectées :</p>
-<p>a) le soumissionnaire doit détenir une _____________________ valable, délivrée par la Direction de la sécurité industrielle et internationale (DSICI) de Travaux publics et Services gouvernementaux Canada (TPSGC);</p>
-<p>b) les employés proposés par le soumissionnaire et qui doivent avoir accès à des renseignements ou à des biens ______________ ou à des établissements de travail dont l'accès est réglementé doivent tous être titulaires d'une cote de sécurité pour le personnel au niveau exigé de ____________, délivrée ou approuvée par la DSICI de TPSGC.</p>
+<p>a) le soumissionnaire doit détenir une <span class="blankline" aria-label="Espace réservé vide"></span>  valable, délivrée par la Direction de la sécurité industrielle et internationale (DSICI) de Travaux publics et Services gouvernementaux Canada (TPSGC);</p>
+<p>b) les employés proposés par le soumissionnaire et qui doivent avoir accès à des renseignements ou à des biens <span class="blankline" aria-label="Espace réservé vide"></span>  ou à des établissements de travail dont l'accès est réglementé doivent tous être titulaires d'une cote de sécurité pour le personnel au niveau exigé de <span class="blankline" aria-label="Espace réservé vide"></span> , délivrée ou approuvée par la DSICI de TPSGC.</p>
 <p>Le Canada ne retardera pas l'attribution d'un contrat pour permettre aux soumissionnaires d'obtenir les cotes de sécurité désignées.</p>
 <p>(Remarque à l'intention de l'autorité contractante : Reproduire et remplir la clause ci-dessous si le soumissionnaire doit détenir les cotes de sécurité nécessaires lorsque la soumission est déposée. Voir le Guide des approvisionnements, article 6C.273.)</p>
 <p>Lorsque la soumission est déposée, les conditions suivantes doivent être respectées :</p>
-<p>a) le soumissionnaire doit détenir une _____________________ valable, délivrée par la Direction de la sécurité industrielle et internationale (DSICI) de Travaux publics et Services gouvernementaux Canada (TPSGC);</p>
-<p>b) les employés proposés par le soumissionnaire et qui doivent avoir accès à des renseignements ou à des biens ______________ ou à des établissements de travail dont l'accès est réglementé doivent tous être titulaires d'une cote de sécurité pour le personnel au niveau exigé de ____________, délivrée ou approuvée par la DSICI de TPSGC.</p>
+<p>a) le soumissionnaire doit détenir une <span class="blankline" aria-label="Espace réservé vide"></span>  valable, délivrée par la Direction de la sécurité industrielle et internationale (DSICI) de Travaux publics et Services gouvernementaux Canada (TPSGC);</p>
+<p>b) les employés proposés par le soumissionnaire et qui doivent avoir accès à des renseignements ou à des biens <span class="blankline" aria-label="Espace réservé vide"></span>  ou à des établissements de travail dont l'accès est réglementé doivent tous être titulaires d'une cote de sécurité pour le personnel au niveau exigé de <span class="blankline" aria-label="Espace réservé vide"></span> , délivrée ou approuvée par la DSICI de TPSGC.</p>
 <hr/>
 <h4>ANNEXE X ATTESTATIONS PRÉALABLES À L'ATTRIBUTION DU CONTRAT</h4>
 <p>(Remarque à l'intention de l'autorité contractante : Utilisez l'annexe X ATTESTATIONS PRÉALABLES à L'ATTRIBUTION DU CONTRAT avec la clause contractuelle intitulée "Attestations préalables à l'attribution du contrat", à la section III. Attestations exigées.</p>
@@ -1103,12 +1103,12 @@
 <h4><a id="AP-71annc" name="annc"></a>Annexe C<br/>
 					Exemple de marché de FV faisant appel au modèle de marché de FV</h4>
 <p>(Remarque:Les clauses reproduites dans ce document n'ont pas été révisées.)<br/>
-					_______________________________________________<br/>
+					<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
 					Sollicitation No. - No. De sollicitation Buyer ID - is. De l'acheteur<br/>
 					W8485-xxxxxxxx XXXXX<br/>
 					Client Ref. No. File No.- N° du dossier<br/>
 					W8485-XXXXXXX XXXXXW8485-XXXXXXXX<br/>
-					_______________________________________________</p>
+					<span class="blankline" aria-label="Espace réservé vide"></span> </p>
 <h4>PARTIE 1 - RENSEIGNEMENTS ET INSTRUCTIONS</h4>
 <h5>1. EXIGENCES EN MATIÈRE DE SÉCURITÉ</h5>
 <p>Ce marché ne comporte aucune exigence relative à la sécurité.</p>
@@ -1123,12 +1123,12 @@
 <p><em>3.1 Instructions uniformisées</em><br/>
 					Les Instructions uniformisées - Biens ou services 2003 (2005-06-10) font partie de cette demande de soumissions.</p>
 <h5>4. PRÉSENTATION DES SOUMISSIONS</h5>
-<p><em>4.1 Les soumissions doivent être présentées à l'autorité contractante dont le nom est indiqué dans la demande de soumissions ainsi qu'à la clause 5 de la partie 2, Clauses du contrat, avant __________.</em></p>
+<p><em>4.1 Les soumissions doivent être présentées à l'autorité contractante dont le nom est indiqué dans la demande de soumissions ainsi qu'à la clause 5 de la partie 2, Clauses du contrat, avant <span class="blankline" aria-label="Espace réservé vide"></span> .</em></p>
 <p><em>4.2 Clauses du guide des CCUA</em><br/>
 					A0020T(30/05/03) Soumissionnaire - Détail de ses capacités<br/>
 					B4024T (2000/01/12) Certifications des fournitures</p>
 <p><em>4.3 Renseignements – Demande de soumissions</em><br/>
-					Toutes les demandes de renseignements relatives à la demande de soumissions doivent être présentées au moins _____ (xx) jours civils avant la date de clôture des soumissions. Pour ce qui est des demandes de renseignements reçues après cette date, il se peut qu'on ne puisse pas y répondre avant la date de clôture des soumissions.</p>
+					Toutes les demandes de renseignements relatives à la demande de soumissions doivent être présentées au moins <span class="blankline" aria-label="Espace réservé vide"></span>  (xx) jours civils avant la date de clôture des soumissions. Pour ce qui est des demandes de renseignements reçues après cette date, il se peut qu'on ne puisse pas y répondre avant la date de clôture des soumissions.</p>
 <p><em>4.4 Critères d'évaluation et Base de Sélection</em></p>
 <p><em>4.4. 1 Évaluation financière</em><br/>
 					Le soumissionnaire doit proposer un prix global ferme tout compris pour les travaux.</p>
@@ -1136,7 +1136,7 @@
 <p><em>4.4.2 Base de sélection</em><br/>
 					La soumission avec le plus bas prix global ferme tout compris sera retenu pour fins d'adjudication du contrat.</p>
 <p><em>4.5 Date de livraison</em><br/>
-					Bien que la livraison soit demandée pour le _____________, la meilleure date proposée pour la livraison est le ________________.</p>
+					Bien que la livraison soit demandée pour le <span class="blankline" aria-label="Espace réservé vide"></span> , la meilleure date proposée pour la livraison est le <span class="blankline" aria-label="Espace réservé vide"></span> .</p>
 <p><em>4.6 Pièces d'aviation - conditions et attestations des biens finaux à livrer</em><br/>
 					(XBD25TB, 26/02/04)</p>
 <p><em>4.7 Exigences relatives à la certification de la navigabilité</em><br/>
@@ -1174,7 +1174,7 @@
 					A9006D (21/06/99) Contrat de défense</p>
 <h5>4. DURÉE DU CONTRAT</h5>
 <p><em>4.1 Livraison</em></p>
-<p>La date de livraison est le ______.</p>
+<p>La date de livraison est le <span class="blankline" aria-label="Espace réservé vide"></span> .</p>
 <p><em>4.2 Clauses du Guide des CCUA</em><br/>
 					C2801C (2004-12-10) Cote de priorité - entrepreneur canadien</p>
 <p><em>4.3 Livraison accélérée</em><br/>
@@ -1192,7 +1192,7 @@
 							Édifice Mgén George R. Pearkes<br/>
 							101, promenade Colonel By<br/>
 							Ottawa (Ontario) K1A OK2<br/>
-							À l'attention de : _____</p>
+							À l'attention de : <span class="blankline" aria-label="Espace réservé vide"></span> </p>
 </li>
 <li>exemplaire 6 : au représentant de l'assurance de la qualité;</li>
 <li>exemplaire 7 : à l'entrepreneur;</li>
@@ -1208,12 +1208,12 @@
 <h5>5. RESPONSABLES </h5>
 <p><em>5.1 Autorité contractante</em><br/>
 					L'autorité contractante dont le nom est indiqué ci-après est responsable de la gestion du contrat et tous les changements au contrat doivent être autorisés, par écrit, par l'autorité contractante.</p>
-<p>___________________<br/>
+<p><span class="blankline" aria-label="Espace réservé vide"></span> <br/>
 					Travaux publics et Services gouvernementaux Canada<br/>
 					Direction générale des approvisionnements<br/>
-					Direction ___________ <br/>
-					Téléphone : _________ Télécopieur : _________<br/>
-					Courriel :____________</p>
+					Direction <span class="blankline" aria-label="Espace réservé vide"></span>  <br/>
+					Téléphone : <span class="blankline" aria-label="Espace réservé vide"></span>  Télécopieur : <span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+					Courriel :<span class="blankline" aria-label="Espace réservé vide"></span> </p>
 <p><em>5.2 Responsables de l'entrepreneur</em><br/>
 					Nom et numéro de téléphone des responsables à contacter pour :<br/>
 					les renseignements généraux :<br/>
@@ -1242,17 +1242,17 @@
 <li>l'original et un exemplaire au consignataire</li>
 <li>un (1) exemplaire à :<br/>
 								Ministère des Travaux publics et des Services gouvernementaux<br/>
-								____________________<br/>
-								____________________<br/>
-								____________________<br/>
-								____________________<br/>
-								À l'attention de : _____________________</li>
+								<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+								<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+								<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+								<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+								À l'attention de : <span class="blankline" aria-label="Espace réservé vide"></span> </li>
 <li>un (1) exemplaire à :<br/>
 								Quartier général de la Défense nationale<br/>
-								___________________________<br/>
-								___________________________<br/>
-								___________________________<br/>
-								À l'attention de : ___________________________</li>
+								<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+								<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+								<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+								À l'attention de : <span class="blankline" aria-label="Espace réservé vide"></span> </li>
 </ol>
 </li>
 <li>Le Canada ne paiera les factures que si elles sont satisfaisantes et justifiées en bonne et due forme par les documents d'autorisation précisés et tous les autres documents exigés dans le contrat.</li>
