@@ -1,5 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
-<div>
+<div class="pn-content">
 <h2 class="pn-content-title">Content of PN-43U</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This update replaces the original Policy Notification 43 of August 17, 1999. It contains: background; approach; implementation; a definition of coverage; delegated contracting authorities; and, a statement of client responsibilities.</p>

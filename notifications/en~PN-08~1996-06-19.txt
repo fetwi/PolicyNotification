@@ -1,5 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
-<div>
+<div class="pn-content">
 <h2 class="pn-content-title">Content of PN-08</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>1. A new section, 13.1 of the Act, applies to employers who, on or after October 31, 1995, begin to provide building services (in the province of Ontario) such as cleaning, catering or security at the premises, replacing another employer who was providing those services.</p>

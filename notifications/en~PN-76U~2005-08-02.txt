@@ -1,5 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
-<div>
+<div class="pn-content">
 <h2 class="pn-content-title">Content of PN-76U</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Effective immediately, contracting officers may use clauses M0000T and M0000C bearing the date "2005-06-10", in conjunction with a new clause M0100D, provided at Annex A.    Contracting officers must use the new clause M0100D in their standing offer documents, in conjunction with either M0000T or M0000C as appropriate, in order to incorporate 9403-6, Standard Instructions and Conditions - Standing Offers, by reference.  The clauses must appear in full text within procurement documents.</p>

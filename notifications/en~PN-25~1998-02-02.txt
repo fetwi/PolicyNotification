@@ -1,5 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
-<div>
+<div class="pn-content">
 <h2 class="pn-content-title">Content of PN-25</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>1. Effective immediately, the Supply Manual (procedures 7.304 and 7.305) and Standard Acquisition Clauses and Conditions Manual (DSS-MAS 9403) have been updated to provide clearer instructions to bidders emphasising that it is the bidder's responsibility for correct delivery of its bid to the specified Bid Receiving area. All risks and consequences of incorrect delivery of bids are the responsibility of the bidder.</p>

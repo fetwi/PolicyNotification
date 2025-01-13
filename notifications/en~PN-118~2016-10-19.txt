@@ -1,5 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
-<div>
+<div class="pn-content">
 <h2 class="pn-content-title">Content of PN-118</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The <a href="http://www.gcpedia.gc.ca/wiki/Defence_Procurement_-_Sustainment_Initiative" rel="external">Defence Procurement - Sustainment Initiative</a><span> (accessible only on the Government of Canada network)</span> (SI) is a collaborative undertaking aimed at procuring tailored in-service support solutions for existing and new military equipment. Effective June 8, 2016, every new and existing military maintenance and repair procurement valued at $20 million* or more will follow a coherent and standardized interdepartmental approach guided by the four principles of sustainment: performance, value for money, flexibility and economic benefits. These principles will inform decision making by the applicable Defence Procurement Strategy (DPS) governance committee.</p>

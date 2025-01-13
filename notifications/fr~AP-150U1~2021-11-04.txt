@@ -1,5 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
-<div>
+<div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-150U1</h2>
 <p>Veuillez noter que cet AP a été archivé le 13 décembre 2024. Toutes ses informations consolidées sont maintenant disponibles dans <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-2-annexes#_2-8">l'Annexe 2.8</a> du Guide des approvisionnements.</p>

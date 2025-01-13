@@ -1,5 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
-<div>
+<div class="pn-content">
 <h2 class="pn-content-title">Content of PN-14R2</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>On December 30, 1996, the policy notification for the Shipbuilding, Repair, Refit and Modernization policy was distributed. This notification included the introduction of clause A0240T.</p>

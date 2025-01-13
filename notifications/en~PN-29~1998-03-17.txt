@@ -1,5 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
-<div>
+<div class="pn-content">
 <h2 class="pn-content-title">Content of PN-29</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>At its meeting of December 11, 1997, the Treasury Board (TB) approved authority for the Occupational and Environmental Health Services (OEHS) Program Special Operating Agency to submit bids for the supply of services requested by other federal departments and agencies (TB minute 825830).</p>

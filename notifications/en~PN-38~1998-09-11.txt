@@ -1,5 +1,5 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
-<div>
+<div class="pn-content">
 <h2 class="pn-content-title">Content of PN-38</h2>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The Canadian International Trade Tribunal (CITT) has issued its determination concerning Public Works and Government Services Canada's (PWGSC) use of the national security exception to exclude a procurement for the Department of Foreign Affairs and International Trade from the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, NAFTA and the AIT. The Tribunal concurred with PWGSC's position that it did not have jurisdiction to accept the complaint.</p>
