@@ -143,9 +143,9 @@
 <p>Use the following clause in contracts, standing offers and call-ups when Canada will be responsible for all delivery charges, administration, costs and risk of transport and customs clearance and customs duties (if applicable).</p>
 <p>In the first blank <em>in 1.</em>, specify the <em>type of procurement</em> document (i.e. contract, standing offer or call-up); in the second blank in <em>1.(a) and within the brackets in 1.(b)</em>, enter the <em>location of the Contractor's plant</em>.</p>
 <h4>Text:</h4>
-<p>1. Shipment shall be consigned to the destination specified in <span class="blankline" aria-label="Blank placeholder"></span>  and delivered</p>
+<p>1. Shipment shall be consigned to the destination specified in <span aria-label="Blank placeholder" class="blankline"></span>  and delivered</p>
 <ul class="noBullet">
-<li>(a) Free on Board (Origin) common carrier <span class="blankline" aria-label="Blank placeholder"></span>  for shipments from the United States government, or</li>
+<li>(a) Free on Board (Origin) common carrier <span aria-label="Blank placeholder" class="blankline"></span>  for shipments from the United States government, or</li>
 <li>(b) FCA Free Carrier (. named place, e.g. Contractor's Facility) Incoterms 2000 for shipments from a commercial supplier.</li>
 </ul>
 <p>2. Canada will be responsible for all delivery charges, administration, costs and risk of transport and customs clearance and customs duties (if applicable).</p>
@@ -156,9 +156,9 @@
 <p>Use the following clause in contracts, standing offers and call-ups when the Contractor is responsible for all delivery charges, administration, costs and risks of transport and customs clearance, including the payment of customs duties and taxes.</p>
 <p>In the first blank in <em>1.</em>, specify the <em>type of procurement</em> document (i.e. contract, standing offer or call-up); in the second blank in <em>1.(a) and within the brackets in 1.(b)</em>, enter <em>the named place of destination</em>.</p>
 <h4>Text:</h4>
-<p>1. Shipment shall be consigned to the destination specified in <span class="blankline" aria-label="Blank placeholder"></span>  and delivered: </p>
+<p>1. Shipment shall be consigned to the destination specified in <span aria-label="Blank placeholder" class="blankline"></span>  and delivered: </p>
 <ul class="noBullet">
-<li>(a) Free on Board (Destination) common carrier <span class="blankline" aria-label="Blank placeholder"></span>  for shipments from the United States government, or</li>
+<li>(a) Free on Board (Destination) common carrier <span aria-label="Blank placeholder" class="blankline"></span>  for shipments from the United States government, or</li>
 <li>(b) DDP Delivered Duty Paid (... named place of destination) Incoterms 2000 for shipments from a commercial supplier.</li>
 </ul>
 <p>2. The Contractor will be responsible for all delivery charges, administration, costs and risk of transport and customs clearance, including the payment of customs duties and taxes.</p>
@@ -203,17 +203,17 @@
 <li>(a) The original and one copy to - Consignee</li>
 <li>(b) One (1) copy to:</li>
 <li>Department of Public Works and Government Services <br/>
-						(Division) <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-						(Address) <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-						(City/Prov.) <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-						(Postal/Code) <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-						Attention: <span class="blankline" aria-label="Blank placeholder"></span> </li>
+						(Division) <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+						(Address) <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+						(City/Prov.) <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+						(Postal/Code) <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+						Attention: <span aria-label="Blank placeholder" class="blankline"></span> </li>
 <li>(c) One (1) copy to:</li>
 <li>National Defence Headquarters<br/>
 						MGen George R. Pearkes Building<br/>
 						101 Colonel By Drive<br/>
 						Ottawa, ON K1A 0K2<br/>
-						Attention: <span class="blankline" aria-label="Blank placeholder"></span> </li>
+						Attention: <span aria-label="Blank placeholder" class="blankline"></span> </li>
 </ul>
 <p>2. Canada will only make payment upon receipt of a satisfactory invoice duly supported by specified release documents and any other documents called for under the Contract.</p>
 <p><em>3. The Contractor shall not submit an invoice prior to either:</em></p>
@@ -226,13 +226,13 @@
 <p>Remarks: <strong>This clause is to appear in full text in procurement documents</strong>.<br/>
 					Use the following clause in bid solicitations, for aircraft and/or airborne aircraft equipment, when they are issued on a basis other than FCA Free Carrier (.named place) Incoterms 2000. <em>(Clause D4001C may apply.)</em></p>
 <h4>Text:</h4>
-<p>Items <span class="blankline" aria-label="Blank placeholder"></span> , as stated by the Department of National Defence, are for use in aircraft and/or airborne aircraft equipment; therefore, the prices quoted do not include customs duty.</p>
+<p>Items <span aria-label="Blank placeholder" class="blankline"></span> , as stated by the Department of National Defence, are for use in aircraft and/or airborne aircraft equipment; therefore, the prices quoted do not include customs duty.</p>
 <hr/>
 <h4>C2600C (xx/xx/xx) Customs Duty - Aircraft</h4>
 <p>Remarks: <strong>This clause is to appear in full text in procurement documents</strong>.<br/>
 					Use the following clause in competitive contracts, for aircraft and/or airborne aircraft equipment, when they are issued on a basis other than FCA Free Carrier (. named place) Incoterms 2000. <em>(Clause D4001C may apply.)</em></p>
 <h4>Text:</h4>
-<p>Items <span class="blankline" aria-label="Blank placeholder"></span> , as stated by the Department of National Defence, are for use in aircraft and/or airborne aircraft equipment. Canadian customs duty for these items is not included in the Contract Price. If chargeable, customs duty is extra and will be paid by the Contractor who will be reimbursed the amount of duty paid plus sales tax paid on importation, upon submission of an invoice supported by customs documents.</p>
+<p>Items <span aria-label="Blank placeholder" class="blankline"></span> , as stated by the Department of National Defence, are for use in aircraft and/or airborne aircraft equipment. Canadian customs duty for these items is not included in the Contract Price. If chargeable, customs duty is extra and will be paid by the Contractor who will be reimbursed the amount of duty paid plus sales tax paid on importation, upon submission of an invoice supported by customs documents.</p>
 <hr/>
 <h4>C2608D (xx/xx/xx) Canadian Customs Documentation</h4>
 <p>Remarks: Use the following clause in <em>bid solicitations and contracts</em> when the Department of National Defence is to be the importer. <em>(Clause D0035D or D0038D may apply.)</em></p>
@@ -284,7 +284,7 @@
 					Do not use this clause for Department of National Defence FCA Free Carrier (...named place) Incoterms 2000 requirements.</p>
 <p>Use the following clause if clause C5200T was used and where shipping instructions obtained from the Traffic Management Directorate were different from what the Contractor proposed and inserted as a fill-in. <em>(Clause D4000C or D4001C may apply.)</em></p>
 <h4>Text:</h4>
-<p>Goods shall be shipped prepaid via <span class="blankline" aria-label="Blank placeholder"></span> , including all delivery charges to <span class="blankline" aria-label="Blank placeholder"></span> . Prepaid transportation charges shall be shown as a separate item on the invoice, supported by a certified copy of the prepaid transportation bill.</p>
+<p>Goods shall be shipped prepaid via <span aria-label="Blank placeholder" class="blankline"></span> , including all delivery charges to <span aria-label="Blank placeholder" class="blankline"></span> . Prepaid transportation charges shall be shown as a separate item on the invoice, supported by a certified copy of the prepaid transportation bill.</p>
 <hr/>
 <h4>C5201C (xx/xx/xx) Transportation Charges - Prepaid</h4>
 <p>Remarks: Do not use this clause for Department of National Defence FCA Free Carrier (... named place) Incoterms 2000 requirements.</p>

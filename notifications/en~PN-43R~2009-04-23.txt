@@ -67,7 +67,7 @@
 <h5>1.0	Identification of Parties</h5>
 <p>The "Client Department name" (referred to as "Client") and Real Property Contracting, Public Works and Government Services Canada (referred to as "PWGSC").</p>
 <h5>2.0	Purpose</h5>
-<p>The purpose of the Memorandum of Understanding (MOU) is to formalize the contracting services to be provided to the Client by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> for the work identified in the attached PWGSC-TPSGC 9200 Requisition No. <span class="blankline" aria-label="Blank placeholder"></span> , as well as to have the Client provide a technical certification and identification of the Technical Authority. </p>
+<p>The purpose of the Memorandum of Understanding (MOU) is to formalize the contracting services to be provided to the Client by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> for the work identified in the attached PWGSC-TPSGC 9200 Requisition No. <span aria-label="Blank placeholder" class="blankline"></span> , as well as to have the Client provide a technical certification and identification of the Technical Authority. </p>
 <h5>3.0	Responsibilities</h5>
 <p>The client has overall responsibility for the completion of the work and the costs incurred.  <abbr title="Public Works and Government Services Canada">PWGSC</abbr> operates in support of the Client by performing certain contracting functions.  The specific responsibilities of the Client and <abbr title="Public Works and Government Services Canada">PWGSC</abbr> are set forth in the document entitled <em>Real Property Contracting with Public Works and Government Services Canada</em>. </p>
 <h5>4.0	Expenditures</h5>
@@ -78,20 +78,20 @@
 <p>I, as the Director with overall responsibility for the project identified, hereby certify that the person named below is fully qualified as to education and experience and has the necessary authority to carry out the responsibilities as the Technical Authority ("Departmental Representative") as set forth in the document entitled <em>Real Property Contracting with Public Works and Government Services Canada</em>.</p>
 <h5>Responsibilities</h5>
 <p>I further agree that the Technical Authority will be responsible for the work and more particularly for those items identified in the document <em>Real Property Contracting with Public Works and Government Services Canada</em>.  It is agreed that PWGSC's contracting practices, procedures and terms and conditions will be strictly adhered to on this project.</p>
-<p>Mr./Mrs./Ms <span class="blankline" aria-label="Blank placeholder"></span>  is hereby designated as the Technical Authority ("Departmental Representative") for the purposes of the work/services and may be reached at <span class="blankline" aria-label="Blank placeholder"></span> -<span class="blankline" aria-label="Blank placeholder"></span> -<span class="blankline" aria-label="Blank placeholder"></span> .</p>
+<p>Mr./Mrs./Ms <span aria-label="Blank placeholder" class="blankline"></span>  is hereby designated as the Technical Authority ("Departmental Representative") for the purposes of the work/services and may be reached at <span aria-label="Blank placeholder" class="blankline"></span> -<span aria-label="Blank placeholder" class="blankline"></span> -<span aria-label="Blank placeholder" class="blankline"></span> .</p>
 <h5>7.0	Signatures</h5>
 <h6>For the Client:</h6>
 <p>The undersigned is the representative of this MOU, and understands, and acknowledges,  and agrees to the Client's responsibilities specified herein.</p>
-<p>Name: <span class="blankline" aria-label="Blank placeholder"></span> </p>
-<p>Title: <span class="blankline" aria-label="Blank placeholder"></span> </p>
-<p>Signature: <span class="blankline" aria-label="Blank placeholder"></span> </p>
-<p>Date: <span class="blankline" aria-label="Blank placeholder"></span> </p>
+<p>Name: <span aria-label="Blank placeholder" class="blankline"></span> </p>
+<p>Title: <span aria-label="Blank placeholder" class="blankline"></span> </p>
+<p>Signature: <span aria-label="Blank placeholder" class="blankline"></span> </p>
+<p>Date: <span aria-label="Blank placeholder" class="blankline"></span> </p>
 <h6>For PWGSC:</h6>
 <p>The undersigned is the representative of this MOU, and acknowledges and agrees to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> responsibilities specified herein.</p>
-<p>Name: <span class="blankline" aria-label="Blank placeholder"></span> </p>
-<p>Title: <span class="blankline" aria-label="Blank placeholder"></span> </p>
-<p>Signature: <span class="blankline" aria-label="Blank placeholder"></span> </p>
-<p>Date: <span class="blankline" aria-label="Blank placeholder"></span> </p>
+<p>Name: <span aria-label="Blank placeholder" class="blankline"></span> </p>
+<p>Title: <span aria-label="Blank placeholder" class="blankline"></span> </p>
+<p>Signature: <span aria-label="Blank placeholder" class="blankline"></span> </p>
+<p>Date: <span aria-label="Blank placeholder" class="blankline"></span> </p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
 </div>

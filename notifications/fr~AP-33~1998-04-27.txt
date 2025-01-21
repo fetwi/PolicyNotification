@@ -2,13 +2,12 @@
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-33</h2>
-
 <div class="critical">
 <h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
-<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
 <!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 27 avril 1998</h3>
 <p>1. Les modifications au <em>Tarif des douanes</em> simplifié et les modifications connexes à la <em>Loi sur les douanes</em> sont entrées en vigueur le 1<sup>er</sup> janvier 1998.</p>
@@ -25,15 +24,15 @@
 <h4>CHANGEMENTS AU GUIDE DES APPROVISIONNEMENTS</h4>
 <p>6.412<strong> (15/06/98)</strong> Lorsque la personne morale responsable de l'importation n'est pas le ministère de la Défense nationale (MDN), une copie de l'attestation suivante doit être jointe au marché.</p>
 <p><strong>CERTIFICAT D'APPROVISIONNEMENT DE DÉFENSE</strong></p>
-<p>Je certifie que les articles achetés en vertu du marché ou des marchés dont le ou les numéros suivent : <span class="blankline" aria-label="Espace réservé vide"></span>  sont des « approvisionnements de défense » conformément à la définition de la « <em>Loi sur la production de défense </em>» et au numéro tarifaire 9982.00.00 des annexes du <em>Tarif des douanes</em>.</p>
+<p>Je certifie que les articles achetés en vertu du marché ou des marchés dont le ou les numéros suivent : <span aria-label="Espace réservé vide" class="blankline"></span>  sont des « approvisionnements de défense » conformément à la définition de la « <em>Loi sur la production de défense </em>» et au numéro tarifaire 9982.00.00 des annexes du <em>Tarif des douanes</em>.</p>
 <p>Approuvé par l'agent autorisé :</p>
-<p><span class="blankline" aria-label="Espace réservé vide"></span> </p>
+<p><span aria-label="Espace réservé vide" class="blankline"></span> </p>
 <p>Signature</p>
-<p><span class="blankline" aria-label="Espace réservé vide"></span> </p>
+<p><span aria-label="Espace réservé vide" class="blankline"></span> </p>
 <p>Date</p>
-<p><span class="blankline" aria-label="Espace réservé vide"></span> </p>
+<p><span aria-label="Espace réservé vide" class="blankline"></span> </p>
 <p>Titre</p>
-<p><span class="blankline" aria-label="Espace réservé vide"></span> </p>
+<p><span aria-label="Espace réservé vide" class="blankline"></span> </p>
 <p>Secteur/région</p>
 <p>La seule preuve que pourra présenter l'entrepreneur à Revenu Canada pour attester que le produit importé est un approvisionnement de défense est une copie de l'attestation.</p>
 <h3>Annexe B</h3>

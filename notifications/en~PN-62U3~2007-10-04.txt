@@ -39,7 +39,7 @@
 <p>Clauses C2608C and C2610D may apply. </p>
 <h5>Text</h5>
 <ol>
-<li>Delivery will be FCA Free Carrier at<span class="blankline" aria-label="Blank placeholder"></span>  (<strong><em>Insert the<br/>
+<li>Delivery will be FCA Free Carrier at<span aria-label="Blank placeholder" class="blankline"></span>  (<strong><em>Insert the<br/>
 						named place, e.g. Contractor's facility</em></strong>) Incoterms<br/>
 						2000. The Contractor must load the goods onto the carrier designated<br/>
 						by the Department of National Defence (DND). Onward shipment from the<br/>

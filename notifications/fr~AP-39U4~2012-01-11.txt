@@ -250,7 +250,7 @@
 <li value="6">
 <span class="description"><em>Inscrire, s'il y a lieu, un énoncé concernant l'applicabilité de l'achat à l'une ou à plusieurs des ententes sur les revendications territoriales globales.</em></span>
 <br/>6. Entente(s) sur les revendications territoriales globales
-		<br/>Cet achat est assujetti à  <var title="blank"><span class="blankline" aria-label="Espace réservé vide"></span> </var> <em>(insérer l'entente sur les revendications territoriales globales applicable).</em>
+		<br/>Cet achat est assujetti à  <var title="blank"><span aria-label="Espace réservé vide" class="blankline"></span> </var> <em>(insérer l'entente sur les revendications territoriales globales applicable).</em>
 </li>
 <li value="7">
 <span class="description"><em>Indiquer la(les) raison(s) justifiant le recours au fournisseur sélectionné à l'avance. Cela devrait clairement démontrer pourquoi ce fournisseur a été identifié comme étant le seul à pouvoir exécuter les travaux ou satisfaire aux exigences du gouvernement. (Voir l'article <a href="#AP-39U4a3151">3.15.1</a>)</em></span>
@@ -261,7 +261,7 @@
 <li value="8">
 <span class="description"><em>Indiquer toute exception pertinente évoquée en vertu du Règlement sur les marchés de l'État <a href="http://laws-lois.justice.gc.ca/fra/reglements/DORS-87-402/index.html" rel="external">(<abbr title="Règlement sur les marchés de l’État">RME</abbr>)</a>.</em></span>
 <br/>8. Exception(s) au Règlement sur les marchés de l'État
-	<br/>L'exception suivante (<em>ou</em> <em>les  exceptions suivantes</em>) au <em>Règlement sur les marchés de l'État</em> est  (sont) invoquée(s) pour cet achat : paragraphe<var title="blank"><span class="blankline" aria-label="Espace réservé vide"></span> </var> (<em>par  exemple :  paragraphe 6d) –  « une seule personne est capable d'exécuter le marché »</em>).
+	<br/>L'exception suivante (<em>ou</em> <em>les  exceptions suivantes</em>) au <em>Règlement sur les marchés de l'État</em> est  (sont) invoquée(s) pour cet achat : paragraphe<var title="blank"><span aria-label="Espace réservé vide" class="blankline"></span> </var> (<em>par  exemple :  paragraphe 6d) –  « une seule personne est capable d'exécuter le marché »</em>).
 	
 </li>
 <li value="9">
@@ -270,9 +270,9 @@
 <span class="description"><strong><em>Nota 2 :</em></strong> <em>En règle générale, le Guide des approvisionnements renvoie uniquement à l'Accord de libre–échange nord–américain (ALENA) et à l'Accord sur les marchés publics de l'Organisation mondiale du commerce (AMP–OMC), puisque le respect des exigences de procédure de ces accords entraîne automatiquement le respect des exigences des autres accords de libre–échange internationaux. Voir l'article <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-1#_1-25">1.25.16</a>.</em></span>
 <br/>9. Exclusions et/ou raisons justifiant le recours à l'appel d'offres limité
 		<br/>Les exclusions et/ou les raisons justifiant le recours à un appel d'offres limité suivantes sont invoquées en vertu de l'article de l'accord (ou des accords) commercial(aux) précisé(s) :
-		<br/>Accord sur le commerce intérieur (ACI) – article(s)  <var title="blank"><span class="blankline" aria-label="Espace réservé vide"></span> </var> <em>(insérer l'article ou les articles applicable(s))</em>
-<br/>Accord sur les marchés publics de l'Organisation  mondiale du commerce (AMP–OMC) – article(s) <var title="blank"><span class="blankline" aria-label="Espace réservé vide"></span> </var> <em>(insérer l'article ou les  articiles applicable(s))</em>
-<br/>Accord de libre–échange nord–américain (ALENA) –  article(s) <var title="blank"><span class="blankline" aria-label="Espace réservé vide"></span> </var> <em>(insérer l'article ou les articles applicable(s))</em>
+		<br/>Accord sur le commerce intérieur (ACI) – article(s)  <var title="blank"><span aria-label="Espace réservé vide" class="blankline"></span> </var> <em>(insérer l'article ou les articles applicable(s))</em>
+<br/>Accord sur les marchés publics de l'Organisation  mondiale du commerce (AMP–OMC) – article(s) <var title="blank"><span aria-label="Espace réservé vide" class="blankline"></span> </var> <em>(insérer l'article ou les  articiles applicable(s))</em>
+<br/>Accord de libre–échange nord–américain (ALENA) –  article(s) <var title="blank"><span aria-label="Espace réservé vide" class="blankline"></span> </var> <em>(insérer l'article ou les articles applicable(s))</em>
 </li>
 <li value="10">
 <span class="description"><em>Lorsqu'un titre de propriété intellectuelle découle de l'exécution d'un  contrat, un énoncé devrait préciser si ce titre fait l'objet d'une exception en  vertu de la <a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=13697" rel="external">ARCHIVÉE - Politique sur le titre de propriété intellectuelle découlant des marchés d'acquisitions de  l'État</a> du Conseil du Trésor ou si la propriété intellectuelle demeure celle de l'entrepreneur. Voir les exemples ci–dessous.</em></span>
@@ -287,7 +287,7 @@
 <span class="description"><em>Préciser la période du contrat proposé ou la date de livraison requise, y compris le renouvellement éventuel ou les années d'option. Voir les exemples ci–dessous</em>.</span>
 <ul class="no-markers options">
 <li>11. Période du contrat proposé ou date de livraison.
-				<br/>Le produit/système/matériel <em>(selon le cas) </em>doit être livré le  <var title="blank"><span class="blankline" aria-label="Espace réservé vide"></span> </var> <em>(insérer la(les) date(s) de livraison requise(s)  ou demandée(s))</em>. Si le contrat comporte des quantités optionnelles et/ou des  biens optionnels, insérer la date de livraison <em>(p. ex., dans un délai de x (insérer le nombre) jours de l'exercice de l'option).</em>
+				<br/>Le produit/système/matériel <em>(selon le cas) </em>doit être livré le  <var title="blank"><span aria-label="Espace réservé vide" class="blankline"></span> </var> <em>(insérer la(les) date(s) de livraison requise(s)  ou demandée(s))</em>. Si le contrat comporte des quantités optionnelles et/ou des  biens optionnels, insérer la date de livraison <em>(p. ex., dans un délai de x (insérer le nombre) jours de l'exercice de l'option).</em>
 </li>
 <li>OU
 					<br/>Le contrat proposé est pour une période de x <em>(insérer le nombre)</em> années, à partir du <em>(insérer la date de début estimée)</em> jusqu'au <em>(insérer la date d'exécution estimée)</em>. <em>Si le contrat comprend une option pour en prolonger la période, insérer les renseignements sur l'option, p. ex., deux périodes d'un an.</em>

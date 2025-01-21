@@ -2,13 +2,12 @@
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-55</h2>
-
 <div class="critical">
 <h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
-<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
 <!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 7 septembre 2001</h3>
 <h4>Contexte</h4>
@@ -19,17 +18,17 @@
 <hr/>
 <h4>Guide des approvisionnements</h4>
 <h5>Numéro d'entreprise - approvisionnement</h5>
-<p>5.123 (xx/xx/xx) Les entreprises intéressées à obtenir un contrat de TPSGC sont encouragées à s'inscrire au système Données d'inscription des fournisseurs (DIF). Une importante caractéristique du DIF est le numéro d'entreprise - approvisionnement (NEA), créé à partir du numéro d'entreprise attribué par l'Agence des douanes et du revenu du Canada pour identifier de façon particulière une compagnie et ses secteurs, divisions ou bureaux, le cas échéant. Le gouvernement du Canada publie ses avis de marché par l'entremise du Service électronique d'appels d'offres du gouvernement (SEAOG) ainsi que sur le site Web de <a href="https://achatsetventes.gc.ca/">Achats et ventes</a>.</p>
+<p>5.123 (xx/xx/xx) Les entreprises intéressées à obtenir un contrat de TPSGC sont encouragées à s'inscrire au système Données d'inscription des fournisseurs (DIF). Une importante caractéristique du DIF est le numéro d'entreprise - approvisionnement (NEA), créé à partir du numéro d'entreprise attribué par l'Agence des douanes et du revenu du Canada pour identifier de façon particulière une compagnie et ses secteurs, divisions ou bureaux, le cas échéant. Le gouvernement du Canada publie ses avis de marché par l'entremise du Service électronique d'appels d'offres du gouvernement (SEAOG) ainsi que sur le site Web de <a href="https://achatscanada.canada.ca/fr">Achats et ventes</a>.</p>
 <p>Afin d'obtenir un contrat de TPSGC, toutes les entreprises canadiennes <strong>doivent avoir un NEA avant l'attribution du contrat</strong>. À ce moment-ci, les entreprises non canadiennes sont fortement encouragées à obtenir un NEA mais il n'est pas obligatoire qu'elles en aient un. La nécessité d'avoir un NEA (voir A9109T) doit être indiquée dans tous les documents d'invitation à soumissionner.</p>
-<p>Les entreprises peuvent obtenir un NEA en s'inscrivant au système Données d'inscription des fournisseurs (DIF), une base de données sur les fournisseurs inscrits qui sont intéressés à faire affaire avec le gouvernement fédéral. Elles peuvent le faire en ligne en se rendant au site Internet de <a href="https://achatsetventes.gc.ca/">Achats et ventes</a> ou par l'entremise d'un agent d'inscription des fournisseurs. Pour s'inscrire autrement que par Internet, elles peuvent communiquer avec l'un des agents d'inscription des fournisseurs de <a href="https://achatsetventes.gc.ca/">Achats et ventes</a> n'importe où au Canada. Les numéros de téléphone figurent dans la clause du guide des CCUA.</p>
+<p>Les entreprises peuvent obtenir un NEA en s'inscrivant au système Données d'inscription des fournisseurs (DIF), une base de données sur les fournisseurs inscrits qui sont intéressés à faire affaire avec le gouvernement fédéral. Elles peuvent le faire en ligne en se rendant au site Internet de <a href="https://achatscanada.canada.ca/fr">Achats et ventes</a> ou par l'entremise d'un agent d'inscription des fournisseurs. Pour s'inscrire autrement que par Internet, elles peuvent communiquer avec l'un des agents d'inscription des fournisseurs de <a href="https://achatscanada.canada.ca/fr">Achats et ventes</a> n'importe où au Canada. Les numéros de téléphone figurent dans la clause du guide des CCUA.</p>
 <p>Après la date de clôture des soumissions, les agents de négociation des contrats devraient envisager d'informer tous les soumissionnaires canadiens qui n'ont pas présenté un NEA tel que prescrit ci-haut, <strong>de le faire</strong> avant l'attribution du contrat. Les agents de négociation des contrats peuvent, à leur discrétion, décider de contacter uniquement le soumissionnaire choisi ou les soumissionnaires s'étant classés parmi les premiers. Cette option devrait être exercée avec prudence.</p>
 <hr/>
 <h4>Guide des CCUA</h4>
 <h5>A9109T Numéro d'entreprise - approvisionnement</h5>
 <p>Sans remarques.</p>
 <p>1. En tant que fournisseurs du gouvernement du Canada, une importante caractéristique est le numéro d'entreprise - approvisionnement (NEA), créé à partir du numéro d entreprise de l'Agence des douanes et du revenu du Canada pour identifier de façon particulière l'entreprise et ses secteurs, divisions ou bureaux, suivant le cas.</p>
-<p>2. Afin d'obtenir un contrat de Travaux publics et Services gouvernementaux Canada, toutes les entreprises canadiennes doivent avoir un NEA avant l'attribution du contrat. Les entreprises non canadiennes sont fortement encouragées à obtenir un NEA. Les entreprises peuvent s'inscrire pour obtenir un NEA du système Données d'inscription des fournisseurs en se rendant au site Internet de <a href="https://achatsetventes.gc.ca/">Achats et ventes</a> (<a href="http://contratscanada.gc.ca/fr/index.html" rel="external">http://contratscanada.gc.ca/fr/index.html</a>).</p>
-<p>3. Pour s inscrire autrement que par Internet, communiquer avec l'un des agents d inscription des fournisseurs de <a href="https://achatsetventes.gc.ca/">Achats et ventes</a> n'importe où au Canada :</p>
+<p>2. Afin d'obtenir un contrat de Travaux publics et Services gouvernementaux Canada, toutes les entreprises canadiennes doivent avoir un NEA avant l'attribution du contrat. Les entreprises non canadiennes sont fortement encouragées à obtenir un NEA. Les entreprises peuvent s'inscrire pour obtenir un NEA du système Données d'inscription des fournisseurs en se rendant au site Internet de <a href="https://achatscanada.canada.ca/fr">Achats et ventes</a> (<a href="http://contratscanada.gc.ca/fr/index.html" rel="external">http://contratscanada.gc.ca/fr/index.html</a>).</p>
+<p>3. Pour s inscrire autrement que par Internet, communiquer avec l'un des agents d inscription des fournisseurs de <a href="https://achatscanada.canada.ca/fr">Achats et ventes</a> n'importe où au Canada :</p>
 <dl>
 <dt>Victoria</dt>
 <dd>XXX-XXX-XXXX</dd>

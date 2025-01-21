@@ -2,13 +2,12 @@
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-44</h2>
-
 <div class="critical">
 <h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
-<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
 <!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 8 décembre 1999</h3>
 <p>Le recours à différents systèmes de gestion financière par de nombreux clients pose certains problèmes de traitement des demandes par TPSGC pour le compte des clients et de leurs fournisseurs. Pour remédier à la situation, nous avons créé un nouvel indicateur, soit le numéro de référence du client (NRC).</p>
@@ -73,15 +72,15 @@
 </ol>
 <p>3. La facture mensuelle ne sera traitée aux fins de paiement que si :</p>
 <ol type="a">
-<li>le responsable technique a reçu tous les rapports sur les demandes de services d'entretien du mois, conformément à la description de l'article « <span class="blankline" aria-label="Espace réservé vide"></span> » de l'énoncé des travaux; et</li>
-<li>les rapports d'entretien mensuels décrits dans les articles « <span class="blankline" aria-label="Espace réservé vide"></span> » et « <span class="blankline" aria-label="Espace réservé vide"></span> » de l'énoncé des travaux sont annexés à la facture mensuelle.</li>
+<li>le responsable technique a reçu tous les rapports sur les demandes de services d'entretien du mois, conformément à la description de l'article « <span aria-label="Espace réservé vide" class="blankline"></span> » de l'énoncé des travaux; et</li>
+<li>les rapports d'entretien mensuels décrits dans les articles « <span aria-label="Espace réservé vide" class="blankline"></span> » et « <span aria-label="Espace réservé vide" class="blankline"></span> » de l'énoncé des travaux sont annexés à la facture mensuelle.</li>
 </ol>
 <p>4. L'original et deux (2) copies des factures, ainsi que les rapports mensuels, doivent être transmis à :<br/>
-					À l'attention de : <span class="blankline" aria-label="Espace réservé vide"></span> </p>
+					À l'attention de : <span aria-label="Espace réservé vide" class="blankline"></span> </p>
 <p>5. Une copie de la facture et une copie des rapports mensuels doivent être envoyées au :</p>
 <p>Ministère des Travaux publics et des Services gouvernementaux
 				</p>
-<p>À l'attention de : <span class="blankline" aria-label="Espace réservé vide"></span> .</p>
+<p>À l'attention de : <span aria-label="Espace réservé vide" class="blankline"></span> .</p>
 <hr/>
 <p><strong>H3021D (xx/xx/xx) Instructions relatives à la facturation</strong></p>
 <p><strong>Remarques : </strong>Nonobstant ce qui est incorporé sous forme de renvois utilisez la clause suivante dans tous les contrats à moins que la version mise à jour ne soit incorporée de la manière prescrite par les règlements.</p>
@@ -107,17 +106,17 @@
 <li>l'original et un exemplaire au consignataire;</li>
 <li>un (1) exemplaire à :<br/>
 						Ministère des Travaux publics et des Services gouvernementaux<br/>
-						(Division) <span class="blankline" aria-label="Espace réservé vide"></span> <br/>
-						(Adresse) <span class="blankline" aria-label="Espace réservé vide"></span> <br/>
-						(Ville/prov.) <span class="blankline" aria-label="Espace réservé vide"></span> <br/>
-						(Code postal) <span class="blankline" aria-label="Espace réservé vide"></span> <br/>
-						À l'attention de <span class="blankline" aria-label="Espace réservé vide"></span> </li>
+						(Division) <span aria-label="Espace réservé vide" class="blankline"></span> <br/>
+						(Adresse) <span aria-label="Espace réservé vide" class="blankline"></span> <br/>
+						(Ville/prov.) <span aria-label="Espace réservé vide" class="blankline"></span> <br/>
+						(Code postal) <span aria-label="Espace réservé vide" class="blankline"></span> <br/>
+						À l'attention de <span aria-label="Espace réservé vide" class="blankline"></span> </li>
 <li>un (1) exemplaire au :<br/>
 						Quartier général de la Défense nationale<br/>
 						Immeuble Mgén George R. Pearkes<br/>
 						101, Promenade du Colonel By<br/>
 						Ottawa (ON) K1A 0K2<br/>
-						À l'attention de <span class="blankline" aria-label="Espace réservé vide"></span> </li>
+						À l'attention de <span aria-label="Espace réservé vide" class="blankline"></span> </li>
 </ol>
 <p>2. Le Canada ne paiera les factures que si elles sont satisfaisantes et justifiées en bonne et due forme par les documents d'autorisation précisés et tous les autres documents exigés dans le contrat.</p>
 <p>3. L'entrepreneur ne doit pas soumettre de factures avant l'expédition des biens auxquels elles se rapportent.</p>
@@ -142,7 +141,7 @@
 					Immeuble Mgén George R. Pearkes<br/>
 					101, Promenade du Colonel By<br/>
 					Ottawa (ON) K1A 0K2<br/>
-					À l'attention de <span class="blankline" aria-label="Espace réservé vide"></span> </p>
+					À l'attention de <span aria-label="Espace réservé vide" class="blankline"></span> </p>
 <p>3. On doit adresser à l'autorité contractante un exemplaire de chaque facture, avec les pièces jointes.</p>
 <hr/>
 <p><strong>K0036D (xx/xx/xx) Instructions et conditions uniformisées, DSS-MAS 9403</strong></p>
@@ -176,17 +175,17 @@
 						Direction générale des services de coordination des communications<br/>
 						350, rue Albert, 4e étage<br/>
 						Ottawa (Ontario) K1A 0S5<br/>
-						Nº de référence et code financier <span class="blankline" aria-label="Espace réservé vide"></span> <br/>
-<strong><em>Numéro de référence du client (NRC)</em></strong><span class="blankline" aria-label="Espace réservé vide"></span> </li>
-<li>Montant forfaitaire par lot de <span class="blankline" aria-label="Espace réservé vide"></span> $</li>
+						Nº de référence et code financier <span aria-label="Espace réservé vide" class="blankline"></span> <br/>
+<strong><em>Numéro de référence du client (NRC)</em></strong><span aria-label="Espace réservé vide" class="blankline"></span> </li>
+<li>Montant forfaitaire par lot de <span aria-label="Espace réservé vide" class="blankline"></span> $</li>
 <li>Poster la deuxième facture à :<br/>
-						(Ministère) : <span class="blankline" aria-label="Espace réservé vide"></span> <br/>
-						(Division) : <span class="blankline" aria-label="Espace réservé vide"></span> <br/>
-						(Adresse) : <span class="blankline" aria-label="Espace réservé vide"></span> <br/>
-						(Ville-Prov.) :<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
-						(Code postal) : <span class="blankline" aria-label="Espace réservé vide"></span> <br/>
-						Nº de référence et code financier <span class="blankline" aria-label="Espace réservé vide"></span> <br/>
-<strong><em>Numéro de référence du client (NRC)</em></strong><span class="blankline" aria-label="Espace réservé vide"></span> </li>
+						(Ministère) : <span aria-label="Espace réservé vide" class="blankline"></span> <br/>
+						(Division) : <span aria-label="Espace réservé vide" class="blankline"></span> <br/>
+						(Adresse) : <span aria-label="Espace réservé vide" class="blankline"></span> <br/>
+						(Ville-Prov.) :<span aria-label="Espace réservé vide" class="blankline"></span> <br/>
+						(Code postal) : <span aria-label="Espace réservé vide" class="blankline"></span> <br/>
+						Nº de référence et code financier <span aria-label="Espace réservé vide" class="blankline"></span> <br/>
+<strong><em>Numéro de référence du client (NRC)</em></strong><span aria-label="Espace réservé vide" class="blankline"></span> </li>
 </ol>
 <p>2. S'applique à tous les biens livrés à tous les destinataires (y compris les biens à livrer à Éditions du gouvernement du Canada, Direction générale des services de coordination des communications ([EGC, DGSCC]) répertoriés conformément à la liste de prix du présent contrat. La facture doit en outre indiquer l'escompte s'appliquant au montant que la DGSCC doit payer aux termes de l'alinéa ci-dessus.</p>
 <p>3. Toutes les factures et tous les bordereaux de livraison et d'emballage doivent porter le numéro de référence, <strong><em>numéro de référence du client (NRC)</em></strong> et le code financier tel qu'indiqué ci-dessus.</p>

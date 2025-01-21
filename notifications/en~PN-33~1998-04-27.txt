@@ -16,15 +16,15 @@
 <h4>CHANGES TO THE SUPPLY MANUAL</h4>
 <p>6.412 <strong>(15/06/98)</strong> When the party responsible for importation is other than the Department of National Defence (DND), a copy of the following certification must be attached to the contract.</p>
 <p><strong>CERTIFICATE FOR DEFENCE SUPPLIES</strong></p>
-<p>"I certify that the items purchased under contract number <span class="blankline" aria-label="Blank placeholder"></span>  are "defence supplies" as defined in the <em>"Defence Production Act</em>", pursuant to tariff item number 9982.00.00 of the Schedule to the <em>Customs Tariff</em>."</p>
+<p>"I certify that the items purchased under contract number <span aria-label="Blank placeholder" class="blankline"></span>  are "defence supplies" as defined in the <em>"Defence Production Act</em>", pursuant to tariff item number 9982.00.00 of the Schedule to the <em>Customs Tariff</em>."</p>
 <p>Approved by authorized officer:</p>
-<p><span class="blankline" aria-label="Blank placeholder"></span> </p>
+<p><span aria-label="Blank placeholder" class="blankline"></span> </p>
 <p>Signature</p>
-<p><span class="blankline" aria-label="Blank placeholder"></span> </p>
+<p><span aria-label="Blank placeholder" class="blankline"></span> </p>
 <p>Date</p>
-<p><span class="blankline" aria-label="Blank placeholder"></span> </p>
+<p><span aria-label="Blank placeholder" class="blankline"></span> </p>
 <p>Title</p>
-<p><span class="blankline" aria-label="Blank placeholder"></span> </p>
+<p><span aria-label="Blank placeholder" class="blankline"></span> </p>
 <p>Sector/Region</p>
 <p>The only proof acceptable to Revenue Canada from the contractor that the import is a defence supply is a copy of the certification.</p>
 <h3>Annex B</h3>

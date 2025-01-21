@@ -2,13 +2,12 @@
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-76</h2>
-
 <div class="critical">
 <h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
-<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
 <!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 17 juin 2005</h3>
 <p>La mise à jour du 10 juin 2005 du guide des <em>Clauses et conditions uniformisées d'achat</em> (CCUA), version 05-1, comprenait une nouvelle version des clauses M0000T et M0000C.  À cause d'un problème dans la formulation de la version révisée, celle-ci ne peut pas être utilisée. Par conséquent, la version révisée des clauses M0000T et M0000C publiée le 10 juin 2005 est temporairement suspendues. </p>
@@ -39,10 +38,10 @@
 <p>les conditions et les clauses indiquées dans la présente par un titre, un numéro et une date, et;</p>
 </li>
 <li>
-<p>les Instructions décrites dans la partie A des instructions et conditions uniformisées 9403-6, (<span class="blankline" aria-label="Espace réservé vide"></span> ) (insérer la date et supprimer cette instruction), ainsi que</p>
+<p>les Instructions décrites dans la partie A des instructions et conditions uniformisées 9403-6, (<span aria-label="Espace réservé vide" class="blankline"></span> ) (insérer la date et supprimer cette instruction), ainsi que</p>
 </li>
 <li>
-<p>les Particularités de l'offre à commandes décrites dans la partie B et, aux fins d'achat de biens, les Conditions décrites dans la partie C des instructions et conditions uniformisées 9403-6 (<span class="blankline" aria-label="Espace réservé vide"></span> ) (insérer la date et supprimer cette instruction)</p>
+<p>les Particularités de l'offre à commandes décrites dans la partie B et, aux fins d'achat de biens, les Conditions décrites dans la partie C des instructions et conditions uniformisées 9403-6 (<span aria-label="Espace réservé vide" class="blankline"></span> ) (insérer la date et supprimer cette instruction)</p>
 </li>
 </ol>
 <ul class="noBullet">
@@ -64,7 +63,7 @@
 <p>Une version électronique du guide est disponible sur le site Web de TPSGC :<br/>
 <a href="http://sacc.tpsgc.gc.ca/sacc/index-f.jsp" rel="external">http://sacc.tpsgc.gc.ca/sacc/index-f.jsp</a>.</p>
 <p><strong>Conditions - offre à commandes</strong></p>
-<p>Conformément à la <em>Loi sur le ministère des Travaux publics et des Services gouvernementaux</em>, L.C. 1996, ch. 16, les conditions et les clauses indiquées dans la présente par un titre, un numéro et une date, ainsi que les Particularités de l'offre à commandes décrites dans la partie B et, aux fins d'achat de biens, les Conditions décrites dans la partie C des instructions et conditions uniformisées 9403-6 (<span class="blankline" aria-label="Espace réservé vide"></span> ) (insérer la date et supprimer cette instruction) sont incorporées par renvoi à la présente offre à commandes et font partie de tout contrat découlant d'une commande subséquente à ladite offre à commandes comme si elles y étaient formellement reproduites, sous réserve des autres conditions contenues dans la présente.</p>
+<p>Conformément à la <em>Loi sur le ministère des Travaux publics et des Services gouvernementaux</em>, L.C. 1996, ch. 16, les conditions et les clauses indiquées dans la présente par un titre, un numéro et une date, ainsi que les Particularités de l'offre à commandes décrites dans la partie B et, aux fins d'achat de biens, les Conditions décrites dans la partie C des instructions et conditions uniformisées 9403-6 (<span aria-label="Espace réservé vide" class="blankline"></span> ) (insérer la date et supprimer cette instruction) sont incorporées par renvoi à la présente offre à commandes et font partie de tout contrat découlant d'une commande subséquente à ladite offre à commandes comme si elles y étaient formellement reproduites, sous réserve des autres conditions contenues dans la présente.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
 </div>

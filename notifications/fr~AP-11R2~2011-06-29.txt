@@ -437,7 +437,7 @@
 <p>À l'attention de : <em><strong>XXXXX</strong></em></p>
 <p>Sujet : <br/>
         Résultat du processus d'Évaluation d'une <abbr title="Mesure corrective du rendement d'un fournisseur">MCRF</abbr><br/>
-        <span class="blankline" aria-label="Espace réservé vide"></span> Numéro de contrat <strong><em>000, titre</em></strong></p>
+<span aria-label="Espace réservé vide" class="blankline"></span> Numéro de contrat <strong><em>000, titre</em></strong></p>
 <p><strong>Madame, Monsieur <em>{inscrire le nom ici et supprimer cette instruction}</em></strong></p>
 <p>Conformément à la Politique sur les mesures correctives du rendement des fournisseurs (PMCRF), Travaux publics et Services gouvernementaux Canada (TPSGC) a réalisé un processus d'Évaluation d'une <abbr title="Mesure corrective du rendement d'un fournisseur">MCRF</abbr> à la fin du contrat identifié ci-haut. Ce processus d'Évaluation d'une <abbr title="Mesure corrective du rendement d'un fournisseur">MCRF</abbr> a été déclenché par ce qui suit :</p>
 <ul>
@@ -470,7 +470,7 @@
 <p>À l'attention de : <strong><em>XXXXX</em></strong></p>
 <p>Sujet : <br/>
         Avis d'intention d'appliquer une Mesure corrective du rendement des fournisseurs <br/>
-        <span class="blankline" aria-label="Espace réservé vide"></span> Numéro de contrat <strong><em>000, titre</em></strong></p>
+<span aria-label="Espace réservé vide" class="blankline"></span> Numéro de contrat <strong><em>000, titre</em></strong></p>
 <p><strong>Madame, Monsieur <em>{inscrire le nom ici et supprimer cette instruction}</em></strong></p>
 <p>Conformément à la Politique sur les mesures correctives du rendement des fournisseurs (PMCRF), la Direction générale des approvisionnements (DGA) de Travaux publics et Services gouvernementaux Canada (TPSGC) a réalisé un processus d'Évaluation d'une <abbr title="Mesure corrective du rendement d'un fournisseur">MCRF</abbr> à la fin du contrat identifié ci-haut. Ce processus d'Évaluation d'une <abbr title="Mesure corrective du rendement d'un fournisseur">MCRF</abbr> a été déclenché par ce qui suit :</p>
 <ul>
@@ -647,15 +647,15 @@
 <p>…</p>
 <h4>3)  Révisions aux clauses du Guide des <abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr></h4>
 <p><strong>(RÉVISÉE) Clause J1000C du Guide des <abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr> - Résiliation pour manquement </strong></p>
-<p>Le présent avis donne suite à l'Ordre d'arrêt des travaux en date du <span class="blankline" aria-label="Espace réservé vide"></span>  (<strong><em>supprimer ce paragraphe  si un Ordre d'arrêt des travaux n'a pas été envoyé par l'autorité contractante</em></strong>).</p>
-<p>Conformément au droit absolu du Canada de résilier le contrat pour manquement si l'entrepreneur manque à l'une de ses obligations prévues au contrat, l'autorité contractante avise l'entrepreneur que le contrat est résilié pour manquement en vertu de l'article <span class="blankline" aria-label="Espace réservé vide"></span> , Manquement de la part de l'entrepreneur, des conditions générales <span class="blankline" aria-label="Espace réservé vide"></span> , pour les motifs suivants :</p>
+<p>Le présent avis donne suite à l'Ordre d'arrêt des travaux en date du <span aria-label="Espace réservé vide" class="blankline"></span>  (<strong><em>supprimer ce paragraphe  si un Ordre d'arrêt des travaux n'a pas été envoyé par l'autorité contractante</em></strong>).</p>
+<p>Conformément au droit absolu du Canada de résilier le contrat pour manquement si l'entrepreneur manque à l'une de ses obligations prévues au contrat, l'autorité contractante avise l'entrepreneur que le contrat est résilié pour manquement en vertu de l'article <span aria-label="Espace réservé vide" class="blankline"></span> , Manquement de la part de l'entrepreneur, des conditions générales <span aria-label="Espace réservé vide" class="blankline"></span> , pour les motifs suivants :</p>
 (<strong><em>Insérer les motifs pour résilier le contrat pour manquement.</em></strong>)
 <p>Le Canada se réserve le droit en vertu du contrat de réclamer de l'entrepreneur toutes les pertes et tous les dommages que pourrait subir le Canada en raison du manquement, y compris tout montant dépassant le prix contractuel que le Canada serait obligé de payer pour se procurer ailleurs les biens, les services ou les deux.</p>
 <strong>(Insérer le paragraphe suivant lorsque la résiliation est reliée à des problèmes de rendement sujets aux dispositions de la Politique sur les mesures correctives du rendement des fournisseurs.)</strong>
 <p>Conformément à la Politique sur les mesures correctives du rendement des fournisseurs, cette résiliation pour manquement déclenchera une évaluation d'une mesure corrective du rendement du fournisseur. De plus, une note indiquant qu'il y a eu une résiliation pour manquement pour ce contrat sera inscrite dans le Système d'information sur les fournisseurs.</p>
 <p><strong>(RÉVISÉE) Clause J1001C du Guide des <abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr> - Résiliation partielle pour manquement </strong></p>
-<p>Le présent avis donne suite à l'Ordre d'arrêt des travaux en date du <span class="blankline" aria-label="Espace réservé vide"></span>  (<strong><em>supprimer ce paragraphe si un Ordre d'arrêt des travaux n'a pas été envoyé par l'autorité contractante</em></strong>).</p>
-<p>Conformément au droit absolu du Canada de résilier le contrat en partie pour manquement si l'entrepreneur manque à l'une de ses obligations prévues au contrat, l'autorité contractante avise l'entrepreneur que la partie suivante du contrat est résiliée en vertu du l'article <span class="blankline" aria-label="Espace réservé vide"></span> , Manquement de la part de l'entrepreneur, des conditions générales <span class="blankline" aria-label="Espace réservé vide"></span> , pour les motifs suivants :</p>
+<p>Le présent avis donne suite à l'Ordre d'arrêt des travaux en date du <span aria-label="Espace réservé vide" class="blankline"></span>  (<strong><em>supprimer ce paragraphe si un Ordre d'arrêt des travaux n'a pas été envoyé par l'autorité contractante</em></strong>).</p>
+<p>Conformément au droit absolu du Canada de résilier le contrat en partie pour manquement si l'entrepreneur manque à l'une de ses obligations prévues au contrat, l'autorité contractante avise l'entrepreneur que la partie suivante du contrat est résiliée en vertu du l'article <span aria-label="Espace réservé vide" class="blankline"></span> , Manquement de la part de l'entrepreneur, des conditions générales <span aria-label="Espace réservé vide" class="blankline"></span> , pour les motifs suivants :</p>
 <p><strong><em>(Insérer la ou les parties résiliées et les motifs pour résilier partiellement le contrat pour manquement)</em></strong></p>
 <p>L'entrepreneur doit poursuivre le reste des travaux conformément aux conditions du contrat.</p>
 <p>Le Canada se réserve le droit en vertu du contrat de réclamer de l'entrepreneur toutes les pertes et tous les dommages que pourrait subir le Canada en raison du manquement, y compris tout montant dépassant le prix contractuel que le Canada serait obligé de payer pour se procurer ailleurs les biens, les services ou les deux reliés à la partie du contrat résiliée.</p>

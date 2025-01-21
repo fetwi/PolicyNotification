@@ -2,13 +2,12 @@
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-43U</h2>
-
 <div class="critical">
 <h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
-<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
 <!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>Date : le 19 mars 2001</h3>
 <p>Le présent Avis de politique remplace l'Avis de politique 43 du 17 août 1999. Cet avis comprend les rubriques suivantes : contexte, principes, mise en œuvre, description du champ d'application et énoncé des responsabilités du client.</p>
@@ -145,7 +144,7 @@
 </tbody></table>
 <h3>Annexe C</h3>
 <h4>Responsabilités du client</h4>
-<p>En tant que directeur responsable du projet défini comme <span class="blankline" aria-label="Espace réservé vide"></span> , je certifie par la présente que le gestionnaire de projet indiqué à la fin du présent document est pleinement compétent au chapitre des études et de l'expérience requises et qu'il a le pouvoir nécessaire pour s'acquitter des responsabilités énumérées ci-après. Il est convenu que les pratiques et procédures actuelles de TPSGC en matière de passation de marchés seront strictement respectées dans le cadre du présent projet.</p>
+<p>En tant que directeur responsable du projet défini comme <span aria-label="Espace réservé vide" class="blankline"></span> , je certifie par la présente que le gestionnaire de projet indiqué à la fin du présent document est pleinement compétent au chapitre des études et de l'expérience requises et qu'il a le pouvoir nécessaire pour s'acquitter des responsabilités énumérées ci-après. Il est convenu que les pratiques et procédures actuelles de TPSGC en matière de passation de marchés seront strictement respectées dans le cadre du présent projet.</p>
 <h4>Responsabilités</h4>
 <p>Le gestionnaire de projet doit :</p>
 <ol type="i">
@@ -162,10 +161,10 @@
 <li>fournir à TPSGC toutes les informations nécessaires sur le programme et le projet afin de permettre à TPSGC de suivre ses processus internes de passation de marchés;</li>
 <li>participer aux négociations de plainte et aux activités de règlement de conflit et financer tout règlement convenu à la suite de la mesure du rendement des travaux ou des services.</li>
 </ol>
-<p>Par la présente, M. ou Mme <span class="blankline" aria-label="Espace réservé vide"></span>  est désigné(e) gestionnaire de projet pour les travaux à accomplir ou les services à rendre et il (elle) peut être joint(e) au (<span class="blankline" aria-label="Espace réservé vide"></span> ) __ - <span class="blankline" aria-label="Espace réservé vide"></span> .</p>
-<p><span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+<p>Par la présente, M. ou Mme <span aria-label="Espace réservé vide" class="blankline"></span>  est désigné(e) gestionnaire de projet pour les travaux à accomplir ou les services à rendre et il (elle) peut être joint(e) au (<span aria-label="Espace réservé vide" class="blankline"></span> ) __ - <span aria-label="Espace réservé vide" class="blankline"></span> .</p>
+<p><span aria-label="Espace réservé vide" class="blankline"></span> <br/>
 					Directeur</p>
-<p><span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+<p><span aria-label="Espace réservé vide" class="blankline"></span> <br/>
 					Gestionnaire de projet</p>
 <hr/>
 <div class="smallFont" id="AP-43Ufootnote">

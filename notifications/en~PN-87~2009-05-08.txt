@@ -138,13 +138,13 @@
 <p>The acting incumbent should normally be given the full contract approval and signing authorities of the position.  However, the acting incumbent must not exercise these authorities on a procurement file for which he/she was responsible in his/her normal position.</p>
 <p>6A.061 (2009-xx-xx)  If an incumbent is to perform the duties of a position in an acting capacity for an indeterminate period, then the incumbent's supervisor will delegate authorities by signing an individual delegation form <a href="http://publiservice-app.tpsgc-pwgsc.gc.ca/forms/index.cfm?fuseaction=search.details&amp;lang=e&amp;display=8628" rel="external"><span lang="fr"><acronym title="Public Works and Government Services Canada - Travaux publics et Services gouvernementaux Canada">PWGSC-TPSGC</acronym></span> 524</a>, indicating the period that these authorities are to be in effect.</p>
 <p>6A.062 (2009-xx-xx)  In those situations where an incumbent must perform the duties of a position in an acting capacity for a short period (e.g. vacation replacement), then the incumbent's supervisor will delegate authorities by e-mail, indicating the period that these authorities are to be in effect.  An example of an e-mail is as follows:</p>
-<p>Subject: Absence of <span class="blankline" aria-label="Blank placeholder"></span> </p>
+<p>Subject: Absence of <span aria-label="Blank placeholder" class="blankline"></span> </p>
 <p>This is to advise that the individual named below will be absent for the specified period.  To ensure continuity of operations, acting contractual authorities have been delegated to the following appointee.</p>
-<p>Person Absent:   <span class="blankline" aria-label="Blank placeholder"></span> </p>
-<p>Postion Title occupied:  <span class="blankline" aria-label="Blank placeholder"></span> </p>
-<p>Period:  <span class="blankline" aria-label="Blank placeholder"></span> </p>
-<p>Appointee's name:  <span class="blankline" aria-label="Blank placeholder"></span> </p>
-<p>Approved by:   <span class="blankline" aria-label="Blank placeholder"></span> </p>
+<p>Person Absent:   <span aria-label="Blank placeholder" class="blankline"></span> </p>
+<p>Postion Title occupied:  <span aria-label="Blank placeholder" class="blankline"></span> </p>
+<p>Period:  <span aria-label="Blank placeholder" class="blankline"></span> </p>
+<p>Appointee's name:  <span aria-label="Blank placeholder" class="blankline"></span> </p>
+<p>Approved by:   <span aria-label="Blank placeholder" class="blankline"></span> </p>
 <p>The e-mail must be sent to the acting incumbent, with a copy to all contracting officers reporting to that position, and the supervisor's immediate superior.  In addition, a copy of the e-mail must be placed on the file of any contractual document approved/signed by the incumbent while exercising the acting authority.</p>
 <div class="topPage"><a href="#PN-87tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>

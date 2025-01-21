@@ -64,14 +64,14 @@
 </ol>
 <p>3. The monthly invoice will be processed for payment only if:</p>
 <ol type="a">
-<li>all the maintenance service call reports applicable for that month as described under Article "<span class="blankline" aria-label="Blank placeholder"></span> " of the Statement of Work (SOW) have been received by the Technical Authority; and</li>
-<li>that the monthly maintenance reports as described in Articles "<span class="blankline" aria-label="Blank placeholder"></span> " and "<span class="blankline" aria-label="Blank placeholder"></span> " of the SOW are attached to the monthly invoice.</li>
+<li>all the maintenance service call reports applicable for that month as described under Article "<span aria-label="Blank placeholder" class="blankline"></span> " of the Statement of Work (SOW) have been received by the Technical Authority; and</li>
+<li>that the monthly maintenance reports as described in Articles "<span aria-label="Blank placeholder" class="blankline"></span> " and "<span aria-label="Blank placeholder" class="blankline"></span> " of the SOW are attached to the monthly invoice.</li>
 </ol>
 <p>4. The original and two (2) copies of the invoices with the monthly reports shall be sent to:</p>
-<p>Attention: <span class="blankline" aria-label="Blank placeholder"></span> </p>
+<p>Attention: <span aria-label="Blank placeholder" class="blankline"></span> </p>
 <p>5. One (1) copy of the invoice accompanied with a copy of the monthly reports shall be sent to:</p>
 <p>Department of Public Works and Government Services</p>
-<p>Attention: <span class="blankline" aria-label="Blank placeholder"></span> </p>
+<p>Attention: <span aria-label="Blank placeholder" class="blankline"></span> </p>
 <hr/>
 <p><strong>H3021D (xx/xx/xx) Invoicing Instructions</strong></p>
 <p><strong>Remarks:</strong> Notwithstanding what has been incorporated by reference, use the following clause as full text in all contracts until modifications are legally incorporated into the SACC manual.</p>
@@ -96,17 +96,17 @@
 <li>The original and one copy to - Consignee</li>
 <li>One (1) copy to:<br/>
 						Department of Public Works and Government Services<br/>
-						(Division) <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-						(Address) <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-						(City/prov.) <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-						(Postal/Code) <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-						Attention: <span class="blankline" aria-label="Blank placeholder"></span> </li>
+						(Division) <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+						(Address) <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+						(City/prov.) <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+						(Postal/Code) <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+						Attention: <span aria-label="Blank placeholder" class="blankline"></span> </li>
 <li>One (1) copy to:<br/>
 						National Defence Headquarters<br/>
 						MGen George R. Pearkes Building<br/>
 						101 Colonel By Drive<br/>
 						Ottawa, ON K1A 0K2<br/>
-						Attention: <span class="blankline" aria-label="Blank placeholder"></span> </li>
+						Attention: <span aria-label="Blank placeholder" class="blankline"></span> </li>
 </ol>
 <p>2. Canada will only make payment upon receipt of a satisfactory invoice duly supported by specified release documents and any other documents called for under the Contract.</p>
 <p>3. The Contractor shall not submit an invoice prior to shipment of the items to which it relates.</p>
@@ -132,7 +132,7 @@
 						MGen George R. Pearkes Building<br/>
 						101 Colonel By Drive<br/>
 						Ottawa ON K1A 0K2<br/>
-						Attention: <span class="blankline" aria-label="Blank placeholder"></span> </li>
+						Attention: <span aria-label="Blank placeholder" class="blankline"></span> </li>
 </ul>
 <p>3. One copy each invoice, together with attachments, shall be forwarded to the Contracting Authority.</p>
 <hr/>
@@ -167,18 +167,18 @@
 						350 Albert, 4th floor<br/>
 						Ottawa, Ontario<br/>
 						K1A 0S5<br/>
-						Requisition No. and Financial Code <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-<strong><em>Client Reference Number <span class="blankline" aria-label="Blank placeholder"></span> </em></strong><br/>
-						For a firm lot amount of $ <span class="blankline" aria-label="Blank placeholder"></span> 
-					</li>
+						Requisition No. and Financial Code <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+<strong><em>Client Reference Number <span aria-label="Blank placeholder" class="blankline"></span> </em></strong><br/>
+						For a firm lot amount of $ <span aria-label="Blank placeholder" class="blankline"></span>
+</li>
 <li>Mail second invoice to:<br/>
-						Department: <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-						Division: <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-						Address: <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-						City/Prov.: <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-						Postal Code: <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-						Requisition No. and Financial Code <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-<strong><em>Client Reference Number <span class="blankline" aria-label="Blank placeholder"></span> </em></strong></li>
+						Department: <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+						Division: <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+						Address: <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+						City/Prov.: <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+						Postal Code: <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+						Requisition No. and Financial Code <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+<strong><em>Client Reference Number <span aria-label="Blank placeholder" class="blankline"></span> </em></strong></li>
 </ol>
 <p>2. Applies to all goods delivered to all Consignees (including the quantity for delivery to the Canadian Government Publishing, Communications Coordination Services Branch [CGP,CCSB]) itemized in accordance with the Contract pricing schedule herein. Show the reduction off the total invoice cost for the amount payable by CGP, CCSB under (a) above.</p>
 <p>3. All invoices, shipping and packing slips must show the applicable requisition number, <strong><em>client reference number,</em></strong> and financial code as indicated above.</p>

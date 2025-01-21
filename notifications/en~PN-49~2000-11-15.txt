@@ -771,9 +771,9 @@
 					copyright except computer software or any documentation pertaining<br/>
 					to such software.</p>
 <p><strong>Text</strong></p>
-<p>The <span class="blankline" aria-label="Blank placeholder"></span>  has determined that any intellectual property arising<br/>
+<p>The <span aria-label="Blank placeholder" class="blankline"></span>  has determined that any intellectual property arising<br/>
 					from the performance of the Work under the Contract will vest in<br/>
-					Canada, on the following grounds: <span class="blankline" aria-label="Blank placeholder"></span> .</p>
+					Canada, on the following grounds: <span aria-label="Blank placeholder" class="blankline"></span> .</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
 </div>

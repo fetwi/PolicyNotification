@@ -125,8 +125,8 @@ The Formal Procurement Plan format will continue to be used for procurements exc
 <strong>Recommended by:</strong>
 </div>
 <div>
-        <span class="blankline" aria-label="Blank placeholder"></span> 
-        <br/>
+<span aria-label="Blank placeholder" class="blankline"></span>
+<br/>
         Senior Director or Regional Director OR
         <br/>
         Director General/Regional Director General
@@ -135,8 +135,8 @@ The Formal Procurement Plan format will continue to be used for procurements exc
         <br/>
 </div>
 <div>
-        <span class="blankline" aria-label="Blank placeholder"></span> 
-        <br/>
+<span aria-label="Blank placeholder" class="blankline"></span>
+<br/>
         Date
     </div>
 </div>
@@ -151,16 +151,16 @@ The Formal Procurement Plan format will continue to be used for procurements exc
 <strong>Approved by:</strong>
 </div>
 <div>
-        <span class="blankline" aria-label="Blank placeholder"></span> 
-        <br/>
+<span aria-label="Blank placeholder" class="blankline"></span>
+<br/>
         Director General/Regional Director General
         <br/>
         OR Assistant Deputy Minister
         <br/>
 </div>
 <div>
-        <span class="blankline" aria-label="Blank placeholder"></span> 
-        <br/>
+<span aria-label="Blank placeholder" class="blankline"></span>
+<br/>
         Date
         <br/>
 </div>

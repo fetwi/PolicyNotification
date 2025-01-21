@@ -2,13 +2,12 @@
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-27</h2>
-
 <div class="critical">
 <h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
-<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
 <!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 25 février 1998</h3>
 <h4>Introduction:</h4>
@@ -25,7 +24,7 @@
 <p>5. L'Avis de politique des marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada fait état des obligations contractuelles du Canada en vertu de chacune des ententes sur les revendications territoriales. Ce tableau, intitulé « Résumé des avantages découlant de l'Avis de politique des marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada », reproduit à l'annexe 1, a été établi d'après cet avis de politique. À l'aide de ce tableau, on doit établir les dispositions qui s'appliquent dans les ententes de revendication territoriale applicables. On doit veiller à retenir uniquement les dispositions pertinentes. Par exemple, les dispositions se rapportant à la sylviculture ne s'appliqueraient pas à un marché de services d'alimentation.</p>
 <p>6. On doit noter l'information suivante au début de la case du texte de l'APM :</p>
 <ul>
-<li>« Le présent marché est réservé et exempté de <span class="blankline" aria-label="Espace réservé vide"></span>  (Indiquer, selon le cas l'Accord de libre-échange nord-américain ou l'Accord sur les marchés publics de l'Organisation mondiale du commerce) conformément à l'Avis de politique des marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada en date du 10 décembre 1997. »</li>
+<li>« Le présent marché est réservé et exempté de <span aria-label="Espace réservé vide" class="blankline"></span>  (Indiquer, selon le cas l'Accord de libre-échange nord-américain ou l'Accord sur les marchés publics de l'Organisation mondiale du commerce) conformément à l'Avis de politique des marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada en date du 10 décembre 1997. »</li>
 </ul>
 <p>7. On doit indiquer l'information suivant à la fin de la case du texte de l'APM :</p>
 <ul>
@@ -37,7 +36,7 @@
 </ul>
 <p>8. On doit reproduire l'information suivante au début du document d'appel d'offres :</p>
 <ul>
-<li>« Le présent marché est réservé et exempté de <span class="blankline" aria-label="Espace réservé vide"></span>  (<em>Indiquer, selon le cas l'Accord de libre-échange nord-américain ou l'Accord sur les marchés publics de l'Organisation mondiale du commerce</em>) conformément à l'Avis de politique des marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada en date du 10 décembre 1997. »</li>
+<li>« Le présent marché est réservé et exempté de <span aria-label="Espace réservé vide" class="blankline"></span>  (<em>Indiquer, selon le cas l'Accord de libre-échange nord-américain ou l'Accord sur les marchés publics de l'Organisation mondiale du commerce</em>) conformément à l'Avis de politique des marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada en date du 10 décembre 1997. »</li>
 </ul>
 <p>Une copie de cette clause est reproduite à l'annexe 3. Elle sera intégrée dans le Guide des CCUA.</p>
 <p>9. La phrase suivante et le texte des dispositions pertinentes des ententes de revendication territoriale doivent être reproduits à la fin du document d'appel d'offres, mais avant les annexes ou les appendices.</p>
@@ -1369,15 +1368,15 @@
 <p><strong>Remarques :</strong></p>
 <p>Reproduire intégralement la clause suivante au début du document d'appel d'offres lorsque le marché est réservé dans le cadre de la Politique sur les marchés réservés en vertu des revendications territoriales. Veiller à indiquer, dans cette clause, l'accord commercial pertinent.</p>
 <p><strong>Texte :</strong></p>
-<p>Ce marché est réservé et est exempté de <span class="blankline" aria-label="Espace réservé vide"></span>  (indiquer, le cas échéant, l'Accord de libre-échange nord-américain ou l'Accord sur les marchés publics de l'Organisation mondiale du commerce) conformément à l'Avis de politique des marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada en date du 10 décembre 1997.</p>
+<p>Ce marché est réservé et est exempté de <span aria-label="Espace réservé vide" class="blankline"></span>  (indiquer, le cas échéant, l'Accord de libre-échange nord-américain ou l'Accord sur les marchés publics de l'Organisation mondiale du commerce) conformément à l'Avis de politique des marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada en date du 10 décembre 1997.</p>
 <hr/>
 <p><strong>W0001T (__/__/98) LIVRAISONS À EFFECTUER EN DEHORS DES ZPRTG</strong></p>
 <p><strong>Remarques :</strong></p>
 <p>Cette clause doit être reproduite dans les appels d'offres prévoyant une livraison finale dans des endroits situés <strong>en dehors</strong> des Zones de peuplement des revendications territoriales globales (ZPRTG), lorsque le marché d'origine a été divisé entre des points de livraison finaux <strong>en dehors </strong>des ZPRTG pour un appel d'offres et des points de livraison finaux <strong>à l'intérieur</strong> des ZPRTG pour un appel d'offres différent. Les agents doivent modifier les clauses dans les cas nécessaires, selon qu'il s'agit d'une offre à commandes ou d'un contrat, et rappeler le numéro de l'appel d'offres pour les livraisons à l'intérieur des ZPRTG.</p>
 <p>Le deuxième alinéa de cette clause porte sur l'éventualité dans laquelle on ne reçoit pas de soumissions à la suite de l'appel d'offres pour des points de livraison à l'intérieur d'une ZPRTG. Cette clause permet à l'État d'indiquer des points de livraison finaux à l'intérieur des ZPRTG dans l'offre à commandes ou le contrat proposé avec le soumissionnaire retenu dans le cadre de l'appel d'offres portant sur des points de livraison à l'extérieur des ZPRTG.</p>
 <p><strong>Texte :</strong></p>
-<p>Toute offre à commandes subséquente/tout contrat subséquent portera sur des livraisons à effectuer à des endroits situés au Canada, sauf dans des zones de peuplement des revendications territoriales globales. Pour les livraisons à effectuer dans des endroits situés dans ces zones, le numéro d'invitation <span class="blankline" aria-label="Espace réservé vide"></span>  (indiquer le numéro pertinent) s'applique.</p>
-<p>Dans l'éventualité où aucune offre à commandes/n'est établie/aucun contrat n'est attribué pour donner suite à l'invitation numéro <span class="blankline" aria-label="Espace réservé vide"></span>  (indiquer le numéro pertinent), l'État se réserve le droit de négocier les livraisons à l'intérieur des zones de peuplement des revendications territoriales globales avec les fournisseurs qui ont été approuvés pour l'émission/l'attribution d'une offre à commandes/d'un contrat dans le cadre de cette Demande d'offre à commandes/Demande de proposition).</p>
+<p>Toute offre à commandes subséquente/tout contrat subséquent portera sur des livraisons à effectuer à des endroits situés au Canada, sauf dans des zones de peuplement des revendications territoriales globales. Pour les livraisons à effectuer dans des endroits situés dans ces zones, le numéro d'invitation <span aria-label="Espace réservé vide" class="blankline"></span>  (indiquer le numéro pertinent) s'applique.</p>
+<p>Dans l'éventualité où aucune offre à commandes/n'est établie/aucun contrat n'est attribué pour donner suite à l'invitation numéro <span aria-label="Espace réservé vide" class="blankline"></span>  (indiquer le numéro pertinent), l'État se réserve le droit de négocier les livraisons à l'intérieur des zones de peuplement des revendications territoriales globales avec les fournisseurs qui ont été approuvés pour l'émission/l'attribution d'une offre à commandes/d'un contrat dans le cadre de cette Demande d'offre à commandes/Demande de proposition).</p>
 <hr/>
 <p><strong>W0002D (__/__/98) LIVRAISONS À EFFECTUER À L'EXTÉRIEUR DES ZPRTG</strong></p>
 <p><strong>Remarques :</strong></p>

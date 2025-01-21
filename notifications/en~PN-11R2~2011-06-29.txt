@@ -434,7 +434,7 @@
 <p>Attention: <strong><em>XXXXX</em></strong></p>
 <p>Subject: <br/>
             Result of the <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment process<br/>
-            <span class="blankline" aria-label="Blank placeholder"></span> Contract number <strong><em>000, title</em></strong></p>
+<span aria-label="Blank placeholder" class="blankline"></span> Contract number <strong><em>000, title</em></strong></p>
 <br/>
 <p>Dear <strong><em>Ms, Mr. {insert name here and delete this instruction}</em></strong></p>
 <p>As per the Vendor Performance Corrective Measure Policy (VPCMP), Public Works and Government Services Canada (PWGSC)/Acquisitions Branch (AB) carried out a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment process at the end of the above referenced contract. This <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment process was triggered by the following:</p>
@@ -468,7 +468,7 @@
 <p>Attention: <em>XXXXX</em></p>
 <p>Subject: <br/>
             Notice of intent to apply a Vendor Performance Corrective Measure<br/>
-            <span class="blankline" aria-label="Blank placeholder"></span> Contract number <strong><em>000, title</em></strong></p>
+<span aria-label="Blank placeholder" class="blankline"></span> Contract number <strong><em>000, title</em></strong></p>
 <p>Dear <strong><em>Ms, Mr. {insert name here and delete this instruction}</em></strong></p>
 <p>As per the Vendor Performance Corrective Measure Policy (VPCMP), Public Works and Government Services Canada (PWGSC)/Acquisitions Branch (AB) carried out a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment process at the end of the above referenced contract. This <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment process was triggered by the following:</p>
 <ul>
@@ -649,15 +649,15 @@
 <p>(c) Canada has imposed measures on the Supplier under the Vendor Performance Corrective Measure Policy (or such similar policy that may be in place from time to time).</p>
 <h4>3. Revisions to <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual Clauses</h4>
 <p><strong>(REVISED) <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual Clause J1000C - Termination for Default </strong></p>
-<p>This is further to the Stop Work Order dated <span class="blankline" aria-label="Blank placeholder"></span>  <strong><em>(delete this paragraph if no Stop Work Order was sent by the Contracting Authority)</em></strong>.</p>
-<p>In accordance with the unrestricted right of Canada to terminate the Contract for default if the Contractor is in default in carrying out any of its obligations under the Contract, the Contracting Authority notifies the Contractor that the Contract is terminated for default pursuant to section <span class="blankline" aria-label="Blank placeholder"></span> , Default by the Contractor, of general conditions <span class="blankline" aria-label="Blank placeholder"></span>  on the following grounds:</p>
+<p>This is further to the Stop Work Order dated <span aria-label="Blank placeholder" class="blankline"></span> <strong><em>(delete this paragraph if no Stop Work Order was sent by the Contracting Authority)</em></strong>.</p>
+<p>In accordance with the unrestricted right of Canada to terminate the Contract for default if the Contractor is in default in carrying out any of its obligations under the Contract, the Contracting Authority notifies the Contractor that the Contract is terminated for default pursuant to section <span aria-label="Blank placeholder" class="blankline"></span> , Default by the Contractor, of general conditions <span aria-label="Blank placeholder" class="blankline"></span>  on the following grounds:</p>
 <p><strong><em>(Insert the grounds for terminating the contract for default.)</em></strong></p>
 <p>Canada reserves its right under the Contract to charge the Contractor for all losses and damages which Canada may suffer by reason of the default, including any amount in excess of the Contract Price that Canada may be obliged to pay in procuring the goods, services or both elsewhere.</p>
 <p><strong><em>(Insert the following paragraph when the termination relates to performance issues within the scope of the Vendor Performance Corrective Measure Policy)</em></strong></p>
 <p>In accordance with the Vendor Performance Corrective Measure Policy, this termination for default will trigger a Vendor Performance Corrective Measure assessment. In addition, a note indicating that there was a termination for default for this contract will be registered in the Vendor Information Management system.</p>
 <p><strong>(REVISED) <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual Clause J1001C Partial Termination for Default </strong></p>
-<p>This is further to the Stop Work Order dated <span class="blankline" aria-label="Blank placeholder"></span>  <strong><em>(delete this paragraph if no Stop Work Order was sent by the Contracting Authority).</em></strong></p>
-<p>In accordance with the unrestricted right of Canada to terminate the Contract in part for default if the Contractor is in default in carrying out any of its obligations under the Contract, the Contracting Authority notifies the Contractor that the following part of the Contract is terminated pursuant to section <span class="blankline" aria-label="Blank placeholder"></span> , Default by the Contractor, of general conditions <span class="blankline" aria-label="Blank placeholder"></span> , on the following grounds:</p>
+<p>This is further to the Stop Work Order dated <span aria-label="Blank placeholder" class="blankline"></span> <strong><em>(delete this paragraph if no Stop Work Order was sent by the Contracting Authority).</em></strong></p>
+<p>In accordance with the unrestricted right of Canada to terminate the Contract in part for default if the Contractor is in default in carrying out any of its obligations under the Contract, the Contracting Authority notifies the Contractor that the following part of the Contract is terminated pursuant to section <span aria-label="Blank placeholder" class="blankline"></span> , Default by the Contractor, of general conditions <span aria-label="Blank placeholder" class="blankline"></span> , on the following grounds:</p>
 <p><strong><em>(Insert the terminated part(s) and the grounds for terminating the contract in part for default.)</em></strong></p>
 <p>The Contractor must continue with the rest of the Work in accordance with the Contract.</p>
 <p>Canada reserves its right under the Contract to charge the Contractor for all losses and damages which  Canada may suffer by reason of the default, including any amount in excess of the Contract Price which Canada may be obliged to pay in procuring the goods,  services or both related to the part of the Contract being terminated elsewhere.</p>

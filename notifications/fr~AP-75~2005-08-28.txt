@@ -2,13 +2,12 @@
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-75</h2>
-
 <div class="critical">
 <h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
-<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
 <!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>Date : le 28 août 2005</h3>
 <p>Travaux publics et Services gouvernementaux Canada (TPSGC) fait appel à différentes méthodes pour répondre à ses besoins dans le domaine des achats. L'ensemble de ces méthodes<sup><a id="AP-75b1" name="b1"></a><a href="#AP-75f1">1</a></sup> comprend aussi bien les contrats définissant exactement les biens et les services à fournir à des clients en particulier avant des dates précises que différents cadres d'achats à appliquer par des ministères et des organismes plus ou moins nombreux, pour des besoins parfois moins précis ou moins bien définis. Cette dernière catégorie comprend les offres à commandes, les arrangements en matière d'approvisionnement et les contrats dont les éléments sont activés par des autorisations des tâches.</p>
@@ -193,7 +192,7 @@
 <li>L'autorité d'approvisionnement doit inclure les dispositions suivantes, qui sont propres au MDN, au formulaire PWGSC-TPSGC 9200 :<br/>
 <ol type="a">
 <li><em>Exigence d'utilisation de l'autorisation de travail MDN 626 :</em>
-<p><em>a présente demande porte sur le besoin, pour le MDN, d'autoriser l'entrepreneur à exécuter une partie ou l'entièreté des travaux au fur et à mesure des besoins selon les conditions du contrat. Le MDN émettra une autorisation de travail MDN 626 afin d'autoriser l'exécution des travaux. Le seuil requis du Ministère, pour chaque autorisation MDN 626, est de <span class="blankline" aria-label="Espace réservé vide"></span> $*, modifications comprises. Les travaux dépassant cette limite seront transmis à l'autorité contractante aux fins de son examen et de sa signature dans le bloc-signature de TPSGC sur le formulaire MDN 626 avant la remise à l'entrepreneur.</em></p>
+<p><em>a présente demande porte sur le besoin, pour le MDN, d'autoriser l'entrepreneur à exécuter une partie ou l'entièreté des travaux au fur et à mesure des besoins selon les conditions du contrat. Le MDN émettra une autorisation de travail MDN 626 afin d'autoriser l'exécution des travaux. Le seuil requis du Ministère, pour chaque autorisation MDN 626, est de <span aria-label="Espace réservé vide" class="blankline"></span> $*, modifications comprises. Les travaux dépassant cette limite seront transmis à l'autorité contractante aux fins de son examen et de sa signature dans le bloc-signature de TPSGC sur le formulaire MDN 626 avant la remise à l'entrepreneur.</em></p>
 <p>* La somme citée ici devrait être fixée par le RT et représenter la limite moyenne attendue des dépenses de la majorité des tâches. Bien que les seuils soient assujettis à des négociations entre l'agent des contrats de TPSGC et l'autorité d'approvisionnement du MDN, s'il est nécessaire de modifier le seuil demandé au formulaire PWGSC-TPSGC 9200, il faudra déployer tous les efforts possibles pour maintenir ce seuil à un niveau où la majorité des tâches demeureront approuvées par le MDN afin de préserver l'efficience de ce processus administratif et de prévenir la duplication des efforts entre les deux ministères.</p>
 </li>
 <li><em>Processus administratif propres au formulaire MDN 626</em>
@@ -232,7 +231,7 @@
 <ol class="upper-roman double-space">
 <li>Dans la présente clause,
 <p>Par « valeur maximale du contrat », on entend le montant indiqué à la clause Limite des dépenses énoncée dans le présent Contrat;</p>
-<p>Par « valeur minimale du contrat », on entend  <span class="blankline" aria-label="Espace réservé vide"></span>  de la valeur maximale du contrat.</p>
+<p>Par « valeur minimale du contrat », on entend  <span aria-label="Espace réservé vide" class="blankline"></span>  de la valeur maximale du contrat.</p>
 </li>
 <li>Selon les conditions du contrat, l'entrepreneur fournira au Canada les travaux décrits dans le présent contrat au fur et à mesure que le demandera le Canada pendant la période contractuelle. L'obligation du Canada en vertu du présent contrat consiste à demander des travaux jusqu'à concurrence de la valeur minimale du contrat ou, au choix du Canada, de payer l'entrepreneur conformément à l'alinéa 3 à la fin du contrat. En contrepartie de cette obligation, l'entrepreneur convient de se tenir prêt, pendant toute la durée du contrat, à exécuter les travaux décrits dans le contrat. La responsabilité maximale du Canada à l'égard des travaux exécutés dans le cadre du contrat ne doit pas dépasser la valeur maximale du contrat, à moins d'une augmentation autorisée par écrit par le ministre.</li>
 <li>Si le Canada ne demande pas de travaux à un montant correspondant à la valeur minimale du contrat pendant la période contractuelle, le Canada paiera à l'entrepreneur la différence entre la valeur minimale du contrat et le coût des travaux demandés.</li>

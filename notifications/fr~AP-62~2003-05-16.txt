@@ -2,13 +2,12 @@
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-62</h2>
-
 <div class="critical">
 <h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
-<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
 <!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 16 mai 2003</h3>
 <p>Le représentant du ministère de la Défense nationale (MDN) et Travaux publics et Services gouvernementaux Canada (TPSGC) ont conclu un accord de principe pour appliquer, dans toute la mesure du possible, la méthode FCA « franco transporteur (... lieu convenu) » des Incoterms, plutôt que la méthode « franco bord (FOB) usine », pour tous les contrats du MDN attribués selon le principe du fournisseur unique et pour l'ensemble des contrats de préparation et de révision (R et R) lorsque le transport ne fait pas partie d'une offre déposée en régime de concurrence. Les Incoterms en vigueur sont les Incoterms 2000, appelés dans les présentes les « FCA ». Il a été entendu que le MDN gérera la logistique interne de ces contrats, puisqu'il prendra la responsabilité des dispositions à prendre pour le transport et qu'il assumera les risques connexes, en devenant l'importateur inscrit, et qu'il pourra se prévaloir des décrets de remise. Pour les contrats de ventes militaires étrangères aux États-Unis seulement (et non pour tous les contrats réalisés aux États-Unis), on continuera d'appliquer les modalités FOB usine et le MDN gérera également la logistique interne de ces contrats.</p>
@@ -164,12 +163,12 @@
 <h5>C2600C xx/xx/xx Droits de douane - aéronef</h5>
 <p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT.</strong> Utiliser la clause suivante dans les contrats attribués en régime de concurrence, pour l'équipement d'aéronefs ou d'appareils aéroportés d'aéronef, selon les principes distincts des modalités FCA franco transporteur (... lieu convenu) des Incoterms 2000.</p>
 <h5>Texte :</h5>
-<p>Les articles <span class="blankline" aria-label="Espace réservé vide"></span> , tels que spécifiés par le ministère de la Défense nationale, doivent servir à équiper des aéronefs ou des appareils aéroportés d'aéronef. Les droits de douane du Canada pour ces articles ne sont pas compris dans le prix contractuel. Si <strong>imputable</strong>, les droits de douane sont en sus et seront acquittés par l'entrepreneur qui sera remboursé du montant des droits de douane payés ainsi que de la taxe de vente payée à l'importation, sur présentation d'une facture et des documents de douane à l'appui.</p>
+<p>Les articles <span aria-label="Espace réservé vide" class="blankline"></span> , tels que spécifiés par le ministère de la Défense nationale, doivent servir à équiper des aéronefs ou des appareils aéroportés d'aéronef. Les droits de douane du Canada pour ces articles ne sont pas compris dans le prix contractuel. Si <strong>imputable</strong>, les droits de douane sont en sus et seront acquittés par l'entrepreneur qui sera remboursé du montant des droits de douane payés ainsi que de la taxe de vente payée à l'importation, sur présentation d'une facture et des documents de douane à l'appui.</p>
 <hr/>
 <h5>C2600T xx/xx/xx Droits de douane - aéronef</h5>
 <p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT.</strong> Utiliser la clause suivante dans les demandes de soumission, pour l'équipement d'aéronefs ou d'appareils aéroportés d'aéronef, selon les principes distincts des modalités FCA franco transporteur (... lieu convenu) des Incoterms 2000.</p>
 <h5>Texte :</h5>
-<p>Les articles <span class="blankline" aria-label="Espace réservé vide"></span> , tels que spécifiés par le ministère de la Défense nationale, doivent servir à équiper des aéronefs ou des appareils aéroportés d'aéronef; par conséquent, les prix proposés doivent comprendre les droits de douane.</p>
+<p>Les articles <span aria-label="Espace réservé vide" class="blankline"></span> , tels que spécifiés par le ministère de la Défense nationale, doivent servir à équiper des aéronefs ou des appareils aéroportés d'aéronef; par conséquent, les prix proposés doivent comprendre les droits de douane.</p>
 <hr/>
 <h5>C2601D xx/xx/xx Droits de douane - l'entrepreneur est l'importateur</h5>
 <p><strong>Remarques :</strong> Utiliser la clause suivante dans les demandes de soumission et les contrats d'approvisionnements de défense lorsque l'entrepreneur est l'importateur et que la valeur du contrat dépassera 250 000 $CAN.</p>
@@ -214,7 +213,7 @@
 <p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT.</strong> Ne pas utiliser la clause suivante pour les marchés du ministère de la Défense nationale comportant des modalités FCA franco transporteur (... lieu convenu) des Incoterms 2000.</p>
 <p>Utiliser la clause suivante si la clause C5200T a été utilisée et si les instructions d'expédition qui ont été fournies par la Direction de la gestion des transports étaient différentes de celles proposées et inscrites par l'entrepreneur.</p>
 <h5>Texte :</h5>
-<p>La marchandise doit être expédiée payée d'avance via <span class="blankline" aria-label="Espace réservé vide"></span>  y compris tous les frais de livraison à <span class="blankline" aria-label="Espace réservé vide"></span> . Les frais de transport, payés d'avance, doivent être inscrits séparément sur la facture, avec, à l'appui, une copie certifiée de la facture de transport acquittée.</p>
+<p>La marchandise doit être expédiée payée d'avance via <span aria-label="Espace réservé vide" class="blankline"></span>  y compris tous les frais de livraison à <span aria-label="Espace réservé vide" class="blankline"></span> . Les frais de transport, payés d'avance, doivent être inscrits séparément sur la facture, avec, à l'appui, une copie certifiée de la facture de transport acquittée.</p>
 <hr/>
 <h5>C5200T xx/xx/xx Frais de transport - information</h5>
 <p><strong>Remarques :</strong> Ne pas utiliser la clause suivante pour les marchés du ministère de la Défense nationale.</p>
@@ -241,9 +240,9 @@
 <p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT.</strong> Ne pas utiliser la clause suivante pour les marchés du ministère de la Défense nationale.</p>
 <p>Utiliser la clause suivante dans les contrats, les offres à commandes et les commandes subséquentes pour lesquels le Canada sera responsable de tous les frais de livraison et d'administration, de tous les coûts et risques liés au transport ainsi que du dédouanement et des droits de douane (s'il y a lieu). Dans la première zone libre, préciser le type de document (à savoir le contrat, l'offre à commandes ou la commande subséquente) et dans la deuxième zone libre, les coordonnées de l'usine.</p>
 <h5>Texte :</h5>
-<p>1. Les marchandises seront expédiées au point de destination précisé dans <span class="blankline" aria-label="Espace réservé vide"></span>  et seront livrées :</p>
+<p>1. Les marchandises seront expédiées au point de destination précisé dans <span aria-label="Espace réservé vide" class="blankline"></span>  et seront livrées :</p>
 <ol type="a">
-<li>franco bord (origine) transporteur <span class="blankline" aria-label="Espace réservé vide"></span>  pour les expéditions en provenance du gouvernement des États-Unis;</li>
+<li>franco bord (origine) transporteur <span aria-label="Espace réservé vide" class="blankline"></span>  pour les expéditions en provenance du gouvernement des États-Unis;</li>
 <li>FCA franco transporteur (... lieu convenu, à savoir l'installation de l'entrepreneur) des Incoterms 2000 pour les expéditions en provenance d'un fournisseur commercial.</li>
 </ol>
 <p>2. Le Canada sera responsable de tous les frais de transport, de l'administration, des coûts et des risques du transport, ainsi que du dédouanement et des droits de douane (le cas échéant).</p>
@@ -252,9 +251,9 @@
 <p><strong>Remarques :</strong> Ne pas utiliser la clause suivante pour les marchés du ministère de la Défense nationale.</p>
 <p>Utiliser la clause suivante lorsque l'entrepreneur est responsable de tous les frais de livraison, de l'administration, des coûts et des risques du transport, ainsi que du dédouanement, dont le paiement des droits de douane et des taxes.</p>
 <h5>Texte :</h5>
-<p>1. Les marchandises seront expédiées au point de destination précisé dans <span class="blankline" aria-label="Espace réservé vide"></span>  et seront livrées :</p>
+<p>1. Les marchandises seront expédiées au point de destination précisé dans <span aria-label="Espace réservé vide" class="blankline"></span>  et seront livrées :</p>
 <ol type="a">
-<li>franco bord (destination) transporteur <span class="blankline" aria-label="Espace réservé vide"></span>  pour les expéditions en provenant du gouvernement des États-Unis;</li>
+<li>franco bord (destination) transporteur <span aria-label="Espace réservé vide" class="blankline"></span>  pour les expéditions en provenant du gouvernement des États-Unis;</li>
 <li>rendu droits acquittés (DDP) (... lieu de destination convenu) selon les Incoterms 2000 pour les expéditions en provenance d'un fournisseur commercial.</li>
 </ol>
 <p>2. L'entrepreneur sera responsable de l'ensemble des frais de livraison, de l'administration, des coûts et des risques du transport et du dédouanement, ainsi que du paiement des droits de douane et des taxes.</p>

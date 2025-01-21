@@ -2,13 +2,12 @@
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-62U2</h2>
-
 <div class="critical">
 <h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
-<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
 <!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : <strong>9 juillet 2007</strong></h3>
 <h4>Introduction</h4>
@@ -82,7 +81,7 @@
 <p><strong>Texte :</strong></p>
 <ol>
 <li>
-<p>La livraison doit s'effectuer FCA franco transporteur <span class="blankline" aria-label="Espace réservé vide"></span>  (<strong><em>Insérer le nom du lieu convenu, par ex. l'établissement de l'entrepreneur</em></strong>) selon les <span lang="en">Incoterms 2000</span>. <em>L'entrepreneur doit charger les biens dans les véhicules de l'entreprise de transport désigné par le ministère de la Défense nationale (MDN).</em> Le Canada est responsable par la suite du transport des biens, du point de livraison jusqu'au destinataire.</p>
+<p>La livraison doit s'effectuer FCA franco transporteur <span aria-label="Espace réservé vide" class="blankline"></span>  (<strong><em>Insérer le nom du lieu convenu, par ex. l'établissement de l'entrepreneur</em></strong>) selon les <span lang="en">Incoterms 2000</span>. <em>L'entrepreneur doit charger les biens dans les véhicules de l'entreprise de transport désigné par le ministère de la Défense nationale (MDN).</em> Le Canada est responsable par la suite du transport des biens, du point de livraison jusqu'au destinataire.</p>
 </li>
 <li>
 <p>Avant l'expédition des biens, l'entrepreneur doit aviser la personne-ressource ci-dessous en matière de logistique intégrée du MDN par téléphone, télécopieur ou courriel afin d'arranger l'expédition et fournir l'information détaillée à l'article 3.</p>
@@ -148,7 +147,7 @@
 <p><strong>Texte :</strong></p>
 <ol>
 <li>
-<p>La livraison doit s'effectuer FCA franco transporteur <span class="blankline" aria-label="Espace réservé vide"></span>  (<strong><em>Insérer le nom du lieu convenu, par ex. l'établissement de l'entrepreneur</em></strong>) selon les <span lang="en">Incoterms 2000</span>. <em>L'entrepreneur doit charger les biens dans les véhicules de l'entreprise de transport désigné par le ministère de la Défense nationale (MDN).</em> Le Canada est responsable par la suite du transport des biens, du point de livraison jusqu'au destinataire.</p>
+<p>La livraison doit s'effectuer FCA franco transporteur <span aria-label="Espace réservé vide" class="blankline"></span>  (<strong><em>Insérer le nom du lieu convenu, par ex. l'établissement de l'entrepreneur</em></strong>) selon les <span lang="en">Incoterms 2000</span>. <em>L'entrepreneur doit charger les biens dans les véhicules de l'entreprise de transport désigné par le ministère de la Défense nationale (MDN).</em> Le Canada est responsable par la suite du transport des biens, du point de livraison jusqu'au destinataire.</p>
 </li>
 <li>
 <p>Avant l'expédition des biens, l'entrepreneur doit aviser la personne-ressource ci-dessous en matière de logistique intégrée du MDN par téléphone, télécopieur ou courriel afin d'arranger l'expédition et fournir l'information détaillée à l'article 3.</p>

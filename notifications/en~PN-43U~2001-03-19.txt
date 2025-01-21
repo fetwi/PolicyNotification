@@ -140,7 +140,7 @@
 </tbody></table>
 <h3>Annex C</h3>
 <h4>Client Responsibilities</h4>
-<p>I, as the Director responsible for the project identified as <span class="blankline" aria-label="Blank placeholder"></span> , hereby certify that the Project Manager named below is fully qualified as to education and experience and has the necessary authority to carry out the responsibilities listed hereunder. It is agreed that PWGSC's current contracting practices and procedures will be strictly adhered to on this project.</p>
+<p>I, as the Director responsible for the project identified as <span aria-label="Blank placeholder" class="blankline"></span> , hereby certify that the Project Manager named below is fully qualified as to education and experience and has the necessary authority to carry out the responsibilities listed hereunder. It is agreed that PWGSC's current contracting practices and procedures will be strictly adhered to on this project.</p>
 <h5>Responsibilities</h5>
 <p>The Project Manager is responsible:</p>
 <ol type="i">
@@ -157,10 +157,10 @@
 <li>to provide <acronym title="Public Works and Government Services Canada">PWGSC</acronym> with all the necessary information related to the program and the project requested in order that <acronym title="Public Works and Government Services Canada">PWGSC</acronym> may conduct its internal contracting processes; and</li>
 <li>to participate in any claims negotiations and dispute resolution and to fund any settlements that may reached as a result of the performance of the work/services.</li>
 </ol>
-<p>Mr./Mrs./Ms <span class="blankline" aria-label="Blank placeholder"></span>  is hereby designated as Project Manager for the purposes of the work/services and may be reached at (__) <span class="blankline" aria-label="Blank placeholder"></span>  -<span class="blankline" aria-label="Blank placeholder"></span>  .</p>
-<p><span class="blankline" aria-label="Blank placeholder"></span> <br/>
+<p>Mr./Mrs./Ms <span aria-label="Blank placeholder" class="blankline"></span>  is hereby designated as Project Manager for the purposes of the work/services and may be reached at (__) <span aria-label="Blank placeholder" class="blankline"></span>  -<span aria-label="Blank placeholder" class="blankline"></span>  .</p>
+<p><span aria-label="Blank placeholder" class="blankline"></span> <br/>
 					Director</p>
-<p><span class="blankline" aria-label="Blank placeholder"></span> <br/>
+<p><span aria-label="Blank placeholder" class="blankline"></span> <br/>
 					Project Manager</p>
 <hr/>
 <div class="smallFont" id="PN-43Ufootnote">

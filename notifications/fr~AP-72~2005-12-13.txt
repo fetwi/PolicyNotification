@@ -2,13 +2,12 @@
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-72</h2>
-
 <div class="critical">
 <h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
-<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
 <!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 13 décembre 2005</h3>
 <h4>Introduction</h4>
@@ -170,7 +169,7 @@
 <h4>Remarques</h4>
 <p>À moins d'une autorisation de l'équipe responsable de la gestion des biens et des services responsable, utiliser la clause suivante dans les offres à commandes pluriministérielles (principales) ou dans les arrangements en matière d'approvisionnement lorsque plus d'un ministère est indiqué comme utilisateur de l'offre à commandes ou de l'arrangement en matière d'approvisionnement. Les agents de négociation des contrats doivent choisir entre les termes « offre à commandes » ou « arrangement en matière d'approvisionnement », et les termes « offrant » (pour une offre à commandes) et « fournisseur » (pour un arrangement en matière d'approvisionnement), selon le cas. L'agent de négociation des contrats doit annexer une liste des données dont l'entrepreneur doit rendre compte à la demande d'offre à commandes et aux offres à commandes qui en découlent, ou à la demande pour un arrangement en matière d'approvisionnement et aux arrangements en matière d'approvisionnement qui en découlent.</p>
 <h4>Texte</h4>
-<p>L'offrant / Le fournisseur doit compiler et tenir à jour des données sur l'utilisation des biens ou des services fournis au gouvernement fédéral dans le cadre de contrats découlant  d'une offre à commandes / arrangement en matière d'approvisionnement. Ces données doivent comprendre les achats commandés ou payés à l'aide d'une carte d'achat du gouvernement du Canada. À chaque trimestre, l'offrant / le fournisseur doit rassembler ces données et les soumettre à l'autorité contractante de Travaux publics et Services gouvernementaux Canada (TPSGC) responsable de l'offre à commandes /  arrangement en matière d'approvisionnement. Les données doivent inclure les données indiquées à l'annexe « <span class="blankline" aria-label="Espace réservé vide"></span>  ».</p>
+<p>L'offrant / Le fournisseur doit compiler et tenir à jour des données sur l'utilisation des biens ou des services fournis au gouvernement fédéral dans le cadre de contrats découlant  d'une offre à commandes / arrangement en matière d'approvisionnement. Ces données doivent comprendre les achats commandés ou payés à l'aide d'une carte d'achat du gouvernement du Canada. À chaque trimestre, l'offrant / le fournisseur doit rassembler ces données et les soumettre à l'autorité contractante de Travaux publics et Services gouvernementaux Canada (TPSGC) responsable de l'offre à commandes /  arrangement en matière d'approvisionnement. Les données doivent inclure les données indiquées à l'annexe « <span aria-label="Espace réservé vide" class="blankline"></span>  ».</p>
 <p>Les trimestres se répartissent comme suit : </p>
 <p>Premier trimestre : du 1er avril au 30 juin;<br/>
 			Deuxième trimestre : du 1er juillet au 30 septembre;<br/>

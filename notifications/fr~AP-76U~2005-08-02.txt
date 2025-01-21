@@ -2,13 +2,12 @@
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-76U</h2>
-
 <div class="critical">
 <h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
-<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
 <!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 2 août 2005</h3>
 <p>Dès maintenant, les agents de négociation des contrats peuvent utiliser les clauses M0000T et M0000C portant la date "2005-06-10", de concert avec la nouvelle clause M0100D, qui figure à l'Annexe A.  Les agents de négociation des contrats doivent utiliser la nouvelle clause M0100D dans leurs offres à commandes, avec la clause M0000T ou M0000C selon le cas, afin d'y incorporer par renvoi 9403-6, Instructions et conditions uniformisées – Offres à commandes.  Le texte de ces clauses doit figurer en entier dans les documents d'achat.</p>
@@ -23,7 +22,7 @@
 <h5>Remarques :</h5>
 <p><strong>Utiliser la clause suivante dans toutes les demandes d'offres à commande (DOC) et les autorisations de passer des commandes subséquentes à une offre à commandes (APCSOC), de concert avec la clause M0000T ou M0000C selon le cas, afin d'y incorporer par renvoi 9403-6, Instructions et conditions uniformisées – Offres à commandes.  Les agents de négociation des contrats doivent préciser la date de la version des instructions et conditions uniformisées.   Il est suggéré d'incorporer cette clause à la DOC ou à l'APCSOC immédiatement après la clause M0000T ou M0000C.</strong></p>
 <h5>Texte :</h5>
-<p><strong>9403-6 (<span class="blankline" aria-label="Espace réservé vide"></span> ), Instructions et conditions uniformisées – Offres à commandes, sont par les présentes intégrées par renvoi et font partie intégrante de ce document.</strong></p>
+<p><strong>9403-6 (<span aria-label="Espace réservé vide" class="blankline"></span> ), Instructions et conditions uniformisées – Offres à commandes, sont par les présentes intégrées par renvoi et font partie intégrante de ce document.</strong></p>
 <h4>M0000T (XXXX-XX-XX)   Instructions, conditions et clauses uniformisées – demandes d'offres à commandes</h4>
 <h5>Remarques :</h5>
 <p><strong>LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT.</strong></p>

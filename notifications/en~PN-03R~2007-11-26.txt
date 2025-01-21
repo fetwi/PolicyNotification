@@ -18,7 +18,7 @@
 <h4>Revisions to the Supply Manual</h4>
 <h5>Section 6A: Approval and Signing Authority Limits</h5>
 <h6>Treasury Board Approval</h6>
-<p>6A.005 <span class="red">(xxxx-xx-xx) Treasury Board</span> (TB) approval is required for any contract or contract amendment exceeding the limits outlined in <a href="https://buyandsell.gc.ca/policy-and-guidelines/supply-manual/section">6A.020</a> below.</p>
+<p>6A.005 <span class="red">(xxxx-xx-xx) Treasury Board</span> (TB) approval is required for any contract or contract amendment exceeding the limits outlined in <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual">6A.020</a> below.</p>
 <p>6A.006 <span class="red">(xxxx-xx-xx)</span> TB approval is required for service contracts with former public servants in receipt of a pension <span class="red">payable pursuant to the <em>Public Service Superannuation Act</em>, as indexed pursuant to the <em>Supplementary Retirement Benefits Act</em>:</span></p>
 <ol type="a">
 <li><span class="red">for both competitive and non-competitive contracts</span> if the total amount payable under the contract for any individual, including any amendments, exceeds $100,000; and</li>
@@ -27,8 +27,8 @@
 </ol>
 <p><span class="red">TB approval is also required whenever it is proposed to deviate from former public servant policies, including:</span></p>
 <ol type="a">
-<li class="red">increasing the fee limit that would apply to contracts with former public servants in receipt of a lump sum payment (see <a href="https://buyandsell.gc.ca/policy-and-guidelines/supply-manual/section/6d-482">6D.482</a>); and</li>
-<li class="red">increasing the maximum fee that would apply to non-competitive contracts with former public servants in receipt of a pension under the contract fee abatement policy (see <a href="https://buyandsell.gc.ca/policy-and-guidelines/supply-manual/section/6d-481">6D.481</a>).</li>
+<li class="red">increasing the fee limit that would apply to contracts with former public servants in receipt of a lump sum payment (see <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6">6D.482</a>); and</li>
+<li class="red">increasing the maximum fee that would apply to non-competitive contracts with former public servants in receipt of a pension under the contract fee abatement policy (see <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6">6D.481</a>).</li>
 </ol>
 <p>6A.007 to 6A.011: No changes.</p>
 <hr/>
@@ -63,7 +63,7 @@
 <p>No exceptions to the application of the formula or to the maximum rate allowed will be permitted without prior TB approval.</p>
 <p class="red">A "pension" in the context of the fee abatement formula is a pension or annual allowance paid under the <em>Public Service Superannuation Act </em>(PSSA) and any increases paid pursuant to the <em>Supplementary Retirement Benefits Act </em>as it affects the PSSA.  It does not include pensions payable pursuant to the <em>Canadian Forces Superannuation Act</em>, the <em>Defense Services Pension Continuation Act</em>, the <em>Royal Canadian Mounted Police Pension Continuation Act</em> and the <em>Royal Canadian Mounted Police Superannuation Act</em>, the <em>Members of Parliament Retiring Allowances Act</em> and that portion of pension payable pursuant to the <em>Canada Pension Plan Act</em>.</p>
 <h5 class="red">Former Public Servants in Receipt of a Lump Sum Payment</h5>
-<p>6D.482 (<span class="red">xxxx-xx-xx</span>) In addition to the requirements of the contract fee abatement policy for former public servants in receipt of a pension (see <a href="https://buyandsell.gc.ca/policy-and-guidelines/supply-manual/section/6d-481">6D.481</a>), the amount payable for professional fees when contracting with former public servants, whether they are in receipt of a pension or not, members of the Canadian Forces and members of the Royal Canadian Mounted Police, who have received a lump sum payment for employment termination under a <span class="red">workforce reduction program or adjustment initiative</span>, has been limited during the lump sum payment period.</p>
+<p>6D.482 (<span class="red">xxxx-xx-xx</span>) In addition to the requirements of the contract fee abatement policy for former public servants in receipt of a pension (see <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6">6D.481</a>), the amount payable for professional fees when contracting with former public servants, whether they are in receipt of a pension or not, members of the Canadian Forces and members of the Royal Canadian Mounted Police, who have received a lump sum payment for employment termination under a <span class="red">workforce reduction program or adjustment initiative</span>, has been limited during the lump sum payment period.</p>
 <p class="red">The contract fee limit policy does not apply if the contract is not specifically for the services of the former public servant.</p>
 <p>For purposes of this policy, the "lump sum payment period" is defined as the period measured in weeks of salary, for which payment has been made to facilitate the transition to retirement or to other employment <span class="red">as a result of the implementation of various programs to reduce the Public Service</span>. The lump sum payment period does not include the period of severance pay, which is measured in a like manner.</p>
 <p>6D.483 (<span class="red">xxxx-xx-xx</span>) <span class="red">For competitive or non-competitive service contracts awarded to a former public servant during the lump sum payment period, the total amount of fees that may be paid is $5,000, including the Goods and Services Tax or Harmonized Sales Tax.  This contract fee limit policy applies to all former public servants, including former members of the Canadian Forces and the Royal Canadian Mounted Police, in receipt of a lump sum payment.</span></p>
@@ -78,7 +78,7 @@
 <p>6E.662 (<span class="red">xxxx-xx-xx</span>) A formal Procurement Plan is normally prepared for:</p>
 <ol type="a">
 <li>all procurements estimated to exceed the approval levels of directors general;</li>
-<li>all procurements for the services of former public servants in receipt of a pension payable <span class="red">pursuant to the <em>Public Service Superannuation Act,</em> as indexed by the <em>Supplementary Retirement Benefits Act</em> </span>where the fee component is estimated to exceed $25,000 for non-competitive contracts or $100,000 for competitive <span class="red">contracts, and/or a lump sum payment under a workforce reduction program or adjustment initiative (see <a href="https://buyandsell.gc.ca/policy-and-guidelines/supply-manual/section/6a-006">6A.006</a>);</span></li>
+<li>all procurements for the services of former public servants in receipt of a pension payable <span class="red">pursuant to the <em>Public Service Superannuation Act,</em> as indexed by the <em>Supplementary Retirement Benefits Act</em> </span>where the fee component is estimated to exceed $25,000 for non-competitive contracts or $100,000 for competitive <span class="red">contracts, and/or a lump sum payment under a workforce reduction program or adjustment initiative (see <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6">6A.006</a>);</span></li>
 <li>all procurements which are considered to be sensitive or have significant socio-economic impact (i.e. which will or may require the Minister's involvement at some stage).</li>
 </ol>
 <p>The exclusions are the supply of <span class="red">edible agricultural products </span>for foreign aid programs, and Canadian Commercial Corporation contracts.</p>
@@ -112,7 +112,7 @@
 <p>8.035 to 8.040 No changes.</p>
 <h5>Negotiations</h5>
 <p>8.045 (1994-06-23) No changes.</p>
-<p class="red">8.046 (xxxx-xx-xx)  The fee abatement formula (see <a href="https://buyandsell.gc.ca/policy-and-guidelines/supply-manual/section/6d-481">6D.481</a>) must be used in negotiations with former public servants in receipt of a pension, who have been retired for less than one year, in order to determine the maximum fee payable. If a rate lower than the one arrived at using the formula is negotiated and agreed to, the negotiated rate should be used.</p>
+<p class="red">8.046 (xxxx-xx-xx)  The fee abatement formula (see <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6">6D.481</a>) must be used in negotiations with former public servants in receipt of a pension, who have been retired for less than one year, in order to determine the maximum fee payable. If a rate lower than the one arrived at using the formula is negotiated and agreed to, the negotiated rate should be used.</p>
 <hr/>
 <h3>Chapter 12 – Glossary</h3>
 <h4>former public servant</h4>

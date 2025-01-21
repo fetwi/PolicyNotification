@@ -314,8 +314,8 @@
 <p><strong>Note</strong>:The initial Notice of Termination, (J0200C or J0205C), does not require a legal opinion and may be approved and signed by the contracting officer in accordance with 11.145 of the Supply Manual.</p>
 <p><strong>Text:</strong></p>
 <p>This Notice confirms the Minister's Termination<br/>
-					Notice to you dated <span class="blankline" aria-label="Blank placeholder"></span>  in respect of the above-referenced Contract.<br/>
-					The termination is subject to section <span class="blankline" aria-label="Blank placeholder"></span>  ("Termination for Convenience"<br/>
+					Notice to you dated <span aria-label="Blank placeholder" class="blankline"></span>  in respect of the above-referenced Contract.<br/>
+					The termination is subject to section <span aria-label="Blank placeholder" class="blankline"></span>  ("Termination for Convenience"<br/>
 					provision) of the General Conditions of the Contract and it became effective<br/>
 					on the date of receipt by you of the said Termination Notice.</p>
 <p>You are requested to submit to the Contracting Authority, Department of Public Works and Government Services, for consideration, any claim which you may have as a result of this termination. Such claim and those of your subcontractors and/or suppliers, if any, are to be submitted on the prescribed departmental termination claim forms. On receipt of this Notice, you should apply in writing to the Contracting Authority for the required set of forms.</p>
@@ -327,7 +327,7 @@
 <p>A confirming Notice of Termination for Convenience shall be prepared by the Contracting Officer and shall be submitted to the Legal Advisor for review. Such Notice shall not be issued to the contractor until the Legal Advisor has applied and signed the "Reviewed by Legal Services" stamp on the confirming notice.</p>
 <p><strong>Note</strong>:The initial Notice of Termination (J0200C or J0205C), does not require a legal opinion and may be issued by the contracting officer in accordance with 11.145 of the Supply Manual.</p>
 <p><strong>Text:</strong></p>
-<p>This Notice confirms the Minister's Termination Notice to you dated <span class="blankline" aria-label="Blank placeholder"></span> , in respect only of Item <span class="blankline" aria-label="Blank placeholder"></span>  (part number, Federal Stock Number, description, quantity) of the above-referenced Contract. The termination became effective on the date of receipt by you of the said Termination Notice and it is subject to section <span class="blankline" aria-label="Blank placeholder"></span>  ("Termination for Convenience" provision) of the General Conditions of the Contract. You shall continue with the rest of the Work in accordance with the terms, conditions and specifications of the Contract.</p>
+<p>This Notice confirms the Minister's Termination Notice to you dated <span aria-label="Blank placeholder" class="blankline"></span> , in respect only of Item <span aria-label="Blank placeholder" class="blankline"></span>  (part number, Federal Stock Number, description, quantity) of the above-referenced Contract. The termination became effective on the date of receipt by you of the said Termination Notice and it is subject to section <span aria-label="Blank placeholder" class="blankline"></span>  ("Termination for Convenience" provision) of the General Conditions of the Contract. You shall continue with the rest of the Work in accordance with the terms, conditions and specifications of the Contract.</p>
 <p>You are requested to submit to the Contracting Authority, Department of Public Works and Government Services, for consideration, any claim which you may have as a result of this termination. Such claim and those of your subcontractors and/or suppliers, if any, are to be submitted on the prescribed departmental termination claim forms. On receipt of this Notice, you should apply in writing to the Contracting Authority for the required set of forms.</p>
 <p>In preparing such claim, your attention is drawn to the above-referenced section in the General Conditions of the Contract and to the "Instructions - Termination for Convenience", DSS-MAS 9403-2, in Section 1 of the Standard Acquisition Clauses and Conditions Manual. Your claim and all related correspondence are to be addressed to the Contracting Authority.</p>
 <p>Please confirm your receipt of this Notice by signing and returning a copy of this Notice to the Contracting Authority.</p>
@@ -337,7 +337,7 @@
 <p>A confirming Notice of Termination for Convenience shall be prepared by the Contracting Officer and shall be submitted to the Legal Advisor for review. Such Notice shall not be issued to the contractor until the Legal Advisor has applied and signed the "Reviewed by Legal Services" stamp on the confirming notice.</p>
 <p><strong>Note</strong>:The initial Notice of Termination(J0200C or J0205C), does not require a legal opinion and may be issued by the contracting officer in accordance with 11.145 of the Supply Manual.</p>
 <p><strong>Text:</strong></p>
-<p>This Notice confirms the Minister's Termination Notice to you dated <span class="blankline" aria-label="Blank placeholder"></span>  in respect of the above-referenced Contract. The termination is subject to section <span class="blankline" aria-label="Blank placeholder"></span>  ("Termination for Convenience" provision) of the General Conditions of the Contract and it became effective on the date of receipt by you of the said Termination Notice.</p>
+<p>This Notice confirms the Minister's Termination Notice to you dated <span aria-label="Blank placeholder" class="blankline"></span>  in respect of the above-referenced Contract. The termination is subject to section <span aria-label="Blank placeholder" class="blankline"></span>  ("Termination for Convenience" provision) of the General Conditions of the Contract and it became effective on the date of receipt by you of the said Termination Notice.</p>
 <p>You have advised that you do not propose to make any claim against Her Majesty the Queen in right of Canada or the Minister by reason of this termination. You hereby agree to release Her Majesty, the Minister and all their servants and agents from all claims and demands arising out of this termination or out of anything done or omitted to be done under the Contract.</p>
 <p>Please confirm your agreement with this termination on the above terms by signing and returning a copy of this Notice to the Contracting Authority.</p>
 <hr/>
@@ -346,63 +346,63 @@
 <p><strong>NOTE</strong>: The text of clause J0004D remains unchanged.</p>
 <hr/>
 <p><strong>J0005D (30/10/96) Termination for Convenience</strong></p>
-<p><strong>Remarks:</strong> The following clause is applicable to <span class="blankline" aria-label="Blank placeholder"></span> service contracts.</p>
+<p><strong>Remarks:</strong> The following clause is applicable to <span aria-label="Blank placeholder" class="blankline"></span> service contracts.</p>
 <p><strong>NOTE</strong>: The text of clause J0005D remains unchanged.</p>
 <hr/>
 <p><strong>J0200C (__/__/97) Notice of Termination for Convenience</strong></p>
 <p><strong>Remarks:</strong> Use the following text to stop the work using a telegraphic, facsimile or other written initial Notice of Termination for Convenience when the client has requested (in writing) the cancellation or termination of the entire contract.</p>
 <p><strong>Note</strong>:Your legal advisor need <strong>not </strong>be consulted at this stage if the termination is due to curtailment of funds, the discontinuance of a government program or circumstances that make the acquisition of the product or service unnecessary; however, your legal advisor must be consulted to review the confirming Notice of Termination.</p>
 <p><strong>Text:</strong></p>
-<p>The Minister of Public Works and Government Services hereby terminates Contract No. <span class="blankline" aria-label="Blank placeholder"></span>  in its entirety pursuant to the Termination for Convenience provisions of the Contract.</p>
+<p>The Minister of Public Works and Government Services hereby terminates Contract No. <span aria-label="Blank placeholder" class="blankline"></span>  in its entirety pursuant to the Termination for Convenience provisions of the Contract.</p>
 <p>You are directed by the Minister of Public Works and Government Services to stop immediately all Work related to this Contract, including the work of your subcontractors. You are to provide the Contracting Authority with current detailed status information and your estimate of termination claim, if any. You are to place no further orders and incur no further expense. A confirming Notice of Termination with additional information will follow.</p>
 <hr/>
 <p><strong>J0205C (__/__/97) Notice of Partial Termination for Convenience</strong></p>
 <p><strong>Remarks:</strong> Use the following text to stop the work using a telegraphic, facsimile or other written initial Notice of Termination for Convenience when the client has requested (in writing) the cancellation or termination of a portion of the contract.</p>
 <p><strong>Note</strong>:Your legal advisor need <strong>not</strong> be consulted at this stage if the termination is due to curtailment of funds, the discontinuance of a government program or circumstances that make the acquisition of the product or service unnecessary; however, your legal advisor must be consulted to review the confirming Notice of Partial Termination.</p>
 <p><strong>Text:</strong></p>
-<p>The Minister of Public Works and Government Services hereby partially terminates Contract No.<span class="blankline" aria-label="Blank placeholder"></span>  , in respect of Item No. <span class="blankline" aria-label="Blank placeholder"></span>  (part number, FSN, description, quantity) only, pursuant to the Termination for Convenience provisions of the Contract.</p>
+<p>The Minister of Public Works and Government Services hereby partially terminates Contract No.<span aria-label="Blank placeholder" class="blankline"></span>  , in respect of Item No. <span aria-label="Blank placeholder" class="blankline"></span>  (part number, FSN, description, quantity) only, pursuant to the Termination for Convenience provisions of the Contract.</p>
 <p>You are directed by the Minister of Public Works and Government Services to stop immediately all Work related to this Contract on the said Item, including the work of your subcontractors. You are to place no further orders and incur no further expense with respect to said Item. You are to provide the Contracting Authority with current detailed status information and your estimate of termination claim, if any. A confirming Notice of Partial Termination with additional information will follow.</p>
 <hr/>
 <p><strong>J0500C (__/__/97) Stop Work Order - Suspension of the Contract</strong></p>
 <p><strong>Remarks</strong>: Use the following text when preparing a telegraphic or facsimile Stop Work Order when the client has requested (in writing) a suspension of the contract in order to investigate the Crown's alternatives and/or a review of the contract status is required before deciding whether termination is appropriate and, if so, the type and extent of termination (including a Termination for Default).</p>
 <p><strong>Text:</strong></p>
-<p>This Stop Work Order is issued pursuant to section <span class="blankline" aria-label="Blank placeholder"></span>  ("Suspension of Work" provision) of the General Conditions, if any, in respect of Contract File No. <span class="blankline" aria-label="Blank placeholder"></span> .</p>
+<p>This Stop Work Order is issued pursuant to section <span aria-label="Blank placeholder" class="blankline"></span>  ("Suspension of Work" provision) of the General Conditions, if any, in respect of Contract File No. <span aria-label="Blank placeholder" class="blankline"></span> .</p>
 <p>You are directed by the Minister of Public Works and Government Services to stop immediately all Work related to this Contract, including the work of your subcontractors, until further notice by the Contracting Authority. You are to place no further orders and incur no further expense. You are also to provide the Contracting Authority with current detailed Contract status information.</p>
 <hr/>
 <p><strong>J1000C (__/__/97) Termination for Default</strong></p>
 <p><strong>Remarks</strong>: Use the following text when preparing a complete Termination for Default, only after a supporting legal opinion or approval from a Legal Advisor has been obtained, when the contractor fails to make deliveries in accordance with the terms, conditions or specifications of the contract.</p>
 <p><strong>Text:</strong></p>
-<p>This is further to the Minister's Stop Work Order dated <span class="blankline" aria-label="Blank placeholder"></span> . [Include this sentence only if a Stop Work Order was sent by the Contracting Officer.]</p>
+<p>This is further to the Minister's Stop Work Order dated <span aria-label="Blank placeholder" class="blankline"></span> . [Include this sentence only if a Stop Work Order was sent by the Contracting Officer.]</p>
 <p>As you are in default under the above-referenced Contract in that you have not delivered the supplies or services specified therein in accordance with the specifications, terms, and conditions of the Contract, the Minister of Public Works and Government Services hereby terminates the Contract pursuant to the Default provisions of the General Conditions forming part of the Contract.</p>
 <p>The Minister reserves Her Majesty's right under the Contract to charge you for all loss and damage which may be suffered by Her Majesty by reason of your default, including any amount in excess of the Contract Price which Her Majesty may be obliged to pay in procuring the said supplies and services elsewhere.</p>
 <hr/>
 <p><strong>J1001C (__/__/97) Termination for Default (Partial)</strong></p>
-<p>This is further to the Minister's Stop Work Order dated <span class="blankline" aria-label="Blank placeholder"></span> . [Include this sentence only if a Stop Work Order was sent by the Contracting Officer.]</p>
+<p>This is further to the Minister's Stop Work Order dated <span aria-label="Blank placeholder" class="blankline"></span> . [Include this sentence only if a Stop Work Order was sent by the Contracting Officer.]</p>
 <p>As you are in default under the above-referenced Contract in that you have not delivered certain items specified therein, in accordance with the specifications, terms, and conditions of the Contract, the Minister of Public Works and Government Services hereby partially terminates the Contract pursuant to the Default provisions of the General Conditions forming part of the Contract in respect of the following item(s) only:</p>
 <p>Description of items</p>
-<p><span class="blankline" aria-label="Blank placeholder"></span> </p>
-<p><span class="blankline" aria-label="Blank placeholder"></span> </p>
-<p><span class="blankline" aria-label="Blank placeholder"></span> </p>
+<p><span aria-label="Blank placeholder" class="blankline"></span> </p>
+<p><span aria-label="Blank placeholder" class="blankline"></span> </p>
+<p><span aria-label="Blank placeholder" class="blankline"></span> </p>
 <p>You shall continue with the rest of the work in accordance with the terms, conditions, and specifications of the Contract.</p>
 <p>The Minister reserves Her Majesty's right under the Contract to charge you for all loss and damage which may be suffered by Her Majesty by reason of your default, including any amount in excess of the Contract Price of the terminated item(s) which Her Majesty may be obliged to pay in procuring the said items elsewhere.</p>
 <hr/>
 <p><strong>J1003C (__/__/97) Termination for Default</strong></p>
-<p>This is further to our Stop Work Order dated <span class="blankline" aria-label="Blank placeholder"></span> . [Include this sentence only if a Stop Work Order was sent by the Contracting Officer.]</p>
+<p>This is further to our Stop Work Order dated <span aria-label="Blank placeholder" class="blankline"></span> . [Include this sentence only if a Stop Work Order was sent by the Contracting Officer.]</p>
 <p>As a direct result of your [bankruptcy, receivership, or insolvency] you are in default under the above-referenced Contract and, pursuant to the Default provisions of the General Conditions forming part of the Contract, the Minister of Public Works and Government Services hereby terminates the Contract in respect to all supplies and services described therein.</p>
 <p>The Minister reserves Her Majesty's right under the Contract to charge you for all loss and damage which may be suffered by Her Majesty by reason of your default, including any amount in excess of the Contract Price which Her Majesty may be obliged to pay in procuring the said supplies and services elsewhere.</p>
 <hr/>
 <p><strong>J1004C (__/__/97)Termination for Default</strong></p>
-<p>This is further to your facsimile/letter of <span class="blankline" aria-label="Blank placeholder"></span>  addressed to <span class="blankline" aria-label="Blank placeholder"></span> .</p>
+<p>This is further to your facsimile/letter of <span aria-label="Blank placeholder" class="blankline"></span>  addressed to <span aria-label="Blank placeholder" class="blankline"></span> .</p>
 <p>As you have indicated that you are unwilling or unable to deliver the supplies or services described in the above-referenced Contract in accordance with the specifications, terms and conditions of the Contract, the Minister of Public Works and Government Services hereby terminates the said Contract pursuant to the Default provisions of the General Conditions forming part of the Contract.</p>
 <p>The Minister reserves Her Majesty's right under the Contract to charge you for all loss and damage which may be suffered by Her Majesty by reason of your default, including any amount in excess of the Contract Price which Her Majesty may be obliged to pay in procuring the said supplies and services elsewhere.</p>
 <hr/>
 <p><strong>J1005C (__/__/97) Termination for Default - Partial</strong></p>
-<p>This is further to your facsimile/letter of <span class="blankline" aria-label="Blank placeholder"></span>  addressed to <span class="blankline" aria-label="Blank placeholder"></span>  .</p>
+<p>This is further to your facsimile/letter of <span aria-label="Blank placeholder" class="blankline"></span>  addressed to <span aria-label="Blank placeholder" class="blankline"></span>  .</p>
 <p>As you have indicated that you are unwilling or unable to deliver certain items specified in the above-referenced Contract in accordance with the specifications, terms and conditions of the Contract, the Minister of Public Works and Government Services hereby partially terminates the said Contract pursuant to the Default provisions of the General Conditions forming part of the Contract in respect of the following items(s) only:</p>
 <p>Description of Items</p>
-<p><span class="blankline" aria-label="Blank placeholder"></span> </p>
-<p><span class="blankline" aria-label="Blank placeholder"></span> </p>
-<p><span class="blankline" aria-label="Blank placeholder"></span> </p>
+<p><span aria-label="Blank placeholder" class="blankline"></span> </p>
+<p><span aria-label="Blank placeholder" class="blankline"></span> </p>
+<p><span aria-label="Blank placeholder" class="blankline"></span> </p>
 <p>You shall continue with the rest of the work in accordance with the terms, conditions and specifications of the Contract.</p>
 <p>The Minister reserves Her Majesty's right under the Contract to charge you for all loss and damage which may be suffered by Her Majesty by reason of your default, including any amount in excess of the Contract Price of the terminated item(s) which Her Majesty may be obliged to pay in procuring the items elsewhere.</p>
 <hr/>

@@ -184,7 +184,7 @@
 <li>14. Further Information</li>
 </ul>
 <h4>01. Procurement Business Number</h4>
-<p>Canadian suppliers are required to have a Procurement Business Number (PBN) before Contract award. Suppliers may register for a PBN in the Supplier Registration Information service on line at the Buy and Sell Internet site at: <a href="https://buyandsell.gc.ca/">https://buyandsell.gc.ca/</a>. For non-Internet registration, suppliers may contact the Buy and Sell InfoLine at 1-800-811-1148 or, in the National Capital Area at 819-956-3440, to obtain the telephone number of the nearest Supplier Registration Agent.</p>
+<p>Canadian suppliers are required to have a Procurement Business Number (PBN) before Contract award. Suppliers may register for a PBN in the Supplier Registration Information service on line at the Buy and Sell Internet site at: <a href="https://canadabuys.canada.ca/">https://buyandsell.gc.ca/</a>. For non-Internet registration, suppliers may contact the Buy and Sell InfoLine at 1-800-811-1148 or, in the National Capital Area at 819-956-3440, to obtain the telephone number of the nearest Supplier Registration Agent.</p>
 <h4>02. Instructions, Conditions and Clauses</h4>
 <p>Pursuant to the Department of Public Works and Government Services Act, S.C. 1996, c.16, the instructions, conditions and clauses identified by title, number and a date in the bid solicitation and resulting contract are incorporated by reference into and form part of the bid solicitation and resulting contract as though expressly set out in the bid solicitation and resulting contract.</p>
 <h4>03. Submission of Bids</h4>
@@ -356,14 +356,14 @@
 <p><strong>4.4.X Security Requirement<br/>
 </strong>(Remark to Contracting Authority: Insert and fill in the clause below if the Bidder has until contract award to obtain the necessary security clearances. See SM 6C.273.) <br/>
             Prior to contract award, the following conditions must be met:<br/>
-            (a) The Bidder must hold a valid <span class="blankline" aria-label="Blank placeholder"></span> , issued by the Canadian and International Industrial Security Directorate (CIISD) of Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>); and <br/>
-            (b) The Bidder's proposed individuals requiring access to <span class="blankline" aria-label="Blank placeholder"></span>  information, assets or sensitive work site(s) shall each hold a valid personnel security screening at the requisite level of <span class="blankline" aria-label="Blank placeholder"></span>  , granted or approved by the CIISD of <acronym title="Public Works and Government Services Canada">PWGSC</acronym>.</p>
+            (a) The Bidder must hold a valid <span aria-label="Blank placeholder" class="blankline"></span> , issued by the Canadian and International Industrial Security Directorate (CIISD) of Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>); and <br/>
+            (b) The Bidder's proposed individuals requiring access to <span aria-label="Blank placeholder" class="blankline"></span>  information, assets or sensitive work site(s) shall each hold a valid personnel security screening at the requisite level of <span aria-label="Blank placeholder" class="blankline"></span>  , granted or approved by the CIISD of <acronym title="Public Works and Government Services Canada">PWGSC</acronym>.</p>
 <p>Canada will not delay the award of any contract to allow bidders to obtain the required clearance.</p>
 <p>OR </p>
 <p>Remark to Contracting Authority: Insert and fill in the clause below if the Bidder must hold the necessary security clearances at the time of bid submission. See SM 6C.273.)<br/>
             At the time of bid submission, the following conditions must be met:<br/>
-            (a) The Bidder must hold a valid <span class="blankline" aria-label="Blank placeholder"></span> , issued by the Canadian and International Industrial Security Directorate (CIISD) of Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>); and <br/>
-            (b) The Bidder's proposed individuals requiring access to <span class="blankline" aria-label="Blank placeholder"></span>  information, assets or sensitive work site(s) shall each hold a valid personnel security screening at the requisite level of <span class="blankline" aria-label="Blank placeholder"></span> , granted or approved by the CIISD of <acronym title="Public Works and Government Services Canada">PWGSC</acronym>.</p>
+            (a) The Bidder must hold a valid <span aria-label="Blank placeholder" class="blankline"></span> , issued by the Canadian and International Industrial Security Directorate (CIISD) of Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>); and <br/>
+            (b) The Bidder's proposed individuals requiring access to <span aria-label="Blank placeholder" class="blankline"></span>  information, assets or sensitive work site(s) shall each hold a valid personnel security screening at the requisite level of <span aria-label="Blank placeholder" class="blankline"></span> , granted or approved by the CIISD of <acronym title="Public Works and Government Services Canada">PWGSC</acronym>.</p>
 <h4>5. Applicable Laws</h4>
 <p>Any resulting contract must be interpreted and governed, and the relations between the parties determined, by the laws in force in (The Contracting Authority must fill in the province or territory).</p>
 <p>The Bidder may, at its discretion, substitute the applicable laws of a Canadian province or territory of its choice without affecting the validity of its bid, by deleting the name of the Canadian province or territory specified and inserting the name of the Canadian province or territory of its choice. If no change is made, it acknowledges that the applicable laws specified are acceptable to the Bidder.</p>
@@ -639,7 +639,7 @@
 <p><em>2.1 SACC Manual clauses</em><br/>
             (Remark to Contracting Authority: Refer to information in Section 11, Communications - Solicitation Period, of 2003, Standard Instructions - Goods or Services.)</p>
 <h4>3. Enquiries - Bid Solicitation</h4>
-<p>All enquiries regarding the bid solicitation must be submitted in writing to the Contracting Authority no later than <span class="blankline" aria-label="Blank placeholder"></span>  (xx) calendar days prior to the bid closing date of the bid solicitation. Enquiries received after that time may not be answered prior to the bid closing date.</p>
+<p>All enquiries regarding the bid solicitation must be submitted in writing to the Contracting Authority no later than <span aria-label="Blank placeholder" class="blankline"></span>  (xx) calendar days prior to the bid closing date of the bid solicitation. Enquiries received after that time may not be answered prior to the bid closing date.</p>
 <h4>4. Applicable Laws</h4>
 <p>Any resulting contract must be interpreted and governed, and the relations between the parties determined, by the laws in force in (The Contracting Authority must fill in the province or territory).</p>
 <p>The Bidder may, at its discretion, substitute the applicable laws of a Canadian province or territory of its choice without affecting the validity of its bid, by deleting the name of the Canadian province or territory specified and inserting the name of the Canadian province or territory of its choice. If no change is made, it acknowledges that the applicable laws specified are acceptable to the Bidder.</p>
@@ -714,7 +714,7 @@
 <p> <em>4.2 SACC Manual clauses</em><br/>
             (Remark to Contracting Authority: If applicable, use and fill in.)</p>
 <p><em>4.3 Option To Extend Contract</em><br/>
-            The Contractor grants to Canada the irrevocable option to extend the period of the Contract by up to <span class="blankline" aria-label="Blank placeholder"></span>  additional <span class="blankline" aria-label="Blank placeholder"></span>  year period(s) under the same terms and conditions. Canada may exercise this option at any time by sending a written notice to the Contractor at least <span class="blankline" aria-label="Blank placeholder"></span>  calendar days prior to the Contract expiry date, or any extension of the contract.</p>
+            The Contractor grants to Canada the irrevocable option to extend the period of the Contract by up to <span aria-label="Blank placeholder" class="blankline"></span>  additional <span aria-label="Blank placeholder" class="blankline"></span>  year period(s) under the same terms and conditions. Canada may exercise this option at any time by sending a written notice to the Contractor at least <span aria-label="Blank placeholder" class="blankline"></span>  calendar days prior to the Contract expiry date, or any extension of the contract.</p>
 <p>The Contractor agrees that, during the extended period of the Contract, the rates and prices will be in accordance with the provisions of the Contract.</p>
 <p>The option may only be exercised by the Contracting Authority, and will be evidenced for administrative purposes only, through a formal contract amendment.</p>
 <h4>5. Authorities</h4>
@@ -797,14 +797,14 @@
 <h4>PART 4. SECURITY REQUIREMENT</h4>
 <p>(Remark to Contracting Authority: Insert and fill in the clause below if the Bidder has until contract award to obtain the necessary security clearances. See SM 6C.273.) </p>
 <p>Prior to contract award, the following conditions must be met:</p>
-<p>(a) The Bidder must hold a valid <span class="blankline" aria-label="Blank placeholder"></span> , issued by the Canadian and International Industrial Security Directorate (CIISD) of Public Works and<br/>
+<p>(a) The Bidder must hold a valid <span aria-label="Blank placeholder" class="blankline"></span> , issued by the Canadian and International Industrial Security Directorate (CIISD) of Public Works and<br/>
             Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>); and <br/>
-            (b) The Bidder's proposed individuals requiring access to <span class="blankline" aria-label="Blank placeholder"></span> information, assets or sensitive work site(s) shall each hold a valid personnel security screening at the requisite level of <span class="blankline" aria-label="Blank placeholder"></span>  , granted or approved by the CIISD of <acronym title="Public Works and Government Services Canada">PWGSC</acronym>.</p>
+            (b) The Bidder's proposed individuals requiring access to <span aria-label="Blank placeholder" class="blankline"></span> information, assets or sensitive work site(s) shall each hold a valid personnel security screening at the requisite level of <span aria-label="Blank placeholder" class="blankline"></span>  , granted or approved by the CIISD of <acronym title="Public Works and Government Services Canada">PWGSC</acronym>.</p>
 <p>Canada will not delay the award of any contract to allow bidders to obtain the required clearance.</p>
 <p>Remark to Contracting Authority: Insert and fill in the clause below if the Bidder must hold the necessary security clearances at the time of bid submission. See SM 6C.273.)</p>
 <p>At the time of bid submission, the following conditions must be met:</p>
-<p>(a) The Bidder must hold a valid <span class="blankline" aria-label="Blank placeholder"></span> , issued by the Canadian and International Industrial Security Directorate (CIISD) of Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>); and <br/>
-            (b) The Bidder's proposed individuals requiring access to <span class="blankline" aria-label="Blank placeholder"></span> information, assets or sensitive work site(s) shall each hold a valid personnel security screening at the requisite level of <span class="blankline" aria-label="Blank placeholder"></span>  , granted or approved by the CIISD of <acronym title="Public Works and Government Services Canada">PWGSC</acronym>.</p>
+<p>(a) The Bidder must hold a valid <span aria-label="Blank placeholder" class="blankline"></span> , issued by the Canadian and International Industrial Security Directorate (CIISD) of Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>); and <br/>
+            (b) The Bidder's proposed individuals requiring access to <span aria-label="Blank placeholder" class="blankline"></span> information, assets or sensitive work site(s) shall each hold a valid personnel security screening at the requisite level of <span aria-label="Blank placeholder" class="blankline"></span>  , granted or approved by the CIISD of <acronym title="Public Works and Government Services Canada">PWGSC</acronym>.</p>
 <hr/>
 <h3>ANNEX X CERTIFICATIONS PRECEDENT TO CONTRACT AWARD</h3>
 <p>(Remark to Contracting Authority: Use Annex X Certifications Precedent to Contract Award in conjunction with the clause entitled 'Certifications Precedent to Contract Award , Section III. Certification Requirements.</p>
@@ -1089,12 +1089,12 @@
 <h3><a id="PN-71annc" name="annc"></a>Annex C<br/>
             Example of LDV requirement using LDV template</h3>
 <p>(Note: The clauses contained in this document were not reviewed.)<br/>
-            <span class="blankline" aria-label="Blank placeholder"></span> <br/>
+<span aria-label="Blank placeholder" class="blankline"></span> <br/>
             Solicitation No. - No. De solicitation Buyer ID - is. De l'acheteur<br/>
             W8485-xxxxxxxx XXXXX<br/>
             Client Ref. No. File No.- N° du dossier<br/>
             W8485-XXXXXXX XXXXXW8485-XXXXXXXX<br/>
-            <span class="blankline" aria-label="Blank placeholder"></span> </p>
+<span aria-label="Blank placeholder" class="blankline"></span> </p>
 <h3>PART 1 - INFORMATION AND INSTRUCTIONS</h3>
 <h4>1. Security Requirement</h4>
 <p>There is no security requirement associated with this requirement.</p>
@@ -1110,7 +1110,7 @@
 <p><em>3.1 Standard Instructions<br/>
 </em>2003 (2005-06-10) Standard Instructions - Goods or Services are included in this bid solicitation.</p>
 <h4>4. Submission of Bids</h4>
-<p><em>4.1 Bids must be submitted to the Contracting Authority identified in the bid solicitation and in Part 2 , clause 5, of the Resulting Contract Clauses by <span class="blankline" aria-label="Blank placeholder"></span> .</em></p>
+<p><em>4.1 Bids must be submitted to the Contracting Authority identified in the bid solicitation and in Part 2 , clause 5, of the Resulting Contract Clauses by <span aria-label="Blank placeholder" class="blankline"></span> .</em></p>
 <p><em>4.2 SACC Manual clauses</em><br/>
             A0020T(30/05/03) Bidder - Information - Information of Capabilities<br/>
             B4024T (2000/12/01) Stores Certifications</p>
@@ -1123,7 +1123,7 @@
 <p>4.4.2 Basis Of Selection<br/>
             The bid offering the lowest all inclusive firm price will be selected for contract award.</p>
 <p><em>4.5 Delivery Date</em><br/>
-            While delivery is requested by <span class="blankline" aria-label="Blank placeholder"></span> , the best delivery that is offered is <span class="blankline" aria-label="Blank placeholder"></span> .</p>
+            While delivery is requested by <span aria-label="Blank placeholder" class="blankline"></span> , the best delivery that is offered is <span aria-label="Blank placeholder" class="blankline"></span> .</p>
 <p><em>4.6 Aviation Parts - Condition and Certification of Deliverable End Items</em><br/>
             (XBD25TB, 26/02/04)</p>
 <p> <em>4.7 Requirements for Airworthiness Certification</em><br/>
@@ -1162,7 +1162,7 @@
             A9006D (21/06/99) Defence Contract</p>
 <h4>4. Term of Contract</h4>
 <p><em>4.1 Delivery<br/>
-</em>The Delivery date is <span class="blankline" aria-label="Blank placeholder"></span> .</p>
+</em>The Delivery date is <span aria-label="Blank placeholder" class="blankline"></span> .</p>
 <p><em>4.2 SACC Manual clauses</em><br/>
             C2801C (2004-12-10) Priority Rating - Canadian Contractors </p>
 <p><em>4.3 Accelerated Delivery</em><br/>
@@ -1180,7 +1180,7 @@
                 Mgen George R. Pearkes Building<br/>
                 101 Colonel By Drive<br/>
                 Ottawa, ON K1A OK2<br/>
-                Attention: <span class="blankline" aria-label="Blank placeholder"></span> </p>
+                Attention: <span aria-label="Blank placeholder" class="blankline"></span> </p>
 </li>
 <li>Copy 6: to the Quality Assurance Representative; </li>
 <li>Copy 7: to the Contractor;</li>
@@ -1196,26 +1196,26 @@
 <h4>5. Authorities </h4>
 <p><em>5.1 Contracting Authority</em><br/>
             The Contracting Authority is named below and is responsible for the management of the Contract.</p>
-<p><span class="blankline" aria-label="Blank placeholder"></span> <br/>
+<p><span aria-label="Blank placeholder" class="blankline"></span> <br/>
             Public Works and Government Services Canada<br/>
             Acquisitions Branch<br/>
-            <span class="blankline" aria-label="Blank placeholder"></span>  Directorate<br/>
-            <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-            Telephone: <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-            Facsimile: <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-            E-mail address: <span class="blankline" aria-label="Blank placeholder"></span> </p>
+<span aria-label="Blank placeholder" class="blankline"></span>  Directorate<br/>
+<span aria-label="Blank placeholder" class="blankline"></span> <br/>
+            Telephone: <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+            Facsimile: <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+            E-mail address: <span aria-label="Blank placeholder" class="blankline"></span> </p>
 <p><em>5.2 Contractor Contacts</em><br/>
             Name and telephone number of the person responsible for:<br/>
             General enquiries<br/>
-            Name: <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-            Telephone No. <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-            Facsimile No. <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-            E-mail address: <span class="blankline" aria-label="Blank placeholder"></span> </p>
+            Name: <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+            Telephone No. <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+            Facsimile No. <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+            E-mail address: <span aria-label="Blank placeholder" class="blankline"></span> </p>
 <p>Delivery follow-up<br/>
-            Name: <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-            Telephone No. <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-            Facsimile No. <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-            E-mail address: <span class="blankline" aria-label="Blank placeholder"></span> </p>
+            Name: <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+            Telephone No. <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+            Facsimile No. <span aria-label="Blank placeholder" class="blankline"></span> <br/>
+            E-mail address: <span aria-label="Blank placeholder" class="blankline"></span> </p>
 <h4>6. Basis of Payment</h4>
 <p><em>6.1 Basis of Payment</em><br/>
             The Contractor will be paid as follows:<br/>
@@ -1233,17 +1233,17 @@
 <li>The original and one copy to - Consignee</li>
 <li>One (1) copy to:<br/>
                   Department of Public Works and Government Services <br/>
-                  <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-                  <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-                  <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-                  <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-                  Attention: <span class="blankline" aria-label="Blank placeholder"></span> </li>
+<span aria-label="Blank placeholder" class="blankline"></span> <br/>
+<span aria-label="Blank placeholder" class="blankline"></span> <br/>
+<span aria-label="Blank placeholder" class="blankline"></span> <br/>
+<span aria-label="Blank placeholder" class="blankline"></span> <br/>
+                  Attention: <span aria-label="Blank placeholder" class="blankline"></span> </li>
 <li>One (1) copy to:<br/>
                   National Defence Headquarters<br/>
-                  <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-                  <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-                  <span class="blankline" aria-label="Blank placeholder"></span> <br/>
-                  Attention: <span class="blankline" aria-label="Blank placeholder"></span> </li>
+<span aria-label="Blank placeholder" class="blankline"></span> <br/>
+<span aria-label="Blank placeholder" class="blankline"></span> <br/>
+<span aria-label="Blank placeholder" class="blankline"></span> <br/>
+                  Attention: <span aria-label="Blank placeholder" class="blankline"></span> </li>
 </ol>
 </li>
 <li>Canada will only make payment upon receipt of a satisfactory invoice duly supported by specified release documents and any other documents called for under the Contract.</li>

@@ -30,7 +30,7 @@
 <hr/>
 <p><strong>Remarks: This clause must appear IN FULL TEXT in procurement documents</strong>. Use the following clause in conjunction with A9115D whenever the client department wishes to receive the contractor information directly, following contract award.</p>
 <p><strong>A9116D(xx/xx/98) T4A Information Reporting by Contractor</strong></p>
-<p>1. The Contractor shall provide the following information within <span class="blankline" aria-label="Blank placeholder"></span>  calendar days from date of award of the contract:</p>
+<p>1. The Contractor shall provide the following information within <span aria-label="Blank placeholder" class="blankline"></span>  calendar days from date of award of the contract:</p>
 <ol type="a">
 <li>the legal name of the entity or individual, as applicable, i.e. the name associated with the Social Insurance Number (SIN) or Business Number (BN), as well as the address and the postal code;</li>
 <li>the status of the Contractor, i.e. individual, partnership, or corporation;</li>
@@ -41,8 +41,8 @@
 <p>"I certify that I have examined the information provided above, including the legal name, address, and Revenue Canada identifier, (c) or (d) as applicable, and that it is correct and complete, and fully discloses the identification of this Contractor."</p>
 <p>2. The information is to be forwarded to the contact and address specified below, and where the required information includes a SIN, i.e. when the Contractor is an individual or in partnership, such information should be provided in an envelope marked "protected".</p>
 <p><strong>NOTE: (<em>Contracting Officer to insert contact and address specified by client</em>)</strong></p>
-<p>Contact: <span class="blankline" aria-label="Blank placeholder"></span> </p>
-<p>Address: <span class="blankline" aria-label="Blank placeholder"></span> </p>
+<p>Contact: <span aria-label="Blank placeholder" class="blankline"></span> </p>
+<p>Address: <span aria-label="Blank placeholder" class="blankline"></span> </p>
 <hr/>
 <p><strong>Remarks: This clause must appear IN FULL TEXT in procurement documents</strong>. Use the following clause in conjunction with A9115D whenever the client department wishes to contact contractors directly to obtain the required information.</p>
 <p><strong>A9117D(xx/xx/98) T4A Information - Direct Request by Client</strong></p>

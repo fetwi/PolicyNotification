@@ -2,13 +2,12 @@
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-03R</h2>
-
 <div class="critical">
 <h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
-<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
 <!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>Date : le 26 novembre 2007</h3>
 <h4>Introduction</h4>
@@ -20,14 +19,14 @@
 <p>Lors de l'attribution de contrats de services, les agents de négociation des contrats doivent inclure certaines clauses dans les demandes de soumissions et les demandes d'offres à commandes (concurrentielles ou non concurrentielles) pour s'assurer que les anciens fonctionnaires déclarent s'ils reçoivent ou non une pension et(ou) un paiement forfaitaire. Même s'il n'est pas obligatoire que les anciens fonctionnaires présentent une telle attestation au moment de la clôture des demandes, ils devront le faire avant l'attribution du contrat ou l'émission de l'offre à commandes.</p>
 <h4>Révisions</h4>
 <p>Voir à l'<a href="#AP-03Rannexa">annexe A</a> du présent document les changements au <em>Guide des approvisionnements</em>, qui seront  incorporés à une version prochaine du Guide.</p>
-<p>Voir à l'<a href="#AP-03Rannexb">annexe B</a> du présent document les changements au <em>guide des Clauses et conditions uniformisées d'achat</em>, lesquels seront incorporés à la Version 07-2 qui sortira le 30 novembre 2007. Précisons cependant qu'on intégrera également les changements applicables aux modèles uniformisés d'approvisionnement ministériels sur le site Web <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/lc-pl/index-fra.html">Documents uniformisés d'approvisionnement ministériels</a>.</p>
+<p>Voir à l'<a href="#AP-03Rannexb">annexe B</a> du présent document les changements au <em>guide des Clauses et conditions uniformisées d'achat</em>, lesquels seront incorporés à la Version 07-2 qui sortira le 30 novembre 2007. Précisons cependant qu'on intégrera également les changements applicables aux modèles uniformisés d'approvisionnement ministériels sur le site Web <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/lc-pl/index-fra.html">Documents uniformisés d'approvisionnement ministériels</a>.</p>
 <h4>Personne-ressource</h4>
 <p>S/O</p>
 <h3><a id="AP-03Rannexa" name="annexa"></a>Annexe A</h3>
 <h4>Révisions au guide des approvisionnements</h4>
 <h5>Section 6A : Limite des pouvoirs d'approbation et de signature</h5>
 <h6>Approbation du Conseil du Trésor</h6>
-<p>6A.005 <span class="red">(xxxx-xx-xx)</span> L'approbation du <span class="red">Conseil du Trésor </span>(CT) est requise pour tout contrat et toute modification au contrat dont la valeur dépasse la limite établie à la procédure <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/ga-sm/chapitre06-chapter06-fra.html">6A.020</a> ci-dessous.</p>
+<p>6A.005 <span class="red">(xxxx-xx-xx)</span> L'approbation du <span class="red">Conseil du Trésor </span>(CT) est requise pour tout contrat et toute modification au contrat dont la valeur dépasse la limite établie à la procédure <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-6">6A.020</a> ci-dessous.</p>
 <p>6A.006 <span class="red">(xxxx-xx-xx)</span> L'approbation du CT est requise pour les contrats de services avec des anciens fonctionnaires qui touchent une pension <span class="red">payable en vertu de la <em>Loi sur la pension de la fonction publique</em>, et indexée en vertu de la <em>Loi sur les prestations de retraite supplémentaires :</em></span></p>
 <ol type="a">
 <li><span class="red">pour les contrats concurrentiels et non concurrentiels</span>, si le montant total payable en vertu du contrat pour tout individu, y compris toute modification, dépasse 100 000 $; </li>
@@ -36,8 +35,8 @@
 </ol>
 <p><span class="red">L'approbation du CT est également requise dès qu'on propose de déroger aux politiques relatives aux anciens fonctionnaires, soit :</span></p>
 <ol class="red" type="a">
-<li>pour augmenter la limite des honoraires applicables aux contrats avec les anciens fonctionnaires qui ont reçu un paiement forfaitaire (voir <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/ga-sm/chapitre06-chapter06-fra.html#s6d-482">6D.482</a>); et</li>
-<li>pour augmenter la limite des honoraires applicables aux contrats non concurrentiels avec les anciens fonctionnaires touchant une pension dans le cadre de la politique de réduction des honoraires du contrat (voir <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/ga-sm/chapitre06-chapter06-fra.html#s6d-481">6D.481</a>).</li>
+<li>pour augmenter la limite des honoraires applicables aux contrats avec les anciens fonctionnaires qui ont reçu un paiement forfaitaire (voir <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-6">6D.482</a>); et</li>
+<li>pour augmenter la limite des honoraires applicables aux contrats non concurrentiels avec les anciens fonctionnaires touchant une pension dans le cadre de la politique de réduction des honoraires du contrat (voir <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-6">6D.481</a>).</li>
 </ol>
 <p>6A.007 à 6A.011 : Aucun changement.</p>
 <hr/>
@@ -72,7 +71,7 @@
 <p>Aucune exception à l'application de cette formule ou au taux maximal permis ne sera faite sans l'approbation au préalable du CT.</p>
 <p class="red">Une « pension » selon la formule de réduction des honoraires, représente une pension ou une allocation annuelle versée en vertu de la <em>Loi sur la pension dans la fonction publique</em> (LPFP) et toute augmentation versée en vertu de la <em>Loi sur les prestations de retraite supplémentaires</em> dans la mesure où elle touche la LPFP.  Elle ne comprend pas les pensions payables en vertu de la <em>Loi sur la pension de retraite des Forces canadiennes</em>, de la <em>Loi sur la continuation de la pension des services de défense</em>, de la <em>Loi sur la continuation de la pension de la Gendarmerie royale du Canada </em>et de la <em>Loi sur la pension de retraite de la Gendarmerie royale du Canada</em>, de la <em>Loi sur les allocations de retraite des parlementaires</em> et de cette partie de la pension payable en vertu de la <em>Loi sur le régime de pensions du Canada</em>.</p>
 <h5>Anciens fonctionnaires recevant un paiement forfaitaire</h5>
-<p>6D.482 <span class="red">(xxxx-xx-xx)</span> En plus des exigences relatives à la politique de réduction des honoraires du contrat visant les anciens fonctionnaires qui touchent une pension (voir <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/ga-sm/chapitre06-chapter06-fra.html#s6d-481">6D.481</a>), le montant à verser en honoraires professionnels aux anciens fonctionnaires, qu'ils touchent ou non une pension, aux membres des Forces canadiennes et aux membres de la Gendarmerie royale du Canada, qui ont reçu un paiement forfaitaire à la suite de leur cessation d'emploi relatif à un <span class="red">programme de réduction ou de réaménagement des effectifs</span>, a été limité pendant la période du paiement forfaitaire.</p>
+<p>6D.482 <span class="red">(xxxx-xx-xx)</span> En plus des exigences relatives à la politique de réduction des honoraires du contrat visant les anciens fonctionnaires qui touchent une pension (voir <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-6">6D.481</a>), le montant à verser en honoraires professionnels aux anciens fonctionnaires, qu'ils touchent ou non une pension, aux membres des Forces canadiennes et aux membres de la Gendarmerie royale du Canada, qui ont reçu un paiement forfaitaire à la suite de leur cessation d'emploi relatif à un <span class="red">programme de réduction ou de réaménagement des effectifs</span>, a été limité pendant la période du paiement forfaitaire.</p>
 <p class="red">La politique de limitation des honoraires du contrat ne s'applique pas si le contrat n'est pas spécifiquement pour les services d'anciens fonctionnaires.</p>
 <p>Aux fins de la présente politique, la « période du paiement forfaitaire » correspond à la période mesurée en semaines de salaire à l'égard de laquelle un paiement a été fait pour faciliter la transition vers la retraite ou un autre emploi <span class="red">suite à la mise en place des divers programmes de réduction des effectifs de la fonction publique.</span> La période du paiement forfaitaire ne comprend pas la période visée par l'indemnité de départ, qui se mesure de façon similaire.</p>
 <p>6D.483 <span class="red">(xxxx-xx-xx) Pour tous les contrats de services, concurrentiels ou non concurrentiels, attribués à un ancien fonctionnaire pendant la période du paiement forfaitaire, le montant total des honoraires qui peut être payé est limité à 5 000 $, incluant la taxe sur les produits et services ou la taxe de vente harmonisée.  Cette politique de limitation des honoraires du contrat s'applique à tous les anciens fonctionnaires, incluant les anciens membres des Forces canadiennes et de la Gendarmerie royale du Canada, qui ont reçu un paiement forfaitaire.</span></p>
@@ -87,7 +86,7 @@
 <p>6E.662 <span class="red">(xxxx-xx-xx)</span> Un plan d'achat formel est habituellement préparé dans le cas de :</p>
 <ol type="a">
 <li>tous les achats devant nécessiter une approbation d'un niveau supérieur à celui des directeurs généraux;</li>
-<li>tous les achats pour les services d'anciens fonctionnaires touchant une pension payable <span class="red">en vertu de la <em>Loi sur la pension dans la fonction publique</em>, et indexée en vertu de la <em>Loi sur les prestations de retraite supplémentaires</em></span>, lorsqu'il est estimé que les honoraires dépasseront 25 000 $ pour les contrats non concurrentiels, ou 100 000 $ pour les contrats <span class="red">concurrentiels, et(ou) d'un paiement forfaitaire relatif à un programme de réduction ou de réaménagement des effectifs (voir <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/ga-sm/chapitre06-chapter06-fra.html#s6a-006">6A.006</a>);</span></li>
+<li>tous les achats pour les services d'anciens fonctionnaires touchant une pension payable <span class="red">en vertu de la <em>Loi sur la pension dans la fonction publique</em>, et indexée en vertu de la <em>Loi sur les prestations de retraite supplémentaires</em></span>, lorsqu'il est estimé que les honoraires dépasseront 25 000 $ pour les contrats non concurrentiels, ou 100 000 $ pour les contrats <span class="red">concurrentiels, et(ou) d'un paiement forfaitaire relatif à un programme de réduction ou de réaménagement des effectifs (voir <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-6">6A.006</a>);</span></li>
 <li>tous les achats jugés comme étant de nature délicate ou qui ont d'importantes retombées socio-économiques (c.-à-d. qui exigeront ou pourraient exiger l'intervention du Ministre à une étape ou à une autre).</li>
 </ol>
 <p>Sont exclus les achats portant sur l'approvisionnement de <span class="red">produits agricoles comestibles</span> destinés aux programmes de l'aide extérieure, et les contrats conclus par la Corporation commerciale canadienne.</p>
@@ -120,7 +119,7 @@
 <p>8.035 à 8.040 Aucun changement.</p>
 <h5>Négociations</h5>
 <p>8.045 (1994-06-23) Aucun changement</p>
-<p class="red">8.046 (xxxx-xx-xx)  La formule de réduction des honoraires (voir <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/ga-sm/chapitre06-chapter06-fra.html#s6d-481">6D.481</a>) doit être utilisée lors des négociations avec d'anciens fonctionnaires qui reçoivent une pension, qui ont pris leur retraite il y a moins d'un an, afin de déterminer le montant maximal des honoraires qui doit être payé.  Si un taux inférieur à celui qu'on a calculé au moyen de la formule est négocié et accepté, le taux négocié devrait être utilisé.</p>
+<p class="red">8.046 (xxxx-xx-xx)  La formule de réduction des honoraires (voir <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-6">6D.481</a>) doit être utilisée lors des négociations avec d'anciens fonctionnaires qui reçoivent une pension, qui ont pris leur retraite il y a moins d'un an, afin de déterminer le montant maximal des honoraires qui doit être payé.  Si un taux inférieur à celui qu'on a calculé au moyen de la formule est négocié et accepté, le taux négocié devrait être utilisé.</p>
 <hr/>
 <h3>Chapitre 12 – Glossaire</h3>
 <h4>Ancien fonctionnaire</h4>

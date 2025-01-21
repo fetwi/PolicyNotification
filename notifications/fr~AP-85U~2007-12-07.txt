@@ -2,19 +2,18 @@
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-85U</h2>
-
 <div class="critical">
 <h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
-<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
 <!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>Date : le 7 décembre 2007</h3>
 <h4>Politique</h4>
 <p>L'avis relatif aux politiques (AP) 85U vise à mettre à jour les  instructions aux agents de négociation des contrats de Travaux publics et  Services gouvernementaux Canada (TPSGC) relativement au bloc sur la sécurité du  formulaire de demande <a href="http://publiservice-app.tpsgc-pwgsc.gc.ca/forms/index.cfm?fuseaction=search.details&amp;lang=f&amp;display=5451" rel="external">PWGSC-TPSGC 9200</a>.</p>
 <p>Jusqu'à ce que les systèmes financiers  des ministères clients soient modifiés pour inclure le bloc révisé sur la  sécurité du formulaire de demande PWGSC-TPSGC 9200, les agents de négociation  des contrats peuvent  accepter la version précédente du formulaire de demande PWGSC-TPSGC 9200 des  clients pourvu que ceux-ci fournissent une attestation conforme au libellé du  nouveau bloc sur la sécurité, soit en reproduisant le nouveau libellé sur la  sécurité (voir ci-dessous) dans le bloc des « Instructions spéciales »  du formulaire de demande PWGSC-TPSGC 9200, soit en présentant ce libellé dans  un document distinct.</p>
-<p>« No de demande  <span class="blankline" aria-label="Espace réservé vide"></span> </p>
+<p>« No de demande  <span aria-label="Espace réservé vide" class="blankline"></span> </p>
 <p>Sécurité :<br/>
 					Cette demande comprend-t-elle des exigences en  matière de sécurité?<br/>
 					(  ) Non (  ) Oui</p>
@@ -22,9 +21,9 @@
 					Si une LVERS est  requise, la joindre dûment complétée et signée à cette demande.</p>
 <p>Si une LVERS n'est pas requise, mais que  la demande comprend des exigences en matière de sécurité, expliquer la raison  dans la demande.</p>
 <p>Je, soussigné,  certifie que cette demande, y compris toute LVERS, décrit exactement les exigences en matière de  sécurité de ce besoin.</p>
-<p><span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+<p><span aria-label="Espace réservé vide" class="blankline"></span> <br/>
 					Signature (Obligatoire)</p>
-<p><span class="blankline" aria-label="Espace réservé vide"></span> <br/>
+<p><span aria-label="Espace réservé vide" class="blankline"></span> <br/>
 					Date »</p>
 <p>Les agents de négociation des contrats de TPSGC doivent voir à ce que  l'attestation sur la sécurité dûment remplie soit incluse dans chaque dossier  d'achat se rapportant à un besoin qui n'a pas encore fait l'objet d'un contrat.</p>
 <h4>Personne-ressource</h4>

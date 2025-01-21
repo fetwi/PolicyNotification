@@ -97,7 +97,7 @@
 <p><strong>Text:</strong></p>
 <p>Organizations that are subject to the Federal Contractors Program for Employment Equity (FCP-EE) but that have been declared ineligible to receive government contracts of goods and services over the threshold for solicitation of bids as set out in the <em>Government Contract Regulations</em> (GCRs) (currently $25,000 including applicable taxes) by Human Resources Development Canada-Labour (HRDC-Labour), either as a result of a finding of non-compliance by HRDC-Labour, or following their voluntary withdrawal from the FCP-EE) for a reason other than a reduction in their workforce, have been advised by HRDC-Labour that as a consequence of this action they are no longer eligible to receive any government contract over this threshold. Consequently, their certificate numbers have been cancelled and their names have been placed on HRDC-Labour's List of Ineligible Contractors. Bids from such organizations will be considered non-responsive.</p>
 <p>The bidder is required to certify that it has not been declared "ineligible" by HRDC-Labour to receive government contracts over the GCRs threshold for solicitation of bids (currently $25,000) as a result of a finding of non-compliance, or as a result of having voluntarily withdrawn from the FCP-EE for a reason other than a reduction in their workforce.</p>
-<p>Signature of authorized representative: <span class="blankline" aria-label="Blank placeholder"></span> .</p>
+<p>Signature of authorized representative: <span aria-label="Blank placeholder" class="blankline"></span> .</p>
 <p>The bidder acknowledges that the Minister shall rely on this certification to award the contract.  Should a verification by the Minister disclose a misrepresentation on the part of the bidder, the Minister shall have the right to treat any contract resulting from this bid as being in default.</p>
 <hr/>
 <p><strong>The following existing SACC Manual clause, referenced in 7A.127</strong> has been amended to include the certification from bidders that they have not been declared ineligible.</p>
@@ -112,9 +112,9 @@
 <li>(  ) is not subject to FCP-EE, having a workforce of less than 100 persons in Canada,</li>
 <li>(  ) is not subject to FCP-EE, being a regulated employer under the <em>Employment Equity Act</em>;</li>
 <li>(  ) is subject to the requirements of FCP-EE, having a workforce of 100 persons or more, but has not previously obtained a certificate number from HRDC-Labour, (having not bid on requirements of $200,000 or more), in which case a duly signed certificate of commitment is provided herewith (attached);</li>
-<li>(  ) is subject to FCP-EE, and has a valid certification number as follows: <span class="blankline" aria-label="Blank placeholder"></span>  (e.g. has not been declared "Ineligible Contractor" by HRDC-Labour).</li>
+<li>(  ) is subject to FCP-EE, and has a valid certification number as follows: <span aria-label="Blank placeholder" class="blankline"></span>  (e.g. has not been declared "Ineligible Contractor" by HRDC-Labour).</li>
 </ol>
-<p>Signature of authorized representative:  <span class="blankline" aria-label="Blank placeholder"></span> .</p>
+<p>Signature of authorized representative:  <span aria-label="Blank placeholder" class="blankline"></span> .</p>
 <p>3. If the bidder does not fall within the exceptions enumerated in 2. (a) or (b), the Program requirements <strong>do apply,</strong> and as such, the bidder is required to submit a Certificate of Commitment DULY SIGNED as referenced below or a valid Certificate number confirming its adherence to the FCP-EE.</p>
 <p>4. The bidder acknowledges that the Minister shall rely on this certification to award the contract.  Should a verification by the Minister disclose a misrepresentation on the part of the bidder, the Minister shall have the right to treat any contract resulting from this bid as being in default.</p>
 <p>5. In all cases, the bidder is required to produce evidence or supporting information on demand prior to contract award, if such evidence is not included with its bid.</p>

@@ -2,13 +2,12 @@
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h2 class="pn-content-title">Contenu de l'AP-79</h2>
-
 <div class="critical">
 <h3>Historique : ***</h3>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
-<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
+<p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
 <!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 10 juillet 2006</h3>
 <h4>Introduction</h4>
@@ -197,7 +196,7 @@
 <p>Parmi les méthodes d'approvisionnement utilisées par Travaux publics et des Services gouvernementaux Canada (TPSGC) pour répondre aux besoins des ministères et organismes, il y a celle qui consiste à demander à des fournisseurs de soumettre une offre à commandes pour la fourniture de biens, la prestation de services ou les deux pendant une période déterminée. TPSGC autorise ensuite des ministères et organismes particuliers à passer des commandes subséquentes à l'offre à commandes précisant les quantités exactes de biens ou le niveau de services qu'ils désirent commander à un moment particulier au cours de la période de validité de l'offre et conformément aux conditions préétablies.</p>
 <p>Le processus débute habituellement par la publication d'une demande d'offre à commandes (DOC) que les fournisseurs peuvent obtenir par l'entremise du Service électronique d'appels d'offres du gouvernement (SEAOG). Une DOC est une invitation aux fournisseurs à présenter une offre à commandes à TPSGC. Les quantités de biens, les niveaux de services et les dépenses estimatives précisés dans la DOC ne constituent qu'une approximation des besoins exprimés de bonne foi. Une DOC n'engage pas TPSGC à autoriser l'utilisation de l'offre à commandes ou à acheter des biens, services ou les deux ou à attribuer un contrat à cet effet. Une offre à commandes n'est pas un contrat. L'émission par TPSGC d'une autorisation de passer des commandes subséquentes à une offre à commandes (APCSOC) aux fournisseurs retenus et aux ministères et organismes autorisés à passer des commandes subséquentes ne constitue pas un engagement du Canada à commander les biens, services ou les deux offerts. Les ministères et les organismes pourraient passer une ou plusieurs commandes subséquentes à l'offre à commandes.</p>
 <h4>01. Numéro d'entreprise - approvisionnement</h4>
-<p>Les fournisseurs canadiens doivent avoir un numéro d'entreprise - approvisionnement (NEA) avant qu'une offre à commandes soit émise. Les fournisseurs peuvent s'inscrire pour obtenir un NEA du système Données d'inscription des fournisseurs (DIF) en se rendant sur le site Web d'<a href="https://achatsetventes.gc.ca/">Achats et Ventes</a>. Pour s'inscrire autrement que par Internet, les fournisseurs peuvent communiquer avec la LigneInfo d'Accès entreprises Canada au 1-800-811-1148 afin d'obtenir le numéro de téléphone de l'agent d'inscription des fournisseurs le plus près.</p>
+<p>Les fournisseurs canadiens doivent avoir un numéro d'entreprise - approvisionnement (NEA) avant qu'une offre à commandes soit émise. Les fournisseurs peuvent s'inscrire pour obtenir un NEA du système Données d'inscription des fournisseurs (DIF) en se rendant sur le site Web d'<a href="https://achatscanada.canada.ca/fr">Achats et Ventes</a>. Pour s'inscrire autrement que par Internet, les fournisseurs peuvent communiquer avec la LigneInfo d'Accès entreprises Canada au 1-800-811-1148 afin d'obtenir le numéro de téléphone de l'agent d'inscription des fournisseurs le plus près.</p>
 <h4>02. Instructions, clauses et conditions uniformisées</h4>
 <p>Conformément à la <em>Loi sur le ministère des<br/>
 					Travaux publics et des Services gouvernementaux</em>, L.C., 1996, ch. 16, les instructions, les clauses et les conditions identifiées dans la DOC, l'offre à commandes et contrat(s) subséquent(s) par un titre, un numéro et une date sont incorporées par renvoi et font partie intégrante de la DOC, de l'offre à commandes et de tout contrat découlant de l'offre à commandes comme si elles étaient formellement reproduites dans la DOC, l'offre à commandes et tout contrat subséquent. </p>
@@ -531,11 +530,11 @@
 <h4>1. Instructions, clauses et conditions uniformisées</h4>
 <p>Toutes les instructions, clauses et conditions identifiées dans la demande d'offre à commandes par un titre, un numéro et une date sont reproduites dans le guide des Clauses et conditions uniformisées d'achat publié par Travaux publics et Services gouvernementaux Canada (TPSGC). Le guide est disponible sur le site Web de TPSGC: <a href="http://sacc.tpsgc.gc.ca/sacc/index-f.jsp" rel="external">http://sacc.tpsgc.gc.ca/sacc/index-f.jsp</a>.</p>
 <p>Les offrants qui présentent une offre s'engagent à respecter les instructions, les clauses et les conditions de la DOC et acceptent les clauses et les conditions de l'offre à commandes et du contrat subséquent.</p>
-<p>2006 <span class="blankline" aria-label="Espace réservé vide"></span> <em><strong>(insérer la date)</strong></em> - Instructions uniformisées - demande d'offre à commandes - biens ou services, sont incorporées par renvoi à la DOC et en font partie intégrante. </p>
+<p>2006 <span aria-label="Espace réservé vide" class="blankline"></span> <em><strong>(insérer la date)</strong></em> - Instructions uniformisées - demande d'offre à commandes - biens ou services, sont incorporées par renvoi à la DOC et en font partie intégrante. </p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Il faut apporter la modification suivante au document 2006, Instructions uniformisées - demande d'offres à commandes - biens ou services, lorsque les offres doivent rester valables pendant plus de 60 jours. Le responsable de l'offre à commandes indiquera le nombre de jours pendant lesquels les offres doivent rester valides.</p>
 <p>Le paragraphe 3.4 du document 2006, Instructions uniformisées - demande d'offres à commandes - biens ou services, est modifiée comme suit : </p>
 <p>Supprimer : soixante (60) jours<br/>
-					Insérer : <em><span class="blankline" aria-label="Espace réservé vide"></span>  ()</em> jours</p>
+					Insérer : <em><span aria-label="Espace réservé vide" class="blankline"></span>  ()</em> jours</p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Inclure par renvoi les clauses du guide des CCUA qui ne font pas partie des instructions uniformisées, s'il y a lieu. Des clauses de la section « 5-M » du guide des CCUA qui se terminent avec « T » peuvent être ajoutées dans cette partie. Cependant, s'il n'y a pas de clause dans cette section pour une exigence particulière, les clauses d'autres sections du guide des CCUA dont le numéro se termine par un «T» (p. ex. AXXXXT, etc.) doivent être révisées en vue d'être incorporées dans cette partie.</p>
 <h5>1.1 Clauses du guide des CCUA</h5>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Consulter les articles 03 à 08 du document 2006, Instructions uniformisées - demande d'offres à commandes - biens ou services.</p>
@@ -549,18 +548,18 @@
 <h5>2.2 .......</h5>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Consulter l'article 11 du document 2006, Instructions uniformisées - demande d'offres à commandes - biens ou services. </p>
 <h4>3. Demandes de renseignements - DOC</h4>
-<p>Toutes les demandes de renseignements doivent être présentées au responsable de l'offre à commandes au moins <span class="blankline" aria-label="Espace réservé vide"></span>  (<span class="blankline" aria-label="Espace réservé vide"></span> ) <em><strong>(inscrire le nombre de jours civils)</strong></em> jours civils avant la date de clôture de la DOC. Pour ce qui est des demandes de renseignements reçues après ce délai, il est possible qu'on ne puisse pas y répondre avant la date de clôture de la DOC.</p>
+<p>Toutes les demandes de renseignements doivent être présentées au responsable de l'offre à commandes au moins <span aria-label="Espace réservé vide" class="blankline"></span>  (<span aria-label="Espace réservé vide" class="blankline"></span> ) <em><strong>(inscrire le nombre de jours civils)</strong></em> jours civils avant la date de clôture de la DOC. Pour ce qui est des demandes de renseignements reçues après ce délai, il est possible qu'on ne puisse pas y répondre avant la date de clôture de la DOC.</p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Indiquer la loi de quelle province ou de quel territoire le Canada propose d'appliquer à l'offre à commandes et à tout contrat subséquent. L'offrant, suivant les instructions, pourra proposer un changement aux lois applicables dans son offre. En ce qui concerne la version française, le mot « in » n'a pas été traduit puisqu'il n'y a pas de terme commun à toutes les provinces et territoire. Il faudra donc ajouter le mot « en » devant Alberta, Colombie-Britannique, Saskatchewan, Ontario et Nouvelle-Écosse, le mot « au » devant Manitoba, Québec, Nouveau-Brunswick et Yukon, le mot « à » devant Terre-Neuve et l'Ile-du-Prince-Édouard et les mots « dans les » devant Territoires du Nord Ouest.</p>
 <h4>4. Lois applicables</h4>
-<p>L'offre à commandes et tout contrat découlant de l'offre à commandes doivent être interprétés et régis selon les lois en vigueur <span class="blankline" aria-label="Espace réservé vide"></span> . <em>(Le responsable de l'offre à commandes doit indiquer la loi de la province ou de quel territoire.)</em></p>
+<p>L'offre à commandes et tout contrat découlant de l'offre à commandes doivent être interprétés et régis selon les lois en vigueur <span aria-label="Espace réservé vide" class="blankline"></span> . <em>(Le responsable de l'offre à commandes doit indiquer la loi de la province ou de quel territoire.)</em></p>
 <p>À sa discrétion, l'offrant peut indiquer les lois applicables d'une province ou d'un territoire canadien de son choix, sans que la validité de son offre ne soit mise en question, en supprimant le nom de la province ou le territoire canadien précisé et en insérant le nom de la province ou le territoire canadien de son choix. Si aucun changement n'est indiqué, cela signifie que l'offrant accepte les lois applicables indiquées.</p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Consulter les articles 03 à 08 du document 2006, Instructions uniformisées - demande d'offres à commandes - biens ou services.</p>
 <h3>PARTIE 3 - INSTRUCTIONS POUR LA PRÉPARATION DES OFFRES </h3>
 <h4>1. Instructions pour la préparation des offres</h4>
 <p>Les offrants doivent fournir les exemplaires de leur offre en sections distinctes, comme suit :</p>
-<p><strong>Section I :</strong> offre technique (<span class="blankline" aria-label="Espace réservé vide"></span>  exemplaires)<br/>
-<strong>Section II :</strong> offre financière (<span class="blankline" aria-label="Espace réservé vide"></span>  exemplaires)<br/>
-<strong>Section III : </strong>attestations exigées (<span class="blankline" aria-label="Espace réservé vide"></span>  exemplaires)</p>
+<p><strong>Section I :</strong> offre technique (<span aria-label="Espace réservé vide" class="blankline"></span>  exemplaires)<br/>
+<strong>Section II :</strong> offre financière (<span aria-label="Espace réservé vide" class="blankline"></span>  exemplaires)<br/>
+<strong>Section III : </strong>attestations exigées (<span aria-label="Espace réservé vide" class="blankline"></span>  exemplaires)</p>
 <p>Les prix doivent figurer dans l'offre financière seulement. Aucun prix ne doit être indiqué dans une autre section de l'offre.</p>
 <p>On demande aux offrants de suivre le modèle de réponse et les instructions suivantes :</p>
 <ol type="a">
@@ -579,8 +578,8 @@
 <dl>
 <dd>les cartes d'achat du gouvernement du Canada (cartes de crédit) seront acceptées pour le paiement des commandes subséquentes à l'offre à commandes.</dd>
 <dd>Les cartes de crédit suivantes sont acceptées :<br/>
-								VISA <span class="blankline" aria-label="Espace réservé vide"></span> <br/>
-								MasterCard <span class="blankline" aria-label="Espace réservé vide"></span> 
+								VISA <span aria-label="Espace réservé vide" class="blankline"></span> <br/>
+								MasterCard <span aria-label="Espace réservé vide" class="blankline"></span>
 <p> <strong>OU</strong></p></dd>
 <dt> </dt>
 </dl>
@@ -611,7 +610,7 @@
 </li>
 <li>Une équipe d'évaluation composée de représentants du Canada évaluera les offres.<br/>
 <p><strong>OU</strong></p>
-<p>Une équipe d'évaluation composée de représentants du Canada et <span class="blankline" aria-label="Espace réservé vide"></span>  <em><strong>(inscrire le nom de l'entreprise ou du consultant)</strong></em> évaluera les offres.</p>
+<p>Une équipe d'évaluation composée de représentants du Canada et <span aria-label="Espace réservé vide" class="blankline"></span> <em><strong>(inscrire le nom de l'entreprise ou du consultant)</strong></em> évaluera les offres.</p>
 <ol class="noBullet">
 <li><strong>1.1 Évaluation technique</strong><br/>
 <ol class="noBullet">
@@ -644,8 +643,8 @@
 <ol class="noBullet">
 <li>3.1 Les conditions suivantes doivent être respectées avant l'émission de l'offre à commandes :<br/>
 <ol type="a">
-<li>l'offrant doit détenir une <span class="blankline" aria-label="Espace réservé vide"></span>  valable, délivrée par la Direction de la sécurité industrielle et internationale (DSICI) de Travaux publics et Services gouvernementaux Canada (TPSGC);</li>
-<li>les employés proposés par l'offrant et qui doivent avoir accès à des renseignements ou à des biens <span class="blankline" aria-label="Espace réservé vide"></span>  ou à des établissements de travail dont l'accès est réglementé doivent tous être titulaires d'une cote de sécurité pour le personnel au niveau exigé de <span class="blankline" aria-label="Espace réservé vide"></span> , délivrée ou approuvée par la DSICI de TPSGC.</li>
+<li>l'offrant doit détenir une <span aria-label="Espace réservé vide" class="blankline"></span>  valable, délivrée par la Direction de la sécurité industrielle et internationale (DSICI) de Travaux publics et Services gouvernementaux Canada (TPSGC);</li>
+<li>les employés proposés par l'offrant et qui doivent avoir accès à des renseignements ou à des biens <span aria-label="Espace réservé vide" class="blankline"></span>  ou à des établissements de travail dont l'accès est réglementé doivent tous être titulaires d'une cote de sécurité pour le personnel au niveau exigé de <span aria-label="Espace réservé vide" class="blankline"></span> , délivrée ou approuvée par la DSICI de TPSGC.</li>
 </ol>
 <p>Le Canada ne retardera pas l'émission d'une offre à commandes pour permettre aux offrants d'obtenir les cotes de sécurité requises.</p>
 <p><strong>OU</strong></p>
@@ -653,8 +652,8 @@
 </li>
 <li>3.1 Au moment de la soumission de l'offre, les conditions suivantes doivent être respectées :<br/>
 <ol type="a">
-<li>L'offrant doit détenir une <span class="blankline" aria-label="Espace réservé vide"></span>  valable, délivrée par la Direction de la sécurité industrielle et internationale (DSICI) de Travaux publics et Services gouvernementaux Canada (TPSGC) ;</li>
-<li>les employés proposés par l'offrant et qui doivent avoir accès à des renseignements ou à des biens <span class="blankline" aria-label="Espace réservé vide"></span>  ou à des établissements de travail dont l'accès est réglementé doivent tous être titulaires d'une cote de sécurité pour le personnel au niveau exigé de <span class="blankline" aria-label="Espace réservé vide"></span> , délivrée ou approuvée par la DSICI de TPSGC.</li>
+<li>L'offrant doit détenir une <span aria-label="Espace réservé vide" class="blankline"></span>  valable, délivrée par la Direction de la sécurité industrielle et internationale (DSICI) de Travaux publics et Services gouvernementaux Canada (TPSGC) ;</li>
+<li>les employés proposés par l'offrant et qui doivent avoir accès à des renseignements ou à des biens <span aria-label="Espace réservé vide" class="blankline"></span>  ou à des établissements de travail dont l'accès est réglementé doivent tous être titulaires d'une cote de sécurité pour le personnel au niveau exigé de <span aria-label="Espace réservé vide" class="blankline"></span> , délivrée ou approuvée par la DSICI de TPSGC.</li>
 </ol>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes : </strong>S'il y a lieu, utilisez l'une des clauses détaillées sous cet article avec la clause pertinente de la section III, Attestations exigées.</p>
 </li>
@@ -716,11 +715,11 @@
 <p>Le guide est disponible sur le site Web de TPSGC: <a href="http://sacc.tpsgc.gc.ca/sacc/index-f.jsp" rel="external">http://sacc.tpsgc.gc.ca/sacc/index-f.jsp</a>.</p>
 <ol class="noBullet">
 <li><strong>3.1 Conditions générales</strong><br/>
-								2005 <span class="blankline" aria-label="Espace réservé vide"></span>  <em><strong>(insérer la date)</strong></em>, Conditions générales - offres à commandes - biens ou services, s'appliquent à la présente offre à commandes et en font partie intégrante.
+								2005 <span aria-label="Espace réservé vide" class="blankline"></span> <em><strong>(insérer la date)</strong></em>, Conditions générales - offres à commandes - biens ou services, s'appliquent à la présente offre à commandes et en font partie intégrante.
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> À moins d'une autorisation de l'équipe responsable de la gestion des biens et des services, utiliser la clause M7010C modifiée dans les offres à commandes pluriministérielles (principales) lorsque plus d'un ministère est indiqué comme utilisateur de l'offre à commandes. Le responsable de l'offre à commandes doit annexer une liste des données dont l'offrant doit rendre compte à l'offre à commandes. Le Bureau de gestion de la valeur, Secteur du renouvellement des approvisionnements, demande, à tout le moins, les éléments de données qui sont décrits dans le rapport sur le volume des transactions disponible à l'Index des offres à commandes.</p>
 </li>
 <li><strong>3.2 Offres à commandes - établissement de rapports</strong>
-<p>L'offrant doit compiler et tenir à jour des données sur l'utilisation des biens, des services ou les deux fournis au gouvernement fédéral dans le cadre de contrats découlant de l'offre à commandes. Ces données doivent comprendre les achats commandés, y compris les achats payés à l'aide d'une carte d'achat du gouvernement du Canada. À chaque trimestre, l'offrant doit rassembler ces données et les soumettre au responsable de l'offre à commandes de Travaux publics et Services gouvernementaux Canada (TPSGC). Les données doivent inclure les données indiquées à l'annexe «  <span class="blankline" aria-label="Espace réservé vide"></span>   ».</p>
+<p>L'offrant doit compiler et tenir à jour des données sur l'utilisation des biens, des services ou les deux fournis au gouvernement fédéral dans le cadre de contrats découlant de l'offre à commandes. Ces données doivent comprendre les achats commandés, y compris les achats payés à l'aide d'une carte d'achat du gouvernement du Canada. À chaque trimestre, l'offrant doit rassembler ces données et les soumettre au responsable de l'offre à commandes de Travaux publics et Services gouvernementaux Canada (TPSGC). Les données doivent inclure les données indiquées à l'annexe «  <span aria-label="Espace réservé vide" class="blankline"></span>   ».</p>
 <p>Les trimestres se répartissent comme suit :</p>
 <p>Premier trimestre : du 1er avril au 30 juin;<br/>
 									Deuxième trimestre : du 1er juillet au 30 septembre;<br/>
@@ -736,9 +735,9 @@
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes : </strong>La clause ci-après stipule que la commande subséquente doit être passée pendant la période de l'offre à commandes mais que les travaux visés par cette commande subséquente peuvent se poursuivre après l'échéance de l'offre à commandes. Dans les circonstances exceptionnelles où les services doivent être fournis avant la fin de la période précisée, utiliser la deuxième clause ci-après comme alternative.</p>
 <ol class="noBullet">
 <li><strong>4.1 Période de l'offre à commandes</strong>
-<p>Des commandes subséquentes à cette offre à commandes pourront être passées du <span class="blankline" aria-label="Espace réservé vide"></span>  au <span class="blankline" aria-label="Espace réservé vide"></span> . </p>
+<p>Des commandes subséquentes à cette offre à commandes pourront être passées du <span aria-label="Espace réservé vide" class="blankline"></span>  au <span aria-label="Espace réservé vide" class="blankline"></span> . </p>
 <p><strong>OU</strong></p>
-<p>Des commandes subséquentes à cette offre à commandes pourront être passées et les services être rendus du <span class="blankline" aria-label="Espace réservé vide"></span>  au <span class="blankline" aria-label="Espace réservé vide"></span>  inclusivement.</p>
+<p>Des commandes subséquentes à cette offre à commandes pourront être passées et les services être rendus du <span aria-label="Espace réservé vide" class="blankline"></span>  au <span aria-label="Espace réservé vide" class="blankline"></span>  inclusivement.</p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> S'il y a lieu, ajouter la clause modifiée M9014C, Prolongation de l'offre à commandes.</p>
 </li>
 <li><strong>4.2 Prolongation de l'offre à commandes</strong>
@@ -750,27 +749,27 @@
 <li>
 <strong>5.1 Responsable de l'offre à commandes</strong><br/>
 								Le responsable de l'offre à commandes est :
-<p><span class="blankline" aria-label="Espace réservé vide"></span> (<em>Nom du responsable de l'offre à commandes</em>)<br/>
-									<span class="blankline" aria-label="Espace réservé vide"></span> (<em>Titre</em>)<br/>
+<p><span aria-label="Espace réservé vide" class="blankline"></span> (<em>Nom du responsable de l'offre à commandes</em>)<br/>
+<span aria-label="Espace réservé vide" class="blankline"></span> (<em>Titre</em>)<br/>
 									Travaux publics et Services gouvernementaux Canada<br/>
 									Direction générale des approvisionnements<br/>
-									<span class="blankline" aria-label="Espace réservé vide"></span>  (<em>Identifier la direction</em>)<br/>
-									<span class="blankline" aria-label="Espace réservé vide"></span>  (<em>Adresse</em>)</p>
-<p>Téléphone :  (<span class="blankline" aria-label="Espace réservé vide"></span> ) <span class="blankline" aria-label="Espace réservé vide"></span> -<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
-									Télécopieur :  (<span class="blankline" aria-label="Espace réservé vide"></span> ) <span class="blankline" aria-label="Espace réservé vide"></span> -<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
-									Courriel :<span class="blankline" aria-label="Espace réservé vide"></span> </p>
+<span aria-label="Espace réservé vide" class="blankline"></span>  (<em>Identifier la direction</em>)<br/>
+<span aria-label="Espace réservé vide" class="blankline"></span>  (<em>Adresse</em>)</p>
+<p>Téléphone :  (<span aria-label="Espace réservé vide" class="blankline"></span> ) <span aria-label="Espace réservé vide" class="blankline"></span> -<span aria-label="Espace réservé vide" class="blankline"></span> <br/>
+									Télécopieur :  (<span aria-label="Espace réservé vide" class="blankline"></span> ) <span aria-label="Espace réservé vide" class="blankline"></span> -<span aria-label="Espace réservé vide" class="blankline"></span> <br/>
+									Courriel :<span aria-label="Espace réservé vide" class="blankline"></span> </p>
 <p>Le responsable de l'offre à commandes est chargé de l'émission de l'offre à commandes et de son administration et de sa révision, s'il y a lieu. En tant qu'autorité contractante, il est responsable de toute question contractuelle liée aux commandes subséquentes à l'offre à commandes passées par tout utilisateur désigné.</p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Choisir l'une des clauses ci-après, s'il y a lieu. La première clause est utilisée lorsque l'offre à commandes est limitée à un utilisateur désigné spécifique et cette clause sera complétée seulement à l'émission de l'offre à commandes. La deuxième clause est utilisée lorsqu'il y a plus d'un utilisateur désigné et le chargé de projet est identifié dans la commande subséquente à l'offre à commandes.</p>
 </li>
 <li><strong>5.2 Chargé de projet</strong>
 <p>Le chargé de projet pour cette offre à commandes est :</p>
-<p><span class="blankline" aria-label="Espace réservé vide"></span>  <span><strong>(Nom du chargé de projet)</strong></span><br/>
-									<span class="blankline" aria-label="Espace réservé vide"></span>  <span><strong>(Titre)</strong></span><br/>
-									<span class="blankline" aria-label="Espace réservé vide"></span>  <span><strong>(Organisation)</strong></span><br/>
-									<span class="blankline" aria-label="Espace réservé vide"></span>  <span><strong>(Adresse)</strong></span></p>
-<p>Téléphone :  (<span class="blankline" aria-label="Espace réservé vide"></span> ) <span class="blankline" aria-label="Espace réservé vide"></span> -<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
-									Télécopieur :  (<span class="blankline" aria-label="Espace réservé vide"></span> ) <span class="blankline" aria-label="Espace réservé vide"></span> -<span class="blankline" aria-label="Espace réservé vide"></span> <br/>
-									Courriel :<span class="blankline" aria-label="Espace réservé vide"></span> </p>
+<p><span aria-label="Espace réservé vide" class="blankline"></span> <span><strong>(Nom du chargé de projet)</strong></span><br/>
+<span aria-label="Espace réservé vide" class="blankline"></span> <span><strong>(Titre)</strong></span><br/>
+<span aria-label="Espace réservé vide" class="blankline"></span> <span><strong>(Organisation)</strong></span><br/>
+<span aria-label="Espace réservé vide" class="blankline"></span> <span><strong>(Adresse)</strong></span></p>
+<p>Téléphone :  (<span aria-label="Espace réservé vide" class="blankline"></span> ) <span aria-label="Espace réservé vide" class="blankline"></span> -<span aria-label="Espace réservé vide" class="blankline"></span> <br/>
+									Télécopieur :  (<span aria-label="Espace réservé vide" class="blankline"></span> ) <span aria-label="Espace réservé vide" class="blankline"></span> -<span aria-label="Espace réservé vide" class="blankline"></span> <br/>
+									Courriel :<span aria-label="Espace réservé vide" class="blankline"></span> </p>
 <p>Le chargé de projet représente le ministère ou organisme pour lequel les travaux sont exécutés dans le cadre d'une commande subséquente à l'offre à commandes. Il est responsable de toutes les questions liées au contenu technique des travaux prévus dans le contrat subséquent.</p>
 <p><strong> OU</strong></p>
 <p>Le chargé de projet pour l'offre à commandes est identifié dans la commande subséquente à l'offre à commandes.</p>
@@ -787,18 +786,18 @@
 							sur la gestion des finances publiques</em>, L.R.C. (1985), ch. F-11.</p>
 <p><strong>OU</strong></p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes : </strong>Choisir la clause suggérée lorsque l'offre à commandes est limitée à un utilisateur spécifique. Pour plus d'un utilisateur, modifier en conséquence.</p>
-<p>L'utilisateur désigné autorisé à passer des commandes subséquentes à l'offre à commandes est : <span class="blankline" aria-label="Espace réservé vide"></span> </p>
+<p>L'utilisateur désigné autorisé à passer des commandes subséquentes à l'offre à commandes est : <span aria-label="Espace réservé vide" class="blankline"></span> </p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Une méthode de classement des offres à commandes multiples peut être incluse, s'il y a lieu. Consulter la procédure 5.180 du Guide des approvisionnements, pour déterminer la méthode de classement appropriée pour votre besoin.</p>
 </li>
 <li><strong>Procédures pour les commandes</strong><br/>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Consulter la procédure 5.184 du Guide des approvisionnements, sur les formulaires à utiliser pour passer et/ou confirmer les commandes subséquentes à l'offre à commandes. Consulter l'article pour les commandes passées avec une carte de crédit du gouvernement du Canada, s'il y a lieu.</p>
 </li>
 <li><strong>Instrument de commande</strong>
-<p>Les travaux seront autorisés ou confirmés par <span class="blankline" aria-label="Espace réservé vide"></span>  <em>(Choisir l'utilisateur désigné ou les utilisateurs désignés)</em> par l'entremise du formulaire <em>(indiquer le numéro et le titre du formulaire à utiliser, p. ex. PWGSC-TPSGC 942, Commande subséquente à une offre à commandes, etc.)</em> ou un document électronique.</p>
+<p>Les travaux seront autorisés ou confirmés par <span aria-label="Espace réservé vide" class="blankline"></span> <em>(Choisir l'utilisateur désigné ou les utilisateurs désignés)</em> par l'entremise du formulaire <em>(indiquer le numéro et le titre du formulaire à utiliser, p. ex. PWGSC-TPSGC 942, Commande subséquente à une offre à commandes, etc.)</em> ou un document électronique.</p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes : </strong>Inclure et remplir la clause ci-après, s'il y a lieu. Consulter les procédures 5.164 et 5.166 du Guide des approvisionnements portant sur les limites du Conseil du Trésor pour la passation des marchés.</p>
 </li>
 <li><strong>Limite des commandes subséquentes</strong>
-<p>Les commandes individuelles subséquentes à la présente offre à commandes ne doivent pas dépasser <span class="blankline" aria-label="Espace réservé vide"></span> $ (taxe sur les produits et services ou taxe de vente harmonisée incluse).</p>
+<p>Les commandes individuelles subséquentes à la présente offre à commandes ne doivent pas dépasser <span aria-label="Espace réservé vide" class="blankline"></span> $ (taxe sur les produits et services ou taxe de vente harmonisée incluse).</p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes : </strong>S'il y a lieu, reproduire le texte intégral de la clause modifiée M4506C du guide des CCUA, lorsqu'il y a un besoin d'inclure une limitation des dépenses sur la valeur totale des commandes subséquentes à une offre. Consulter la procédure 5.170 du Guide des approvisionnements.</p>
 </li>
 <li><strong>Limitation financière</strong><br/>
@@ -809,11 +808,11 @@
 <ol>
 <li>La commande subséquente à l'offre à commandes, incluant les annexes;</li>
 <li>l'offre à commandes;</li>
-<li><em>(Le responsable de l'offre à commandes doit supprimer ce document s'il ne s'applique pas.)</em> Les conditions générales supplémentaires <span class="blankline" aria-label="Espace réservé vide"></span>  <em>(Insérer le numéro et le titre);</em></li>
-<li>Les conditions générales <span class="blankline" aria-label="Espace réservé vide"></span>  <em>(Insérer le numéro et le titre);</em></li>
-<li>Annexe « <span class="blankline" aria-label="Espace réservé vide"></span>  », <span class="blankline" aria-label="Espace réservé vide"></span> ;</li>
-<li>Annexe « <span class="blankline" aria-label="Espace réservé vide"></span>  », <span class="blankline" aria-label="Espace réservé vide"></span> ;</li>
-<li>L'offre de l'offrant <span class="blankline" aria-label="Espace réservé vide"></span>  <em>(Insérer la date de l'offre)</em>, telle que modifiée <span class="blankline" aria-label="Espace réservé vide"></span>  <em>(Insérer la ou les date(s) de la ou des modification(s), s'il y a lieu).</em></li>
+<li><em>(Le responsable de l'offre à commandes doit supprimer ce document s'il ne s'applique pas.)</em> Les conditions générales supplémentaires <span aria-label="Espace réservé vide" class="blankline"></span> <em>(Insérer le numéro et le titre);</em></li>
+<li>Les conditions générales <span aria-label="Espace réservé vide" class="blankline"></span> <em>(Insérer le numéro et le titre);</em></li>
+<li>Annexe « <span aria-label="Espace réservé vide" class="blankline"></span>  », <span aria-label="Espace réservé vide" class="blankline"></span> ;</li>
+<li>Annexe « <span aria-label="Espace réservé vide" class="blankline"></span>  », <span aria-label="Espace réservé vide" class="blankline"></span> ;</li>
+<li>L'offre de l'offrant <span aria-label="Espace réservé vide" class="blankline"></span> <em>(Insérer la date de l'offre)</em>, telle que modifiée <span aria-label="Espace réservé vide" class="blankline"></span> <em>(Insérer la ou les date(s) de la ou des modification(s), s'il y a lieu).</em></li>
 </ol>
 </li>
 <li><strong>Attestations</strong><br/>
@@ -825,7 +824,7 @@
 </ol>
 </li>
 <li><strong>Lois applicables</strong><br/>
-						L'offre à commandes et tout contrat découlant de l'offre à commandes doivent être interprétés et régis selon les lois en vigueur <span class="blankline" aria-label="Espace réservé vide"></span> . <em>(Le responsable de l'offre à commandes doit indiquer la loi de la province ou du territoire précisée par l'offrant dans son offre.)</em>
+						L'offre à commandes et tout contrat découlant de l'offre à commandes doivent être interprétés et régis selon les lois en vigueur <span aria-label="Espace réservé vide" class="blankline"></span> . <em>(Le responsable de l'offre à commandes doit indiquer la loi de la province ou du territoire précisée par l'offrant dans son offre.)</em>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> S'il y a lieu, reproduire le texte intégral des clauses de la section « 5-M » du guide des CCUA qui se terminent avec « C » dans cette partie en tant que clause autonome avec la numérotation appropriée.</p>
 </li>
 <li><strong>(....)</strong></li>
@@ -843,15 +842,15 @@
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Inclure l'une des conditions générales ci-après dans le contrat subséquent.</p>
 <ol class="noBullet">
 <li><strong>2.1 Conditions générales</strong>
-<p>2029 <span class="blankline" aria-label="Espace réservé vide"></span>  (<em>insérer la date)</em> Conditions générales - biens ou services (faible valeur) s'appliquent au contrat et en font partie intégrante.</p>
+<p>2029 <span aria-label="Espace réservé vide" class="blankline"></span>  (<em>insérer la date)</em> Conditions générales - biens ou services (faible valeur) s'appliquent au contrat et en font partie intégrante.</p>
 <p>OU</p>
-<p>2010 <span class="blankline" aria-label="Espace réservé vide"></span>  <em><strong>(insérer la date)</strong></em> Conditions générales - biens ou services (complexité moyenne) s'appliquent au contrat et en font partie intégrante.</p>
+<p>2010 <span aria-label="Espace réservé vide" class="blankline"></span> <em><strong>(insérer la date)</strong></em> Conditions générales - biens ou services (complexité moyenne) s'appliquent au contrat et en font partie intégrante.</p>
 <p>OU</p>
-<p>9601 <span class="blankline" aria-label="Espace réservé vide"></span>  <em><strong>(insérer la date)</strong></em> Conditions générales - formule détaillée, s'appliquent au contrat et en font partie intégrante.</p>
+<p>9601 <span aria-label="Espace réservé vide" class="blankline"></span> <em><strong>(insérer la date)</strong></em> Conditions générales - formule détaillée, s'appliquent au contrat et en font partie intégrante.</p>
 <p>OU</p>
-<p>9676 <span class="blankline" aria-label="Espace réservé vide"></span>  <em><strong>(insérer la date)</strong></em> Conditions générales - Services, s'appliquent au contrat et en font partie intégrante.</p>
+<p>9676 <span aria-label="Espace réservé vide" class="blankline"></span> <em><strong>(insérer la date)</strong></em> Conditions générales - Services, s'appliquent au contrat et en font partie intégrante.</p>
 <p>OU</p>
-<p>9624 <span class="blankline" aria-label="Espace réservé vide"></span>  <em><strong>(insérer la date)</strong></em> Conditions générales - Recherche et développement, s'appliquent au contrat et en font partie intégrante.</p>
+<p>9624 <span aria-label="Espace réservé vide" class="blankline"></span> <em><strong>(insérer la date)</strong></em> Conditions générales - Recherche et développement, s'appliquent au contrat et en font partie intégrante.</p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Utiliser la clause suivante lorsque les paiement par carte de crédit sont acceptés par l'offrant.</p>
 <p>L'article <em>(insérer le numéro de l'article)</em>, Intérêt sur les comptes en souffrance de <em>(insérer le nom et la date des conditions générales qui s'appliquent)</em> ne s'applique pas aux paiements faits par carte de crédit au point de vente.</p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes : </strong>S'il y lieu, des clauses particulières du guide des CCUA qui ne sont pas déjà couvertes par les conditions générales et qui ne font pas partie de la section 5-M peuvent être ajoutées.</p>
@@ -890,10 +889,10 @@
 <li><strong>4.5 Paiement par carte de crédit</strong><br/>
 <p>(Le responsable de l'offre à commandes doit compléter une des clauses si l'offrant a accepté le paiement par carte de crédit {Visa, MasterCard} tel que spécifié par l'offrant sous la partie 3 de la DOC.)</p>
 <p> <em>(Utiliser cette clause lorsque seulement une carte de crédit est acceptée)</em><br/>
-								La carte de crédit suivante est acceptée : <span><span class="blankline" aria-label="Espace réservé vide"></span> .</span></p>
+								La carte de crédit suivante est acceptée : <span><span aria-label="Espace réservé vide" class="blankline"></span> .</span></p>
 <p><strong>OU</strong></p>
 <p> <em>(Utiliser cette clause lorsque plus qu'une carte de crédit est acceptée)</em><br/>
-								Les cartes de crédit suivantes sont acceptées : <em><span class="blankline" aria-label="Espace réservé vide"></span>  et <span class="blankline" aria-label="Espace réservé vide"></span> .</em></p>
+								Les cartes de crédit suivantes sont acceptées : <em><span aria-label="Espace réservé vide" class="blankline"></span>  et <span aria-label="Espace réservé vide" class="blankline"></span> .</em></p>
 <p><strong>Remarque à l'intention du responsable de l'offre à commandes :</strong> Choisir l'une des clauses ci-après relatives aux conditions générales applicables au besoin. Consulter les sections pertinentes des conditions générales « Présentation des factures », « Paiement et Intérêt sur les comptes en souffrance ». Utiliser les clauses applicables du guide des CCUA ou d'autres clauses approuvées liées aux instructions pour la facturation. Aucune clause de la section «5-M» du guide des CCUA ne peut être ajoutée à la partie 5B - Clauses du contrat subséquent. Seules les clauses des sections autre que la section «5-M» qui sont utilisés pour les contrats et dont le numéro se termine par un «C» ou un «D» peuvent être ajoutées. Les instructions pour la facturation couvrent également les demandes de paiement partiel et par conséquent, tout renvoi à des factures couvrent également les demandes de paiement partiel.</p>
 </li>
 </ol>
