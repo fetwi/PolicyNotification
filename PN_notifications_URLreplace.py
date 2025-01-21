@@ -10,10 +10,10 @@ directory = os.path.join(dir_path, "notifications")
 link_replacements = {}
 csv_file_path = os.path.join(dir_path, "linkreplace.csv")
 with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
-    csvreader = csv.DictReader(csvfile)
+    csvreader = csv.reader(csvfile)
     for row in csvreader:
-        if 'link' in row and 'replace' in row:
-            link_replacements[row['link']] = row['replace']
+        if len(row) >= 2:
+            link_replacements[row[0]] = row[1]
 
 # Iterate over all files in the directory
 for filename in os.listdir(directory):
