@@ -1,6 +1,6 @@
-from bs4 import BeautifulSoup
 import os
 import csv
+from bs4 import BeautifulSoup
 
 # Define the directory
 dir_path = os.path.dirname(os.path.realpath(__file__))
@@ -12,7 +12,8 @@ csv_file_path = os.path.join(dir_path, "linkreplace.csv")
 with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
     csvreader = csv.DictReader(csvfile)
     for row in csvreader:
-        link_replacements[row['link']] = row['replace']
+        if 'link' in row and 'replace' in row:
+            link_replacements[row['link']] = row['replace']
 
 # Iterate over all files in the directory
 for filename in os.listdir(directory):
