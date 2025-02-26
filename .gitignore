@@ -5,3 +5,4 @@ notifications copy
 output.txt.zip
 output.txt
 output.txt
+notifications backup/*
