@@ -3,7 +3,7 @@ import re
 
 # Define the directory
 dir_path = os.path.dirname(os.path.realpath(__file__))
-directory = os.path.join(dir_path, "notifications")
+directory = os.path.join(dir_path, "heading_downgrade")
 
 # Define regex patterns to match header tags
 h1_pattern = re.compile(r'<h1(.*?)>(.*?)<\/h1>', re.DOTALL)
