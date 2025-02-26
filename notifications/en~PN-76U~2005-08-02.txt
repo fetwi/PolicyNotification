@@ -1,43 +1,43 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-76U</h2>
+<h3 class="pn-content-title">Content of PN-76U</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Effective immediately, contracting officers may use clauses M0000T and M0000C bearing the date "2005-06-10", in conjunction with a new clause M0100D, provided at Annex A.    Contracting officers must use the new clause M0100D in their standing offer documents, in conjunction with either M0000T or M0000C as appropriate, in order to incorporate 9403-6, Standard Instructions and Conditions - Standing Offers, by reference.  The clauses must appear in full text within procurement documents.</p>
-<h4>Background</h4>
+<h5>Background</h5>
 <p>The <em>Standard Acquisitions Clauses and Conditions</em> (SACC) Manual Version 05-1, published on June 10, 2005, issued a revised version of clauses M0000T and M0000C.  A problem was subsequently identified in the wording of these clauses, which made it improper to use them as revised.  As a temporary solution, PN-76 advised contracting officers that the June 10, 2005, version of these clauses was temporarily put on hold and contracting officers were to use the prior version of these clauses.   Since then, a new clause, M0100D, has been developed as a solution to the wording problem.  The June 10, 2005, versions of clauses M0000T and M0000C are now reinstated and are to be used in conjunction with the new clause M0100D.</p>
-<h4>Revisions</h4>
+<h5>Revisions</h5>
 <p>Clauses M0000T and M0000C bearing the date "2005-06-10" are no longer on hold.  The "Remarks" for clauses M0000T and M0000C are revised to advise contracting officers to use these clauses in conjunction with a new clause M0100D, in lieu of clause K0000D.  Refer to Annex A below for revisions to the SACC Manual in bold and red text.  Refer to Annex B below for revisions to the Supply Manual in bold and red text.  These changes will be published in the next edition of the Manuals in December 2005.</p>
-<h4>Contact</h4>
+<h5>Contact</h5>
 <p><strong>N/A</strong></p>
-<h3>Annex A</h3>
-<h4>M0100D (XXXX-XX-XX)   Standard Instructions and Conditions - Standing Offers</h4>
-<h5>Remarks:</h5>
+<h4>Annex A</h4>
+<h5>M0100D (XXXX-XX-XX)   Standard Instructions and Conditions - Standing Offers</h5>
+<h6>Remarks:</h6>
 <p><strong>Use the following clause in all Request for a Standing Offer (RFSO) and in all Standing Offer and Call-up Authority (SOCA) documents in conjunction with either clause M0000T or M0000C, as appropriate, to incorporate 9403-6, Standard Instructions and Conditions - Standing Offers, by reference. Contracting officers must specify the version date of 9403-6.  It is suggested that this clause be inserted in the RFSO or SOCA immediately after clause M0000T or M0000C.</strong></p>
-<h5>Text:</h5>
+<h6>Text:</h6>
 <p><strong>9403-6 (<span aria-label="Blank placeholder" class="blankline"></span> ) Standard Instructions and Conditions - Standing Offers, are hereby incorporated by reference into and form part of this document.</strong></p>
-<h4>M0000T (XXXX-XX-XX)   Instructions, Conditions and Clauses - Requests for a Standing Offer</h4>
-<h5>Remarks:</h5>
+<h5>M0000T (XXXX-XX-XX)   Instructions, Conditions and Clauses - Requests for a Standing Offer</h5>
+<h6>Remarks:</h6>
 <p><strong>THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong></p>
 <p>Use the following clause in all Requests for a Standing Offer in conjunction with clause <strong>M0100D</strong>.</p>
-<h5>Text:</h5>
+<h6>Text:</h6>
 <ol>
 <li>Pursuant to the <em>Department of Public Works and Government Services Act</em>, S.C. 1996, c.16, the instructions, conditions and clauses identified herein by title, number, and a date are hereby incorporated by reference into and form part of this Request for a Standing Offer as though expressly set out herein.
 </li>
 <li>All instructions, conditions and clauses identified herein by title, number and a date are set out in the <em>Standard Acquisition Clauses and Conditions</em> Manual issued by Public Works and Government Services Canada (PWGSC).  The Manual is available on the PWGSC Website at: <a href="http://sacc.pwgsc.gc.ca/sacc/index-e.jsp" rel="external">http://sacc.pwgsc.gc.ca/sacc/index-e.jsp</a>.</li>
 </ol>
 <p>*****************************</p>
-<h4>M0000C (XXXX-XX-XX)   Instructions, Conditions and Clauses - Standing Offers</h4>
-<h5>Remarks:</h5>
+<h5>M0000C (XXXX-XX-XX)   Instructions, Conditions and Clauses - Standing Offers</h5>
+<h6>Remarks:</h6>
 <p><strong>THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong></p>
 <p>Use the following clause in all standing offers in conjunction with clause <strong>M0100D</strong>.</p>
-<h5>Text:</h5>
+<h6>Text:</h6>
 <ol>
 <li>Pursuant to the <em>Department of Public Works and Government Services Act</em>, S.C. 1996, c.16, the instructions, conditions and clauses identified herein by title, number and a date are hereby incorporated by reference into this Standing Offer and will form part of any contract resulting from this Standing Offer as though expressly set out herein.
 </li>
 <li>All instructions, conditions and clauses identified herein by title, number and a date are set out in the <em>Standard Acquisition Clauses and Conditions</em> Manual issued by Public Works and Government Services Canada (PWGSC).  The Manual is available on the PWGSC Website at: <a href="http://sacc.pwgsc.gc.ca/sacc/index-e.jsp" rel="external">http://sacc.pwgsc.gc.ca/sacc/index-e.jsp</a>.</li>
 </ol>
-<h3>Annex B</h3>
-<h4>Changes to the Supply Manual</h4>
+<h4>Annex B</h4>
+<h5>Changes to the Supply Manual</h5>
 <p>7A.081 <strong>(XXXX-XX-XX)</strong> <strong>The</strong> standard instructions and conditions 9403-6, <span>Standing Offers</span>, are designed specifically for standing offers, and should be <strong>incorporated by reference</strong> <span>called-up under the Incorporation by Reference clause M0000T</span> at the beginning of each Request for a Standing Offer and <span>Call-up Against a</span> Standing Offer <strong>and Call-Up Authority</strong> document.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

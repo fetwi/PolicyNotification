@@ -1,22 +1,22 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-107R1</h2>
+<h3 class="pn-content-title">Contenu de l'AP-107R1</h3>
 <p><strong>Nota :</strong> Le Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> et le <cite>Guide des approvisionnements</cite> ont subi plusieurs mises à jour suivant la publication initiale de l’AP-107R1, le 3 juillet 2015 :</p>
 <ul>
 <li>17 septembre 2015 : Les modifications fournies à l’Annexe A ont été mises à jour et intégrées au <cite>Guide des approvisionnements</cite>. Consulter le <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/archives#15-3">Résumé des modifications au <cite>Guide des approvisionnements</cite> - Version 2015-3</a> pour connaître les détails.</li>
 <li>3 septembre 2015 : Des modifications ont été apportées à plusieurs conditions générales. Consulter le <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/ccua-archive-des-resumes#15-5">Résumé des modifications aux clauses et conditions uniformisées d'achat (CCUA) - Version 2015-5</a> pour connaître tous les détails des modifications.</li>
 <li>9 juillet 2015 : Des modifications ont été apportées à deux clauses spécifiques à l’attribution des marchés immobiliers. <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/ccua-archive-des-resumes#15-4">Consulter le Résumé des modifications au Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> – Version 2015-4</a> pour connaître tous les détails des modifications. Des modifications ont également été apportées à l’AP-107R1 en vue d’intégrer des corrections d’ordre rédactionnel, d’assurer l’uniformité avec le texte anglais équivalent et d’harmoniser la terminologie avec celle employée dans le régime d’intégrité du gouvernement du Canada. Ces modifications ne présentent aucune modification significative au contenu.</li>
 </ul>
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>Par l'entremise de cet Avis relatif aux politiques 107R1, Travaux publics et Services gouvernementaux Canada (TPSGC) met à jour les dispositions relatives à l'intégrité concernant les activités d'approvisionnement et les opérations immobilières  en vue de les harmoniser avec un nouveau <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/ci-if-fra.html" rel="external">régime d'intégrité</a> pangouvernemental. Les dispositions mises à jour comprennent de nouvelles règles concernant les suspensions, des modifications aux règles concernant la période d’inadmissibilité, l'établissement d’un processus d’examen et d’application régulière de la loi dans les cas d’inadmissibilité obligatoire, et encouragent les fournisseurs à déclarer volontairement les pratiques commerciales illégales.</p>
-<h3>Date d’entrée en vigueur</h3>
+<h4>Date d’entrée en vigueur</h4>
 <p>À compter de maintenant les agents de négociation des contrats doivent modifier leurs documents de demandes de soumissions afin de tenir compte de cette approche révisée.</p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>Au cours des dernières années, <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> a mis en place de nombreuses mesures visant à renforcer l'intégrité des processus d'approvisionnement et des biens immobiliers du Ministère.</p>
 <p>Au mois de juillet 2012, <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> a mis en place un Cadre d’intégrité formel, sous ses propres autorités ministérielles, afin de veiller à ce que le gouvernement ne conclue pas de marchés avec des fournisseurs qui ont été déclarés coupable d’une infraction criminelle au Canada. Des améliorations ont ensuite été apportées au Cadre en novembre 2012 (<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/avis-relatifs-aux-politiques?pnid=AP-107#parcourir-ap-precedents">ARCHIVÉE- Dispositions relatives à l'intégrité – AP-107</a>) et en mars 2014 (<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/avis-relatifs-aux-politiques?pnid=AP-107U1#parcourir-ap-precedents">ARCHIVÉE- Dispositions relatives à l’intégrité - AP-107U1</a>) dans le but d’élargir la portée et inclure des infractions commises à l’étranger ou commises par des affiliés du fournisseur et d'exiger que les fournisseurs soumettent leurs sous-traitants aux mêmes modalités.</p>
 <p>Le 3 juillet 2015, <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> poursuit cet effort et met en œuvre un nouveau <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/ci-if-fra.html" rel="external">régime d'intégrité</a> pangouvernemental (annoncé par le gouvernement du Canada dans le budget de 2015) pour ses activités d'approvisionnement et ses opérations immobilières afin de s’assurer que le gouvernement du Canada entreprenne des relations d’affaires avec des fournisseurs dont le comportement est conforme à l’éthique. Le nouveau régime d’intégrité constitue une approche fondée sur des politiques et sera appliqué à tous les ministères et organismes fédéraux par le biais de protocoles d'entente.</p>
-<h3>Résumé des modifications apportées aux dispositions relatives d’intégrité</h3>
+<h4>Résumé des modifications apportées aux dispositions relatives d’intégrité</h4>
 <p>Les dispositions relatives à l'intégrité sont mises à jour pour :</p>
 <ul>
 <li>supprimer l'inadmissibilité obligatoire d'un fournisseur pour les actions d'un affilié, à moins que le fournisseur exerce un niveau de contrôle sur l’affilié déclaré coupable d’une infraction;</li>
@@ -29,7 +29,7 @@
 <li>permettre à <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> de rendre publique une liste de tous les fournisseurs inadmissibles et suspendus, y compris leur période d'inadmissibilité.</li>
 </ul>
 <p>Consulter le <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/ci-if-fra.html" rel="external">régime d'intégrité</a> du Ministère pour obtenir de plus amples détails sur les modifications à la politique ainsi que la nouvelle <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/politique-policy-fra.html" rel="external"><cite>Politique d’inadmissibilité et de suspension</cite></a>.</p>
-<h3>Guide des approvisionnements</h3>
+<h4>Guide des approvisionnements</h4>
 <p>Les détails précis concernant les modifications suivantes se trouvent dans l’Annexe A (consulter les <a href="http://www.gcpedia.gc.ca/wiki/Archives_du_Guide_des_approvisionnements" rel="external">Archives du <cite>Guide des approvisionnements</cite></a>). Ces modifications seront intégrées dans une version ultérieure du <cite>Guide des approvisionnements</cite>.</p>
 <ul>
 <li>Le directeur général ou le directeur général régional doit approuver les activités d'approvisionnement lorsqu'il y a possibilité d'un acte répréhensible. Dans certains cas, il faudra obtenir l'approbation du sous-ministre adjoint de la Direction générale des approvisionnements.</li>
@@ -57,17 +57,17 @@
 <li>8.13 : Annexe : Lettres type concernant l’intégrité</li>
 <li>Glossaire du <cite>Guide des approvisionnements</cite> (revisé)</li>
 </ul>
-<h3>Guide des clauses et conditions uniformisées d'achat (CCUA)</h3>
+<h4>Guide des clauses et conditions uniformisées d'achat (CCUA)</h4>
 <p>L'article Dispositions relatives à l'intégrité de toutes les instructions uniformisées, instructions générales et conditions générales est intégralement mis à jour afin de tenir compte des modifications à la politique décrites ci-dessus.</p>
 <p>Consulter la section Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés ci-dessous pour obtenir la liste complète des clauses modifiées.</p>
-<h3>Modèles uniformisés d'approvisionnement</h3>
+<h4>Modèles uniformisés d'approvisionnement</h4>
 <p>Les révisions au régime d’intégrité de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> ont une incidence sur les cinq modèles uniformisés d’approvisionnement. Par conséquent, la partie 5 « Attestations » de tous les modèles, ainsi que les parties 1, 2 et 7 des modèles de demandes de soumissions pour les besoins de complexité élevée, les besoins de complexité moyenne et les besoins simples, et les parties 6A et 6B du modèle <abbr title="demande d'arrangements en matière d'approvisionnement">DAMA</abbr> ont été révisées.</p>
-<h3>Ressources</h3>
+<h4>Ressources</h4>
 <p>Pour toute question concernant le nouveau régime d'intégrité et la <cite>Politique d’inadmissibilité et de suspension</cite>, communiquer avec la Direction générale de la surveillance au 1-844-705-2084 ou à l'adresse suivante : <a href="mailto:PWGSC.O.integrity-TPSGC.O.integrite@tpsgc-pwgsc.gc.ca" rel="external">PWGSC.O.integrity-TPSGC.O.integrite@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Les demandes de renseignements concernant l'application des dispositions relatives à l'intégrité ainsi que les questions liées au <cite>Guide des approvisionnements</cite> peuvent être acheminées au Secteur de la politique, du risque, de l'intégrité et de la gestion stratégique (SPRIGS) à l’adresse suivante : <a href="mailto:DGAIntegrite.ABIntegrity@tpsgc-pwgsc.gc.ca" rel="external">DGAIntegrite.ABIntegrity@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Les questions liées au Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> ou aux modèles uniformisés d'approvisionnement peuvent être acheminées à la Division des politiques et outils relatifs aux approvisionnements à l'adresse suivante : <a href="mailto:Outilsd'approvisionnement.ProcurementTools@tpsgc-pwgsc.gc.ca" rel="external">Outilsd'approvisionnement.ProcurementTools@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
+<h5 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-67ee817e0c46d4b74d7fdffb1408dd40">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-72R</h2>
+<h3 class="pn-content-title">Content of PN-72R</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This replaces the original Policy Notification (PN)-72 of December 13, 2005, in its entirety.<br/>
 					This notification provides new direction to all procurement personnel on a new process for the<br/>
@@ -9,13 +9,13 @@
 <p>This PN must be read in conjunction with the provisions of applicable chapters of the Supply<br/>
 					Manual (SM), and <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap70-pn70-eng.html" rel="external">PN-70</a>.  Please refer to <a href="#PN-72Ranna">Annex A</a> of this document for changes to the <em>Standard Acquisitions Clauses and Conditions</em> (SACC) Manual.  In case of conflict between the SM and this PN, the provisions of this PN-72R<br/>
 					will take precedence.</p>
-<h4>Background</h4>
+<h5>Background</h5>
 <p>Under the "The Way Forward" initiative, effective April 1, 2005, the use of existing<br/>
 					standing offers and supply arrangements for ten commodity groups identified in <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap70-pn70-eng.html" rel="external">PN-70</a> became mandatory. To support this<br/>
 					initiative, all contracting personnel must ensure that existing and future standing offers<br/>
 					and supply arrangements provide best value, meet client department needs, and demonstrate<br/>
 					tangible savings.</p>
-<h4>Policy</h4>
+<h5>Policy</h5>
 <p>The creation, renewal or extension of all SOs and SAs requires advance review by either the<br/>
 					designated Commodity Team (CT) Leader identified for those goods or services, or, if such a<br/>
 					team does not exist, by a Regional Reviewer (RR), who is designated for each region.  Should a<br/>
@@ -24,7 +24,7 @@
 					will be conducted in accordance with the procedures and guidelines outlined in this PN. A<br/>
 					list of the CT Leaders and RRs is available on the <a href="http://soi.pwgsc.gc.ca/app/index.cfm?Fuseaction=prg.main&amp;&amp;altlang=-e" rel="external">Standing<br/>
 					Offer Index</a> (SOI) home page <em>(please note that this list will be updated regularly)</em>.</p>
-<h4>Procedures</h4>
+<h5>Procedures</h5>
 <ol class="double-space">
 <li>
 						As of August 15, 2006, <acronym title="Public Works and Government Services Canada">PWGSC</acronym> contracting officers must use the Departmental Plain<br/>
@@ -120,12 +120,12 @@
 <p>A summary checklist is provided at <a href="#PN-72Rannb">Annex B</a>, which will be utilized as<br/>
 					the basis of review by the CT Leader or RR. <a href="#PN-72Rannb">Annex B</a> also provides<br/>
 					further instructions for contracting officers.</p>
-<h4>Inquiries</h4>
+<h5>Inquiries</h5>
 <p>Any inquiries are to be addressed to John Courtney, Commodity Management Directorate,<br/>
 					Acquisitions Branch, either by phone at 819-956-1097 or by e-mail at: <a href="mailto:john.n.courtney@pwgsc-tpsgc.gc.ca" rel="external">john.n.courtney@pwgsc-tpsgc.gc.ca</a>.</p>
 <p> <a id="PN-72Ranna" name="anna"></a></p>
-<h3>Annex A </h3>
-<h4>Changes to the SACC Manual</h4>
+<h4>Annex A </h4>
+<h5>Changes to the SACC Manual</h5>
 <p><strong>M7010C    (XXXX-XX-XX)    Standing Offer Reporting</strong></p>
 <p><strong>Usage:</strong>  Full Text</p>
 <p><strong>Remarks:</strong></p>
@@ -207,8 +207,8 @@
 					in the withdrawal by Canada from the Supply Arrangement, the removal of the Supplier from the<br/>
 					list of qualified suppliers and the application of a vendor performance corrective measure.</p>
 <p> <a id="PN-72Rannb" name="annb"></a></p>
-<h3>Annex B</h3>
-<h4>Summary Check List</h4>
+<h4>Annex B</h4>
+<h5>Summary Check List</h5>
 <p><strong>Introduction:</strong></p>
 <p>PN-72R contains the applicable policy and procedures to be considered before the creation,<br/>
 					renewal or extension of all standing offers and supply arrangements.</p>

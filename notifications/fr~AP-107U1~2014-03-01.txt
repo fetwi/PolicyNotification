@@ -1,12 +1,12 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-107U1</h2>
-<h3>Introduction</h3>
+<h3 class="pn-content-title">Contenu de l'AP-107U1</h3>
+<h4>Introduction</h4>
 <p>Par l'entremise de cet Avis relatif aux politiques 107U1 – Dispositions relatives à l'intégrité (AP 107U1), Travaux publics et Services gouvernementaux Canada (TPSGC) met à jour les dispositions relatives à l'intégrité concernant les activités d'approvisionnement et les opérations immobilières. Les dispositions mises à jour incluent de nouvelles infractions et des infractions similaires commises à l'étranger, l'établissement d'une période de temps dans le cadre de laquelle les fournisseurs reconnus coupables ne pourront pas faire affaire avec <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>, et l'élargissement de l'application des dispositions relatives à l'intégrité pour y inclure les sous-traitants. </p>
-<h3>Date d’entrée en vigueur</h3>
+<h4>Date d’entrée en vigueur</h4>
 <p>Ces changements entrent en vigueur le 1<sup>er</sup> mars 2014. Les agents de négociation des contrats doivent modifier les documents de demandes de soumissions dont la date de clôture est le 1<sup>er</sup>  mars 2014 ou une date ultérieure pour tenir compte des nouvelles dispositions.</p>
-<h3>Résumé des changements apportés à la politique actuelle</h3>
+<h4>Résumé des changements apportés à la politique actuelle</h4>
 <p>Les dispositions relatives à l'intégrité sont mises à jour pour les raisons suivantes : </p>
 <ul>
 <li>Ajouter de nouvelles infractions; </li>
@@ -18,7 +18,7 @@
 <li>Préciser les circonstances dans lesquelles le Canada peut invoquer l'exception visant à protéger l'intérêt du public.</li>
 </ul>
 <p>Consulter le <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/ci-if-fra.html" rel="external">Cadre d'intégrité</a> du Ministère pour obtenir de plus amples détails sur ces changements relatifs à la politique.</p>
-<h3>Renseignements généraux et contexte</h3>
+<h4>Renseignements généraux et contexte</h4>
 <p>Au cours des dernières années, Travaux publics et Services gouvernementaux Canada (TPSGC) a mis en œuvre plusieurs mesures pour améliorer l'intégrité des activités d'approvisionnement et des opérations immobilières du Ministère, y compris les améliorations antérieures annoncées dans l’<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/avis-relatifs-aux-politiques?pnid=AP-107#parcourir-ap-precedents">Avis relatif aux politiques 107 - Dispositions relatives à l'intégrité</a>, le 9 novembre 2012. Pour poursuivre dans cette lancée, des mesures additionnelles sont adoptées pour renforcer davantage les activités d'approvisionnement et les opérations immobilières de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> et pour veiller à ce que Ministère fasse affaire avec des fournisseurs qui respectent la loi.</p>
 <p>Dans un premier temps, les nouvelles infractions ci-dessous sont ajoutées à la liste des condamnations qui rendent les entreprises et les personnes inadmissibles à faire affaire avec le Ministère :</p>
 <ul>
@@ -36,7 +36,7 @@
 <p>Une nouvelle période de dix ans est également ajoutée, au cours de laquelle les fournisseurs qui sont reconnus coupables de l'une des infractions énumérées ne pourront pas faire affaire avec <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>, peu importe si une suspension de casier ou un pardon a été obtenu. Après cette période de temps, les soumissionnaires doivent attester que des mesures ont été diligemment mises en place afin d'éviter que ces condamnations ou ces actes répréhensibles se reproduisent. Comme l'exige la loi, il faut noter qu'en ce qui concerne certaines condamnations, une suspension de dossier ou un pardon sera requis même après cette période de dix ans.</p>
 <p>Outre les condamnations, les entreprises et les personnes qui ont plaidé coupables à des infractions criminelles et qui ont obtenu une absolution sous conditions ou inconditionnelle ne pourront pas faire affaire avec <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> pendant la période de 10 ans.</p>
 <p>Enfin, les entrepreneurs doivent maintenant appliquer les dispositions relatives à l'intégrité aux sous-traitants.</p>
-<h3>Guide des approvisionnements</h3>
+<h4>Guide des approvisionnements</h4>
 <p>Le <cite>Guide des approvisionnements</cite> est révisé pour tenir compte des changements suivants.</p>
 <ul>
 <li>Le directeur général ou le directeur général régional doit approuver les activités d'approvisionnement lorsqu'il y a possibilité d'un acte répréhensible. Dans certains cas, il faudra obtenir l'approbation du sous-ministre adjoint des Approvisionnements.</li>
@@ -46,17 +46,17 @@
 <li>L'Annexe 8.13 Lettres type concernant l'intégrité est ajoutée pour inclure les lettres types qui étaient diffusés sur GCpédia.</li>
 </ul>
 <p>Pour savoir quelles sections ont été modifiées, veuillez vous reporter à la section « Sections du <cite>Guide des approvisionnements</cite> visées » ci-dessous.</p>
-<h3>Guide des clauses et conditions uniformisées d'achat (CCUA) </h3>
+<h4>Guide des clauses et conditions uniformisées d'achat (CCUA) </h4>
 <p>L'article « Dispositions relatives à l'intégrité » (anciennement l'article « Code de conduite ») de toutes les instructions uniformisées, instructions générales et conditions générales, sera modifié pour refléter les modifications de la présente politique. Consulter l'article 01 des Instructions uniformisées 2003, joint en Annexe B à cet <abbr title="Avis relatif aux politiques">AP</abbr>, pour obtenir un exemple des dispositions relatives à l'intégrité révisées.</p>
 <p>Veuillez vous reporter à « Sections modifiées du Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> » ci-dessous pour consulter les <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> visées par ces modifications.</p>
-<h3>Modèles uniformisés d'approvisionnement</h3>
+<h4>Modèles uniformisés d'approvisionnement</h4>
 <p>La partie intitulée « Attestations » des cinq modèles uniformisés d'approvisionnement est modifiée pour refléter le changement de libellé de « Code de conduite et attestation » à « Dispositions relatives à l'intégrité ». Les parties 1 ou 2 des modèles de demandes de soumissions (besoins plus complexes, besoins de complexité moyenne et besoins simples) sont également modifiées pour tenir compte de ce changement.</p>
-<h3>Ressources</h3>
+<h4>Ressources</h4>
 <p>Les demandes de renseignements concernant l'application des dispositions relatives à l'intégrité peuvent être envoyées par courriel au Secteur de la politique, du risque, de l'intégrité et de la gestion stratégique (SPRIGS) à la nouvelle adresse suivante : <a href="mailto:DGAIntegrite.ABIntegrity@tpsgc-pwgsc.gc.ca" rel="external">DGAIntegrite.ABIntegrity@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Les questions liées au Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> ou aux modèles uniformisés d'approvisionnement peuvent être envoyées par courriel à la Division des politiques et outils relatifs aux approvisionnements à l'adresse : <a href="mailto:Outilsd'approvisionnement.ProcurementTools@tpsgc-pwgsc.gc.ca" rel="external">Outilsd'approvisionnement.ProcurementTools@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Les questions portant sur le Guide des approvisionnements peuvent être envoyées par courriel à la boîte aux lettres générale de la direction des politiques à l'adresse : <a href="mailto:DPPApublications.APPDpublications@tpsgc-pwgsc.gc.ca" rel="external">DPPApublications.APPDpublications@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
+<h5 class="field-label">Sections du Guide des approvisionnements visées</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-c45612d23999346a4c8193035b8c8524">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -92,7 +92,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
+<h5 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-e93b0ea69f111db2840412ecb9f7dc63">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

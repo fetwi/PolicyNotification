@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-12R</h2>
+<h3 class="pn-content-title">Contenu de l'AP-12R</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>Date d'entrée en vigueur : Le 21 mars 2002</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>Date d'entrée en vigueur : Le 21 mars 2002</h4>
 <p>La politique relative au contenu canadien est une politique autorisée par le Cabinet. La politique encourage le développement des entreprises canadiennes en restreignant la concurrence pour les marchés publics aux fournisseurs de produits et de services canadiens, dans certaines circonstances particulières.</p>
 <p>Pour tout marché assujetti à la politique sur le contenu canadien, le soumissionnaire devait déposer avec sa soumission l'attestation du contenu canadien. L'agent de négociation de contrats peut, pour avoir plus de souplesse, supprimer cette exigence pour les marchés limités exclusivement aux biens et (ou) services canadiens. On a élaboré trois nouvelles clauses (K4011T, K4013T et K4014T) du Guide des CCUA pour les cas où on permet aux les soumissionnaires de déposer cette attestation après la date de clôture. On a révisé les clauses K4001T, K4003T et K4004T pour obliger les soumissionnaires à déposer cette attestation avec leur soumission.</p>
 <p>L'agent de négociation de contrats doit, avant la publication de la DDP, décider si les soumissionnaires devront fournir l'attestation avec leur soumission. S'il décide que les soumissionnaires peuvent déposer cette attestation après la date de clôture, la clause de la DDP relative à la politique sur le contenu canadien doit préciser le délai en jours dans lequel les soumissionnaires devront déposer ces attestations sur demande. On donne normalement aux soumissionnaires un délai d'au plus trois jours ouvrables pour déposer l'attestation signée relative à la politique sur le contenu canadien. Une soumission ne doit être transmise au client pour évaluation qu'une fois l'attestation signée reçue.</p>
@@ -18,9 +18,9 @@
 <p>Ces révisions seront intégrées dans la prochaine modification du Guide des approvisionnements, à publier le 24 mai 2002. Les changements seront apportés à la prochaine version du Guide des CCUA, à publier le 24 mai 2002.</p>
 <p>Toutes les questions portant sur l'application de la politique sur le contenu canadien doivent être adressées à la Direction de la politique stratégique (DPS), par téléphone au numéro 819-956-6497.</p>
 <hr/>
-<h3>GUIDE DES CCUA</h3>
+<h4>GUIDE DES CCUA</h4>
 <hr/>
-<h4>K4001T (XX/XX/XX) Attestation du contenu canadien - Obligatoire avec soumission - Limitée exclusivement - Produits uniques ou attestation globale</h4>
+<h5>K4001T (XX/XX/XX) Attestation du contenu canadien - Obligatoire avec soumission - Limitée exclusivement - Produits uniques ou attestation globale</h5>
 <p><strong>Remarques:</strong></p>
 <p>Utiliser la clause suivante dans toutes les invitations à soumissionner en régime de concurrence auxquelles la politique sur le contenu canadien s'applique (voir le Guide des approvisionnements), de même que lorsque la concurrence est limitée exclusivement aux soumissions portant sur des produits et(ou) des services canadiens et qu'il est <strong>obligatoire</strong> que les soumissionnaires déposent une attestation avec leur soumission. On doit se servir de cette clause pour les marchés portant sur des produits uniques et pour les marchés portant sur plusieurs produits qui font l'objet d'une attestation globale.</p>
 <p>Cette clause doit être utilisée de pair avec la clause K4000D, Définition du contenu canadien.</p>
@@ -35,7 +35,7 @@
 <p><span aria-label="Espace réservé vide" class="blankline"></span> <br/>
         Date</p>
 <hr/>
-<h4>K4003T (XX/XX/XX) Attestation du contenu canadien - Obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la soumission</h4>
+<h5>K4003T (XX/XX/XX) Attestation du contenu canadien - Obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la soumission</h5>
 <p><strong>Remarques:</strong></p>
 <p>Utiliser la clause suivante dans toutes les invitations à soumissionner en régime de concurrence auxquelles la politique sur le contenu canadien s'applique (voir le Guide des approvisionnements), de même que lorsque la concurrence est limitée exclusivement aux soumissions portant sur des produits et(ou) des services canadiens et qu'il est <strong>obligatoire</strong> que les soumissionnaires déposent une attestation avec leur soumission. Cette clause doit être utilisée dans le cas des besoins pour plusieurs articles, chacun devant faire l'objet d'une attestation, et lorsque le soumissionnaire doit indiquer, contre chaque article énuméré dans la soumission, s'il s'agit d'un article canadien.</p>
 <p>Cette clause doit être utilisée de pair avec la clause K4000D, Définition du contenu canadien.</p>
@@ -51,7 +51,7 @@
 <p><span aria-label="Espace réservé vide" class="blankline"></span> <br/>
         Date</p>
 <hr/>
-<h4>K4004T (XX/XX/XX) Attestation du contenu canadien - Obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la clause</h4>
+<h5>K4004T (XX/XX/XX) Attestation du contenu canadien - Obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la clause</h5>
 <p><strong>Remarques:</strong></p>
 <p>Utiliser la clause suivante dans toutes les invitations à soumissionner en régime de concurrence auxquelles la politique sur le contenu canadien s'applique (voir le Guide des approvisionnements), de même que lorsque la concurrence est limitée exclusivement aux soumissions portant sur des produits et(ou) des services canadiens et qu'il est <strong>obligatoire</strong> que les soumissionnaires déposent une attestation avec leur soumission. Cette clause doit être utilisée dans le cas des besoins pour plusieurs articles, chacun devant faire l'objet d'une attestation, et lorsque le soumissionnaire doit indiquer, contre chaque article énuméré dans la clause, s'il s'agit d'un article canadien.</p>
 <p>Cette clause doit être utilisée de pair avec la clause K4000D, Définition du contenu canadien.</p>
@@ -71,7 +71,7 @@
 <p><span aria-label="Espace réservé vide" class="blankline"></span> <br/>
 		Date</p>
 <hr/>
-<h4>K4011T (XX/XX/XX) Attestation du contenu canadien - Non obligatoire avec soumission - Limitée exclusivement - Produits uniques ou attestation globale</h4>
+<h5>K4011T (XX/XX/XX) Attestation du contenu canadien - Non obligatoire avec soumission - Limitée exclusivement - Produits uniques ou attestation globale</h5>
 <p><strong>Remarques:</strong></p>
 <p>Utiliser la clause suivante dans toutes les invitations à soumissionner en régime de concurrence auxquelles la politique sur le contenu canadien s'applique (voir le Guide des approvisionnements), de même que lorsque la concurrence est limitée exclusivement aux soumissions portant sur des produits et(ou) des services canadiens et qu'il n'est<strong> pas obligatoire</strong> que les soumissionnaires déposent une attestation avec leur soumission. On doit se servir de cette clause pour les marchés portant sur des produits uniques et pour les marchés portant sur plusieurs produits qui font l'objet d'une attestation globale.</p>
 <p>Cette clause doit être utilisée de pair avec la clause K4000D, Définition du contenu canadien.</p>
@@ -86,7 +86,7 @@
 <p><span aria-label="Espace réservé vide" class="blankline"></span> <br/>
        Date</p>
 <hr/>
-<h4>K4013T (XX/XX/XX) Attestation du contenu canadien - Non obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la soumission</h4>
+<h5>K4013T (XX/XX/XX) Attestation du contenu canadien - Non obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la soumission</h5>
 <p><strong>Remarques:</strong></p>
 <p>Utiliser la clause suivante dans toutes les invitations à soumissionner en régime de concurrence auxquelles la politique sur le contenu canadien s'applique (voir le Guide des approvisionnements), de même que lorsque la concurrence est limitée exclusivement aux soumissions portant sur des produits et(ou) des services canadiens et qu'il n'est <strong>pas obligatoire</strong> que les soumissionnaires déposent une attestation avec leur soumission. Cette clause doit être utilisée dans le cas des besoins pour plusieurs articles, chacun devant faire l'objet d'une attestation, et lorsque le soumissionnaire doit indiquer, contre chaque article énuméré dans la soumission, s'il s'agit d'un article canadien.</p>
 <p>Cette clause doit être utilisée de pair avec la clause K4000D, Définition du contenu canadien.</p>
@@ -102,7 +102,7 @@
 <p><span aria-label="Espace réservé vide" class="blankline"></span> <br/>
         Date</p>
 <hr/>
-<h4>K4014T (XX/XX/XX) Attestation du contenu canadien - Non obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la clause</h4>
+<h5>K4014T (XX/XX/XX) Attestation du contenu canadien - Non obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la clause</h5>
 <p><strong>Remarques:</strong></p>
 <p>Utiliser la clause suivante dans toutes les invitations à soumissionner en régime de concurrence auxquelles la politique sur le contenu canadien s'applique (voir le Guide des approvisionnements), de même que lorsque la concurrence est limitée exclusivement aux soumissions portant sur des produits et(ou) des services canadiens et qu'il n'est<strong> pas obligatoire</strong> que les soumissionnaires déposent une attestation avec leur soumission. Cette clause doit être utilisée dans le cas des besoins pour plusieurs articles, chacun devant faire l'objet d'une attestation, et lorsque le soumissionnaire doit indiquer, contre chaque article énuméré dans la clause, s'il s'agit d'un article canadien.</p>
 <p>Cette clause doit être utilisée de pair avec la clause K4000D, Définition du contenu canadien.</p>
@@ -125,8 +125,8 @@
 <p><span aria-label="Espace réservé vide" class="blankline"></span> <br/>
         Date</p>
 <hr/>
-<h3>Guide des approvisionnements</h3>
-<h4>Changements apportés au Guide des approvisionnements</h4>
+<h4>Guide des approvisionnements</h4>
+<h5>Changements apportés au Guide des approvisionnements</h5>
 <p>5.074 (01/07/95) Le soumissionnaire doit attester le contenu canadien en signant une déclaration selon laquelle les produits offerts répondent à la définition de biens et de services canadiens. Les formulaires d'attestation sont reproduits dans le guide des <em>Clauses et conditions d'achat uniformisées</em> (CCUA), dans les clauses portant les numéros K4001T, K4002T, K4003T, K4004T, K4005T, K4006T, K4011T, K4013T, K4014T et K4015T.</p>
 <p>7A.011 (XX/XX/XX) Pour tout marché (excepté pour les sciences et la technologie - voir 7A.012) assujetti à la politique sur le contenu canadien, l'agent de négociation de contrats doit, à l'étape de la planification du marché, décider si ce marché sera :</p>
 <ol type="a">

@@ -1,12 +1,12 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-107</h2>
+<h3 class="pn-content-title">Content of PN-107</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>Public Works and Government Services Canada (PWGSC), through this Policy Notification (PN), is updating the integrity provisions surrounding its procurement and real property transactions. The updated provisions include a new public interest exception and removal of the leniency exemption.</p>
-<h3>Effective Date</h3>
+<h4>Effective Date</h4>
 <p>Effective immediately, contracting officers are instructed to modify their solicitation documents to reflect this revised approach.</p>
-<h3>Background and Revisions to the Current Policy</h3>
+<h4>Background and Revisions to the Current Policy</h4>
 <p>Over the past several years Public Works and Government Services Canada has implemented numerous measures that demonstrate our commitment to doing business with companies and individuals that respect the law and act with integrity. Continuing this effort, further steps are being taken to strengthen the integrity of the procurement process.</p>
 <p>Current exemptions that permit convicted individuals and companies to continue doing business with the Department are being revised. Given the significance that anti-competitive crimes have on the integrity of the procurement process, participation in programs such as the Competition Bureau's Leniency Program will no longer provide an exemption to the integrity provisions.</p>
 <p>
@@ -22,7 +22,7 @@ In addition, in order to protect the public interest in certain circumstances, t
 <p>
 See Annex A - Background, for more details.
 </p>
-<h3>Revisions to the Supply Manual and to the Standard Acquisition Clauses and Conditions (SACC) Manual</h3>
+<h4>Revisions to the Supply Manual and to the Standard Acquisition Clauses and Conditions (SACC) Manual</h4>
 <p>
 The Supply Manual will be revised within the next week to reflect the latest procedures.
 </p>
@@ -30,10 +30,10 @@ The Supply Manual will be revised within the next week to reflect the latest pro
 The new <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#2003">Standard Instructions 2003</a> are available now as an example, and the remaining Standard Instructions and General Conditions with the Code of Conduct provisions will be revised within one week.
 </p>
 <p>See below for a complete list of  <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> clauses that will be modified.</p>
-<h3>Contact</h3>
+<h4>Contact</h4>
 <p>Inquiries regarding this process may be sent to the Acquisition Policy and Process Directorate at the following e-mail address: <a href="mailto:RevisedCodeConduct.RevisionCodeConduite@pwgsc-tpsgc.gc.ca" rel="external">RevisedCodeConduct.RevisionCodeConduite@pwgsc-tpsgc.gc.ca</a>. 
 </p>
-<h3>Annex A - Background: Ongoing Efforts to Strengthen the Integrity of Procurement and Real Property Transactions, Initial Measures</h3>
+<h4>Annex A - Background: Ongoing Efforts to Strengthen the Integrity of Procurement and Real Property Transactions, Initial Measures</h4>
 <p>
 Effective November 2007, and as part of the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/F-5.5/index.html" rel="external">Federal Accountability Act</a></cite> and its action plan, Public Works and Government Services Canada (PWGSC) included a <cite><a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/cndt-cndct/contexte-context-eng.html" rel="external">Code of Conduct for Procurement</a></cite> in its solicitation documents. The <cite><a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/cndt-cndct/contexte-context-eng.html" rel="external">Code of Conduct for Procurement</a></cite> was intended to summarize existing law and policy without introducing new obligations for either suppliers or public servants.  
 </p>
@@ -46,7 +46,7 @@ Effective November 2007, and as part of the <cite><a href="http://laws-lois.just
 <li>frauds under the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/f-11/" rel="external">Financial Administration Act</a></cite>; and</li>
 <li>payment of a contingency fee to a person to whom the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/L-12.4/" rel="external">Lobbying Act</a></cite> applies. </li>
 </ul>
-<h4>Building on the Integrity Provisions </h4>
+<h5>Building on the Integrity Provisions </h5>
 <p>Effective October 2010, <abbr title="Public Works and Government Services Canada">PWGSC</abbr> added the following: 
 </p>
 <ul>
@@ -60,7 +60,7 @@ Exemptions to the provisions were granted under the following circumstances:
 <li>in cases in which capacities had been restored by the Governor-in-Council; or </li>
 <li>in cases in which the company or individual had been part of a leniency program. </li>
 </ol>
-<h4>Strengthening Accountability and Integrity </h4>
+<h5>Strengthening Accountability and Integrity </h5>
 <p>Effective July 2012, <abbr title="Public Works and Government Services Canada">PWGSC</abbr> added the following new categories to render convicted companies and individuals ineligible to bid on contracts:
 </p>
 <ul>
@@ -80,10 +80,10 @@ Again, exemptions to these provisions were provided under the following circumst
 <li>in cases in which capacities had been restored by the Governor-in-Council; or </li>
 <li>in cases in which the company or individual had been part of a leniency program.  </li>
 </ol>
-<h4>Enhanced Integrity Provisions</h4>
+<h5>Enhanced Integrity Provisions</h5>
 <p>Effective immediately, <abbr title="Public Works and Government Services Canada">PWGSC</abbr> is clarifying the measures to further strengthen the integrity of procurement and real property transaction processes. 
 </p>
-<h5>Removing the Leniency Exemption</h5>
+<h6>Removing the Leniency Exemption</h6>
 <p>
 <abbr title="Public Works and Government Services Canada">PWGSC</abbr> is removing the leniency exemption. Effective immediately, the department will not enter into a contract or real property transaction, or accept bids from companies convicted of listed offences unless they have received a pardon, or capacities restored by Governor-in-Council. 
 </p>
@@ -95,7 +95,7 @@ Again, exemptions to these provisions were provided under the following circumst
 <li>For future contracts for which consideration may include companies currently in the leniency program, any bid received for contracts or real property transactions will be found non-responsive and therefore will not be accepted.</li>
 <li>Current standing offers and supply arrangements will be systematically replaced to include the revised provision. The goal of this implementation process is to apply the revised provision as soon as practicable.  </li>
 </ol>
-<h5>Protecting the Public Interest</h5>
+<h6>Protecting the Public Interest</h6>
 <p>
 		An exception will be included in the integrity provisions, to be applied in circumstances in which it is necessary to the public interest to award a contract to, or enter into a real property agreement with, a company or individual that has one of the convictions listed under <abbr title="Public Works and Government Services Canada">PWGSC</abbr>’s provisions.
 </p>
@@ -105,7 +105,7 @@ Again, exemptions to these provisions were provided under the following circumst
 <p>
 		The public interest exception will be applied on a case-by-case basis. In such cases, <abbr title="Public Works and Government Services Canada">PWGSC</abbr> would also impose additional stringent controls, administrative measures, and monitoring in the contract or real property agreement. 
 </p>
-<h4>Reducing Administrative Burden</h4>
+<h5>Reducing Administrative Burden</h5>
 <p>
 <abbr title="Public Works and Government Services Canada">PWGSC</abbr> has simplified the verification process, which is one of the integrity requirements for bidders and proponents of real property transactions. The requirements are to:
 </p>
@@ -116,11 +116,11 @@ Again, exemptions to these provisions were provided under the following circumst
 <p>
 <abbr title="Public Works and Government Services Canada">PWGSC</abbr> will verify this information. Only when additional verifications are needed will a signed Criminal Record Verification Check consent form be required to allow additional checks to be conducted before a contract is awarded. Should a consent form be requested by <abbr title="Public Works and Government Services Canada">PWGSC</abbr>, it will be maintained for a two-year period. 
 </p>
-<h4>Conclusion</h4>
+<h5>Conclusion</h5>
 <p>
 <abbr title="Public Works and Government Services Canada">PWGSC</abbr> is committed to an ongoing program of monitoring its procurement and real property transactions to ensure the highest standard of integrity, protect the interests of taxpayers, and ensure ethical behaviour. As part of this program, additional measures may be adopted on an as-needed and as-required basis. 
 </p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-be2425bfb606dcf6ab5b4ef39628a79f">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -140,7 +140,7 @@ Again, exemptions to these provisions were provided under the following circumst
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
+<h5 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-f68d9ce674c8d97c0d7e1da3289ca970">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

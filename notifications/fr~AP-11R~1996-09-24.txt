@@ -1,17 +1,17 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-11R</h2>
+<h3 class="pn-content-title">Contenu de l'AP-11R</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 24 septembre 1996</h3>
-<h4>CLAUSE PORTANT SUR LE RENDEMENT DU FOURNISSEUR</h4>
-<h5>Application de la clause portant sur le rendement du fournisseur</h5>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 24 septembre 1996</h4>
+<h5>CLAUSE PORTANT SUR LE RENDEMENT DU FOURNISSEUR</h5>
+<h6>Application de la clause portant sur le rendement du fournisseur</h6>
 <h6>Pouvoir de rejeter une soumission</h6>
 <p>Le pouvoir de rejeter une soumission en vertu de la clause sur<br/>
 					le rendement du fournisseur (A9100T) appartient à l'agent<br/>
@@ -53,7 +53,7 @@
 					la décision est prise, on en fait connaître par écrit<br/>
 					les résultats au soumissionnaire.</p>
 <hr/>
-<h4>A9100T Rendement du fournisseur</h4>
+<h5>A9100T Rendement du fournisseur</h5>
 <p><strong>Remarque</strong> : Cette clause doit être<br/>
 					reproduite dans toues les demandes de soumission en régime<br/>
 					de concurrence.</p>
@@ -124,7 +124,7 @@
 					son point de vue, avant de rendre une décision définitive<br/>
 					sur le rejet de la soumission.</p>
 <hr/>
-<h4>A9100T Rendement du fournisseur</h4>
+<h5>A9100T Rendement du fournisseur</h5>
 <p><strong>Remarque</strong> : Cette clause doit être<br/>
 					reproduite dans toutes les demandes de soumission en régime<br/>
 					de concurrence.</p>

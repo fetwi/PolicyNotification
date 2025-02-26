@@ -1,24 +1,24 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-39U3</h2>
+<h3 class="pn-content-title">Content of PN-39U3</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>The purpose of Policy Notification (<abbr title="Policy Notification">PN</abbr>)-39U3 is to update the instructions to contracting officers with respect to Advanced Contract Award Notices (<abbr title="Advance Contract Award Notices">ACANs</abbr>).</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>These changes are a result of the review of government procurement practices performed by the Office of the Procurement Ombudsman (<abbr title="Office of the Procurement Ombudsman">OPO</abbr>). The <abbr title="Office of the Procurement Ombudsman">OPO</abbr> is an independent organization with a government-wide mandate defined in the <em>Department of Public Works and Government Services Act</em>. As part of its mandate, the <abbr title="Office of the Procurement Ombudsman">OPO</abbr> reviews the practices of departments for acquiring goods and services, to assess their fairness, openness and transparency, and make recommendations for the improvement of those practices. This review provided recommendations on how to improve the ACAN process based on feedback from suppliers and the procurement community.</p>
-<h3>Effective Date</h3>
+<h4>Effective Date</h4>
 <p>This <abbr title="Policy Notification">PN</abbr> is effective immediately.</p>
-<h3>Current Policy</h3>
+<h4>Current Policy</h4>
 <p>An ACAN is a public notice indicating to the supplier community that a department or agency intends to award a goods, services or construction contract to a pre-identified supplier, thereby allowing other suppliers to signal their interest in bidding by submitting a statement of capabilities. If no other supplier submits a statement of capabilities that meets the requirements set out in the ACAN, on or before the closing date stated in the ACAN, the contracting officer may then proceed with the award of the contract. </p>
 <p>An ACAN may be published only for requirements where Canada is able to accept a statement of capabilities from another supplier. Contracting officers must ensure that Canada is in a position to accept a statement of capabilities before publishing an ACAN. In circumstances where there is no possibility of another supplier submitting a statement of capabilities or where Canada cannot, for program or policy reasons, accept a statement of capabilities from another supplier, an ACAN is not to be published. <abbr title="Advance Contract Award Notices">ACANs</abbr> are posted for a minimum of 15 calendar days on the Government Electronic Tendering Service (<abbr title="Government Electronic Tendering Service">GETS</abbr>).</p>
-<h3><strong>Revisions to Current Policy</strong></h3>
+<h4><strong>Revisions to Current Policy</strong></h4>
 <p>In accordance with the <abbr title="Office of the Procurement Ombudsman">OPO</abbr> recommendations, the ACAN policy has been revised to reinforce the need for due diligence in the documentation of all phases of the ACAN process. In addition, although the current minimum posting period is 15 days, the procurement community is being advised to determine individual posting periods based on the complexity of each requirement. Finally, while current practice does allow contracting officers to commence negotiations with the pre-identified supplier before the closing of the ACAN posting period, care should be exercised to ensure that any such negotiations would not put the pre-identified supplier at an advantage should a successful challenge take place before contract award. Due to this inherent risk, the pre-identified supplier must be cautioned not to commence any work or incur any costs before contract award.</p>
 <p>The changes in this <abbr title="Policy Notification">PN</abbr> will be reflected in a future version of the Supply Manual. See <a href="#PN-39U3a1">Annex A</a> for the detailed changes. </p>
-<h3>Contact Person</h3>
+<h4>Contact Person</h4>
 <p>Please direct any inquiries to Larraine Gorman, P.Eng., Acquisition Policy and Process Directorate, by telephone at 819-956-1229 or by e-mail to: <a href="mailto:larraine.gorman@tpsgc-pwgsc.gc.ca" rel="external">larraine.gorman@tpsgc-pwgsc.gc.ca</a>.</p>
-<h3 id="PN-39U3a1">Annex A - Changes to the Supply Manual</h3>
-<h4>3.15.5	Advance Contract Award Notice<br/>
-    (2010-xx-xx)</h4>
+<h4 id="PN-39U3a1">Annex A - Changes to the Supply Manual</h4>
+<h5>3.15.5	Advance Contract Award Notice<br/>
+    (2010-xx-xx)</h5>
 <ol type="a">
 <li>An Advance Contract Award Notice (ACAN) is a public notice indicating to the supplier community that a department or agency intends to award a good, service or construction contract to a pre-identified supplier believed to be the only one capable of performing the work, thereby allowing other suppliers to signal their interest in bidding by submitting a statement of capabilities. If no other supplier submits a statement of capabilities that meets the requirements set out in the ACAN, the contracting officer may then proceed with awarding the contract to the pre-identified supplier. It is important to note that an ACAN is not a competitive process; however, competitive approval authorities may be used if there is no successful challenge.</li>
 <li><abbr title="Advance Contract Award Notices">ACANs</abbr> may be published pursuant to <a href="http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=14494&amp;section=text#sec10.7" rel="external">article 10.7.13</a> of the Treasury Board (<abbr title="Treasury Board">TB</abbr>) Contracting Policy. When an ACAN is not published, Contract Award Notices will continue to provide transparency and it is therefore important that they be issued shortly after contract award.</li>
@@ -38,14 +38,14 @@
 <li><abbr title="Advance Contract Award Notices">ACANs</abbr> are not to be structured in ways that discourage submissions of statements of capabilities. For example, the notice should not say: "This is not a competitive solicitation", "This is a sole source requirement", or other language that is not consistent with the spirit of the <abbr title="Treasury Board">TB</abbr> Contracting Policy on competitive contracting.</li>
 <li>An <abbr title="Advance Contract Award Notice">ACAN</abbr> process, even if conducted in accordance with the Policy, does not constitute a "competitive" process for the purposes of the trade agreements and any Canadian International Trade Tribunal (<abbr title="Canadian International Trade Tribunal">CITT</abbr>) challenge. For the purposes of contract approval authorities, <abbr title="Advance Contract Award Notices">ACANs</abbr> are classified under the “electronic bidding” category.</li>
 </ol>
-<h4>3.15.5.1 <abbr title="Advance Contract Award Notice">ACAN</abbr> Time Limit<br/>
-    (2010-xx-xx)</h4>
+<h5>3.15.5.1 <abbr title="Advance Contract Award Notice">ACAN</abbr> Time Limit<br/>
+    (2010-xx-xx)</h5>
 <ol type="a">
 <li>Although <abbr title="Advance Contract Award Notices">ACANs</abbr> are posted for a minimum of 15 calendar days on <abbr title="Government Electronic Tendering Service">GETS</abbr>, the contracting officer should determine the posting period based on the individual circumstances for each procurement, including the complexity associated with the procurement.</li>
 <li>Furthermore, while for reasons of timeliness and efficiency, contracting of ficers may enter into negotiations with the pre-identified supplier before the closing of the <abbr title="Advance Contract Award Notice">ACAN</abbr> posting period, care should be exercised to ensure that any such negotiations do not put the pre-identified supplier at an advantage should a successful challenge take place before contract award. Due to this inherent risk, the pre-identified supplier must be cautioned not to commence any work or incur any costs before contract award.</li>
 </ol>
-<h4>3.15.5.5 <abbr title="Advance Contract Award Notice">ACAN</abbr> Content<br/>
-    (2010-xx-xx)</h4>
+<h5>3.15.5.5 <abbr title="Advance Contract Award Notice">ACAN</abbr> Content<br/>
+    (2010-xx-xx)</h5>
 <ol type="a">
 <li>Contracting officers are responsible for preparing an <abbr title="Advance Contract Award Notice">ACAN</abbr> for publication on <abbr title="Government Electronic Tendering Service">GETS</abbr>.</li>
 <li>The text of the notice must clearly state that the proposed procurement meets one of the <em>Government Contracts Regulations</em> exceptions to soliciting bids (see 3.15(c)). The text must also reference the limited tendering reasons being invoked for all applicable trade agreements. Such exceptions must be fully and clearly justified in writing on the procurement file.</li>
@@ -53,8 +53,8 @@
 <li>Further information on notice content and additional models can be found in <abbr title="Treasury Board">TB</abbr> <a href="http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/contracting/acan_guide_e.asp" rel="external">Guide for Managers - Best Practices for Using Advance Contract Award Notices</a>.</li>
 <li>When additional information not specifically set out in the <abbr title="Advance Contract Award Notice">ACAN</abbr> is provided on the requirements, it must be provided equally to all interested parties. If the information provided is considered a significant clarification to the information provided in the <abbr title="Advance Contract Award Notice">ACAN</abbr>, an amended <abbr title="Advance Contract Award Notice">ACAN</abbr> should be issued. Extending the closing date would be appropriate in such cases.</li>
 </ol>
-<h4>3.15.5.10 Statement of Capabilities (Challenge Process)<br/>
-    (2010-xx-xx)</h4>
+<h5>3.15.5.10 Statement of Capabilities (Challenge Process)<br/>
+    (2010-xx-xx)</h5>
 <ol type="a">
 <li>The <abbr title="Advance Contract Award Notice">ACAN</abbr> process provides suppliers with an opportunity to submit a statement of capabilities regarding work identified in an <abbr title="Advance Contract Award Notice">ACAN</abbr>.</li>
 <li>Statements of capabilities submitted by suppliers:<br/>
@@ -79,8 +79,8 @@
 <li>If the requirement subject to an <abbr title="Advance Contract Award Notice">ACAN</abbr> is cancelled, suppliers that submitted statements of capabilities should be notified in a timely manner.</li>
 <li>Contracting officers may request additional information from suppliers or third parties, as appropriate, to ensure that the interested supplier has the capability to meet the requirements set out in the <abbr title="Advance Contract Award Notice">ACAN</abbr>.</li>
 </ol>
-<h4>3.15.5.15 <abbr title="Advance Contract Award Notice">ACAN</abbr> Exceptions<br/>
-    (2010-xx-xx)</h4>
+<h5>3.15.5.15 <abbr title="Advance Contract Award Notice">ACAN</abbr> Exceptions<br/>
+    (2010-xx-xx)</h5>
 <ol type="a">
 <li><abbr title="Advance Contract Award Notices">ACANs</abbr> must not be posted in situations where the competitive process using electronic or traditional bidding cannot be used. Examples of such situations include:<br/>
 <ol type="i">
@@ -99,8 +99,8 @@
 <li><abbr title="Advance Contract Award Notices">ACANs</abbr> must also not be posted in situations where a statement of capability cannot be accepted. For example, in circumstances where detailed market knowledge confirms that only one supplier can perform the work, then the contract should be awarded on a non-competitive basis with transparency achieved through a Contract Award Notice. </li>
 <li>In such cases, the rationale underlying the decision not to publish an <abbr title="Advance Contract Award Notice">ACAN</abbr> should be well documented on the procurement file.</li>
 </ol>
-<h4>3.15.5.20 Documenting the Procurement File<br/>
-    (2010-xx-xx)</h4>
+<h5>3.15.5.20 Documenting the Procurement File<br/>
+    (2010-xx-xx)</h5>
 <p>Contracting officers are required to exercise due diligence in documenting on the procurement file the actions taken in each phase of the <abbr title="Advance Contract Award Notice">ACAN</abbr> process. As a minimum, this involves documentation of the following justifications, reasons and associated steps:</p>
 <ol type="a">
 <li>justification for the sole source (see 3.15.1);</li>

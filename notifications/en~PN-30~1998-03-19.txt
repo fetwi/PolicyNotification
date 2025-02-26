@@ -1,12 +1,12 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-30</h2>
+<h3 class="pn-content-title">Content of PN-30</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>1. The Supply Manual (procedures 5.072 and 7.366 and Annex 5.5) and the Standard Acquisition Clauses and Conditions Manual (clause K4000D) have been revised to show a change to the Rules of Origin as applied under the Canadian Content Policy. The NAFTA Rules of Origin have replaced the FTA Rules of Origin as rules of origin for the Policy. These revisions are effective immediately.</p>
 <p>2. Related changes to the <em>Supply Manual</em>, attached as <strong>Annex A</strong>, will be included in amendment 98-2, which is scheduled for release on June 15, 1998.</p>
 <p>3.  Related changes to the <em>Standard Acquisition Clauses and Conditions</em> Manual, attached as <strong>Annex B</strong>, will be included in amendment 98-2, which is scheduled for release on June 15, 1998.</p>
-<h3>Annex A</h3>
-<h4>Changes to Supply Manual</h4>
+<h4>Annex A</h4>
+<h5>Changes to Supply Manual</h5>
 <p>5.072 (__/__/98) A good wholly manufactured or originating in Canada is considered a Canadian good. A product containing imported components may also be considered Canadian for the purpose of this policy when it has undergone sufficient change in Canada, in a manner that satisfies the definition specified under the North American Free Trade Agreement (NAFTA) Rules of Origin (see Annex 5.5 THE RULES OF ORIGIN DETERMINATION). For photocopiers, computers and office equipment within Federal Supply Classification (FSC) groups 36, 70 and 74, only the products of MERIT/CIRCLE firms or companies in Priority Group 1 prior to April 1992 are considered Canadian (See below the paragraph on MERIT Partnership Program and CIRCLE Program).</p>
 <p>A service provided by an individual based in Canada is considered a Canadian service. Where a requirement consists of only one service, which is being provided by more than one individual, the service will be considered Canadian if a minimum of 80 percent of the total bid price for the service is provided by individuals based in Canada.</p>
 <p>7.366 (__/__/98) When requirements consist of more than one good, the evaluation of Canadian content certification can be done the following ways:</p>
@@ -17,7 +17,7 @@
 <p>For requirements consisting of more than one service, a minimum of 80 percent of the total bid price must be provided by personnel based in Canada (see Annex 7.12 DETERMINATION OF CANADIAN CONTENT FOR A MIX OF GOODS AND/OR SERVICES).</p>
 <p>Except for science and technology requirements (see 5.073a)), when requirements consist of a mix of goods and services, 80 percent of the total bid price must consist of Canadian goods and Canadian services (see Annex 7.12 DETERMINATION OF CANADIAN CONTENT FOR A MIX OF GOODS AND/OR SERVICES).</p>
 <p>A bid can be accepted in part without resubmission of a certification.</p>
-<h3>Annex 5.5: THE RULES OF ORIGIN DETERMINATION</h3>
+<h4>Annex 5.5: THE RULES OF ORIGIN DETERMINATION</h4>
 <p>The Canadian Rules of Origin for Goods (Chapter 4 of the North American Free Trade Agreement) and Canadian Customs Tariff Harmonized System are used to determine if imported components that go into the production of an item for resale to the government are sufficiently altered or converted in Canada to be considered "Canadian."</p>
 <p>The Harmonized Commodity Description and Coding System is a structured classification system for goods that has been adopted by Canada and most of the world's trading nations, for customs purposes.</p>
 <p>For the purposes of this determination, the reference in the Rules of Origin to "territory", is be replaced with "Canada".</p>
@@ -27,14 +27,14 @@
 <li>Find the appropriate heading number in the Harmonized System that identifies imported components used to construct the final product.</li>
 <li>Look up the section in the Rules of Origin that defines whether the conversion that took place in Canada allows the goods to be defined as Canadian.</li>
 </ol>
-<h4>Example</h4>
+<h5>Example</h5>
 <p>For example, hats manufactured in Canada that use imported calves leather, would reflect the following calculation:</p>
 <ol type="a">
 <li>Look up hats in the index of the Canadian Customs Tariff Harmonized System (HS) and find the type that matches the kinds of hats to be sold: Hats and other headgear, plaited or made by assembling strips of any material, whether or not lined or trimmed. The HS number is 6504.00.00 the first two numbers indicate the good is listed in Chapter 65.</li>
 <li>Look up leather, bovine in the index. Leather, bovine falls under HS heading 4104.</li>
 <li>Finally, refer to the Rules of Origin which lists the conditions for transforming goods listed in the HS into Canadian goods (Chapter 65 is for Headgear and Parts Thereof and is listed in Section XII of the rules). The second rule for Chapter 65 applies: A change from 65.03 to 65.07 from any heading outside that group. As the leather is classified outside 65.03 to 65.07, the final product (the hats) for sale are considered to be sufficiently transformed and therefore the hats are deemed to be Canadian for the purposes of this policy.</li>
 </ol>
-<h3>Annex 7.12 DETERMINATION OF CANADIAN CONTENT FOR A MIX OF GOODS AND/OR SERVICES</h3>
+<h4>Annex 7.12 DETERMINATION OF CANADIAN CONTENT FOR A MIX OF GOODS AND/OR SERVICES</h4>
 <p>There is a <acronym title="Public Works and Government Services Canada">PWGSC</acronym> solicitation for: 100 wooden office desks; 100 electric space heaters with maintenance and repair included; 100 telephone sets with maintenance and repair included; and, 100 metal swivel chairs.</p>
 <p>The bidder will provide:</p>
 <ul>
@@ -51,31 +51,31 @@
 					Maintenance/Repair for Telephone Sets: $1,000<br/>
 					100 Metal Swivel Chairs @ $25 each: $2,500<br/>
 <strong>Total Bid Price $48,500</strong> </p>
-<h4>Determination whether individual goods and services are Canadian (using NAFTA Chapter 4 - Rules of Origin)</h4>
+<h5>Determination whether individual goods and services are Canadian (using NAFTA Chapter 4 - Rules of Origin)</h5>
 <p>(You may wish to refer to Annex 5.5 for The Rules of Origin Determination.)</p>
-<h4>Wooden Office Desks:</h4>
+<h5>Wooden Office Desks:</h5>
 <p>Unfinished wooden office desks (HS 9403.30) were imported and finished in Canada. The final good (finished wooden office desks) falls in same the subheading (HS 9403.30) as the unfinished good.</p>
 <p>The NAFTA rules of origin covering HS 9403.30 (wooden office desks) require a change from another chapter, or a change from parts heading 9403.90, provided there is sufficient regional value content. These rules are not satisfied.</p>
 <p>Therefore, the wooden office desks are <strong>not</strong> considered Canadian goods.</p>
-<h4>Electric Space Heaters:</h4>
+<h5>Electric Space Heaters:</h5>
 <p>Electric space heaters (HS 8516.21) were constructed using domestic labour/materials and imported parts (HS 8516.90).</p>
 <p>The NAFTA rules of origin covering HS 8516.21 (electric space heaters) allow a change from subheading 8516.90, provided there is a regional value content of not less than 60% where the transaction value method is used or 50% where the net cost method is used.</p>
 <p>After calculations are done, the regional value content is found to be 65% using the transaction value method.</p>
 <p>Therefore, the electric space heaters are considered Canadian goods.</p>
-<h4>Telephone Sets:</h4>
+<h5>Telephone Sets:</h5>
 <p>Telephone sets (HS 8517.11) were constructed using domestic labour/materials and some imported plastic tubes (HS 3917).</p>
 <p>The NAFTA rules of origin covering HS 8517.11 (telephone sets) require a change to subheading 8517.11 from any other subheading, except 8517.90.11, 8517.90.12, 8517.90.13, 8517.90.14 or 8517.90.41.</p>
 <p>Therefore, the telephone sets are considered Canadian goods.</p>
-<h4>Metal Swivel Chairs:</h4>
+<h5>Metal Swivel Chairs:</h5>
 <p>Metal swivel chairs (HS 9401.30) were constructed using domestic labour/materials and some imported parts (HS 9401.90).</p>
 <p>The NAFTA rules of origin covering HS 9401.30 (metal swivel chairs) allow a change from subheading 9401.90, provided there is a regional value content of not less than 60% where the transaction value method is used or 50% where the net cost method is used.</p>
 <p>After calculations are done, the regional value content is found to be 37% using the transaction value method.</p>
 <p>Therefore, the metal swivel chairs are <strong>not</strong> considered Canadian goods.</p>
-<h4>Maintenance/Repair of Telephones:</h4>
+<h5>Maintenance/Repair of Telephones:</h5>
 <p>The maintenance/repair of telephones is being done by U.S.-based personnel. Therefore, this service is <strong>not</strong> considered a Canadian service.</p>
-<h4>Maintenance/Repair of Electric Space Heaters:</h4>
+<h5>Maintenance/Repair of Electric Space Heaters:</h5>
 <p>The maintenance/repair of electric space heaters is being done by Canadian-based personnel. Therefore, this service is considered a Canadian service.</p>
-<h4>Calculation of Percent of Bid Price Considered Canadian</h4>
+<h5>Calculation of Percent of Bid Price Considered Canadian</h5>
 <p><strong>Canadian Goods and Services</strong><br/>
 					100 Electric Space Heaters: $20,000<br/>
 					100 Telephone sets: $5,000<br/>
@@ -88,10 +88,10 @@
 <strong>Total non-Canadian Goods and Services $18,500 </strong></p>
 <p><strong> Total Bid Price $48,500</strong></p>
 <p>Percent of the Bid Price that is composed of Canadian goods and services = $30,000/$48,500 = 62%</p>
-<h4>Conclusion</h4>
+<h5>Conclusion</h5>
 <p>The Supplier has <strong>not </strong>met the Canadian Content requirement that "no less than 80 percent of the bid price consists of Canadian goods and Canadian services".</p>
-<h3>Annex B</h3>
-<h4>Changes to SACC Manual</h4>
+<h4>Annex B</h4>
+<h5>Changes to SACC Manual</h5>
 <p><strong>Remarks:</strong> Use the following clause whenever a definition of Canadian goods and Canadian services is required. This clause must always be used whenever clauses K4001T, K4002T, K4003T, K4004T, K4005T and K4006T are used.</p>
 <p><strong>K4000D (__/__/98) Canadian Content Definition</strong></p>
 <p>1. Canadian Good: A good wholly manufactured or originating in Canada is considered a Canadian good. A product containing imported components may also be considered Canadian for the purpose of this policy when it has undergone sufficient change in Canada, in a manner that satisfies the definition specified under the North American Free Trade Agreement (NAFTA) Rules of Origin. For photocopiers, computers and office equipment within Federal Supply Classification (FSC) groups 36, 70 and 74, only the products of MERIT/CIRCLE firms or companies in Priority Group 1 prior to April 1992 are considered Canadian (see below the paragraph on MERIT Partnership Program and CIRCLE Program).</p>

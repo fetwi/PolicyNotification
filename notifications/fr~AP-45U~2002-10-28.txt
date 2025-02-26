@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-45U</h2>
+<h3 class="pn-content-title">Contenu de l'AP-45U</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : 28 octobre 2002</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : 28 octobre 2002</h4>
 <p><strong>Objectif</strong></p>
 <p>Le présent avis relatif aux politiques vise à renforcer les dispositions de la politique sur les taux de transport qui est entrée en vigueur le 14 décembre 1999 (voir l'avis relatif aux politiques n<sup>o</sup> 45) et à étendre leur application au paiement des justes salaires dans les contrats de construction.</p>
 <p><strong>Contexte</strong></p>

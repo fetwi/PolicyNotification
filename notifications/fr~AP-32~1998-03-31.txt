@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-32</h2>
+<h3 class="pn-content-title">Contenu de l'AP-32</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 31 mars 1998</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 31 mars 1998</h4>
 <p>À compter du 1er avril 1998, une nouvelle procédure sera mise en œuvre afin de fournir au Ministre les principaux renseignements relatifs aux plans d'achat, à la révision des plans d'achat et aux attributions de contrat proposées. Les directeurs généraux des régions et des secteurs sont responsables de fournir les renseignements relatifs à chaque plan d'achat et attribution de contrat évalués au-dessus des seuils précisés à l'annexe A. Une copie du Formulaire de renseignements sur les approvisionnements (FRA) qui sera utilisé pour communiquer l'information au Ministre est également jointe.</p>
 <p>Le FRA vise à fournir uniquement l'information clé relative aux plans d'achat et aux attributions de contrat; ce formulaire ne vise néanmoins pas à fournir le niveau de détail exigé dans la formule de Planification et approbation préalable des contrats (PAPC), dans un plan d'achat formel, ou une demande de contrat. Le FRA se divise en deux sections distinctes, l'une pour rapporter l'information aux fins de planification et l'autre pour rapporter l'information relative aux attributions de contrat. À l'exception du numéro de référence du client qui a trait à un identificateur précis que les clients peuvent inclure dans leur commande, les champs de données sont basés sur l'information qui est couramment utilisée dans le processus d'achat.</p>
 <p>La première section du FRA, intitulée « Renseignements relatifs à la planification », est préparée au même moment que la formule de Planification et approbation préalable des contrats (PAPC) ou du plan d'achat formel, et est incorporée au plan pour lequel une approbation est demandée. Dès l'approbation du plan, le FRA doit être envoyé par courrier électronique, comme pièce jointe à l'adresse électronique « &lt;PIF », conformément aux procédures dans les régions ou les secteurs. Un FRA est requis pour tous les plans d'achat qui dépassent les seuils précisés dans l'annexe A, qui seront approuvés le ou après le 1er avril 1998.</p>
@@ -20,8 +20,8 @@
 <p>Le FRA (_pif0498) est disponible en feuille de style Ami Pro et en Word Pro Master et a été distribué à toutes les régions et à tous les secteurs afin d'être accessible sur tous les postes de travail des approvisionnements avant le 1er avril 1998.</p>
 <p>Compte tenu de la nouvelle procédure relative à la présentation de rapports, l'exigence relative à la distribution à la haute direction des plans d'achats et résumés relatifs aux attributions de contrats évalués à 1 million de dollars et plus, et les procédures pour rapporter les faits saillants relatifs aux contrats, sont à l'étude. Toutefois, elles demeurent en ce moment inchangées.</p>
 <hr/>
-<h4>Annexe A</h4>
-<h5>Seuils relatifs au rapport d'utilisation du formulaire de renseignements sur l'approvisionnement (FRA)</h5>
+<h5>Annexe A</h5>
+<h6>Seuils relatifs au rapport d'utilisation du formulaire de renseignements sur l'approvisionnement (FRA)</h6>
 <p>Un Formulaire de renseignements sur l'approvisionnement doit être rempli pour tous les plans d'achat et les attributions de contrat dont la valeur dépasse les pouvoirs d'entrée précisés ci-après.</p>
 <dl>
 <dt><strong>Appels d'offres électroniques</strong></dt>

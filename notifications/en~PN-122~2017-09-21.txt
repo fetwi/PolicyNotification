@@ -1,12 +1,12 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-122</h2>
+<h3 class="pn-content-title">Content of PN-122</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of policy notification (PN) -122 is to inform <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Acquisitions Program contracting officers of the effect of international trade commitments regarding procedural rules and coverage with the implementation of procurement obligations under the Canada-European Union Comprehensive Economic and Trade Agreement.</p>
-<h3>Effective date</h3>
+<h4>Effective date</h4>
 <p>This policy notification is effective September 21, 2017. The Canada-European Union Comprehensive Economic and Trade Agreement government procurement obligations will enter into force on September 21, 2017. The Standard Acquisitions Clauses and Conditions (SACC) Manual and Supply Manual have been updated to reflect the changes.</p>
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>International trade agreements help to foster global competition and innovation by enabling Canadian suppliers to compete on a more even playing field with firms in other countries based on principles that promote open, fair and transparent competition. These principles include:</p>
 <ul>
 <li>non-discrimination according to country of origin </li>
@@ -14,21 +14,21 @@
 <li>competitive procurement; and </li>
 <li>fair procurement processes</li>
 </ul>
-<h3>Overview</h3>
+<h4>Overview</h4>
 <p>On October 30, 2016, Canada signed the Canada-European Union Comprehensive Economic and Trade Agreement (CETA). The <abbr title="European Union">EU</abbr> is one of the largest procurement markets globally (valued at around $3.3 trillion annually), which will have significant commercial benefits for Canadian businesses. The <abbr title="Comprehensive Economic and Trade Agreement">CETA</abbr> will also provide reciprocal access for <abbr title="European Union">EU</abbr> suppliers to Canadian procurement. Procurement provisions are set out in <a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19.aspx?lang=eng" rel="external">Chapter 19 of <abbr title="Comprehensive Economic and Trade Agreement">CETA</abbr></a> and in eight Annexes that form the <a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=eng#a" rel="external">Market access schedule of Canada</a>. The obligations and format of the <abbr title="Comprehensive Economic and Trade Agreement">CETA</abbr> are similar to those in the World Trade Organization – Agreement on Government Procurement (WTO-AGP), to which both Canada and the <abbr title="European Union">EU</abbr> have already committed to rules regarding procurement procedures. The thresholds for <abbr title="Comprehensive Economic and Trade Agreement">CETA</abbr> also remain the same as the <abbr title="World Trade Organization – Agreement on Government Procurement">WTO-AGP</abbr>. While <abbr title="Comprehensive Economic and Trade Agreement">CETA</abbr> builds on the commitments of the <abbr title="World Trade Organization – Agreement on Government Procurement">WTO-AGP</abbr> (vis-à-vis predominantly sub-federal procurement activities), the obligations of <abbr title="Comprehensive Economic and Trade Agreement">CETA</abbr> are expected to have a minimal impact on federal procurement activities. However, as with all free trade agreements, the entire Government Procurement Chapter should be consulted to identify Canada’s obligations and exceptions.</p>
-<h4>Covered entities</h4>
+<h5>Covered entities</h5>
 <ul>
 <li>Covered federal departments and agencies are listed in <a href="http://international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=eng#a1" rel="external">Annex 19-1: Central Government Entities</a>.</li>
 <li>Crown corporations are covered by <a href="http://international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=eng#a3" rel="external">Annex 19-3: Other Entities</a>.</li>
 </ul>
-<h4>Goods, services and construction services</h4>
+<h5>Goods, services and construction services</h5>
 <ul>
 <li>All goods are covered unless specified in <a href="http://international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=eng#a4" rel="external">Annex 19-4: Goods</a>.</li>
 <li>Covered services are specified in <a href="http://international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=eng#a5" rel="external">Annex 19-5: Services</a>.</li>
 <li>Construction services are set out in <a href="http://international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=eng#a6" rel="external">Annex 19-6: Construction Services</a>.</li>
 <li>Exceptions are listed in <a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=eng#a7" rel="external">Annex 19-7: General Notes</a>.</li>
 </ul>
-<h4>Thresholds</h4>
+<h5>Thresholds</h5>
 <table>
 <caption>Thresholds: entry into force, 2017 – December 31, 2017 (CDN $)</caption>
 <tbody><tr>
@@ -53,16 +53,16 @@
 </tr>
 </tbody></table>
 <p>Thresholds will be revised every two years commencing on January 1, 2018, and will be published on the Treasury Board’s <a href="https://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/ContPolNotices/2015/15-03-eng.asp" rel="external">Trade Agreements: Thresholds Update</a> page.</p>
-<h4>Procedural obligations</h4>
+<h5>Procedural obligations</h5>
 <p>Procedural obligations are found in the text of the Government Procurement Chapter. Procedural rules cover, for example, contract valuation, general exceptions, notices, the content of tender documentation, the circumstances for the use of limited tendering and the publication of award information.</p>
-<h4>Exceptions </h4>
+<h5>Exceptions </h5>
 <p>The following sections should be consulted for exceptions which may apply:</p>
 <ul>
 <li>Article 19.2: Scope and Coverage</li>
 <li>Article 19.3: Security and General Exceptions and</li>
 <li>Annexes to the Chapter, including <a href="http://international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=eng#a7" rel="external">Annex 19-7: General Notes</a></li>
 </ul>
-<h3>Summary of changes</h3>
+<h4>Summary of changes</h4>
 <p>While the <abbr title="Comprehensive Economic and Trade Agreement">CETA</abbr> is similar to the <abbr title="World Trade Organization – Agreement on Government Procurement">WTO-AGP</abbr> in terms of coverage and procedural rules, there are a few key differences regarding government procurement, such as:</p>
 <ul>
 <li>expanding procurement obligations to additional Crown Corporations</li>
@@ -71,17 +71,17 @@
 <li>not allowing Small Business Set-Asides</li>
 <li>including the Canadian Space Agency in the list of covered entities </li>
 </ul>
-<h4>Dredging</h4>
+<h5>Dredging</h5>
 <p>Dredging services are now covered under <abbr title="Comprehensive Economic and Trade Agreement">CETA</abbr> (<a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=eng#a6" rel="external">Annex 19-6: Construction Services</a>). With the new provisions, dredging equipment and vessels of <abbr title="European Union">EU</abbr> member state make and manufacture will be treated in the same manner as dredging equipment of Canadian make and manufacture, whether in dredging procurements or construction procurements with dredging as a component. Where the estimated value of the procurement is $8,500,000 or more, contracting officers procuring dredging services or construction services which include dredging, must include the following in their solicitation or <abbr title="Invitation to Tender">ITT</abbr>:</p>
 <p>R2710T General Instructions – Construction Services – Bid Security Requirements</p>
 <p>In addition, contracting officers must include in the solicitation or <abbr title="Invitation to Tender">ITT</abbr>, the attached Bid and Acceptance Form Floating Plant (<abbr title="Comprehensive Economic and Trade Agreement">CETA</abbr>) instead of the Bid and Acceptance Form Floating Plant.</p>
-<h4>Set asides</h4>
+<h5>Set asides</h5>
 <p><abbr title="Comprehensive Economic and Trade Agreement">CETA</abbr> does not allow set asides for small and minority owned businesses. However, <a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/ceta-aecg/text-texte/19-A.aspx?lang=eng#a7" rel="external">Annex 19-7: General Notes</a> provides for any set aside or measure as it relates to Aboriginal peoples or businesses. Therefore, procurements that are set aside (i.e. reserved) for either <abbr title="Comprehensive Land Claims Agreement">CLCA</abbr> beneficiaries, or for Aboriginal businesses under the Procurement Strategy for Aboriginal Business (PSAB), are excluded from the Agreement, making the obligations of <abbr title="Comprehensive Economic and Trade Agreement">CETA</abbr> no longer applicable.</p>
-<h4>The Canadian Space Agency</h4>
+<h5>The Canadian Space Agency</h5>
 <p>Canadian Space Agency (CSA) procurements related to certain types of satellite systems are covered under <abbr title="Comprehensive Economic and Trade Agreement">CETA</abbr>. For a <abbr title="Canadian Space Agency">CSA</abbr> procurement to be covered, it must not only meet the conditions for coverage that procurements for other federal entities must meet, but it must also relate to satellite communications, earth observation and global navigation satellite systems.</p>
-<h3>Contact information</h3>
+<h4>Contact information</h4>
 <p>For assistance with the application of the trade agreements, contracting officers may contact Natalie Dupont in the Trade Agreement Unit of <abbr title="Public Works and Government Services Canada">PWGSC</abbr>’s Strategic Policy Sector, either by telephone at 819-420-1710, or by email: <a href="mailto:Natalie.dupont@tpsgc-pwgsc.gc.ca" rel="external">Natalie.dupont@tpsgc-pwgsc.gc.ca</a></p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-4f07a0b64748fad81a983879bb56e641">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -157,7 +157,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
+<h5 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-7162b8f8d65eb3bae143f89c4e1c8ccf">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

@@ -1,22 +1,22 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-12</h2>
+<h3 class="pn-content-title">Contenu de l'AP-12</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE :  le 16 octobre 1996</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE :  le 16 octobre 1996</h4>
 <p>Les clauses du Guide des CCUA énumérées ci-après ont été modifiées pour clarifier la signification des clauses relatives au contenu canadien et pour assurer un traitement équitable des soumissionnaires.</p>
 <p>Les clauses mises à jour exigent que le soumissionnaire présente, en même temps que sa soumisssion, une Attestation du contenu canadien; sinon les biens et services figurant dans la soumission seront considérés comme non canadiens.</p>
 <p>Les changements relatifs au Guide des approvisionnements (notamment, révision de la définition d'un service canadien) ont été faits et sont joints à la présente.</p>
 <p>Ces révisions entrent en vigueur immédiatement.</p>
 <p>À titre d'information, veuillez trouver ci-jointes des copies électroniques des clauses mises à jour du Guide des CCUA et des sections mises à jour du Guide des approvisionnements.</p>
 <p>Pour de plus amples renseignements, communiquer avec Christine Cowan (956-6497).</p>
-<h4>LES CLAUSES CI-JOINTES (ANNEXE A) SERONT PUBLIÉES DANS L'ÉDITION DE FÉVRIER 1997 DU GUIDE DES CCUA.</h4>
+<h5>LES CLAUSES CI-JOINTES (ANNEXE A) SERONT PUBLIÉES DANS L'ÉDITION DE FÉVRIER 1997 DU GUIDE DES CCUA.</h5>
 <p>Clauses mises à jour du Guide des CCUA :</p>
 <p>K4000D Définition du contenu canadien<br/>
 					K4001T Attestation du contenu canadien<br/>
@@ -27,13 +27,13 @@
 					K4006T Attestation du contenu canadien<br/>
 					K4015T Attestation du contenu canadien-S et T<br/>
 					K4100C Attestation du contenu canadien</p>
-<h4>LES CHANGEMENTS SUIVANTS (ANNEXE B) FIGURERONT DANS LA MODIFICATION DU GUIDE DES APPROVISIONNEMENTS DIFFUSÉE EN DÉCEMBRE 1996.</h4>
+<h5>LES CHANGEMENTS SUIVANTS (ANNEXE B) FIGURERONT DANS LA MODIFICATION DU GUIDE DES APPROVISIONNEMENTS DIFFUSÉE EN DÉCEMBRE 1996.</h5>
 <p>La mise à jour des procédures 5.072, 5.073, 7.366 et 7.368 du Guide des approvisionnements est jointe à la présente.</p>
-<h3>Annexe A</h3>
-<h4>Révision au Guide des clauses et conditions uniformisées d'achats</h4>
+<h4>Annexe A</h4>
+<h5>Révision au Guide des clauses et conditions uniformisées d'achats</h5>
 <p>(Ces révisions entrent en vigueur immédiatement. Elles seront publiées dans l'édition de février 1997 du Guide des CCUA.)</p>
 <p><strong>Remarques :</strong> Utiliser la clause suivante lorsqu'une définition de produits canadiens et de services canadiens est exigée. Cette clause doit toujours être utilisée lorsque les clauses K4001T, K4002T, K4003T, K4004T, K4005T et K4006T sont utilisées.</p>
-<h4>K4000D (__/__/96) Définition du contenu canadien</h4>
+<h5>K4000D (__/__/96) Définition du contenu canadien</h5>
 <p>1. Produit canadien : Un produit entièrement fabriqué au Canada ou d'origine canadienne est considéré comme un produit canadien. Un produit dont des composantes sont importées peut aussi être considéré comme produit canadien aux fins de la politique, pourvu qu'il ait été suffisamment transformé au Canada pour être conforme à la définition des Règles d'origine établies par l'Accord de libre-échange (ALE). Pour les photocopieurs, ordinateurs et matériel de bureau dans les groupes 36, 70 et 74 du Federal Supply Classification (FSC) (classification fédérale des approvisionnements), seuls les produits des entreprises du Programme de partenariat MERIT et du Programme CIRCLE ou des entreprises qui faisaient partie du Groupe prioritaire 1 avant avril 1992, sont considérés comme des produits canadiens (voir ci-dessous le paragraphe intitulé hProgramme de partenariat MERIT et Programme CIRCLEi).</p>
 <p>2. Service canadien: Un service fourni par un individu établi au Canada est considéré comme un service canadien. Lorsqu'un besoin consiste en l'acquisition de seulement un service, lequel est fourni par plus d'un individu, le service sera considéré comme canadien si au moins 80 p. 100 du prix total de la soumission pour le service est fourni par du personnel établi au Canada.</p>
 <p>3. Produits divers : Lorsque les besoins consistent en l'acquisition de plusieurs produits, l'une des deux méthodes suivantes est appliquée : </p>
@@ -59,7 +59,7 @@
 </ol>
 <hr/>
 <p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT.</strong> Utiliser la clause suivante dans toutes les demandes de soumissions en régime de concurrence auxquelles la politique sur le contenu canadien s'applique (voir le Guide des approvisionnements) et lorsque la concurrence est restreinte uniquement aux soumissions dans lesquelles sont offerts des produits et(ou) des services canadiens. Cette clause doit être utilisée dans le cas des besoins pour un seul article et des besoins pour plusieurs articles devant faire l'objet d'une attestation globale. Cette clause doit être utilisée de concert avec la clause K4000D - Définition du contenu canadien.</p>
-<h4>K4001T (__/__/96) Attestation du contenu canadien</h4>
+<h5>K4001T (__/__/96) Attestation du contenu canadien</h5>
 <p>Cet achat s'applique seulement aux produits et services canadiens, conformément aux définitions de la clause K4000D, Définition du contenu canadien.</p>
 <p>Le soumissionnaire déclare et atteste qu'au moins 80 p. 100 du prix de la soumission pour les produits ou les services offerts, correspond à des produits ou à des services canadiens, conformément aux définitions de la clause K4000D, Définition du contenu canadien.</p>
 <p>Le soumissionnaire reconnaît que le Ministre s'appuie sur la présente déclaration et attestation pour évaluer les soumissions et adjuger tout marché pouvant découler de la présente soumission. La présente déclaration et attestation relative au contenu canadien peut être vérifiée de la manière que le Ministre peut raisonnablement exiger.</p>
@@ -71,7 +71,7 @@
 					Date</p>
 <hr/>
 <p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT.</strong> Utiliser la clause suivante dans toutes les demandes de soumissions en régime de concurrence auxquelles la politique sur le contenu canadien s'applique (voir le Guide des approvisionnements) et lorsque la concurrence est restreinte de façon conditionnelle aux soumissions dans lesquelles sont offerts des produits et(ou) des services canadiens. Cette clause doit être utilisée dans le cas des besoins pour un seul article et des besoins pour plusieurs articles devant faire l'objet d'une attestation globale. Cette clause doit être utilisée de concert avec la clause K4000D - Définition du contenu canadien.</p>
-<h4>K4002T (__/__/96) Attestation du contenu canadien</h4>
+<h5>K4002T (__/__/96) Attestation du contenu canadien</h5>
 <p>Pour cet achat, une préférence est accordée aux produits et services canadiens.</p>
 <p>Si trois (3) soumissions ou plus sont accompagnées d'une attestation valide, la préférence sera accordée aux soumissions contenant la présente déclaration et attestation.</p>
 <p>En signant la présente déclaration et attestation, le soumissionnaire déclare et atteste qu'au moins 80 p. 100 du prix de la soumission pour les produits ou les services offerts, correspond à des produits ou à des services canadiens, conformément aux définitions de la clause K4000D, Définition du contenu canadien.</p>
@@ -84,7 +84,7 @@
 					Date</p>
 <hr/>
 <p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT. </strong>Utiliser la clause suivante dans toutes les demandes de soumissions en régime de concurrence auxquelles la politique sur le contenu canadien s'applique (voir le Guide des approvisionnements) et lorsque la concurrence est restreinte uniquement aux soumissions dans lesquelles sont offerts des produits et(ou) services canadiens. Cette clause doit être utilisée dans le cas des besoins pour plusieurs articles, chacun devant faire l'objet d'une attestation, et lorsque le soumissionnaire doit indiquer, contre chaque article énuméré dans la soumission, s'il s'agit d'un article canadien. Cette clause doit être utilisée de concert avec la clause K4000D - Définition du contenu canadien.</p>
-<h4>K4003T (__/__/96) Attestation du contenu canadien</h4>
+<h5>K4003T (__/__/96) Attestation du contenu canadien</h5>
 <p>Cet achat s'applique seulement aux produits et services canadiens, conformément aux définitions de la clause K4000D, Définition du contenu canadien.</p>
 <p>En signant la présente déclaration et attestation, le soumissionnaire déclare et atteste que chacun des produits ou services qui sont offerts et désignés comme canadiens dans la soumission le sont, conformément aux définitions de la clause K4000D - Définition du contenu canadien et il reconnaît que seuls ces produits ou ces services seront pris en considération.</p>
 <p>Les soumissions peuvent être acceptées en entier ou en partie.</p>
@@ -97,7 +97,7 @@
 					Date</p>
 <hr/>
 <p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT.</strong> Utiliser la clause suivante dans toutes les demandes de soumissions en régime de concurrence auxquelles la politique sur le contenu canadien s'applique (voir le Guide des approvisionnements) et lorsque la concurrence est restreinte uniquement aux soumissions dans lesquelles sont offerts des produits et(ou) des services canadiens. Cette clause doit être utilisée dans le cas des besoins pour plusieurs articles, chacun devant faire l'objet d'une attestation, et lorsque le soumissionnaire doit indiquer, contre chaque article énuméré dans sa soumission, s'il s'agit d'un article canadien. Cette clause doit être utilisée de concert avec la clause K4000D - Définition du contenu canadien.</p>
-<h4>K4004T (__/__/96) Attestation du contenu canadien</h4>
+<h5>K4004T (__/__/96) Attestation du contenu canadien</h5>
 <p>Cet achat s'applique seulement aux produits et services canadiens, conformément aux définitions de la clause K4000D, Définition du contenu canadien.</p>
 <p>Les soumissions peuvent être acceptées en entier ou en partie.</p>
 <p>Le soumissionnaire déclare et atteste que les produits ou les services suivants qui sont offerts sont des produits ou des services canadiens, conformément aux définitions de la clause K4000D - Définition du contenu canadien, et il reconnaît que seuls ces produits ou ces services seront pris en considération.</p>
@@ -115,7 +115,7 @@
 					Date</p>
 <hr/>
 <p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT.</strong> Utiliser la clause suivante dans toutes les demandes de soumissions en régime de concurrence auxquelles la politique sur le contenu canadien s'applique (voir le Guide des approvisionnements) et lorsque la concurrence est restreinte de façon conditionnelle aux soumissions dans lesquelles sont offerts des produits et(ou) des services canadiens. Cette clause doit être utilisée dans le cas des besoins pour plusieurs articles, chacun devant faire l'objet d'une attestation, et lorsque le soumissionnaire doit indiquer, contre chaque article énuméré dans sa soumission, s'il s'agit d'un article canadien. Cette clause doit être utilisée de concert avec la clause K4000D - Définition du contenu canadien.</p>
-<h4>K4005T (__/__/96) Attestation du contenu canadien</h4>
+<h5>K4005T (__/__/96) Attestation du contenu canadien</h5>
 <p>Pour cet achat, une préférence est accordée aux produits et services canadiens.</p>
 <p>Si trois (3) soumissions ou plus sont accompagnées d'une attestation valide, les articles accompagnés de la présente déclaration et attestation se verront accorder individuellement la préférence sur les autres soumissions. Les soumissions peuvent être acceptées en entier ou en partie.</p>
 <p>En signant la présente déclaration et attestation, le soumissionnaire déclare et atteste que chacun des produits ou services qui sont offerts et désignés comme canadiens dans la soumission le sont, conformément aux définitions de la clause K4000D - Définition du contenu canadien.</p>
@@ -128,7 +128,7 @@
 					Date</p>
 <hr/>
 <p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT.</strong> Utiliser la clause suivante dans toutes les demandes de soumissions en régime de concurrence auxquelles la politique sur le contenu canadien s'applique (voir le Guide des approvisionnements) et lorsque la concurrence est restreinte de façon conditionnelle aux soumissions dans lesquelles sont offerts des produits et(ou) des services canadiens. Cette clause doit être utilisée dans le cas des besoins pour plusieurs articles, chacun devant faire l'objet d'une attestation, et lorsque le soumissionnaire doit énumérer, dans l'espace prévue dans la clause, chaque article qui doit être considéré comme produit canadien ou service canadien. Cette clause doit être utilisée de concert avec la clause K4000D - Définition du contenu canadien.</p>
-<h4>K4006T (__/__/96) Attestation du contenu canadien</h4>
+<h5>K4006T (__/__/96) Attestation du contenu canadien</h5>
 <p>Pour cet achat, une préférence est accordée aux produits et services canadiens.</p>
 <p>Si trois (3) soumissions ou plus sont accompagnées d'une attestation valide, les articles accompagnés de la présente déclaration et attestation se verront accorder individuellement la préférence sur les autres soumissions. Les soumissions peuvent être acceptées en entier ou en partie.</p>
 <p>Le soumissionnaire déclare et atteste que les produits ou les services suivants qui sont offerts sont des produits ou des services canadiens, conformément aux définitions de la clause K4000D - Définition du contenu canadien.</p>
@@ -145,7 +145,7 @@
 					Date</p>
 <hr/>
 <p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT.</strong> Utiliser la clause suivante dans toutes les demandes de soumissions en régime de concurrence auxquelles la politique hSciences et technologie - sous-traitancei s'applique (voir le Guide des approvisionnements) et où l'agent des achats fixe un pourcentage minimum, normalement 80 p. 100, pour la partie du prix de la soumission qui doit correspondre à des biens et(ou) services canadiens afin que la soumission soit acceptable. Cette clause doit être utilisée de concert avec la clause K4000D - Définition du contenu canadien.</p>
-<h4>K4015T (__/__/96) Attestation contenu canadien - S et T</h4>
+<h5>K4015T (__/__/96) Attestation contenu canadien - S et T</h5>
 <p>Cet achat s'applique seulement aux produits et services canadiens, conformément aux définitions de la clause K4000D, Définition du contenu canadien.</p>
 <p>Le soumissionnaire déclare et atteste qu'au moins <span aria-label="Espace réservé vide" class="blankline"></span>  p. 100 du prix de la soumission pour les produits ou les services offerts au Canada, correspond à des produits ou à des services canadiens, conformément aux définitions de la clause K4000D - Définition du contenu canadien.</p>
 <p>Le soumissionnaire reconnaît que le Ministre s'appuie sur la présente déclaration et attestation pour évaluer les soumissions et adjuger tout marché pouvant découler de la présente soumission. La présente déclaration et attestation peut être vérifiée de la manière que le Ministre peut raisonnablement exiger.</p>
@@ -157,13 +157,13 @@
 					Date</p>
 <hr/>
 <p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT.</strong> Utiliser la clause suivante dans tous les contrats lorsque le soumissionnaire retenu doit remplir et présenter une Attestation du contenu canadien afin d'être considéré.</p>
-<h4>K4100C (__/__/96) Attestation du contenu canadien</h4>
+<h5>K4100C (__/__/96) Attestation du contenu canadien</h5>
 <p>L'entrepreneur déclare et atteste que l'attestation relative au contenu canadien présentée avec sa soumission est exacte et complète et que les produits ou les services devant être fournis au Canada conformément au présent contrat seront conformes à ladite attestation. L'entrepreneur reconnaît que le Ministre s'est fondé sur la présente déclaration et attestation pour conclure le présent contrat et que ladite déclaration et attestation peut être vérifiée de la manière que le Ministre peut raisonnablement exiger.</p>
 <p>L'entrepreneur reconnaît que s'il n'honore pas le présent engagement, le Ministre pourra le considérer en défaut aux termes du présent contrat, conformément aux dispositions relatives aux manquements de l'entrepreneur.</p>
 <p>L'entrepreneur tient les dossiers et les documents appropriés sur l'origine des produits et des services offerts au Canada. Sauf autorisation écrite du Ministre au préalable, l'entrepreneur ne pourra éliminer ces dossiers ou ces documents avant l'expiration d'une période de six (6) années commençant à la dernière des dates suivantes : la date du paiement final en vertu du présent contrat ou la date du règlement de toute plainte ou de tout litige. Au cours de cette période, tous les dossiers et les documents devront être en tout temps accessibles pour des vérifications, enquêtes et examens par les représentants autorisés du Ministre, qui pourront en tirer des copies ou des extraits. L'entrepreneur fournira toutes les installations nécessaires à ces vérifications, enquêtes et examens ainsi que tous les renseignements sur les dossiers et les documents que les représentants du ministre lui demanderont.</p>
 <p>La présente clause ne peut être interprétée de façon à limiter les droits et les recours que le Canada ou le Ministre pourra par ailleurs avoir en rapport avec le présent contrat ou en vertu de celui-ci.</p>
-<h3>Annexe B</h3>
-<h4>Révisions au Guide des approvisionnements</h4>
+<h4>Annexe B</h4>
+<h5>Révisions au Guide des approvisionnements</h5>
 <p>(Ces révisions entrent en vigueur immédiatement. Elles seront publiées dans l'édition de décembre 1996 du Guide des approvisionnements.)</p>
 <p>5.072 (__/__/96) Un produit entièrement fabriqué au Canada ou d'origine canadienne est considéré comme un produit canadien. Un produit dont des composantes sont importées peut aussi être considéré comme produit canadien aux fins de la politique, pourvu qu'il ait été suffisamment transformé au Canada pour être conforme à la définition des Règles d'origine établies par l'Accord de libre-échange (ALE). Pour les photocopieurs, ordinateurs et matériel de bureau dans les groupes 36, 70 et 74 du Federal Supply Classification (FSC) (classification fédérale des approvisionnements), seuls les produits des entreprises du Programme de partenariat MERIT et du Programme CIRCLE ou des entreprises qui faisaient partie du Groupe prioritaire 1 avant avril 1992, sont considérés comme des produits canadiens (voir ci-dessous le paragraphe intitulé hProgramme de partenariat MERIT et Programme CIRCLEi).</p>
 <p>Un service fourni par un individu établi au Canada est considéré comme un service canadien. Lorsqu'un besoin consiste en l'acquisition de seulement un service, lequel est fourni par plus d'un individu, le service sera considéré comme canadien si au moins 80 p. 100 du prix total de la soumission pour le service est fourni par du personnel établi au Canada.</p>

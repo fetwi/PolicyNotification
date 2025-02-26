@@ -1,16 +1,16 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-72R1</h2>
+<h3 class="pn-content-title">Content of PN-72R1</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>Policy Notification (PN)-72R1 replaces PN-72R, dated November 14, 2006, in its entirety. PN-72R1 is a companion to, and should be read in conjunction with PN-92, Commodity Management Policy, and with the provisions of applicable chapters of the <em>Supply Manual</em>.  In case of conflict between the <em>Supply Manual</em> and this <abbr title="Policy Notification">PN</abbr>, the provisions of PN-72R1 will take precedence.</p>
 <p>PN-72R1 provides direction to contracting officers on the creation, renewal or extension of standing offers (SOs) (National Master Standing Offer [NMSO], National Individual Standing Offer [NISO], Regional Master Standing Offer [RMSO], Regional Individual Standing Offer [RISO], Departmental Individual Standing Offer [DISO]) and supply arrangements (SAs).</p>
 <p>Requests for all <abbr title="standing offers">SOs</abbr>/<abbr title="supply arrangements">SAs</abbr>, regardless of dollar value or transaction type, related to commodities covered by National Approaches are outside the scope of PN-72R1 and must be addressed by following the instructions provided in PN-92.</p>
 <p>PN-72R1 aims to reduce duplication of <abbr title="standing offers">SOs</abbr>/<abbr title="supply arrangements">SAs</abbr>, increase the effectiveness, efficiency and level of quality of <abbr title="standing offers">SOs</abbr>/<abbr title="supply arrangements">SAs</abbr>, and ensure that within each <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr>, applicable national/regional and social objectives are addressed.  It outlines the roles and responsibilities for individuals involved in the process.</p>
-<h3>Policy</h3>
+<h4>Policy</h4>
 <p>Requests for the creation, renewal and extension of <strong><abbr title="standing offers">SOs</abbr></strong> (<abbr title="National Master Standing Offer">NMSO</abbr>, <abbr title="National Individual Standing Offer">NISO</abbr>, <abbr title="Regional Master Standing Offer">RMSO</abbr>, <abbr title="Regional Individual Standing Offer">RISO</abbr>, <abbr title="Departmental Individual Standing Offer">DISO</abbr>) and/or <strong><abbr title="supply arrangements">SAs</abbr></strong> require advance endorsement by either the designated Commodity Manager/Officer of Primary Interest (CM/OPI) identified for those goods or services, or if there is no CM/OPI, by a Regional Reviewer (RR) who is designated for each region.  If there is no CM/OPI/RR, the Manager, Commodity Coordination Division within the Performance, Spend and Commodity Management Directorate, will perform the review.</p>
 <p>All individuals conducting reviews of <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr> requests are referred to in this document as "Reviewer".  A list of reviewers is available and regularly updated in the <a href="http://soi.pwgsc.gc.ca/app/index.cfm?Fuseaction=prg.main&amp;altlang=-e" rel="external">Standing Offer Index</a> (SOI).</p>
-<h3>Application</h3>
+<h4>Application</h4>
 <ol class="double-space">
 <li>
 <strong>Review</strong>
@@ -52,13 +52,13 @@
 </ol>
 </li>
 </ol>
-<h3>Revisions to the Standing Offer Index (SOI), Supply Manual (SM) and Standard Acquisition Clauses and Conditions Manual (SACC)</h3>
+<h4>Revisions to the Standing Offer Index (SOI), Supply Manual (SM) and Standard Acquisition Clauses and Conditions Manual (SACC)</h4>
 <p>Content of <a href="#PN-72R1ann-a">Annex A</a> and <a href="#PN-72R1ann-b">Annex B</a> will be incorporated in the <a href="http://soi.pwgsc.gc.ca/app/index.cfm?Fuseaction=prg.main&amp;altlang=-e" rel="external">Standing Offer Index</a> in the near future. Any changes to the procedures will be reflected in a future version of the <em>Supply Manual</em>.  Changes have been done to <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual clauses <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#M7010C">M7010C</a> and <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#S0010C">S0010C</a>, as part of Version 10-1, dated January 11, 2010.</p>
-<h3>Contact Person</h3>
+<h4>Contact Person</h4>
 <p>Direct inquiries to the Manager, Commodity Coordination Division, Performance, Spend and Commodity Management Directorate, by e-mail at: <a href="mailto:DCBS-CCD@tpsgc-pwgsc.gc.ca" rel="external">DCBS-CCD@tpsgc-pwgsc.gc.ca</a>, or by telephone at: 819-956-0676.</p>
 <div class="alternate-format">Doc Version (73KB)<br/>
 <a class="help" href="https://www.canada.ca/en/public-services-procurement/services/acquisitions/better-buying/reducing-barriers/improving-accessibility.html">Help on File Formats</a></div>
-<h3 id="PN-72R1ann-a">Annex A - Commodity Management Request for Reviewer Endorsement</h3>
+<h4 id="PN-72R1ann-a">Annex A - Commodity Management Request for Reviewer Endorsement</h4>
 <p>Requests for the creation, renewal or extension of <abbr title="standing offers">SOs</abbr> (<abbr title="National Master Standing Offer">NMSO</abbr>, <abbr title="National Individual Standing Offer">NISO</abbr>, <abbr title="Regional Master Standing Offer">RMSO</abbr>, <abbr title="Regional Individual Standing Offer">RISO</abbr>, <abbr title="Departmental Individual Standing Offer">DISO</abbr>) and/or <abbr title="supply arrangements">SAs</abbr> require advance endorsement by the applicable Reviewer.  The instructions provided in PN-92 must be followed if the request proposed for the creation, renewal or extension relates to a commodity covered by a National Approach as part of the Commodity Management Policy.</p>
 <p>In order to obtain endorsement, the contracting officer must complete the "Request for Reviewer Endorsement" below and forward it to the applicable Reviewer.  During the evaluation, the Reviewer may:</p>
 <ol class="single-space" type="a">
@@ -67,7 +67,7 @@
 <li>"endorse with comments/recommendations/conditions", or</li>
 <li>"decline with supporting rationale".</li>
 </ol>
-<h4>Commodity Management Request for Reviewer Endorsement</h4>
+<h5>Commodity Management Request for Reviewer Endorsement</h5>
 <ol class="double-space" type="1">
 <li>To  direct this form to the appropriate Reviewer, consult the <a href="http://soi.pwgsc.gc.ca/app/index.cfm?Fuseaction=prg.main&amp;altlang=-e" rel="external">Standing Offer Index</a>, specifically the “Tables of Commodity Teams, Regional  Reviewers and Designated Commodities”.</li>
 <li>Provide  a succinct description of what is being procured, including geographical  location(s) of coverage.</li>
@@ -81,7 +81,7 @@ What is the estimated “extended period” business  volume?</li>
 <li>Will  multiple <abbr title="standing offer">SO</abbr>s/<abbr title="supply arrangement">SA</abbr>s, for the same requirement(s) be issued to multiple  offerors/suppliers? If yes, explain how client departments will competitively  determine, at the point of each call-up/contract, which offeror/supplier to  select. Does <abbr title="Public Works and Government Services Canada">PWGSC</abbr> have a mechanism in  place to assist the client department in their selection? If there is no such  system, how will the client department competitively select the  offeror/supplier?</li>
 <li>If  bid pricing is not part of the offeror/supplier evaluation/selection process,  explain what process/system will be made available to the end user to facilitate competition.</li>
 </ol>
-<h5><em>If this is a request for endorsement associated  to an amendment to an existing SO/<abbr title="supply arrangement">SA</abbr>, skip to question 20. If not, continue</em>.</h5>
+<h6><em>If this is a request for endorsement associated  to an amendment to an existing SO/<abbr title="supply arrangement">SA</abbr>, skip to question 20. If not, continue</em>.</h6>
 <ol class="double-space" start="11" type="1">
 <li>What  is the procurement strategy (competitive/sole source)?</li>
 <li>Will  the Agreement on Internal Trade (AIT), the North American Free Trade Agreement  (NAFTA), the World Trade Organization Agreement on Government Procurement  (WTO-AGP) apply?  If so, indicate which  one(s) will apply?</li>
@@ -96,7 +96,7 @@ What is the estimated “extended period” business  volume?</li>
 <li>In  the event of multiple year <abbr title="standing offer">SO</abbr>s/<abbr title="supply arrangement">SA</abbr>s, how will the prices remain competitive  during the entire period?</li>
 <li>What  are the <abbr title="standing offer">SO</abbr> call-up/<abbr title="supply arrangement">SA</abbr> contract limits and why were these limits chosen?</li>
 </ol>
-<h5>Amendments to extend existing <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr></h5>
+<h6>Amendments to extend existing <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr></h6>
 <ol class="double-space" start="20" type="1">
 <li>Why  is this <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr> not being re-solicited?</li>
 <li>How  will the prices remain competitive during the extension period(s)?</li>
@@ -105,7 +105,7 @@ What is the estimated “extended period” business  volume?</li>
 </ol>
 <p>Name of contracting officer  (please print) <span aria-label="Blank placeholder" class="blankline"></span> </p>
 <p>Phone  number: <span aria-label="Blank placeholder" class="blankline"></span> </p>
-<h4>This section must be completed by the Reviewer</h4>
+<h5>This section must be completed by the Reviewer</h5>
 <ol class="double-space" type="A">
 <li>Endorsed without  comment – The Reviewer,  <span aria-label="Blank placeholder" class="blankline"></span>  (<em>insert name of Reviewer</em>),  endorses this request for issuance of a <abbr title="standing offer">SO</abbr>/<abbr title="supply arrangement">SA</abbr> or amendment for extension  <span aria-label="Blank placeholder" class="blankline"></span>  (<em>insert </em><em>requisition number</em>), without  comment. The date of this endorsement is  <span aria-label="Blank placeholder" class="blankline"></span>  (insert date).</li>
 <li>Endorsed with  comments/recommendations/conditions – Outline  comments/recommendations/conditions or attach in a separate document</li>
@@ -114,7 +114,7 @@ What is the estimated “extended period” business  volume?</li>
  </li>
 </ol>
 <p>Contracting officers must include this request in the procurement file and the Reviewer comments must be included in the <abbr title="Contract Planning and Advance Contract">CPAA</abbr> or Procurement Plan submission.  Once endorsed with or without comments/recommendations/conditions or should the request be declined, the Reviewer will e-mail it back to the contracting officer with a copy to <a href="mailto:DCBS-CCD@tpsgc-pwgsc.gc.ca" rel="external">DCBS-CCD@tpsgc-pwgsc.gc.ca</a>. See <a href="#PN-72R1ann-b">Annex B</a> for further details.</p>
-<h3 id="PN-72R1ann-b">Annex B - Reviewer Instructions and Reporting Requirements</h3>
+<h4 id="PN-72R1ann-b">Annex B - Reviewer Instructions and Reporting Requirements</h4>
 <p>Reviews will be conducted in the following manner:</p>
 <ol class="double-space">
 <li>The Requestor will submit the "Request for Reviewer Endorsement" (see <a href="#PN-72R1ann-a">Annex A</a>) to the applicable Reviewer.  The Reviewer may add content to further clarify the request. If the Reviewer is the Commodity Manager/Officer of Primary Interest (CM/OPI), its additions must first be submitted to the following e-mail address: <a href="mailto:DCBS-CCD@tpsgc-pwgsc.gc.ca" rel="external">DCBS-CCD@tpsgc-pwgsc.gc.ca</a> for consideration before inclusion.</li>
@@ -135,9 +135,9 @@ What is the estimated “extended period” business  volume?</li>
 </li>
 <li>The Reviewer must ensure that any changes to the original approach are identified in box "D" of the request.</li>
 </ol>
-<h4>Reviewer Reporting</h4>
+<h5>Reviewer Reporting</h5>
 <p>Once the request is completed, the Reviewer must at the same time as endorsement issuance, e-mail a copy to the Commodity Coordination Division at: <a href="mailto:DCBS-CCD@tpsgc-pwgsc.gc.ca" rel="external">DCBS-CCD@tpsgc-pwgsc.gc.ca</a>.</p>
-<h4>Commodity Coordination Division (CCD) Responsibilities</h4>
+<h5>Commodity Coordination Division (CCD) Responsibilities</h5>
 <p><abbr title="Commodity Coordination Division">CCD</abbr> is responsible to:</p>
 <ol class="double-space" type="a">
 <li>ensure that, in the event of issues between the Reviewer and the Requestor, the Reviewer may consult the Manager of <abbr title="Commodity Coordination Division">CCD</abbr>, Performance, Spend and Commodity Management Directorate, for assistance.</li>

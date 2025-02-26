@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-28U</h2>
+<h3 class="pn-content-title">Content of PN-28U</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This Policy Notification is issued to provide updates to the Supply Manual (SM) policies / procedures relating to Comprehensive Land Claims Agreements (CLCAs) based on Treasury Board Secretariat (TBS) Addendum to CPN 1997-8 entitled Amendments and Additions to the Implementation of Contracting Obligations under Comprehensive Land Claims Agreements, National Park Agreements, and Department of National Defence (DND) Cooperation Agreements. Other editorial updates are also provided.</p>
 <p>Amendments which take effect immediately, are as follows:</p>
@@ -11,9 +11,9 @@
 <p>5. A change in the phone number for the SPD contact under procedures 1.047, 1.048 and 4.007.</p>
 <p>These proposed changes, provided in the attached <strong>Annex A</strong>, will be incorporated in the next release of the Supply Manual</p>
 <p><strong>NOTE</strong>: Amendments to the Land Claims Set-Aside policy will be issued in a separate Policy Notification.</p>
-<h3>Annex A</h3>
-<h3>CHAPTER 1 - OVERVIEW</h3>
-<h4>Ratified Comprehensive Land Claim Agreements</h4>
+<h4>Annex A</h4>
+<h4>CHAPTER 1 - OVERVIEW</h4>
+<h5>Ratified Comprehensive Land Claim Agreements</h5>
 <p>1.047 (xx/xx/xx) At present, there are thirteen CLCAs (including 7 which fall under the Umbrella Final Agreement, Council for Yukon Indians, that have been ratified by Parliament and are in effect. These are listed below along with the approximate areas of Canada covered by the CLCAs. Canada's contracting obligations under each agreement are identified in TBS Contracting Policy Notice1997-8 dated December 10, 1997 (link) and the Addendum issued in November 1998. (link)</p>
 <p>Section 1: <strong>James Bay and Northern Quebec Agreement</strong>: from the shores of James Bay and Hudson Bay to Labrador, covering approximately 50 percent of Quebec's land mass, mainly the northern portion of the province.</p>
 <p>Section 2: <strong>Inuvialuit Final Agreement</strong>: the islands and part of mainland along the Beaufort Sea (northwest portion of the Northwest Territories, including western portion of Victoria Island, all of Banks Island, Prince Patrick Island in the northern portion, and the western portion of Melville Island).</p>
@@ -33,22 +33,22 @@
 <p>(5.7) Tr'ondëk Hwëch'in Final Agreement: Part of Yukon Territory (formerly Dawson City)</p>
 <p>Section 6:<strong> Sahtu Dene and Metis Land Claims Agreement</strong>: Northwestern part of the District of Mackenzie, including the communities of Echo Bay, Richardson, Fort Franklin, Fort Norman, Norman Wells, and Fort Good Hope.</p>
 <p>Copies of the ratified comprehensive land claim agreements may be viewed at Supply Policy Directorate. Copies of the James Bay and Northern Quebec Agreement can be purchased from the Quebec Official Publisher by sending a request to facsimile 1-800-561-3479. Copies of the other ratified comprehensive land claim agreements can be obtained by contacting the Information Kiosk, Department of Indian Affairs and Northern Development at 819-997-0380. To determine if a specific community is located within a CLCSA, contracting officers should consult the map "Comprehensive Land Claims in Canada" and contact the Policy Analysis and Implementation Division, Supply Policy Directorate (SPD), at telephone number 819-956-7006 or 956-0863 for guidance.</p>
-<h4>National Park Agreements and DND Cooperation Agreements</h4>
+<h5>National Park Agreements and DND Cooperation Agreements</h5>
 <p>1.048 (xx/xx/xx) Contracting authorities should also be aware that a number of National Park Agreements and DND cooperation agreements have been signed between individual departments and certain aboriginal groups. These agreements which are listed below can be found in Sections 7 to 10 of TBS Contracting Policy Notice 1997-8 dated December 10, 1997:</p>
 <p>Section 7: Agreement for the Establishment of a <strong>National Park on Banks Island</strong></p>
 <p>Section 8: <strong>Tuktut Nogait National Park Co-management Agreement</strong></p>
 <p>Section 9: Co-operation Agreement Between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the <strong>Operation and Maintenance of the North Warning System</strong></p>
 <p>Section 10: Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the <strong>Restoration and Clean-up of DEW Sites within the Inuvialuit Settlement Region.</strong></p>
 <p>When advised by the client department, <acronym title="Public Works and Government Services Canada">PWGSC</acronym> will consider these cooperation agreements in the procurement process.</p>
-<h4>For More Information</h4>
+<h5>For More Information</h5>
 <p>1.049 (xx/xx/xx) For more information on CLCAs and government procurement, contracting officers may want to consult with their managers, seek legal advice or contact the appropriate subject matter expert. Policy advice is available by calling the Supply Policy Directorate at:</p>
 <p>Telephone: 819-956-0863<br/>
 					Facsimile: 819-956-6416</p>
-<h3>CHAPTER 4 - NATIONAL AND INTERNATIONAL TRADE AGREEMENTS</h3>
-<h4>Comprehensive Land Claim Agreements</h4>
-<h4>Notification of Procurement</h4>
+<h4>CHAPTER 4 - NATIONAL AND INTERNATIONAL TRADE AGREEMENTS</h4>
+<h5>Comprehensive Land Claim Agreements</h5>
+<h5>Notification of Procurement</h5>
 <p>4.007 (xx/xx/xx) Notification of the requirement must be issued to the appropriate claimant group(s). For the procurement of goods, services or construction destined for locations covered by land claim agreements, fax a copy of the procurement notice to the land claimant group(s) listed under the applicable agreement:</p>
-<h4>James Bay and Northern Quebec Agreement</h4>
+<h5>James Bay and Northern Quebec Agreement</h5>
 <p>Makivik Corporation<br/>
 					650 - 32nd Avenue, 6th Floor<br/>
 					Lachine, QC<br/>
@@ -78,21 +78,21 @@
 					G0G 2T0</p>
 <p>Telephone #: 418-585-2686<br/>
 					Facsimile #: 418-585-3130</p>
-<h4>Inuvialuit Final Agreement</h4>
+<h5>Inuvialuit Final Agreement</h5>
 <p>Inuvialuit Development Corporation<br/>
 					P.O. Bag Service # 7<br/>
 					Inuvik, NT<br/>
 					X0E 0T0</p>
 <p>Telephone #: 867-777-2419<br/>
 					Facsimile #: 867-777-3256</p>
-<h4>Gwich'in Comprehensive Land Claim Agreement</h4>
+<h5>Gwich'in Comprehensive Land Claim Agreement</h5>
 <p>Gwich'in Tribal Council<br/>
 					P.O. Box 30<br/>
 					Fort MacPherson, NT<br/>
 					X0E 0J0</p>
 <p>Telephone #: 867-952-2330<br/>
 					Facsimile #: 867-952-2212</p>
-<h4>Nunavut Land Claims Agreement</h4>
+<h5>Nunavut Land Claims Agreement</h5>
 <p>Nunavut Tunngavik Incorporated<br/>
 					P.O. Box 280<br/>
 					Rankin Inlet, NT<br/>
@@ -147,63 +147,63 @@
 					X0E 0C0</p>
 <p>Telephone #: 867-983-2458<br/>
 					Facsimile #: 867-983-2701</p>
-<h4>Umbrella Final Agreement of the Council for Yukon Indians</h4>
+<h5>Umbrella Final Agreement of the Council for Yukon Indians</h5>
 <p>Council of Yukon First Nations<br/>
 					22 Nisutlin Drive<br/>
 					Whitehorse, YT<br/>
 					Y1A 2S5</p>
 <p>Telephone #: 867-667-7631<br/>
 					Facsimile #: 867-668-6577</p>
-<h4>Champagne and Aishihik First Nations Final Agreement</h4>
+<h5>Champagne and Aishihik First Nations Final Agreement</h5>
 <p>Champagne and Aishihik First Nations<br/>
 					P.O.Box 5309<br/>
 					Haines Junction, YT<br/>
 					Y0B 1L0</p>
 <p>Telephone #: 867-634-2288<br/>
 					Facsimile #: 867-634-2108</p>
-<h4>Little Salmon/Carmacks First Nation Final Agreement</h4>
+<h5>Little Salmon/Carmacks First Nation Final Agreement</h5>
 <p>Little Salmon/Carmacks First Nation<br/>
 					P.O. Box 135<br/>
 					Carmacks, YT<br/>
 					Y0B 1C0</p>
 <p>Telephone #: 867-863-5576<br/>
 					Facsimile #: 867-863-5710</p>
-<h4>Nacho Nyak Dun Final Agreement</h4>
+<h5>Nacho Nyak Dun Final Agreement</h5>
 <p>Nacho Nyak Dun First Nation<br/>
 					P.O. Box 220<br/>
 					Mayo, YT<br/>
 					Y0B 1M0</p>
 <p>Telephone #: 867-996-2265<br/>
 					Facsimile #: 867-996-2107</p>
-<h4>Selkirk First Nation Final Agreement</h4>
+<h5>Selkirk First Nation Final Agreement</h5>
 <p>Selkirk First Nation<br/>
 					P.O. Box 40<br/>
 					Pelly Crossing, YT<br/>
 					Y0B 1P0</p>
 <p>Telephone #: 867-537-3331<br/>
 					Facsimile #: 867-537-3902</p>
-<h4>Teslin Tlingit Council Final Agreement</h4>
+<h5>Teslin Tlingit Council Final Agreement</h5>
 <p>Teslin Tlingit Council<br/>
 					P.O. Box 133<br/>
 					Teslin, YT<br/>
 					Y0A 1B0</p>
 <p>Telephone #: 867-390-2532<br/>
 					Facsimile #: 867-390-2204</p>
-<h4>Vuntut Gwichin First Nation Final Agreement</h4>
+<h5>Vuntut Gwichin First Nation Final Agreement</h5>
 <p>Vuntut Gwichin<br/>
 					General Delivery, P.O. Box 94<br/>
 					Old Crow, YT<br/>
 					Y0B 1N0</p>
 <p>Telephone: 867-966-3261<br/>
 					Facsimile: 867-966-3800</p>
-<h4>Tr'ondëk Hwëch'in Final Agreement</h4>
+<h5>Tr'ondëk Hwëch'in Final Agreement</h5>
 <p>Tr'ondëk Hwëch'in<br/>
 					P.O. Box 599<br/>
 					Dawson City, YT<br/>
 					Y0B 1G0</p>
 <p>Telephone #: 867-993-5385<br/>
 					Facsimile #: 867-993-6553</p>
-<h4>Sahtu Dene and Metis Comprehensive Land Claim Agreement</h4>
+<h5>Sahtu Dene and Metis Comprehensive Land Claim Agreement</h5>
 <p>Fort Good Hope Metis Nation<br/>
 					Land Corporation, Local No. 54<br/>
 					General Delivery<br/>

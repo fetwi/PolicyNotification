@@ -1,13 +1,13 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-105</h2>
-<h3>Objet</h3>
+<h3 class="pn-content-title">Contenu de l'AP-105</h3>
+<h4>Objet</h4>
 <p> Le présent avis relatif aux politiques (AP-105) vise à informer tous les employés des régions et de la Direction générale des approvisionnements (DGA) des modifications apportées au chapitre 6, Approbations et pouvoirs du Guide des approvisionnements, à l’appui des nouveaux processus et des nouvelles limites relatives aux pouvoirs d'approbation pour les achats de base et normalisés. Ces modifications visent à simplifier les pouvoirs exceptionnels d’attribution des contrats et les pouvoirs de signature, et à demander à ce que soient remplis les nouveaux formulaires de délégation. 
 </p>
 <p>Le chapitre 6 fournit maintenant des renseignements précis sur le traitement des achats de base et normalisés et modifie les différentes limites relatives aux pouvoirs décrites à l'annexe 6.4, Conditions imposées sur les limites des pouvoirs d’approbation pour le personnel de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>. Les modifications aux pouvoirs limités appuient la mise en œuvre des achats de base et normalisés (p. ex., 100 <abbr title="pour cent">p. 100</abbr> de la limite ministérielle pour le niveau 2). En outre, l’établissement des contrats et les limites de modification relatives aux travaux de construction et aux services d’architecture et de génie ont été mis à jour pour tenir compte des limites approuvées par le Conseil du Trésor. Les processus actuels s'appliquent toujours pour tous les achats qui ne sont pas catégorisés comme de base ou normalisés. Le processus d’achats complexes est en voie d’élaboration et sera présenté à une date ultérieure.
 </p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p><abbr title="avis relatif aux politiques">AP</abbr>-104 Mise en œuvre de nouveaux processus relatifs aux achats de base et normalisés présente les nouveaux processus d'approvisionnement et explique le contexte ainsi que la mise en application connexe. Afin d'assurer une fonctionnalité intégrale des ces nouveaux processus, il est nécessaire de modifier les procédures d'approbation et les limites relatives aux pouvoirs d'approbation décrites dans le chapitre 6. L'<abbr title="avis relatif aux politiques">AP</abbr>-105 modifie les procédures d'approbation afin d'y intégrer les processus pour les achats de base et normalisés et ajoute un nouvel article à l’Annexe 6.4 afin d’aborder les limites des pouvoirs liées aux achats de base et normalisés. 
 </p>
 <p>Le ministre a signé un nouvel instrument de délégation des pouvoirs le 13 mars 2012 qui assure une fonctionnalité intégrale des nouveaux processus et nouvelles limites de pouvoirs d'approbation des achats de base et normalisés, c’est-à-dire qu’il accroît la plupart des pouvoirs liés à l’acquisition de services communs. Ces modifications sont prises en considération dans les révisions du chapitre 6.
@@ -20,15 +20,15 @@ base. Le risque est généralement faible.
 </p>
 <p>La caractéristique de l’<dfn><strong>« approvisionnement complexe »</strong></dfn> est de traiter avec l’inconnu. Ce type d’approvisionnement requiert de la créativité et une élaboration continue. Il est fondé sur l’atteinte d’un objectif et motivé par la gestion du changement et des étapes. Des méthodes préétablies d’approvisionnement peuvent devoir être modifiées. Les stratégiques d’approvisionnement et les méthodes d’évaluation peuvent devoir faire l’objet de recherche et être développées. L’approvisionnement peut comprendre des partenariats avec des clients, de multiples intervenants et peut exiger le partage du contrôle. L’administration du contrat est détaillée et étendue, et peut être imprévisible. Le niveau du risque peut être élevée (sensibilité du public, produit, incidences).
 </p>
-<h3>Date d’entrée en vigueur</h3>
+<h4>Date d’entrée en vigueur</h4>
 <p>Le présent <abbr title="avis relatif aux politiques">AP</abbr> entre en vigueur immédiatement.
 </p>
-<h3>Modifications au Guide des approvisionnements</h3>
+<h4>Modifications au Guide des approvisionnements</h4>
 <p>Le chapitre 6, Approbations et pouvoirs, a été mis à jour pour tenir compte des modifications requises pour la mise en œuvre des nouveaux processus d'approvisionnement et pour simplifier les pouvoirs exceptionnels d’attribution des contrats. La plupart des changements ont été apportés dans les sections 6.5, Documents d’approbation de l’approvisionnement, et 6.10, Examens supplémentaires, et dans les annexes 6.2, Instructions relatives à la demande de contrat, 6.3, Préparation des documents d’approbation de la modification de contrat, et 6.4, Conditions imposées sur les limites des pouvoirs d’approbation pour le personnel de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>.
 </p>
 <p>Il convient également de noter que tous les pouvoirs de signature sont maintenant « complets », c’est-à-dire que les ressources se retrouvant sous ce niveau et possédant une délégation d’autorité valide pour les contrats peuvent signer les documents contractuels pour le même groupe de biens et services.
 </p>
-<h3>Formulaires de délégation</h3>
+<h4>Formulaires de délégation</h4>
 <p>Puisque les limites ont changé, on demande aux agents de négociation des contrats de la Direction générale des approvisionnements (DGA) et des régions de remplir les nouveaux formulaires de délégation. 
 </p>
 <p>Afin d'exercer ces pouvoirs, les agents de négociation des contrats doivent remplir le formulaire pour leur poste (supprimer les articles qu'ils n'achètent pas), le signer, le dater et le transmettre à leur supérieur, qui le signera et inscrira la date de signature.
@@ -44,12 +44,12 @@ base. Le risque est généralement faible.
 <li value="3">s'assurer qu'une copie signée est conservée au dossier dans le secteur d'approvisionnement ou dans un emplacement central. 
 </li>
 </ol>
-<h3>Personne-ressource</h3>
+<h4>Personne-ressource</h4>
 <p>Pour obtenir de plus amples renseignements sur le contenu du présent  <abbr title="avis relatif aux politiques">AP</abbr>, veuillez communiquer avec Susan Blakeney, Direction de la politique et du processus d'approvisionnement, par téléphone, au 819-956-8235 ou par courriel à <a href="mailto:susan.blakeney@pwgsc-tpsgc.gc.ca" rel="external">susan.blakeney@pwgsc-tpsgc.gc.ca</a>.
 </p>
 <p>Pour de plus amples renseignements sur les nouveaux processus d'approvisionnement présentés par la Direction des politiques stratégiques, vous pouvez envoyer un courriel à l'adresse suivante : <a href="mailto:Modernizingtogether.modernisonsensemble@pwgsc-tpsgc.gc.ca" rel="external">Modernizingtogether.modernisonsensemble@pwgsc-tpsgc.gc.ca</a>.
 </p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
+<h5 class="field-label">Sections du Guide des approvisionnements visées</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-8385b5166c56e6e86ba26a40532a2c3d">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

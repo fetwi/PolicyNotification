@@ -1,32 +1,32 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-45</h2>
+<h3 class="pn-content-title">Contenu de l'AP-45</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 14 décembre 1999</h3>
-<h4>Objet de la politique</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 14 décembre 1999</h4>
+<h5>Objet de la politique</h5>
 <p>Cette politique vise à faire en sorte que les camionneurs indépendants et leurs sous-traitants faisant affaire avec le gouvernement fédéral soient payés au moins aux taux de transport établis par les gouvernements provinciaux et territoriaux du Canada.</p>
-<h4>Politique</h4>
+<h5>Politique</h5>
 <p>Selon l'article 16.13 de la Politique sur les marchés du Conseil du Trésor (CT) (en vigueur à compter du 15 août 1999), le gouvernement doit payer les taux de transport minimums qui ont été fixés par les gouvernements provinciaux et territoriaux lorsqu'ils font appel à des camionneurs indépendants pour obtenir des services de transport dans le cadre de projets fédéraux, que ce soit directement ou par le biais de sous-traitants. Par conséquent, TPSGC doit, dans ses marchés conclus pour le compte d'autres ministères ou organismes ou pour lui-même, respecter cette exigence du CT lorsque des services de transport sont requis. Dans le cas des services de transport entre les provinces et les territoires, les taux applicables sont ceux en vigueur dans la province ou le territoire où se déroule le projet ou la majeure partie du projet.</p>
 <p>La politique de TPSGC entrera en vigueur au moment de sa publication sous la forme d'un avis relatif aux politiques. Elle s'applique uniquement aux nouveaux marchés fédéraux pour lesquels les documents d'appel d'offres n'ont pas été émis.</p>
 <p>Par conséquent, dans le cas de travaux comprenant des services de transport, tous les documents contractuels (demandes de propositions, documents de soumission, contrats) doivent faire état de cette exigence en matière de taux de transport et contenir les clauses pertinentes, comme il est à <strong>l'annexe A</strong> ci-dessous.</p>
-<h4>Clauses du guide des Clauses et conditions uniformisées d'achats</h4>
+<h5>Clauses du guide des Clauses et conditions uniformisées d'achats</h5>
 <p>Les soumissionnaires et les entrepreneurs, selon le cas, doivent accepter de respecter la Politique en matière de taux de transport de TPSGC. Tous les documents contractuels (demandes de proposition, documents d'appel d'offres, contrats, etc.) doivent faire référence aux exigences de la politique lorsque les travaux comprennent des services de transport. Les clauses à l'annexe A, s'il y a lieu, devront être incluses dans les documents contractuels.</p>
-<h4>Incorporation dans les guides</h4>
+<h5>Incorporation dans les guides</h5>
 <p>Cette procédure, ainsi que les clauses relatives, seront incorporées dans la prochaine modification du <i>Guide des approvisionnements</i> et guide des <i>Clauses et conditions uniformisées d'achat</i>, qui devraient paraître en mai 2000.</p>
-<h3>Annexe A</h3>
-<h4>SECTION 7A - PRÉPARATION D'UNE INVITATION À SOUMISSIONNER</h4>
+<h4>Annexe A</h4>
+<h5>SECTION 7A - PRÉPARATION D'UNE INVITATION À SOUMISSIONNER</h5>
 <p><strong>Coûts de transport</strong></p>
 <p>7.061 (<strong>xx/xx/xx</strong>) Cette politique vise à faire en sorte que les <i>camionneurs indépendants et leurs sous-traitants</i> faisant affaire avec le gouvernement fédéral soient payés au moins aux taux de transport établis par les gouvernements provinciaux et territoriaux du Canada, selon l'article 16.13 de la Politique sur les marchés du Conseil du Trésor (CT) (en vigueur à compter du 15 août 1999). Dans le cas des services de transport entre les provinces et les territoires, les taux applicables sont ceux en vigueur dans la province ou le territoire où se déroule le projet ou la majeure partie du projet.</p>
 <p>La politique de TPSGC est en vigueur depuis le 14 décembre 1999. Elle s'applique uniquement aux nouveaux marchés fédéraux pour lesquels les documents d'appel d'offres n'ont pas été émis.</p>
 <p>Par conséquent, dans le cas de travaux comprenant des services de transport, les documents de soumission doivent inclure la clause C5205T, et les documents contractuels doivent inclure la clause C5205C. Les clauses précitées exigent que l'entrepreneur principal acceptent de payer à ses sous-traitants relevant du contrat les taux de transport minimums qui ont été fixés par les gouvernements provinciaux ou territoriaux.</p>
-<h3>Annexe B</h3>
+<h4>Annexe B</h4>
 <p><strong>Remarques : </strong>Utiliser la clause suivante dans les documents de soumissions lorsque les travaux comprennent des services de transport.</p>
 <p><strong>C5205T (xx/xx/xx) Taux de transport</strong></p>
 <p>Les soumissionnaires doivent respecter la Politique en matière de taux de transport du gouvernement fédéral lorsque le contrat comprend des services de transport par camion. La Politique en matière de taux de transport exige que les clients paient, directement à l'entrepreneur principal ou à ses sous-traitants, les taux de transport minimums qui ont été fixés par les gouvernements provinciaux ou territoriaux où se déroule le projet ou la majeure partie du projet.</p>

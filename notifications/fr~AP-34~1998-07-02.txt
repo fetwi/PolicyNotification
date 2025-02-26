@@ -1,26 +1,26 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-34</h2>
+<h3 class="pn-content-title">Contenu de l'AP-34</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 2 juillet 1998</h3>
-<h4>Origine :</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 2 juillet 1998</h4>
+<h5>Origine :</h5>
 <p>Le Président du Tribunal canadien du commerce extérieur a soulevé la question à savoir si en général, les fournisseurs connaissaient les recours offerts aux soumissionnaires non retenus qui ne sont pas satisfaits du processus de la passation des marchés.</p>
-<h4>Politique :</h4>
+<h5>Politique :</h5>
 <p>Bien qu'il soit déjà pratique courante dans certains secteurs d'informer les soumissionnaires non retenus des possibilités de recours auprès du TCCE ou de la cour fédérale, advenant qu'ils ne sont pas satisfaits de la manière dont la passation d'un marché particulier s'est déroulée, nous désirons que ce soit dorénavant la politique au sein de TPSGC, de fournir cette information lors des comptes rendus avec les soumissionnaires non retenus.</p>
 <p>Où les lettres d'avis aux soumissionnaires non retenus sont utilisées, nous ne croyons pas que ces lettres devraient servir à fournir ou à rappeler aux soumissionnaires les diverses procédures de recours, à moins qu'ils soient d'abord invités à assister à un compte rendu au cours duquel l'agent de négociation des contrats aura l'occasion d'expliquer comment le processus s'est déroulé et de répondre aux questions et préoccupations avant qu'une plainte formelle soit déposée. Bien que nous tenions à ce que les soumissionnaires non retenus soient informés des procédures de recours à leur disposition, nous croyons qu'il est important que TPSGC s'acquitte d'abord de la première étape du recours qui consiste à répondre aux questions et à partager de l'information, afin de réduire les probabilités que des plaintes formelles soient déposées immédiatement (prématurément) par des soumissionnaires non retenus.</p>
 <p>Le modificatif 98-3 du Guide des approvisionnements incluera la modification à la procédure GA 7.698 (reproduite à l'annexe A) qui précisera que dans le cas des marchés assujettis aux accords commerciaux, les soumissionnaires non retenus devront être informés qu'ils ont le droit de déposer une plainte formelle auprès du TCCE; pour ce qui est des marchés non assujettis aux accords commerciaux, les soumissionnaires non retenus seront informés qu'ils ont le droit d'intenter une action à la cour fédérale.</p>
-<h4>Entrée en vigueur :</h4>
+<h5>Entrée en vigueur :</h5>
 <p>Cette politique entre en vigueur immédiatement. Si vous avez des questions à ce sujet, veuillez communiquer avec Lise Rieger au 956-0863.</p>
-<h3>Annexe A</h3>
-<h4>CHANGEMENT AU GUIDE DES APPROVISIONNEMENTS</h4>
-<h4>Comptes rendus</h4>
+<h4>Annexe A</h4>
+<h5>CHANGEMENT AU GUIDE DES APPROVISIONNEMENTS</h5>
+<h5>Comptes rendus</h5>
 <p>7.698 (__/__/98) Les soumissionnaires dont les soumissions ont été rejetées devraient pouvoir obtenir, sur demande et seulement après l'attribution du contrat, un débreffage au cours duquel on expliquera les raisons pour lesquelles la soumission n'a pas été retenue, en faisant référence aux critères d'évaluation. De plus, au cours de ce débreffage, le soumissionnaire non retenu devra être informé des procédures de recours, advenant qu'il ne soit toujours pas satisfait de la manière dont s'est déroulé le processus. Dans le cas des marchés assujettis au accords commerciaux, il faudra indiquer au soumissionnaire qu'il a le droit de présenter une plainte auprès du Tribunal canadien du commerce extérieur; pour ce qui est des marchés non assujettis aux accords commerciaux, il faudra indiquer au soumissionnaire qu'il a le droit d'intenter une action à la cour fédérale.</p>
 <p>Il faut par contre veiller à ne pas divulguer de renseignements confidentiels ayant trait à d'autres soumissions. <strong>La divulgation des renseignements relatifs aux autres soumissions par les agents d'achat doit se faire conformément à la procédure 7.706.</strong></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">

@@ -1,21 +1,21 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-50</h2>
+<h3 class="pn-content-title">Contenu de l'AP-50</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 24 novembre 2000</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 24 novembre 2000</h4>
 <p>Suite à un examen récent de la politique sur le PCF EE, il a été décidé d'effectuer une modification des exigences en ce qui a trait aux attestations d'engagement ou des numéros d'attestation.</p>
 <p>Les soumissionnaires continueront d'avoir à indiquer si le Programme s'applique à eux ou non, et si oui, ils devront fournir une attestation d'engagement, ou un numéro d'attestation valable dans le cas où ils ont attestés de leur engagement antérieurement.</p>
 <p>Par contre, il ne sera plus obligatoire que cette information soit fournie avant la date de fermeture des soumissions. Les agents de contrat seront responsables de s'assurer de la conformité du soumissionnaire recommandé <strong>avant l'attribution du contrat</strong>.</p>
 <p>La clause K2000T révisée du guide des CCUA est à l'annexe A et les procédures révisées (5.112 et 7D.364) du Guide des approvisionnements sont à l'annexe B.</p>
 <hr/>
-<h3>ANNEXE A - CLAUSE DU GUIDE DES CCUA</h3>
+<h4>ANNEXE A - CLAUSE DU GUIDE DES CCUA</h4>
 <p>(Voir la procédure 5.113 du Guide des approvisionnements pour les exemptions au Programme)</p>
 <p><strong>K2000T (xx/xx/xx) Équité en matière d'emploi</strong></p>
 <p>1. En vertu du Programme de contrats fédéraux pour l'équité en matière d'emploi, certaines entreprises soumissionnant des marchés fédéraux d'une valeur de 200 000 $ et plus doivent s'engager formellement à mettre en œuvre un programme d'équité en matière d'emploi avant que leurs soumissions puissent être validées. Si le soumissionnaire est assujetti au Programme, la preuve de son engagement doit être fournie avant l'attribution du marché.</p>
@@ -27,12 +27,12 @@
 <li>Si les exceptions ci-haut mentionnés ne s'appliquent pas au soumissionnaire, il devra se conformer aux exigences du Programme. Par conséquent, il devra soumettre soit une Attestation d'engagement dûment signée (voir référence ci-dessous), ou son numéro d'Attestation comme suit : <span aria-label="Espace réservé vide" class="blankline"></span>  qui confirmera son adhérence au Programme.</li>
 </ol>
 <p>2. Dans tous les cas, le soumissionnaire devra produire la preuve nécessaire sur demande, si celle-ci n'est pas incluse avec sa soumission. Dans aucun cas le contrat sera-t-il attribué à une organisation qui ne se conforme pas aux exigences du Programme des contrats fédéraux pour l'équité en matière d'emploi, à moins qu'elle en soit exemptée.</p>
-<h4>NOTA :</h4>
+<h5>NOTA :</h5>
 <p>1. Le Programme de contrats fédéraux pour l'équité en matière d'emploi s'applique seulement aux soumissionnaires établis au Canada.</p>
 <p>2. L'attestation d'engagement, les critères d'application du Programme de contrats fédéraux pour l'équité en matière d'emploi et les renseignements généraux sont disponibles par l'entremise du guide des Clauses et conditions uniformisées d'achat, section 2, et sur le site Internet de Travaux publics et Services gouvernementaux Canada, à l'adresse suivante  : <a href="http://sacc.tpsgc.gc.ca/sacc/index-f.jsp" rel="external">http://sacc.tpsgc.gc.ca/sacc/index-f.jsp</a>.</p>
 <hr/>
-<h3>ANNEXE B -  GUIDE DES APPROVISIONNEMENTS - MODIFICATIONS AUX PROCÉDURES</h3>
-<h4>CHAPITRE 5 - STRATÉGIE DE SÉLECTION DES FOURNISSEURS</h4>
+<h4>ANNEXE B -  GUIDE DES APPROVISIONNEMENTS - MODIFICATIONS AUX PROCÉDURES</h4>
+<h5>CHAPITRE 5 - STRATÉGIE DE SÉLECTION DES FOURNISSEURS</h5>
 <p><strong>Équité en matière d'emploi</strong></p>
 <p>5.112 (xx/xx/xx) L'admissibilité des fournisseurs à soumissionner un contrat peut être restreinte par le Programme de contrats fédéraux pour l'équité en matière d'emploi. Les marchés visant à répondre à des besoins de produits et de services évalués à 200 000 $ ou plus doivent être attribués aux fournisseurs qui :</p>
 <ol type="a">
@@ -52,7 +52,7 @@
 </ul>
 <p>Dans le cas de besoins qui sont assujettis à l'ALENA et à l'OMC-AMP, les exigences d'équité en matière d'emploi ne s'appliquent qu'aux fournisseurs qui exploitent une entreprise au Canada.</p>
 <hr/>
-<h4>CHAPITRE 7 - TRAITEMENT DES SOUMISSIONS</h4>
+<h5>CHAPITRE 7 - TRAITEMENT DES SOUMISSIONS</h5>
 <p><strong>Équité en matière d'emploi</strong></p>
 <p>7D.364 (xx/xx/xx) Lorsqu'une soumission recommandée est assujettie au Programme de contrats fédéraux pour l'équité en matière d'emploi, il sera impossible de procéder à l'attribution du contrat à moins qu'une Attestation d'engagement ou un numéro de certificat ait été fourni au préalable</p>
 <p>L'Attestation d'engagement ou le numéro de certificat est une condition préalable à la validation  des soumissions et non pas une modalité du contrat.</p>

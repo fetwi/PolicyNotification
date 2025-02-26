@@ -1,27 +1,27 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-135U1</h2>
+<h3 class="pn-content-title">Content of PN-135U1</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of Policy Notification (PN-135U1) is to inform Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) contracting officers of the changes made to the Standing Offers and Supply Arrangements Application (SOSA App) regarding document safeguarding.</p>
 <p>This <abbr title="Policy Notification">PN</abbr> should be read in conjunction with <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/policy-notifications?pnid=PN-135#browse-previous-pn">Policy Notification 135 – Publishing Standing Offers and Supply Arrangements on the <abbr title="Standing Offers and Supply Arrangements Application">SOSA App</abbr></a>.</p>
-<h3>Effective date</h3>
+<h4>Effective date</h4>
 <p><abbr title="Policy Notification">PN</abbr>-135U1 is effective immediately.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>The <a href="https://canadabuys.canada.ca/en/getting-started/standing-offers-and-supply-arrangements-application-sosa"><abbr title="Standing Offers and Supply Arrangements Application">SOSA App</abbr></a> is a secure, web based application that allows authorized federal, provincial and territorial users to use and view federal standing offers and supply arrangements. Increased security measures, including technological and process enhancements, have been added to the <abbr title="Standing Offers and Supply ArrangementsApplication">SOSA App</abbr> to reinforce document security.</p>
 <p>Process enhancements to the <abbr title="Standing Offers and Supply ArrangementsApplication">SOSA App</abbr> include the requirement for contracting officers to ensure relevant documents have the appropriate security marking <strong>prior</strong> to uploading to the <abbr title="Standing Offers and Supply ArrangementsApplication">SOSA App</abbr>.</p>
 <p>Contracting officers are reminded to safeguard documents containing sensitive information. Sensitive information, including third party information such as supplier price lists, must not be made available to the public and are designated as Protected B information. In addition, contracting officers are reminded that in instances where a document includes information that contains different levels of security, the highest category of security level found in the document must be applied to the entire document (High-Water Mark Approach). Consult the departmental guide on <a class="gov" href="https://masource-mysource.spac-pspc.gc.ca/eng/services/dgs-dob/pcms-spa/Pages/guideprot.aspx" rel="external">levels of security</a><span> (accessible only on the Government of Canada network)</span> for the security definition and categorization of sensitive information.</p>
 <p>For additional examples of sensitive, third-party information, please refer to <a href="https://laws-lois.justice.gc.ca/eng/acts/a-1/page-3.html#h-515" rel="external">section 20 (1) of the <cite>Access to Information Act</cite></a>.</p>
-<h3>Revisions to the Supply Manual</h3>
+<h4>Revisions to the Supply Manual</h4>
 <p>The Supply Manual has been revised in support of this <abbr title="Policy Notification">PN</abbr>. For more details, refer to the Affected Supply Manual sections listed below.</p>
-<h3>Revisions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h3>
+<h4>Revisions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h4>
 <p>There are no changes to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual.</p>
-<h3>Revisions to the Standard Procurement Templates</h3>
+<h4>Revisions to the Standard Procurement Templates</h4>
 <p>There are no changes to the Standard Procurement Templates.</p>
-<h3>Contact information</h3>
+<h4>Contact information</h4>
 <p>For questions regarding the requirements outlined in this <abbr title="Policy Notification">PN</abbr>, email Buyandsell.gc.ca at the following address: <a href="mailto:achatsetventes.buyingandselling@tpsgc-pwgsc.gc.ca" rel="external">achatsetventes.buyingandselling@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions regarding the Supply Manual can be sent to the following email: <a href="mailto:tpsgc.paspspublications-apspspublications.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.paspspublications-apspspublications.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-357fc708bbeae2e430dc7474efe288de">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

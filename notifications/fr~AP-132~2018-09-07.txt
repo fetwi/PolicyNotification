@@ -1,29 +1,29 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-132</h2>
-<h3>But</h3>
+<h3 class="pn-content-title">Contenu de l'AP-132</h3>
+<h4>But</h4>
 <p>Le présent avis relatif aux politiques 132 (AP) 132 consiste à renseigner les membres du Programme des approvisionnements (PA) sur les nouvelles exigences en matière de passation de marchés et d'attestation concernant l'achat éthique de vêtements.</p>
-<h3>Date d'entrée en vigueur et application</h3>
+<h4>Date d'entrée en vigueur et application</h4>
 <p>Le présent <abbr title="avis relatif aux politiques">AP</abbr> entre en vigueur immédiatement et remplace toutes les exigences relatives au lieu d'origine de la fabrication en rapport avec l'achat de vêtements.</p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>Faisant partie intégrante de l'engagement du gouvernement d'améliorer les bénéfices sociaux et économiques à l'aide de l'approvisionnement, le présent <abbr title="avis relatif aux politiques">AP</abbr> établit des mesures claires pour que les vêtements soient achetés auprès de fournisseurs qui exercent leurs activités d'une manière responsable sur le plan éthique et social. Plus précisément, les nouvelles exigences donnent suite à des préoccupations concernant des violations des droits de la personne et des travailleurs dans la chaîne d'approvisionnement fédérale. Elles permettront d'établir un niveau minimum de comportement éthique attendu de la part des fournisseurs de vêtements dans le cadre des contrats établis par le <abbr title="Programme des approvisionnements">PA</abbr>.</p>
 <p>Misant sur ce que de nombreuses entreprises ont déjà adopté en vue d'assurer l'intégrité et la sécurité de leur chaîne d'approvisionnement, cette approche découle de l'engagement du Canada d'appliquer les normes internationales, dont les <a href="https://www.ilo.org/dyn/normlex/fr/f?p=NORMLEXPUB:11200:0::NO::P11200_COUNTRY_ID:102582" rel="external">huit conventions fondamentales de l'Organisation internationale du Travail (OIT)</a>, de même que la <a href="http://www.un.org/fr/universal-declaration-human-rights/index.html" rel="external">Déclaration universelle des droits de l'homme (DUDH)</a> de l'Organisation des Nations Unies (ONU). </p>
 <p>Les fournisseurs qui vendent des vêtements au gouvernement doivent attester eux mêmes qu'ils respectent, et que leurs premiers sous traitants respectent, les lois locales et les normes internationales en matière de droits des travailleurs et de la personne. Ces droits comprennent la protection contre le travail des enfants, le travail forcé, la discrimination et les abus, ainsi que l'accès à un salaire équitable et à des conditions de travail sécuritaires.</p>
-<h3>Exigences</h3>
+<h4>Exigences</h4>
 <p>Les agents de passation de marchés doivent adopter les exigences en matière d'attestation et de passation de marchés suivantes dans toutes les offres relatives aux articles vestimentaires énumérés à l'<strong>annexe A</strong>, en modifiant, si nécessaire, les termes en fonction de la méthode d'approvisionnement. </p>
-<h4>Attestation</h4>
+<h5>Attestation</h5>
 <p>La clause sur l'attestation en matière d'achat éthique, à <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#A3006T">A3006T</a>, exige des soumissionnaires et de leurs premiers sous-traitants qu'ils se conforment aux normes minimales régissant les droits de la personne et les droits des travailleurs, établis dans le formulaire d'attestation de l'achat éthique. En présentant une soumission, le soumissionnaire atteste qu'il respecte l'attestation.</p>
 <p>La clause sur le lieu d'origine de la fabrication, à <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#A3007T">A3007T</a>, exige que les soumissionnaires indiquent, dans leurs documents de soumission, le nom des fabricants, des fournisseurs et des sous traitants qui ont fabriqué le vêtement, l'emplacement de ces personnes et leur pays d'origine. </p>
 <p>Les renseignements recueillis par l'intermédiaire de la clause sur le lieu d'origine de la fabrication seront publiés sur le site Achatsetventes.gc.ca comme renseignements relatifs à l'attribution du contrat.</p>
 <p>Les soumissionnaires, fournisseurs et premiers sous traitants doivent veiller à la conformité continue avec l'attestation et maintenir l'exactitude des renseignements présentés dans la clause sur le lieu d'origine de la fabrication qui figure dans les documents d'invitation à soumissionner. Les entrepreneurs doivent aviser par écrit le Canada de tout changement à ces renseignements et noter que ces changements peuvent être vérifiés en tout temps par le Canada pendant le processus d'approvisionnement et la période du contrat. Si l'attestation ou les renseignements sur le lieu d'origine de la fabrication se révèlent inexacts, le Canada peut résilier le contrat pour manquement.</p>
 <p>La clause contractuelle sur l'achat éthique, à <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#A3008C">A3008C</a>, doit être intégrée à tous les contrats de vêtements. En l'intégrant au contrat, par renvoi, le formulaire d'attestation de l'achat éthique transmis à l'étape de l'évaluation des soumissions fera partie de l'entente ayant force obligatoire entre le Canada et l'entrepreneur. </p>
-<h3>Sommaire des révisions</h3>
+<h4>Sommaire des révisions</h4>
 <p>Le Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> a été mis à jour pour refléter cette approche révisée.</p>
-<h3>Points de contact</h3>
+<h4>Points de contact</h4>
 <p>Les demandes de renseignements concernant l'application des nouvelles clauses sur les vêtements peuvent être envoyées à l'adresse courriel suivante : <a href="mailto:TPSGC.PAAchatseEthiques-APEthicalProcurement.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PAAchatseEthiques-APEthicalProcurement.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Les questions portant sur le Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> ou les modèles uniformisés d'approvisionnement peuvent envoyées à l'adresse courriel suivante : <a href="mailto:TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
-<h3>Annexe A – Liste de vêtements </h3>
+<h4>Annexe A – Liste de vêtements </h4>
 <p>L'avis relatif aux politiques 132 s'applique à l'achat d'articles vestimentaires liés aux codes <abbr title="Numéro d'identification des biens et services">NIBS</abbr> énumérés dans le tableau ci dessous. </p>
 <table>
 <tbody><tr>
@@ -113,7 +113,7 @@
 </tr>
 </tbody></table> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
+<h5 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-8d755f48c892bba9ff189b6737baca06">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

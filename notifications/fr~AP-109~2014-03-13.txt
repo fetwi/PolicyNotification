@@ -1,24 +1,24 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-109</h2>
-<h3>Introduction</h3>
+<h3 class="pn-content-title">Contenu de l'AP-109</h3>
+<h4>Introduction</h4>
 <p>Le 5 février 2014, l’honorable Diane Finley, ministre des Travaux publics et des Services gouvernementaux et l’honorable Robert Nicholson, ministre de la Défense nationale, ont lancé la nouvelle Stratégie d’approvisionnement en matière de défense du Canada. </p>
 <p>Voir le <a href="http://nouvelles.gc.ca/web/article-fr.do?mthd=tp&amp;crtr.page=1&amp;nid=813789&amp;crtr.tp1D=1&amp;_ga=1.243403265.562934682.1391614034" rel="external">communiqué de presse</a>.</p>
-<h3>Objet</h3>
+<h4>Objet</h4>
 <p>La <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/stamgp-lamsmp/sskt-fra.html" rel="external">Stratégie d’approvisionnement en matière de défense</a> (SAMD) représente un changement fondamental dans l’approche du gouvernement du Canada à l’égard de l’approvisionnement en matière de défense. Elle comporte les éléments suivants : </p>
 <ul>
 <li>Fournir le bon équipement aux Forces armées canadiennes en temps opportun;</li>
 <li>Tirer parti de nos achats de matériel de défense pour créer des emplois et assurer la croissance économique au Canada;</li>
 <li>Simplifier les processus d’approvisionnement en matière de défense.</li>
 </ul>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>La <abbr title="Stratégie d’approvisionnement en matière de défense">SAMD</abbr> a été élaborée à la lumière d’une collaboration à grande échelle entre le gouvernement et l’industrie ainsi que des recommandations figurant dans les rapports <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/stamgp-lamsmp/eam-lmp-fra.html" rel="external">Jenkins</a> et <a href="http://examenaerospatiale.ca/eic/site/060.nsf/fra/h_00003.html" rel="external">Emerson</a> commandés par le gouvernement du Canada. </p>
 <p>La Stratégie d’approvisionnement en matière de défense permet de respecter l’engagement du gouvernement visant à garantir que les achats de matériel de défense créent des possibilités économiques et des emplois pour les Canadiens.</p>
-<h3>Date d’entrée en vigueur</h3>
+<h4>Date d’entrée en vigueur</h4>
 <p>Le présent avis relatif aux politiques entre en vigueur le 5 février 2014. La mise en œuvre de la Stratégie d’approvisionnement en matière de défense commencera immédiatement selon une approche graduelle à la suite des consultations en cours avec l’industrie. Veuillez consulter le <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/stamgp-lamsmp/planmise-impplan-fra.html" rel="external">plan de mise en œuvre</a> pour obtenir des détails importants sur la façon dont la stratégie sera mise en œuvre.</p>
 <p>La <abbr title="Stratégie d’approvisionnement en matière de défense">SAMD</abbr> sera mise en œuvre selon une approche pangouvernementale visant à atteindre les trois objectifs énoncés et sera appuyée par un nouveau régime décisionnel, lequel comprendra un Comité de gouvernance des sous-ministres de même qu’un nouveau secrétariat permanent des approvisionnements en matière de défense au sein de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>. </p>
-<h3>Politique</h3>
+<h4>Politique</h4>
 <p>Les sections ci-après contiennent des renseignements sur les divers éléments de la stratégie. Des détails supplémentaires seront fournis sous peu aux agents de négociation des contrats au moyen de mises à jour au présent avis relatif aux politiques et d’autres communications.</p>
 <p>La <abbr title="Stratégie d’approvisionnement en matière de défense">SAMD</abbr> représente un changement fondamental dans l’approche du gouvernement du Canada à l’égard de l’approvisionnement en matière de défense, et comprend les éléments suivants :</p>
 <p>Fournir le bon équipement aux Forces armées canadiennes et à la Garde côtière canadienne en temps opportun</p>
@@ -40,7 +40,7 @@
 <li>Mettre sur pied un <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/stamgp-lamsmp/streamlined-fra.html#a1" rel="external">secrétariat d'approvisionnement en matière de défense</a> au sein de Travaux publics et Services gouvernementaux Canada;</li>
 <li>Passer en revue le <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/stamgp-lamsmp/autorite-authority-fra.html" rel="external">pouvoir délégué du ministère de la Défense nationale</a> pour l'achat de biens, tout en envisageant la possibilité de hausser le plafond existant de 25 000 $, ce qui permettrait d'accroître l'efficacité des pratiques d'approvisionnement.</li>
 </ul>
-<h4>Proposition de valeur et avantages sur le plan industriel et technologique</h4>
+<h5>Proposition de valeur et avantages sur le plan industriel et technologique</h5>
 <p>Aux termes de la Stratégie d’approvisionnement en matière de défense, le gouvernement s’est engagé à s’assurer que les achats d’équipement militaire créent d’excellentes possibilités économiques.</p>
 <p>Traditionnellement, les soumissions relatives à l’approvisionnement étaient évaluées en fonction de la cote et de la pondération de la conformité technique et du prix uniquement; le volet des retombées pour le Canada était évalué selon un système de réussite ou d’échec. L’utilisation de la proposition de valeur à titre d’élément pondéré et coté de l’évaluation d’une soumission relative à l’approvisionnement est une des caractéristiques clés de la Stratégie d’approvisionnement en matière de défense.</p>
 <p>La composition particulière des propositions de valeur témoignera des activités et des investissements contribuant à l’obtention de retombées pour le Canada attendues pour un approvisionnement donné, notamment :</p>
@@ -56,13 +56,13 @@
 <li>Pour les approvisionnements d'une valeur de 100 millions de dollars ou plus, la proposition de valeur devra faire partie d'un plan de retombées industrielles et technologiques complet.</li>
 </ul>
 <p>De plus, les retombées industrielles et régionales (RIR) seront remplacées par les retombées industrielles et technologiques (RIT).</p>
-<h4>Politique des retombées industrielles et régionales révisée</h4>
+<h5>Politique des retombées industrielles et régionales révisée</h5>
 <p>La politique révisée comprendra deux changements importants :</p>
 <ul>
 <li>Les engagements liés aux retombées pour le Canada ne seront plus évalués selon un système de réussite ou d’échec, mais plutôt cotés et pondérés dans le cadre d’une proposition de valeur pendant le processus d’évaluation des soumissions.</li>
 <li>Les obligations liées aux retombées pour le Canada feront l’objet de rapports publics. Des exemptions pourront être accordées si un argument raisonnable établit que les renseignements propres à un engagement donné constituent des renseignements commerciaux de nature délicate, ou pour des raisons de sécurité.</li>
 </ul>
-<h3>Prochaines étapes</h3>
+<h4>Prochaines étapes</h4>
 <p>Au cours des prochains jours et semaines, des directives vous seront fournies quant aux détails de la mise en œuvre de la stratégie, et des répercussions sur les approvisionnements à venir. Cette politique n’a pas de répercussions sur les demandes de soumissions actuelles, mais les fournisseurs et clients pourraient avoir des questions quant à la mise en œuvre de la stratégie. Si les renseignements fournis dans cet AP ne permettent pas de répondre aux questions, communiquez avec votre superviseur ou envoyez un courriel à l'adresse suivante pour de plus amples renseignements : <a href="mailto:PAretroaction.APfeedback@tpsgc-pwgsc.gc.ca" rel="external">PAretroaction.APfeedback@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

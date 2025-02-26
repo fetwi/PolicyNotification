@@ -1,17 +1,17 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-135</h2>
+<h3 class="pn-content-title">Content of PN-135</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of Policy Notification 135 (PN-135) is to inform <abbr and="" canada="" government="" services="" title="Public" works="">PWGSC</abbr> Acquisitions Program (AP) contracting officers of the actions they must take to post information to the <a href="https://sosa.canadabuys.canada.ca/my-agreements">Standing Offers and Supply Arrangements Application (SOSA App)</a>, which officially replaced the Standing Offer Index (SOI) on October 11, 2018. </p>
 <p>This <abbr title="Policy Notification">PN</abbr> should be read in conjunction with <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/policy-notifications?pnid=PN-131#browse-previous-pn">Policy Notification 131 – Canadian Collaborative Procurement Initiative for Standing Offers</a>.</p>
-<h3>Effective date</h3>
+<h4>Effective date</h4>
 <p>This <abbr title="Policy Notification">PN</abbr> is effective immediately. </p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>The <a href="https://sosa.canadabuys.canada.ca/my-agreements"><abbr title="Standing Offers and Supply Arrangements Application">SOSA App</abbr></a> is a secure, web based application that allows known and trusted users to manage and view federal Standing Offers (SOs) and Supply Arrangements (SAs). </p>
 <p>The <abbr title="Standing Offers and Supply Arrangements Application">SOSA App</abbr> was originally released in June 2016 to provide secure access to federal standing offers to authorized provincial and territorial users that had signed a Master User Agreement (MUA) with Public Works and Government Services Canada (PWGSC). This was done in accordance with <abbr and="" canada="" government="" services="" title="Public" works="">PWGSC</abbr>’s <a href="https://www.tpsgc-pwgsc.gc.ca/app-acq/app-collaborat-procur/index-eng.html" rel="external">Canadian Collaborative Procurement Initiative (CCPI)</a> and further to an <a href="http://orders-in-council.canada.ca/attachment.php?attach=30566&amp;lang=en" rel="external">Order in Council</a> approved in February 2015, permitting <abbr and="" canada="" government="" services="" title="Public" works="">PWGSC</abbr> to share its procurement instruments and services on a voluntary basis, at no additional cost to provinces and territories.</p>
 <p>On October 11, 2018, Buyandsell.gc.ca launched the second phase of the <abbr title="Standing Offers and Supply Arrangements Application">SOSA App</abbr>, making it the official source for Government of Canada <abbr title="Standing Offers">SOs</abbr> and <abbr title="Supply Arrangements">SAs</abbr>, replacing the <abbr index="" offer="" title="Standing">SOI</abbr>. All information about the <abbr title="Standing Offers">SOs</abbr> and <abbr title="Supply Arrangements">SAs</abbr> that was posted in <abbr index="" offer="" title="Standing">SOI</abbr> before the launch has already been exported to the <abbr title="Standing Offers and Supply Arrangements Application">SOSA App</abbr>. Following the launch date, any <abbr title="Standing Offer">SO</abbr>, <abbr title="Supply Arrangement">SA</abbr>, or amendment that is issued must be posted directly into the <abbr title="Standing Offers and Supply Arrangements Application">SOSA App</abbr> by a contracting officer. Otherwise, these <abbr title="Standing Offers">SOs</abbr>, <abbr title="Supply Arrangements">SAs</abbr> or amendments will not be visible to authorized federal, provincial and territorial users.</p>
-<h3>Posting Standing Offer and Supply Arrangement information on the <abbr title="Standing Offers and Supply Arrangements Application">SOSA App</abbr></h3>
+<h4>Posting Standing Offer and Supply Arrangement information on the <abbr title="Standing Offers and Supply Arrangements Application">SOSA App</abbr></h4>
 <p>Contracting officers must take the following actions to post their standing offers and supply arrangements to the <abbr title="Standing Offers and Supply Arrangements Application">SOSA App</abbr>:</p>
 <ol>
 <li><strong>Obtain a secure BuyandSell.gc.ca account:</strong> Contracting officers require a secure account on Buyandsell.gc.ca to be able to modify information on the <abbr title="Standing Offer and Supply Arrangement">SOSA</abbr> App web application. To obtain a Buyandsell.gc.ca account, a contracting officer must first have a Government of Canada (GC) approved digital identity such as <b>myKEY</b>. A contracting officer may then obtain the necessary permissions to access <abbr title="Standing Offers and Supply Arrangements Application">SOSA App</abbr> by sending a request to <a href="mailto:achatsetventes.buyingandselling@tpsgc-pwgsc.gc.ca" rel="external">achatsetventes.buyingandselling@tpsgc-pwgsc.gc.ca</a>. </li>
@@ -25,13 +25,13 @@
 </li>
 <li>Post the <abbr title="Standing Offer">SO</abbr> or <abbr title="Supply Arrangement">SA</abbr> to the <abbr title="Standing Offers and Supply Arrangements Application">SOSA App</abbr> as detailed in the user guide.</li>
 </ol>
-<h3>Summary of revisions to the Supply Manual</h3>
+<h4>Summary of revisions to the Supply Manual</h4>
 <p>The Supply Manual has been updated to reflect this <abbr title="Policy Notification">PN</abbr>.</p>
-<h3>Summary of revisions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h3>
+<h4>Summary of revisions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h4>
 <p>There are no changes to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr>.</p>
-<h3>Contact information</h3>
+<h4>Contact information</h4>
 <p>For any request, email Buyandsell.gc.ca at the following address: <a href="mailto:achatsetventes.buyingandselling@tpsgc-pwgsc.gc.ca" rel="external">achatsetventes.buyingandselling@tpsgc-pwgsc.gc.ca</a></p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-f72008e3d0173b2ba145640508eac96a">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

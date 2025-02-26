@@ -1,31 +1,31 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-109U2</h2>
+<h3 class="pn-content-title">Content of PN-109U2</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of Policy Notification 109U2 (PN-109U2) is to reflect changes to the Canadian Content Policy as set out in the Defence Procurement Strategy (DPS).</p>
-<h3>Effective date</h3>
+<h4>Effective date</h4>
 <p>PN-109U2 and the related changes to the <cite>Supply Manual</cite>, <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual and Standard Procurement Templates are effective March 13, 2014.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>On February 5, 2014, Canada’s new <abbr title="Defence Procurement Strategy">DPS</abbr> was launched. The <abbr title="Defence Procurement Strategy">DPS</abbr> fulfills the Government’s commitment to ensure defence equipment procurement creates economic opportunities and jobs for Canadians. <abbr title="Policy Notification">PN</abbr> 109 (Defence Procurement Strategy) provided information on the various components of the strategy. </p>
-<h3>Policy</h3>
+<h4>Policy</h4>
 <p>The Canadian Content Policy limits the competition for a covered procurement to Canadian goods/services if there is sufficient competition.  At the current time, "<dfn>sufficient competition</dfn>" is defined as at least 3 eligible suppliers (i.e. suppliers of Canadian goods/services); as a result of the <abbr title="Defence Procurement Strategy">DPS</abbr>, "<dfn>sufficient competition</dfn>" for the Policy will be defined as at least 2 eligible suppliers.</p>
 <p>The Canadian Content Policy can be found in <cite>Supply Manual</cite> <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-3-annexes#_3-6">Annex 3.6 Canadian Content Policy</a> of the <cite>Supply Manual</cite>.</p>
 <p>This change will be effective March 13, 2014, at which time, the change will be reflected in the ABE system (Canadian content application code).</p>
-<h3>Revisions to the <cite>Supply Manual</cite></h3>
+<h4>Revisions to the <cite>Supply Manual</cite></h4>
 <p>In support of this <abbr title="Policy Notification">PN</abbr>, the <cite>Supply Manual</cite> will be updated. To view the sections to be modified, please refer to “Affected <cite>Supply Manual</cite> Sections” below. </p>
-<h3>Revisions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h3>
+<h4>Revisions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h4>
 <p>The text of <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual Clause A3070T – Evaluation Procedures for Procurement Conditionally Limited to Canadian Content is revised. Refer to “Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual Sections” below.</p>
-<h3>Standard Procurement Templates</h3>
+<h4>Standard Procurement Templates</h4>
 <p>The Higher Complexity (HC) and Medium Complexity (MC) Bid Solicitation and Resulting Contract Templates as well as the Request for Standing Offers (RFSO) Template are revised under Part 4 titled Evaluation Procedures and Basis of Selection to reflect this change</p>
-<h3>Next Steps</h3>
+<h4>Next Steps</h4>
 <p>In order the monitor the effectiveness of this change, whenever the change from 3 to 2 eligible suppliers has the effect of limiting the procurement to eligible suppliers, sectors/regions are to send an email to Christine Cowan (<a href="mailto:christine.cowan@tpsgc-pwgsc.gc.ca" rel="external">christine.cowan@tpsgc-pwgsc.gc.ca</a>) providing the solicitation number and a description of the goods/services procured.</p>
-<h3>Contact Information</h3>
+<h4>Contact Information</h4>
 <p>Enquiries related to this PN can be sent to Christine Cowan by email: <a href="mailto:christine.cowan@tpsgc-pwgsc.gc.ca" rel="external">christine.cowan@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions regarding the SACC Manual or the Standard Procurement Templates may be sent to Procurement Policy and Tools Division by e-mail at: <a href="mailto:Outilsd'approvisionnement.ProcurementTools@tpsgc-pwgsc.gc.ca" rel="external">Outilsd'approvisionnement.ProcurementTools@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions about the <cite>Supply Manual</cite> can be forwarded to the Acquisitions Program Policy Directorate at: <a href="mailto:DPPApublications.APPDpublications@tpsgc-pwgsc.gc.ca" rel="external">DPPApublications.APPDpublications@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-d0a4d887dec102c0437d379e3d7f81ca">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -35,7 +35,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
+<h5 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-113af181aeb084e9fb4eca393053b47d">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">

@@ -1,17 +1,17 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-123</h2>
-<h3>Objet</h3>
+<h3 class="pn-content-title">Contenu de l'AP-123</h3>
+<h4>Objet</h4>
 <p>Le but de l’avis relatif aux politique (AP) 123 est de notifier tous les employés du Programme d'Approvisionnement (PA) et toute autre personne fournissant des services d'approvisionnement au nom d'<abbr title="Programme d'Approvisionnement">PA</abbr> d'une nouvelle politique sur le Processus de conformité des soumissions en phases.</p>
 <p>Le Processus de conformité des soumissions en phases (PCSP) est un processus qui peut être incorporé dans les soumissions impliquant soit une demande de proposition, soit une demande d'offre à commandes (DP/DOC). Il offre aux soumissionnaires ou offrants une opportunité, après la date de clôture de la soumission, de corriger une constatation de non-conformité à l'égard des exigences obligatoires admissibles. Lorsqu'un soumissionnaire ou un offrant est jugé non conforme, on lui offrira l'opportunité de soumettre des informations supplémentaires ou différentes afin d'être réévalué comme étant conforme à ces exigences obligatoires admissibles. La politique définit un ensemble de facteurs communs qui est à la base de la décision de Travaux publics et Services gouvernementaux Canada concernant la question de savoir si le <abbr title="Processus de conformité des soumissions en phases">PCSP</abbr> fera partie des conditions d’une <abbr title="demande de proposition">DP</abbr>/<abbr title="demande d'offre à commandes">DOC</abbr> donnée.</p>
-<h3>Résultats prévus</h3>
+<h4>Résultats prévus</h4>
 <p>Le <abbr title="Processus de conformité des soumissions en phases">PCSP</abbr> devrait appuyer les objectifs d’approvisionnement du gouvernement du Canada en matière de concurrence et de meilleur rapport qualité-prix pour le Canada en augmentant le nombre de soumissions ou d’offres qui répondent aux exigences obligatoires admissibles d’une <abbr title="demande de proposition">DP</abbr>/<abbr title="demande d'offre à commandes">DOC</abbr> donnée du <abbr title="Processus de conformité des soumissions en phases">PCSP</abbr>.</p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>La lettre de mandat du ministre des Services publics et de l’Approvisionnement d’octobre 2015 enjoint au ministre de garantir que les processus d’approvisionnement du gouvernement du Canada sont simplifiés et moins lourds sur le plan administratif. À l’automne 2015, le Programme des approvisionnements a défini la latitude dans la conformité des soumissions à titre d’objectif visant à soutenir le mandat ministériel.</p>
 <p>De plus, en juin 2016, le Programme des approvisionnements a publié l’Avis relatif aux politiques 117 – Attestations, déclarations et preuves, qui appuie son engagement quant à la souplesse du <abbr title="Processus de conformité des soumissions en phases">PCSP</abbr> en offrant de la latitude aux soumissionnaires lorsqu’ils doivent fournir de tels documents obligatoires. À peu près à ce moment-là, le Programme d’acquisition de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> s’est également engagé à élaborer une politique qui offre une souplesse similaire aux soumissionnaires et aux offrants en ce qui concerne la conformité à une plus large gamme d’exigences obligatoires associées à un certain sous-ensemble de ses <abbr title="demande de proposition">DP</abbr>/<abbr title="demande d'offre à commandes">DOC</abbr>.</p>
-<h3>Politique</h3>
-<h4>Lorsque le <abbr title="Processus de conformité des soumissions en phases">PCSP</abbr> doit être inclus dans une demande de proposition ou une demande d’offre à commandes :</h4>
+<h4>Politique</h4>
+<h5>Lorsque le <abbr title="Processus de conformité des soumissions en phases">PCSP</abbr> doit être inclus dans une demande de proposition ou une demande d’offre à commandes :</h5>
 <p>Sous réserve des exceptions énoncées ci-dessous, le <abbr title="Processus de conformité des soumissions en phases">PCSP</abbr> doit être inclus dans une <abbr title="demande de proposition">DP</abbr>/<abbr title="demande d'offre à commandes">DOC</abbr> lorsque la valeur estimée est de 2 000 000 $ ou plus et qu’un ou plusieurs des facteurs suivants sont présents :</p>
 <ul type="i">
 <li>l’exigence est complexe;</li>
@@ -28,8 +28,8 @@
 <li>le <abbr title="Processus de conformité des soumissions en phases">PCSP</abbr> est inclus dans une <abbr title="demande de proposition">DP</abbr>/<abbr title="demande d'offre à commandes">DOC</abbr> lorsque les facteurs ci-dessus ne sont pas rencontrés.</li>
 </ul>
 <p>La justification des exceptions susmentionnées doit être documentée dans le dossier d’approvisionnement.</p>
-<h4>Application du <abbr title="Processus de conformité des soumissions en phases">PCSP</abbr> :</h4>
-<h5>Phase I : Évaluation de la conformité : l’information financière requise :</h5>
+<h5>Application du <abbr title="Processus de conformité des soumissions en phases">PCSP</abbr> :</h5>
+<h6>Phase I : Évaluation de la conformité : l’information financière requise :</h6>
 <ul type="i">
 <li>Après la date et heure de clôture d’une <abbr title="demande de proposition">DP</abbr>/<abbr title="demande d'offre à commandes">DOC</abbr>, l’agent d’approvisionnement de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> devra :
 		<ul type="a">
@@ -42,7 +42,7 @@
 		<br/>
 <br/>Les soumissions ou les offres qui continuent de manquer de l’information financière requise après le délai accordé aux soumissionnaires et offrants seront considérées non conforme et ne seront pas davantage prises en considération.</li>
 </ul>
-<h5>Phase II : Évaluation de la conformité de toutes les autres exigences obligatoires d’admissibilité</h5>
+<h6>Phase II : Évaluation de la conformité de toutes les autres exigences obligatoires d’admissibilité</h6>
 <ul type="i">
 <li>L’équipe d’évaluation évaluera seulement les soumissions ou offres avec toutes les informations financières requises comme déterminé dans la phase I pour déterminer si elles répondent à toutes les autres exigences obligatoires d’admissibilité, comme indiqué dans la <abbr title="demande de proposition">DP</abbr>/<abbr title="demande d'offre à commandes">DOC</abbr>. Une fois cet examen terminé, l’agent d’approvisionnement de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> remettra à tous les soumissionnaires et à tous les offrants un rapport d’évaluation de la conformité (REC). Ce rapport informera les soumissionnaires ou les offrants, soit en confirmant que leur soumission est toujours à l’étude par <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>, soit en indiquant toute exigence obligatoire à laquelle la soumission /l’offre n’est pas encore conforme.</li>
 <li>Les soumissionnaires ou les offrants présentant une soumission ou une offre dont la conformité à une ou plusieurs des exigences obligatoires d’admissibilité n’est pas encore démontrée seront invités à présenter des renseignements supplémentaires ou différents, uniquement dans le but de rendre la réévaluation des exigences obligatoires d’admissibilité identifiés dans le <abbr title="rapport d’évaluation de la conformité">REC</abbr> conformes.</li>
@@ -62,22 +62,22 @@
 <li>L’équipe d’évaluation examinera les renseignements supplémentaires ou différents fournis par le soumissionnaire ou l’offrant afin de déterminer si sa soumission ou son offre est désormais conforme avec les exigences obligatoires d’admissibilité identifiées dans le <abbr title="rapport d’évaluation de la conformité">REC</abbr>. Les soumissions ou les offres qui ne sont pas conformes à toutes les exigences obligatoires admissibles à la fin de l’étape II seront considérées non conforme et ne seront pas prises en considération.</li>
 <li>Pour les exigences obligatoires requises avec une note de seuil minimal la note originale du soumissionnaire ou de l'offrant sera utilisée dans la détermination de la note finale globale.</li>
 </ul>
-<h5>Phase III : Achèvement du processus d’évaluation</h5>
+<h6>Phase III : Achèvement du processus d’évaluation</h6>
 <p>Dans cette phase, le processus d’évaluation tel qu’établi dans les documents de demande de soumissions ou d’offre continuera jusqu’à ce que le soumissionnaire ou l’offrant retenu soit désigné ou jusqu'à ce qu'il soit déterminé qu'il n'y a pas de soumissionnaire ou offrant retenu.</p>
-<h3>Manuel du Processus de conformité des soumissions en phase</h3>
+<h4>Manuel du Processus de conformité des soumissions en phase</h4>
 <p>Le manuel soutient la mise en œuvre de cette politique en fournissant des informations sur la façon dont le <abbr title="Processus de conformité des soumissions en phases">PCSP</abbr> doit être appliqué et en identifiant les rôles et responsabilités connexes des agents d’approvisionnements du Programme des Approvisionnements, les fonctionnaires des ministères et des organismes clients, ainsi que des soumissionnaires et des offrants, comme indiqué dans le document de demande de soumissions.</p>
 <p>Le manuel peut être demandé par courrier électronique à l'adresse suivante :</p>
 <p><a href="mailto:tpsgc.papcsp-appbcp.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.papcsp-appbcp.pwgsc@tpsgc-pwgsc.gc.ca</a></p>
-<h3>Exigences de rapport</h3>
+<h4>Exigences de rapport</h4>
 <p>Les agents d’approvisionnements sont tenus de fournir les informations relatives à l'utilisation du Processus de conformité des soumissions en phase dans les demandes de proposition individuelle ou une demande d'offre à commandes (DP/DOC). Des informations spécifiques sur les rapports peuvent être obtenues en contactant :</p>
 <p><a href="mailto:tpsgc.papcsp-appbcp.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.papcsp-appbcp.pwgsc@tpsgc-pwgsc.gc.ca</a></p>
-<h3>Coordonnées</h3>
+<h4>Coordonnées</h4>
 <p>Vous pouvez envoyer les demandes de renseignements relatives à cette politique par courriel à l’adresse suivante :</p>
 <p><a href="mailto:tpsgc.papcsp-appbcp.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.papcsp-appbcp.pwgsc@tpsgc-pwgsc.gc.ca</a></p>
-<h3>Modifications au Guide des approvisionnements et au Guide des clauses et conditions uniformisées d’achat</h3>
+<h4>Modifications au Guide des approvisionnements et au Guide des clauses et conditions uniformisées d’achat</h4>
 <p>Les modifications au Guide des approvisionnements et au Guide des Clauses et conditions uniformisées d’achat seront fournies à une date ultérieure. Pour des clauses et conditions spécifiques de <abbr title="demande de proposition">DP</abbr>/<abbr title="demande d'offre à commandes">DOC</abbr>, veuillez contacter : </p>
 <p><a href="mailto:tpsgc.papcsp-appbcp.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.papcsp-appbcp.pwgsc@tpsgc-pwgsc.gc.ca</a></p>
-<h3>Lexique des termes</h3>
+<h4>Lexique des termes</h4>
 <dl>
 <dt>Exigences obligatoires d’admissibilité</dt>
 <dd>Exigences obligatoires pour lesquelles la conformité peut être évaluée peu de temps après la clôture des offres.</dd>

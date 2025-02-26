@@ -1,16 +1,16 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-53R</h2>
+<h3 class="pn-content-title">Contenu de l'AP-53R</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3> DATE : le 11 février 2005</h3>
-<h4>Introduction</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4> DATE : le 11 février 2005</h4>
+<h5>Introduction</h5>
 <p>L'Avis relatif aux politiques 53R vise à corriger les écarts<br/>
 					entre le <em>Guide des approvisionnements (GDA)</em> et le <em>guide<br/>
 					des Clauses et conditions uniformisées d'achat</em> (CCUA)<br/>
@@ -21,7 +21,7 @@
 <p>L'<a href="#AP-53Rannexa">annexe A</a> et l'<a href="#AP-53Rannexb">annexe B </a>ci-joints entreront en vigueur immédiatement.<br/>
 					Tous les changements en rouge seront intégrés dans<br/>
 					les versions du GDA et du guide des CCUA de juin 2005. </p>
-<h4>Historique</h4>
+<h5>Historique</h5>
 <p>En 1997, l'annulation de la clause A9092C du guide des CCUA (Travaux<br/>
 					précontractuels autorisés) fut à l'origine<br/>
 					d'une rupture avec la procédure du GDA portant sur la confirmation<br/>
@@ -35,9 +35,9 @@
 <p>					complétés et la procédure à suivre pour<br/>
 					un contrat lorsque les travaux précontractuels n'ont pas<br/>
 					été complétés.</p>
-<h4>Révision</h4>
+<h5>Révision</h5>
 <p>Cette révision concerne les éléments suivants :</p>
-<h4>Guide des approvisionnements :</h4>
+<h5>Guide des approvisionnements :</h5>
 <ul>
 <li>6E.507 d) : modifié pour éclaircir les circonstances<br/>
 						ayant trait aux confirmations de commandes lorsque les agents<br/>
@@ -80,7 +80,7 @@
 						canadien du commerce extérieur pour donner l'exemple d'un<br/>
 						événement négatif potentiel.</li>
 </ul>
-<h4>Guide des Clauses et conditions uniformisées d'achat :</h4>
+<h5>Guide des Clauses et conditions uniformisées d'achat :</h5>
 <ul>
 <li>A9090C - Droits et obligations prioritaires :<br/>
 						Supprimée car elle n'est plus requise et que le sujet est<br/>
@@ -93,11 +93,11 @@
 						Nouvelle clause axée sur l'ancienne clause A9092C qui fut<br/>
 						annulée en 1997.</li>
 </ul>
-<h4>Personne-contact :</h4>
+<h5>Personne-contact :</h5>
 <p><strong>S/O</strong></p>
-<h4><a id="AP-53Rannexa" name="annexa"></a>Annexe A MODIFICATIONS AU GUIDE DES APPROVISIONNEMENTS</h4>
-<h5>Section 6E - Processus</h5>
-<h5>Services juridiques</h5>
+<h5><a id="AP-53Rannexa" name="annexa"></a>Annexe A MODIFICATIONS AU GUIDE DES APPROVISIONNEMENTS</h5>
+<h6>Section 6E - Processus</h6>
+<h6>Services juridiques</h6>
 <p>6E.507 <strong>(xxxx-xx-xx)</strong> Des matières diverses doivent<br/>
 					obligatoirement être soumises à l'examen des Services<br/>
 					juridiques, notamment :</p>
@@ -106,14 +106,14 @@
 					d'un client et qu'une confirmation de commande est demandée<br/>
 					(voir 7F.692);</em></p>
 <hr/>
-<h5>Annexe 6.1.2. : Limites du pouvoir d'approbation pour les biens,<br/>
+<h6>Annexe 6.1.2. : Limites du pouvoir d'approbation pour les biens,<br/>
 					les services, la construction, <em>les télécommunications<br/>
 					et les services d'architecture et de génie</em><br/>
-					(xxxx-xx-xx)</h5>
-<h5>Limites d'approbation pour l'établissement et la modification<br/>
-					d'un marché</h5>
-<h5>Biens, les services, la construction, les télécommunications<br/>
-					et les services d'architecture et de génie :</h5>
+					(xxxx-xx-xx)</h6>
+<h6>Limites d'approbation pour l'établissement et la modification<br/>
+					d'un marché</h6>
+<h6>Biens, les services, la construction, les télécommunications<br/>
+					et les services d'architecture et de génie :</h6>
 <p><strong>Ratifications :</strong> Les pouvoirs d'approbation des accords<br/>
 					qui comportent des travaux précontractuels, une ratification<br/>
 					d'engagements contractuels ou des confirmations de commandes, ou<br/>
@@ -124,9 +124,9 @@
 					s'applique à tous les seuils exprimés en dollars <em>au-dessous<br/>
 					du niveau du sous-ministre adjoint</em>.</p>
 <hr/>
-<h5>Chapitre 7</h5>
-<h5>Section 7F - Mesures à prendre après l'adjudication<br/>
-					d'un contrat</h5>
+<h6>Chapitre 7</h6>
+<h6>Section 7F - Mesures à prendre après l'adjudication<br/>
+					d'un contrat</h6>
 <p><strong>Ratification par le Conseil du Trésor</strong></p>
 <p>7F.691 <strong>(xxxx-xx-xx)</strong> «  Si une autorité contractante<br/>
 					passe un marché sans l'autorisation du Conseil du Trésor<br/>
@@ -205,8 +205,8 @@
 <hr/>
 <div class="topPage"><a href="#AP-53Rtphp" title="Retourner au haut de la page"><br/>
 				Haut de la page</a></div>
-<h4><a id="AP-53Rannexb" name="annexb"></a>Annexe B MODIFICATIONS AU GUIDE DES<br/>
-					CCUA</h4>
+<h5><a id="AP-53Rannexb" name="annexb"></a>Annexe B MODIFICATIONS AU GUIDE DES<br/>
+					CCUA</h5>
 <p> <strong>A9092C: <em>Supprimé</em>.</strong></p>
 <hr/>
 <p><strong>A9094C (xxxx-xx-xx) Travaux précontractuels non autorisés</strong></p>
@@ -224,7 +224,7 @@
 					le ministère client ne désire pas conserver les droits<br/>
 					de propriété intellectuelle. Utiliser la clause suivante<br/>
 					avec C0210C sous la Base de paiement.</p>
-<h5>Texte :</h5>
+<h6>Texte :</h6>
 <p><em>Les parties reconnaissent que l'entrepreneur,<br/>
 					afin de respecter ses obligations énoncées dans le<br/>
 					contrat, a, à partir du <span aria-label="Espace réservé vide" class="blankline"></span>  , commencé les travaux<br/>
@@ -252,9 +252,9 @@
 					élaborée ou produite</em> par l'entrepreneur dans<br/>
 					l'exécution des travaux précontractuels, appartiendront<br/>
 					au Canada.</p>
-<h5>Remarque: A9120C - nouvelle clause recréée à<br/>
-					partir de la clause A9092C annulée en 1997</h5>
-<h5>A9120C (xxxx-xx-xx) Travaux précontractuels autorisés</h5>
+<h6>Remarque: A9120C - nouvelle clause recréée à<br/>
+					partir de la clause A9092C annulée en 1997</h6>
+<h6>A9120C (xxxx-xx-xx) Travaux précontractuels autorisés</h6>
 <p><strong>Remarques: LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS<br/>
 					LES DOCUMENTS D'ACHAT.</strong> Utiliser cette clause lorsqu'un entrepreneur<br/>
 					proposé a entrepris les travaux avec l'autorisation d'un<br/>
@@ -269,7 +269,7 @@
 					le client ne désire pas conserver les droits de propriété<br/>
 					intellectuelle. Utiliser cette clause de concert avec la clause<br/>
 					C0210C sous la Base de paiement.</p>
-<h5>Texte :</h5>
+<h6>Texte :</h6>
 <p>Le Canada et l'entrepreneur reconnaissent que l'entrepreneur a<br/>
 					commencé, à partir du <span aria-label="Espace réservé vide" class="blankline"></span> , avec le <em>consentement</em> du <span aria-label="Espace réservé vide" class="blankline"></span>  (<em><strong>Insérer le nom du ministère client)</strong></em> et sans <em>contrat</em> écrit, à exécuter les travaux<br/>
 					requis en vertu du présent contrat. Le Canada confirme par<br/>

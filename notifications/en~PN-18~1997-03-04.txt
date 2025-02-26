@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-18</h2>
+<h3 class="pn-content-title">Content of PN-18</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>1. Effective March 7, 1995 printing and related services previously obtained from the Canada Communication Group (CCG) may be purchased from Canada Communication Group Inc. Goupe Communication Canada Inc. (CCG Inc. - GCC Inc.) a private sector company.</p>
 <p>2. Decisions by Departments to expand existing capability to replicate CCG type services in-house would run counter to the government's intended direction and would adversely affect the benefits of the privatization.</p>
@@ -17,11 +17,11 @@
 <p>The attached "Guidelines for Acquiring Photocopiers and Electronic Duplicators" will be published in March as Appendix B to the Materiel Management Policy. They emphasize the continued need for departments to complete a "make or buy" analysis and to submit a properly completed business case, approved at the departmental level, with any request to acquire high speed photocopiers or electronic duplicators.</p>
 <p>Requests for more information about this notice should be addressed to:</p>
 <p><strong>N/A</strong></p>
-<h4>Director</h4>
+<h5>Director</h5>
 <p>Government Services and Materiel Management Government Operations, Norman Beaudry</p>
-<h3>Annex B</h3>
-<h4>Appendix B to the Materiel Management Policy</h4>
-<h4>Guidelines for Acquiring Photocopiers and Electronic Duplicators</h4>
+<h4>Annex B</h4>
+<h5>Appendix B to the Materiel Management Policy</h5>
+<h5>Guidelines for Acquiring Photocopiers and Electronic Duplicators</h5>
 <p>1. Definitions</p>
 <p>Photocopiers and electronic duplicators are categorized according to the number of copies they can produce per minute and the manufacturers' minimum recommended copies produced per month.</p>
 <p><strong><em>Convenience photocopiers (photocopieurs d'appoint)</em></strong> - Convenience photocopiers are usually stand-alone units supporting the day-to-day ad hoc requirements of an office. They do not require specially trained operators. Minimum copying speeds range between 10 and 60 copies per minute. Manufacturers' minimum recommended monthly volumes for cost-effective use range between 3,000 and 70,000 copies per month.</p>

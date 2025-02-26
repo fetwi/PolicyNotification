@@ -1,11 +1,11 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-41</h2>
+<h3 class="pn-content-title">Content of PN-41</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The new Departmental Delegation of Authority framework was implemented on July 17, 1998. A key objective of this new approval framework is to encourage more comprehensive preplanning of all procurements. It is expected that these changes will improve the identification and pre-approval of options and of amounts set aside for anticipated amendments.</p>
 <p>Nevertheless, the revised framework will also result in a greater number of amendments requiring ministerial approval. Because of the resource implications of this increased amendment volume, it was necessary to review and update the CAAP in order to strike a better balance between the need for in- depth review and acceptable risk.</p>
 <p>The new CAAP is the result of extensive consultations both in headquarters and in the regions. It is comprised of two routine processes to be followed in seeking approvals where time is not of the essence and the Just In Time Approval Process (JITAP) to deal with those exceptional, urgent requests that require decisions within 48 hours. The JITAP is explained more fully in PN-37 and PN-37U.</p>
-<h3>Coverage</h3>
+<h4>Coverage</h4>
 <p>Due to the anticipated increase in the volume of amendments flowing to the Minister for approval via the Audit and Review Branch (ARB), two standard processes were developed to eliminate potential bottlenecks and ensure effective and timely decision making. While one process requires review by the ARB and Senior General Counsel (SGC), the other does not. It is expected that these new procedures will not only<strong> reduce the number of contract amendments requiring ratification</strong> but also will allow as much time as is possible to make new contractual arrangements without detriment to the client/project in the event that a request for amendment is refused.</p>
 <p><strong><em>The approval process must not be used in a manner that would place the Approval Authority in an untenable position with regard to the amendment request.</em></strong></p>
 <p>ARB and SGC will continue to provide full review services for formal Procurement Plans and contracts submitted to the ADM/SOSB, or above, for approval.</p>
@@ -32,7 +32,7 @@
 <li>media attention;</li>
 <li>other areas of risk or sensitivity.</li>
 </ul>
-<h3>Contract Amendment Approval Process (CAAP)</h3>
+<h4>Contract Amendment Approval Process (CAAP)</h4>
 <p>The new amendment approval process consists of three elements:</p>
 <ul>
 <li>a clear, standardized approval process, with established time frames;</li>
@@ -56,7 +56,7 @@
 <p>The length of time given to process amendment requests<strong> outside </strong>the ARB/SGC process is set at two weeks with the same provisos with respect to flexibility set out above.</p>
 <p>It should be emphasized that this process for non-ARB/SGC submissions will likely result in less independent review of each situation. Sector and Regional staff may wish to compensate for this effect by increasing their emphasis on internal review processes. This may include the institution of mandatory cost analysis and/or sector legal reviews for all amendment requests.</p>
 <p>All requests for amendments reviewed by the ARB will be forwarded to the SGC for a final legal review. For amendments that will require the signature of the SGC, it is imperative that they first be reviewed and signed by the Sector's appropriate legal representative</p>
-<h3>Documentation</h3>
+<h4>Documentation</h4>
 <p>The CAAP applies to<strong> all </strong>amendment requests requiring approval levels higher than the Director General.</p>
 <p>Contract amendment requests requiring TB approval must still be prepared in a bilingual format using the DSS-MAS 1151 form.</p>
 <p>The Amendment Approval Form (AAF) may be used for Director General approvals and below at each Sector's discretion. For approval levels higher than Director General, all the signatures requested on the two signature pages must be obtained.</p>

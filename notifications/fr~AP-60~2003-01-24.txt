@@ -1,36 +1,36 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-60</h2>
+<h3 class="pn-content-title">Contenu de l'AP-60</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : LE 24 JANVIER 2003</h3>
-<h4>A0012T Communications - en période d'invitation</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : LE 24 JANVIER 2003</h4>
+<h5>A0012T Communications - en période d'invitation</h5>
 <p>Cet avis relatif aux politiques vise à informer les agents de négociations des contrats des derniers changements apportés à la clause A0012T (<a href="#AP-60annex-a">Annexe A)</a> qui porte sur les demandes de renseignements et d'autres types de communications ayant trait à l'invitation à soumissionner, de la date d'émission à la date de clôture.</p>
-<h4>A0000T Instructions et conditions uniformisées</h4>
+<h5>A0000T Instructions et conditions uniformisées</h5>
 <p>La clause A0000T (<a href="#AP-60annex-b">Annexe B</a>), paragraphe 1.b), a été révisée afin d'y supprimer la référence à la « partie B », faisant ainsi que la clause puisse s'appliquer autant pour les soumissions que les contrats.</p>
 <hr/>
 <p>Les clauses révisées ci-jointes entrent en vigueur immédiatement; par conséquent, les agents de négociations des contrats sont priés de les inclure dans tout document subséquent.</p>
 <p>Ces changements feront partie des modifications apportées au guide des CCUA, dont la diffusion est prévue en mai 2003.</p>
 <hr/>
-<h4><a id="AP-60annex-a" name="annex-a"></a>Annexe A</h4>
-<h5>A0012T (xx/xx/xx) Communication - en période d'invitation</h5>
+<h5><a id="AP-60annex-a" name="annex-a"></a>Annexe A</h5>
+<h6>A0012T (xx/xx/xx) Communication - en période d'invitation</h6>
 <p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT.</strong> Utiliser la clause suivante dans les invitations à soumissionner en régime de concurrence.</p>
-<h5>Texte :</h5>
+<h6>Texte :</h6>
 <p>1. Afin d'assurer l'intégrité du processus d'appel à la concurrence, toutes les demandes de renseignements, et autres types de communications, relativement à cette invitation à soumissionner, de la date d'émission à la date de clôture, doivent être adressées<strong> uniquement</strong> à la personne dont le nom figure à la page un (1) de l'invitation à soumissionner. Elles<strong> ne doivent pas être</strong> adressées à aucun autre représentant du gouvernement. Le défaut de se conformer à la présente (pour cette raison uniquement) peut entraîner le rejet de la soumission.</p>
 <p>2. Les demandes de renseignements doivent être présentées <strong>par écrit</strong>.</p>
 <p>3. Les demandes de renseignements doivent être reçues au moins <span aria-label="Espace réservé vide" class="blankline"></span>  jours civils avant la date de clôture des soumissions afin qu'il soit possible d'y répondre en temps opportun. Pour ce qui est des demandes de renseignements reçues après cette date, il est possible qu'on ne puisse y répondre avant la date de clôture des soumissions.</p>
 <p>4. Afin que tous les soumissionnaires reçoivent la même information et que celle-ci soit de qualité égale, les demandes de renseignements importantes reçues, ainsi que les réponses à ces demandes, seront fournies simultanément à toutes les entreprises invitées à soumissionner, sans toutefois mentionner le nom de l'auteur.</p>
 <hr/>
-<h4><a id="AP-60annex-b" name="annex-b">Annexe B</a></h4>
-<h5>A0000T Instructions et conditions uniformisées</h5>
+<h5><a id="AP-60annex-b" name="annex-b">Annexe B</a></h5>
+<h6>A0000T Instructions et conditions uniformisées</h6>
 <p><strong>Remarques: LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT</strong>. Utiliser la clause suivante dans toutes les demandes de soumissions de concert avec les clauses A0000C, « Instructions et conditions uniformisées » et K0000D, « Conditions ». Lorsqu'il est indiqué, les agents de négociation des contrats doivent préciser le jeu de conditions et d'instructions normalisées pertinent, y compris le titre, le numéro et la date. Pour les offres à commandes, voir la clause M0000T.</p>
-<h5>Texte :</h5>
+<h6>Texte :</h6>
 <p><strong>Conditions générales d'une soumission et du contrat qui en découle</strong></p>
 <p>1. Conformément à la <em>Loi sur le ministère des Travaux publics et des Services gouvernementaux</em>, L.C., 1996, ch. 16, </p>
 <ol type="a">

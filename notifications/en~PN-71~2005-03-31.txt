@@ -1,10 +1,10 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-71</h2>
+<h3 class="pn-content-title">Content of PN-71</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>The purpose of this Policy Notification (PN) is to introduce and implement Departmental Plain Language Standard Procurement templates, including new standard instructions and new general conditions to be used by Public Works and Government Services Canada (PWGSC) contracting officers for the procurement of goods or services (excluding construction).</p>
-<h3>Policy</h3>
+<h4>Policy</h4>
 <p>Effective June 10, 2005, <acronym title="Public Works and Government Services Canada">PWGSC</acronym> contracting officers must use the Departmental Plain Language Standard Procurement documents for Low Dollar Value (LDV) and Medium Complexity requirements for goods or services for competitive and non-competitive requirements.</p>
 <p>In order to maintain a 'common look and feel' for the Department's procurement documents, contracting officers must not modify or change the order and content of these standard templates except where indicated.</p>
 <p>New bid solicitations and resulting contract procurement templates, new standard instructions and general conditions are to be used for LDV and Medium Complexity requirements for goods or services as identified in the table below.</p>
@@ -42,12 +42,12 @@
 </tbody></table>
 <p>* Standard Instructions and Conditions 9403 and 9403-5 will remain active in the Standard Acquisition Clauses and Conditions (SACC) Manual for use with requirements other than LDV and Medium Complexity requirements. General Conditions 9628, 9329 and 9601-10 will be cancelled effective June 10, 2005.</p>
 <p>The Departmental Plain Language Standard Procurement documents will be available in the June 2005 release of the SACC Manual as attached at <a href="#PN-71anna">Annex A</a>.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>The Parliamentary Secretary's Task Force Final Report dated January 2005 on Government-Wide Review of Procurement stipulates that procurement terminology should be standardized, and standardized plain language documents should be developed to contribute to the simplification and efficiency of the contracting process. </p>
 <p>The Acquisitions Branch Business Plan (2004-05 to 2006-07) identifies the development of Plain Language Standard Procurement Templates as a key priority in the Department.</p>
 <p>The objective of this initiative is to standardize procurement terminology, simplify the language and ensure more consistency and uniformity in acquisition documents issued by the Department (e.g. 'common look and feel').</p>
 <p>Templates have been identified for three different types of procurement for goods or services, for both competitive and non-competitive procurement, as detailed below.</p>
-<h4>1. Low Dollar Value Requirements below $25K (including applicable taxes)</h4>
+<h5>1. Low Dollar Value Requirements below $25K (including applicable taxes)</h5>
 <p><strong>Includes:</strong></p>
 <ul>
 <li>Low risk requirements</li>
@@ -67,7 +67,7 @@
 <li>Canadian Commercial Corporation requirements</li>
 <li>Aboriginal requirements and set asides</li>
 </ul>
-<h4>2. Medium Complexity Requirements</h4>
+<h5>2. Medium Complexity Requirements</h5>
 <p><strong>Includes:</strong></p>
 <ul>
 <li>Medium risk requirements</li>
@@ -85,7 +85,7 @@
 <li>Real Property contracting requirements</li>
 <li>Canadian Commercial Corporation requirements</li>
 </ul>
-<h4>3. Higher Complexity Requirements (under development)</h4>
+<h5>3. Higher Complexity Requirements (under development)</h5>
 <p><strong>Includes:</strong></p>
 <ul>
 <li>Higher risk requirements</li>
@@ -103,24 +103,24 @@
 <li>Real Property contracting requirements</li>
 <li>Canadian Commercial Corporation requirements</li>
 </ul>
-<h3>Major Crown Projects and Other Requirements:</h3>
+<h4>Major Crown Projects and Other Requirements:</h4>
 <p>Major Crown Projects and requirements where standard terms and conditions are generally not applicable and where contracting is completely a forward-looking strategic pursuit of solutions (some information management/information technology (IM/IT), secure channel, Government of Canada Marketplace (GAMC), Maritime Helicopters Project (MHO), etc.).</p>
 <p>These requirements are not covered by this initiative.</p>
-<h3>Implementation</h3>
+<h4>Implementation</h4>
 <p>Annex A contains the new 2003 Standard Instructions, the new 2029 General Conditions, the new 2010 General Conditions and the Low Dollar Value (LDV) and Medium Complexity templates, which will be available in the June 2005 release of the SACC Manual and the Supply Manual (SM). The documents will be available on the Internet and the clauses contained in the template documents (LDV and Medium Complexity Templates) will be available in ABE (Automated Buyer Environment) as local clauses. </p>
 <p>Contracting officers will be required to use these documents for LDV and Medium Complexity requirements no later than June 10, 2005.</p>
-<h3>Example using Template</h3>
+<h4>Example using Template</h4>
 <p>An example of an LDV requirement using the LDV template is provided in <a href="#PN-71annc">Annex C</a>.</p>
-<h3>Training</h3>
+<h4>Training</h4>
 <p>Prior to the effective implementation date, the Procurement Process Tools Division the will provide information to procurement managers, on the application and use of this document, at briefings to be scheduled. The contracting officers will then receive this information from their respective procurement managers. Questions from contracting officers must be submitted to their respective procurement managers who will forward them, if applicable, to the contact provided below.</p>
-<h3>Next Steps</h3>
+<h4>Next Steps</h4>
 <p>The Plain Language Working Group will review and develop standard procurement documents (e.g. Plain Language Templates, standard instructions and general conditions for bid solicitations and contracts) for Higher Complexity requirements, for supply arrangements, and for standing offers. </p>
 <p>Procurement Process Tools Division is responsible for the ongoing maintenance of the Departmental Plain Language Standard Procurement Templates, the standard instructions and the general conditions for LDV and Medium Complexity requirements and all modifications to these documents will be published in future releases of the SACC Manual and the SM. </p>
 <p>The documents will also be available on the Internet and the clauses contained in the template documents (LDV and Medium Complexity Templates) will be available in ABE as local clauses.</p>
-<h3>Contact</h3>
+<h4>Contact</h4>
 <p><strong>N/A</strong></p>
 <hr/>
-<h3>Attachments:</h3>
+<h4>Attachments:</h4>
 <p><a href="#PN-71anna">Annex A</a></p>
 <ul>
 <li><a href="#PN-71anna">Appendix 1</a> - Procedures for Using the Low Dollar Value and Medium Complexity Templates</li>
@@ -134,10 +134,10 @@
 <p><a href="#PN-71annb">Annex B</a> - Supply Manual<br/>
 <a href="#PN-71annc">Annex C</a> - Example of an LDV requirement using the LDV template</p>
 <hr/>
-<h3><a id="PN-71anna" name="anna"></a>APPENDIX 1 TO ANNEX A</h3>
-<h4>2T-PROC1 Procedures for Using the Low Dollar Value and Medium Complexity Templates</h4>
+<h4><a id="PN-71anna" name="anna"></a>APPENDIX 1 TO ANNEX A</h4>
+<h5>2T-PROC1 Procedures for Using the Low Dollar Value and Medium Complexity Templates</h5>
 <p>Contracting officers must use the Low Dollar Value (LDV) and the Medium Complexity documents in accordance with these procedures.</p>
-<h4>LDV and Medium Complexity Competitive and Non-Competitive requirements</h4>
+<h5>LDV and Medium Complexity Competitive and Non-Competitive requirements</h5>
 <p>Departmental Plain Language Standard Procurement Templates as well as standard Instructions and general Conditions have been developed in consultation with Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>) Legal Services and must be used for standard, well defined requirements for goods or services in a competitive or non-competitive (sole source) environment. 2003 Standard Instructions - Goods or Services is to be used in lieu of Standard Instructions and Conditions 9403 and 9403-5, for LDV and Medium Complexity requirements. 2029 General Conditions - Goods or Services (Low Dollar Value) is to be used in lieu of General Conditions 9329 and General Conditions 9628 for LDV requirements. 2010 General Conditions - Goods or Services (Medium Complexity) is to be used in lieu of General Conditions 9601-10. Standard Instructions and Conditions 9403 and 9403-5 will remain active in the Standard Acquisitions Clauses and Conditions (SACC) Manual for use with requirements other than LDV and Medium Complexity requirements. General Conditions 9628, 9329 and 9601-10 will be cancelled effective June 10, 2005.</p>
 <p>SACC Manual clauses may be added to the bid solicitation and contract templates as necessary for the requirement and provided they are not already included in the new 2003 Standard Instructions - Good or Services, the new 2029 General Conditions - Goods or Services (Low Dollar Value) or the new 2010 General Conditions - Goods or Services (Medium Complexity). Contracting officers may add additional clauses, as applicable, in the templates as follows:</p>
 <ul>
@@ -146,7 +146,7 @@
 <li>Other pertinent clauses may be added within the appropriate section to address commodity requirements in the templates as required; and,</li>
 <li>Annexes may be added for specific commodity needs.</li>
 </ul>
-<h4>TEMPLATES</h4>
+<h5>TEMPLATES</h5>
 <p><strong>1. 2T- LDV1 Low Dollar Value Bid Solicitation and Resulting Contract Template - Goods or Services:</strong> The Bid Solicitation template includes the new 2003 Standard Instructions - Goods or Services incorporated by reference. The Contract template includes the new 2029 General Conditions - Goods or Services (Low Dollar Value), incorporated by reference. The Contract template will also apply when quotes are obtained through Request for Quotations (RFQ) or telephone buys for competitive requirements and the lowest price bid is accepted; or, when a quote is obtained through an RFQ or a telephone buy for non-competitive sole source requirements. Where the Bid Solicitation is not used, delete Part 1 and the title 'Part 2 - Resulting Contract Clauses' before use.
           </p>
 <p><strong>2. 2T- MED1 Medium Complexity Bid Solicitation and Resulting Contract Template - Goods or Services:</strong> The Bid Solicitation template includes 2003 Standard Instructions - Goods or Services, incorporated by reference. The Contract template includes 2010 General Conditions - Goods or Services (Medium Complexity), incorporated by reference. Where the Bid Solicitation is not used, retain Part 4 only of the document and delete the title 'Part 4 - Resulting Contract Clauses' before use.</p>
@@ -155,17 +155,17 @@
 <p>The Bid Solicitation templates and the Contract templates include instructional information, as applicable. All this instructional information must be removed before issuing the documents.</p>
 <p>In English, the words 'Contractor', 'Bidder', 'Work', 'Contract' and 'Contracting Authority' are capitalized when they are in the singular and preceded by 'the' because, with the exception of 'Bidder', they are defined in the Contract. <br/>
             In French, this rule for capitalization does not apply.</p>
-<h3>PART I LOW DOLLAR VALUE (LDV) AND MEDIUM COMPLEXITY<br/>
-            REQUIREMENTS – GOODS OR SERVICES</h3>
-<h3><a id="PN-71app2" name="app2"></a>APPENDIX 2 TO ANNEX A</h3>
-<h4>2003 (2005-06-10) Standard Instructions - Goods or Services are to be used for the following requirements:</h4>
+<h4>PART I LOW DOLLAR VALUE (LDV) AND MEDIUM COMPLEXITY<br/>
+            REQUIREMENTS – GOODS OR SERVICES</h4>
+<h4><a id="PN-71app2" name="app2"></a>APPENDIX 2 TO ANNEX A</h4>
+<h5>2003 (2005-06-10) Standard Instructions - Goods or Services are to be used for the following requirements:</h5>
 <ul>
 <li>Low Dollar Value Competitive &amp; Non-Competitive requirements – Goods or Services</li>
 <li>Medium Complexity Competitive &amp; Non-Competitive requirements – Goods or Services<br/>
 <em>*Non-Competitive: Sole Source where the LDV Bid Solicitation Template is used </em></li>
 </ul>
 <hr/>
-<h4>2003 (2005-06-10) Standard Instructions - Goods or Services</h4>
+<h5>2003 (2005-06-10) Standard Instructions - Goods or Services</h5>
 <p>Public Works and Government Services Canada</p>
 <ul class="noBullet">
 <li>01. Procurement Business Number</li>
@@ -183,11 +183,11 @@
 <li>13. Bid Costs</li>
 <li>14. Further Information</li>
 </ul>
-<h4>01. Procurement Business Number</h4>
+<h5>01. Procurement Business Number</h5>
 <p>Canadian suppliers are required to have a Procurement Business Number (PBN) before Contract award. Suppliers may register for a PBN in the Supplier Registration Information service on line at the Buy and Sell Internet site at: <a href="https://canadabuys.canada.ca/">https://buyandsell.gc.ca/</a>. For non-Internet registration, suppliers may contact the Buy and Sell InfoLine at 1-800-811-1148 or, in the National Capital Area at 819-956-3440, to obtain the telephone number of the nearest Supplier Registration Agent.</p>
-<h4>02. Instructions, Conditions and Clauses</h4>
+<h5>02. Instructions, Conditions and Clauses</h5>
 <p>Pursuant to the Department of Public Works and Government Services Act, S.C. 1996, c.16, the instructions, conditions and clauses identified by title, number and a date in the bid solicitation and resulting contract are incorporated by reference into and form part of the bid solicitation and resulting contract as though expressly set out in the bid solicitation and resulting contract.</p>
-<h4>03. Submission of Bids</h4>
+<h5>03. Submission of Bids</h5>
 <p>(1) Canada requires that each bid be signed by the Bidder or by an authorized representative of the Bidder. If a bid is being submitted by a joint venture, the bid must clearly state that it is submitted as a joint venture and must be signed by all members of the joint venture or a statement must be provided to the effect that the signatory represents all members of the joint venture.</p>
 <p>(2) It is the Bidder's responsibility to:</p>
 <ol type="a">
@@ -206,9 +206,9 @@
 <p>Although Canada reserves the right to award the contract(s) either on an FOB plant or FOB destination basis or other Incoterms as indicated in the bid solicitation document, bidders are requested to provide prices as indicated in the bid solicitation document. </p>
 <p>(8) Bids received on or before the stipulated bid solicitation closing date and time will become the property of Canada and will not be returned. All bids will be treated as confidential, subject to the provisions of the Access to Information Act R.S.1985, c.A-1 and the Privacy Act R.S.1985, c.P-21.</p>
 <p>(9) Except as specifically provided otherwise in the bid solicitation, Canada will evaluate a bidder's bid only on the documentation provided as part of its bid. References in a bid to additional information not submitted with the bid, such as website addresses where additional information can be found or technical manuals or brochures not submitted with the bid will not be considered in the evaluation of the bid.</p>
-<h4>04. Late Bids </h4>
+<h5>04. Late Bids </h5>
 <p><acronym title="Public Works and Government Services Canada">PWGSC</acronym> will return bids delivered after the stipulated bid solicitation closing date and time, unless they qualify as a delayed bid as described below.</p>
-<h4>05. Delayed Bids</h4>
+<h5>05. Delayed Bids</h5>
 <p>(1) A bid delivered to the specified Bid Receiving Unit after the closing date and time but before the contract award date may be considered, provided the delay can be proven to have been due solely to a delay in delivery that can be attributed to the Canada Post Corporation (CPC) (or national equivalent of a foreign country). Purolator Inc. is not considered to be part of CPC for the purposes of delayed bids. The only pieces of evidence relating to a delay in the CPC system that are acceptable to <acronym title="Public Works and Government Services Canada">PWGSC</acronym> are:</p>
 <ol type="a">
 <li>a CPC cancellation date stamp; or</li>
@@ -219,7 +219,7 @@
 <p>(2) For bids transmitted by facsimile, only the date, time and place of receipt recorded by <acronym title="Public Works and Government Services Canada">PWGSC</acronym> will be accepted as evidence of a delayed bid.</p>
 <p>(3) Misrouting, traffic volume, weather disturbances, labour disputes or any other causes for the late delivery of bids are not acceptable reasons for the bid to be accepted by <acronym title="Public Works and Government Services Canada">PWGSC</acronym>.</p>
 <p>(4) Postage meter imprints, whether imprinted by the Bidder, the CPC or the postal authority outside Canada, are not acceptable as proof of timely mailing. </p>
-<h4>06. Transmission by Facsimile</h4>
+<h5>06. Transmission by Facsimile</h5>
 <p>(1) Unless otherwise instructed in the bid solicitation, bids may be submitted by facsimile. The only acceptable facsimile number for responses to bid solicitations issued by <acronym title="Public Works and Government Services Canada">PWGSC</acronym> headquarters is 819-997-9776. The facsimile number for responses to bid solicitations issued by <acronym title="Public Works and Government Services Canada">PWGSC</acronym> regional offices is identified in the bid solicitation.</p>
 <p>(2) If the Bidder submits a bid by facsimile, Canada will not be responsible for any failure attributable to the transmission or receipt of the faxed bid including, but not limited to, the following:</p>
 <ol type="a">
@@ -232,11 +232,11 @@
 <li>security of bid data.</li>
 </ol>
 <p>(3) Bids submitted by facsimile will constitute the formal bid of the Bidder and must be submitted in accordance with section 3, Submission of Bids. For responses transmitted by facsimile, written confirmation is required within two (2) working days after bid closing, unless otherwise specified in the solicitation. All documents confirming bids should bear the word 'CONFIRMATION'.</p>
-<h4>07. Customs Clearance</h4>
+<h5>07. Customs Clearance</h5>
 <p>It is the responsibility of the Bidder to allow sufficient time to obtain customs clearance, where required, before the bid closing date and time. Delays related to the obtaining of customs clearance cannot be construed as 'undue delay in the mail' and will not be accepted as a delayed bid under Section 5, Delayed Bids.</p>
-<h4>08. Legal Capacity</h4>
+<h5>08. Legal Capacity</h5>
 <p>The Bidder must have the legal capacity to contract. If the Bidder is a sole proprietorship, a partnership or a corporate body, the Bidder must provide, if requested by the Contracting Authority, a statement and any requested supporting documentation indicating the laws under which it is registered or incorporated together with the registered or corporate name and place of business. This also applies to bidders submitting a bid as a joint venture.</p>
-<h4>09. Rights of Canada</h4>
+<h5>09. Rights of Canada</h5>
 <p>Canada reserves the right to:</p>
 <ol type="a">
 <li>reject any or all bids received in response to the bid solicitation;</li>
@@ -247,7 +247,7 @@
 <li>if no compliant bids are received and the requirement is not substantially modified, re-tender the requirement by inviting only the bidders who bid to re-submit bids within a period designated by Canada; and, </li>
 <li>negotiate with the sole compliant Bidder to ensure best value to Canada.</li>
 </ol>
-<h4>10. Vendor Performance</h4>
+<h5>10. Vendor Performance</h5>
 <p>(1) Canada may reject a bid where any of the following circumstances is present:</p>
 <ol type="a">
 <li>the Bidder, or any employee or subcontractor included as part of the bid, has been convicted under Section 121 (Frauds on the government &amp; Contractor subscribing to election fund), Section 124 (Selling or purchasing office), or Section 418 (Selling defective stores to Her Majesty) of the Criminal Code; or,</li>
@@ -264,10 +264,10 @@
 </li>
 </ol>
 <p>(2) Where Canada intends to reject a bid pursuant to a provision of paragraph 1, other than 1(b), the Contracting Authority will so inform the Bidder and provide the Bidder ten (10) days within which to make representations, prior to making a final decision on the bid rejection.</p>
-<h4>11. Communications - Solicitation Period</h4>
+<h5>11. Communications - Solicitation Period</h5>
 <p>To ensure the integrity of the competitive bid process, enquiries and other communications regarding the bid solicitation, must be directed, in writing, ONLY to the Contracting Authority identified in the bid solicitation. Failure to comply can (for that reason alone) result in the disqualification of the bid.</p>
 <p>To ensure consistency and quality of information provided to bidders, significant enquiries received and the replies to such enquiries will be provided simultaneously to bidders to which the bid solicitation has been sent, without revealing the sources of the enquiries.</p>
-<h4>12. Price Support</h4>
+<h5>12. Price Support</h5>
 <p>In the event that the Bidder's bid is the sole responsive bid received, the Bidder must provide, on Canada's request, one or more of the following price support if applicable: </p>
 <ol type="a">
 <li>a current published price list indicating the percentage discount available to Public Works and Government Services Canada; </li>
@@ -276,14 +276,14 @@
 <li>a price or rate certifications;</li>
 <li>any other supporting documentation as requested by Canada.</li>
 </ol>
-<h4>13. Bid Costs </h4>
+<h5>13. Bid Costs </h5>
 <p>No payment will be made for costs incurred in the preparation and submission of a bid in response to the bid solicitation. Costs associated with preparing and submitting a bid as well as any costs incurred by the Bidder associated with the evaluation of the bid, are the sole responsibility of the Bidder.</p>
-<h4>14. Further Information</h4>
+<h5>14. Further Information</h5>
 <p>(1) For further information, bidders may contact the Contracting Authority identified in the bid solicitation.</p>
 <p>(2) For bid solicitations issued out of <acronym title="Public Works and Government Services Canada">PWGSC</acronym> headquarters, enquiries concerning receipt of bids may be addressed to the Bid Receiving Unit, Procurement Operational Support Division, telephone 819-956-3370. For bid solicitations issued out of <acronym title="Public Works and Government Services Canada">PWGSC</acronym> regional offices, enquiries concerning receipt of bids may be addressed to the Contracting Authority identified in the bid solicitation.</p>
 <hr/>
-<h3>PART II - LOW DOLLAR VALUE REQUIREMENTS – GOODS OR SERVICES</h3>
-<h3><a id="PN-71app3" name="app3"></a>APPENDIX 3 TO ANNEX A</h3>
+<h4>PART II - LOW DOLLAR VALUE REQUIREMENTS – GOODS OR SERVICES</h4>
+<h4><a id="PN-71app3" name="app3"></a>APPENDIX 3 TO ANNEX A</h4>
 <p>2T-LDV1 Low Dollar Value Bid Solicitation and Resulting Contract Template - <br/>
             Goods or Services are to be used for the following requirements:</p>
 <ul>
@@ -309,18 +309,18 @@
 <li>Aboriginal requirements and set asides</li>
 </ul>
 <p><em>Note to Contracting Authority: Unused choices as well as the instructional information must be deleted by the Contracting Authority prior to issuing the Bid Solicitation.</em></p>
-<h3>PART 1 - INFORMATION AND INSTRUCTIONS</h3>
-<h4>1. Security Requirement</h4>
+<h4>PART 1 - INFORMATION AND INSTRUCTIONS</h4>
+<h5>1. Security Requirement</h5>
 <p>There is a security requirement associated with this requirement. For additional information, see Part 1, Information and Instructions, clause 4.4.X, Security Requirement and Part 2 - Resulting Contract Clauses.</p>
 <p>OR</p>
 <p>There is no security requirement associated with this requirement.</p>
-<h4>2. Statement of Work OR Requirement</h4>
+<h5>2. Statement of Work OR Requirement</h5>
 <p>2.1 (Insert a brief description of the requirement. Reference may be made to the Statement of Work or Requirement in the contract, if applicable.)</p>
 <p>(Remark to Contracting Authority: Specific requirements not already covered by the standard instructions are to be included below.)</p>
 <p><strong>2.2 SACC Manual clauses</strong><br/>
             (Use applicable bid reference clauses)</p>
 <p>(Remark to Contracting authority: Refer to information in Section 02, Instructions, Conditions and Clauses, of 2003, Standard Instructions - Goods or Services.)</p>
-<h4> 3. Standard Instructions, Conditions AND Clauses</h4>
+<h5> 3. Standard Instructions, Conditions AND Clauses</h5>
 <p>All instructions, conditions and clauses identified in the bid solicitation by title, number and date are set out in the Standard Acquisition Clauses and Conditions Manual issued by Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>).</p>
 <p>The Manual is available on the <acronym title="Public Works and Government Services Canada">PWGSC</acronym> Website:<br/>
 <a href="http://sacc.pwgsc.gc.ca/sacc/index-e.jsp" rel="external">http://sacc.pwgsc.gc.ca/sacc/index-e.jsp</a>.</p>
@@ -330,7 +330,7 @@
 <p>(Remark to Contracting Authority: Specific instructions not already covered by the standard Instructions are to be included by reference, if applicable.)</p>
 <p><strong> 3.2 SACC Manual clauses</strong></p>
 <p>(Remark to Contracting Authority: Refer to information in sections 03 to 08 of 2003 Standard Instructions - Goods or Services. Bids resulting from a competitive bid solicitation below $25K (including applicable taxes may be submitted to the Contracting Authority instead of a designated bid receiving area. In this case, different procedures apply to the handling of bids. Supply Manual 7A.017 refers.)</p>
-<h4>4. Submission of Bids</h4>
+<h5>4. Submission of Bids</h5>
 <p> (Use one of the following clauses below based on whether the bid is to be submitted to the Bid Receiving or the Contracting Authority. Refer to information in section 03 (2) (d) of 2003 Standard Instructions - Goods or Services for 4.1 and 4.2 below.)</p>
 <p><strong>4.1 Bids must be submitted by the time, date and place indicated in the bid solicitation document.</strong></p>
 <p>OR</p>
@@ -364,21 +364,21 @@
             At the time of bid submission, the following conditions must be met:<br/>
             (a) The Bidder must hold a valid <span aria-label="Blank placeholder" class="blankline"></span> , issued by the Canadian and International Industrial Security Directorate (CIISD) of Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>); and <br/>
             (b) The Bidder's proposed individuals requiring access to <span aria-label="Blank placeholder" class="blankline"></span>  information, assets or sensitive work site(s) shall each hold a valid personnel security screening at the requisite level of <span aria-label="Blank placeholder" class="blankline"></span> , granted or approved by the CIISD of <acronym title="Public Works and Government Services Canada">PWGSC</acronym>.</p>
-<h4>5. Applicable Laws</h4>
+<h5>5. Applicable Laws</h5>
 <p>Any resulting contract must be interpreted and governed, and the relations between the parties determined, by the laws in force in (The Contracting Authority must fill in the province or territory).</p>
 <p>The Bidder may, at its discretion, substitute the applicable laws of a Canadian province or territory of its choice without affecting the validity of its bid, by deleting the name of the Canadian province or territory specified and inserting the name of the Canadian province or territory of its choice. If no change is made, it acknowledges that the applicable laws specified are acceptable to the Bidder.</p>
-<h3>PART 2 - RESULTING CONTRACT CLAUSES</h3>
-<h4>1. Security Requirement</h4>
+<h4>PART 2 - RESULTING CONTRACT CLAUSES</h4>
+<h5>1. Security Requirement</h5>
 <p>There is a security requirement associated with this requirement.</p>
 <p>(Insert applicable clause provided by Canadian International Industrial Security Directorate (CIISD) and insert the SRCL as an Annex. </p>
 <p>OR</p>
 <p>There is no security requirement associated with this requirement.</p>
-<h4>2. Statement of Work OR Requirement</h4>
+<h5>2. Statement of Work OR Requirement</h5>
 <p> (Insert a complete description of the Requirement or the Statement of Work and/or refer to an annex, if applicable.)</p>
 <p>(Remark to Contracting Authority: SACC Manual reference clauses related to the work requirement are to be included by reference, if applicable.)</p>
 <p><strong>2.1 SACC Manual clauses<br/>
 </strong>(Remark to Contracting Authority: Refer to information in section 02, Standard Conditions and Clauses, of 2029, General Conditions - Goods or Services (Low Dollar Value).</p>
-<h4>3. Standard Conditions and Clauses</h4>
+<h5>3. Standard Conditions and Clauses</h5>
 <p>All conditions and clauses identified in the Contract by title, number and date are set out in the Standard Acquisition Clauses and Conditions Manual issued by Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>).</p>
 <p>The Manual is available on the <acronym title="Public Works and Government Services Canada">PWGSC</acronym> Website: <a href="http://sacc.pwgsc.gc.ca/sacc/index-e.jsp" rel="external">http://sacc.pwgsc.gc.ca/sacc/index-e.jsp</a>.</p>
 <p><strong>3.1 General Conditions<br/>
@@ -386,12 +386,12 @@
 <p>(Remark to Contracting Authority: Specific SACC reference clauses not already covered by the general conditions may be added, if applicable.)</p>
 <p> <strong>3.2 SACC Manual clauses</strong><br/>
             (Remark to Contracting authority: Refer to information in sections 04, 07 and 08 of 2029 General Conditions - Goods or Services (Low Dollar Value). Specific requirements related to term of contract, delivery, inspection and acceptance, and not already covered by the general conditions may be added as subsections or as reference clauses, if applicable.) </p>
-<h4>4. Term of Contract</h4>
+<h5>4. Term of Contract</h5>
 <p>(Remark to Contracting authority: Choose and fill in the appropriate SACC or approved clause)</p>
 <p><strong>4.1 Delivery Date or Period of Contract</strong> <br/>
             (Remark to Contracting Authority: Use SACC Manual reference clauses, if applicable.)</p>
 <p><strong>4.2 SACC Manual clauses</strong></p>
-<h4>5. Authorities</h4>
+<h5>5. Authorities</h5>
 <p><strong>5.1 Contracting Authority</strong><br/>
             The Contracting Authority is named below and is responsible for the management of the Contract and any changes to the Contract must be authorized in writing by the Contracting Authority.</p>
 <p>(Name of Contracting Authority)<br/>
@@ -410,7 +410,7 @@
 <p><strong>5.3 Contractor Contacts</strong><br/>
             (Use if applicable. To be completed or deleted as applicable)</p>
 <p>(Remark to Contracting Authority: Fill in the appropriate SACC Manual clauses or approved clause related to Basis of Payment, Method of Payment, audit and taxes not covered in the general conditions. Refer to information in section 09, Payment and Interest on Overdue Accounts, of 2029 General Conditions - Goods or Services (Low Dollar Value).</p>
-<h4>6. Basis of Payment</h4>
+<h5>6. Basis of Payment</h5>
 <p><strong>6.1 Basis of Payment</strong><br/>
             (Remark to Contracting Authority: Use, in full text, the applicable SACC clauses. Example: C6001C. )</p>
 <p><strong>6.2 Limitation of Expenses OR Ceiling Price</strong><br/>
@@ -418,25 +418,25 @@
 <p><strong>6.3 SACC Manual clauses</strong><br/>
             (Remark to Contracting Authority: Use the applicable SACC Manual clause or other approved clause related to Invoicing Instructions. Invoicing Instructions also cover progress claims and therefore any reference to invoice would also cover progress claims. Refer to information in section 05, Invoice Submission,<br/>
             and section 09, Payment and Interest on Overdue Accounts, of 2029 General Conditions - Goods or Services (Low Dollar Value).</p>
-<h4>7. Invoicing Instructions</h4>
+<h5>7. Invoicing Instructions</h5>
 <p>1. The Contractor must submit invoices in accordance with the information required in section 05, Invoice Submission, of the 2029 General Conditions - Goods or Services (Low Dollar value).</p>
-<h4>8. Applicable Laws</h4>
+<h5>8. Applicable Laws</h5>
 <p>The Contract must be interpreted and governed, and the relations between the parties determined, by the laws in force in (The Contracting Authority must fill in the province or territory as specified by the Bidder in its bid).</p>
-<h4>9. (Remark to Contracting Authority: Use in full text the suggested clause, SACC Manual clauses or approved clauses, if applicable).</h4>
+<h5>9. (Remark to Contracting Authority: Use in full text the suggested clause, SACC Manual clauses or approved clauses, if applicable).</h5>
 <p><strong>XX PRIORITY OF DOCUMENTS</strong><br/>
             If there is a discrepancy between the wording of any documents which appear on the list below, the wording of the document which first appears on the list has priority over the wording of any document which subsequently appears on the list.</p>
 <p>These articles of agreement; <br/>
             2029 (2005-06-10) General Conditions - Goods or Services (Low Dollar Value);<br/>
             ...</p>
 <p><strong>XX. WORK FORCE REDUCTION PROGRAMS (A9105C)</strong></p>
-<h3>PART II - LOW DOLLAR VALUE REQUIREMENTS – GOODS OR SERVICES</h3>
-<h3><a id="PN-71app4" name="app4"></a>APPENDIX 4 TO ANNEX A</h3>
+<h4>PART II - LOW DOLLAR VALUE REQUIREMENTS – GOODS OR SERVICES</h4>
+<h4><a id="PN-71app4" name="app4"></a>APPENDIX 4 TO ANNEX A</h4>
 <p>2029 (2005-06-10) General Conditions - Goods or Services (Low Dollar Value) must be used for the following requirements:</p>
 <ul>
 <li>Low Dollar Value Competitive and Non-Competitive Requirements - Goods or Services</li>
 </ul>
 <hr/>
-<h4>2029 (2005-06-10) General Conditions - Goods or Services (Low Dollar Value)</h4>
+<h5>2029 (2005-06-10) General Conditions - Goods or Services (Low Dollar Value)</h5>
 <p>Public Works and Government Services Canada</p>
 <ul class="noBullet">
 <li>01. Interpretation</li>
@@ -462,25 +462,25 @@
 <li>21. International Sanctions</li>
 <li>22. Entire Agreement</li>
 </ul>
-<h4>2029 01 (2005-06-10) Interpretation</h4>
+<h5>2029 01 (2005-06-10) Interpretation</h5>
 <p>In the Contract, unless the context otherwise requires:</p>
 <p>'Contract' means the written agreement between the Parties, these general conditions, any referenced conditions and clauses, and any other document specified or referred to as forming part of the Contract, all as amended by agreement of the Parties from time to time;</p>
 <p>'Contractor' means the person or entity whose name appears on the signature page of the written agreement and who is to supply goods or services to Canada under the Contract;</p>
 <p>'Government Property' means anything supplied to the Contractor by or on behalf of Canada for the purposes of performing the Contract and anything acquired by the Contractor in any manner in connection with the Work the cost of which is paid by Canada under the Contract;</p>
 <p>'Minister' means the Minister of Public Works and Government Services and any other person duly authorized to act on behalf of that Minister;</p>
 <p>'Work' means the whole of the activities, services, goods, equipment, matters and things required to be done, delivered or performed by the Contractor in accordance with the terms of the Contract.</p>
-<h4>2029 02 (2005-06-10) Standard Conditions and Clauses</h4>
+<h5>2029 02 (2005-06-10) Standard Conditions and Clauses</h5>
 <p>Pursuant to the Department of Public Works and Government Services Act, S.C. 1996, c.16, the conditions and clauses identified by title, number and a date in the Contract are incorporated by reference and form part of the Contract as though expressly set out in the Contract.</p>
-<h4>2029 03 (2005-06-10) Status of the Contractor</h4>
+<h5>2029 03 (2005-06-10) Status of the Contractor</h5>
 <p>The Contractor is engaged as an independent Contractor for the sole purpose of performing the Work. Neither the Contractor nor any of its personnel is engaged as an employee, servant or agent of Canada. The Contractor is responsible for all deductions and remittances required by law in relation to its employees. </p>
-<h4>2029 04 (2005-06-10) Inspection, Acceptance and Warranty</h4>
+<h5>2029 04 (2005-06-10) Inspection, Acceptance and Warranty</h5>
 <p>The Contractor must perform the Work efficiently in accordance with standards of quality acceptable to Canada and in full conformity with all the requirements of the Contract.</p>
 <p>The Work is subject to inspection and acceptance by Canada. Despite prior acceptance of the Work and without restricting any conditions or warranty imposed by law, the Contractor, if requested by the Minister to do so, must replace, repair or correct, at its option and its own expense any Work which becomes defective or which fails to conform to the Contract requirements, where applicable. For goods, the warranty period will be twelve (12) months after delivery and acceptance of the Work or the length of the Contractor's or manufacturer's standard warranty period, whichever is longer. Any Work replaced, repaired or corrected pursuant to this section is subject to all provisions of the Contract to the same extent as Work initially performed.</p>
 <p>Canada must pay the transportation cost associated with returning any Work to the Contractor for replacement, repair or making good and the Contractor must pay the transportation cost associated with forwarding the replacement or returning the Work to the delivery point specified in the Contract or to another location as directed by Canada. If, in the opinion of the Minister, it is not expedient to remove the Work from its location, the Contractor must carry out any necessary repair or making good of the Work at that location and will be paid its reasonable travelling and living expenses.</p>
-<h4>2029 05 (2005-06-10) Invoice Submission</h4>
+<h5>2029 05 (2005-06-10) Invoice Submission</h5>
 <p>Invoices must be submitted in the name of the Contractor. They must show the name and address of the client department, item/reference number, deliverable and/or description of Work, contract serial number, Client Reference Number (CRN), Procurement Business Number (PBN) and financial code(s). If applicable, the method of shipment together with date, case numbers and part or reference numbers, item, quantity, unit of issue, unit price, and additional charges will be shown on the invoice. If applicable, fixed time labour rates, level of effort and, the amount invoiced (exclusive of the Goods and Services Tax {GST} or Harmonized Sales Tax {HST} as appropriate), will be shown separately.</p>
 <p>GST, HST or other taxes, if applicable, will be incorporated into all invoices and shown as a separate item on invoices. All goods or services that are zero-rated, exempt or to which the GST or HST does not apply, are to be identified as such on all invoices. Invoices must be submitted for each delivery/shipment and must apply to one contract only. Each invoice must indicate whether it covers partial or final delivery.</p>
-<h4>2029 06 (2005-06-10) Taxes</h4>
+<h5>2029 06 (2005-06-10) Taxes</h5>
 <p>(1) Municipal Taxes <br/>
             Municipal Taxes are not applicable.</p>
 <p>(2) Provincial Taxes</p>
@@ -504,11 +504,11 @@
             In the event of any change in any tax imposed under the Excise Act, R.S.C 1985, c. E-14 and Excise Tax Act, R.S.C. 1985, c. E-15 or any duties imposed under the Customs Tariff or any other federal or provincial sales, excise or other like duties, taxes, charges or impositions after the bid submission date and which affects the costs of the Work to the Contractor, the Contract price will be adjusted to reflect the increase or decrease in the cost to the Contractor.</p>
 <p>(4) Goods and Services Tax/Harmonized Sales Tax<br/>
             The estimated Goods and Services Tax (GST) or Harmonized Sales Tax (HST), if applicable, is included in the total estimated cost on page 1 of the Contract. The GST or HST is not included in the Contract price but will be paid by Canada as provided in the Invoice Submission clause above. The Contractor agrees to remit to Canada Revenue Agency any amounts of GST and HST paid or due.</p>
-<h4>2029 07 (2005-06-10) Transportation Charges </h4>
+<h5>2029 07 (2005-06-10) Transportation Charges </h5>
 <p>If transportation charges are payable by Canada under the terms of the Contract and the Contractor makes the transportation arrangements, shipments must be made by the most direct and economical means consistent with normal shipping practice. The charges must be shown as a separate item on the invoice. The federal government's policy of underwriting its own risks precludes payment of insurance or valuation charges for transportation beyond the point at which title of goods passes to the federal government (determined by the FOB point or Incoterms). Where increased carrier liability is available without charge, the Contractor must obtain the increased liability for shipment.</p>
-<h4>2029 08 (2005-06-10) Shipment Documentation</h4>
+<h5>2029 08 (2005-06-10) Shipment Documentation</h5>
 <p>For the shipment of goods, the transportation bill of lading must accompany the original invoice, except for 'collect' shipments (if and when stipulated), in which event it must accompany the shipment. In addition, a packing slip must accompany each shipment, showing item, quantity, part or reference numbers, description of suppliers and contract reference numbers, including the Client Reference Number (CRN) and Procurement Business Number (PBN). If the goods have been inspected at the Contractor's plant, the signed inspection voucher must be attached to the packing slip normally enclosed in the packing note envelope.</p>
-<h4>2029 09 (2005-06-10) Payment and Interest on Overdue Accounts</h4>
+<h5>2029 09 (2005-06-10) Payment and Interest on Overdue Accounts</h5>
 <p> Payment by Canada for the Work will be made following delivery, inspection and acceptance of the Work, and upon presentation of invoices and any other substantiating documentation as Canada requires. </p>
 <p>(1) For the purposes of this section:</p>
 <p>'Average Rate' means the simple arithmetic mean of the Bank Rates in effect at 4:00 p.m. Eastern Standard Time each day during the calendar month which immediately precedes the calendar month in which payment is made;</p>
@@ -517,38 +517,38 @@
 <p>an amount becomes 'overdue' when it is unpaid on the first day following the day upon which it is due and payable in accordance with the terms of the Contract.</p>
 <p>(2) Canada is liable to pay to the Contractor simple interest at the Average Rate plus three percent (3%) per annum on any amount that is overdue, from the date such amount becomes overdue until the day prior to the date of payment, inclusive. Interest will be paid without notice from the Contractor.</p>
 <p>(3) Canada is not liable to pay interest in accordance with this section if Canada is not responsible for the delay in paying the Contractor. Canada is not liable to pay interest on overdue advance payments. </p>
-<h4>2029 10 (2005-06-10) Audit</h4>
+<h5>2029 10 (2005-06-10) Audit</h5>
 <p>The amount claimed by the Contractor under the Contract is subject to audit by Canada before or after payment has been made to the Contractor. The Contractor must keep proper accounts and records of the cost of performing the Contract and keep all documents relating to such cost for a period of 6 years after final payment under the Contract.</p>
-<h4>2029 11 (2005-06-10) Compliance with Applicable Laws</h4>
+<h5>2029 11 (2005-06-10) Compliance with Applicable Laws</h5>
 <p>The Contractor must comply with all laws applicable to the performance of the Work.</p>
-<h4>2029 12 (2005-06-10) Time of the Essence</h4>
+<h5>2029 12 (2005-06-10) Time of the Essence</h5>
 <p>The Work must be performed within or at the time stated in the Contract.</p>
-<h4>2029 13 (2005-06-10) Title</h4>
+<h5>2029 13 (2005-06-10) Title</h5>
 <p>Except as otherwise provided in the Contract, title to the Work (including copyright where it exists) belongs to Canada upon delivery and acceptance by Canada and the risk of loss or damage remains with the Contractor until delivery of the Work to Canada.</p>
-<h4>2029 14 (2005-06-10) Government Property</h4>
+<h5>2029 14 (2005-06-10) Government Property</h5>
 <p>The Contractor must take reasonable and proper care of all Government Property while such property is in its possession or subject to its control and is responsible for any loss or damage, ordinary wear and tear excepted, resulting from its failure to do so.</p>
-<h4>2029 15 (2005-06-10) Amendment and Assignment </h4>
+<h5>2029 15 (2005-06-10) Amendment and Assignment </h5>
 <p>The Contract must not be amended or assigned, in whole or in part, without the prior written agreement of the parties.</p>
-<h4>2029 16 (2005-06-10) Default by the Contractor</h4>
+<h5>2029 16 (2005-06-10) Default by the Contractor</h5>
 <p>If the Contractor is in default in carrying out any of its obligations under the Contract, or is bankrupt or insolvent or in receivership, the Minister may, upon giving written notice to the Contractor, terminate the whole or any part of the Contract. Upon the giving of such notice, the Contractor will have no claim for any further payment and remains liable to Canada for all losses and damages suffered by Canada by reason of the default, including any increase in the cost incurred by Canada in procuring the Work from another source.</p>
-<h4>2029 17 (2005-06-10) Termination for Convenience</h4>
+<h5>2029 17 (2005-06-10) Termination for Convenience</h5>
 <p>The Minister may, any time prior to the completion of the Work, by giving notice to the Contractor in writing, terminate all or any portion of the Contract. In such case, the Contractor will be paid for Work that has been performed, accepted and unpaid in accordance with the Contract price. The Contractor will be entitled to be reimbursed the actual costs reasonably and properly incurred as a direct result of the termination, but in no case such reimbursement must exceed the Contract price. The Contractor will have no claim for damages, compensation, loss of profit or otherwise, except as provided in this section.</p>
-<h4>2029 18 (2005-06-10) Members of the House of Commons</h4>
+<h5>2029 18 (2005-06-10) Members of the House of Commons</h5>
 <p>Members of the House of Commons are not admitted to any share or part of the Contract or to any benefit resulting from the Contract.</p>
-<h4>2029 19 (2005-06-10) Conflict of Interest </h4>
+<h5>2029 19 (2005-06-10) Conflict of Interest </h5>
 <p>Persons not in compliance with the provisions of the Conflict of Interest and Post-Employment Code for Public Office Holders or the Values and Ethics Code for the Public Service cannot derive any direct benefit from the Contract.</p>
-<h4>2029 20 (2005-06-10) Contingency Fees</h4>
+<h5>2029 20 (2005-06-10) Contingency Fees</h5>
 <p>The Contractor certifies that it has not directly or indirectly paid or agreed to pay and agrees that it will not directly or indirectly pay a contingency fee for the solicitation, negotiation or obtaining of the Contract to any person, other than an employee of the Contractor acting in the normal course of the employee's duties. In this section, 'contingency fee' means any payment or other compensation that is depending or calculated upon the basis of a degree of success in soliciting, negotiating or obtaining the Contract and 'person' includes any individual who is required to file a return with the registrar pursuant to section 5 of the Lobbyists Registration Act, R.S. 1985 c.44 (4th Supplement).</p>
-<h4>2029 21 (2005-06-10) International Sanctions</h4>
+<h5>2029 21 (2005-06-10) International Sanctions</h5>
 <p>(1) Persons in Canada, and Canadians outside of Canada, are bound by economic sanctions imposed by Canada. As a result, the Government of Canada cannot accept delivery of goods or services that originate, either directly or indirectly, from the countries or persons subject to economic sanctions.</p>
 <p>Details on existing sanctions can be found at:<br/>
 <a href="http://www.dfait-maeci.gc.ca/trade/sanctions-e.asp" rel="external">http://www.dfait-maeci.gc.ca/trade/sanctions-e.asp</a></p>
 <p>(2) The Contractor must not supply to the Government of Canada any goods or services which are subject to economic sanctions.</p>
 <p>(3) By law, the Contractor must comply with changes to the regulations imposed during the life of the Contract. During the performance of the Contract, should the imposition of sanctions against a country or person or the addition of a good or service to the list of sanctioned goods or services cause an impossibility of performance for the Contractor, the situation will be treated by the parties as a force majeure. The Contractor must immediately inform Canada of the situation and the procedures applicable to force majeure will then apply.</p>
-<h4>2029 22 (2005-06-10) Entire Agreement</h4>
+<h5>2029 22 (2005-06-10) Entire Agreement</h5>
 <p>The Contract constitutes the entire and sole agreement between the parties.</p>
-<h3>PART III - MEDIUM COMPLEXITY REQUIREMENTS – GOODS OR SERVICES</h3>
-<h3><a id="PN-71app5" name="app5"></a>APPENDIX 5 TO ANNEX A</h3>
+<h4>PART III - MEDIUM COMPLEXITY REQUIREMENTS – GOODS OR SERVICES</h4>
+<h4><a id="PN-71app5" name="app5"></a>APPENDIX 5 TO ANNEX A</h4>
 <p>2T-MED1 Medium Complexity Bid Solicitation and Resulting Contract Templates for goods or services, are to be used for the following:</p>
 <ul>
 <li>Medium Complexity Competitive and Non-Competitive requirements - Goods or Services</li>
@@ -571,25 +571,25 @@
 <li>Canadian Commercial Corporation requirements</li>
 </ul>
 <p>Note to Contracting Authority: Unused choices as well as the instructional information are to be deleted by the Contracting Authority prior to issuing the Bid Solicitation.</p>
-<h3>TABLE OF CONTENTS</h3>
-<h4>PART 1 - GENERAL INFORMATION</h4>
+<h4>TABLE OF CONTENTS</h4>
+<h5>PART 1 - GENERAL INFORMATION</h5>
 <ol>
 <li>Security Requirement</li>
 <li>Statement of Work OR Requirement</li>
 </ol>
-<h4>PART 2 - BIDDER INSTRUCTIONS</h4>
+<h5>PART 2 - BIDDER INSTRUCTIONS</h5>
 <ol>
 <li>Standard Instructions, Conditions and Clauses </li>
 <li>Submission of Bids </li>
 <li>Enquiries - Bid solicitation</li>
 <li>Applicable Laws</li>
 </ol>
-<h4>PART 3 - BID PREPARATION INSTRUCTIONS AND EVALUATION PROCEDURES</h4>
+<h5>PART 3 - BID PREPARATION INSTRUCTIONS AND EVALUATION PROCEDURES</h5>
 <ol>
 <li>Bid Preparation Instructions </li>
 <li>Evaluation Procedures</li>
 </ol>
-<h4>PART 4 - RESULTING CONTRACT CLAUSES</h4>
+<h5>PART 4 - RESULTING CONTRACT CLAUSES</h5>
 <p>Security Requirement<br/>
             Statement of Work OR Requirement<br/>
             Standard Conditions and Clauses<br/>
@@ -608,16 +608,16 @@
             ANNEX 'X' EVALUATION CRITERIA AND BASIS OF SELECTION<br/>
             ANNEX 'X' CERTIFICATIONS PRECEDENT TO CONTRACT AWARD OR <br/>
             ANNEX 'X' CERTIFICATIONS WITH THE BID </p>
-<h3>PART 1 - GENERAL INFORMATION</h3>
-<h4>1. Security Requirement</h4>
+<h4>PART 1 - GENERAL INFORMATION</h4>
+<h5>1. Security Requirement</h5>
 <p>There is a security requirement associated with this requirement. For additional information, see Part 4 - Resulting Contract Clause and Annex 'X' Evaluation Criteria and Basis of Selection.</p>
 <p>OR</p>
 <p>There is no security requirement associated with this requirement.</p>
-<h4>2. Statement of Work OR Requirement</h4>
+<h5>2. Statement of Work OR Requirement</h5>
 <p>(Insert a brief description of the Statement of Work or of the Requirement. Reference may be made to the Statement of Work or the Requirement in the contract)</p>
-<h3>PART 2 - BIDDER INSTRUCTIONS</h3>
+<h4>PART 2 - BIDDER INSTRUCTIONS</h4>
 <p>(Remark to Contracting Authority: Refer to information to section 02, Instructions, Conditions and Clauses, of 2003 Standard Instructions - Goods or Services.)</p>
-<h4>1. Standard Instructions, Conditions and Clauses</h4>
+<h5>1. Standard Instructions, Conditions and Clauses</h5>
 <p>All instructions, conditions and clauses identified in the bid solicitation by title, number and date are set out in the Standard Acquisition Clauses and Conditions Manual issued by Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>).</p>
 <p>The Manual is available on the <acronym title="Public Works and Government Services Canada">PWGSC</acronym> Website:<br/>
 <a href="http://sacc.pwgsc.gc.ca/sacc/index-e.jsp" rel="external">http://sacc.pwgsc.gc.ca/sacc/index-e.jsp</a>.</p>
@@ -631,21 +631,21 @@
 <p>(Remark to Contracting Authority: Specific instructions not already covered by the standard Instructions are to be included by reference, if applicable.)</p>
 <p><em>1.2 SACC Manual clauses</em><br/>
             (Remark to Contracting Authority: Refer to information in sections 03 to 08 of 2003 Standard Instructions - Goods or Services.)</p>
-<h4>2. Submission of Bids</h4>
+<h5>2. Submission of Bids</h5>
 <p>Bids must be submitted by the date, time and place indicated on page 1 of the bid solicitation document.</p>
 <p>(Remark to Contracting Authority: Use the following paragraph where faxed bids are not acceptable)<br/>
             WARNING: BIDS BY FACSIMILE WILL NOT BE ACCEPTED. Due to the nature of the solicitation, transmission of bids by facsimile to Public Works and Government Services Canada is not considered to be practical and therefore will not be accepted.</p>
 <p>Remark to Contracting Authority: Specific instructions and requirements for the submission of bids not already covered by the Standard Instructions are to be included by reference, if applicable. Example reference clause: A0020T)</p>
 <p><em>2.1 SACC Manual clauses</em><br/>
             (Remark to Contracting Authority: Refer to information in Section 11, Communications - Solicitation Period, of 2003, Standard Instructions - Goods or Services.)</p>
-<h4>3. Enquiries - Bid Solicitation</h4>
+<h5>3. Enquiries - Bid Solicitation</h5>
 <p>All enquiries regarding the bid solicitation must be submitted in writing to the Contracting Authority no later than <span aria-label="Blank placeholder" class="blankline"></span>  (xx) calendar days prior to the bid closing date of the bid solicitation. Enquiries received after that time may not be answered prior to the bid closing date.</p>
-<h4>4. Applicable Laws</h4>
+<h5>4. Applicable Laws</h5>
 <p>Any resulting contract must be interpreted and governed, and the relations between the parties determined, by the laws in force in (The Contracting Authority must fill in the province or territory).</p>
 <p>The Bidder may, at its discretion, substitute the applicable laws of a Canadian province or territory of its choice without affecting the validity of its bid, by deleting the name of the Canadian province or territory specified and inserting the name of the Canadian province or territory of its choice. If no change is made, it acknowledges that the applicable laws specified are acceptable to the Bidder.</p>
 <p>(Remark to Contracting Authority: Refer to information in sections 03 to 08 of 2003, Standard Instructions - Goods or Services.)</p>
-<h3>PART 3 - BID PREPARATION INSTRUCTIONS AND EVALUATION PROCEDURES</h3>
-<h4>1. Bid Preparation Instructions</h4>
+<h4>PART 3 - BID PREPARATION INSTRUCTIONS AND EVALUATION PROCEDURES</h4>
+<h5>1. Bid Preparation Instructions</h5>
 <p>Bidders are requested to prepare their bid in three (3) separately bound sections as follows:<br/>
             Section I - Technical Bid {(with no reference to price) (X copies)}<br/>
             Section II - Financial Bid (X copies) <br/>
@@ -670,7 +670,7 @@
 <p><em>Certifications with the Bid:</em><br/>
             The certifications attached as Annex X Certifications with the Bid must be completed and submitted with the Bid.</p>
 <p>Compliance with the certifications the Bidder provides to Canada is subject to verification by Canada during the bid evaluation period (prior to contract award) and after contract award. The Contracting Authority will have the right to ask for additional information to verify the Bidder's compliance with the applicable certifications before award of a contract. The bid will be declared non-responsive if it is determined that any certification made by the Bidder is untrue, whether made knowingly or unknowingly. Any failure to comply with the certifications or to comply with the request of the Contracting Authority for additional information will also render the bid non-responsive.</p>
-<h4>2. Evaluation Procedures</h4>
+<h5>2. Evaluation Procedures</h5>
 <p>2.1 Bids will be evaluated in accordance with the Evaluation Criteria and Basis of Selection specified in Annex X. Bids received will be assessed against the evaluation criteria identified for the total requirement of this Bid Solicitation and in conjunction with the accompanying Statement of Work OR Requirement at Annex X.</p>
 <p>(Remark to Contracting Authority: Use the following paragraphs, if applicable)<br/>
             The evaluation team composed of representatives of the (name of client department) and <acronym title="Public Works and Government Services Canada">PWGSC</acronym> will evaluate the bids on behalf of Canada.</p>
@@ -679,13 +679,13 @@
 <li>seek clarification or verify any or all information provided by the Bidder with respect to this Bid Solicitation;</li>
 <li>contact any or all of the references supplied and to interview, at the sole costs of the Bidder, the Bidder and/or any or all of the resources proposed by the Bidder to fulfill the requirement, at <acronym title="Public Works and Government Services Canada">PWGSC</acronym> on two (2) working days notice, to verify and validate any information or data submitted by the Bidder.</li>
 </ol>
-<h3>PART 4 - RESULTING CONTRACT CLAUSES</h3>
-<h4>1. Security Requirement </h4>
+<h4>PART 4 - RESULTING CONTRACT CLAUSES</h4>
+<h5>1. Security Requirement </h5>
 <p>There is a security requirement associated with this requirement.</p>
 <p>(Insert applicable clause provided by Canadian International Industrial Security Directorate (CIISD) and insert the SRCL as an Annex.</p>
 <p>OR</p>
 <p>There is no security requirement associated with this requirement.</p>
-<h4>2. Statement of Work OR Requirement</h4>
+<h5>2. Statement of Work OR Requirement</h5>
 <p>(Use one the suggested fill in clause below, SACC or other appropriate clause, if applicable)</p>
 <p><em>2.1 The Contractor must provide (fill in appropriate description of the requirement) in accordance with the Statement of Work OR requirement at Annex 'X'.</em></p>
 <p>OR </p>
@@ -693,7 +693,7 @@
 <p>(Remark to Contracting Authority: SACC Manual reference clauses related to work requirement are to be included below. Example reference clauses: B10002, B1201D etc.)</p>
 <p><em>2.2 SACC Manual clauses</em><br/>
             (Remark to Contracting Authority: Refer to information in section 02, Standard Conditions and Clauses, of 2010, General Conditions - Goods or Services.)</p>
-<h4>3. Standard Conditions and Clauses</h4>
+<h5>3. Standard Conditions and Clauses</h5>
 <p>All conditions and clauses identified in the Contract by title, number and date are set out in the Standard Acquisition Clauses and Conditions Manual issued by Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>).</p>
 <p>The Manual is available on the <acronym title="Public Works and Government Services Canada">PWGSC</acronym> Website:<br/>
 <a href="http://sacc.pwgsc.gc.ca/sacc/index-e.jsp" rel="external">http://sacc.pwgsc.gc.ca/sacc/index-e.jsp</a>.</p>
@@ -702,7 +702,7 @@
 <p>(Remark to Contracting Authority: Specific SACC reference clauses not already covered by the general conditions may be added, if applicable.)</p>
 <p> <em>3.2 SACC Manual Clauses</em><br/>
             (Remark to Contracting Authority: Refer to information in sections 04, 07, 10 and 11 of 2010 General Conditions - Goods or Services (Medium Complexity). Specific requirements related to term of contract, delivery, inspection and acceptance, and not already covered by the general conditions may be added as subsections or as reference clauses, if applicable.</p>
-<h4>4. Term of Contract</h4>
+<h5>4. Term of Contract</h5>
 <p><em>4.1 Delivery Date OR Period of Contract</em><br/>
             (Use the suggested clauses below or other SACC clauses, if applicable)</p>
 <p>The Work is to be performed during the period (fill in start date) to (fill in end date of services)</p>
@@ -717,7 +717,7 @@
             The Contractor grants to Canada the irrevocable option to extend the period of the Contract by up to <span aria-label="Blank placeholder" class="blankline"></span>  additional <span aria-label="Blank placeholder" class="blankline"></span>  year period(s) under the same terms and conditions. Canada may exercise this option at any time by sending a written notice to the Contractor at least <span aria-label="Blank placeholder" class="blankline"></span>  calendar days prior to the Contract expiry date, or any extension of the contract.</p>
 <p>The Contractor agrees that, during the extended period of the Contract, the rates and prices will be in accordance with the provisions of the Contract.</p>
 <p>The option may only be exercised by the Contracting Authority, and will be evidenced for administrative purposes only, through a formal contract amendment.</p>
-<h4>5. Authorities</h4>
+<h5>5. Authorities</h5>
 <p><em>5.1 Contracting Authority</em><br/>
             The Contracting Authority is named below and is responsible for the management of the Contract and any changes to the Contract must be authorized in writing by the Contracting Authority. </p>
 <p>(Name of Contracting Authority)<br/>
@@ -738,20 +738,20 @@
 <p><em>5.3 Contractor Contacts</em><br/>
             (Fill in or delete as applicable)<br/>
             (Remark to Contracting Authority: Fill in the appropriate SACC Manual clauses or approved clause related to Basis of Payment, Method of Payment, audit and taxes not covered in the general conditions. Refer to information in section 12, Payment, and section 13, Interest on Overdue Accounts, of 2010 General Conditions - Goods or Services (Medium Complexity).)</p>
-<h4>6. Basis of Payment</h4>
+<h5>6. Basis of Payment</h5>
 <p><em>6.1 Basis of Payment</em><br/>
             (Remark to Contracting Authority: Use, in full text, the applicable SACC clauses. Example: C6001C. )</p>
 <p><em>6.2 Limitation of Expenses OR Ceiling Price</em><br/>
             (Remark to Contracting Authority: Use SACC Manual reference clauses, if applicable. Example reference clauses: H1000D, H1001D, C0101D, C2605D, C2608D.)</p>
 <p><em>6.3 SACC Manual Clauses</em><br/>
             (Remark to Contracting Authority: Use the applicable SACC Manual clauses or other approved clauses related to Invoicing Instructions. Invoicing Instructions also cover progress claims and therefore any reference to invoice would also cover progress claims. Refer to information in section 08, Invoice Submission, section 12, Payment and section 13, Interest on Overdue Accounts, of 2010 General Conditions - Goods or Services (Medium Complexity).) </p>
-<h4>7. Invoicing Instructions</h4>
+<h5>7. Invoicing Instructions</h5>
 <p>The Contractor must submit Invoices in accordance with the information required in section 08, Invoice Submission, of the 2010 General Conditions - Goods or Services (Medium Complexity).</p>
-<h4>8. Certifications</h4>
+<h5>8. Certifications</h5>
 <p>Compliance with the Certifications provided by the Contractor is a condition of this Contract and subject to verification by Canada during the entire period of the Contract. In the event that the Contractor does not comply with any certification or that it is determined that any certification made by the Contractor in its proposal is untrue, whether made knowingly or unknowingly, the Minister has the right, pursuant to the default provision of the Contract, to terminate the Contract for default.</p>
-<h4>9. Applicable Laws</h4>
+<h5>9. Applicable Laws</h5>
 <p>This Contract must be interpreted and governed, and the relations between the parties determined, by the laws in force in (The Contracting Authority must fill in the province or territory as specified by the Bidder in its bid.) </p>
-<h4>10. Priority of Documents</h4>
+<h5>10. Priority of Documents</h5>
 <p>If there is a discrepancy between the wording of any documents which appear on the list below, the wording of the document which first appears on the list has priority over the wording of any document which subsequently appears on the list.</p>
 <ol>
 <li>These articles of agreement;</li>
@@ -762,39 +762,39 @@
 <li>Annex 'X' </li>
 <li>The Contractor's bid dated (Fill in)</li>
 </ol>
-<h4>11. (Remark to Contracting Authority: If applicable, use the suggested SACC Manual clauses in full text, other SACC Manual clauses or approved clauses).</h4>
+<h5>11. (Remark to Contracting Authority: If applicable, use the suggested SACC Manual clauses in full text, other SACC Manual clauses or approved clauses).</h5>
 <p>XX FEDERAL CONTRACTORS PROGRAM FOR EMPLOYMENT EQUITY - CERTIFICATION (K2003C)</p>
 <p>XX WORK FORCE REDUCTION PROGRAMS (A9105C) </p>
 <p>XX CANADIAN CONTENT CERTIFICATION (K4100C)</p>
 <p>XX CKTEA CERTIFICATION (K5100C)</p>
 <hr/>
-<h3>Annex X </h3>
-<h3>STATEMENT OF WORK<br/>
+<h4>Annex X </h4>
+<h4>STATEMENT OF WORK<br/>
             OR<br/>
-            REQUIREMENT</h3>
+            REQUIREMENT</h4>
 <p>(Insert as appropriate)</p>
 <hr/>
-<h3>Annex X <br/>
-            BASIS OF PAYMENT</h3>
+<h4>Annex X <br/>
+            BASIS OF PAYMENT</h4>
 <p>(Insert as appropriate)</p>
 <hr/>
-<h3>Annex X <br/>
-            SECURITY REQUIREMENTS CHECK LIST</h3>
+<h4>Annex X <br/>
+            SECURITY REQUIREMENTS CHECK LIST</h4>
 <p>(SRCL MUST BE INSERTED)</p>
 <hr/>
-<h3>ANNEX X<br/>
-            EVALUATION CRITERIA AND BASIS OF SELECTION</h3>
-<h4>PART I. EVALUATION CRITERIA</h4>
+<h4>ANNEX X<br/>
+            EVALUATION CRITERIA AND BASIS OF SELECTION</h4>
+<h5>PART I. EVALUATION CRITERIA</h5>
 <p>1. Mandatory Requirements:<br/>
             (Insert mandatory criteria, if any)</p>
 <p>2. Point Rated Criteria:<br/>
             (Insert point rated criteria, if any)</p>
-<h4>PART 2. FINANCIAL EVALUATION</h4>
+<h5>PART 2. FINANCIAL EVALUATION</h5>
 <p>(Insert financial criteria)</p>
-<h4>PART 3. BASIS OF SELECTION</h4>
+<h5>PART 3. BASIS OF SELECTION</h5>
 <p>(Insert selection criteria)</p>
 <p>(Remark to Contracting Authority: Use one of the clauses below if there are security requirements. )</p>
-<h4>PART 4. SECURITY REQUIREMENT</h4>
+<h5>PART 4. SECURITY REQUIREMENT</h5>
 <p>(Remark to Contracting Authority: Insert and fill in the clause below if the Bidder has until contract award to obtain the necessary security clearances. See SM 6C.273.) </p>
 <p>Prior to contract award, the following conditions must be met:</p>
 <p>(a) The Bidder must hold a valid <span aria-label="Blank placeholder" class="blankline"></span> , issued by the Canadian and International Industrial Security Directorate (CIISD) of Public Works and<br/>
@@ -806,7 +806,7 @@
 <p>(a) The Bidder must hold a valid <span aria-label="Blank placeholder" class="blankline"></span> , issued by the Canadian and International Industrial Security Directorate (CIISD) of Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>); and <br/>
             (b) The Bidder's proposed individuals requiring access to <span aria-label="Blank placeholder" class="blankline"></span> information, assets or sensitive work site(s) shall each hold a valid personnel security screening at the requisite level of <span aria-label="Blank placeholder" class="blankline"></span>  , granted or approved by the CIISD of <acronym title="Public Works and Government Services Canada">PWGSC</acronym>.</p>
 <hr/>
-<h3>ANNEX X CERTIFICATIONS PRECEDENT TO CONTRACT AWARD</h3>
+<h4>ANNEX X CERTIFICATIONS PRECEDENT TO CONTRACT AWARD</h4>
 <p>(Remark to Contracting Authority: Use Annex X Certifications Precedent to Contract Award in conjunction with the clause entitled 'Certifications Precedent to Contract Award , Section III. Certification Requirements.</p>
 <p>Use the following SACC certification clauses in full text, if applicable. Delete this annex, if it is not applicable. The certifications will be a condition precedent to award of contract as opposed to a mandatory requirement for evaluation purposes. This approach is recommended to ensure bids are not rejected during evaluation for lack of certifications. In the event that a bidder does not provide certifications at bid closing, the Contracting Authority must request these certifications prior to contract award. Failure by the Bidder to comply will render the bid non-responsive.)</p>
 <p>In order to be considered for contract award, a bidder whose Bid is technically and financially responsive, must meet the following conditions:</p>
@@ -829,7 +829,7 @@
 <p>(Remark to Contracting Authority: If applicable, use the applicable SACC Manual clause.)<br/>
             Price OR Rate Certification</p>
 <hr/>
-<h3>ANNEX X CERTIFICATIONS WITH THE BID </h3>
+<h4>ANNEX X CERTIFICATIONS WITH THE BID </h4>
 <p>(Remarks to Contracting Authority: Use Annex X CERTIFICATIONS WITH THE BID in conjunction with the clause entitled 'Certifications with the Bid, Section III. Certification Requirements.</p>
 <p>Where the bid must include the certifications with the bid by bid closing date, use if applicable the following SACC certification clauses in full text. Delete this annex , if this is not applicable.).</p>
 <p>In order to be considered for contract award, a bidder whose Bid is technically and financially responsive, must meet the following conditions: </p>
@@ -841,15 +841,15 @@
             Use in conjunction with K5000D CKTEA Definition and contract clause K5100C CKTEA Certification.) <br/>
             Canada-Korea Agreement on the Procurement of Telecommunications Equipment (CKTEA) Certification</p>
 <hr/>
-<h3>PART III - MEDIUM COMPLEXITY REQUIREMENTS – GOODS OR SERVICES</h3>
-<h3><a id="PN-71app6" name="app6"></a>APPENDIX 6 TO ANNEX A</h3>
+<h4>PART III - MEDIUM COMPLEXITY REQUIREMENTS – GOODS OR SERVICES</h4>
+<h4><a id="PN-71app6" name="app6"></a>APPENDIX 6 TO ANNEX A</h4>
 <p>2010 (2005-06-10) General Conditions - Goods or Services (Medium Complexity) must be used for the following requirements:</p>
 <ul>
 <li>Medium Complexity Competitive and Non-Competitive Requirements - Goods or Services</li>
 </ul>
 <hr/>
-<h4>2010 (2005-06-10) General Conditions - Goods or Services (Medium Complexity)</h4>
-<h3>TABLE OF CONTENTS</h3>
+<h5>2010 (2005-06-10) General Conditions - Goods or Services (Medium Complexity)</h5>
+<h4>TABLE OF CONTENTS</h4>
 <ul class="noBullet">
 <li>01. Interpretation</li>
 <li>02. Standard Conditions and Clauses</li>
@@ -881,7 +881,7 @@
 <li>28. International Sanctions </li>
 <li>29. Entire Agreement</li>
 </ul>
-<h4>2010 01 (2005-06-10) Interpretation</h4>
+<h5>2010 01 (2005-06-10) Interpretation</h5>
 <p>In the Contract, unless the context otherwise requires,</p>
 <p>'Canada', 'Crown', 'Her Majesty' or 'the Government' means Her Majesty the Queen in right of Canada;</p>
 <p>'Contract' means the written agreement between the Parties, these general conditions, any referenced conditions and clauses, and any other document specified or referred to as forming part of the Contract, all as amended by agreement of the Parties from time to time;</p>
@@ -894,11 +894,11 @@
 <p>'Party' means Canada or the Contractor or any other signatory to the Contract and 'Parties' means all of them;</p>
 <p>'Subcontract' includes a contract let by any subcontractor at any tier for the performance or supply of a part of the Work;</p>
 <p>'Work' means the whole of the activities, services, goods, equipment, matters and things required to be done, delivered or performed by the Contractor in accordance with the terms of the Contract.</p>
-<h4>2010 02 (2005-06-10) Standard Conditions and Clauses</h4>
+<h5>2010 02 (2005-06-10) Standard Conditions and Clauses</h5>
 <p>Pursuant to the Department of Public Works and Government Services Act, S.C. 1996, c. 16, the conditions and clauses identified by title, number and date in the Contract are incorporated by reference into and form part of the Contract as though expressly set out in the Contract.</p>
-<h4>2010 03 (2005-06-10) Status of the Contractor</h4>
+<h5>2010 03 (2005-06-10) Status of the Contractor</h5>
 <p>The Contractor is engaged as an independent Contractor for the sole purpose of performing the Work. Neither the Contractor nor any of its personnel is engaged as an employee, servant or agent of Canada. The Contractor is responsible for all deductions and remittances required by law in relation to its employees.</p>
-<h4>2010 04 (2005-06-10) Conduct of the Work</h4>
+<h5>2010 04 (2005-06-10) Conduct of the Work</h5>
 <p>(1) The Contractor represents and warrants that:</p>
 <ol type="a">
 <li>it is competent to perform the Work; and</li>
@@ -910,11 +910,11 @@
 <li>carry out the Work in a diligent and efficient manner; and</li>
 <li>perform the Work in accordance with standards of quality acceptable to Canada and in full conformity with the requirements of the Contract.</li>
 </ol>
-<h4>2010 05 (2005-06-10) Subcontracts</h4>
+<h5>2010 05 (2005-06-10) Subcontracts</h5>
 <p>(1) The Contractor may subcontract the supply of standard goods or services which are customarily subcontracted by the Contractor. In any other instance, the Contractor must obtain the prior consent in writing of the Minister. The Minister may require the Contractor to furnish such particulars of the proposed Subcontract as he deems necessary.</p>
 <p>(2) Subcontracting does not relieve the Contractor from any of its obligations under the Contract or impose any liability upon Canada or the Minister to a subcontractor.</p>
 <p>(3) In any Subcontract, the Contractor agrees to bind the subcontractor by the same terms and conditions by which the Contractor is bound under the Contract, unless the Minister requires or agrees otherwise.</p>
-<h4>2010 06 (2005-06-10) Excusable Delay</h4>
+<h5>2010 06 (2005-06-10) Excusable Delay</h5>
 <p>(1) A delay in the performance by the Contractor of any obligation under the Contract which is caused solely by an event that</p>
 <ol type="a">
 <li>was beyond the reasonable control of the Contractor,</li>
@@ -927,13 +927,13 @@
 <p>(3) The Minister may, however, after an Excusable Delay has continued for 30 days or more, in the Minister's absolute discretion, terminate the Contract. In such a case, the Parties agree that neither will make any claim against the other for damages, costs, expected profits or any other loss arising out of the termination or the event that gave rise to the Excusable Delay. The Contractor agrees to repay immediately to Canada the portion of any advance payment that is unliquidated at the date of the termination.</p>
 <p>(4) Except to the extent that Canada is responsible for the delay for reasons of failure to meet an obligation under the Contract, Canada is not liable for any costs or charges of any nature incurred by the Contractor or any of its subcontractors or agents as a result of an Excusable Delay.</p>
 <p>(5) Upon termination of the Contract under this section, the Minister may require the Contractor to deliver to Canada, in the manner and to the extent directed by the Minister, any completed parts of the Work which have not been delivered and accepted prior to the termination and any materials, parts, plant, equipment or work-in-process which the Contractor has acquired or produced specifically in the fulfillment of the Contract. Canada will pay the Contractor the value, determined on the basis of the Contract Price, including the proportionate part of the Contractor's profit or fee included in the Contract Price, of all completed parts of the Work and the Cost to the Contractor that the Minister considers reasonable in respect of all materials, parts, plant, equipment or work-in-process delivered to Canada and accepted by Canada. In no event will the aggregate of the amounts paid by Canada under the Contract to the date of termination and any amounts payable pursuant to this subsection exceed the Contract Price.</p>
-<h4>2010 07 (2005-06-10) Inspection, Acceptance and Warranty</h4>
+<h5>2010 07 (2005-06-10) Inspection, Acceptance and Warranty</h5>
 <p>The Work is subject to inspection and acceptance by Canada. Despite prior acceptance of the Work and without restricting any conditions or warranty imposed by law, the Contractor, if requested by the Minister to do so, must replace, repair or correct at its option and its own expense any Work which becomes defective or which fails to conform to the Contract requirements, where applicable. For goods, the warranty period will be twelve (12) months after delivery and acceptance or the length of the Contractor's or manufacturer's standard warranty period, whichever is longer. Any Work replaced, repaired or corrected pursuant to this section is subject to all provisions of the contract to the same extent as Work initially performed.</p>
 <p>Canada must pay the transportation cost associated with returning any Work to the Contractor for replacement, repair or making good and the Contractor must pay the transportation cost associated with forwarding the replacement or returning the Work to the delivery point specified in the Contract or to another location as directed by Canada. If, in the opinion of the Minister, it is not expedient to remove the Work from its location, the Contractor must carry out any necessary repair or making good of the Work at that location and will be paid its reasonable travelling and living expenses.</p>
-<h4>2010 08 (2005-06-10) Invoice Submission</h4>
+<h5>2010 08 (2005-06-10) Invoice Submission</h5>
 <p>Invoices must be submitted in the name of the Contractor. They must show the name and address of the client department, item/reference number, deliverable and/or description of Work, contract serial number, Client Reference Number (CRN), Procurement Business Number (PBN) and financial code(s). If applicable, the method of shipment together with date, case numbers and part or reference numbers, item, quantity, unit of issue, unit price, and additional charges will be shown on the invoice. If applicable, fixed time labour rates and level of effort and, the amount invoiced (exclusive of the Goods and Services Tax {GST} or Harmonized Sales Tax {HST} as appropriate), will be shown separately.</p>
 <p>GST or HST, if applicable, will be incorporated into all invoices and shown as a separate item on invoices. All items that are zero-rated, exempt or to which the GST or HST does not apply, are to be identified as such on all invoices. Invoices must be submitted for each delivery/shipment and must apply to one contract only. Each invoice must indicate whether it covers partial or final delivery.</p>
-<h4>2010 09 (2005-06-10) Taxes</h4>
+<h5>2010 09 (2005-06-10) Taxes</h5>
 <p>(1) Municipal Taxes <br/>
             Municipal Taxes are not applicable.</p>
 <p>(2) Provincial Taxes</p>
@@ -957,13 +957,13 @@
             In the event of any change in any tax imposed under the Excise Act, R.S.C 1985, c. E-14 and Excise Tax Act, R.S.C. 1985, c. E-15 or any duties imposed under the Customs Tariff or any other federal or provincial sales, excise or other like duties, taxes, charges or impositions after the bid submission date and which affects the costs of the Work to the Contractor, the Contract price will be adjusted to reflect the increase or decrease in the cost to the Contractor.</p>
 <p>(4) Goods and Services Tax/Harmonized Sales Tax<br/>
             The estimated Goods and Services Tax (GST) or Harmonized Sales Tax (HST), if applicable, is included in the total estimated cost on page 1 of the Contract. The GST or HST is not included in the Contract price but will be paid by Canada as provided in the Invoice Submission clause above. The Contractor agrees to remit to Canada Revenue Agency any amounts of GST and HST paid or due.</p>
-<h4> 2010 10 (2005-06-10) Transportation Charges</h4>
+<h5> 2010 10 (2005-06-10) Transportation Charges</h5>
 <p>If transportation charges are payable by Canada under the terms of the Contract and the Contractor makes the transportation arrangements, shipments must be made by the most direct and economical means consistent with normal shipping practice. The charges must be shown as a separate item on the invoice. The federal government's policy of underwriting its own risks precludes payment of insurance or valuation charges for transportation beyond the point at which title of goods passes to the federal government (determined by the FOB point or Incoterms). Where increased carrier liability is available without charge, the Contractor must obtain the increased liability for shipment.</p>
-<h4>2010 11 (2005-06-10) Shipment Documentation</h4>
+<h5>2010 11 (2005-06-10) Shipment Documentation</h5>
 <p>For the shipment of goods, the transportation bill of lading must accompany the original invoice, except for 'collect' shipments (if and when stipulated), in which event it must accompany the shipment. In addition, a packing slip must accompany each shipment, showing item, quantity, part or reference numbers, description of suppliers and contract reference numbers, including the Client Reference Number (CRN) and Procurement Business Number (PBN). If the goods have been inspected at the Contractor's plant, the signed inspection voucher must be attached to the packing slip normally enclosed in the packing note envelope.</p>
-<h4>2010 12 (2005-06-10) Payment</h4>
+<h5>2010 12 (2005-06-10) Payment</h5>
 <p>Payment by Canada for the Work will be made following delivery, inspection and acceptance of the Work, and upon presentation of invoices and any other substantiating documentation as Canada requires. </p>
-<h4>2010 13 (2005-06-10) Interest on Overdue Accounts</h4>
+<h5>2010 13 (2005-06-10) Interest on Overdue Accounts</h5>
 <p>(1) For the purposes of this section:</p>
 <p>'Average Rate' means the simple arithmetic mean of the Bank Rates in effect at 4:00 p.m. Eastern Standard Time each day during the calendar month which immediately precedes the calendar month in which payment is made;</p>
 <p>'Bank Rate' means the rate of interest established from time to time by the Bank of Canada as the minimum rate at which the Bank of Canada makes short term advances to members of the Canadian Payments Association;</p>
@@ -971,19 +971,19 @@
 <p>an amount becomes 'overdue' when it is unpaid on the first day following the day upon which it is due and payable in accordance with the terms of the Contract.</p>
 <p>(2) Canada is liable to pay to the Contractor simple interest at the Average Rate plus three percent (3%) per annum on any amount that is overdue, from the date such amount becomes overdue until the day prior to the date of payment, inclusive. Interest will be paid without notice from the Contractor.</p>
 <p>(3) Canada is not liable to pay interest in accordance with this section if Canada is not responsible for the delay in paying the Contractor. Canada is not liable to pay interest on overdue advance payments. </p>
-<h4>2010 14 (2005-06-10) Audit</h4>
+<h5>2010 14 (2005-06-10) Audit</h5>
 <p>(1) The Contractor must keep proper accounts and records of the Cost to the Contractor of the Work and of all expenditures or commitments made by the Contractor in connection with the Work and must keep all invoices, receipts and vouchers relating to the Work. The Contractor must not, without the prior written consent of the Minister, dispose of any such accounts, records, invoices, receipts or vouchers until the expiration of 6 years after final payment under the Contract, or until the settlement of all outstanding claims and disputes, whichever is later.</p>
 <p>(2) All such accounts and records as well as any invoices, receipts and vouchers must at all times during the retention period referred to in subsection 1 be open to audit, inspection and examination by the authorized representatives of the Minister, who may make copies and take extracts. The Contractor must provide all facilities for such audits and inspections and must furnish all such information as the representatives of the Minister may from time to time require with respect to such accounts, records, invoices, receipts and vouchers.</p>
-<h4>2010 15 (2005-06-10) Compliance with Applicable Laws</h4>
+<h5>2010 15 (2005-06-10) Compliance with Applicable Laws</h5>
 <p>The Contractor must comply with all laws applicable to the performance of the Work.</p>
-<h4>2010 16 (2005-06-10) Time of the Essence</h4>
+<h5>2010 16 (2005-06-10) Time of the Essence</h5>
 <p>The Work must be performed within or at the time stated in the Contract.</p>
-<h4>2010 17 (2005-06-10) Title</h4>
+<h5>2010 17 (2005-06-10) Title</h5>
 <p>(1) Except as otherwise provided in the Contract, and except as provided in subsection 2, title of the Work or any part of the Work belongs to Canada upon delivery and acceptance by or on behalf of Canada.</p>
 <p>(2) If any payment is made to the Contractor for or on account of materials, parts, work-in-process or finished work, either by way of progress payments or accountable advances or otherwise, title in and to all materials, parts, work-in-process and finished work so paid for belongs to Canada upon payment. Transfer pursuant to this subsection does not constitute acceptance by Canada of the materials, parts, work-in-process or finished work, and does not relieve the Contractor of its obligation to perform the Work in accordance with the Contract.</p>
 <p>(3) Despite any transfer of title referred to in this section and except as otherwise provided in the Contract, the risk of loss or damage to the materials, parts, work-in-process or finished Work remains with the Contractor until their delivery to Canada in accordance with the Contract.</p>
 <p>(4) Where title to any materials, parts, work-in-process or finished Work is transferred to Canada, the Contractor must, upon the Minister's request, establish to the Minister's satisfaction that the title is free and clear of all claims, liens, attachments, charges or encumbrances and must execute such conveyances and other instruments necessary to perfect that title as the Minister may request.</p>
-<h4>2010 18 (2005-06-10) Confidentiality</h4>
+<h5>2010 18 (2005-06-10) Confidentiality</h5>
 <p>(1) The Contractor must keep confidential all information provided to the Contractor by or on behalf of Canada in connection with the Work and all information conceived, developed or produced by the Contractor as part of the Work. Information provided to the Contractor by or on behalf of Canada must be used solely for the purpose of the Contract and remains the property of Canada.</p>
 <p>(2) Subject to the Access to Information Act, R.S.C. 1985, c. A-1 and to any right of Canada under the Contract to release or disclose, Canada agrees not to release or disclose outside the Government of Canada any information delivered to Canada under the Contract that is proprietary to the Contractor or a subcontractor.</p>
 <p>(3) The obligations of the Parties set out in this section do not apply to any information where the same information:</p>
@@ -992,26 +992,26 @@
 <li>is or becomes known to a Party from a source other than the other Party, except any source that is known to be under an obligation to the other Party not to disclose the information, or</li>
 <li>is developed by a Party without use of the information of the other Party.</li>
 </ol>
-<h4>2010 19 (2005-06-10) Copyright</h4>
+<h5>2010 19 (2005-06-10) Copyright</h5>
 <p>(1) Anything that is created or developed by the Contractor as part of the Work under the Contract in which copyright subsists belongs to Canada. The Contractor must incorporate the copyright symbol and either of the following notices, as appropriate:</p>
 <p>HER MAJESTY THE QUEEN IN RIGHT OF CANADA (year)</p>
 <p>or</p>
 <p>SA MAJESTÉ LA REINE DU CHEF DU CANADA (année)</p>
 <p>(2) At the request of the Minister, the Contractor must provide to Canada, at the completion of the Work or at such other time as the Minister may require, a written permanent waiver of Moral Rights, in a form acceptable to the Minister, from every author that contributed to the Work. If the Contractor is an author, the Contractor permanently waives the Contractor's Moral Rights.</p>
-<h4>2010 20 (2005-06-10) Government Property</h4>
+<h5>2010 20 (2005-06-10) Government Property</h5>
 <p>The Contractor must take reasonable and proper care of all Government Property while such property is in its possession or subject to its control and is responsible for any loss or damage, ordinary wear and tear excepted, resulting from its failure to do so.</p>
-<h4>2010 21 (2005-06-10) Amendment</h4>
+<h5>2010 21 (2005-06-10) Amendment</h5>
 <p>No amendment to the Contract is effective unless it is incorporated into the Contract by written amendment executed by the authorized representatives of the Minister and of the Contractor. </p>
-<h4>2010 22 (2005-06-10) Assignment</h4>
+<h5>2010 22 (2005-06-10) Assignment</h5>
 <p>(1) The Contract must not be assigned, in whole or in part, by the Contractor without the prior consent in writing of the Minister and any assignment made without that consent is void and of no effect.</p>
 <p>(2) Assignment of the Contract does not relieve the Contractor from any obligation under the Contract or impose any liability upon Canada or the Minister, unless otherwise agreed to in writing by the Minister.</p>
-<h4>2010 23 (2005-06-10) Default by the Contractor</h4>
+<h5>2010 23 (2005-06-10) Default by the Contractor</h5>
 <p>(1) Where the Contractor is in default in carrying out any of its obligations under the Contract, the Minister may, upon giving written notice to the Contractor, terminate for default the whole or any part of the Contract, either immediately, or at the expiration of a cure period specified in the notice if the Contractor has not cured the default to the satisfaction of the Minister within that cure period.</p>
 <p>(2) Where the Contractor becomes bankrupt or insolvent, makes an assignment for the benefit of creditors, or takes the benefit of any statute relating to bankrupt or insolvent debtors, or where a receiver is appointed under a debt instrument or a receiving order is made against the Contractor, or an order is made or a resolution passed for the winding up of the Contractor, the Minister may, upon giving notice to the Contractor, immediately terminate for default the whole or any part of the Contract.</p>
 <p>(3) Upon the giving of a notice provided for in subsection 1 or 2, the Contractor will have no claim for further payment, but remains liable to Canada for any amounts, including milestone payments, paid by Canada and for all losses and damages which may be suffered by Canada by reason of the default, including any increase in the cost incurred by Canada in procuring the Work from another source.</p>
 <p>(4) Upon termination of the Contract under this section, the Minister may require the Contractor to deliver to Canada, in the manner and to the extent directed by the Minister, any completed parts of the Work which have not been delivered and accepted prior to the termination and any materials, parts, plant, equipment or work-in-process which the Contractor has acquired or produced specifically in the fulfillment of the Contract.</p>
 <p>(5) Subject to the deduction of any claim that Canada may have against the Contractor arising under the Contract or out of the termination, Canada will pay the Contractor the value, determined on the basis of the Contract Price including the proportionate part of the Contractor's profit or fee included in the Contract Price, of all completed parts of the Work and the Cost to the Contractor that the Minister considers reasonable in respect of all materials, parts, plant, equipment or work-in-process delivered to Canada pursuant to a direction under subsection 4 and accepted by Canada.</p>
-<h4>2010 24 (2005-06-10) Termination for Convenience</h4>
+<h5>2010 24 (2005-06-10) Termination for Convenience</h5>
 <p>(1) The Minister may, at any time prior to the completion of the Work, by giving notice to the Contractor in writing, terminate the Contract as regards all or any part of the Work not completed. Upon a termination notice being given, the Contractor must cease Work in accordance with and to the extent specified in the notice, but must proceed to complete such part or parts of the Work as are not affected by the termination notice.</p>
 <p>(2) In the event of a termination notice being given pursuant to subsection 1, the Contractor will be entitled to be paid, to the extent that costs have been reasonably and properly incurred for purposes of performing the Contract and to the extent that the Contractor has not already been so paid or reimbursed by Canada:</p>
 <ol type="a">
@@ -1022,24 +1022,24 @@
 <p>(3) The Minister may reduce the payment in respect of any of the Work to the extent that, upon inspection, it is deficient in meeting the requirements of the Contract.</p>
 <p>(4) The total of the amounts to which the Contractor is entitled under subsections 2(a) and (b), together with any amounts paid or due or becoming due to the Contractor under other provisions of the Contract, must not exceed the Contract Price or the portion that is applicable to the part of the Work that is terminated.</p>
 <p>(5) The Contractor has no claim for damages, compensation, loss of profit, allowance or otherwise by reason of, or directly or indirectly arising out of, any action taken or termination notice given by the Minister under this section, except to the extent that this section expressly provides.</p>
-<h4>2010 25 (2005-06-10) Members of the House of Commons</h4>
+<h5>2010 25 (2005-06-10) Members of the House of Commons</h5>
 <p>Members of the House of Commons are not admitted to any share or part of the Contract or to any benefit resulting from the Contract.</p>
-<h4>2010 26 (2005-06-10) Conflict of Interest</h4>
+<h5>2010 26 (2005-06-10) Conflict of Interest</h5>
 <p>Persons not in compliance with the provisions of the Conflict of Interest and Post-Employment Code for Public Office Holders or the Values and Ethics Code for the Public Service cannot derive any direct benefit resulting from the Contract.</p>
-<h4>2010 27 (2005-06-10) Contingency Fees</h4>
+<h5>2010 27 (2005-06-10) Contingency Fees</h5>
 <p>The Contractor certifies that it has not directly or indirectly paid or agreed to pay and agrees that it will not directly or indirectly pay a contingency fee for the solicitation, negotiation or obtaining of the Contract to any person, other than an employee of the Contractor acting in the normal course of the employee's duties. In this section, 'contingency fee' means any payment or other compensation that is depending or calculated upon the basis of a degree of success in soliciting, negotiating or obtaining the Contract and 'person' includes any individual who is required to file a return with the registrar pursuant to section 5 of the Lobbyists Registration Act, R.S. 1985 c.44 (4th Supplement).</p>
-<h4>2010 28 (2005-06-10) International Sanctions</h4>
+<h5>2010 28 (2005-06-10) International Sanctions</h5>
 <p>(1) Persons in Canada, and Canadians outside of Canada, are bound by economic sanctions imposed by Canada. As a result, the Government of Canada cannot accept delivery of goods or services that originate, either directly or indirectly, from the countries or persons subject to economic sanctions.</p>
 <p>Details on existing sanctions can be found at:<br/>
 <a href="http://www.dfait-maeci.gc.ca/trade/sanctions-e.asp" rel="external">http://www.dfait-maeci.gc.ca/trade/sanctions-e.asp</a></p>
 <p>(2) The Contractor must not supply to the Government of Canada any goods or services which are subject to economic sanctions.</p>
 <p>(3) By law, the Contractor must comply with changes to the regulations imposed during the life of the Contract. During the performance of the Contract, should the imposition of sanctions against a country or person or the addition of a good or service to the list of sanctioned goods or services cause an impossibility of performance for the Contractor, the situation will be treated by the Parties as a force majeure. The Contractor must immediately inform Canada of the situation and the procedures applicable to force majeure will then apply.</p>
-<h4>2010 29 (2005-06-10) Entire Agreement</h4>
+<h5>2010 29 (2005-06-10) Entire Agreement</h5>
 <p>The Contract constitutes the entire and sole agreement between the parties.</p>
 <hr/>
-<h3><a id="PN-71annb" name="annb"></a>Annex B<br/>
-            Changes to the Supply Manual</h3>
-<h4>Chapter 6 - Developing the Procurement Strategy</h4>
+<h4><a id="PN-71annb" name="annb"></a>Annex B<br/>
+            Changes to the Supply Manual</h4>
+<h5>Chapter 6 - Developing the Procurement Strategy</h5>
 <p><strong>Section 6E: Process</strong></p>
 <p><strong>Departmental Plain Language Standard Procurement Templates</strong></p>
 <p>6E.643 (2005-06-10) Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>) has implemented Departmental Plain Language Standard Procurement Templates including new standard instructions and new general conditions for use by its contracting officers for the procurement of goods or services (excluding construction). </p>
@@ -1057,7 +1057,7 @@
 <li>Other pertinent clauses may be added within the appropriate section to address commodity requirements in the templates as required; and,</li>
 <li>Annexes may be added for specific commodity needs.</li>
 </ul>
-<h4>TEMPLATES </h4>
+<h5>TEMPLATES </h5>
 <p><strong><em>1. 2T- LDV1 Low Dollar Value Bid Solicitation and Resulting Contract Template - Goods or Services:</em></strong> The Bid Solicitation template includes the new 2003 Standard Instructions - Goods or Services incorporated by reference. The Contract template includes the new 2029 General Conditions - Goods or Services (Low Dollar Value), incorporated by reference. The Contract template will also apply when quotes are obtained through Request for Quotations (RFQ) or telephone buys for competitive requirements and the lowest price bid is accepted; or, when a quote is obtained through an RFQ or a telephone buy for non-competitive sole source requirements. Where the Bid Solicitation is not used, delete Part 1 and the title 'Part 2 - Resulting Contract Clauses' before use.</p>
 <p><em><strong>2. 2T- MED1 Medium Complexity Bid Solicitation and Resulting Contract Template - Goods or Services:</strong></em> The Bid Solicitation template includes 2003 Standard Instructions - Goods or Services, incorporated by reference. The Contract template includes 2010 General Conditions - Goods or Services (Medium Complexity), incorporated by reference. Where the Bid Solicitation is not used, retain Part 4 only of the document and delete the title 'Part 4 - Resulting Contract Clauses' before use.</p>
 <p><em><strong>3. Notes to Templates:</strong></em><br/>
@@ -1065,7 +1065,7 @@
 <p>The Bid Solicitation Templates and the Contract Templates include instructional information, as applicable. All this instructional information must be removed before issuing the documents.</p>
 <p>In English, the words 'Contractor', 'Bidder', 'Work', 'Contract' and 'Contracting Authority' are capitalized when they are in the singular and preceded by 'the' because, with the exception of 'Bidder', they are defined in the Contract. <br/>
             In French, this rule for capitalization does not apply.</p>
-<h4>Chapter 7 - Competitive Procurement</h4>
+<h5>Chapter 7 - Competitive Procurement</h5>
 <p><strong>Section 7A: Preparing a Bid Solicitation</strong></p>
 <p>7A.001 (2005/06/10) The cover pages of bid solicitations are based on standard forms. They are:<br/>
 <acronym title="Public Works and Government Services Canada">PWGSC</acronym>-TPSGC 9400-2 Request for Proposal (RFP) <br/>
@@ -1073,7 +1073,7 @@
 <acronym title="Public Works and Government Services Canada">PWGSC</acronym>-TPSGC 212 Revision to a Supply Arrangement<br/>
 <acronym title="Public Works and Government Services Canada">PWGSC</acronym>-TPSGC 9169 Supply Arrangement (This is not a contract)</p>
 <p>Every bid solicitation should include the standard instructions and conditions (Section 1 of the Standard Acquisition Clauses and Conditions (SACC) Manual), which will provide bidders with relevant information.</p>
-<h4>Terms and Conditions</h4>
+<h5>Terms and Conditions</h5>
 <p>7A.002 (2005/06/10) Most procurements of goods or services are to be carried out using the general conditions and supplemental general conditions found in the SACC Manual. The conditions to be used depend on the nature of the procurement as listed below.</p>
 <p>Note: the following changes to table 7A.002 are effective June 10, 2005</p>
 <ul>
@@ -1086,8 +1086,8 @@
 <li>General Conditions - Goods or Services (Medium Complexity): 2010 New</li>
 </ul>
 <hr/>
-<h3><a id="PN-71annc" name="annc"></a>Annex C<br/>
-            Example of LDV requirement using LDV template</h3>
+<h4><a id="PN-71annc" name="annc"></a>Annex C<br/>
+            Example of LDV requirement using LDV template</h4>
 <p>(Note: The clauses contained in this document were not reviewed.)<br/>
 <span aria-label="Blank placeholder" class="blankline"></span> <br/>
             Solicitation No. - No. De solicitation Buyer ID - is. De l'acheteur<br/>
@@ -1095,21 +1095,21 @@
             Client Ref. No. File No.- N° du dossier<br/>
             W8485-XXXXXXX XXXXXW8485-XXXXXXXX<br/>
 <span aria-label="Blank placeholder" class="blankline"></span> </p>
-<h3>PART 1 - INFORMATION AND INSTRUCTIONS</h3>
-<h4>1. Security Requirement</h4>
+<h4>PART 1 - INFORMATION AND INSTRUCTIONS</h4>
+<h5>1. Security Requirement</h5>
 <p>There is no security requirement associated with this requirement.</p>
-<h4>2. Requirement</h4>
+<h5>2. Requirement</h5>
 <p><em>2.1 The Contractor must provide the items in the attached list.</em></p>
 <p><em>2.2 Aviation Parts - Substitutes and traceability</em> <br/>
             (XBD25T, 26/02/04)</p>
-<h4>3. Standard Instructions, Conditions and Clauses </h4>
+<h5>3. Standard Instructions, Conditions and Clauses </h5>
 <p>All instructions, conditions and clauses identified in the bid solicitation by title, number and date are set out in the Standard Acquisition Clauses and Conditions Manual issued by Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>).</p>
 <p>The Manual is available on the <acronym title="Public Works and Government Services Canada">PWGSC</acronym> Website:<br/>
 <a href="http://sacc.pwgsc.gc.ca/sacc/index-e.jsp" rel="external">http://sacc.pwgsc.gc.ca/sacc/index-e.jsp</a>.</p>
 <p>Bidders who submit a bid agree to be bound by the instructions, conditions and clauses of this bid solicitation and accept the terms and conditions of the resulting contract.</p>
 <p><em>3.1 Standard Instructions<br/>
 </em>2003 (2005-06-10) Standard Instructions - Goods or Services are included in this bid solicitation.</p>
-<h4>4. Submission of Bids</h4>
+<h5>4. Submission of Bids</h5>
 <p><em>4.1 Bids must be submitted to the Contracting Authority identified in the bid solicitation and in Part 2 , clause 5, of the Resulting Contract Clauses by <span aria-label="Blank placeholder" class="blankline"></span> .</em></p>
 <p><em>4.2 SACC Manual clauses</em><br/>
             A0020T(30/05/03) Bidder - Information - Information of Capabilities<br/>
@@ -1128,13 +1128,13 @@
             (XBD25TB, 26/02/04)</p>
 <p> <em>4.7 Requirements for Airworthiness Certification</em><br/>
             ( XBD25TA, 11/26/2003 )</p>
-<h4>5. Applicable Laws</h4>
+<h5>5. Applicable Laws</h5>
 <p>Any resulting contract must be interpreted and governed, and the relations between the parties determined, by the laws in force in Ontario.</p>
 <p>The Bidder may, at its discretion, substitute the applicable laws of a Canadian province or territory of its choice without affecting the validity of its bid, by deleting the name of the Canadian province or territory specified and inserting the name of the Canadian province or territory of its choice. If no change is made, it acknowledges that the applicable laws specified are acceptable to the Bidder.</p>
-<h3>PART 2 - RESULTING CONTRACT CLAUSES</h3>
-<h4>1. Security Requirement</h4>
+<h4>PART 2 - RESULTING CONTRACT CLAUSES</h4>
+<h5>1. Security Requirement</h5>
 <p>There is no security requirement associated with this requirement.</p>
-<h4>2. Requirement</h4>
+<h5>2. Requirement</h5>
 <p><em>2.1 The Contractor must provide the items in the attached list.</em></p>
 <p><em>2.2 SACC Manual clauses</em> <br/>
             B1000D (1995/12/15) Materiel <br/>
@@ -1152,7 +1152,7 @@
             D5542D (2003/12/12) ISO 9001:2000 Quality Management Systems - Requirements (QAC Z) <br/>
             D5543D (2004/12/10) ISO 9001:2000 - Quality Management Systems - Requirements (QAC C) <br/>
             D9002C (1998/02/16) Incomplete Assemblies</p>
-<h4>3. Standard Conditions and Clauses</h4>
+<h5>3. Standard Conditions and Clauses</h5>
 <p>All conditions and clauses identified in the Contract by title, number and date are set out in the Standard Acquisition Clauses and Conditions Manual issued by Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>).</p>
 <p>The Manual is available on the <acronym title="Public Works and Government Services Canada">PWGSC</acronym> Website:<br/>
 <a href="http://sacc.pwgsc.gc.ca/sacc/index-e.jsp" rel="external">http://sacc.pwgsc.gc.ca/sacc/index-e.jsp</a>.</p>
@@ -1160,7 +1160,7 @@
 </em>2029 (2005-06-10) General Conditions - Goods or Services (Low Dollar Value) apply to and form part of the Contract.</p>
 <p><em>3.2 SACC Manual clauses</em><br/>
             A9006D (21/06/99) Defence Contract</p>
-<h4>4. Term of Contract</h4>
+<h5>4. Term of Contract</h5>
 <p><em>4.1 Delivery<br/>
 </em>The Delivery date is <span aria-label="Blank placeholder" class="blankline"></span> .</p>
 <p><em>4.2 SACC Manual clauses</em><br/>
@@ -1193,7 +1193,7 @@
 </li>
 </ol>
 <p>NOTE: For into-plane refuelling contracts copies 2, 3, 4 and 5 are not required and may be destroyed.</p>
-<h4>5. Authorities </h4>
+<h5>5. Authorities </h5>
 <p><em>5.1 Contracting Authority</em><br/>
             The Contracting Authority is named below and is responsible for the management of the Contract.</p>
 <p><span aria-label="Blank placeholder" class="blankline"></span> <br/>
@@ -1216,7 +1216,7 @@
             Telephone No. <span aria-label="Blank placeholder" class="blankline"></span> <br/>
             Facsimile No. <span aria-label="Blank placeholder" class="blankline"></span> <br/>
             E-mail address: <span aria-label="Blank placeholder" class="blankline"></span> </p>
-<h4>6. Basis of Payment</h4>
+<h5>6. Basis of Payment</h5>
 <p><em>6.1 Basis of Payment</em><br/>
             The Contractor will be paid as follows:<br/>
             Firm Price; GST: extra; Duty: Exempt; FOB: Destination</p>
@@ -1225,7 +1225,7 @@
             C2002C (1993-10-29) Foreign Tax Disclosure Date <br/>
             C2608D (2004-12-10) Canadian Customs Documentation<br/>
             H1001D (2004-12-10) Method of Payment - Multiple Deliveries </p>
-<h4>7. Invoicing Instructions</h4>
+<h5>7. Invoicing Instructions</h5>
 <ol type="a">
 <li>The Contractor must submit invoices in accordance with the information required in section 5 of the 2029 General Conditions - Goods or Services (Low Dollar Value).</li>
 <li>Invoices will be distributed as follows:<br/>
@@ -1254,7 +1254,7 @@
 </ol>
 </li>
 </ol>
-<h4>8. Applicable Laws</h4>
+<h5>8. Applicable Laws</h5>
 <p>The laws applicable to the Contract must be interpreted and governed, and the relations between the parties determined, by the laws in force in Ontario.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

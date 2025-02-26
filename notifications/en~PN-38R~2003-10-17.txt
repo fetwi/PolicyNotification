@@ -1,8 +1,8 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-38R</h2>
+<h3 class="pn-content-title">Content of PN-38R</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of the Policy Notification (PN) is to update the <em>Supply Manual</em> in advance of its next formal publication to bring it into line with current practice in invoking the national security exceptions (NSE) of the various trade agreements, particularly the use of the NSE in non-traditional areas, such as procurement of drugs to deal with potential bio-terror weapons. The PN provides for a streamlined process for requests to invoke NSEs that is separate from the Procurement Plan process.</p>
 <p>The revision also provides some context for the use of the NSE, noting, for instance, that invoking an NSE does not limit or define the choice of procurement method. For example, the use of the NSE does not dictate that the requirement must be sole-sourced or that where it is justified to sole source the requirement, an Advanced Contract Award Notice can not be used.</p>
 <p>This PN does not apply to circumstances pertaining to "excepting" a procurement from international trade agreements where:</p>
@@ -14,10 +14,10 @@
 </ol>
 <p>Such exceptions do not require to be invoked. Their application must be fully justified and the contract file must be well documented in support of applying the exception to a procurement. Contracting personnel should be aware that the use of these exceptions is subject to Canadian International Trade Tribunal review. Accordingly, the narrowest interpretation of the exception should be used when determining whether to apply an exception to a particular procurement.</p>
 <p>The proposed changes to the Supply Manual will appear in Amendment 03-2, to be released December 12, 2003.</p>
-<h3>Inquiries</h3>
+<h4>Inquiries</h4>
 <p><strong>N/A</strong></p>
-<h3>SUPPLY MANUAL</h3>
-<h4>CHAPTER 5 SOURCING STRATEGY</h4>
+<h4>SUPPLY MANUAL</h4>
+<h5>CHAPTER 5 SOURCING STRATEGY</h5>
 <p><strong>Use of the National Security Exceptions</strong></p>
 <p>5.007 (<strong>new</strong>) The national security exceptions provided for in the North America Free Trade Agreement (NAFTA), the World Trade Organization-Agreement on Government Procurement (WTO-AGP), the Canada-Korea Procurement of Telecommunications Equipment Agreement (CKTEA) and the Agreement on Internal Trade (AIT) allow Canada to remove a procurement from some or all of the obligations of the relevant trade agreement(s) where Canada considers it necessary to do so in order to protect its national security interests specified in the text of the national security exceptions. The purpose of the national security exceptions is to ensure that parties to the agreements are not required in any way to compromise these interests through application of the obligations of the trade agreements.</p>
 <p>5.008 (<strong>new</strong>) Texts of the National Security Exceptions</p>

@@ -1,11 +1,11 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-37</h2>
+<h3 class="pn-content-title">Content of PN-37</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This new approval process is EFFECTIVE IMMEDIATELY.</p>
 <p>The purpose of the rapid response process is to deal with contract amendment requests that require a decision in less time than the standard process and deal on a clearly exceptional basis with urgent requirements. As it is designed to make sure that approvals are obtained in time to avoid retroactivity, it is being called the Just in Time Approval Process (JITAP).</p>
 <p>JITAP will have two components: required information; and, advance notice.</p>
-<h3>1. Required Information</h3>
+<h4>1. Required Information</h4>
 <p>JITAP is premised on providing the key information relating to amendment - sufficient to permit a decision, but not so much as to take too much time to prepare and review.</p>
 <p>The key information is:</p>
 <ul>
@@ -24,7 +24,7 @@
 <p>It is NOT proposed now that there be a standard format for JITAP submissions. In these cases, speed is of the essence. Depending on where the needed information is produced, it may be fastest to produce: a fully descriptive e-mail; a transmittal e-mail with attached document (in which case the transmittal e-mail would have to set out the special situation being dealt with); or, a memorandum to accompany and expand upon documents received from a client.</p>
 <p>Whatever the case may be, and again in the interest of speed of handling, the actual request for JITAP should move via e-mail, with any associated documents delivered by hand or facsimile.</p>
 <p>Over time, as experience with JITAP is acquired, it may be useful to put in place a more detailed standard approach.</p>
-<h3>2. Advance Notice</h3>
+<h4>2. Advance Notice</h4>
 <p>The key element in obtaining rapid review is making sure that the people involved in processing the approval know that the requirement is coming - and, that everyone knows any time constraints that have to be respected.</p>
 <p>It is proposed, therefore, that along with the JITAP submission, there be a specific internal communications obligation attached to JITAP. As soon as a requirement becomes known by a contracting officer, it must be communicated by telephone - inside a Sector/Region, by appropriate steps, to the Director General; by the DG, to the office of the ADM/SOSB. The ADM will communicate with the Deputy Minister's office and/or Minister's office.</p>
 <p><strong>Note:</strong> While e-mail can be used, there is always the risk of delayed opening of these messages: telephone ensures prompt delivery of messages.</p>

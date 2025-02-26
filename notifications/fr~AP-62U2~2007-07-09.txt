@@ -1,18 +1,18 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-62U2</h2>
+<h3 class="pn-content-title">Contenu de l'AP-62U2</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : <strong>9 juillet 2007</strong></h3>
-<h4>Introduction</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : <strong>9 juillet 2007</strong></h4>
+<h5>Introduction</h5>
 <p>Le présent avis relatif aux politiques (AP) 62U2 vise à mettre à jour les instructions d'expédition et les clauses sur les douanes du ministère de la Défense nationale (MDN) détaillées dans les clauses C2608D, D0035D, D0036D, D0037D et D0038D du <em>Guide des Clauses et conditions uniformisées d'achat </em>(CCUA), et de la procédure <a href="#AP-62U2a6e_622">6E.622</a> du <em>Guide des approvisionnements</em>.</p>
-<h4>Procédures</h4>
+<h5>Procédures</h5>
 <p>Voici les changements apportés au guide des CCUA.</p>
 <table class="basic" summary="Voici les changements apportés au guide des CCUA">
 <tbody><tr>
@@ -54,22 +54,22 @@
 </tbody></table>
 <p>À partir de maintenant, les agents de négociation des contrats doivent utiliser les nouvelles clauses C2608C, D0035C et D0037C dans tous les nouveaux contrats lorsque cela est approprié. Les agents de négociation des contrats doivent également examiner les contrats existants qui comportent des livraisons en suspens et prendre les mesures nécessaires pour s'assurer que les entrepreneurs aient en main les bonnes instructions d'expédition et coordonnées.</p>
 <p>Tous les changements seront incorporés dans la Version 07-2 du <em>Guide des approvisionnements</em> et du guide des CCUA, prévue en décembre 2007. Se reporter à l'<a href="#AP-62U2aA">Annexe A</a> et à l'<a href="#AP-62U2aB">Annexe B</a> pour consulter les changements apportés au <em>Guide des approvisionnements</em> et au guide des CCUA. Les principales modifications du texte sont soulignées en <em>rouge</em>.</p>
-<h4>Contact</h4>
+<h5>Contact</h5>
 <p>Toute question doit être adressée à Veronica Nazareth, Direction de la politique et du processus d'approvisionnement, par téléphone, au 819-956-5024, ou par courriel, à <a href="mailto:veronica.nazareth@tpsgc-pwgsc.gc.ca" rel="external">veronica.nazareth@tpsgc-pwgsc.gc.ca</a>.</p>
 <div class="topPage"><a href="#AP-62U2tphp" title="Retourner au haut de la page"><br/>
 				Haut de la page</a></div>
-<h3 id="AP-62U2aA">Annexe A</h3>
-<h4><strong>Changements au Guide des approvisionnements</strong></h4>
-<h5>Chapitre 6</h5>
-<h5>Information sur les frais de transport</h5>
+<h4 id="AP-62U2aA">Annexe A</h4>
+<h5><strong>Changements au Guide des approvisionnements</strong></h5>
+<h6>Chapitre 6</h6>
+<h6>Information sur les frais de transport</h6>
 <p id="AP-62U2a6e_622">6E.622 (xxxx-xx-xx) Le terme <span lang="en">Incoterms 2000</span> « FCA franco transporteur (… lieu convenu) » doit être utilisé dans tous les contrats du ministère de la Défense nationale (MDN) attribués à des fournisseurs uniques, dans tous les contrats de réparation et de révision lorsque le transport ne fait pas partie de la soumission concurrentielle, et <em>dans tous les contrats de ventes de matériel militaire des États-Unis à l'étranger (et non pour tous les contrats passés avec les États-Unis)</em>. Le MDN gérera la logistique interne (soit la coordination, l'organisation et le paiement de tous les frais de transport à l'arrivée) de ces contrats.</p>
 <p>Pour ces contrats, l'entrepreneur doit livrer ces biens « FCA franco transporteur », et le lieu convenu sera toujours l'établissement de l'entrepreneur, à moins d'avis contraire du MDN. L'agent de négociation des contrats doit inclure dans le contrat l'une des clauses suivantes du guide des CCUA sur le transport : <em><a href="#AP-62U2aD0035C">D0035C</a> ou <a href="#AP-62U2aD0037C">D0037C</a></em>. Ces clauses obligent l'entrepreneur à s'adresser au MDN pour obtenir des instructions d'expédition et pour connaître la marche à suivre.</p>
 <p>Si l'entrepreneur n'est pas situé au Canada <em>et que les biens doivent être importés au Canada par le MDN</em>, l'agent de négociation des contrats doit inclure la clause <a href="#AP-62U2aC2608C">C2608C</a> du guide des CCUA et, s'il y a lieu, la clause C2610D. <em>Si les biens doivent être importés au Canada par l'entrepreneur, inclure la clause C2601D, s'il y a lieu.</em></p>
 <div class="topPage"><a href="#AP-62U2tphp" title="Retourner au haut de la page"><br/>
 				Haut de la page</a></div>
-<h3 id="AP-62U2aB">Annexe B</h3>
-<h4>Changements aux clauses du guide des CCUA</h4>
-<h5 id="AP-62U2aD0035C">D0035C <strong>Expédition à l'étranger - MDN - livraison au point d'origine</strong></h5>
+<h4 id="AP-62U2aB">Annexe B</h4>
+<h5>Changements aux clauses du guide des CCUA</h5>
+<h6 id="AP-62U2aD0035C">D0035C <strong>Expédition à l'étranger - MDN - livraison au point d'origine</strong></h6>
 <p><strong>Remarques :</strong></p>
 <p><strong> LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT. </strong>Utiliser la clause suivante dans les types de contrats suivants du ministère de la Défense nationale (MDN) <em>lorsque l'entrepreneur est situé à l'extérieur du Canada</em> et que le MDN est responsable de l'expédition :</p>
 <ul>
@@ -141,7 +141,7 @@
 </ol>
 <div class="topPage"><a href="#AP-62U2tphp" title="Retourner au haut de la page"><br/>
 				Haut de la page</a></div>
-<h5 id="AP-62U2aD0037C">D0037C <strong>Expédition au Canada - MDN - livraison au point d'origine</strong></h5>
+<h6 id="AP-62U2aD0037C">D0037C <strong>Expédition au Canada - MDN - livraison au point d'origine</strong></h6>
 <p><strong>Remarques :</strong></p>
 <p>Utiliser la clause suivante dans les contrats attribués au Canada à des fournisseurs uniques par le ministère de la Défense nationale (MDN) et dans tous les contrats de réparation et de révision lorsque le transport ne fait pas partie de la soumission concurrentielle, <em>lorsque l'entrepreneur est situé au Canada</em> et que le MDN est responsable de l'expédition.</p>
 <p><strong>Texte :</strong></p>
@@ -210,7 +210,7 @@
 </ol>
 <div class="topPage"><a href="#AP-62U2tphp" title="Retourner au haut de la page"><br/>
 				Haut de la page</a></div>
-<h5 id="AP-62U2aC2608C">C2608C <strong>Documentation des douanes canadiennes</strong></h5>
+<h6 id="AP-62U2aC2608C">C2608C <strong>Documentation des douanes canadiennes</strong></h6>
 <p><strong>Remarques :</strong></p>
 <p>Utiliser la clause suivante dans les contrats lorsque le ministère de la Défense nationale sera l'importateur. Les clauses C2610D et <a href="#AP-62U2aD0035C">D0035C</a> peuvent s'appliquer.</p>
 <p><strong>Texte :</strong></p>

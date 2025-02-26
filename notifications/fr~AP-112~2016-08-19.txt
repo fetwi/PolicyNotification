@@ -1,19 +1,19 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-112</h2>
+<h3 class="pn-content-title">Contenu de l'AP-112</h3>
 <p>Cet avis relatif aux politiques (AP) vise à informer tous les employés du Programme des approvisionnements (PA) de Travaux publics et Services gouvernementaux Canada (TPSGC) de la possibilité de signer électroniquement leurs documents contractuels au moyen de maCLÉ ou de leur certificat d’infrastructure à clés publiques (ICP).</p>
 <p>Une courte description du processus est présentée au paragraphe c. de l'<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-7#_7-1">article 7.1</a> du Guide des approvisionnements.</p>
 <p>Aucune modification n’est requise au <strong>Guide des clauses et conditions uniformisées d’achat</strong> ou aux <strong>modèles uniformisés d'approvisionnement</strong>.</p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>Tous les employés de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> disposent d'un justificatif d’identité électronique sécurisé connu sous le nom de maCLÉ (ou certificat <abbr title="infrastructure à clés publiques">ICP</abbr>). Il est possible d'utiliser cette technologie pour signer électroniquement des contrats, des offres à commandes et des arrangements en matière d'approvisionnement en employant conjointement un logiciel générateur de documents en format <abbr lang="en" title="Portable Document Format">PDF</abbr>. Bien que certains employés du <abbr title="Programme des approvisionnements">PA</abbr> de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> signent déjà électroniquement leurs documents contractuels au moyen de cette technologie, d'autres ignoraient qu’ils avaient la possibilité de le faire.</p>
 <p>Le Conseil d’examen de l’architecture de la Direction du dirigeant principal de l’information (DDPI) de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> a évalué la question et déterminé que l'utilisation de maCLÉ (ou d'un certificat <abbr title="infrastructure à clés publiques">ICP</abbr>) pour signer électroniquement un document contractuel est une pratique acceptable pour les employés du <abbr title="Programme des approvisionnements">PA</abbr> de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>.</p>
-<h3 id="AP-11271">Modifications au Guide des approvisionnements</h3>
+<h4 id="AP-11271">Modifications au Guide des approvisionnements</h4>
 <p>Le Guide des approvisionnements a été mis à jour dans le cadre du présent avis relative aux politiques. Pour consulter les sections modifiées, veuillez vous reporter aux « Sections touchées ci-après du Guide des approvisionnements ».</p>
-<h3>Pour plus de renseignements</h3>
+<h4>Pour plus de renseignements</h4>
 <p>Toute demande de renseignements peut être acheminée au Secteur de la politique stratégique à l'adresse suivante : <a href="mailto:TPSGC.DPPApublications-APPDpublications.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.DPPApublications-APPDpublications.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
+<h5 class="field-label">Sections du Guide des approvisionnements visées</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-b0e89c1f32078cde84cde67a1c31c1a0">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">

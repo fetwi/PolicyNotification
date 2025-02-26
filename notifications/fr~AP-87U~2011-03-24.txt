@@ -1,19 +1,19 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-87U</h2>
-<h3>Introduction</h3>
+<h3 class="pn-content-title">Contenu de l'AP-87U</h3>
+<h4>Introduction</h4>
 <p>L'Avis relatif aux politiques (AP)-87U vise à actualiser les limites des pouvoirs délégués pour les travaux de construction et les services d'architecture et de génie.</p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>Des limites temporaires ont été fixées pour les travaux de construction et les services d'architecture et de génie dans le cadre du Programme accéléré d'infrastructures. Ces limites sont en vigueur du 1er avril 2009 au 31 mars 2011. À compter du 1er avril 2011, de nouvelles limites relatives aux pouvoirs d'approbation et de signature seront utilisées. Par conséquent, de nouveaux formulaires de délégation devront être remplis pour tous les postes pour lesquels de tels pouvoirs sont requis concernant l'acquisition de travaux de construction et de services d'architecture et de génie. Tous les contrats attribués, ou en cours d'attribution, en date du 1er avril 2011 devront refléter ces nouvelles limites. </p>
-<h3>Date d'entrée en vigueur </h3>
+<h4>Date d'entrée en vigueur </h4>
 <p>Le présent AP entre en vigueur immédiatement.</p>
-<h3>Modifications à la politique actuelle </h3>
+<h4>Modifications à la politique actuelle </h4>
 <p>Les limites relatives aux pouvoirs d'approbation et de signature pour les travaux de construction et les services d'architecture et de génie ont été révisées, et elles remplaceront les limites temporaires établies dans le cadre du Programme accéléré d'infrastructures. Les limites modifiées entrent en vigueur le 1er avril 2011. Les changements apportés au Guide des approvisionnements sont décrits à l'annexe A. </p>
-<h3>Personne-ressource </h3>
+<h4>Personne-ressource </h4>
 <p>Pour plus de détails sur les changements apportés au Guide des approvisionnements, communiquez avec Susan Blakeney, par téléphone au 819-956-8235, ou par courriel à l'adresse suivante : <a href="mailto:susan.blakeney@tpsgc-pwgsc.gc.ca" rel="external">susan.blakeney@tpsgc-pwgsc.gc.ca</a>. </p>
-<h3>Annexe A - Révisions du Guide des approvisionnements<br/>
-Annexe 6.4.2 : Pouvoirs généraux d'attribution des contrats</h3>
+<h4>Annexe A - Révisions du Guide des approvisionnements<br/>
+Annexe 6.4.2 : Pouvoirs généraux d'attribution des contrats</h4>
 <p>CONSTRUCTION - <strong>Limites des pouvoirs d'approbation et de signature des contrats</strong></p>
 <table class="basic fontSize70" summary="Ce tableau intitulé CONSTRUCTION - Limites des pouvoirs d'approbation et de signature des contrats, donne les limites des contrats d'origine, des modifications et des pouvoirs de signature des contrats pour l'approvisionnement des services de construction sous les formes Voie électronique, Concurrentiel, et Non concurrentiel.">
 <tbody><tr>
@@ -207,7 +207,7 @@ Annexe 6.4.2 : Pouvoirs généraux d'attribution des contrats</h3>
 <p class="red">Légende : <br/>
 C = Pouvoir de signature des contrats <br/>
 A = Pouvoir de signature pour la valeur globale des modifications du contrat</p>
-<h3>Annexe 6.4.2 : Pouvoirs généraux d'attribution des contrats</h3>
+<h4>Annexe 6.4.2 : Pouvoirs généraux d'attribution des contrats</h4>
 <p><strong>SERVICES D'A ET G</strong> - Limites des pouvoirs d'approbation et de signature des contrats</p>
 <table class="basic fontSize70" summary="Ce tableau intitulé Services D'A et G - Limites des pouvoirs d'approbation et de signature des contrats, donne les limites des contrats d'origine, des modifications, et des pouvoirs de signature des contrats pour l'approvisionnement des services d'architecture et de génie sous les formes Voie électronique, Concurrentiel, et Non concurrentiel.">
 <tbody><tr>

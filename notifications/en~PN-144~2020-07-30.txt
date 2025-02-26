@@ -1,14 +1,14 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-144</h2>
+<h3 class="pn-content-title">Content of PN-144</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of Policy Notification (PN) - 144 is to inform Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) contracting officers of an amendment to the Canadian Content Policy (CCP) evaluation clause for conditionally limited procurements.</p>
-<h3>Effective date</h3>
+<h4>Effective date</h4>
 This <abbr title="Policy Notification">PN</abbr>-144 is effective immediately. The affected sections of the Supply Manual, Standard Acquisition Clauses and Conditions (SACC) Manual and the Standard Procurement Templates have been updated in support of this <abbr title="Policy Notification">PN</abbr>.
-<h3>Background</h3>
+<h4>Background</h4>
 <p>The <abbr title="Canadian Content Policy">CCP</abbr> is a Cabinet-mandated policy. It encourages industrial development in Canada by limiting, in specific circumstances, competition for government procurement opportunities to suppliers of Canadian goods and services.</p>
-<h3>Overview of changes</h3>
+<h4>Overview of changes</h4>
 <p>Amendments to <abbr title="Canadian Content Policy">CCP</abbr> evaluation clause for conditionally limited procurements are being made in order to ensure competition and best value. The <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual Clause A3070T has been amended to:</p>
 <ol>
 <li>Clarify that there must be two Canadian Content bids from two different, unaffiliated bidders in order for competition to be conditionally limited;</li>
@@ -17,16 +17,16 @@ This <abbr title="Policy Notification">PN</abbr>-144 is effective immediately. T
 </ol>
 <p>Note that it is still recommended that contracting officers make the Canadian Content validation the first step in the evaluation process; however, contracting officers may conduct the validation of Canadian content certifications at any time in the evaluation process including doing so concurrently with other steps (see revised Supply Manual Section 3.130(e)).</p>
 <p>Contracting officers should include the amended <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Clause A3070T in all new solicitations where applicable, as well as in all active solicitations where it is possible to do so and still allow suppliers at least 15 days before bid closing after the amendment is posted. When amending active solicitations, contracting officers should ensure that the content of the solicitation documents, including all clauses incorporated by reference, are consistent with the amended <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Clause A3070T.</p>
-<h3>Summary of revisions to the Supply Manual</h3>
+<h4>Summary of revisions to the Supply Manual</h4>
 <p>The Supply Manual has been revised to reflect this <abbr title="Policy Notification">PN</abbr>.</p>
-<h3>Summary of revisions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h3>
+<h4>Summary of revisions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h4>
 <p>The <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual has been revised to reflect this <abbr title="Policy Notification">PN</abbr>.</p>
-<h3>Summary of revisions to the Standard Procurement Templates</h3>
+<h4>Summary of revisions to the Standard Procurement Templates</h4>
 <p>The Standard Procurement Templates have been revised on GCPedia.</p>
-<h3>Contact information</h3>
+<h4>Contact information</h4>
 <p>For assistance with the application of the Canadian Content Policy, Acquisitions Program contracting officers may contact the Trade Agreement Unit of the Strategic Policy Sector at <a href="mailto:tpsgc.paaccordscommerciaux-aptradeagreements.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.paaccordscommerciaux-aptradeagreements.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions related to the Standard Procurement Templates can be sent by email to the following address: <a href="mailto:TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-fced5a224ad2b03bef8debed9c3d97b2">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
@@ -34,7 +34,7 @@ This <abbr title="Policy Notification">PN</abbr>-144 is effective immediately. T
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
+<h5 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-43baeeaa012f6a4a1657aa1c4c22264c">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">

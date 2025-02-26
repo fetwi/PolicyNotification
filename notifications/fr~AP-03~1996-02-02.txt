@@ -1,16 +1,16 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-03</h2>
+<h3 class="pn-content-title">Contenu de l'AP-03</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 2 février 1996</h3>
-<h4>Approbation du Conseil du Trésor</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 2 février 1996</h4>
+<h5>Approbation du Conseil du Trésor</h5>
 <p>6.006 (01/01/96) L'approbation du CT est requise pour des marchés<br/>
 					concurrentiels de services conclus avec des anciens fonctionnaires<br/>
 					qui reçoivent une pension si le montant total du marché,<br/>
@@ -23,7 +23,7 @@
 					que les marchés doivent être négociés<br/>
 					et octroyés par Travaux publics et Services gouvernementaux<br/>
 					Canada (TPSGC).</em></p>
-<h4>Anciens fonctionnaires</h4>
+<h5>Anciens fonctionnaires</h5>
 <p>6.477 (01/01/96) Il faut veiller à ce que les marchés<br/>
 					adjugés à d'anciens fonctionaires touchant une pension<br/>
 					puissent résister à l'examen public le plus rigoureux,<br/>
@@ -41,7 +41,7 @@
 						l'individu touché détient des intérêts<br/>
 						majeures dans l'entité.</li>
 </ul>
-<h4>Délai d'attente suite à la mise à la retraite</h4>
+<h5>Délai d'attente suite à la mise à la retraite</h5>
 <p>6.478 (31/01/96) Lorsque les dispositions du Code régissant<br/>
 					la conduite des titulaires de charge publique en ce qui concerne<br/>
 					les conflits d'intérêts et l'après-mandat et/ou<br/>
@@ -54,7 +54,7 @@
 					est de deux ans.</p>
 <p>Le délai d'attente ne s'applique pas aux anciens membres<br/>
 					de Forces armées et de la Gendarmerie Royale du Canada (GRC).</p>
-<h4>Approbation du Conseil du Trésor</h4>
+<h5>Approbation du Conseil du Trésor</h5>
 <p>6.479 (31/01/96) <strong>Le CT doit accorder son approbation</strong> si<br/>
 					la valeur totale d'un marché d'anciens fonctionnaires touchant<br/>
 					une pension (modifications incluses) dépassent :</p>
@@ -93,7 +93,7 @@
 <li>Aucune exception à l'application de cette formule ou<br/>
 						au taux maximum permis ne sera faite sans l'approbation au préalable du CT.</li>
 </ul>
-<h4>Programmes de réduction des effectifs</h4>
+<h5>Programmes de réduction des effectifs</h5>
 <p>6.482 (31/01/96) En plus des exigences relatives à la politique<br/>
 					de réduction des honoraires contractuels visant les anciens<br/>
 					fonctionnaires qui touchent une pension (voir la procédure<br/>
@@ -185,7 +185,7 @@
 					cette dernière, les restrictions relatives aux honoraires<br/>
 					des marchés (voir le procédure 6.482) ne s'appliquent<br/>
 					pas.</p>
-<h4>Anciens fonctionnaires</h4>
+<h5>Anciens fonctionnaires</h5>
 <p>7.095 (01/01/96) Sauf lorsque les conditions générales<br/>
 					DSS-MAS 9601, 9601-10, 9624 et 9676 ont été utilisées,<br/>
 					la clause K2200D du Guide des CCUA doit figurer dans toutes les<br/>

@@ -1,16 +1,16 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-32U</h2>
+<h3 class="pn-content-title">Content of PN-32U</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This Policy Notification (PN) Update provides:</p>
 <p>1. A Quick Reference Guide to determine when a Procurement Information Form (PIF) is required, attached as <strong>Annex A</strong>;</p>
 <p>2. Details of changes that have been introduced to the PIF and related procedures, as described below; and,</p>
 <p>3. Additional information and clarifications in the form of questions and answers, attached as <strong>Annex B</strong>.</p>
 <p>This Update is to be read and applied in addition to the original PN 32; where there is a discrepancy between the original PN and the Update, instructions provided in the Update shall apply.</p>
-<h3>Changes to the Procurement Information Form and Procedures</h3>
+<h4>Changes to the Procurement Information Form and Procedures</h4>
 <p>The PIF form and procedures have been revised as indicated below. The revised form (see revised PIF form # _PIF0798.STY (AMI) attached as <strong>Appendix A</strong>) shall be implemented no later than 17 July 1998.</p>
 <p><strong>Amendments to Contracts and Other Awards </strong>- Effective 17 July 1998, the PIF form will be used to provide information to the Minister's Office on proposed amendments (including previously approved amendments) to contracts and other types of awards when the aggregate value of all amendments including the proposed amendment exceeds the PIF thresholds indicated below.</p>
-<h3>PIF Thresholds for Amendments</h3>
+<h4>PIF Thresholds for Amendments</h4>
 <p>The PIF threshold for <strong>amendments to competitive contracts</strong> (including contracts approved using electronic bidding authorities) is:</p>
 <ul>
 <li>$25,000 and 10% of the originally approved value, at the time of award.</li>
@@ -20,9 +20,9 @@
 <li>$10,000 and 10% of the originally approved value, at the time of award.</li>
 </ul>
 <p>PIFs for amendments are only required when both the dollar and the percentage thresholds are exceeded. PIFs are not required for negative or nil value amendments, or for amendments that were approved by the Minister.</p>
-<h3>Timing and Distribution of PIFs for Amendments</h3>
+<h4>Timing and Distribution of PIFs for Amendments</h4>
 <p>PIFs for amendments not previously approved must be submitted to the "PIF" e-mail address 48 hours prior to the Expected Issue Date for the amendment. PIFs for amendments that were previously approved, and amendments on behalf of CCC shall be submitted on the same date as the amendment is issued. The electronic file naming convention detailed in PN-32 shall apply to PIFs for amendments. The letter "M" will be the first character in the file name assigned for amendments.</p>
-<h3>PIF Changes</h3>
+<h4>PIF Changes</h4>
 <p>The top portion of the PIF form has been revised to include two new fields, one to identify the type of document as an Amendment to an Award and one to identify the Amendment Number. A new section entitled Amendment Information (including five self-explanatory fields) has been added in the second page of the PIF.</p>
 <p>The Brief Description and Rationale for issuing an amendment must indicate whether the amendment was previously approved, and, for amendments that were not previously approved, it must include the reasons why the principles of competition and openness cannot be upheld.</p>
 <p>In addition to the information on the proposed amendment, PIFs for amendments must include all applicable information in the Planning and Award sections of the PIF regardless of whether any PIFs were previously submitted for that procurement.</p>
@@ -35,8 +35,8 @@
 <p><strong>For awards</strong> - PIFs shall be transmitted no later than 48 hours prior to the anticipated award, with the exception that awards on behalf of CCC shall be transmitted at the time of the award.</p>
 <p><strong>For amendments not previously approved </strong>- PIFs shall be transmitted no later than 48 hours prior to the anticipated amendment issuance date.</p>
 <p><strong>For amendments that were previously approved, and amendments on behalf of CCC </strong>- PIFs shall be submitted at the time the amendment is issued.</p>
-<h3>Annex A</h3>
-<h4>Quick Reference Guide for When to use a Procurement Information Form (PIF)</h4>
+<h4>Annex A</h4>
+<h5>Quick Reference Guide for When to use a Procurement Information Form (PIF)</h5>
 <p><strong>Types of Procurement Approval Requests Which Require a PIF</strong></p>
 <p>Procurement Information Forms are used to provide information on:</p>
 <ul>
@@ -44,7 +44,7 @@
 <li>awards; and,</li>
 <li>amendments to contracts (and other types of awards)</li>
 </ul>
-<h4>Thresholds above which PIFs are Required</h4>
+<h5>Thresholds above which PIFs are Required</h5>
 <p>Procurements plans and awards that exceed the commodity specific thresholds indicated below require a PIF. PIF thresholds for all amendments are indicated at the bottom of the chart. PIFs are not required for amendments approved by the Minister.</p>
 <dl>
 <dt><strong>Electronic Bidding</strong></dt>
@@ -72,15 +72,15 @@
 <p>For procurements approved utilizing exceptional authorities such as Repair and Overhaul, or Energy Management, a PIF must be completed for all plans and awards that exceed 25% of the exceptional authority. PIFs are required for amendments approved using these exceptional authorities, using the thresholds specified above.</p>
 <p>For procurements on behalf of CCC, a PIF must be completed for awards that exceed the dollar levels established for "Goods", based on the known solicitation method (i.e. Electronic Bidding, Competitive or Non-competitive). A PIF is not required for the certification of bids.</p>
 <p>PIFs are also required for amendments that were previously approved.</p>
-<h4>Timing and Distribution of PIFs</h4>
+<h5>Timing and Distribution of PIFs</h5>
 <p>PIFs shall be transmitted to the &gt;PIF e-mail address 48 hours prior to:</p>
 <ul>
 <li>the anticipated solicitation issuance date (for procurement plans);</li>
 <li>the anticipated award date (except awards on behalf of CCC, which shall be transmitted at the time of the award);</li>
 <li>the anticipated amendment issuance date (except for previously approved amendments and CCC contract amendments, which shall be transmitted at the time the amendment is issued).</li>
 </ul>
-<h3>Annex B</h3>
-<h4>Questions and Answers on the PIF Procedures</h4>
+<h4>Annex B</h4>
+<h5>Questions and Answers on the PIF Procedures</h5>
 <p><strong>1.QAre PIFs required in cases which will result in a Memorandum to the Minister?</strong></p>
 <p>1.A Yes, if Ministerial approval of a plan or award is sought via a Memorandum to the Minister, then a PIF should be prepared. The requirement to prepare a PIF is not altered by the type of approval document prepared.</p>
 <p><strong>2.Q Are PIFs required for amendments to contractual documents?</strong></p>
@@ -120,8 +120,8 @@
 <p>11.A SPEC (Selection, Prequalification and Evaluation of Consultants) is the <acronym title="Public Works and Government Services Canada">PWGSC</acronym> method for selecting qualified consulting firms for specific commissions valued below the NAFTA threshold for services. It consists of a computer-assisted system based on a data bank of information on consulting firms in architecture, engineering and related fields (called the A&amp;E Index), together with a set of policies and procedures.</p>
 <p><strong>12.Q When does the new section on Benefits Driven Procurement have to be completed?</strong></p>
 <p>12.A BDP is a new approach to the way that we do business. Elements of BDP can be used in any procurement. When one or more of those elements (Front-End; Context; Accountability; Payment) is going to be used, this is to be identified on the PIF form.</p>
-<h3>Appendix B</h3>
-<h4>LIMITED TENDERING REASONS</h4>
+<h4>Appendix B</h4>
+<h5>LIMITED TENDERING REASONS</h5>
 <table class="basic">
 <tbody><tr>
 <th id="PN-32Uheading1" scope="col">Coverage</th>
@@ -240,8 +240,8 @@
 </tr>
 </tbody></table>
 <p>* For ABSA and None, only TB Reasons are permissible. (See CAP Codes 71, 81, 85 and 87);</p>
-<h3>Appendix C</h3>
-<h4>CONTRACT AWARD PROCESS (CAP) CODES</h4>
+<h4>Appendix C</h4>
+<h5>CONTRACT AWARD PROCESS (CAP) CODES</h5>
 <p>Listed below are the permissible Contract Award Process (CAP) Codes and the reason for using a particular CAP Code. <em>(Revised 01/01/96)</em></p>
 <p><strong>CAP Code: 01</strong> <br/>
 					Lowest/lower Bid</p>

@@ -1,26 +1,26 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-130</h2>
-<h3>But</h3>
+<h3 class="pn-content-title">Contenu de l'AP-130</h3>
+<h4>But</h4>
 L’avis relatif aux politiques (AP)-130 vise à présenter des clauses provisoires pour toute nouvelle demande d’offre à commandes et d’arrangement en matière d’approvisionnement (DOC-DAMA) dans l’optique de fournir des renseignements et d’appuyer le Programme des approvisionnements de Travaux publics et Services gouvernementaux Canada (TPSGC) dans le cadre de sa transition prévue vers une solution d’achats électroniques (SAE).
-<h3>Date d’entrée en vigueur et application</h3>
+<h4>Date d’entrée en vigueur et application</h4>
 Le présent avis relatif aux politiques entre en vigueur immédiatement et s’applique à toutes nouvelles <abbr title="d’offres à commandes">DOC</abbr> et <abbr title="d’arrangements en matière d’approvisionnement">DAMA</abbr>.
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>Afin de moderniser et d’améliorer la prestation des services au moyen d’une technologie de pointe, <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> a attribué un contrat afin de créer et de mettre en œuvre une nouvelle <abbr title="solution d’achats électroniques">SAE</abbr>. Cette dernière constituera une plateforme conviviale axée sur l’infonuagique. Elle permettra d’automatiser et de simplifier considérablement le processus d’approvisionnement, tout en assurant un meilleur accès aux fournisseurs qui souhaitent faire affaire avec le gouvernement du Canada.</p>
 <p>Parmi ses nombreux avantages, la Solution permettra aux agents d’approvisionnement de recevoir et d’évaluer les soumissions de façon électronique, de créer des contrats plus solides et plus intuitifs, et de renforcer la capacité de gestion au moyen de l’analytique et de l’établissement de rapports. La <abbr title="solution d’achats électroniques">SAE</abbr> permettra en outre d’intégrer des catalogues en ligne, qui fourniront aux clients et aux fournisseurs un accès plus convivial et rapide afin de conclure des marchés.</p>
 <p>Comme ces catalogues porteront sur des secteurs d’activités essentiels du gouvernement qui pourraient déjà être visés par des offres à commandes et des arrangements en matière d’approvisionnement pluriannuels existants, des passages seront ajoutés dans toutes les <abbr title="d’offres à commandes">DOC</abbr> et les <abbr title="d’arrangements en matière d’approvisionnement">DAMA</abbr> dans le but d’informer les parties à l’échelle des chaînes d’approvisionnement susceptibles d’être touchées par la migration prévue vers la <abbr title="solution d’achats électroniques">SAE</abbr>. Grâce à l’appui du Ministère, la clause traitera aussi des attentes envers les fournisseurs à l’égard de leur collaboration et de leur adoption des mesures connexes qui pourraient être nécessaires afin d’assurer une transition efficace et en douceur.</p>
-<h3>Exigences</h3>
+<h4>Exigences</h4>
 <p>Les agents d’approvisionnement doivent intégrer les passages respectifs (clauses)  à toutes les nouvelles <abbr title="d’offres à commandes">DOC</abbr> et <abbr title="d’arrangements en matière d’approvisionnement">DAMA</abbr>.</p>
 <p>Étant donné que le lancement est prévu pour 2019 et qu’un système pilote sera mis en place avant la mise en œuvre intégrale, on continuera de tenir le personnel d’approvisionnement ainsi que les fournisseurs au courant de toutes exigences futures, orientation et de tout soutien avant la mise en œuvre.</p>
-<h3>Modifications aux modèles d’approvisionnement uniformisés </h3>
+<h4>Modifications aux modèles d’approvisionnement uniformisés </h4>
 <p>En appui à l'<abbr title="avis relatif aux politiques">AP</abbr>-130, les modifications ont été apportées aux modèles uniformisés d'approvisionnement suivants publiés par la Direction du développement et intégration de la politique stratégique :</p>
 <ul>
 <li>Modèle de demande d’offres à commandes (DOC)</li>
 <li>Modèle de demande d’arrangements en matière d’approvisionnement (DAMA)</li>
 <li>Modèle de demande d'offres à commandes (DOC) pour I’Initiative canadienne d’approvisionnement collaboratif (ICAC)</li>
 </ul>
-<h3>Points de contact</h3>
+<h4>Points de contact</h4>
 <p>Les questions liées à la modernisation des processus d’approvisionnement et à la <abbr title="solution d’achats électroniques">SAE</abbr> peuvent être envoyées par courriel à l’adresse suivante : <a href="mailto:PAretroaction.APfeedback@tpsgc-pwgsc.gc.ca" rel="external">PAretroaction.APfeedback@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Les questions liées au présent avis relatif aux politiques et aux modèles uniformisés d’approvisionnement peuvent être envoyées par courriel à l’adresse suivante : <a href="mailto:TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">

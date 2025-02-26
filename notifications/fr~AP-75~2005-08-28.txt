@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-75</h2>
+<h3 class="pn-content-title">Contenu de l'AP-75</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>Date : le 28 août 2005</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>Date : le 28 août 2005</h4>
 <p>Travaux publics et Services gouvernementaux Canada (TPSGC) fait appel à différentes méthodes pour répondre à ses besoins dans le domaine des achats. L'ensemble de ces méthodes<sup><a id="AP-75b1" name="b1"></a><a href="#AP-75f1">1</a></sup> comprend aussi bien les contrats définissant exactement les biens et les services à fournir à des clients en particulier avant des dates précises que différents cadres d'achats à appliquer par des ministères et des organismes plus ou moins nombreux, pour des besoins parfois moins précis ou moins bien définis. Cette dernière catégorie comprend les offres à commandes, les arrangements en matière d'approvisionnement et les contrats dont les éléments sont activés par des autorisations des tâches.</p>
 <p>L'autorisation des tâches (AT) est un processus administratif structuré grâce auquel le client autorise un entrepreneur à effectuer les travaux sur demande, conformément aux clauses et aux conditions d'un contrat existant. On fait appel à des contrats qui prévoient des autorisations des tâches (les « contrats d'AT ») dans les cas où il existe des besoins précis dans une catégorie de services, alors qu'on ne peut pas établir d'avance la nature exacte, ni les délais des besoins. On doit prévoir expressément, dans les contrats, les autorisations des tâches qui seront établies. Lorsqu'un client a besoin de services prévus, on établit une AT pour demander à l'entrepreneur de réaliser les travaux précisés.</p>
 <p>Voici des exemples de types d'achat dans le cadre desquels il serait approprié d'établir un contrat d'AT :</p>
@@ -20,7 +20,7 @@
 <li>Certains types de services de réparation et de révision (R et R).(Pour obtenir de plus amples renseignements, consultez le paragraphe 7 ci-dessous.)</li>
 </ul>
 <p>En vigueur immédiatement, le présent avis de politique (AP) définit la politique générale régissant l'utilisation des contrats d'AT. Le ministère de la Défense nationale (MDN) est sans doute l'utilisateur des contrats d'AT le plus important et a un processus interne bien défini. Selon la politique cadre générale pour les contrats d'AT, cet avis de politique comprend une section précise sur les modalités de traitement des contrats d'AT pour le MDN.</p>
-<h4>Politique</h4>
+<h5>Politique</h5>
 <p><strong>1.</strong> Les clients peuvent demander que les nouveaux contrats comprennent des autorisations des tâches. En outre, les agents de négociation des contrats de TPSGC peuvent décider qu'il est préférable de répondre aux besoins des clients en établissant des autorisations des tâches sur demande. L'agent de négociation de contrats est essentiellement responsable de l'élaboration de la méthode d'achat la mieux adaptée pour répondre aux besoins des clients tels qu'ils sont exprimés dans les demandes d'achat ou pendant les discussions préalables à l'établissement de ces demandes.</p>
 <p><strong>2.</strong> En élaborant une méthode d'approvisionnement ou après avoir reçu une demande d'achat pour un contrat d'AT, l'agent de négociation de contrats et le client doivent travailler en étroite collaboration pour s'assurer qu'on harmonise comme il se doit la souplesse et la rapidité opérationnelles, la gestion des contrats et des risques, ainsi que l'efficience et la rentabilité dans l'ensemble. Il est toujours préférable de tenir ces discussions avant que TPSGC reçoive effectivement la demande d'achat. On pourra ainsi s'assurer que les agents de négociation des contrats et les clients tiendront compte de toutes les caractéristiques et de tous les besoins des contrats d'AT en décidant comment procéder.</p>
 <p><strong>3.</strong> Les chargés de projet ou de programme des clients peuvent établir les AT pour faire exécuter les travaux dans le cadre des contrats, jusqu'à concurrence des limites financières fixées par TPSGC de concert avec les clients. On établit ces limites en tenant compte d'un certain nombre de facteurs. En règle générale, plus la définition de la portée des contrats est précise et plus on peut définir précisément les différentes tâches, plus la limite que les clients peuvent attribuer aux différentes AT est élevée. À l'inverse, lorsque la portée de l'ensemble des contrats et des différentes tâches est plus vaste et qu'il faut négocier considérablement pour définir et mettre en place les tâches, il est sage de réduire les limites des différentes AT. En outre, plus les représentants des clients qui établissent les AT sont nombreux, plus TPSGC et les clients doivent exercer une surveillance attentive (surtout en ce qui concerne le total des dépenses dans le cadre des contrats).</p>
@@ -45,7 +45,7 @@
 <li>Travaux de R et R autorisés actuellement, au besoin, par l'intermédiaire de formulaires comme le formulaire de commande des travaux envisagés. Veuillez prendre note que le MDN utilise maintenant le formulaire d'autorisation de tâches DND 626 plutôt que le formulaire de commande des travaux envisagés.</li>
 </ul>
 <p><strong>8.</strong> Dans le cas des contrats d'AT qui sont en place à la date du présent AP, les agents de négociation des contrats peuvent envisager de modifier les dispositions existantes des contrats d'AT, y compris les limites d'approbation des AT, prévues dans le cadre du présent AP, en consultation avec leur gestionnaire et leur client.</p>
-<h4>Contexte</h4>
+<h5>Contexte</h5>
 <p><strong>9.</strong> Dans les cas où ils sont bien conçus et appliqués en bonne et due forme, les contrats d'autorisation des tâches constituent des cadres structurés qui apportent aux clients une certaine rapidité et une certaine souplesse dans leurs opérations. En outre, parce qu'il existe des contrats en bonne et due forme, on réalise généralement des économies sur l'ensemble des frais du gouvernement. En raison de ces avantages reconnus, on fait appel avec succès, depuis de nombreuses années, aux contrats d'AT.</p>
 <p><strong>10.</strong> Dans la transformation opérationnelle des achats du gouvernement, qui se déroule à l'heure actuelle dans le cadre de l'initiative « Les prochaines étapes », on s'attend à faire plus massivement appel aux contrats d'AT et aux instruments comparables. TPSGC tâchera de remplacer les différents contrats passés par ou pour les divers ministères par des instruments d'achat plus vastes, auxquels un ou plusieurs clients pourront faire appel directement, rapidement et à peu de frais.</p>
 <p><strong>11.</strong> Toutefois, des problèmes se sont produits dans certains cas. Ces problèmes appartiennent à trois grandes catégories :</p>
@@ -56,10 +56,10 @@
 </ol>
 <p>Bien que des problèmes de cette nature puissent également surgir pour les autres types de contrats, le présent avis de politique vise essentiellement à permettre d'éviter ces problèmes dans les contrats d'AT en particulier.</p>
 <p><strong>12.</strong> Il peut être opportun de recourir à des AT dans toutes sortes de situations contractuelles et opérationnelles. Dans les contrats, on peut définir dans les détails la nature et la portée des travaux à exécuter en vertu de ces contrats, et prévoir une structure tarifaire qui définit les modalités d'établissement des prix pour chaque tâche en particulier. On peut également faire état, dans les contrats, de la nature et de la portée des travaux à exécuter; toutefois, il se peut qu'on doive consacrer des efforts considérables à la définition et à la négociation du niveau d'efforts pour certaines tâches. C'est pourquoi il faut traiter chaque cas selon son bien-fondé propre.</p>
-<h4>Procédures</h4>
+<h5>Procédures</h5>
 <p><strong>13.</strong> Lorsqu'on décide de mettre en place des contrats d'autorisation des tâches, il est important de prévoir en particulier, dans les appels d'offres et les contrats qui en découlent, la portée des travaux; les limites établies pour les autorisations des tâches, et le processus.</p>
 <p><strong>14.</strong> En outre, le plan d'achat doit faire état de la stratégie de gestion des risques des contrats, et les fonctions et les attributions.</p>
-<h4>Portée</h4>
+<h5>Portée</h5>
 <p><strong>15.</strong> Les contrats d'autorisation des tâches doivent comprendre un énoncé des travaux clair, décrivant les travaux qui seront ou pourront être exécutés dans le cadre des contrats, en ce qui concerne les travaux qui pourront se dérouler conformément à des AT.</p>
 <p><strong>16.</strong> Les AT doivent également comprendre un énoncé des travaux clair, décrivant les produits à livrer et le calendrier à respecter :</p>
 <ol type="a">
@@ -67,7 +67,7 @@
 <li>les AT ne doivent pas dépasser les différentes limites précisées dans les contrats, ni des limites imposées en ce qui concerne la valeur cumulative des autorisations des tâches en vertu des contrats</li>
 </ol>
 <p><strong>17.</strong> On ne doit pas faire appel à des AT pour modifier les modalités des contrats.</p>
-<h4>Limites établies pour les autorisations des tâches</h4>
+<h5>Limites établies pour les autorisations des tâches</h5>
 <p><strong>18.</strong> Les limites des autorisations des tâches doivent comprendre : (i) les limites à respecter par les clients lorsqu'ils établissent des AT; et (ii) les limites à respecter par les agents de négociation des contrats de TPSGC en établissant des AT.  En établissant les limites pour les différentes AT et les modifications à apporter à ces autorisations, les agents de négociation des contrats devraient analyser, de concert avec les clients :</p>
 <ol type="a">
 <li>les besoins opérationnels, les questions de contrôle, les impératifs de la gestion financière ou les autres facteurs influant sur l'établissement des AT;</li>
@@ -86,7 +86,7 @@
 <li>Cette valeur ajoutée peut se présenter sous différentes formes, par exemple une surveillance financière, la négociation des prix des ensembles de travaux (tâches) selon le cadre du contrat, ou des comparaisons avec des contrats comparables exécutés pour d'autres clients afin d'assurer l'optimisation des ressources financières.</li>
 <li>Dans les cas où l'intervention de TPSGC n'apporte aucune valeur ajoutée ou que la valeur ajoutée n'est pas suffisante pour compenser les frais de cette intervention, il faudrait éventuellement augmenter les pouvoirs permettant aux clients d'établir des AT.</li>
 </ol>
-<h4>Processus</h4>
+<h5>Processus</h5>
 <p><strong>20.</strong> Dans le cadre des autorisations des tâches, les organismes (soit normalement les clients) autorisés à attribuer des tâches aux entrepreneurs doivent :</p>
 <ol type="a">
 <li>s'assurer que les travaux à effectuer sont prévus dans la portée des contrats d'AT et dans le processus d'autorisation des tâches;</li>
@@ -118,7 +118,7 @@
 <li>La fréquence de la surveillance ou de la vérification des tâches peut déterminer les limites imposées aux différentes autorisations des tâches. Plus les vérifications sont fréquentes, mieux on peut gérer les risques que comporte le processus d'AT. Par conséquent, ce processus pourrait permettre aux agents de négociation des contrats de hausser éventuellement les différentes limites des autorisations des tâches.</li>
 </ol>
 <p><strong>24.</strong> Les agents de négociation des contrats doivent s'assurer de fournir des renseignements détaillés pour permettre de bien répondre aux exigences relatives à la surveillance et à l'encadrement. Par exemple, les AT devraient décrire clairement les travaux à exécuter, les tarifs et les catégories de ressources appropriées, le calendrier à respecter, les autorisations à demander, et ainsi de suite. Les rapports devraient comprendre des détails sur les travaux à exécuter, sur les totaux courants, sur les tarifs et les catégories de ressources, et ainsi de suite. Dans les contrats, il faudrait préciser clairement toutes les exigences relatives à la vérification, pour s'assurer que les entrepreneurs sont au courant de l'information qu'ils devront déposer et qu'il devra vérifier.</p>
-<h4>Gestion des risques</h4>
+<h5>Gestion des risques</h5>
 <p><strong>25.</strong> Les contrats d'autorisation des tâches passés à mauvais escient peuvent donner lieu à des problèmes majeurs entre le gouvernement et ses fournisseurs, entre TPSGC et ses clients, de même que pour le gouvernement aux yeux du grand public. Il faut donc être très attentif pour prévenir ces faits négatifs et définir les mesures correctives à prendre, même si elles ne sont pas fréquentes.</p>
 <p><strong>26.</strong> Dans l'élaboration du plan d'achat pour les contrats d'AT, les agents de négociation des contrats doivent tenir compte et discuter, avec les clients<sup><a id="AP-75b3" name="b3"></a><a href="#AP-75f3">3</a></sup>, des mesures préventives ou correctives précises à adopter dans les cas où tout porte à croire que le processus d'AT ne donne pas les résultats planifiés. Ces mesures peuvent consister aussi bien à modifier les détails et/ou la fréquence des rapports d'information qu'à donner une formation à certains ou à l'ensemble des participants, à réduire la limite en dollars imposée pour les différentes tâches, à diminuer ou à révoquer les pouvoirs permettant d'établir les autorisations des tâches ou à se prévaloir des dispositions des contrats portant sur les pénalités et/ou la résiliation :</p>
 <ol type="a">
@@ -127,7 +127,7 @@
 <li>On ne doit pas se prévaloir des dispositions portant sur la résiliation des contrats sans consulter les Services juridiques.</li>
 <li>Il faut notamment être attentif aux moyens qui permettront de répondre rapidement et économiquement aux besoins exprimés par les clients ou par les fournisseurs et qu'on ne peut pas satisfaire en faisant appel à des AT.</li>
 </ol>
-<h4>Fonctions et attributions</h4>
+<h5>Fonctions et attributions</h5>
 <p><strong>27.</strong> Les alinéas ci-après renferment les lignes directrices générales pour la gestion des fonctions et des attributions dans les opérations d'achat donnant lieu à des contrats d'autorisation des tâches<sup><a id="AP-75b4" name="b4"></a><a href="#AP-75f4">4</a></sup>.</p>
 <p><strong>28.</strong> Lorsqu'on propose d'attribuer un contrat d'AT, il est essentiel que TPSGC et le client s'entendent clairement sur les fonctions et les attributions se rapportant à la gestion du contrat et à l'utilisation des autorisations des tâches, à savoir :</p>
 <ol type="a">
@@ -162,7 +162,7 @@
 </ol>
 <p><strong>32.</strong> TPSGC et le client doivent s'entendre sur le processus de surveillance et sur l'échange de l'information pertinente, de même que sur la fréquence et le contenu des rapports du client, s'il y a lieu. Cet accord doit être noté dans le dossier; il sera plus ou moins officiel, selon la complexité du projet de marché.</p>
 <p><strong>33.</strong> Pendant la durée du contrat, toutes les parties doivent toujours prendre l'entière responsabilité de leurs fonctions et de leurs attributions se rapportant directement et indirectement au contrat et doivent rester parfaitement au courant de toutes les mesures adoptées en vertu du contrat.</p>
-<h4>Contrats d'autorisation des tâches pour le ministère de la Défense nationale (MDN)</h4>
+<h5>Contrats d'autorisation des tâches pour le ministère de la Défense nationale (MDN)</h5>
 <p><strong>34.</strong> Parce qu'il fait massivement appel aux contrats d'autorisation des tâches, le MDN a sa propre procédure interne pour la gestion des AT; cette procédure porte le nom de MDN626, d'après le code du formulaire d'autorisation que l'on remplit. Les agents de négociation de contrats de TPSGC qui travaillent, en collaboration avec le MDN, à des contrats d'AT doivent veiller à connaître les processus internes du MDN, qui sont reproduits dans le Manuel de l'administration de l'approvisionnement (MAA) de ce ministère, dont nous reproduisons des extraits dans l'annexe A. Selon les principales caractéristiques de la méthode du MDN, qui vise à exercer un contrôle de gestion rigoureux sur les autorisations des tâches, pour y intégrer ces autorisations, les contrats doivent comprendre ou prévoir :</p>
 <ol type="a">
 <li>un énoncé des travaux définissant les travaux à exécuter par l'entrepreneur dans le cadre des autorisations des tâches;</li>
@@ -173,19 +173,19 @@
 <p><strong>35.</strong> Le MDN précise clairement à ses employés que ce ministère doit s'assurer que les travaux proposés font partie de la portée des contrats, avant d'établir des autorisations des tâches ou de demander à TPSGC de les approuver.</p>
 <p><strong>36.</strong> On ne peut utiliser que le formulaire d'autorisation des tâches MDN626 pour établir ou confirmer les autorisations des tâches à l'intention des entrepreneurs dans les contrats d'AT du MDN.</p>
 <p><strong>37.</strong> Le formulaire MDN626 comprend une zone de signature dans laquelle TPSGC doit approuver les tâches, dans les cas où cela est nécessaire selon le processus convenu, c'est-à-dire lorsqu'une autorisation des tâches en particulier déborde le cadre des pouvoirs d'approbation du client. Lorsque TPSGC doit approuver une autorisation des tâches, l'agent de négociation de contrats doit l'examiner selon le contexte du contrat. Si on juge que l'autorisation des tâches est appropriée, l'agent de négociation des contrats l'approuve ou prend les dispositions nécessaires pour la faire approuver comme il se doit et retourne dans les plus brefs délais le formulaire MDN626 au responsable des achats et des demandes d'achat du MDN, pour qu'on puisse la faire parvenir à l'entrepreneur.</p>
-<h4>Étapes suivantes</h4>
+<h5>Étapes suivantes</h5>
 <p>À l'heure actuelle, on élabore des clauses et des formulaires appropriés, de même qu'un ensemble complet de lignes directrices pour aider les agents de négociation des contrats à établir les limites adéquates des AT. Lorsque ce travail sera terminé, ces documents seront publiés dans les mises à jour qui seront apportées au Guide des approvisionnements.</p>
-<h4>Personne-ressource</h4>
+<h5>Personne-ressource</h5>
 <p>Veuillez adresser toutes vos demandes de renseignements à Veronica Nazareth, de la Direction de la politique et du processus d'approvisionnement, par téléphone au 819-956-5024 ou par courriel (<a href="mailto:veronica.nazareth@tpsgc-pwgsc.gc.ca" rel="external">veronica.nazareth@tpsgc-pwgsc.gc.ca</a>).</p>
-<h3>Annexe A</h3>
-<h4>Extrait du Manuel de l'administration des approvisionnements du MDN - Procédures MDN626</h4>
+<h4>Annexe A</h4>
+<h5>Extrait du Manuel de l'administration des approvisionnements du MDN - Procédures MDN626</h5>
 <p>« On peut obtenir un contrat d'autorisation de travail quand :</p>
 <ol type="a">
 <li>il existe un besoin de faire exécuter une partie du travail ou tout le travail par l'entrepreneur au fur et à mesure des besoins;</li>
 <li>le principal énoncé de travail (ET) à produire définira en grandes lignes l'ampleur du travail à exécuter en vertu de l'autorisation de travail;</li>
 <li>l'autorisation de travail ne constituera qu'un processus administratif et recourra aux conditions du contrat principal. (MAA, 3.1, Annexe A)</li>
 </ol>
-<h5>Exigences particulières à inscrire au formulaire PWGSC-TPSGC 9200 dans le cas d'un contrat d'autorisation de travail</h5>
+<h6>Exigences particulières à inscrire au formulaire PWGSC-TPSGC 9200 dans le cas d'un contrat d'autorisation de travail</h6>
 <p>Le responsable technique doit préciser dans l'ET l'étendue des travaux à exécuter sous formes de tâches commandées « au besoin ». Le RT doit suffisamment définir cette étendue pour permettre l'inclusion, dans le contrat résultant, des catégories appropriées de main-d'œuvre et de ressources et les indemnités quotidiennes fermes connexes pour chaque catégorie de ressources.</p>
 <ol class="double-space">
 <li>Le RT devrait avoir une connaissance suffisante de tous les travaux à exécuter en vertu du contrat, y compris les tâches, et être en mesure de définir une limite estimée raisonnable de dépenses pour la durée du contrat résultant</li>
@@ -213,7 +213,7 @@
 </ol>
 <p>Ceci constitue une liste des exigences minimales à inscrire; il est possible d'en inscrire davantage si le contrat l'exige.</p>
 <p><strong>Remarque :</strong> avant d'établir un contrat d'autorisations des tâches, il se peut que TPSGC doive s'assurer que l'on respectera certaines exigences dans l'établissement des rapports. On discutera de ces exigences avec le responsable des achats du MDN et l'autorité contractante de TPSGC et on s'entendra avec eux à ce sujet avant de lancer la demande de prix ou la demande de propositions. (MAA du MDN, 3.3.11, Annexe H)</p>
-<h5>Quand recourir au formulaire MDN 626</h5>
+<h6>Quand recourir au formulaire MDN 626</h6>
 <p>Il doit exister un contrat d'autorisation de travail comportant les éléments suivants :</p>
 <ol type="a">
 <li>un énoncé de travail (ET) définissant les grandes lignes du travail que doit réaliser l'entrepreneur en vertu d'une autorisation de travail;</li>
@@ -225,9 +225,9 @@
 </ol>
 <p>Le responsable des achats s'assure que le fondé de signature dont le nom est indiqué dans le <strong>tableau 1.4D-2 de l'Annexe D de la section 1.4 du MAA</strong> approuve le formulaire MDN 626. Lorsque ce formulaire est approuvé, on transmet l'original du formulaire signé d'autorisation des tâches à l'entrepreneur pour l'autoriser à commencer les travaux dans le cas des tâches à accomplir; parallèlement, on doit faire suivre, à l'autorité contractante, un exemplaire du formulaire signé et approuvé d'autorisation des tâches. (MAA du MDN, 3.3.2.2)</p>
 <p>Si l'offre de prix dépasse le seuil fixé pour les pouvoirs d'approbation et de modification du MDN dans le contrat de TPSGC, le responsable des achats transmet le formulaire MDN 626 à l'autorité contractante de TPSGC pour examen et commentaires. Lorsqu'elle est satisfaite des tâches, l'autorité contractante de TPSGC appose sa signature dans la zone correspondante pour TPSGC et retourne le formulaire MDN 626 au responsable des achats. "</p>
-<h3>Annexe B</h3>
-<h4>Exemple de clause de garantie des travaux minimums</h4>
-<h5>Contrat prévoyant des travaux au fur et à mesure des besoins</h5>
+<h4>Annexe B</h4>
+<h5>Exemple de clause de garantie des travaux minimums</h5>
+<h6>Contrat prévoyant des travaux au fur et à mesure des besoins</h6>
 <ol class="upper-roman double-space">
 <li>Dans la présente clause,
 <p>Par « valeur maximale du contrat », on entend le montant indiqué à la clause Limite des dépenses énoncée dans le présent Contrat;</p>

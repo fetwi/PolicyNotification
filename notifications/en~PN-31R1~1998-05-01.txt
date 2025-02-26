@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-31R1</h2>
+<h3 class="pn-content-title">Content of PN-31R1</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Policy Notification (PN) No. 31 is hereby re-instated with the modifications indicated below, effective immediately.</p>
 <p>The original PN dated March 25, 1998 was issued in response to Treasury Board Information notices issued to Departments and Agencies' Senior Financial Officers on February 24, 1998 and on March 25, 1998 to advise them of the new service contract payment reporting requirements announced in the 1998 budget. Pursuant to paragraph 221 (1) (d) of the <em>Income Tax Act</em>, Departments and Agencies are required to prepare T4-A Supplementary Slips for all Individuals or Businesses receiving payments under service contracts during a calendar year, beginning with the period of January 1, 1998 to December 31, 1998. This directive was also to apply to contracts involving a mix of goods and services only when the value of the services component represented at least 10% of the total value of the contract.</p>
@@ -29,7 +29,7 @@
 <li>to delete from Text the previous paragraph e) which required an indication as to the nature of the invoice since financial services did not consider this information necessary.</li>
 </ol>
 <p>The revised clause, attached as <strong>Annex A</strong>, will be incorporated to the SACC Manual, in amendment 98-3, which is scheduled for release on November 23, 1998.</p>
-<h3>Annex A</h3>
+<h4>Annex A</h4>
 <p><strong>Remarks:</strong> The following clause must appear in applicable solicitations and resultant service contracts, as well as contracts involving both goods and services. This includes contracts to Canadians undertaking government contracts abroad.</p>
 <p><strong>H3023D (__/__/98) Supplemental Invoicing Instructions</strong></p>
 <p>1. Pursuant to paragraph 221 (1)(d) of the <em>Income Tax Act</em>, payments made by departments and agencies under applicable services contracts (including contracts involving a mix of goods and services) must be reported on a T4-A supplementary slip. To enable departments and agencies to comply with this requirement, contractors are required to provide the following information on each invoice:</p>

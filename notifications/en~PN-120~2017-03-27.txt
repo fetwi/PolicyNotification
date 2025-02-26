@@ -1,26 +1,26 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-120</h2>
+<h3 class="pn-content-title">Content of PN-120</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of Policy Notification (PN) 120 is to provide updated direction to contracting officers on the allowable use of the non-competitive contracting process for requirements below $25 000 (i.e. low dollar value requirements).</p>
-<h3>Effective date</h3>
+<h4>Effective date</h4>
 <p>Effective immediately, contracting officers are to note the non-competitive contracting process for low dollar value requirements as described below. The Supply Manual has been updated to reflect the change.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>The Government Contracts Regulations (GCRs) require the solicitation of bids before any contract is entered into. However, the <abbr title="Government Contracts Regulations">GCRs</abbr> also provide exceptions to this rule. One of those exceptions is when the estimated expenditure (i.e. contract value) does not exceed $25 000. Note that requirements for goods valued at $25 000 and greater may be subject to the obligations of the Agreement on Internal Trade (e.g. open competition).</p>
 <p>The Supply Manual encouraged contracting officers to solicit bids for low dollar value requirements whenever it was cost effective to do so. To align our procurement practices with the <abbr title="Government Contract Regulation">GCR</abbr> exception and the procurement modernization objective of making it easier for federal government organizations to buy from suppliers, and for suppliers to sell to the Government of Canada, the Supply Manual has been revised.</p>
-<h3>Policy</h3>
+<h4>Policy</h4>
 <p>Contracting officers may enter into a non-competitive contract without soliciting bids for requirements below $25 000. There have been no changes to: the legal authority to use an exception to soliciting bids as per the <abbr title="Government Contracts Regulations">GCRs</abbr>, the limited tendering provisions of Canada’s national and international trade agreements, or the procurement provisions under the Comprehensive Land Claims Agreements.</p>
-<h3>Revisions to the Supply Manual</h3>
+<h4>Revisions to the Supply Manual</h4>
 <p>In support of this <abbr title="Policy Notification">PN</abbr>, the Supply Manual has been updated. The following subsection of section 3.15 Non-Competitive Contracting Process has been deleted:</p>
 <ol start="3" type="a">
 <li>6.(b)(i) of the <abbr title="Government Contracts Regulations">GCRs</abbr> states that where the estimated expenditure does not exceed $25,000, contracts can be awarded without soliciting bids. However, contracting officers are expected to solicit bids whenever it is cost effective to do so.</li>
 </ol>
 <p>Refer to "Affected Supply Manual Sections" below to see the updated section in its entirety.</p>
-<h3>Contact information</h3>
+<h4>Contact information</h4>
 <p>Enquiries related to this policy notification can be sent by email to the following address:<br/><a href="mailto:PolPrograpprovisionnements.AcquisitionsProgramPolicy@tpsgc-pwgsc.gc.ca" rel="external">PolPrograpprovisionnements.AcquisitionsProgramPolicy@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-b1aa9e663bb40515f6d4ddf48b22b34b">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">

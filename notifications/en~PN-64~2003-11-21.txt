@@ -1,10 +1,10 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-64</h2>
+<h3 class="pn-content-title">Content of PN-64</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Policy</h3>
+<h4>Policy</h4>
 <p>Public Works and Government Services Canada (PWGSC) contracting officers are to procure low dollar value (LDV) requirements below $25,000 (including all applicable taxes) using the most efficient and cost effective method to select a contractor, either by soliciting bids or by directing the requirement to a single supplier, and by using appropriate supplier selection processes in order of precedence.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>PWGSC's procurement policy for LDV requirements below $25,000 (including all applicable taxes) is revised to align with Treasury Board (TB) Contracting Policy.</p>
 <p>LDV requirements below $25,000 (including all applicable taxes) are generally low risk, less complex and fall below the TB Contracting Policy and Government Contracts Regulations (GCR) thresholds to solicit bids. The TB Contracting Policy and GCR set $25,000 as the dollar limit below which a contracting authority may set aside the competitive process, when it is not cost effective to solicit bids.</p>
 <p>The policy is revised to instruct contracting officers to choose an appropriate procurement strategy for LDV requirements in order to obtain best value and improve the timeliness and cost effectiveness of these contracts, while respecting PWGSC's Guiding Principles. </p>
@@ -17,10 +17,10 @@
 <li>GETS.</li>
 </ol>
 <p>The various areas of the Supply Manual updated to reflect the revised policy are outlined in <strong>Annex A</strong>.</p>
-<h3>Inquiries</h3>
+<h4>Inquiries</h4>
 <p><strong>N/A</strong></p>
-<h3>Annex A</h3>
-<h4>CHAPTER 5 - SOURCING STRATEGY</h4>
+<h4>Annex A</h4>
+<h5>CHAPTER 5 - SOURCING STRATEGY</h5>
 <p><strong>Requirements below $25,000</strong></p>
 <p>5.117 (xx/xx/xx) Requirements below $25,000 (including all applicable taxes) are considered to be low dollar value (LDV) procurements. When identifying an LDV requirement based on the estimated value of the final contract, contracting officers must not split or artificially divide requirements to meet the LDV threshold (See 6A.001).</p>
 <p>Contracting officers are to procure LDV requirements below $25,000 (including all applicable taxes) using the most efficient and cost effective approach to select a contractor either by soliciting bids or by directing the requirement to a single supplier when it is not cost effective to call for bids.</p>
@@ -45,8 +45,8 @@
 <p><strong>Telephone Buys</strong></p>
 <p>5.150 (xx/xx/xx) A Telephone Buy is a form of an RFQ that can be used to solicit bids by telephone for requirements below $25,000 (including all applicable taxes). Written confirmation from the bidder is not required for bids received by telephone but the contracting officer must record the details of the telephone bid on the procurement file. A verbal contract may be entered into by telephone but must be confirmed in writing by issuing the applicable contract document. (see 7E.500).</p>
 <hr/>
-<h4>CHAPTER 7 - COMPETITIVE PROCUREMENT</h4>
-<h4>Section 7A - Preparing a Bid Solicitation</h4>
+<h5>CHAPTER 7 - COMPETITIVE PROCUREMENT</h5>
+<h5>Section 7A - Preparing a Bid Solicitation</h5>
 <p><strong>Bid Closing</strong></p>
 <p>7A.017 (xx/xx/xx) Bids resulting from a competitive Request for Quotation (RFQ ) below $25,000 (including all applicable taxes) may be submitted to the contracting officer instead of a designated bid receiving area. These RFQs must inform suppliers that:</p>
 <ol type="a">
@@ -76,15 +76,15 @@
 </ol>
 <p>Where some form of, or any, electronic transmission of bids is not acceptable, this must be clearly indicated in the bid solicitation, and should be in the Notice of Proposed Procurement.</p>
 <hr/>
-<h4>Section 7B - Issuing a Bid Solicitation</h4>
+<h5>Section 7B - Issuing a Bid Solicitation</h5>
 <p><strong>Determining the Bidding Period</strong></p>
 <p>7B.211 (xx/xx/xx) For procurements that are not subject to <acronym title="North American Free Trade Agreement">NAFTA</acronym>, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> or the CKTEA, (whether publicly advertised or not) the bidding period should not be less than fifteen (15) calendar days either from the date the requirement is posted publicly or, in the case of procurements not publicly advertised, from the date the bid solicitations are released. Low dollar value procurements below $25,000 (including all applicable taxes) may be for less than fifteen (15) days as appropriate for efficiency and cost effectiveness.</p>
 <hr/>
-<h4>Section 7D - Bid Handling</h4>
+<h5>Section 7D - Bid Handling</h5>
 <p><strong>Bid Receiving</strong></p>
 <p>7D.316 (xx/xx/xx) When soliciting bids by telephone, the contracting officer must accurately transcribe the information taken, record the time and date and initial the written record on file immediately. Written bid responses that have been solicited by telephone and directed to a central bid receiving area should not be opened publicly.</p>
 <hr/>
-<h4>CHAPTER 12 - GLOSSARY</h4>
+<h5>CHAPTER 12 - GLOSSARY</h5>
 <p><strong>Low Dollar Value (LDV)</strong><br/>
 					Low Dollar Value (LDV) requirements are generally low risk, less complex procurements with an estimated total cost below $25,000 (including all applicable taxes). (xx/xx/xx) (achat de faible valeur)</p>
 <p><strong>Request for Quotation (RFQ)</strong><br/>

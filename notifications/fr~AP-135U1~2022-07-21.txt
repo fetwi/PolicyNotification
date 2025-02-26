@@ -1,27 +1,27 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-135U1</h2>
-<h3>But</h3>
+<h3 class="pn-content-title">Contenu de l'AP-135U1</h3>
+<h4>But</h4>
 <p>Le présent avis aux politiques (AP-135U1) vise à informer les agents de négociation des contrats du Programme des approvisionnements (PA) de Travaux publics et Services gouvernementaux Canada (TPSGC) des changements apportés à l’application sur les offres à commandes et arrangements en matière d’approvisionnement (Appli OCAMA) en ce qui concerne la protection des documents.</p>
 <p>Le présent <abbr title="avis aux politiques">AP</abbr> devrait être lu en conjonction avec l’<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/avis-relatifs-aux-politiques?pnid=AP-135#parcourir-ap-precedents">avis relatif aux politiques 135 - Publier des offres à commandes et des arrangements en matière d’approvisionnement dans l’<abbr title="Application sur les offres à commandes et arrangements en matière d'approvisionnement">Appli OCAMA</abbr></a>.</p>
-<h3>Date d’entrée en vigueur</h3>
+<h4>Date d’entrée en vigueur</h4>
 <p>L’<abbr title="avis aux politiques">AP</abbr>-135U1 entre en vigueur immédiatement.</p>
-<h3>Renseignements généraux</h3>
+<h4>Renseignements généraux</h4>
 <p>L'<a href="https://achatscanada.canada.ca/fr/pour-commencer/application-offres-commandes-et-arrangements-en-matiere-dapprovisionnement-ocama"><abbr title="Application sur les offres à commandes et arrangements en matière d'approvisionnement">Appli OCAMA</abbr></a> est une application Web sécurisée qui permet à des utilisateurs provinciaux, territoriaux ou fédéraux autorisés de consulter et d’utiliser les offres à commandes et arrangements en matière d’approvisionnement du gouvernement fédéral. Des mesures de sécurité accrues, notamment des améliorations en matière de technologie et de processus, ont été intégrées à l’<abbr title="Application sur les offres à commandes et arrangements en matière d'approvisionnement">Appli OCAMA</abbr> pour renforcer la sécurité des documents.</p>
 <p>Les améliorations en matière de processus apportées à l’<abbr title="Application sur les offres à commandes et arrangements en matière d'approvisionnement">Appli OCAMA</abbr> comprennent la nécessité pour les agents de négociation des contrats de s’assurer que les documents pertinents disposent des mentions de sécurité appropriées <strong>avant</strong> qu’ils soient téléversés dans l’<abbr title="Application sur les offres à commandes et arrangements en matière d'approvisionnement">Appli OCAMA</abbr>.</p>
 <p>On rappelle aux agents de négociation des contrats de protéger les documents renfermant des renseignements de nature délicate. Les renseignements de nature délicate, notamment les listes de prix des fournisseurs, ne doivent pas être mis à la disposition du public et sont désignés comme étant de niveau « Protégé B ». De plus, on rappelle aux agents de négociation des contrats que dans les cas où un document comprend des renseignements de différents niveaux de sécurité, la catégorie de sécurité la plus élevée figurant dans le document doit être appliquée à l’ensemble du document (approche relative aux seuils maximaux). Consultez le guide ministériel sur les <a class="gov" href="https://masource-mysource.spac-pspc.gc.ca/fra/services/dgs-dob/pcms-spa/Pages/guideprot.aspx" rel="external">niveaux de sécurité</a><span> (accessible uniquement sur le réseau du gouvernement du Canada)</span> pour la définition de sécurité et la classification des renseignements de nature délicate.</p>
 <p>Pour plus d’orientations sur ce qui pourrait constituer des renseignements de nature délicate, veuillez vous reporter à l’<a href="https://laws-lois.justice.gc.ca/fra/lois/a-1/page-3.html#:~:text=Version%20pr%C3%A9c%C3%A9dente-,Renseignements%20de%20tiers,-Note%20marginale%20%3A" rel="external">article 20 (1) de la <cite>Loi sur l’accès à l’information</cite></a>.</p>
-<h3>Modifications apportées au Guide des approvisionnements</h3>
+<h4>Modifications apportées au Guide des approvisionnements</h4>
 <p>Le Guide des approvisionnements a été mis à jour en fonction du présent <abbr title="avis aux politiques">AP</abbr>. Pour plus de détails, veuillez consulter les Items du Guide des approvisionnements visés ci-dessous.</p>
-<h3>Modifications apportées au Guide des clauses et conditions uniformisées d’achat (CCUA)</h3>
+<h4>Modifications apportées au Guide des clauses et conditions uniformisées d’achat (CCUA)</h4>
 <p>Aucune modification n’a été apportée au Guide des clauses et conditions uniformisées d’achat.</p>
-<h3>Modifications aux modèles uniformisés d’approvisionnement</h3>
+<h4>Modifications aux modèles uniformisés d’approvisionnement</h4>
 <p>Aucune modification n’a été apportée aux modèles uniformisés d’approvisionnement.</p>
-<h3>Coordonnées</h3>
+<h4>Coordonnées</h4>
 <p>Pour les questions concernant les exigences décrites dans le présent <abbr title="avis aux politiques">AP</abbr>, envoyez un courriel à l’équipe d’achatsetventes.gc.ca à l’adresse suivante : <a href="mailto:achatsetventes.buyingandselling@tpsgc-pwgsc.gc.ca" rel="external">achatsetventes.buyingandselling@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Les questions concernant le Guide des approvisionnements peuvent être envoyées à l’adresse courriel suivante : <a href="mailto:tpsgc.paspspublications-apspspublications.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.paspspublications-apspspublications.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
+<h5 class="field-label">Sections du Guide des approvisionnements visées</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-f449a3c6f016b04da21f7c66d7684499">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

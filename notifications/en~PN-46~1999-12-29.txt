@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-46</h2>
+<h3 class="pn-content-title">Content of PN-46</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>1. Treasury Board Secretariat has provided notice of the amendment of previously established thresholds for the international trade agreements. The new thresholds are applicable for two years, January 1, 2000 to December 31, 2001.</p>
 <p>2. Revised thresholds:</p>
@@ -8,7 +8,7 @@
 <li>Departments and Agencies </li>
 <li>Entreprises (Crown Corporations)</li>
 </ol>
-<h3><acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym></h3>
+<h4><acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym></h4>
 <p>Goods</p>
 <ul>
 <li>(a) CAN    $261 200 </li>
@@ -21,7 +21,7 @@
 <ul>
 <li>(a) CAN  $10 000 000</li>
 </ul>
-<h3>NAFTA</h3>
+<h4>NAFTA</h4>
 <p>Goods</p>
 <ul>
 <li>(a) CAN          $37 200</li>

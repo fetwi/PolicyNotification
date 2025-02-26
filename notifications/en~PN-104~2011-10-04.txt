@@ -1,20 +1,20 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-104</h2>
+<h3 class="pn-content-title">Content of PN-104</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of this Policy Notification (PN-104) is to notify all Acquisitions Branch and Regional employees that the new processes for Basic and Standard Procurements are now in effect and that these are supported by new approval authorities at all levels.</p>
 <p>With the exception of the changes herein, the current processes still apply for all procurements not categorized as Basic or Standard. The process for Emergency Requirements will be outlined in <abbr title="Policy Notification">PN</abbr>-103 Emergency Requirements, to be released later this year.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>In the Speeches from the Throne in both 2008 and 2010, the Government made it clear that streamlining procurement and reducing "red tape" were a priority. Interviews were conducted both with other federal departments and industry to obtain their views on procurement. Client Departments' feedback indicated that they found the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> processes too complex and time-consuming; they wanted more flexibility and a better balance with respect to risk as well as more e-tools that are easy to use and self-serve. Similarly, industry's feedback indicated that suppliers found it hard to do business with the Government of Canada, that our processes were too complex and bureaucratic, there was a perceived unfairness or restricted access to procurements and that the Government was too risk averse.</p>
 <p>In response to Government direction, as well as client, supplier and procurement community input, the Strategic Policy Directorate of <abbr title="Policy, Risk, Integrity and Strategic Management Sector">PRISMS</abbr> was assigned with finding ways to renew and improve procurement throughout the acquisitions program. A Procurement Solutions Modernization (PSM) initiative was created to review the current procurement business processes. To undertake this task, a Working Group was formed, made up of over 25 employees from the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> procurement community across Canada. The focus of this working group was to map the current contracting process to identify prime opportunities for efficiencies.</p>
 <p>Acquisitions Branch and Regional Senior Management approved the new processes and a pilot was launched in the Fall of 2010 to test, in a live environment, the new processes for Basic and Standard Procurements. The pilot testing has validated that the proposed changes have effectively standardized and streamlined the department's procurement processes through the application of complexity and risk assessments; by reducing oversight; and by providing greater autonomy to Contracting Officers to do their work.</p>
 <p>The new approaches for Complex Procurements are currently under development and will be introduced at a later date.</p>
-<h3>Application of the new processes for Basic and Standard Procurements</h3>
+<h4>Application of the new processes for Basic and Standard Procurements</h4>
 <p>The processes introduce the concept of assessing the complexity and risk of each procurement and establishing the necessary approval authority. A key component of the new processes is the determination of the necessary approval authority for the procurement given its complexity and risks. These new processes shift the approval focus away from being purely dollar-value-based towards being more risk and complexity-based. Each requisition undergoes a complexity assessment, performed at the Manager level (or whomever assigns the work), to determine the complexity of the procurement in order to direct the requirement into the appropriate process stream (Basic, Standard or Complex) and to allocate it to a resource with the necessary skill set to handle the procurement.</p>
 <p>Prior to obtaining approval of the procurement strategy, the Contracting Officer performs a risk assessment appropriate to the complexity of the requirement. The risk assessment identifies any risks associated with the acquisition and indicates the appropriate authority based on the corresponding risks of the procurement. It also provides guidance and instructions to the Contracting Officer when high risks are identified, and indicates the appropriate authority based on the risks associated with the procurement.</p>
-<h3>Key Activity Changes for Basic and Standard Procurements</h3>
-<h4>1. At the Procurement Strategy stage</h4>
+<h4>Key Activity Changes for Basic and Standard Procurements</h4>
+<h5>1. At the Procurement Strategy stage</h5>
 <ol class="double-space" type="a">
 <li>Procurements are categorized into Basic, Standard or Complex by the Manager (or whomever assigns the work), aided by the complexity assessment found at P:\ACQB\Common\Procurement_Library. The Manager (or whomever assigns the work) records the result on file. Users of the Automated Buyer Environment (ABE) must enter the result into <abbr title="Automated Buyer Environment">ABE</abbr>'s Workload Management function. Once the results are recorded, the Manager (or whomever assigns the work) allocates the Requisition to a Contracting Officer.</li>
 <li>The Approval Authority level is no longer based on dollar value alone but rather on the complexity and risk of a procurement. For each requirement, Contracting Officers must conduct a Procurement Risk Assessment (PRA), available on the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Web site (<a href="http://tpsgc-pwgsc5.sondages-surveys.ca/s/base-basic/" rel="external">Basic <abbr title="Procurement Risk Assessment">PRA</abbr></a> and <a href="http://tpsgc-pwgsc5.sondages-surveys.ca/s/normalise-standard/" rel="external">Standard <abbr title="Procurement Risk Assessment">PRA</abbr></a>). This risk assessment will assist in identifying the potential risks of a procurement and the associated approval authority required. For Basic Procurements, the maximum level of approval required is a Manager, and for Standard requirements, the maximum level of approval required is a Director.</li>
@@ -24,27 +24,27 @@
 <li>If there are any changes to the requirement or to the procurement strategy after the initial <abbr title="Procurement Risk Assessment">PRA</abbr> has been completed, another <abbr title="Procurement Risk Assessment">PRA</abbr> must be prepared to determine if any of the risk factors have changed requiring a different approval level. In these cases, the new <abbr title="Procurement Risk Assessment">PRA</abbr> must be attached to the approval document including which version it is and the reason for another <abbr title="Procurement Risk Assessment">PRA</abbr>.</li>
 <li>Authorities for approving agreements which involve: pre-contractual work, ratification of contractual commitments, confirming orders, or contracts/amendments which include pre-contractual work clauses, or any other retroactive elements will be in accordance with the non-competitive limits and apply to all positions below assistant deputy minister level.</li>
 </ol>
-<h4>2. At the Solicitation stage</h4>
+<h5>2. At the Solicitation stage</h5>
 <ol class="double-space" type="a">
 <li>The Client department reviews only the documents that they are responsible for, or have had input into, such as the SOW/SOR/Performance Specifications.</li>
 <li>In the case of Advance Contract Award Notice (ACAN) Challenges, the Manager reviews rejected suppliers' statements of capabilities for Basic procurements while the Director reviews those rejected for Standard Procurements.</li>
 </ol>
-<h4>3. At the Evaluation and Contractor Selection stage</h4>
+<h5>3. At the Evaluation and Contractor Selection stage</h5>
 <ol class="double-space" type="a">
 <li>For procurements streamed as standard, the results of the evaluation of the bids and the contractor selection may be subject to a peer review, prior to contract award, if determined by the <abbr title="Procurement Risk Assessment">PRA</abbr>.</li>
 <li>Approval of a Re-tender is based on the level of complexity. A Contracting Officer can approve the re-tender of Basic Procurements, and a Manager approves the re-tender of Standard Procurements.</li>
 </ol>
-<h4>4. At the Contract Award stage</h4>
+<h5>4. At the Contract Award stage</h5>
 <ol class="double-space" type="a">
 <li>If approval is required at the Contract Award stage, only the approval document is reviewed by the Approval Authority. Contractual documents are to be made available to the Approval Authority upon request.</li>
 <li>The level of complexity and the most recent <abbr title="Procurement Risk Assessment">PRA</abbr> performed determines the level of approval. For Basic Procurements within departmental limits, the maximum level of approval required is Manager, and for Standard Procurements within departmental limits, the maximum level of approval is Director.</li>
 </ol>
-<h4>5. Contract Amendment </h4>
+<h5>5. Contract Amendment </h5>
 <p>With the exception of administrative amendments and pre-approved options, Contracting Officers are to complete the Risk Assessment for Amendments to determine the risks associated with the proposed amendment and the appropriate approval authority required.</p>
-<h3>Procurement Complexity Assessment</h3>
-<h4>1. Definitions</h4>
+<h4>Procurement Complexity Assessment</h4>
+<h5>1. Definitions</h5>
 <p>The following criteria defines the characteristics of Basic and Standard Procurements:</p>
-<h5>1.1 Basic Procurement</h5>
+<h6>1.1 Basic Procurement</h6>
 <p>Basic Procurement has the characteristics of clarity and completeness. The requirement is known and identifiable, and evaluation methods are simple. The methods for soliciting bids and contracting are pre-determined and set out. There is little need for analysis or speculation. There is an absence of change with the procurement process and control is within the department's domain of authority. There may be tools and instruments available that support the character of Basic. There is usually a low level of risk.</p>
 <ul class="hierarchy double-space">
 <li><strong class="number">1.1.1</strong> Basic procurement involves one or more of the following:
@@ -72,7 +72,7 @@
 </ol>
 </li>
 </ul>
-<h5>1.2 Standard Procurement</h5>
+<h6>1.2 Standard Procurement</h6>
 <p>Standard Procurement has the characteristics of judgment, review, and assessment. The procurement is based on the process of finding a solution to a requirement using existing technology and knowledge. Evaluation methods have to be defined, and may use pre-established strategies. The procurement process is established and understood though it can be complicated (many details or factors). Control is within the department's delegation of authority. Contract administration is predictable and established. There may be a medium level of risk.</p>
 <ul class="hierarchy double-space">
 <li><strong class="number">1.2.1</strong> Standard Procurement involves one or more of the following:
@@ -100,15 +100,15 @@
 </ol>
 </li>
 </ul>
-<h4>2. Assessing the Complexity Level and Assigning a Complexity Code</h4>
+<h5>2. Assessing the Complexity Level and Assigning a Complexity Code</h5>
 <ol class="double-space" type="a">
 <li>Upon receipt of the requisition, the Manager (or whomever assigns the work) will determine which stream the procurement will follow using the Complexity Assessment found at (P:\ACQB\Common\Procurement_Library\Complexity Assessment.pdf)</li>
 <li>The Manager (or whomever assigns the work) will enter the appropriate Complexity Code (Basic = 1, Standard = 2, Complex = 3) in the Workload Management function in <abbr title="Automated Buyer Environment">ABE</abbr> and allocate the requisition to a Contracting Officer.</li>
 <li>The Manager (or whomever assigns the work) transmits the requisition to the assigned Contracting Officer who will follow the appropriate procurement process (the new Basic or Standard Process or the current process for Complex Procurements).</li>
 </ol>
-<h4>3. Changes to the Complexity Level (if necessary)</h4>
+<h5>3. Changes to the Complexity Level (if necessary)</h5>
 <p>If, at anytime during the procurement, it is identified that a change to the complexity level is needed, the Manager (or whomever assigns the work) will determine the appropriate level and the procurement must follow the new process. A new <abbr title="Procurement Risk Assessment">PRA</abbr> is required to identify the risks under the new complexity level. <abbr title="Automated Buyer Environment">ABE</abbr> must be updated to reflect the change (where applicable). </p>
-<h3>Procurement Risk Assessment (PRA) Tools</h3>
+<h4>Procurement Risk Assessment (PRA) Tools</h4>
 <p>
 	The <abbr title="Procurement Risk Assessment">PRA</abbr> is an on-line tool used by Contracting Officers to assist in identifying the risks and to determine the approval authority required for the procurement. The on-line tool can be accessed through the following links:</p>
 <ul>
@@ -118,7 +118,7 @@
 <p>
 	Step-by-Step instructions for completing the On-line Risk Assessments can be found at (P:\ACQB\Common\Procurement_Library\step-by-step instructions for risk assessments.pdf )
 </p>
-<h3>Peer Review Process</h3>
+<h4>Peer Review Process</h4>
 <ol class="double-space">
 <li>The peer review is intended to provide an oversight and risk management role within the standard procurement process, for competitive requirements only, to ensure that the evaluation and contractor selection were conducted in accordance with the solicitation, and that no anomalies or potential issues were detected during the review which could impede the principles of fairness, openness and transparency of the procurement process. Peer reviewers will be required to initial and date the evaluation report to confirm that such a review has taken place.</li>
 <li>The accountability of the procurement remains with the Contracting Officer responsible for the requirement; there is no transfer of responsibility.</li>
@@ -126,7 +126,7 @@
 <li>Should issues arise during the peer review process, the Contracting Officer and the peer reviewer(s) should make every effort to resolve them. In the event that a resolution cannot be achieved, the matter is to be escalated one level above the Contracting Officer for resolution.</li>
 <li>The time required to conduct a peer review will be determined between the Contracting Officer and the peer reviewer(s); however, such review should not exceed two (2) business days.</li>
 </ol>
-<h3>New Delegations of Authority Limits</h3>
+<h4>New Delegations of Authority Limits</h4>
 <p>The new processes for Basic and Standard Procurements are supported by changes to the <em>Common Service Acquisition Authorities - Schedule 3. </em>An example of how delegations are based on Complexity and Risk is shown below using the risk-based delegation chart (Heat Map) representing the risk and complexity levels. Contracting Officers should refer to their individual delegation form to determine their delegation of authority.</p>
 <table class="basic">
 <caption><p>This is the New Delegations of Authority Limits chart; it is a visual representation of the process used to determine the authority levels required for contract approval and signing. In the chart five risk levels ranging from low to high are represented vertically, and five procurement complexity levels ranging from basic to complex 3 are represented horizontally.</p></caption>
@@ -197,18 +197,18 @@
 </tr>
 </tbody>
 </table>
-<h3>Training</h3>
+<h4>Training</h4>
 <p>Awareness and training sessions have been provided to all operational employees within <abbr title="Automated Buyer">AB</abbr> and the Regional Offices. After October 1<sup>st</sup>, 2011, for information on training or to request training, Contracting Officers are to contact their learning coordinator or the Professional Training and Development Division within the Business Management Sector.</p>
-<h3>Revisions to the Supply Manual</h3>
+<h4>Revisions to the Supply Manual</h4>
 <p>There will be major changes to the Supply Manual instructions in view of the implementation of the new procurement processes. Revisions will be included in a future release of the Supply Manual.</p>
 <p>Policy Notification <abbr title="Policy Notification">PN</abbr>-105 Chapter 6 Approvals and Authorities: Changes further to the New Processes for Basic and Standard Procurements, will revise Supply Manual Chapter 6 to incorporate the new approval authorities limits and the changes required to implement the new processes.</p>
-<h3>Revisions to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual</h3>
+<h4>Revisions to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual</h4>
 <p>The Policy, Risk, Integrity and Strategic Management Sector (PRISMS) will be conducting a review of the Departmental Standard Procurement Templates. Changes will be communicated separately. In the meantime, Contracting Officers are to continue using the current <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#TEMPLATES">standard procurement templates</a>.</p>
-<h3>Contact Persons</h3>
+<h4>Contact Persons</h4>
 <p>For more information about the new procurement processes introduced by the Strategic Policy Directorate, <abbr title="Policy, Risk, Integrity and Strategic Management Sector">PRISMS</abbr>, you may send E-mail to the following address: <a href="mailto:Modernizingtogether.modernisonsensemble@tpsgc-pwgsc.gc.ca" rel="external">Modernizingtogether.modernisonsensemble@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>For more information about the content of this Policy Notification, contact Virginie Ethier or Jo-Anne Carriere, within the Strategic Policy Directorate who will ensure your questions are being addressed.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-38bc34217f7e509b17d3b31683fb27b5">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-44</h2>
+<h3 class="pn-content-title">Content of PN-44</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The utilization of differing financial management systems by many of our clients has resulted in a number of difficulties in the handling of requisitions by <acronym title="Public Works and Government Services Canada">PWGSC</acronym> for the client and their suppliers. In an effort to address this issue, a new indicator - the Client Reference Number (CRN) - has been created.</p>
 <p>This change has also necessitated a number of modifications to existing SACC clauses concerning invoicing. Effective immediately, the clauses found in <strong>Annex A</strong> of this policy notification supersede the clauses that appear in any previous release of the SACC Manual.</p>
@@ -19,7 +19,7 @@
 <li>Y4000D Shipping Instructions R</li>
 <li>(Contact: David Craigie 956-5024)</li>
 </ul>
-<h3>ANNEX A</h3>
+<h4>ANNEX A</h4>
 <p><strong>TRA-95 (xx/xx/xx) 13 Payment</strong></p>
 <p><strong>Text:</strong></p>
 <p>1. For all payments claimed, the Contractor shall submit an invoice to the Contracting Authority. The invoice shall contain the following information: Contractor's name and address, Contract number, requisition(s) for services number(s), <strong><em>Client Reference Number (CRN)</em></strong> volume of services provided (words/hours), rate, total amount claimed and Goods and Services Tax (GST) or the Harmonized Sales Tax (HST), as appropriate.</p>

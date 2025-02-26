@@ -1,18 +1,18 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-113U1</h2>
+<h3 class="pn-content-title">Content of PN-113U1</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of Policy Notification 113U1 (PN-113U1) is to clarify the interim limits associated with competitive contracting approval authority and to provide the interim limits for contract entry and amendment for architectural and engineering services for procurements related to the Syrian Refugee Resettlement initiative.</p>
-<h3>Effective Date</h3>
+<h4>Effective Date</h4>
 <p>Effective immediately. The interim limits are in place until March 31, 2016.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>On November 28, 2015, <abbr title="Policy Notification">PN</abbr>-113 was released notifying contracting officers of the temporary increase to contracting limits in support of Canada’s Response to the Syrian Refugee Resettlement and changes to the procurement process. As stated in <abbr title="Policy Notification">PN</abbr>-113, Canada intends to relocate 25,000 displaced Syrian refugees within an extremely short timeframe. Procurement activity will be required to provide the full range of goods, services, construction and architectural and engineering services required to meet the needs of the refugees.
 </p>
-<h3>Policy</h3>
-<h4>General</h4>
+<h4>Policy</h4>
+<h5>General</h5>
 <p>The interim increase to contract entry and amendment limits applies only to procurements in support of Canada’s Response to the Syrian Refugee Resettlement; existing limits will remain in place for all other procurements. See the <a href="http://www.gcpedia.gc.ca/gcwiki/images/1/10/SRR_InterimLimits_Tables_EN.pdf" rel="external">Interim Contracting Limits in Support of Canada’s Response to the Syrian Refugee Resettlement</a>.</p>
-<h4>Contact Information</h4>
+<h5>Contact Information</h5>
 <p>Enquiries related to this <abbr title="Policy Notification">PN</abbr> can be sent by email to the following address: <a href="mailto:TPSGC.DGAOPSyria-ABOpSyria.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.DGAOPSyria-ABOpSyria.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

@@ -1,12 +1,12 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-137</h2>
-<h3>Introduction</h3>
+<h3 class="pn-content-title">Contenu de l'AP-137</h3>
+<h4>Introduction</h4>
 <p>L’avis relatif aux politiques (AP) 137 vise à informer le Programme des approvisionnements des récents changements aux limites de passation des marchés à l’appendice C de la Politique sur les marchés du Conseil du Trésor (CT) et des modifications au <cite>Règlement sur les marchés de l’État</cite>.</p>
-<h3>Date d’entrée en vigueur</h3>
+<h4>Date d’entrée en vigueur</h4>
 <p>Le présent avis relatif aux politiques entre en vigueur immédiatement.</p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>Afin de moderniser les politiques et processus d’approvisionnement, l’appendice C de la Politique sur les marchés du Conseil du Trésor a été simplifiée et mise à jour.</p>
 <p>Les limites de passation des marchés indiquées dans la Directive sur les marchés (appendice C de la Politique sur les marchés du <abbr title="Conseil du Trésor">CT</abbr>) <strong>Limites de passation des marchés</strong> en vertu de l’<strong><a class="gov" href="https://www.gcpedia.gc.ca/gcwiki/images/7/73/Final_Appendix_C_-_Contracts_Directive_for_Publication_FR_.pdf" rel="external"><cite>Appendice C : Directive sur les marchés</cite></a><span> (accessible uniquement sur le réseau du gouvernement du Canada)</span></strong> (<a class="gov" href="https://www.gcpedia.gc.ca/gcwiki/images/e/ee/Contracting_Limits_Guidelines_April_2019_French_PPTX_.pdf" rel="external">Outil d’orientation</a><span> (accessible uniquement sur le réseau du gouvernement du Canada)</span>) ont été mises à jour pour refléter :</p>
 <ul>
@@ -19,7 +19,7 @@
 <p>Le processus d’appel d’offres traditionnel reste une méthode valable, mais ne devrait être utilisé que lorsqu’il est justifié.</p>
 </li>
 </ul>
-<h4>A.  Pouvoirs de passation des marchés</h4>
+<h5>A.  Pouvoirs de passation des marchés</h5>
 <p>Dans l’<a href="https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=14494" rel="external">appendice C du <abbr title="Conseil du Trésor">CT</abbr> : <cite>Directive sur les marchés publics</cite></a>, les limites de base de passation des marchés pour les contrats de construction, de biens et de services ont été :</p>
 <ul>
 <li>augmentées (sauf pour les biens et services spécialisés), afin de tenir compte de l’inflation;</li>
@@ -39,12 +39,12 @@
 <li>Le <abbr title="sous-ministre adjoint">SMA</abbr> conserve le <abbr title="demande de marché ">SDM</abbr>, et</li>
 <li>Le mémoire doit être envoyé au ministre pour obtenir son approbation.</li>
 </ol>
-<h4>B.  Modifications au Règlement sur les marchés de l’État et ses répercussions sur <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr></h4>
-<h5>1.  Limites relatives aux marchés à fournisseur unique : </h5>
+<h5>B.  Modifications au Règlement sur les marchés de l’État et ses répercussions sur <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr></h5>
+<h6>1.  Limites relatives aux marchés à fournisseur unique : </h6>
 <p>Dans le cadre du présent ensemble de modifications, le seuil de 25 000 $ pour les appels d’offres pour les marchés de services et de construction a été porté à 40 000 $. Cette augmentation vise à tenir compte de l’inflation depuis 1996,  dernière date à laquelle le seuil a été modifié.</p>
 <p>Du point de vue des fournisseurs, ce nouveau seuil réduira probablement les coûts pour certaines entreprises en ne les obligeant pas à présenter des soumissions qui auraient autrement été nécessaires. Le seuil pour les marchés de biens n’a pas été relevé, car il est conforme à l’obligation du Canada de lancer des appels d’offres en vertu de L’<a href="https://www.cfta-alec.ca/accord-de-libre-echange-canadien-2/?lang=fr" rel="external"><cite>Accord de libre-échange canadien</cite></a>.</p>
 <p>Dans certaines circonstances, il peut être approprié d’avoir recours à la concurrence pour des besoins dont la valeur est inférieure à 40 000 $. On s’attend à ce que les pouvoirs délégués de TPSGC en matière d’approvisionnement évaluent chaque situation afin de déterminer si les marchés devraient faire l’objet d’un appel d’offres d’une valeur inférieure à 40 000 $.</p>
-<h5>2.  Définitions des marchés de biens et de services </h5>
+<h6>2.  Définitions des marchés de biens et de services </h6>
 <p>Les définitions d’un marché de biens et d’un marché de services ont été modifiées dans <a href="https://laws-lois.justice.gc.ca/fra/reglements/DORS-87-402/TexteComplet.html" rel="external"><cite>Règlement sur les marchés de l’État</cite></a> afin de définir l’impression comme un service plutôt que comme un bien.</p>
 <dl>
 <dt><strong>Marché de services</strong></dt>
@@ -52,10 +52,10 @@
 <dt><strong>Marché de fournitures</strong></dt>
 <dd>Marché qui porte sur l’achat d’articles, de produits, d’outillage, de marchandises, de matériaux ou d’approvisionnements. La présente définition comprend tout marché qui porte sur la construction ou la réparation de navires. <strong lang="en-CA">(goods contract)</strong></dd>
 </dl>
-<h3>Coordonnées pour les demandes de renseignements</h3>
+<h4>Coordonnées pour les demandes de renseignements</h4>
 <p>Pour obtenir de l’aide concernant les nouvelles obligations, veuillez contacter le Secteur de la politique stratégique à l’adresse <a href="mailto:TPSGC.PAPolitiques-APPolicy.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PAPolitiques-APPolicy.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
+<h5 class="field-label">Sections du Guide des approvisionnements visées</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-9c189bc9055dc4e467337a4a12d87841">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

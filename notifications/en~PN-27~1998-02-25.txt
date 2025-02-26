@@ -1,14 +1,14 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-27</h2>
+<h3 class="pn-content-title">Content of PN-27</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h4>Introduction:</h4>
+<h5>Introduction:</h5>
 <p>This Policy Notification is issued to implement new procedures for setting aside procurements covered by NAFTA and the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> that are subject to Comprehensive Land Claims Agreements, National Park Agreements, or DND Co-operation Agreements<sup><a href="#PN-27n_1">(1)</a></sup>. These procurements will continue to be set aside from NAFTA and the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>. However, additional information specific to the applicable land claims agreement must now be incorporated into the Notice of Proposed Procurement (NPP) and bid solicitation.</p>
-<h4>Background:</h4>
+<h5>Background:</h5>
 <p>Legal counsel at the Department of Foreign Affairs and International Trade has concluded that it will be necessary to establish clearly circumscribed set-aside policies in order to carry out the federal government's obligations under the land claims agreements and, also comply with Canada's obligations under NAFTA and the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>.</p>
-<h4>Policy:</h4>
+<h5>Policy:</h5>
 <p>Based on this advice, Treasury Board Secretariat (TBS) has advised us to implement the procedures described below based on the Treasury Board of Canada Secretariat Contracting Policy Notice 1997-8. A set-aside policy has been developed for each land claims agreement, specific to the federal government's obligations contained therein. It is important to note that the extent of preferences to the claimant group are restricted to the federal government's obligations under the applicable land claims agreement. This policy does not apply to procurements set aside from NAFTA or the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> under the Set-Aside Program for Aboriginal Business.</p>
-<h4>Procedures</h4>
+<h5>Procedures</h5>
 <p>1. Determine whether a procurement is covered by both a land claims agreement and NAFTA and/or the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>.</p>
 <p>2. If a procurement is subject to NAFTA and/or the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, and one or more of the land claims agreements, the portion for delivery within the land claims settlement areas should be procured separately from the portion for delivery outside of the land claims settlement areas, where this is feasible.</p>
 <p>3. The portion of the procurement for delivery outside of the land claims settlement areas will continue to be procured according to the provisions in the NAFTA or the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, as applicable.</p>
@@ -47,10 +47,10 @@
 <p>10. Special clauses have been developed for use in solicitations and contracts or standing offers which involve or could involve deliveries to locations inside land claims settlement areas. These clauses, copies of which are attached at Annex C, will be incorporated into the SACC Manual. The Remarks section of each clause details its use.</p>
 <p>11. Procurements to which NAFTA and/or the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> applied must be coded accordingly; procurements which were set-aside under this Land Claims Set-Aside Policy must be coded as LCSA and identified as a "set-asides for small and minority businesses" derogation. The Automated Buyer Environment (ABE) will be modified to add two new agreement types - LCSA and LCSA/AIT. When the same supplier is successful on both solicitations, separate contractual documents must be issued in order to satisfy system coding requirements for the respective agreement types.</p>
 <p>12. Questions about this policy may be directed to Heather Harrison, Supply Policy Directorate, 819-956-0912.</p>
-<h3>ANNEX A</h3>
-<h4>Summary of Benefits from Treasury Board of Canada Secretariat Contracting Policy Notice 1997-8</h4>
-<h4>Table Headings</h4>
-<h4>Legend</h4>
+<h4>ANNEX A</h4>
+<h5>Summary of Benefits from Treasury Board of Canada Secretariat Contracting Policy Notice 1997-8</h5>
+<h5>Table Headings</h5>
+<h5>Legend</h5>
 <p><strong>Agreement</strong> - This column lists the land claims agreements currently in effect.</p>
 <p><strong>Notification Provisions</strong> - This is a list of the general notification provisions contained in the individual land claims agreements. It is required to notify all land claimant groups of potential contracts in their settlement area/region. When a procurement is subject to a land claims agreement, include in the NPP and bid solicitation, the mandatory notification provisions listed under "Bid Solicitation". Provisions in the "As applicable" column are to be included where appropriate. In addition, include the notification provisions listed under "Creation of a List" when an NPP is being used to advertise the existence of a list which will be used to notify suppliers of actual requirements.</p>
 <p><strong>General Evaluation Provisions</strong> - This is a list of provisions that allow for evaluation preferences. Only include these provisions when the procurement plan and bid solicitation include the evaluation preferences set out in the applicable land claim agreements.</p>
@@ -76,7 +76,7 @@
 <p>Section 8: Tuktut Nogait National Park Co-management Agreement</p>
 <p>Section 9: Co-operation Agreement Between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Operation and Maintenance of the North Warning System</p>
 <p>Section 10: Co-operation Agreement Between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Restoration and Clean-up of DEW Sites within the Inuvialuit Settlement Region</p>
-<h4>Summary of Benefits from Treasury Board of Canada Secretariat Contracting Policy Notice 1997-8</h4>
+<h5>Summary of Benefits from Treasury Board of Canada Secretariat Contracting Policy Notice 1997-8</h5>
 <table class="basic fontSize70">
 <tbody><tr>
 <th id="PN-27header1" scope="col">Agrmt.</th>
@@ -306,11 +306,11 @@
 </tr>
 </tbody></table>
 <p>Note <sup>2</sup>: Provisions in the Council of Yukon First Nations Final Agreement also apply to procurements subject to the First Nation of Nacho Nyak Dun Final Agreement; Champagne and Aishihik First Nations Final Agreement; TeslinTlingit Council Final Agreement; Vuntut Gwitchin First Nation Final Agreement; Selkirk First Nation Final Agreement; and, Little Salmon/Carmacks First Nation Final Agreement.</p>
-<h3>Annex B</h3>
-<h4>Clauses from Treasury Board of Canada Secretariat Contracting Policy Notice 1997-8</h4>
+<h4>Annex B</h4>
+<h5>Clauses from Treasury Board of Canada Secretariat Contracting Policy Notice 1997-8</h5>
 <p>The benefits that apply to a procurement being set aside under the Land Claims Set-Aside (LCSA) Policy must be identified in the Notice of Proposed Procurement (NPP) and the bid solicitation. Refer to the chart "Summary of Benefits from Treasury Board of Canada Secretariat Contracting Policy Notice 1997-8" (see Annex A) to determine the applicable benefits. The provision numbers and text that correspond to the numbers in the chart follow.</p>
-<h3>James Bay and Northern Quebec Agreement</h3>
-<h4>Chart Reference # W0011T</h4>
+<h4>James Bay and Northern Quebec Agreement</h4>
+<h5>Chart Reference # W0011T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: Section 1, James Bay and Northern Quebec Agreement (JBNQA), clauses 4.3; 28.10.3(b) (ii), (iii); 29.0.31(b) (ii), (iii)."</p>
@@ -334,7 +334,7 @@
 <li>(iii) set the date, location, terms and conditions for tendering so that Inuit individuals or groups may reply with reasonable ease.</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0012T</h4>
+<h5>Chart Reference # W0012T</h5>
 <p><em>Enter the SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: Section 1, James Bay and Northern Quebec Agreement, clauses 8.1; 8.2; 8.3; 8.4; 8.5; 8.6."</p>
@@ -351,7 +351,7 @@
 <p>8.5 Where the Crown intends to solicit bids from more than one qualified firm within the Territory, the contracting authority shall take all reasonable measures to determine if there are Inuit firms qualified to perform the government contract, and shall solicit bids from those Inuit firms.</p>
 <p>8.6 Where a contract has been awarded it is the responsibility of the contracting authority to ensure that the contract document contains appropriate terms and conditions to make certain that sub-contractors to the contractor are also subject to the intent and the specific provisions of the contract.</p>
 <hr/>
-<h4>Chart Reference # W0013T</h4>
+<h5>Chart Reference # W0013T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 1, James Bay and Northern Quebec Agreement, clauses 28.10.3(b) (i), (ii), (iiii): 29.0.31(b) (i), (ii), (iii)."</p>
@@ -376,7 +376,7 @@
 <li>(iii) set the date, location, terms and conditions for tendering so that Inuit individuals or groups may reply with reasonable ease.</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0014T</h4>
+<h5>Chart Reference # W0014T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: Section 1, James Bay and Northern Quebec Agreement, clauses 7.1, (a), (b), (c)."</p>
@@ -392,8 +392,8 @@
 <li>(b) creation of permanent head offices, administrative offices or other facilities in the Territory; and,</li>
 <li>(c) the undertaking of commitments, under the contract, with respect to on-the-job training or skills development for the Inuit.</li>
 </ul>
-<h3>Inuvialuit Final Agreement</h3>
-<h4>Chart Reference # W0021T</h4>
+<h4>Inuvialuit Final Agreement</h4>
+<h5>Chart Reference # W0021T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: Section 2, Inuvialuit Final Agreement, clause 16(8), (b), (c)."</p>
@@ -407,7 +407,7 @@
 <p>(b) notify the Inuvialuit of all Government Contracts subject to public tender that relate to activities in the Inuvialuit Settlement Region and the Inuvialuit communities. Where the Inuvialuit submit the best bid having regard to price, quality, delivery and other stipulated conditions, the contract shall be awarded to the Inuvialuit; and</p>
 <p>(c) notify the Inuvialuit Development Corporation of instances where federal government procurement of goods and services related to activities in the Inuvialuit Settlement Region takes place on a basis other than public tender. If the Inuvialuit are capable of supplying those goods and services on a reasonable basis, they shall receive a reasonable share of the contracts so awarded.</p>
 <hr/>
-<h4>Chart Reference # W0022T</h4>
+<h5>Chart Reference # W0022T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: Section 2, Inuvialuit Final Agreement, clause 6.00, (a), (b), (c)."</p>
@@ -424,8 +424,8 @@
 <li>(b) the creation of administrative offices or other facilities in the Inuvialuit Settlement Region,</li>
 <li>(c) the undertaking of commitments, under the contract, with respect to related on-the-job training or skills development for Inuvialuit.</li>
 </ul>
-<h3>Gwich'in Comprehensive Land Claim Agreement</h3>
-<h4>Chart Reference # W0031T</h4>
+<h4>Gwich'in Comprehensive Land Claim Agreement</h4>
+<h5>Chart Reference # W0031T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 3, Gwich'in Comprehensive Land Claim Agreement, Appendix C, clause 17.2.1."</p>
@@ -437,7 +437,7 @@
 <p>The benefits that apply to this procurement are contained in: Section 3, Gwich'in Comprehensive Land Claim Agreement (GCLCA), Appendix C, clause:</p>
 <p>17.2.1 For contracts to be awarded in the primary use area, Canada undertakes to include on contract lists the names of those qualified Tetlit Gwich'in who have indicated an interest in contracting.</p>
 <hr/>
-<h4>Chart Reference # W0032T</h4>
+<h5>Chart Reference # W0032T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 3, Gwich'in Comprehensive Land Claim Agreement, Appendix C, clause 17.2.5."</p>
@@ -449,7 +449,7 @@
 <p>The benefits that apply to this procurement are contained in: section 3, Gwich'in Comprehensive Land Claim Agreement (GCLCA), Appendix C, clause:</p>
 <p>17.2.5 Canada shall ensure that the Tetlit Gwich'in are advised on how to access federal contracting, and that the Tetlit Gwich'in and businesses owned by the Tetlit Gwich'in are given full opportunity to be registered on any lists or inventories Canada uses for contracting purposes.</p>
 <hr/>
-<h4>Chart Reference # W0033T</h4>
+<h5>Chart Reference # W0033T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 3, Gwich'in Comprehensive Land Claim Agreement, clause 25.1.10."</p>
@@ -461,7 +461,7 @@
 <p>The benefits that apply to this procurement are contained in: Section 3, Gwich'in Comprehensive Land Claim Agreement (GCLCA), clause:</p>
 <p>25.1.10 The Gwich'in shall have preference in being hired at public sites, museums, heritage resource projects, archaeological works and similar public facilities and projects in the settlement area related to Gwich'in heritage resources, in a manner to be set out in the protected area agreement or, where there is no protected area agreement, in the management or work plans for the public sites, museums, projects, facilities and works referred to in this chapter. The Gwich'in Tribal Council shall be consulted in the development of such plans.</p>
 <hr/>
-<h4>Chart Reference # W0034T</h4>
+<h5>Chart Reference # W0034T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 3, Gwich'in Comprehensive Land Claim Agreement, Appendix C, clauses 9.7.1; 9.7.2; 9.7.5 (a), (b)."</p>
@@ -479,7 +479,7 @@
 <li>(b) a criterion for special knowledge or experience related to the designated heritage site.</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0035T</h4>
+<h5>Chart Reference # W0035T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 3, Gwich'in Comprehensive Land Claim Agreement, Appendix C, clauses 11.6.1, (a), (b); 11.6.2, (a), (b)."</p>
@@ -499,7 +499,7 @@
 <li>(b) Where Tetlit Gwich'in Yukon land abuts settlement lands of the First Nation of Nacho Nyak Dun shall agree on how to share the economic benefits in (a).</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0036T</h4>
+<h5>Chart Reference # W0036T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 3, Gwich'in Comprehensive Land Claim Agreement, Appendix C, clauses 13.6.2; 13.6.3; 13.6.6."</p>
@@ -512,8 +512,8 @@
 <p>13.6.2 Government shall provide written notice to the Tetlit Gwich'in of any invitation for public tenders in respect of contracts associated with silviculture within the primary use area.</p>
 <p>13.6.3 The Tetlit Gwich'in shall have the first opportunity to accept any fixed term contract offered by government associated with silviculture within the primary use area.</p>
 <p>13.6.6 Government shall include a criterion for Tetlit Gwich'in employment in any contract opportunities associated with silviculture within the primary use area.</p>
-<h3>Inuit of Nunavut Land Claims Agreement</h3>
-<h4>Chart Reference # W0041T</h4>
+<h4>Inuit of Nunavut Land Claims Agreement</h4>
+<h5>Chart Reference # W0041T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 4, Inuit of Nunavut Land Claims Agreement, clauses 24.5.1; 24.5.2; 24.5.3."</p>
@@ -527,7 +527,7 @@
 <p>24.5.2 Where an Inuit firm has previously been awarded a government contract, and has successfully carried out the contract, that Inuit firm shall be included in the solicitation to bid for contracts of a similar nature.</p>
 <p>24.5.3 In the absence of competitive bidding for government contracts, qualified Inuit firms will be given fair consideration.</p>
 <hr/>
-<h4>Chart Reference # W0042T</h4>
+<h5>Chart Reference # W0042T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 4, Inuit of Nunavut Land Claims Agreement, clause 24.7.1."</p>
@@ -539,7 +539,7 @@
 <p>The benefits that apply to this procurement are contained  in: section 4, Inuit of Nunavut Land Claims Agreement (NLCA), clause:</p>
 <p>24.7.1 The Designated Inuit Organization (DIO) shall prepare and maintain a comprehensive list of Inuit firms, together with information on the goods and services which they would be in a position to furnish in relation to government contracts. This list shall be considered by the Government of Canada and the Territorial Government in meeting their obligations under this Article.</p>
 <hr/>
-<h4>Chart Reference # W0043T</h4>
+<h5>Chart Reference # W0043T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 4, Inuit of Nunavut Land Claims Agreement, clauses 24.6.1, (a), (b), (c)."</p>
@@ -556,7 +556,7 @@
 <li>(c) the undertaking of commitments, under the contract, with respect to on-the-job training or skills development for Inuit.</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0044T</h4>
+<h5>Chart Reference # W0044T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 4, Inuit of Nunavut Land Claims Agreement, clauses 8.4.8, (a), (b); 8.4.9."</p>
@@ -573,7 +573,7 @@
 </ul>
 <p>8.4.9 A Designated Inuit Organization (DIO) shall have the right of first refusal to operate all business opportunities and ventures that are contracted out with respect to Parks in the Nunavut Settlement Area. Upon request, Government shall make available to a DIO all reports and other materials in its possession relevant to the analysis of the economic feasibility of business opportunities and ventures in Parks in the Nunavut Settlement Area.</p>
 <hr/>
-<h4>Chart Reference # W0045T</h4>
+<h5>Chart Reference # W0045T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 4, Inuit of Nunavut Land Claims Agreement, clauses 33.6.1, (a), (b); 33.6.2."</p>
@@ -589,8 +589,8 @@
 <li>(b) ensure that all contractors give preferential treatment to qualified Inuit.</li>
 </ul>
 <p>33.6.2 Any archaeological programs in the Nunavut Settlement Area that are administered by Government shall conform, at a minimum, to the employment and training provisions set out in Article 23.</p>
-<h3>Umbrella Final Agreement, Council for Yukon Indians</h3>
-<h4>Chart Reference # W0051T</h4>
+<h4>Umbrella Final Agreement, Council for Yukon Indians</h4>
+<h5>Chart Reference # W0051T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5, Umbrella Final Agreement, Council for Yukon Indians, clause 22.5.1."</p>
@@ -602,7 +602,7 @@
 <p>The benefits that apply to this procurement are contained in: Section 5, Umbrella Final Agreement, Council for Yukon Indians (UFACYI), clause:</p>
 <p>22.5.1 The Yukon, at the time it publicly invites tenders, shall provide written notice to those Yukon First Nations who have indicated a wish to be advised of public tenders. Where bidders' lists or similar methods are used, the Yukon shall notify those Yukon First Nations who have indicated their interest in contracting and their ability to supply the tendered goods or services.</p>
 <hr/>
-<h4>Chart Reference # W0052T</h4>
+<h5>Chart Reference # W0052T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5, Umbrella Final Agreement, Council for Yukon Indians, clauses 22.5.4; 22.5.8."</p>
@@ -615,7 +615,7 @@
 <p>22.5.4 For contracts to be awarded in the Yukon, Canada undertakes to include on contract lists those qualified Yukon First Nations who have indicated an interest in contracting.</p>
 <p>22.5.8 Government shall ensure that Yukon Indian People and Yukon First Nations' corporations are advised on how to access Government contracting, and that such individuals and businesses are given full opportunity to be registered on any lists or inventories Government uses for contracting purposes.</p>
 <hr/>
-<h4>Chart Reference # W0053T</h4>
+<h5>Chart Reference # W0053T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5, Umbrella Final Agreement, Council for Yukon Indians, clauses 15.7.1; 15.7.2."</p>
@@ -627,8 +627,8 @@
 <p>The benefits that apply to this procurement are contained in: section 5, Council of Yukon First Nations Final Agreement (UFACYI), clauses:</p>
 <p>15.7.1 Where employment in surveying of Settlement Land is generated as a direct consequence of a Yukon First Nation Final Agreement, the parties to the Yukon First Nation Final Agreement shall negotiate as part of the Yukon First Nation Final Agreement, the participation qualifications or experience, in such employment, and the determination of such qualifications and experience.</p>
 <p>15.7.2 Where economic opportunities and benefits are associated with the survey of Settlement Land, Yukon First Nations shall have access to these opportunities and benefits. Any contract issued for the survey of Settlement land shall contain the condition that Yukon Indian People and Yukon First Nation businesses with the necessary qualifications and experience shall be given first consideration in providing technical and support services associated with the contract. A list of Yukon First Nation businesses and Yukon Indian People interested in providing such services to potential contractors for such surveys of a Yukon First Nation's Settlement Land shall be included with all requests for proposals, and documentary proof the Yukon First Nation's businesses and Yukon Indian People were given first consideration shall form part of a contractor's proposal.</p>
-<h3>Nacho Nyak Dun Final Agreement</h3>
-<h4>Chart Reference # W0061T</h4>
+<h4>Nacho Nyak Dun Final Agreement</h4>
+<h5>Chart Reference # W0061T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.1, First Nation of Nacho Nyak Dun Final Agreement, clauses 13.12.1.1; 13.12.1.2; 13.12.1.5, (a), (b)."</p>
@@ -645,7 +645,7 @@
 <li>(a) a criterion for Nacho Nyak Dun employment; and</li>
 <li>(b) a criterion for special knowledge or experience of Nacho Nyak Dun which is related to the Heritage Site.</li>
 </ul>
-<h4>Chart Reference # W0062T</h4>
+<h5>Chart Reference # W0062T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.1, First Nation of Nacho Nyak Dun Final Agreement, clauses 15.7.1.1; 15.7.1.2, (a)."</p>
@@ -659,7 +659,7 @@
 <p>15.7.1.2 The determination of the qualifications and experience appropriate for the survey of First Nation of Nacho Nyak Dun Settlement Land shall be set out in the economic development opportunities plan required pursuant to 22.3.1.</p>
 <p>(a) Government and the First Nation of Nacho Nyak Dun may agree on the determination of qualifications and experience appropriate for the survey pending the completion of the economic development opportunities plan required pursuant to 22.3.1.</p>
 <hr/>
-<h4>Chart Reference # W0063T</h4>
+<h5>Chart Reference # W0063T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.1, First Nation of Nacho Nyak Dun Final Agreement, clauses 17.14.2.2; 17.14.2.3; 17.14.2.6."</p>
@@ -672,8 +672,8 @@
 <p>17.14.2.2 Government shall provide written notice to the First Nation of Nacho Nyak Dun of any invitation for public tenders in respect of contracts associated with silviculture within the Traditional Territory for the first Nation of Nacho Nyak Dun.</p>
 <p>17.14.2.3 The First Nation of Nacho Nyak Dun shall have the first opportunity to accept any fixed term contract offered by Government associated with silviculture within the Traditional Territory of the First Nation of Nacho Nyak Dun.</p>
 <p>17.14.2.6 Government shall include a criterion for Nacho Nyak Dun employment in any contract opportunities associated with silviculture within the Traditional Territory of the First Nation of Nacho Nyak Dun.</p>
-<h3>Champagne and Aishihik First Nations Final Agreement</h3>
-<h4>Chart Reference # W0071T</h4>
+<h4>Champagne and Aishihik First Nations Final Agreement</h4>
+<h5>Chart Reference # W0071T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.2, Champagne and Aishihik First Nations Final Agreement, Chapter 10, Schedule A, clauses 9.3; 9.3.1; 9.3.2; 9.3.3."</p>
@@ -687,7 +687,7 @@
 <p>9.3.1 the Canadian Parks Service shall provide notice to the Champagne and Aishihik First Nations specifying the terms and conditions of the contract;</p>
 <p>9.3.2 where the Champagne and Aishihik First Nations does not tender acceptance, the Canadian Parks Service may offer the contract publicly on the same terms and conditions specified in the notice pursuant to 9.3.1; and</p>
 <p>9.3.3 if the contract offered publicly is not accepted, the Canadian Parks Service may re-offer the contract on new terms and conditions in accordance with the procedure set out in 9.3.</p>
-<h4>Chart Reference # W0072T</h4>
+<h5>Chart Reference # W0072T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.2, Champagne and Aishihik First Nations Final Agreement, Chapter 10, Schedule A, clauses 9.4; 9.4.1; 9.4.2; 9.4.3."</p>
@@ -702,7 +702,7 @@
 <p>9.4.2 where the Champagne and Aishihik First Nations does not tender acceptance within 30 days, the Canadian Parks Service may offer the contract publicly on the same terms and conditions specified in the notice pursuant to 9.4.1; and</p>
 <p>9.4.3 if the contract offered publicly is not accepted, the Canadian Parks Service may re-offer the contract on new terms and conditions in accordance with the procedure set out in 9.4.</p>
 <hr/>
-<h4>Chart Reference # W0073T</h4>
+<h5>Chart Reference # W0073T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.2, Champagne and Aishihik First Nations Final Agreement, clauses 13.12.1.1; 13.12.1.2; 13.12.1.5, (a), (b)."</p>
@@ -720,7 +720,7 @@
 <li>(b) a criterion for special knowledge or experience of Champagne and Aishihik People which is related to the Designated Heritage Site.</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0074T</h4>
+<h5>Chart Reference # W0074T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.2, Champagne and Aishihik First Nations Final Agreement, clauses 15.7.1.1; 15.7.1.2, (a)."</p>
@@ -734,7 +734,7 @@
 <p>15.7.1.2 The determination of the qualifications and experience appropriate for the survey of Champagne and Aishihik First Nations Settlement Land shall be set out in the economic development opportunities plan required by 22.3.1.</p>
 <p>(a) Government and the Champagne and Aishihik First Nations may agree on the determination of qualifications and experience appropriate for the survey pending the completion of the economic development opportunities plan required by 22.3.1.</p>
 <hr/>
-<h4>Chart Reference # W0075T</h4>
+<h5>Chart Reference # W0075T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.2, Champagne and Aishihik First Nations Final Agreement, clauses 17.14.2.2; 17.14.2.3; 17.14.2.6."</p>
@@ -747,8 +747,8 @@
 <p>17.14.2.2 Government shall provide written notice to the Champagne and Aishihik First Nations of any invitation for public tenders for contracts associated with silviculture within the Champagne and Aishihik First Nations Traditional Territory.</p>
 <p>17.14.2.3 The Champagne and Aishihik First Nations shall have the first opportunity to accept any fixed term contract offered by Government associated with silviculture within the Champagne and Aishihik First Nations Traditional Territory.</p>
 <p>17.14.2.6 Government shall include a criterion for Champagne Aishihik Person employment in any contract opportunities associated with silviculture within the Champagne and Aishihik First Nations Traditional Territory.</p>
-<h3>Teslin Tlingit Council Final Agreement</h3>
-<h4>Chart Reference # W0081T</h4>
+<h4>Teslin Tlingit Council Final Agreement</h4>
+<h5>Chart Reference # W0081T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.3, Teslin Tlingit Council Final Agreement, clauses 13.12.1.1; 13.12.1.2; 13.12.1.5, (a), (b)."</p>
@@ -766,7 +766,7 @@
 <li>(b) a criterion for special Teslin Tlingit knowledge or experience related to the Heritage Site.</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0082T</h4>
+<h5>Chart Reference # W0082T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.3, Teslin Tlingit Council Final Agreement, clauses 15.7.1.1; 15.7.1.2."</p>
@@ -779,7 +779,7 @@
 <p>15.7.1.1 In evaluating any competitive proposal, bid or tender for the survey of Teslin Tlingit Council Settlement Land, Government shall include among the factors for consideration Teslin Tlingit employment and Teslin Tlingit ownership or equity investment in the firm submitting the subcontractor to that firm.</p>
 <p>15.7.1.2 The determination of the qualifications and experience appropriate for the survey of Teslin Tlingit Council Settlement Land shall be set out in the economic development opportunities plan required pursuant to 22.3.1.</p>
 <hr/>
-<h4>Chart Reference # W0083T</h4>
+<h5>Chart Reference # W0083T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.3, Teslin Tlingit Council Final Agreement, clauses 17.14.2.2; 17.14.2.3; 17.14.2.6."</p>
@@ -792,8 +792,8 @@
 <p>17.14.2.2 Government shall provide written notice to the Teslin Tlingit Council of any invitation for public tenders for contracts associated with silviculture within the Teslin Tlingit Council Traditional Territory.</p>
 <p>17.14.2.3 The Teslin Tlingit Council shall have the first opportunity to accept any fixed term contract offered by Government associated with silviculture within the Teslin Tlingit Council Traditional Territory.</p>
 <p>17.14.2.6 Government shall include a criterion for Teslin Tlingit employment in any contract opportunities associated with silviculture in the Teslin Tlingit Council Traditional Territory.</p>
-<h3>Vuntut Gwich'in First Nation Final Agreement</h3>
-<h4>Chart Reference # W0091T</h4>
+<h4>Vuntut Gwich'in First Nation Final Agreement</h4>
+<h5>Chart Reference # W0091T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.4, Vuntut Gwich'in First Nation Final Agreement, clauses 9.6; 9.7; 9.7.1; 9.7.2; 9.7.3; 9.7.4."</p>
@@ -810,7 +810,7 @@
 <p>9.7.3 if the Vuntut Gwitchin First Nation does not exercise its right of first refusal under 9.7, the Canadian Parks Service may offer the contract publicly on the same terms and conditions specified in the notice pursuant to 9.7.1; and</p>
 <p>9.7.4 if the contract offered publicly is not accepted, the Canadian Parks Service may re-offer the contract on new terms and conditions in accordance with the procedure set out in 9.7.</p>
 <hr/>
-<h4>Chart Reference # W0092T</h4>
+<h5>Chart Reference # W0092T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.4, Vuntut Gwich'in First Nation Final Agreement, Chapter 10, Schedule A, clauses 13.12.1.1; 13.12.1.3; 13.12.1.6, (a), (b)."</p>
@@ -827,7 +827,7 @@
 <li>(b) a criterion for special Vuntut Gwitchin knowledge or experience related to the Heritage Site.</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0093T</h4>
+<h5>Chart Reference # W0093T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.4, Vuntut Gwich'in First Nation Final Agreement, clauses 15.7.1.1; 15.7.1.2, (a)."</p>
@@ -841,7 +841,7 @@
 <p>15.7.1.2 The determination of the qualifications and experience appropriate for the survey of Vuntut Gwitchin First Nation Settlement Land shall be set out in the economic development opportunities plan required by 22.3.1.</p>
 <p>(a) Government and the Vuntut Gwitchin First Nation may agree on the determination of qualifications and experience appropriate for the survey pending the completion of the economic development opportunities plan required by 22.3.1.</p>
 <hr/>
-<h4>Chart Reference # W0094T</h4>
+<h5>Chart Reference # W0094T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.4, Vuntut Gwich'in First Nation Final Agreement, clauses 17.14.2.2; 17.14.2.3; 17.14.2.6; 17.14.2.7."</p>
@@ -856,7 +856,7 @@
 <p>17.14.2.6 Government shall include a criterion for Vuntut Gwitchin employment in any contract opportunities associated with silviculture in the Vuntut Gwitchin First Nation Traditional Territory.</p>
 <p>17.14.2.7 In evaluating any competitive proposal, bid or tender for the management of forest resources in the Vuntut Gwitchin First Nation Traditional Territory, the Government shall include among the factors for consideration, Vuntut Gwitchin employment and Vuntut Gwitchin ownership or equity investment in the firm or its subcontractors submitting the proposal, bid or tender.</p>
 <hr/>
-<h4>Chart Reference # W0095T</h4>
+<h5>Chart Reference # W0095T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.4, Vuntut Gwich'in First Nation Final Agreement, Chapter 10, Schedule A, clauses 9.8; 9.8.1; 9.8.2."</p>
@@ -869,8 +869,8 @@
 <p>9.8 For any contracts tendered publicly by the Canadian Parks Service, other than the contracts referred to in 9.7, the Canadian Parks Service shall include, where appropriate, criteria for:</p>
 <p>9.8.1 knowledge of Vuntut Gwitchin language, culture, society or traditional knowledge of the Vuntut Gwitchin First Nation Traditional Territory; and</p>
 <p>9.8.2 the employment of Vuntut Gwitchin professional services, the use of Vuntut Gwitchin professional services, the use of Vuntut Gwitchin suppliers, on-the-job training or skills development for Vuntut Gwitchin, in the specifications for the tendering of contracts related to the procurement of goods and services for the Park.</p>
-<h3>Selkirk First Nation Final Agreement Provisions</h3>
-<h4>Chart Reference # W0101T</h4>
+<h4>Selkirk First Nation Final Agreement Provisions</h4>
+<h5>Chart Reference # W0101T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.5. Selkirk First Nation Final Agreement, clauses 13.12.1.1; 13.12.1.2; 13.12.1.3; 13.12.1.7, (a), (b)."</p>
@@ -889,7 +889,7 @@
 <li>(b) a criterion for special knowledge or experience of Selkirk People related to the Designated Heritage Site</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0102T</h4>
+<h5>Chart Reference # W0102T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.5. Selkirk First Nation Final Agreement, Chapter 13, Schedule A, clause 5.1. "</p>
@@ -901,7 +901,7 @@
 <p>The benefits that apply to this procurement are contained in: section 5.5, Selkirk First Nation Final Agreement (SFA), Chapter 13, Schedule A, clause:</p>
 <p>5.1 The Selkirk First Nation and Selkirk Firms shall have the first opportunity to accept any contracting opportunity associated with Fort Selkirk offered by Government, the Selkirk First Nation, or Government and the Selkirk First Nation on the same terms and conditions as would be offered to others.</p>
 <hr/>
-<h4>Chart Reference # W0103T</h4>
+<h5>Chart Reference # W0103T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.5. Selkirk First Nation Final Agreement, clauses 15.7.1.1; 15.7.1.2."</p>
@@ -914,7 +914,7 @@
 <p>15.7.1.1 In evaluating any competitive proposal, bid or tender for the survey of Selkirk First Nation Settlement Land, Government shall include among the factors for consideration, employment of Selkirk People, and Selkirk First Nation and Selkirk People ownership or equity investment in the firm submitting the proposal, bid or tender, and in any subcontractor to that firm</p>
 <p>15.7.1.2 Selkirk First Nation and Government shall ensure that qualifications and experience requirements for employment of Selkirk People in the surveying of Selkirk First Nation Settlement Land, shall be established at levels appropriate to the nature of the tasks being performed in that employment, and shall take into account the local knowledge of Selkirk People.</p>
 <hr/>
-<h4>Chart Reference # W0104T</h4>
+<h5>Chart Reference # W0104T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 5.5. Selkirk First Nation Final Agreement, clauses 17.14.2.2; 17.14.2.3; 17.14.2.4; 17.14.2.8."</p>
@@ -928,8 +928,8 @@
 <p>17.14.2.3 Government shall include the Selkirk First Nation in any invitational tender for contracts associated with Forest Resources Management within the Traditional Territory of the Selkirk First Nation.</p>
 <p>17.14.2.4 The Selkirk First Nation shall have the first opportunity to accept any contract offered by Government other than by public or invitational tender associated with silviculture within the Traditional Territory of the Selkirk First Nation upon the same terms and conditions as would be offered to others.</p>
 <p>17.14.2.8 Government shall include a criterion for employment of Selkirk People or engagement of Selkirk Firms in any contract opportunities associated with silviculture in the Traditional Territory of the Selkirk First Nation.</p>
-<h3>Little Salmon/Carmacks First Nation Final Agreement Provisions</h3>
-<h4>Chart Reference # W0111T</h4>
+<h4>Little Salmon/Carmacks First Nation Final Agreement Provisions</h4>
+<h5>Chart Reference # W0111T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: Section 5.6. Little Salmon/Carmacks First Nation Final Agreement, clauses 13.12.1.1; 13.12.1.2; 13.12.1.3; 13.12.1.7, (a), (b)."</p>
@@ -947,7 +947,7 @@
 <li>(b) a criterion for special knowledge or experience of Little Salmon/Carmacks People related to the Designated Heritage Site.</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0112T</h4>
+<h5>Chart Reference # W0112T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: Section 5.6. Little Salmon/Carmacks First Nation Final Agreement, clauses 15.7.1.1; 15.7.1.2."</p>
@@ -960,7 +960,7 @@
 <p>15.7.1.1 In evaluating any competitive proposal, bid or tender for the survey of Little Salmon/Carmacks First Nation Settlement Land, Government shall include among the factors for consideration, employment of Little Salmon/Carmacks People, and Little Salmon/Carmacks First Nation and equity investment in the firm submitting the proposal, bid or tender, and in any subcontractor to that firm.</p>
 <p>15.7.1.2 Little Salmon/Carmacks First Nation and Government shall ensure that qualifications and experience requirements for employment of Little Salmon/Carmacks People in the surveying of Little Salmon/Carmacks People Settlement Land shall be established at levels appropriate to the nature of the tasks being performed in that employment, and shall take into account the local knowledge of Little Salmon/Carmacks People.</p>
 <hr/>
-<h4>Chart Reference # W0113T</h4>
+<h5>Chart Reference # W0113T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: Section 5.6. Little Salmon/Carmacks First Nation Final Agreement, clauses 17.14.2.2; 17.14.2.3; 17.14.2.4; 17.14.2.8."</p>
@@ -974,8 +974,8 @@
 <p>17.14.2.3 Government shall include the Little Salmon/Carmacks First Nation in any invitational tender for contracts associated with Forest Resources Management within the Traditional Territory of the Little Salmon/Carmacks First Nation.</p>
 <p>17.14.2.4 The Little Salmon/Carmacks First Nation shall have the first opportunity to accept any contract offered by Government other than by public or invitational tender associated with silviculture within the Traditional Territory of the Little Salmon Carmacks First Nation upon the same terms and conditions as would be offered to others.</p>
 <p>17.14.2.8 Government shall not include a criterion for employment of Little Salmon/ Carmacks People in any contract opportunities associated with silviculture in the Traditional Territory of the Little Salmon/Carmacks Firt Nation.</p>
-<h3>Sahtu Dene and Metis Comprehensive Land Claim Agreement (SDMCLCA)</h3>
-<h4>Chart Reference # W0121T</h4>
+<h4>Sahtu Dene and Metis Comprehensive Land Claim Agreement (SDMCLCA)</h4>
+<h5>Chart Reference # W0121T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 6, Sahtu Dene and Metis Comprehensive Land Claim Agreement, clause 12.2.1, (a), (b)."</p>
@@ -991,7 +991,7 @@
 <li>(b) the Government of the Northwest Territories preferential contracting policies, procedures and approaches intended to maximize local, regional and northern employment and business opportunities shall be followed respectively by Canada or the Government of the Northwest Territories.</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0122T</h4>
+<h5>Chart Reference # W0122T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 6, Sahtu Dene and Metis Comprehensive Land Claim Agreement, clause 26.2.8."</p>
@@ -1002,8 +1002,8 @@
 <p><strong>Text:</strong></p>
 <p>The benefits that apply to this procurement are contained in: section 6, Sahtu Dene and Metis Comprehensive Land Claim Agreement (SDMCLCA), clauses:</p>
 <p>26.2.8 The participants shall have preference in being hired at public sites, museums, heritage resource projects, archaeological works and similar public facilities and projects in the settlement area related to Sahtu heritage resources, in a manner to be set out in the protected area agreement or, where there is no protected area agreement, in the management or work plans for the public sites, museums, projects, facilities and works referred to in this chapter. The Sahtu Tribal Council shall be consulted in the development of such plans.</p>
-<h3>An Agreement for the Establishment of a National Park on Banks Island</h3>
-<h4>Chart Reference # W0131T</h4>
+<h4>An Agreement for the Establishment of a National Park on Banks Island</h4>
+<h5>Chart Reference # W0131T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 7, An Agreement for the Establishment of a National Park on Banks Island, clauses 8.02; 8.03, (a), (b), (c), (d)."</p>
@@ -1022,7 +1022,7 @@
 <li>(d) permitting bids for goods and services for a specified portion on a larger contract package to permit smaller and more specialized businesses to bid; and</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0132T</h4>
+<h5>Chart Reference # W0132T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 7, An Agreement for the Establishment of a National Park on Banks Island, clause 8.05, (a), (b), (c)."</p>
@@ -1039,7 +1039,7 @@
 <li>(c) the location of head offices, administrative offices, and other facilities in the Western Arctic Region, and particularly in the community of Sachs Harbour.</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0133T</h4>
+<h5>Chart Reference # W0133T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 7, An Agreement for the Establishment of a National Park on Banks Island, clauses 8.04; 8.06, (a), (b), (c), (d), (e); 8.07, (a), b), (c)."</p>
@@ -1065,8 +1065,8 @@
 <li>(b) Where Canada intends to invite bids for Government Contracts related to the Park, the bid invitation process shall take into account the bid evaluation criteria contained in 8.05; and</li>
 <li>(c) Where a contract has been awarded in accordance with the provisions of (b) above, Canada shall ensure that the contract document contains appropriate terms and conditions to ensure that sub-contractors are also subject to the intent and specific provisions of the contract.</li>
 </ul>
-<h3>Tuktut Nogait National Park Agreement Provisions</h3>
-<h4>Chart Reference # W0141T</h4>
+<h4>Tuktut Nogait National Park Agreement Provisions</h4>
+<h5>Chart Reference # W0141T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 8. Tuktut Nogait National Park Agreement clauses 14.2; 14.3, (i), (ii), (iii), (iv), (v)."</p>
@@ -1086,7 +1086,7 @@
 <li>(v) designing construction contracts in a way so as to increase the opportunity for smaller and more specialised Inuvialuit Businesses to bid; and</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0142T</h4>
+<h5>Chart Reference # W0142T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 8, Tuktut Nogait National Park Agreement clause 14.5, (i), (ii), (iii)."</p>
@@ -1103,7 +1103,7 @@
 <li>(iii) the location of head offices, administrative office, and other facilities in the Inuvialuit Settlement Region, and particularly in Paulatuk.</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0143T</h4>
+<h5>Chart Reference # W0143T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 8, Tuktut Nogait National Park Agreement clauses 14.4; 14.6, (i), (ii), (iii), (iv), (v); 14.7 (i), (ii), (iii)."</p>
@@ -1129,8 +1129,8 @@
 <li>(ii) Where Canada intends to invite bids for Government Contracts related to the Park, the Bid Invitation process shall take into account the bid evaluation criteria contained in s. 14.5 and</li>
 <li>(iii) Where a contract has been awarded in accordance with the provision of (ii) above, Canada shall ensure that the contract document contains appropriate terms and conditions to ensure that sub-contractors are also subject to the intent and specific provisions of the contract.</li>
 </ul>
-<h3>Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Operation and Maintenance of the North Warning System Provisions</h3>
-<h4>Chart Reference # W0151T</h4>
+<h4>Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Operation and Maintenance of the North Warning System Provisions</h4>
+<h5>Chart Reference # W0151T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 9, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Operation and Maintenance of the North Warning System, clause 4.2. (a), (c)."</p>
@@ -1146,7 +1146,7 @@
 <li>(c) Where a substantial portion (i.e. more than 50 percent) of the work in a Contract is within the ISR NWS O&amp;M Contractors and Subcontractors will first solicit bids from qualified businesses on the list of Inuvialuit firms provided by the IRC pursuant to paragraph 4.2b. This process shall not limit other qualified Inuvialuit firms from bidding as well. At the same time, solicitation documents shall also be provided to the IRC. DND, DSS, and its O&amp;M Contractors shall be held blameless if qualified Inuvialuit businesses were not solicited because their name did not appear on the list provided by the IRC. Based on demonstrated performance, Inuvialuit businesses may be added or deleted form the list.</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0152T</h4>
+<h5>Chart Reference # W0152T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 9, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Operation and Maintenance of the North Warning System, clauses 4.0; 4.1."</p>
@@ -1158,7 +1158,7 @@
 <p>The benefits that apply to this procurement are contained in: section 9, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Operation and Maintenance of the North Warning System (NWS), clauses:</p>
 <p>4.0 In accordance with existing laws, regulations, and federal government procurement policies, the following reasonable measures to encourage Inuvialuit participation, with respect to contracts awarded for Work within the Inuvialuit Settlement Region (ISR), will be taken.</p>
 <p>4.1 The reasonable measures set out in this clause shall include the inclusion of appropriate contract clauses in future O&amp;M contracts for work in the ISR binding Contractors to also take reasonable measures to encourage Inuvialuit participation.</p>
-<h4>Chart Reference # W0153T</h4>
+<h5>Chart Reference # W0153T</h5>
 <p>Section 9,<em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: Section 9, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Operation and Maintenance of the North Warning System, clauses 4.3, 4.3.1."</p>
@@ -1172,7 +1172,7 @@
 <p>4.3.1. Aklak Air will have the first opportunity to bid on all contracts for personnel and freight transportation services by fixed wing aircraft for flights originating and terminating in the ISR;</p>
 <p>Except in cases of emergency or when the operation of NWS site(s) could be interrupted, these companies shall be provided with not less than ten days for a bid response from the date of issue of the solicitation documents. Contracts shall be issued if the bids are technically compliant and based on the lower of published tariffs or most favoured customer rates. As existing contracts expire, renewals or new contracts shall be concluded in accordance with this subsection.</p>
 <hr/>
-<h4>Chart Reference # W0154T</h4>
+<h5>Chart Reference # W0154T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 9, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Operation and Maintenance of the North Warning System, clauses 4.3, 4.3.2."</p>
@@ -1186,7 +1186,7 @@
 <p>4.3.2. NTCL shall have the first opportunity to bid on all contracts for marine transportation and barging services of equipment, materials and supplies.</p>
 <p>Except in cases of emergency or when the operation of NWS site(s) could be interrupted, these companies shall be provided with not less than ten days for a bid response from the date of issue of the solicitation documents. Contracts shall be issued if the bids are technically compliant and based on the lower of published tariffs or most favoured customer rates. As existing contracts expire, renewals or new contracts shall be concluded in accordance with this subsection.</p>
 <hr/>
-<h4>Chart Reference # W0155T</h4>
+<h5>Chart Reference # W0155T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 9, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Operation and Maintenance of the North Warning System, clauses 4.3, 4.3.3."</p>
@@ -1199,7 +1199,7 @@
 <p>4.3 The following specific business opportunities for the provision of services associated with Work within the Inuvialuit Settlement Region (ISR) shall be provided through the NWS O&amp;M Contractor or Subcontractors:</p>
 <p>4.3.3. Pursuant to the IFA, the NWS O&amp;M Contractor shall obtain gravel from the Inuvialuit for all sites on Inuvialuit Lands (i.e. Cape Parry, Nicholson Peninsula, Horton River, Liverpool Bay, and Keats Point). The specific gravel requirements shall be determined by the NWS O&amp;M Contractor or Subcontractor. The Inuvialuit shall provide the required granular material from the nearest appropriate location or locations consistent with satisfying environmental and cost minimisation criteria. All other gravel contracts shall be tendered pursuant to section 4.2 of his agreement.</p>
 <hr/>
-<h4>Chart Reference # W0156T</h4>
+<h5>Chart Reference # W0156T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 9, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Operation and Maintenance of the North Warning System, clauses 4.3, 4.3.4."</p>
@@ -1211,8 +1211,8 @@
 <p>The benefits that apply to this procurement are contained in: section 9, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Operation and Maintenance of the North Warning System (NWS), clauses:</p>
 <p>4.3 The following specific business opportunities for the provision of services associated with Work within the Inuvialuit Settlement Region (ISR) shall be provided through the NWS O&amp;M Contractor or Subcontractors:</p>
 <p>4.3.4. Beginning in April 1985, or earlier if the opportunity arises, Stanton Distributing shall have the first opportunity to bid on all contracts for services relating to the supply of groceries, foodstuff, and catering with respect to temporary or permanent camp facilities in the ISR. Contracts will be issued provided that Stanton Distributing meets the requirements identified in the solicitation documents and its bid is competitive. Except in cases of emergency or when the operation of NWS site(s) could be interrupted, Stanton Distributing shall be provided with no less than ten days for a bid response from the date of issue of the solicitation documents.</p>
-<h3>Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Restoration and Clean-Up of DEW sites within the Inuvialuit Settlement Region Provisions</h3>
-<h4>Chart Reference # W0161T</h4>
+<h4>Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Restoration and Clean-Up of DEW sites within the Inuvialuit Settlement Region Provisions</h4>
+<h5>Chart Reference # W0161T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 10, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Restoration and Clean-Up of DEW sites within the Inuvialuit Settlement Region, clause 6.1, (b)."</p>
@@ -1227,7 +1227,7 @@
 <li>(b) DND shall include as a term in all contracts between DND and a Contractor for Work that, where the Contractor intends to subcontract or procure goods for Work, the Contractor will first solicit bids from qualified businesses on the list of Inuvialuit Businesses referred to in paragraph 5.2. This process shall not limit other qualified Inuvialuit businesses from bidding as well. At the same time, solicitation documents shall also be provided to the IRC. DND and its Contractors shall be held blameless if qualified Inuvialuit Businesses were not solicited because their name did not appear on the list provided by the IRC.</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0162T</h4>
+<h5>Chart Reference # W0162T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 10, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Restoration and Clean-Up of DEW sites within the Inuvialuit Settlement Region, clauses 4.1 (a); 5.1; 5.2; 6.1, (c)."</p>
@@ -1247,7 +1247,7 @@
 <li>(c) DND shall include as a term in all contracts between DND and a Contractor for Work that where, following a solicitation for bids, a qualified Inuvialuit Business(es) offer(s) a compliant and competitive bid within the time specified in the solicitation documents, and the Contractor decides to execute a contract for that work, the contract will be offered to an Inuvialuit Business. The length of time provided to Inuvialuit businesses to prepare a bid will take into consideration the size and complexity of the work being solicited. In any event, not less than fifteen (15) business days shall be provided for a bid response from the date the solicitation documents are delivered. The Contractor shall determine whether a bid is compliant and competitive and this decision is not subject to the arbitration procedures specified in this Agreement. If it has been determined that a bid response contains minor variances which cause it to be considered not technically compliant or not competitive, the company which submitted the bid will be provided an opportunities to clarify the scope of work and revise its bid accordingly (if required). However, if a Contractor repeatedly determines that Inuvialuit bids are non-compliant in a conscious effort to subvert the objective of this Agreement, the IRC shall have recourse to the Review Committee and if necessary paragraph 4(7) of this Agreement.</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0163T</h4>
+<h5>Chart Reference # W0163T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 10, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Restoration and Clean-Up of DEW sites within the Inuvialuit Settlement Region, clause 6.2, (a)."</p>
@@ -1262,7 +1262,7 @@
 <li>(a) Aklak Air will have the first opportunity to bid on all contracts for the transportation of personnel and freight by fixed wing aircraft for flights originating and terminating within the Inuvialuit Regional Corporation (IRC) or Inuvik;</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0164T</h4>
+<h5>Chart Reference # W0164T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 10, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Restoration and Clean-Up of DEW sites within the Inuvialuit Settlement Region, clause 6.2, (b)."</p>
@@ -1277,7 +1277,7 @@
 <li>(b) The Inuvialuit Projects Inc./Canadian Helicopters Ltd. Joint Venture will have the first opportunity to bid on all contracts for the transportation of personnel and freight by rotary wing aircraft for flights originating and terminating within the Inuvialuit Regional Corporation (IRC) or Inuvik.</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0165T</h4>
+<h5>Chart Reference # W0165T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 10, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Restoration and Clean-Up of DEW sites within the Inuvialuit Settlement Region, clause 6.2, (c)."</p>
@@ -1292,7 +1292,7 @@
 <li>(c) NTCL will have the first opportunity to bid on all contracts for marine transportation and barging of equipment and supplies;</li>
 </ul>
 <hr/>
-<h4>Chart Reference # W0166T</h4>
+<h5>Chart Reference # W0166T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 10, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Restoration and Clean-Up of DEW sites within the Inuvialuit Settlement Region, clause 6.2, (d)."</p>
@@ -1306,7 +1306,7 @@
 <ul class="noBullet">
 <li>(d) Inuvialuit Project Inc. will have the first opportunity to bid on all contracts for camp facilities which are required in addition to any DND owned camp facilities presently located at DEW sites.</li>
 </ul>
-<h4>Chart Reference # W0167T</h4>
+<h5>Chart Reference # W0167T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 10, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Restoration and Clean-Up of DEW sites within the Inuvialuit Settlement Region, clause 6.2, (e)."</p>
@@ -1318,7 +1318,7 @@
 <p>The benefits that apply to this procurement are contained in: section 10, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Restoration and Clean-Up of DEW sites within the Inuvialuit Settlement Region, clause:</p>
 <p>6.2 DND will include as a term in all contracts between DND and a Contractor for Work that the following specific business opportunities for the provision of goods and services associated with the Work shall be provided through the Contractor or Subcontractors as set out in the subclause hereunder. The Contractor will provide the companies, listed below, a length of time to prepare a bid which take into consideration the size and complexity of the work being solicited. In any event, not less than fifteen (15) calendar days shall be provided for a bid response from the date the solicitation documents are delivered. Where, following a solicitation for one of the services set out in this clause, the corresponding Inuvialuit Business has submitted a bid that is technically compliant, competitive and based on the lower of published tariffs (where applicable) or most favoured customer rates (where applicable), and the Contractor decides to execute a contract for that Work, the contract shall be offered to that Inuvialuit Business. If it has been determined that a bid response contains minor variances which cause it to be considered not technically compliant or not competitive, the company which submitted the bid will be provided an opportunity to clarify the scope of work and revise its bid accordingly (if required).</p>
 <p>(e) Stanton Distributing will have the first opportunity to bid on all contracts for groceries and foodstuffs required in association with any camp facilities provided for the Work; and</p>
-<h4>Chart Reference # W0168T</h4>
+<h5>Chart Reference # W0168T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 10, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Restoration and Clean-Up of DEW sites within the Inuvialuit Settlement Region, clause 6.3, (a)."</p>
@@ -1330,7 +1330,7 @@
 <p>The benefits that apply to this procurement are contained in: section 10, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Restoration and Clean-Up of DEW sites within the Inuvialuit Settlement Region, clause:</p>
 <p>6.3 (a) Contractors and Subcontractors shall obtain gravel from the Inuvialuit for all sites on Inuvialuit lands. The specific gravel requirements will be determined by the Contractors and Subcontractors. The gravel required in excess of gravel which has been already quarried and used for other purposes (eg. Runways) at the time of the signing of this Agreement shall be provided by the Inuvialuit Development Corporation (IDC) in accordance with Schedule 3. All other granular material will be procured in accordance with the procedures outlined in clause 6.1.</p>
 <hr/>
-<h4>Chart Reference # W0169T</h4>
+<h5>Chart Reference # W0169T</h5>
 <p><em>Enter SACC clause A9110T (see Annex C) at the beginning of the NPP text box and the bid solicitation.</em></p>
 <p><em>Enter the following sentence at the end of the NPP text box.</em></p>
 <p>"The benefits that apply to this procurement are contained in: section 10, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Restoration and Clean-Up of DEW sites within the Inuvialuit Settlement Region, clause 6.4. (a)"</p>
@@ -1341,8 +1341,8 @@
 <p><strong>Text:</strong></p>
 <p>The benefits that apply to this procurement are contained in: section 10, Co-operation Agreement between the Inuvialuit Regional Corporation and the Department of National Defence Concerning the Restoration and Clean-Up of DEW sites within the Inuvialuit Settlement Region, clause:</p>
 <p>6.4 (a) Subject to 6.4b, DND will dispose of Tier II soils from DEW Line sites at a disposal site outside the Inuvialuit Settlement Region (ISR). NTCL will provide the marine transportation and barging of the soils from Nicholson Peninsula, Cape Parry and Shingle Point to Hay River in accordance with the prices set out in Schedule 4. Transportation rates for soils from the remaining DEW Line sites in the ISR will be established six months prior to soil transportation from these sites and will reflect a similar discount over published tariffs as is the case for Nicholson Peninsula and Cape Parry.</p>
-<h3>Annex C</h3>
-<h4>Clauses Pertaining to Land Claims Set-Aside Policy</h4>
+<h4>Annex C</h4>
+<h5>Clauses Pertaining to Land Claims Set-Aside Policy</h5>
 <p><strong>A9110T (__/__/98) Land Claims Set-Aside</strong></p>
 <p><strong>Remarks:</strong></p>
 <p>Insert the following clause in full text at the beginning of the bid solicitation when the procurement is being set aside under the Land Claims Set-Aside Policy. Ensure that the applicable trade agreement(s) are identified in the clause.</p>

@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-28R</h2>
+<h3 class="pn-content-title">Contenu de l'AP-28R</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 31 août 1998</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 31 août 1998</h4>
 <p>Les renseignements sur les groupes de revendication territoriale énumérés ci-dessous ont été mis à jour afin de refléter des changements au sein de leur numéro de téléphone et/ou télécopieur:</p>
 <ul>
 <li>Inuvialuit Development Corporation</li>
@@ -18,10 +18,10 @@
 <li>Fort Good Hope Metis Nation.</li>
 </ul>
 <p>Ces changements (<strong>Annexe A</strong>) seront incorporés dans la modification 98-3 du <em>Guide des approvisionnements </em>qui sera publiée le 23 novembre 1998.</p>
-<h3>Annexe A</h3>
-<h4>Avis d'achat</h4>
+<h4>Annexe A</h4>
+<h5>Avis d'achat</h5>
 <p>4.007 (__/__98) L'avis d'achat doit être adressé aux groupes revendicateurs concernés. Pour tout achat de biens, de services ou de construction destiné pour les emplacements visés par une revendication territoriale globale, envoyer un facsimilé de l'avis d'achat aux groupes de revendication territoriale mentionnés en vertu de l'entente pertinente :</p>
-<h4>Convention de la Baie James et du Nord québécois</h4>
+<h5>Convention de la Baie James et du Nord québécois</h5>
 <p>Société Makivik<br/>
 					650-32<sup>e</sup> Avenue, 6<sup>e</sup> étage<br/>
 					Lachine (Qué.)<br/>
@@ -52,21 +52,21 @@
 					G0G 2T0<br/>
 					Téléphone : 418-585-2686<br/>
 					Télécopieur : 418-585-3130</p>
-<h4>Convention définitive des Inuvialuit</h4>
+<h5>Convention définitive des Inuvialuit</h5>
 <p>Invialuit Development Corporation<br/>
 					Sac postal n<sup>o</sup> 7<br/>
 					Inuvik (T.N.-O.)<br/>
 					X0E 0T0<br/>
 					Téléphone : 867-777-2419<br/>
 					Télécopieur : 867-777-3256</p>
-<h4>Entente sur la revendication territoriale globale des Gwich'in</h4>
+<h5>Entente sur la revendication territoriale globale des Gwich'in</h5>
 <p>Conseil Tribal des Gwich'in<br/>
 					C.P. 30<br/>
 					Fort MacPherson (T.N.-O.)<br/>
 					X0E 0J0<br/>
 					Téléphone : 867-952-2330<br/>
 					Télécopieur : 867-952-2212</p>
-<h4>Accord sur les revendications territoriales du Nunavut</h4>
+<h5>Accord sur les revendications territoriales du Nunavut</h5>
 <p>Nunavut Tunngavik Incorporated<br/>
 					1510-130, rue Albert<br/>
 					Ottawa (Ont.)<br/>
@@ -127,56 +127,56 @@
 					X0E 0C0<br/>
 					Téléphone : 867-983-2458<br/>
 					Télécopieur : 867-983-2701</p>
-<h4>Entente-cadre finale du Conseil des Indiens du Yukon</h4>
+<h5>Entente-cadre finale du Conseil des Indiens du Yukon</h5>
 <p>Conseil des Premières Nations du Yukon<br/>
 					22, promenade Nisutlin<br/>
 					Whitehorse (Yn)<br/>
 					Y1A 2S5<br/>
 					Téléphone : 867-667-7631<br/>
 					Télécopieur : 867-668-6577</p>
-<h4>Entente définitive des Premières Nations de Champagne et Aishihik</h4>
+<h5>Entente définitive des Premières Nations de Champagne et Aishihik</h5>
 <p>Premières Nations de Champagne et Aishihik<br/>
 					101-307, rue Jarvis<br/>
 					Whitehorse (Yn)<br/>
 					Y1A 2H3<br/>
 					Téléphone : 867-668-3627<br/>
 					Télécopieur : 867-667-6202</p>
-<h4>Entente définitive avec la Première Nation de Little Salmon/Carmacks</h4>
+<h5>Entente définitive avec la Première Nation de Little Salmon/Carmacks</h5>
 <p>Première Nation de Little Salmon/Carmacks<br/>
 					C.P. 135<br/>
 					Carmacks (Yn)<br/>
 					Y0B 1C0<br/>
 					Téléphone : 867-863-5576<br/>
 					Télécopieur : 867-863-5710</p>
-<h4>Entente définitive avec la Première Nation des Nacho Nyak Dun</h4>
+<h5>Entente définitive avec la Première Nation des Nacho Nyak Dun</h5>
 <p>Première Nation des Nacho Nyak Dun<br/>
 					C.P. 220<br/>
 					Mayo (Yn)<br/>
 					Y0B 1M0<br/>
 					Téléphone : 867-996-2265<br/>
 					Télécopieur : 867-996-2107</p>
-<h4>Entente définitive avec la Première Nation de Selkirk</h4>
+<h5>Entente définitive avec la Première Nation de Selkirk</h5>
 <p>Première Nation de Selkirk<br/>
 					C.P. 40<br/>
 					Pelly Crossing (Yn)<br/>
 					Y0B 1P0<br/>
 					Téléphone : 867-537-3331<br/>
 					Télécopieur : 867-537-3902</p>
-<h4>Entente définitive avec le Conseil de Teslin Tlingit</h4>
+<h5>Entente définitive avec le Conseil de Teslin Tlingit</h5>
 <p>Conseil de Teslin Tlingit<br/>
 					C.P. 133<br/>
 					Teslin (Yn)<br/>
 					Y0A 1B0<br/>
 					Téléphone : 867-390-2532<br/>
 					Télécopieur : 867-390-2204</p>
-<h4>Entente définitive avec la Première Nation des Vuntut Gwichin</h4>
+<h5>Entente définitive avec la Première Nation des Vuntut Gwichin</h5>
 <p>Land Claims Department<br/>
 					11, promenade Nisutlin<br/>
 					Whitehorse (Yn)<br/>
 					Y1A 3S4<br/>
 					Téléphone : 867-633-6594<br/>
 					Télécopieur : 867-668-6577</p>
-<h4>Entente sur la revendication territoriale des Dénés et des Métis du Sahtu</h4>
+<h5>Entente sur la revendication territoriale des Dénés et des Métis du Sahtu</h5>
 <p>Fort Good Hope Metis Nation<br/>
 					Land Corporation, locale n<sup>o</sup> 54<br/>
 					Livraison générale<br/>

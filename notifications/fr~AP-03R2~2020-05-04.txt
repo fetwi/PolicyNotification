@@ -1,14 +1,14 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-03R2</h2>
-<h3>Introduction</h3>
+<h3 class="pn-content-title">Contenu de l'AP-03R2</h3>
+<h4>Introduction</h4>
 <p>L’avis relatif aux politiques (AP) 03R2 a pour but d’informer l’équipe du Programme des approvisionnements (PA) des changements aux exigences de la politique concernant les marchés avec d’anciens fonctionnaires touchant une pension ou un paiement forfaitaire.</p>
-<h3>Date d’entrée en vigueur</h3>
+<h4>Date d’entrée en vigueur</h4>
 <p>Le présent avis relatif aux politiques entre en vigueur immédiatement. </p>
-<h3>Exigences de la politique</h3>
+<h4>Exigences de la politique</h4>
 <p>Afin de refléter la modernisation de la fonction de contrôleur et la surveillance axée sur les risques, les exigences pour l’approbation de contrats de services avec d’anciens fonctionnaires touchant une pension ont été modifiées. <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/avis-politique/modifications-pouvoirs-marche-approbation-nouvelles-exigences.html" rel="external">L’Appendice C - Partie I : pouvoirs de marchés de base de la Directive sur les marchés du Conseil du Trésor</a> démontre les changements suivants :  </p>
-<h4>Approbations de marchés non concurrentiels conclus avec d’anciens fonctionnaires</h4>
+<h5>Approbations de marchés non concurrentiels conclus avec d’anciens fonctionnaires</h5>
 <p>Le ministre compétent doit dorénavant donner son approbation avant de conclure un marché de services <strong>non concurrentiel</strong> avec un ancien fonctionnaire en la présence d’une des conditions suivantes :</p>
 <ul>
 <li>l’ancien fonctionnaire touche une pension en vertu de la <cite>Loi sur la pension de la fonction publique </cite>(LPFP) et la valeur totale du marché est estimée à plus de 200 000 $;</li>
@@ -16,20 +16,20 @@
 <li>l’ancien fonctionnaire reçoit un paiement forfaitaire, alors que les honoraires payables sont supérieurs à 5 000 $ durant la période du paiement forfaitaire, conformément à la <cite>Directive sur le réaménagement des effectifs</cite> établie en vertu de la <cite>Loi sur la rémunération du secteur public</cite>, ou un ancien membre des Forces armées canadiennes ou de la Gendarmerie royale du Canada reçoit un paiement forfaitaire dans le cadre des programmes de réduction des Forces correspondants, peu importe s’il est question d’un ou de plusieurs marchés.</li>
 </ul>
 <p>L’approbation du <abbr title="Conseil du Trésor">CT</abbr> n’est plus requise dans ces cas ci. </p>
-<h4>Marchés concurrentiels conclus avec d’anciens fonctionnaires</h4>
+<h5>Marchés concurrentiels conclus avec d’anciens fonctionnaires</h5>
 <p>Tous les marchés de services concurrentiels ou accords contractuels avec un ancien fonctionnaire qui touche une pension sont assujettis aux pouvoirs de conclusion des marchés délégués par le ministre.</p>
-<h4>Réduction facultative des honoraires pour les marchés non concurrentiels</h4>
+<h5>Réduction facultative des honoraires pour les marchés non concurrentiels</h5>
 <p>La formule de la réduction des honoraires, peut être appliquée à un salaire comme moyen d’établissement des honoraires ou taux justes et raisonnables, n’est plus obligatoire, mais demeure un outil pratique facultatif pour gérer les coûts dans le cadre de marchés non concurrentiels. </p>
 <p>Pour déterminer s’il y a lieu d’appliquer la formule, les agents de négociation de contrats du Programme des approvisionnements peuvent aussi tenir compte de la similitude entre le travail à effectuer dans le cadre du contrat  et le travail effectué par l’entrepreneur à titre de fonctionnaire, (<abbr title="id est">i.e.</abbr> par rapport à un sous-ensemble du travail effectué ou au degré de spécialisation, et comparer la rémunération aux modèles de rémunération de la fonction publique pour des catégories semblables.)</p>
-<h3>Résumé des modifications</h3>
-<h4>Changements au Guide des approvisionnements (GDA) :</h4>
+<h4>Résumé des modifications</h4>
+<h5>Changements au Guide des approvisionnements (GDA) :</h5>
 <p>À l’appui de l’<abbr title="avis relatif aux politiques">AP</abbr>-03R2, le Guide des approvisionnements a été mis à jour. Pour plus de détails, veuillez consulter les Sections du Guide des approvisionnements visées ci-dessous.</p>
-<h4>Changements au Guide des clauses et conditions uniformisées d'achat (CCUA) :</h4>
+<h5>Changements au Guide des clauses et conditions uniformisées d'achat (CCUA) :</h5>
 <p>À l’appui de l’<abbr title="avis relatif aux politiques">AP</abbr>-03R2, le Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> a été mis à jour. Pour plus de détails, veuillez consulter les Items du guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés ci-dessous.</p>
-<h3>Coordonnées pour les demandes de renseignements</h3>
+<h4>Coordonnées pour les demandes de renseignements</h4>
 <p>Pour obtenir de l’aide concernant les nouvelles obligations, veuillez transmettre un courriel à l’adresse  <a href="mailto:TPSGC.PAPolitiques-APPolicy.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PAPolitiques-APPolicy.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
+<h5 class="field-label">Sections du Guide des approvisionnements visées</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-8fb15702d9bf5e58981fc4130b02ac09">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -41,7 +41,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
+<h5 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-90f93c6b2af47abefbd073b9f1ec941a">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-94U1</h2>
+<h3 class="pn-content-title">Content of PN-94U1</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p><em>Note: This document is a supplement to PN-94 and should be read in conjunction with PN-94.</em></p>
-<h3>Introduction </h3>
+<h4>Introduction </h4>
 <p>This policy notification will help determine what is the place of supply for transactions for the acquisition of software licences that are supplies of intangible personal property. The determination of the place of supply determines in which province a supply is made and thus determines what rate of tax applies.</p>
-<h3>Place of Supply Rules for intangible personal property as they apply to the acquisition of software licences</h3>
+<h4>Place of Supply Rules for intangible personal property as they apply to the acquisition of software licences</h4>
 <p>For software licenses that can legally be used by the Government of Canada anywhere in Canada, as per the terms of the contract, the place of supply is deemed to be in the province of the contracting authority as it appears in the contract when first awarded.</p>
 <p>For software licences for which the use is legally limited to a specific geographical location, as per the terms of the contract, the place of supply is deemed to be in the province of that specific location.</p>
 <p>For software licences that do not fall into the two above-stated situations, contracting officers are instructed to consult the <a href="http://www.cra-arc.gc.ca/E/pub/gm/b-103/b-103-e.pdf" rel="external"><abbr title="Goods and Services Tax / Harmonized Sales Tax">GST/HST</abbr> Technical Information Bulletin B-103 (June 2010) (PDF Version 533Kb)</a> (<a class="help" href="https://www.canada.ca/en/public-services-procurement/services/acquisitions/better-buying/reducing-barriers/improving-accessibility.html"><em class="mediumFont">Help on File Formats</em></a>) or contact the Canada Revenue Agency.</p>
-<h3>Acquisitions Branch Contact</h3>
+<h4>Acquisitions Branch Contact</h4>
 <p>Olivier Lalande<br/>
 	 Acquisition Policy and Process Directorate<br/>
 	 Policy, Risk, Integrity and Strategic Management Sector<br/>
@@ -17,7 +17,7 @@
 	 Public Works and Government Services Canada<br/>
 	 819-956-0166<br/>
 <a href="mailto:olivier.lalande@pwgsc-tpsgc.gc.ca" rel="external">olivier.lalande@pwgsc-tpsgc.gc.ca</a></p>
-<h3>Canada Revenue Agency Contact</h3>
+<h4>Canada Revenue Agency Contact</h4>
 <p><em>Contact information to be provided under separate cover.</em></p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
 </div>

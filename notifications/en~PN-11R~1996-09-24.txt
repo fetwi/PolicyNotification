@@ -1,21 +1,21 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-11R</h2>
+<h3 class="pn-content-title">Content of PN-11R</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>VENDOR PERFORMANCE CLAUSE</h3>
-<h4>Use of Vendor Performance Clause</h4>
-<h5>Authority to Reject a Bid</h5>
+<h4>VENDOR PERFORMANCE CLAUSE</h4>
+<h5>Use of Vendor Performance Clause</h5>
+<h6>Authority to Reject a Bid</h6>
 <p>Authority to reject a bid under the Vendor Performance Clause (A9100T) rests with the officer responsible for evaluating bids; except that in the case of bids being considered for rejection pursuant to 1(d)(2), 1(d)(3) or 1(d)(4), the authority to reject a bid rests with the appropriate Director General.</p>
-<h5>Notice to the Bidder</h5>
+<h6>Notice to the Bidder</h6>
 <p>Notice of intent to reject a bid pursuant to this Clause will be given by telephone, and followed by confirming facsimile or letter, except that a bidder excluded under 1(b) will not be notified. The call must be made to an employee of the bidder, with clear and directly related management responsibilities. Notice is considered to have been received by the rejected supplier at the time of the telephone call. The person making the call must note on the file the date and time of the call, and the person spoken to.</p>
-<h5>Contents of Notice:</h5>
+<h6>Contents of Notice:</h6>
 <p>The notice must set out the facts and the reasons for the decision to reject the bid. For example: Where a supplier with a record of persistent lateness, but as yet not subject to a VPCM, is excluded from a procurement where timeliness is critical, the notice would cite the contracts on which the supplier was late (facts) and state that this record shows an unacceptable risk in light of the critical nature of the time requirement in the present procurement (reason).</p>
 <p>Where a bid is being rejected under 1(c), it is sufficient to cite the VPCM.</p>
-<h5>Review</h5>
+<h6>Review</h6>
 <p>A bidder, except a bidder excluded under 1(b), may have the decision to reject reviewed by the Assistant Deputy Minister, Supply Operations Service Branch. It is entirely in the ADM/SOSB's discretion, whether the bid evaluation and contract award process will be held up, to give time to review the decision.</p>
 <p>A review by the ADM/SOSB will result in an investigation, and a decision. Such a decision can have effect beyond the particular procurement from which the supplier has been rejected. When the decision has been made, the bidder will be informed of the results, in writing.</p>
 <hr/>
-<h3>A9100T Vendor Performance</h3>
+<h4>A9100T Vendor Performance</h4>
 <p><strong>Remarks:</strong> This clause is to be used in all <em>competitive</em> bid solicitations.</p>
 <p>1. Canada may reject a bid where any of the following circumstances is present:</p>
 <ol type="a">
@@ -47,7 +47,7 @@
 </ol>
 <p>2. Where Canada intends to reject a bid pursuant to a provision of paragraph 1, other than 1(b), the Contracting Authority will so inform the Bidder and provide the Bidder ten (10) days within which to make representations, prior to making a final decision on the bid rejection.</p>
 <hr/>
-<h3>A9100T Vendor Performance</h3>
+<h4>A9100T Vendor Performance</h4>
 <p><strong>Remarks:</strong> This clause is to be used in all <em>competitive</em> bid solicitations.</p>
 <p>1. Canada may reject a bid where any of the following circumstances is present:</p>
 <ol type="a">

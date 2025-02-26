@@ -1,18 +1,18 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-71</h2>
+<h3 class="pn-content-title">Contenu de l'AP-71</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 31 mars 2005</h3>
-<h4>Introduction</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 31 mars 2005</h4>
+<h5>Introduction</h5>
 <p>L'objectif de cet Avis relatif aux politiques (AP) consiste à adopter et à mettre en œuvre les Modèles uniformisés d'approvisionnement ministériel en langage clair, incluant les nouvelles instructions uniformisées et les nouvelles conditions qui seront utilisées par les agents de négociation des contrats de Travaux publics et Services gouvernementaux Canada (TPSGC) pour l'acquisition de biens ou de services (sauf les travaux de construction).</p>
-<h4>Politique</h4>
+<h5>Politique</h5>
 <p>À partir du 10 juin 2005, les agents de négociation des contrats de TPSGC doivent utiliser les Modèles uniformisés pour les documents d'approvisionnement ministériel en langage clair dans les marchés de faible valeur (FV) et les marchés de complexité moyenne pour les biens ou services attribués ou non en régime de concurrence.</p>
 <p>Afin d'assurer l'uniformité de la présentation des documents d'approvisionnement du Ministère, les agents de négociation des contrats ne doivent pas modifier ou changer l'ordre et le contenu de ces modèles uniformisés, sauf dans les cas indiqués.</p>
 <p>Les nouveaux modèles de demande de soumissions et de contrat, les nouvelles instructions uniformisées et les nouvelles conditions générales doivent être utilisés pour les marchés FV et de complexité moyenne pour les biens ou les services conformément au tableau ci-après.</p>
@@ -50,12 +50,12 @@
 </tbody></table>
 <p>* Les instructions et conditions uniformisées 9403 et 9403-5 du Guide des clauses et conditions uniformisées d'achat (CCUA) continueront d'être en vigueur pour les marchés autres que les marchés de FV et de complexité moyenne. Les conditions générales 9628, 9329 et 9601-10 seront annulées le 10 juin 2005.</p>
 <p>Les Modèles uniformisés pour les documents d'approvisionnement ministériels en langage clair seront publiés dans la version de juin2005 du Guide des CCUA conformément aux modalités reproduites dans <a href="#AP-71anna">l'Annexe A</a>.</p>
-<h4>Contexte</h4>
+<h5>Contexte</h5>
 <p>Dans le Rapport final du Groupe de travail du secrétaire parlementaire de janvier 2005 sur l'examen des approvisionnements de l'ensemble du gouvernement, on précise que la terminologie des approvisionnements doit être normalisée et qu'on doit élaborer des documents uniformisés en langage clair afin de permettre de simplifier et de rentabiliser le processus d'attribution des contrats.</p>
 <p>Dans le Plan d'affaires de la Direction générale des approvisionnements (pour la période de 2004-2005 à 2006-2007), on précise que l'élaboration de Modèles uniformisés pour les documents d'approvisionnement ministériel en langage clair constitue une priorité essentielle du Ministère.</p>
 <p>L'objectif de cette initiative consiste à normaliser la terminologie des approvisionnements, à simplifier le langage et à assurer une plus grande uniformité dans les documents d'approvisionnement publiés par le Ministère (en uniformisant la présentation de ces documents).</p>
 <p>Des modèles pour trois types différents de marchés de biens et de services à attribuer ou non en régime de concurrence ont été établis, conformément aux modalités ci-après.</p>
-<h5>1. Marchés de faible valeur de moins de 25000 $ (en tenant compte des taxes applicables)</h5>
+<h6>1. Marchés de faible valeur de moins de 25000 $ (en tenant compte des taxes applicables)</h6>
 <p><strong>Ces marchés comprennent :</strong></p>
 <ul>
 <li>les marchés dont les risques sont faibles</li>
@@ -75,7 +75,7 @@
 <li>les marchés de la Corporation commerciale canadienne (CCC)</li>
 <li>les besoins et les marchés réservés aux entreprises autochtones</li>
 </ul>
-<h5>2. Marchés de complexité moyenne</h5>
+<h6>2. Marchés de complexité moyenne</h6>
 <p><strong>Ces marchés comprennent :</strong></p>
 <ul>
 <li>les marchés dont le risque est moyen</li>
@@ -93,7 +93,7 @@
 <li>les marchés des Services immobiliers (SI)</li>
 <li>les marchés de la CCC</li>
 </ul>
-<h5>3. Marchés plus complexes (en voie de développement)</h5>
+<h6>3. Marchés plus complexes (en voie de développement)</h6>
 <p><strong>Ces marchés comprennent :</strong></p>
 <ul>
 <li>les marchés comportant des risques plus importants</li>
@@ -111,24 +111,24 @@
 <li>les marchés des Services immobiliers (SI)</li>
 <li>les marchés de la CCC</li>
 </ul>
-<h4>Grands projets de l'État et autres marchés</h4>
+<h5>Grands projets de l'État et autres marchés</h5>
 <p>Il s'agit des grands projets de l'État ou des marchés pour lesquels les clauses et les conditions uniformisées ne s'appliquent généralement pas et qui s'inscrivent entièrement dans le cadre d'une recherche stratégique prospective de solutions (par exemple, pour les marchés de gestion de l'information et de technologie de l'information (GI-TI), la Voie de communication protégée, le Marché en direct du gouvernement du Canada (MDGC) et le projet des hélicoptères maritimes (PHM), entre autres).</p>
 <p>Ces marchés ne sont pas visés par cette initiative.</p>
-<h4>Mise en œuvre</h4>
+<h5>Mise en œuvre</h5>
 <p>L'Annexe A renferme les nouvelles Instructions uniformisées 2003, les nouvelles Conditions générales 2029, les nouvelles Conditions générales 2010 et les modèles des marchés de faible valeur (FV) et de complexité moyenne, qui seront publiés dans la version de juin2005 du Guide des CCUA et du Guide des approvisionnements (GA). Ces documents seront également diffusés sur Internet; les clauses reproduites dans les modèles de documents (pour les marchés de FV et de complexité moyenne) seront diffusés dans l'EAA (Environnement automatisé de l'acheteur) à titre de clauses locales.</p>
 <p>Les agents de négociation des contrats devront se servir de ces documents pour les marchés de FV et de complexité moyenne au plus tard à compter du 10 juin 2005.</p>
-<h4>Exemple utilisant le modèle</h4>
+<h5>Exemple utilisant le modèle</h5>
 <p>Un exemple d'un marché de FV utilisant le modèle de marché de FV est inclus à <a href="#AP-71annc">l'Annexe C</a>.</p>
-<h4>Formation</h4>
+<h5>Formation</h5>
 <p>Avant la date prévue pour la mise en œuvre, des séances d'information seront organisées par la division des outils relatifs au processus d'approvisionnement pour présenter aux gestionnaires des approvisionnements de l'information sur l'application et l'utilisation de ces documents. Ces gestionnaires transmettront ensuite cette information aux agents de négociation des contrats. Ces derniers devront adresser leurs questions à leur gestionnaire des approvisionnements, qui les fera suivre, s'il y a lieu, au responsable dont le nom est indiqué ci-après.</p>
-<h4>Étapes suivantes</h4>
+<h5>Étapes suivantes</h5>
 <p>Le Groupe de travail sur le langage clair examinera et élaborera les documents uniformisés (à savoir, des modèles, des instructions uniformisées et des conditions générales en langage clair pour des demandes de soumissions et les contrats) pour les marchés plus complexes, pour les arrangements en matière d'approvisionnement et pour les offres à commandes.</p>
 <p>La division des outils relatifs au processus d'approvisionnement est responsable de la mise à jour continue des Modèles uniformisés d'approvisionnement ministériel en langage clair, des instructions uniformisées et des conditions générales pour les marchés de FV et de complexité moyenne; toutes les modifications apportées à ces documents seront publiées dans les versions ultérieures du Guide des CCUA et du Guide des approvisionnements.</p>
 <p>Ces documents seront également diffusés sur Internet; les clauses reproduites dans les modèles de documents (pour les marchés de FV et de complexité moyenne) seront diffusés dans l'EAA (Environnement automatisé de l'acheteur), à titre de clauses locales.</p>
-<h4>Responsable à contacter</h4>
+<h5>Responsable à contacter</h5>
 <p><strong>S/O</strong></p>
 <hr/>
-<h4>Pièces jointes</h4>
+<h5>Pièces jointes</h5>
 <p><a href="#AP-71anna">Annexe A</a> </p>
 <ul>
 <li><a href="#AP-71anna">Appendice 1</a> - Procédures pour l'utilisation des modèles pour les marchés de FV et les marchés de complexité moyenne</li>
@@ -141,10 +141,10 @@
 <p> <a href="#AP-71annb">Annexe B</a> - Guide des approvisionnements<br/>
 <a href="#AP-71annc">Annexe C</a> - Exemple d'un besoin de FV utilisant le modèle de marché de FV</p>
 <hr/>
-<h4><a id="AP-71anna" name="anna"></a>APPENDICE 1 DE L'ANNEXE A</h4>
-<h5>2T-PROC1 Procédures pour l'utilisation des modèles pour les marchés de FV et les marchés de complexité moyenne</h5>
+<h5><a id="AP-71anna" name="anna"></a>APPENDICE 1 DE L'ANNEXE A</h5>
+<h6>2T-PROC1 Procédures pour l'utilisation des modèles pour les marchés de FV et les marchés de complexité moyenne</h6>
 <p>Les agents de négociation des contrats doivent utiliser les documents pour les marchés de faible valeur et les marchés de complexité moyenne conformément aux présentes procédures.</p>
-<h5>Marchés de faible valeur et de complexité moyenne attribués en régime de concurrence ou sans concurrence</h5>
+<h6>Marchés de faible valeur et de complexité moyenne attribués en régime de concurrence ou sans concurrence</h6>
 <p>Les Modèles uniformisés d'approvisionnement ministériel en langage clair, ainsi que les Instructions uniformisées et les Conditions générales ont été élaborés, de concert avec les Services juridiques de TPSGC et ces modèles doivent être utilisés pour les marchés de biens ou de services uniformisés et bien définis qui sont attribués en régime de concurrence ou sans concurrence (en source unique). Les Instructions uniformisées 2003 – Biens ou services doivent être utilisées en remplacement des Instructions et conditions uniformisées 9403 et 9403-5 pour les marchés de FV et de complexité moyenne. Les Conditions générales 2029 – Bien sou services doivent être utilisées en remplacement des Conditions générales 9329 et des Conditions générales 9628 pour les marchés de FV. Les Conditions générales 2010 – Biens ou services doivent être utilisées en remplacement des Conditions générales 9601-10. Les Instructions et conditions uniformisées 9403 et 9403-5 continueront d'être en vigueur dans le guide des Clauses et conditions uniformisées d'achat (CCUA) pour les marchés qui ne sont pas des marchés de FV et de complexité moyenne. Les Conditions générales 9628, 9329 et 9601-10 sont annulées.</p>
 <p>Il est possible d'ajouter les clauses du Guide des CCUA dans les modèles de demandes de soumissions et de contrat dans les cas nécessaires, en fonction des différents marchés et à la condition qu'elles ne soient pas déjà comprises dans les Instructions uniformisées 2003 – Biens ou services, dans les nouvelles Conditions générales 2029 – Biens ou services ou dans les nouvelles Conditions générales 2010 – Biens ou services. Les agents de négociation des contrats peuvent ajouter, le cas échéant, d'autres clauses aux modèles, conformément aux modalités suivantes :</p>
 <ul>
@@ -153,7 +153,7 @@
 <li>d'autres clauses pertinentes peuvent être ajoutées dans la section correspondante pour répondre aux besoins relatifs aux biens ou aux services dans les modèles, selon le cas;</li>
 <li>des annexes peuvent être ajoutées pour certains biens ou services si nécessaire.</li>
 </ul>
-<h5>MODÈLES</h5>
+<h6>MODÈLES</h6>
 <p><strong>1. 2T- FV1 Modèle de demande de soumissions et de contrat pour les marchés de faible valeur (FV) pour les biens ou les services :</strong> le modèle de demande de soumissions comprend les nouvelles Instructions uniformisées 2003 – Bien sou services, qui sont intégrées par renvoi. Le modèle de contrat comprend les nouvelles Conditions générales 2029 – Biens ou services, qui sont intégrées par renvoi. Le modèle de contrat s'appliquera lorsqu'on demande des offres de prix dans le cadre d'une Demande de prix (DPrix) ou d'achats par téléphone pour des marchés attribués en régime de concurrence et qu'on accepte le prix le plus bas, ou encore lorsqu'on demande des prix dans le cadre d'une DPrix ou d'un achat par téléphone pour les marchés attribués sans concurrence à des fournisseurs uniques. Lorsqu'on ne lance pas de demande de soumissions, il faut supprimer la Partie1 et le titre « Partie 2 – Clauses du contrat» avant de reproduire ces clauses.</p>
 <p><strong>2. 2T- MED1 Modèle de demande de soumissions et de contrat pour les marchés de complexité moyenne pour les biens ou les services :</strong> le modèle de la demande de soumissions comprend les Instructions uniformisées 2003 – Bien sou services, qui sont intégrées par renvoi. Le modèle de contrat comprend les Conditions générales 2010 – Bien sou services, qui sont intégrées par renvoi. Lorsqu'on ne lance pas de demande de soumissions, on doit conserver la Partie4 seulement du document et supprimer le titre «Partie 4 – Clauses du contrat» avant de reproduire ces clauses.</p>
 <p><strong>3. Notes pour les modèles :</strong><br/>
@@ -161,17 +161,17 @@
 <p>Les modèles de demande de soumissions et les modèles de contrat comprennent des instructions. Il faut supprimer toute cette information avant de publier les documents.</p>
 <p>En anglais, les mots « Contractor », « Bidder », « Work », « Contract » et « Contracting Authority » prennent une majuscule lorqu'ils sont au singulier and quand ils sont précédés par « the » parce qu'à l'exception de « Bidder », ils sont définis au contrat. <br/>
 					La règle pour les majuscules ne s'appliquent pas en français.</p>
-<h4>PARTIE I - MARCHÉS DE FAIBLE VALEUR (FV) ET DE COMPLEXITÉ MOYENNE -<br/>
-					BIENS OU SERVICES</h4>
-<h4><a id="AP-71app2" name="app2"></a>APPENDICE 2 DE L'ANNEXE A</h4>
-<h5>Les Instructions uniformisées - Biens ou services 2003 (2005-06-10) doivent être utilisées pour les marchés suivants :</h5>
+<h5>PARTIE I - MARCHÉS DE FAIBLE VALEUR (FV) ET DE COMPLEXITÉ MOYENNE -<br/>
+					BIENS OU SERVICES</h5>
+<h5><a id="AP-71app2" name="app2"></a>APPENDICE 2 DE L'ANNEXE A</h5>
+<h6>Les Instructions uniformisées - Biens ou services 2003 (2005-06-10) doivent être utilisées pour les marchés suivants :</h6>
 <ul>
 <li>marchés de faible valeur attribués ou non * en régime de concurrence - Biens ou services</li>
 <li>marchés de complexité moyenne attribués ou non * en régime de concurrence - Biens ou services<br/>
 <em>* Non concurrentiel : En source unique lorsque le modèle de demande de soumissions pour les marches de FV est utilisé.</em></li>
 </ul>
 <hr/>
-<h5>2003 (2005-06-10) Instructions uniformisées - Biens ou services</h5>
+<h6>2003 (2005-06-10) Instructions uniformisées - Biens ou services</h6>
 <p>Travaux publics et Services gouvernementaux Canada</p>
 <ul class="noBullet">
 <li>01. Numéro d'entreprise – approvisionnement</li>
@@ -189,11 +189,11 @@
 <li>13. Coûts relatifs aux soumissions</li>
 <li>14. Autres renseignements</li>
 </ul>
-<h5>01. Numéro d'entreprise – approvisionnement</h5>
+<h6>01. Numéro d'entreprise – approvisionnement</h6>
 <p>Les fournisseurs canadiens doivent avoir un Numéro d'entreprise – approvisionnement (NEA) avant de se voir attribuer un contrat. Les fournisseurs peuvent s'inscrire pour obtenir un NEA du système Données d'inscription des fournisseurs (DIF) en se rendant au site Internet de Achats et ventes (<a href="https://achatscanada.canada.ca/fr">https://achatsetventes.gc.ca/</a>). Pour s'inscrire autrement que par Internet, les fournisseurs peuvent communiquer avec la Ligne Info de Achats et ventes au 1-800-811-1148 ou au 819-956-3440 dans la région de la capitale nationale afin d'obtenir le numéro de téléphone de l'agent d'inscription des fournisseurs le plus près de chez eux.</p>
-<h5>02. Instructions, conditions et clauses</h5>
+<h6>02. Instructions, conditions et clauses</h6>
 <p><em>Conformément à la Loi sur le ministère des Travaux publics et des Services gouvernementaux</em>, L.C., 1996, ch. 16, les instructions, les conditions et les clauses identifiées par un titre, un numéro et une date dans la demande de soumissions sont incorporées par renvoi à la demande de soumissions et dans tout contrat subséquent et en font partie intégrante comme si elles y étaient formellement reproduites.</p>
-<h5>03. Présentation des soumissions</h5>
+<h6>03. Présentation des soumissions</h6>
 <p>1) Le Canada exige que chaque soumission soit signée par le soumissionnaire ou par son représentant autorisé à cet effet. Si une soumission est déposée par un consortium, elle doit indiquer clairement qu'il s'agit d'un consortium et elle doit être signée par tous les membres de ce consortium ou être accompagnée d'une déclaration précisant que le signataire représente tous les membres du consortium.</p>
 <p>2) Il appartient au soumissionnaire :</p>
 <ol type="a">
@@ -212,9 +212,9 @@
 <p>Bien que le Canada se réserve le droit d'attribuer les contrats FAB usine ou destination, on demande aux soumissionnaires de proposer des prix FAB à leur usine ou à leur point d'expédition ou Incoterm selon les modalités indiquées dans la demande de soumissions.</p>
 <p>8) Les soumissions reçues à la date et à l'heure de clôture stipulées ou avant deviendront la propriété du Canada et ne seront pas retournées à leur expéditeur. Toutes les soumissions seront traitées comme des documents confidentiels, sous réserve des dispositions de la <em>Loi sur l'accès à l'information, L.R. 1985, ch. A-1</em> et de la <em>Loi sur la protection des renseignements personnels, L.R. 1985, ch. P-21</em>.</p>
 <p>9) Sauf dans les cas prévus expressément ailleurs dans la demande de soumissions, le Canada évaluera la soumission du soumissionnaire d'après la documentation qui accompagnera cette soumission. Le Canada ne tiendra pas compte lors de l'évaluation de la soumission des renvois à de l'information supplémentaire qui n'accompagne pas la soumission comme les adresses de sites Web où l'on peut trouver de plus amples renseignements ou les manuels ou les brochures techniques qui n'accompagnent pas la soumission.</p>
-<h5>04. Soumissions déposées en retard</h5>
+<h6>04. Soumissions déposées en retard</h6>
 <p>TPSGC renverra les soumissions livrées après la date et l'heure de clôture stipulées, à moins que ces soumissions ne soient considérées comme des soumissions retardées selon les circonstances énoncées ci-dessous.</p>
-<h5>05. Soumissions retardées</h5>
+<h6>05. Soumissions retardées</h6>
 <p>1) Une soumission livrée à l'unité de réception désigné après l'heure et la date de clôture, mais avant l'adjudication du contrat, peut être prise en considération, à condition que le soumissionnaire puisse prouver que le retard est dû uniquement à un délai de livraison dont la SCP (ou l'équivalent national d'un pays étranger) est responsable. On ne considère pas que Purolator Inc. fait partie de la SCP pour l'application de cette clause sur les soumissions retardées. Les seules preuves acceptées par TPSGC pour justifier un retard dû au service de la SCP sont les suivantes :</p>
 <ol type="a">
 <li>un timbre à date d'oblitération de la SCP; ou</li>
@@ -225,7 +225,7 @@
 <p>2) Pour les soumissions transmises par télécopieur, seulement la date, l'heure et l'endroit consignées par TPSGC serviront comme preuve d'une soumission retardée.</p>
 <p>3) TPSGC n'acceptera pas les soumissions qui sont reçues en retard en raison d'une erreur d'acheminement, du volume de trafic, de perturbations atmosphériques, de conflits du travail ou d'autres motifs.</p>
 <p>4) Le timbre de machine à affranchir, qu'il soit apposé par le soumissionnaire, la SCP ou le service postal d'un pays étranger, ne constitue pas une preuve que la soumission a été expédiée à temps.</p>
-<h5>06. Réponses transmises par télécopieur</h5>
+<h6>06. Réponses transmises par télécopieur</h6>
 <p>1) À moins d'instructions contraires dans la demande de soumissions, les soumissions peuvent être transmises par télécopieur. Le seul numéro de télécopieur valide pour la réception des réponses aux demandes de soumissions lancées par les secteurs de l'administration centrale de TPSGC est le 819-997-9776. Le numéro de télécopieur pour la réception des demandes de soumissions lancées par les bureaux régionaux de TPSGC est indiqué dans la demande de soumissions.</p>
 <p>2) Si le soumissionnaire choisit de faire parvenir sa soumission par télécopieur, le Canada ne sera responsable d'aucune défaillance attribuable à l'utilisation de ce mode de transmission ou de réception. Entre autres, il n'assumera aucune responsabilité pour ce qui suit :</p>
 <ol type="a">
@@ -238,11 +238,11 @@
 <li>sécurité des données incluses dans la soumission.</li>
 </ol>
 <p>3) Les soumissions transmises par télécopieur constitueront les offres officielles des soumissionnaires et devront être présentées conformément à la section 03 (Présentation des soumissions). Pour les soumissions transmises par télécopieur, une confirmation écrite doit être déposée dans un délai de deux (2) jours ouvrables suivant la date de clôture de la demande de soumissions, sauf instructions contraires dans la demande de soumissions. Tous les documents servant à confirmer la soumission devraient porter la mention ”CONFIRMATION”.</p>
-<h5>07. Dédouanement</h5>
+<h6>07. Dédouanement</h6>
 <p>Le soumissionnaire a la responsabilité de prévoir un délai suffisant pour obtenir un dédouanement, lorsqu'il y a lieu, avant la date et l'heure de clôture des soumissions. Les retards dus à l'obtention d'un dédouanement ne peuvent être considérés comme des « retards imprévus dus au service postal » et ne seront pas admissibles pour justifier les soumissions en retard.</p>
-<h5>08. Capacité juridique</h5>
+<h6>08. Capacité juridique</h6>
 <p>Le soumissionnaire doit avoir la capacité juridique de contracter. Si le soumissionnaire est une entreprise à propriétaire unique, une société de personnes ou une personne morale, il doit fournir, à la demande de l'autorité contractante, une déclaration et toutes les pièces justificatives demandées indiquant les lois en vertu desquelles son entreprise est incorporée ou enregistrée, ainsi que sa dénomination sociale et son lieu d'affaires. Ce qui précède s'applique également si le soumissionnaire est un consortium.</p>
-<h5>09. Droits du Canada</h5>
+<h6>09. Droits du Canada</h6>
 <p>Le Canada se réserve le droit :</p>
 <ol type="a">
 <li>de rejeter l'une quelconque ou la totalité des soumissions reçues en réponse à la demande de soumissions;</li>
@@ -253,7 +253,7 @@
 <li>si aucune soumission conforme n'est déposée et que le besoin n'est pas modifié substantiellement, de relancer la demande de soumission en invitant uniquement les soumissionnaires qui ont déposé des soumissions à déposer de nouveau leur soumission dans un délai indiqué par le Canada</li>
 <li>de négocier avec le seul soumissionnaire qui a déposé une soumission conforme pour s'assurer que le Canada profitera du meilleur rapport qualité/prix.</li>
 </ol>
-<h5>10. Rendement du fournisseur</h5>
+<h6>10. Rendement du fournisseur</h6>
 <p>1) Le Canada peut rejeter une soumission dans l'un des cas suivants :</p>
 <ol type="a">
 <li>le soumissionnaire ou l'un de ses employés ou sous-traitants visé dans la soumission a été reconnu coupable en vertu de l'article 121 («Fraudes envers le gouvernement» et «Entrepreneur qui souscrit à une caisse électorale »), 124 («Achat ou vente d'une charge») ou 418 (« Vente d'approvisionnements défectueux à Sa Majesté ») du Code criminel;</li>
@@ -269,10 +269,10 @@
 </li>
 </ol>
 <p>2) Dans le cas où le Canada a l'intention de rejeter une soumission conformément à l'alinéa 1 pour des motifs distincts de ceux exposés à l'alinéa 1(b), l'autorité contractante le fera savoir au soumissionnaire et lui donnera un délai de dix (10) jours pour faire valoir son point de vue, avant de rendre une décision définitive sur le rejet de la soumission.</p>
-<h5>11. Communications en période de soumission</h5>
+<h6>11. Communications en période de soumission</h6>
 <p>Afin d'assurer l'intégrité du processus d'appel à la concurrence, toutes les demandes de renseignements, et autres communications relativement à la demande de soumissions, de la date de publication à la date de clôture, doivent être adressées par écrit, UNIQUEMENT à la personne dont le nom figure dans la demande de soumissions. Le défaut de se conformer à la présente pourra (pour cette seule raison) entraîner le rejet de la soumission.</p>
 <p>Afin que tous les soumissionnaires reçoivent la même information et que celle-ci soit de qualité égale, les demandes de renseignements importantes reçues, ainsi que les réponses à ces demandes, seront fournies simultanément à tous les soumissionnaires qui auront reçu la demande de soumissions sans que le nom de l'auteur ne soit mentionné.</p>
-<h5>12. Support des prix</h5>
+<h6>12. Support des prix</h6>
 <p>Lorsque la soumission soumise par un soumissionnaire est la seule soumission jugée recevable, le soumissionnaire doit fournir sur demande, au Canada, un ou plusieurs des documents suivants pour justifier le prix, si cela s'applique :</p>
 <ol type="a">
 <li>la liste de prix publiée la plus récente, indiquant l'escompte, en pourcentage, offert au ministère des Travaux publics et des Services gouvernementaux;</li>
@@ -281,15 +281,15 @@
 <li>des attestations de prix ou de taux;</li>
 <li>toutes autres pièces justificatives demandées par le Canada.</li>
 </ol>
-<h5>13. Coûts relatifs aux soumissions</h5>
+<h6>13. Coûts relatifs aux soumissions</h6>
 <p>Aucun paiement ne sera versé pour des coûts encourus pour la préparation et la présentation d'une soumission en réponse à la demande de soumissions</p>
 <p>Le soumissionnaire sera seul responsable des frais engagés dans la préparation et la présentation d'une soumission, ainsi que des frais engagés par lui pour l'évaluation de sa soumission.</p>
-<h5>14. Autres renseignements</h5>
+<h6>14. Autres renseignements</h6>
 <p>(1) Pour obtenir d'autres renseignements, les soumissionnaires peuvent s'adresser à l'autorité contractante dont le nom est indiqué dans la demande de soumissions.</p>
 <p>(2) Les demandes de renseignements concernant la réception des soumissions présentées peuvent être adressées à l'Unité de réception des soumissions, Division de soutien opérationnel des approvisionnements, au 819-956-3370. Dans le cas des demandes de soumissions lancées par des bureaux régionaux de TPSGC, les demandes de renseignements concernant la réception des soumissions peuvent être adressées à l'autorité contractante dont le nom figure dans la demande de soumissions.</p>
 <hr/>
-<h4>PARTIE II – MARCHÉS DE FAIBLE VALEUR (FV) – BIENS OU SERVICES</h4>
-<h4><a id="AP-71app3" name="app3"></a>APPENDICE 3 DE L'ANNEXE A</h4>
+<h5>PARTIE II – MARCHÉS DE FAIBLE VALEUR (FV) – BIENS OU SERVICES</h5>
+<h5><a id="AP-71app3" name="app3"></a>APPENDICE 3 DE L'ANNEXE A</h5>
 <p>2T-LDV1 Le Modèle de demande de soumissions et de contrat pour les marchés de faible valeur doit être utilisé pour les biens ou les services suivants :</p>
 <ul>
 <li>marchés de faible valeur attribués ou non en régime de concurrence – Biens ou services.</li>
@@ -314,18 +314,18 @@
 <li>les besoins et les marchés réservés aux entreprises autochtones</li>
 </ul>
 <p><em>Remarque à l'intention de l'autorité contractante : L'autorité contractante doit supprimer, avant de lancer la demande de soumissions, les sections inutilisées, ainsi que les instructions à son intention.</em></p>
-<h4>PARTIE 1 – RENSEIGNEMENTS ET INSTRUCTIONS</h4>
-<h5>1. EXIGENCES RELATIVES À LA SÉCURITÉ</h5>
+<h5>PARTIE 1 – RENSEIGNEMENTS ET INSTRUCTIONS</h5>
+<h6>1. EXIGENCES RELATIVES À LA SÉCURITÉ</h6>
 <p>Ce marché comporte des exigences relatives à la sécurité. Pour de plus amples renseignements, veuillez consulter la partie 1, Renseignements et instructions, clause 4.4.X, Exigences relatives À la sécurité et la partie 2, Clauses du contrat.</p>
 <p>OU</p>
 <p>Ce marché ne comporte aucune exigence relative à la sécurité.</p>
-<h5>2. ÉNONCÉ DES TRAVAUX OU DES BESOINS</h5>
+<h6>2. ÉNONCÉ DES TRAVAUX OU DES BESOINS</h6>
 <p>2.1 (Reproduire une brève description des besoins; on peut aussi indiquer un renvoi à l'Énoncé des travaux ou des besoins dans le contrat, s'il y a lieu.)</p>
 <p>(Remarque à l'intention de l'autorité contractante: Il faut reproduire ci-après les exigences particulières qui ne font pas déjà partie des instructions uniformisées.)</p>
 <p><strong>2.2 Clauses du Guide des CCUA</strong><br/>
 					(Utiliser les clauses de renvoi applicables à la soumission.)</p>
 <p>(Remarque à l'intention de l'autorité contractante : Consultez la section 02 des Instructions uniformisées – Biens ou services 2003.)</p>
-<h5>3. INSTRUCTIONS, CONDITIONS ET CLAUSES UNIFORMISÉES</h5>
+<h6>3. INSTRUCTIONS, CONDITIONS ET CLAUSES UNIFORMISÉES</h6>
 <p>Toutes les instructions, conditions et clauses identifiées dans la demande de soumissions par un titre, un numéro et une date sont reproduites dans le Guide des clauses et conditions uniformisées d'achat publié par Travaux publics et Services gouvernementaux Canada (TPSGC).</p>
 <p>Le guide est disponible sur le site Web de TPSGC :<br/>
 <a href="http://sacc.tpsgc.gc.ca/sacc/index-f.jsp" rel="external">http://sacc.tpsgc.gc.ca/sacc/index-f.jsp</a>.</p>
@@ -335,7 +335,7 @@
 <p>(Remarque à l'intention de l'autorité contractante: Il faut intégrer par renvoi les instructions particulières qui ne font pas partie des instructions uniformisées, s'il y a lieu.)</p>
 <p><strong>3.2 Clauses du Guide des CCUA</strong></p>
 <p>(Remarque à l'intention de l'autorité contractante: Consultez, à titre d'information, les sections 03 à 08 du document Instructions uniformisées – Biens ou services 2003. Les soumissions en réponse à une demande de soumissions en régime de concurrence estimées à moins de 25 000 $ (incluant toutes les taxes applicables) peuvent être envoyées à l'agent de négociation des contrats plutôt qu'à un lieu précis de réception des soumissions. Dans ce cas, des procédures différentes s'appliquent au traitement des soumissions. Voir le guide des approvisionnements, 7A.017.)</p>
-<h5>4. PRÉSENTATION DES SOUMISSIONS</h5>
+<h6>4. PRÉSENTATION DES SOUMISSIONS</h6>
 <p>(Reprendre l'une des clauses ci-après, selon qu'on doive déposer les soumissions auprès de l'Unité de réception des soumissions ou de l'autorité contractante. Consultez, à titre d'information, la section 03 (2) (d) du document Instructions uniformisées – Biens ou services 2003 pour 4.1 et 4.2 ci-après.)</p>
 <p><strong>4.1 Les soumissions doivent être présentées à l'heure, à la date et à l'endroit indiqués dans la demande de soumissions.</strong></p>
 <p>OU</p>
@@ -369,21 +369,21 @@
 					Lorsque la soumission est déposée, les conditions suivantes doivent être respectées :<br/>
 					a) Le soumissionnaire doit détenir une <span aria-label="Espace réservé vide" class="blankline"></span>  valable, délivrée par la Direction de la sécurité industrielle et internationale (DSICI) de Travaux publics et Services gouvernementaux Canada (TPSGC).<br/>
 					b) Les employés proposés par le soumissionnaire et qui doivent avoir accès à des renseignements ou à des biens <span aria-label="Espace réservé vide" class="blankline"></span>  ou à des établissements de travail dont l'accès est réglementé doivent tous être titulaires d'une cote de sécurité pour le personnel au niveau exigé de <span aria-label="Espace réservé vide" class="blankline"></span> , délivrée ou approuvée par la DSICI de TPSGC.</p>
-<h5>5. LOIS APPLICABLES</h5>
+<h6>5. LOIS APPLICABLES</h6>
 <p>Le contrat doit être interprété et régi selon les lois en vigueur dans (<em>l'autorité contractante doit indiquer la province ou le territoire</em>), et les relations entre les parties seront déterminées par ces lois.</p>
 <p>À sa discrétion, le soumissionnaire peut utiliser les lois applicables d'une province ou d'un territoire canadien de son choix, sans que la validité de sa soumission ne soit mise en question, en supprimant le nom de la province ou le territoire canadien précisé et en insérant le nom de la province ou le territoire canadien de son choix. Si aucun changement n'est indiqué, cela signifie que le soumissionnaire accepte les lois applicables indiquées.</p>
-<h4>PARTIE 2 – CLAUSES DU CONTRAT</h4>
-<h5>1. EXIGENCES RELATIVES À LA SÉCURITÉ</h5>
+<h5>PARTIE 2 – CLAUSES DU CONTRAT</h5>
+<h6>1. EXIGENCES RELATIVES À LA SÉCURITÉ</h6>
 <p>Ce marché comporte des exigences relatives à la sécurité.</p>
 <p>(Reproduire la clause applicable fournie par la Direction de la sécurité industrielle canadienne et internationale (DSICI) et insérer le LVERS en annexe.)</p>
 <p>OU</p>
 <p>Ce marché ne comporte aucune exigence relative à la sécurité.</p>
-<h5>2. ÉNONCÉ DES TRAVAUX OU DES BESOINS</h5>
+<h6>2. ÉNONCÉ DES TRAVAUX OU DES BESOINS</h6>
 <p> (Reproduire une brève description des besoins ou de l'Énoncé des travaux et/ou faire référence à une annexe, s'il y a lieu.)</p>
 <p>(Remarque à l'intention de l'autorité contractante : Reproduire les clauses de renvoi du Guide des CCUA se rapportant aux travaux, s'il y a lieu.)</p>
 <p><strong>2.1 Clauses du Guide des CCUA<br/>
 </strong>(Remarque à l'intention de l'autorité contractante : Consultez, à titre d'information, la section 02, Conditions et clauses uniformisées, du document 2029 Conditions générales – Biens ou services.)</p>
-<h5>3. CONDITIONS ET CLAUSES UNIFORMISÉES</h5>
+<h6>3. CONDITIONS ET CLAUSES UNIFORMISÉES</h6>
 <p>Toutes les clauses et conditions identifiées dans le contrat par un titre, un numéro et une date sont reproduites dans le Guide des clauses et conditions uniformisées d'achat publié par Travaux publics et Services gouvernementaux Canada (TPSGC).</p>
 <p>Le guide est disponible sur le site Web de TPSGC : <a href="http://sacc.tpsgc.gc.ca/sacc/index-f.jsp" rel="external">http://sacc.tpsgc.gc.ca/sacc/index-f.jsp</a>.</p>
 <p><strong>3.1 Conditions générales<br/>
@@ -391,12 +391,12 @@
 <p>(Remarque à l'intention de l'autorité contractante : Reproduire les clauses de renvoi du Guide des CCUA se rapportant aux clauses particulières qui ne font pas partie des conditions générales, s'il y a lieu.)</p>
 <p> <strong>3.2 Clauses du Guide des CCUA</strong><br/>
 					(Remarque à l'intention de l'autorité contractante : Consulter les sections 04, 07 et 08 des Conditions générales – Biens ou services 2029. Les exigences particulières relatives à la durée du contrat, à la livraison, à l'inspection et à l'acceptation qui ne font pas partie des conditions générales peuvent être reproduites dans des sous-sections ou reproduire les clauses par renvoi, s'il y a lieu.)</p>
-<h5>4. DURÉE DU CONTRAT</h5>
+<h6>4. DURÉE DU CONTRAT</h6>
 <p>(Remarque à l'intention de l'autorité contractante : Choisir et reproduire la clause appropriée du Guide des CCUA ou la clause approuvée)</p>
 <p><strong>4.1 Date de livraison OU durée du contrat</strong> <br/>
 					(Remarque à l'intention de l'autorité contractante : Choisir les clauses du Guide des CCUA qui doivent être intégrées par renvoi, s'il y a lieu.)</p>
 <p><strong>4.2 Clauses du Guide des CCUA</strong></p>
-<h5>5. RESPONSABLES</h5>
+<h6>5. RESPONSABLES</h6>
 <p><strong>5.1 Autorité contractante</strong><br/>
 					L'autorité contractante dont le nom est indiqué ci-après est responsable de la gestion du contrat et tous les changements au contrat doivent être autorisés, par écrit, par l'autorité contractante.</p>
 <p>(Nom de l'autorité contractante)<br/>
@@ -415,18 +415,18 @@
 <p><strong>5.3 Représentants de l'entrepreneur</strong><br/>
 					(Reproduire, s'il y a lieu. À remplir ou à supprimer, s'il y a lieu.)</p>
 <p>(Remarque à l'intention de l'autorité contractante : Reproduire intégralement les clauses du Guide des CCUA ou les clauses approuvées se rapportant à la base de paiement, la méthode de paiement, la vérification et les taxes qui ne font pas partie des conditions générales Consulter, à titre d'information, la section 09, Paiement et Intérêt sur les comptes en souffrance, du document 2029 Conditions générales - Biens et services.)</p>
-<h5>6. BASE DE PAIEMENT</h5>
+<h6>6. BASE DE PAIEMENT</h6>
 <p><strong>6.1 Base de paiement</strong><br/>
 					(Remarque à l'intention de l'autorité contractante: Reprendre les clauses applicables du Guide des CCUA, s'il y a lieu. Exemple de clause: C6001C.)</p>
 <p><strong>6.2 Limitation des dépenses OU prix plafond</strong></p>
 <p>(Remarque à l'intention de l'autorité contractante: Reprendre les clauses de renvoi du Guide des CCUA , s'il y lieu. Exemples de clauses de renvoi: H1000D, H1001D, C0101D, C2605D, C2608D.)</p>
 <p><strong>6.3 Clauses du Guide des CCUA</strong></p>
 <p>(Remarque à l'intention de l'autorité contractante : Reprendre la clause pertinente du Guide des CCUA ou une autre clause approuvée se rapportant aux instructions relatives à la facturation. Ces instructions de facturation portent également sur les demandes d'acompte et, par conséquent, tous les renvois aux factures porteraient également sur ces demandes d'acompte. Consulter les clauses 05, Présentation des factures, et 09, Paiement et intérêt sur les comptes en souffrance, du document 2029 Conditions générales– Biens ou services.)</p>
-<h5>7. INSTRUCTIONS RELATIVES à LA FACTURATION</h5>
+<h6>7. INSTRUCTIONS RELATIVES à LA FACTURATION</h6>
 <p>1. L'entrepreneur doit présenter ses factures conformément à l'information exigée dans la section 05, Présentation des factures, des Conditions générales– Biens ou services 2029.</p>
-<h5>8. LOIS APPLICABLES</h5>
+<h6>8. LOIS APPLICABLES</h6>
 <p>Le contrat doit être interprété et régi selon les lois en vigueur dans (l'autorité contractante doit indiquer la province ou le territoire précisé par le soumissionnaire dans sa soumission) et les relations entre les parties seront déterminées par ces lois.</p>
-<h5>9. (Remarque à l'intention de l'autorité contractante : S'il y a lieu, reprendre intégralement les clauses suggérées, les autres clauses du Guide des CCUA ou les clauses approuvées.)</h5>
+<h6>9. (Remarque à l'intention de l'autorité contractante : S'il y a lieu, reprendre intégralement les clauses suggérées, les autres clauses du Guide des CCUA ou les clauses approuvées.)</h6>
 <p><strong>XX ORDRE DE PRIORITÉ DES DOCUMENTS</strong><br/>
 					En cas de contradiction dans le libellé des documents figurant dans cette liste, le libellé du document qui figure d'abord dans ladite liste l'emportera sur celui de tout autre document indiqué ensuite.</p>
 <p>les articles de la convention;</p>
@@ -436,13 +436,13 @@
 <li>...</li>
 </ul>
 <p><strong>XX PROGRAMME DE RÉDUCTION DES EFFECTIFS (A9105C)</strong></p>
-<h4><a id="AP-71app4" name="app4"></a>APPENDICE 4 DE L'ANNEXE A</h4>
+<h5><a id="AP-71app4" name="app4"></a>APPENDICE 4 DE L'ANNEXE A</h5>
 <p><strong>Les Conditions générales Biens ou services 2029 (2005-06-10) doivent être utilisées pour les marchés suivants :</strong></p>
 <ul>
 <li>marchés de faible valeur attribués ou non en régime de concurrence pour des biens ou des services</li>
 </ul>
 <hr/>
-<h5>2029 (2005-06-10) Conditions générales - Biens ou services (faible valeur)</h5>
+<h6>2029 (2005-06-10) Conditions générales - Biens ou services (faible valeur)</h6>
 <p>Travaux publics et Services gouvernementaux Canada</p>
 <ul class="noBullet">
 <li>01. Interprétation</li>
@@ -468,7 +468,7 @@
 <li>21. Sanctions internationales</li>
 <li>22. Exhaustivité de la convention</li>
 </ul>
-<h5>2029 01 (2005-06-10) Interprétation</h5>
+<h6>2029 01 (2005-06-10) Interprétation</h6>
 <p>1) Dans le contrat, à moins que le contexte n'indique un sens différent :</p>
 <p>« <strong>biens de l'État</strong> » désigne tout ce qui est fourni à l'entrepreneur par ou pour le Canada, aux fins de l'exécution du contrat et tout ce que l'entrepreneur acquiert, d'une manière ou d'une autre, relativement aux travaux, dont le coût est acquitté par le Canada en vertu du contrat;</p>
 <p>« <strong>Canada</strong> » « <strong>Couronne</strong> », « <strong>Sa Majesté</strong> » ou « <strong>État</strong> » désigne sa Majesté la Reine du chef du Canada;</p>
@@ -476,18 +476,18 @@
 <p>« <strong>l'entrepreneur</strong> » désigne la personne physique ou morale dont le nom figure à la page de signature de la convention écrite et qui est chargée de fournir au Canada des biens ou des services stipulés au contrat;</p>
 <p>« <strong>ministre</strong> » désigne le ministre des Travaux publics et des Services gouvernementaux et tout mandataire dûment autorisé;</p>
 <p>« <strong>travaux</strong> » désigne les activités, services, biens, équipements, articles et objets que l'entrepreneur doit exécuter, livrer ou fournir conformément aux modalités du contrat.</p>
-<h5>2029 02 (2005-06-10) Conditions et clauses uniformisées</h5>
+<h6>2029 02 (2005-06-10) Conditions et clauses uniformisées</h6>
 <p>Conformément à la <em>Loi sur le ministère des Travaux publics et des Services gouvernementaux</em>, L.C., 1996, ch. 16, les conditions et les clauses identifiées par un titre, un numéro et une date sont incorporées par renvoi dans le contrat et en font partie intégrante comme si elles y étaient formellement reproduites.</p>
-<h5>2029 03 (2005-06-10) Situation juridique de l'entrepreneur</h5>
+<h6>2029 03 (2005-06-10) Situation juridique de l'entrepreneur</h6>
 <p>L'entrepreneur est retenu à titre d'entrepreneur indépendant à la seule fin d'exécuter les travaux. Ni l'entrepreneur ni ses employés ne constituent des employés, des préposés ou des mandataires du Canada. L'entrepreneur est tenu d'effectuer toutes les déductions et tous les versements exigés par la loi relativement à ses employés.</p>
-<h5>2029 04 (2005-06-10) Inspection, acceptation et garantie</h5>
+<h6>2029 04 (2005-06-10) Inspection, acceptation et garantie</h6>
 <p>L'entrepreneur doit exécuter les travaux avec efficience, conformément à des normes de qualité à la satisfaction du Canada et en respectant parfaitement l'ensemble des exigences du contrat.</p>
 <p>Les travaux sont soumis à l'inspection et l'acceptation par le Canada. Même si les travaux sont acceptés auparavant et sans restreindre la portée de toutes les conditions ou garanties imposées en vertu des lois, l'entrepreneur doit, à la demande du ministre, remplacer, réparer ou corriger, à son gré et à ses frais, tous les travaux défectueux ou qui ne respectent pas les exigences du contrat, le cas échéant. Pour les biens, le délai de garantie sera de 12 mois après la livraison et l'acceptation des travaux ou la durée de la période de garantie standard de l'entrepreneur ou du fabricant, si elle est plus étendue. Tous les travaux remplacés, réparés ou corrigés conformément à la présente section sont soumis à l'ensemble des dispositions de ce contrat, dans la même mesure que les travaux exécutés à l'origine.</p>
 <p>Le Canada paie les frais d'expédition de tout ou partie des travaux retournés aux locaux de l'entrepreneur pour leur remplacement, réparation ou rectification. L'entrepreneur paie les frais d'expédition des travaux en cause, une fois remplacés, réparés ou rectifiés, au lieu de livraison précisé dans le contrat ou à un autre endroit désigné par le Canada. Cependant, lorsque le Ministre est d'avis qu'il n'est pas opportun de déplacer les travaux, l'entrepreneur procède aux réparations ou aux rectifications nécessaires là où les travaux se trouvent et il est remboursé pour ses frais de déplacement et de subsistance.</p>
-<h5>2029 05 (2005-06-10) Présentation des factures</h5>
+<h6>2029 05 (2005-06-10) Présentation des factures</h6>
 <p>Les factures doivent être soumises au nom de l'entrepreneur. Elles doivent contenir le nom et l'adresse du ministère client, les numéros d'articles ou de référence, les produits livrables ou la description des travaux, le numéro du contrat, le numéro de référence du client, le numéro d'entreprise – approvisionnement et le ou les codes financiers, le cas échéant. Le mode d'expédition, ainsi que la date, le numéro de cas et de pièce ou de référence, le nom des articles et leur quantité, l'unité de distribution, le prix unitaire et les frais supplémentaires seront indiqués dans les factures, s'il y a lieu. Les tarifs de main d'œuvre horaires fixes, le niveau d'effort et le montant facturé (excluant la taxe sur les produits et services {TPS} ou la taxe de vente harmonisée {TVH} devront être indiqués dans les factures, le cas échéant.</p>
 <p>La TPS, la TVH ou toutes autres taxes, dans la mesure où elles s'appliquent, seront précisées dans toutes les factures. Tous les biens ou les services détaxés, exonérés ou auxquels la TPS ou la TVH ne s'appliquent pas doivent être identifiés comme tel sur toutes les factures. L'entrepreneur doit soumettre des factures pour chaque livraison ou expédition; ces factures doivent s'appliquer à un seul contrat. Chaque facture doit indiquer si elle porte sur une livraison partielle ou finale.</p>
-<h5>2029 06 (2005-06-10) Taxes</h5>
+<h6>2029 06 (2005-06-10) Taxes</h6>
 <p>1) Taxes municipales <br/>
 					Les taxes municipales ne s'appliquent pas.</p>
 <p>2) Taxes provinciales <br/>
@@ -517,11 +517,11 @@
 					En cas de modification apportée à une taxe imposée en vertu de la Loi sur l'accise, L.R.C. 1985, ch. E-14, ou de la <em>Loi sur la taxe d'accise</em>, L.R.C. 1985, ch. E-15, ou à tout droit imposé en vertu du Tarif des douanes ou à toute autre taxe fédérale ou provinciale de vente, d'accise ou autre droit, taxe, frais ou impôt après la date de la soumission et qui modifie le coût des travaux pour l'entrepreneur, le prix contractuel sera rectifié de façon à tenir compte de l'augmentation ou de la baisse du coût pour l'entrepreneur.</p>
 <p>4) Taxe sur les produits et services / Taxe de vente harmonisée <br/>
 					La taxe sur les produits et services (TPS) ou la taxe de vente harmonisée (TVH), dans la mesure où elle s'applique, est comprise dans le coût total estimatif à la page 1 du contrat. La TPS ou la TVH n'est pas comprise dans le prix contractuel, mais elle sera payée par Canada conformément aux dispositions de la clause sur la présentation de factures ci-dessus. L'entrepreneur s'engage à verser à l'Agence du revenu du Canada toutes les sommes acquittées ou exigibles au titre de la TPS et de la TVH.</p>
-<h5>2029 07 (2005-06-10) Frais de transport</h5>
+<h6>2029 07 (2005-06-10) Frais de transport</h6>
 <p>Si, aux termes du présent contrat, les frais de transport sont payables par le Canada et que l'entrepreneur est chargé de prendre les dispositions nécessaires pour le transport, les envois doivent être effectués par le moyen de transport le plus direct et le plus économique, selon les méthodes normales d'expédition. Ces frais doivent figurer séparément sur la facture. La politique du gouvernement fédéral voulant qu'il assume ses propres risques exclut le paiement de frais d'assurances ou d'évaluation pour le transport au-delà du point de transfert du droit de propriété sur les biens au gouvernement fédéral (c'est-à-dire le point FAB ou Incoterm). Lorsque l'entrepreneur est en mesure d'accroître la responsabilité du transporteur sans frais supplémentaires, il doit avoir recours à cette responsabilité accrue pour l'envoi.</p>
-<h5>2029 08 (2005-06-10) Documentation d'envoi</h5>
+<h6>2029 08 (2005-06-10) Documentation d'envoi</h6>
 <p>Pour l'expédition des biens, le connaissement de transport doit accompagner l'original de la facture, sauf s'il s'agit d'expéditions « payables sur livraison » (lorsque autorisé), auquel cas il doit accompagner la marchandise. En outre, un bordereau d'expédition doit accompagner chaque envoi et indiquer clairement le nom des articles, la quantité d'articles, les numéros de pièce ou de référence, la description des fournisseurs et les numéros de référence du contrat, incluant le numéro de référence du client (NRC) et le numéro d'entreprise – approvisionnement (NEA). Si les biens ont été inspectés à l'usine de l'entrepreneur, un certificat d'inspection signé doit être annexé au bordereau d'expédition normalement inclus dans l'enveloppe prévue à cette fin.</p>
-<h5>2029 09 (2005-06-10) Paiement et intérêt sur les comptes en souffrance</h5>
+<h6>2029 09 (2005-06-10) Paiement et intérêt sur les comptes en souffrance</h6>
 <p>1) Le paiement pour les travaux réalisés est fait par le Canada après la livraison, l'inspection et l'acceptation des travaux, sur présentation de factures et d'autres pièces justificatives exigées par le Canada.</p>
 <p>2) Les définitions suivantes s'appliquent au présent article :</p>
 <p>« <strong>taux moyen</strong> » : la moyenne arithmétique simple du taux d'escompte en vigueur chaque jour, à 16 h, heure normale de l'est, pour le mois de calendrier immédiatement antérieur à la date de paiement;</p>
@@ -530,37 +530,37 @@
 <p>« <strong>en souffrance</strong> » : s'entend de la somme qui demeure impayée le lendemain du jour où elle est devenue exigible conformément aux conditions du contrat.</p>
 <p>3) Le Canada verse à l'entrepreneur des intérêts simples, au taux moyen majoré de trois pourcent (3%) par année, sur toute somme en souffrance, à partir du premier jour où la somme est en souffrance jusqu'au jour qui précède la date de paiement. L'intérêt est payable sans avis de l'entrepreneur.</p>
 <p>4) Le Canada ne verse pas d'intérêts en application du présent article lorsqu'il n'est pas responsable du retard à payer l'entrepreneur. Le Canada ne verse pas d'intérêts sur les paiements anticipés qui sont en souffrance.</p>
-<h5>2029 10 (2005-06-10) Vérification</h5>
+<h6>2029 10 (2005-06-10) Vérification</h6>
 <p>Les sommes réclamées par l'entrepreneur dans le cadre du contrat peuvent faire l'objet d'une vérification par le Canada, avant ou après le versement du paiement à l'entrepreneur. L'entrepreneur doit tenir des comptes et registres appropriés de ce que lui coûte les travaux et conserver tous les documents reliés à ces coûts pour une période de 6 ans après le dernier paiement effectué aux termes du contrat.</p>
-<h5>2029 11 (2005-06-10) Respect du droit applicable</h5>
+<h6>2029 11 (2005-06-10) Respect du droit applicable</h6>
 <p>L'entrepreneur doit se conformer à toutes les dispositions législatives applicables à la réalisation des travaux.</p>
-<h5>2029 12 (2005-06-10) Rigueur des délais</h5>
+<h6>2029 12 (2005-06-10) Rigueur des délais</h6>
 <p>Les travaux doivent être réalisés conformément aux délais prévus au contrat.</p>
-<h5>2029 13 (2005-06-10) Droit de propriété</h5>
+<h6>2029 13 (2005-06-10) Droit de propriété</h6>
 <p>Sauf disposition contraire au contrat, le droit de propriété sur les travaux (dont le droit d'auteur, s'il y a lieu) appartient au Canada dès leur livraison et acceptation par le Canada et le risque de perte ou endommagement incombe à l'entrepreneur jusqu'à la livraison des travaux au Canada. </p>
-<h5>2029 14 (2005-06-10) Biens de l'État</h5>
+<h6>2029 14 (2005-06-10) Biens de l'État</h6>
 <p>L'entrepreneur doit prendre un soin adéquat des biens de l'État qui se trouvent en sa possession ou dont il a le contrôle. S'il ne s'acquitte pas de cette obligation, il est responsable des pertes ou dommages relatifs à ces biens, sauf de l'usure normale du matériel.</p>
-<h5>2029 15 (2005-06-10) Cession et modification</h5>
+<h6>2029 15 (2005-06-10) Cession et modification</h6>
 <p>La cession ou la modification du contrat, en tout ou en partie, ne peut être effectuée sans le consentement préalable écrit des parties.</p>
-<h5>2029 16 (2005-06-10) Manquement de la part de l'entrepreneur</h5>
+<h6>2029 16 (2005-06-10) Manquement de la part de l'entrepreneur</h6>
 <p>Lorsque l'entrepreneur manque à l'une de ses obligations prévues au contrat ou qu'il fait faillite, devient insolvable ou est mis sous séquestre, le Ministre peut, moyennant un préavis écrit à l'entrepreneur, résilier intégralement ou partiellement le contrat. Lorsqu'un tel avis est donné, l'entrepreneur n'aura droit à aucun autre paiement et il demeurera redevable envers le Canada de toutes les pertes et de tous les dommages subis par celui-ci en raison du manquement, y compris l'accroissement du coût, pour le Canada, du recours à une autre source pour l'exécution des travaux.</p>
-<h5>2029 17 (2005-06-10) Résiliation pour raisons de commodité</h5>
+<h6>2029 17 (2005-06-10) Résiliation pour raisons de commodité</h6>
 <p>Le Ministre peut, à tout moment avant l'achèvement des travaux, moyennant un avis écrit à l'entrepreneur, résilier la totalité ou une portion du contrat. Dans un tel cas, l'entrepreneur sera payé pour tous les travaux livrés et acceptés mais non payés conformément au prix du contrat. L'entrepreneur aura droit au remboursement des frais réels qu'il a engagés de façon raisonnable et légitime et qui sont directement liés à la résiliation, mais la somme remboursée ne doit en aucun cas excéder le prix du contrat. L'entrepreneur ne pourra pas réclamer de dommages intérêts, d'indemnisation, de manque à gagner, ni d'autres frais, sauf dans les cas prévus dans la présente section.</p>
-<h5>2029 18 (2005-06-10) Membres de la Chambre des communes</h5>
+<h6>2029 18 (2005-06-10) Membres de la Chambre des communes</h6>
 <p>Les membres de la Chambre des communes ne peuvent participer au contrat ni en tirer avantage.</p>
-<h5>2029 19 (2005-06-10) Conflits d'intérêts</h5>
+<h6>2029 19 (2005-06-10) Conflits d'intérêts</h6>
 <p>Toute personne qui ne se conforme pas aux dispositions du Code régissant la conduite des titulaires de charge publique en ce qui concerne les conflits d'intérêts et l'après-mandat ou du Code de valeurs et d'éthique de la fonction publique, ne peut bénéficier du présent contrat.</p>
-<h5>2029 20 (2005-06-10) Honoraires conditionnels</h5>
+<h6>2029 20 (2005-06-10) Honoraires conditionnels</h6>
 <p>L'entrepreneur atteste qu'il n'a pas versé ni convenu de verser, directement ou indirectement, et s'engage à ne pas verser, directement ou indirectement, des honoraires conditionnels en rapport avec la soumission, la négociation ou l'obtention du présent contrat à toute personne autre qu'un employé de l'entrepreneur remplissant les fonctions habituelles liées à son poste. Dans le présent paragraphe, "honoraires conditionnels" signifie tout paiement ou autre forme de rémunération qui est subordonné au degré de succès ou calculé en fonction du degré de succès obtenu en rapport à la soumission, à la négociation ou à l'obtention du contrat et "personne" comprend tout particulier qui est tenu de fournir au directeur une déclaration en vertu de l'article 5 de la Loi concernant l'enregistrement des lobbyistes, L.R.C. (1985), ch.44 (4e suppl.).</p>
-<h5>2029 21 (2005-06-10) Sanctions internationales</h5>
+<h6>2029 21 (2005-06-10) Sanctions internationales</h6>
 <p>1) Les personnes au Canada et les Canadiens et les Canadiennes à l'étranger sont liées par les sanctions économiques imposées par le Canada. En conséquence, le gouvernement du Canada ne peut accepter la livraison d'aucun bien ou service provenant, directement ou indirectement, d'un ou plusieurs pays ou personnes assujettis aux sanctions économiques.</p>
 <p>Les détails relatifs aux sanctions actuellement en vigueur peuvent être vus à l'adresse suivante : <a href="http://www.dfait-maeci.gc.ca/trade/sanctions-f.asp" rel="external">http://www.dfait-maeci.gc.ca/trade/sanctions-f.asp</a>.</p>
 <p>2) L'entrepreneur ne doit pas fournir au gouvernement canadien un bien ou un service assujetti aux sanctions économiques.</p>
 <p>3) En vertu de la loi, l'entrepreneur doit se conformer aux modifications apportées au règlement imposé pendant la durée du contrat. Si, dans le cadre de l'exécution du contrat, l'entrepreneur est dans l'impossibilité d'exécuter le contrat parce qu'on a imposé des sanctions à un pays ou à une personne ou qu'on a ajouté des biens ou des services à la liste des biens ou des services sanctionnés, l'entrepreneur pourra invoquer la force majeure. L'entrepreneur devra informer le Canada immédiatement de la situation, et les procédures établies pour la force majeure s'appliqueront alors.</p>
-<h5>2029 22 (2005-06-10) Exhaustivité de la convention</h5>
+<h6>2029 22 (2005-06-10) Exhaustivité de la convention</h6>
 <p>Le contrat représente la totalité et la seule entente intervenue entre les parties.</p>
-<h4>PARTIE III – MARCHéS DE BIENS OU DE SERVICES DE COMPLEXITé MOYENNE</h4>
-<h4><a id="AP-71app5" name="app5"></a>APPENDICE 5 DE L'ANNEXE A</h4>
+<h5>PARTIE III – MARCHéS DE BIENS OU DE SERVICES DE COMPLEXITé MOYENNE</h5>
+<h5><a id="AP-71app5" name="app5"></a>APPENDICE 5 DE L'ANNEXE A</h5>
 <p>2T-MED1 On doit reprendre le Modèle d'invitation à soumissionner et de contrat de produits ou de services de complexité moyenne pour les marchés suivants :</p>
 <ul>
 <li>marchés de complexité moyenne attribués ou non en régime de concurrence – Biens ou services.</li>
@@ -583,25 +583,25 @@
 <li>les marchés de la CCC</li>
 </ul>
 <p>Remarque à l'intention de l'autorité contractante: L'autorité contractante doit supprimer, avant de lancer la demande de soumissions, les sections inutilisées, ainsi que les instructions à son intention.</p>
-<h4>TABLE DES MATIÈRES</h4>
-<h5>PARTIE 1 – RENSEIGNEMENTS GÉNÉRAUX</h5>
+<h5>TABLE DES MATIÈRES</h5>
+<h6>PARTIE 1 – RENSEIGNEMENTS GÉNÉRAUX</h6>
 <ol>
 <li>Exigences relatives à la sécurité</li>
 <li>énoncé des travaux OU des besoins</li>
 </ol>
-<h5>PARTIE 2 – INSTRUCTIONS À L'INTENTION DES SOUMISSIONNAIRES</h5>
+<h6>PARTIE 2 – INSTRUCTIONS À L'INTENTION DES SOUMISSIONNAIRES</h6>
 <ol>
 <li>Instructions, conditions et clauses uniformisées</li>
 <li>Présentation des soumissions</li>
 <li>Renseignements – Demande de soumissions</li>
 <li>Lois applicables</li>
 </ol>
-<h5>PARTIE 3 – INSTRUCTIONS POUR LA PRÉPARATION DES SOUMISSIONS ET PROCÉDURES D'ÉVALUATION</h5>
+<h6>PARTIE 3 – INSTRUCTIONS POUR LA PRÉPARATION DES SOUMISSIONS ET PROCÉDURES D'ÉVALUATION</h6>
 <ol>
 <li>Instructions pour la préparation des soumissions</li>
 <li>Procédures d'évaluation</li>
 </ol>
-<h5>PARTIE 4 – CLAUSES DU CONTRAT</h5>
+<h6>PARTIE 4 – CLAUSES DU CONTRAT</h6>
 <p>Exigences en matière de sécurité<br/>
 					Énoncé des travaux ou des besoins<br/>
 					Conditions et clauses uniformisées<br/>
@@ -620,16 +620,16 @@
 					ANNEXE X CRITÈRES D'ÉVALUATION ET BASE DE SÉLECTION<br/>
 					ANNEXE X ATTESTATIONS PRÉALABLES À L'ATTRIBUTION DU CONTRAT<br/>
 					ANNEXE X ATTESTATIONS AVEC LA SOUMISSION</p>
-<h4>PARTIE 1 – RENSEIGNEMENTS GÉNÉRAUX</h4>
-<h5>1. EXIGENCES RELATIVES à LA SÉCURITÉ</h5>
+<h5>PARTIE 1 – RENSEIGNEMENTS GÉNÉRAUX</h5>
+<h6>1. EXIGENCES RELATIVES à LA SÉCURITÉ</h6>
 <p>Ce marché comporte des exigences relatives à la sécurité. Pour de plus amples renseignements, veuillez consulter la partie 4, Clauses du contrat et l'annexe "X" Critères d'évaluation et base de sélection. </p>
 <p>OU</p>
 <p>Ce marché ne comporte aucune exigence relative à la sécurité.</p>
-<h5>2. ÉNONCÉ DES TRAVAUX OU DES BESOINS</h5>
+<h6>2. ÉNONCÉ DES TRAVAUX OU DES BESOINS</h6>
 <p>(Reproduire une brève description de l'Énoncé des travaux ou des besoins; on peut aussi indiquer un renvoi à l'Énoncé des travaux ou des besoins dans le contrat.)</p>
-<h4>PARTIE 2 – INSTRUCTIONS À L'INTENTION DES SOUMISSIONNAIRES</h4>
+<h5>PARTIE 2 – INSTRUCTIONS À L'INTENTION DES SOUMISSIONNAIRES</h5>
 <p>(Remarque à l'intention de l'autorité contractante : Consultez la section 02, Instructions, clauses et conditions, des Instructions uniformisées – Biens ou services 2003.)</p>
-<h5>1. INSTRUCTIONS, CONDITIONS ET CLAUSES UNIFORMISÉES</h5>
+<h6>1. INSTRUCTIONS, CONDITIONS ET CLAUSES UNIFORMISÉES</h6>
 <p>Toutes les instructions, conditions et clauses identifiées dans la demande de soumissions par un titre, un numéro et une date sont reproduites dans le Guide des clauses et conditions uniformisées d'achat publié par Travaux publics et Services gouvernementaux Canada (TPSGC).</p>
 <p>Le guide est disponible sur le site Web de TPSGC : <a href="http://sacc.tpsgc.gc.ca/sacc/index-f.jsp" rel="external">http://sacc.tpsgc.gc.ca/sacc/index-f.jsp</a>.</p>
 <p>Les soumissionnaires qui présentent une soumission s'engagent à respecter les instructions, les conditions et les clauses de cette demande de soumissions et acceptent les clauses et les conditions du contrat.</p>
@@ -641,21 +641,21 @@
 <p>(Remarque à l'intention de l'autorité contractante: Il faut intégrer par renvoi les instructions particulières qui ne font pas partie des instructions uniformisées, s'il y a lieu.)</p>
 <p><em>1.2 Clauses du Guide des CCUA</em><br/>
 					(Remarque à l'intention de l'autorité contractante: Il faut reproduire ci-après les instructions et les exigences particulières pour la présentation des soumissions qui ne font pas déjà partie des instructions uniformisées. Consultez les sections 03 à 08 des Instructions uniformisées – Biens ou services 2003.)</p>
-<h5>2. PRÉSENTATION DES SOUMISSIONS</h5>
+<h6>2. PRÉSENTATION DES SOUMISSIONS</h6>
 <p>Les soumissions doivent être présentées au plus tard à la date, à l'heure et à l'endroit indiqués à la page 1 de la Demande de soumissions.</p>
 <p>(Remarque à l'intention de l'autorité contractante: Reprendre le paragraphe ci-après lorsque les soumissions transmises par télécopieur ne sont pas acceptables.)<br/>
 <strong>MISE EN GARDE : LES SOUMISSIONS TRANSMISES PAR TÉLÉCOPIEUR NE SERONT PAS ACCEPTÉES</strong>. En raison du caractère de cette demande de soumissions, la transmission des soumissions par télécopieur à l'intention de Travaux publics et Services gouvernementaux Canada n'est pas jugée pratique et ne sera conséquemment pas acceptée.</p>
 <p>(Remarque à l'intention de l'autorité contractante: Il faut reproduire ci-après les instructions et les exigences particulières pour la présentation des soumissions qui ne font pas déjà partie des instructions uniformisées. Exemple de clauses de renvoi: A0020T)</p>
 <p><em>2.1 Clauses du Guide des CCUA</em><br/>
 					(Remarque à l'intention de l'autorité contractante : Consultez la section 11, Communications en période de soumission, des Instructions uniformisées – Biens ou services 2003.)</p>
-<h5>3. COMMUNICATIONS – EN PÉRIODE D'INVITATION</h5>
+<h6>3. COMMUNICATIONS – EN PÉRIODE D'INVITATION</h6>
 <p>Toutes les demandes de renseignements relatives à la demande de soumissions doivent être présentées au moins <span aria-label="Espace réservé vide" class="blankline"></span>  (xx) jours civils avant la date de clôture des soumissions. Pour ce qui est des demandes de renseignements reçues après cette date, il se peut qu'on ne puisse pas y répondre avant la date de clôture des soumissions.</p>
-<h5>4. LOIS APPLICABLES</h5>
+<h6>4. LOIS APPLICABLES</h6>
 <p>Tout contrat qui pourrait être attribué sera interprété et régi selon les lois en vigueur dans (<em>l'autorité contractante doit indiquer la province ou le territoire</em>), et les relations entre les parties seront déterminées par ces lois.</p>
 <p>À sa discrétion, le soumissionnaire peut utiliser les lois applicables d'une province ou d'un territoire canadien de son choix, sans que la validité de sa soumission ne soit mise en question, en supprimant le nom de la province ou le territoire canadien précisé et en insérant le nom de la province ou le territoire canadien de son choix. Si aucun changement n'est indiqué, cela signifie que le soumissionnaire accepte les lois applicables indiquées.</p>
 <p><strong>(Remarque à l'intention de l'autorité contractante: Consultez l'information relative aux sections 03 à 08 des Instructions uniformisées – Biens ou services 2003.)</strong></p>
-<h4>PARTIE 3 – INSTRUCTIONS POUR LA PRÉPARATION DES SOUMISSIONS ET PROCÉDURES D'ÉVALUATION</h4>
-<h5>1. INSTRUCTIONS POUR LA PRÉPARATION DES SOUMISSIONS</h5>
+<h5>PARTIE 3 – INSTRUCTIONS POUR LA PRÉPARATION DES SOUMISSIONS ET PROCÉDURES D'ÉVALUATION</h5>
+<h6>1. INSTRUCTIONS POUR LA PRÉPARATION DES SOUMISSIONS</h6>
 <p>On demande aux soumissionnaires de préparer leur soumission en trois (3)sections distinctes, à savoir :</p>
 <p><strong>SECTION I – SOUMISSION TECHNIQUE {(sans mention des prix) (x exemplaires)}<br/>
 					SECTION II – SOUMISSION FINANCIÈRE (X exemplaires) <br/>
@@ -680,7 +680,7 @@
 <p>Attestations présentées avec la soumission</p>
 <p>Le soumissionnaire doit remplir et fournir, avec sa soumission, les attestations prévues à l'Annexe X , Attestations présentées avec la soumission.</p>
 <p>Le Canada pourra vérifier les déclarations faites par le soumissionnaire dans les attestations pendant la durée de l'évaluation des soumissions (avant l'attribution du contrat) et après l'attribution du contrat. L'autorité contractante aura le droit de demander des renseignements supplémentaires pour s'assurer que le soumissionnaire respecte les conditions des attestations avant l'adjudication du contrat. La soumission sera déclarée irrecevable si on constate que le soumissionnaire a fait de fausses déclarations, sciemment ou non. À défaut de respecter les attestations ou de donner suite à la demande de renseignements supplémentaires de l'autorité contractante, sa soumission sera jugée irrecevable.</p>
-<h5>2. PROCÉDURES D'ÉVALUATION</h5>
+<h6>2. PROCÉDURES D'ÉVALUATION</h6>
 <p><em>2.1 Les soumissions seront évaluées conformément aux critères d'évaluation et à la base de sélection précisés dans l'Annexe X. Les soumissions reçues seront évaluées par rapport aux critères d'évaluation indiqués pour l'ensemble des besoins dans cette demande de soumissions et de pair avec l'Énoncé des travaux OU des besoins reproduit ci-joint dans l'Annexe X.</em></p>
 <p>(Remarque à l'intention de l'autorité contractante: Reprendre les paragraphes ci-après, s'il y a lieu.)<br/>
 					Une équipe d'évaluateurs constituée de représentants de (nom du ministère client) et TPSGC évaluera les soumissions au nom du Canada.</p>
@@ -704,13 +704,13 @@
 <p>Attestations présentées avec la soumission</p>
 <p>Le soumissionnaire doit remplir et fournir, avec sa soumission, les attestations prévues à l'Annexe X , Attestations présentées avec la soumission.</p>
 <p>Le Canada pourra vérifier les déclarations faites par le soumissionnaire dans les attestations pendant la durée de l'évaluation des soumissions (avant l'attribution du contrat) et après l'attribution du contrat. L'autorité contractante aura le droit de demander des renseignements supplémentaires pour s'assurer que le soumissionnaire respecte les conditions des attestations avant l'adjudication du contrat. La soumission sera déclarée irrecevable si on constate que le soumissionnaire a fait de fausses déclarations, sciemment ou non. À défaut de respecter les attestations ou de donner suite à la demande de renseignements supplémentaires de l'autorité contractante, sa soumission sera jugée irrecevable.</p>
-<h4>PARTIE 4 – CLAUSES DU CONTRAT</h4>
-<h5>1. EXIGENCES RELATIVES À LA SÉCURITÉ</h5>
+<h5>PARTIE 4 – CLAUSES DU CONTRAT</h5>
+<h6>1. EXIGENCES RELATIVES À LA SÉCURITÉ</h6>
 <p>Ce marché comporte des exigences relatives à la sécurité<br/>
 					(Reproduire la clause pertinente fournie par la Direction de la sécurité industrielle canadienne et internationale [DSICI]) et inclure le LVERS comme annexe.</p>
 <p>OU</p>
 <p>Ce marché ne comporte aucune exigence relative à la sécurité.</p>
-<h5>2. ÉNONCÉ DES TRAVAUX OU DES BESOINS</h5>
+<h6>2. ÉNONCÉ DES TRAVAUX OU DES BESOINS</h6>
 <p>(Reprendre l'une des clauses suggérées ci-après, clauses provenant du Guide des CCUA ou une autre clause pertinente, s'il y a lieu)</p>
 <p><em>2.1 L'entrepreneur doit fournir (reproduire la description pertinente des besoins) conformément avec l'Énoncé des travaux ou les besoins de l'Annexe X.</em></p>
 <p>OU </p>
@@ -718,7 +718,7 @@
 <p>(Remarque à l'intention de l'autorité contractante : Les clauses intégrées par renvoi du Guide des CCUA en ce qui a trait aux travaux à exécuter doivent être reproduites ci-après. Exemple de clauses de renvoi : B10002, B1201D, et ainsi de suite.)</p>
 <p><em>2.2 Clauses du Guide des CCUA</em><br/>
 					(Remarque à l'intention de l'autorité contractante : Consulter la section 02, Conditions et clauses uniformisées, des Conditions générales 2010 – Biens ou services.)</p>
-<h5>3. CONDITIONS ET CLAUSE UNIFORMISÉES</h5>
+<h6>3. CONDITIONS ET CLAUSE UNIFORMISÉES</h6>
 <p>Toutes les clauses et conditions identifiées dans le contrat par un titre, un numéro et une date sont reproduites dans le Guide des clauses et conditions uniformisées d'achat publié par Travaux publics et Services gouvernementaux Canada (TPSGC).</p>
 <p>Le guide est disponible sur le site Web de TPSGC : <a href="http://sacc.tpsgc.gc.ca/sacc/index-f.jsp" rel="external">http://sacc.tpsgc.gc.ca/sacc/index-f.jsp</a>.</p>
 <p><em>3.1 Conditions générales<br/>
@@ -726,7 +726,7 @@
 <p>(Remarque à l'intention de l'autorité contractante: Reproduire les clauses de renvoi du Guide des CCUA se rapportant aux clauses particulières qui ne font pas partie des Conditions générales, s'il y a lieu.)</p>
 <p><em>3.2 Clauses du Guide des CCUA<br/>
 </em>(Remarque à l'intention de l'autorité contractante: Consultez, à titre d'information, les sections 04, 07, 10 et 11 des Conditions générales – Biens ou services 2010. Les exigences particulières relatives à la durée du contrat, à la livraison, à l'inspection et à l'acceptation qui ne font pas partie des Conditions générales peuvent être reproduites dans des sous-sections ou par renvoi, s'il y a lieu.) </p>
-<h5>4. DURÉE DU CONTRAT</h5>
+<h6>4. DURÉE DU CONTRAT</h6>
 <p><em>4.1 Date de livraison OU Durée du contrat<br/>
 </em>(Utiliser les clauses suggérées ci-dessous ou autre clause du Guide des CCUA, s'il y a lieu)</p>
 <p>Les travaux doivent être réalisés durant la période du (indiquer la date du début) au (indiquer la date de la fin des travaux).</p>
@@ -741,7 +741,7 @@
 </em>L'entrepreneur accorde au Canada une option irrévocable lui permettant de prolonger la durée du contrat d'une durée d'au plus <span aria-label="Espace réservé vide" class="blankline"></span>  période(s) supplémentaire(s) de <span aria-label="Espace réservé vide" class="blankline"></span>  année(s) chacune, selon les mêmes modalités et conditions. Le Canada pourra se prévaloir de cette option n'importe quand, en adressant à l'entrepreneur un avis écrit au moins <span aria-label="Espace réservé vide" class="blankline"></span>  jours civils avant la date d'expiration du contrat ou de sa prolongation.</p>
 <p>Il est entendu avec l'entrepreneur que pendant la durée prolongée du contrat, les prix et les tarifs seront conformes aux dispositions du contrat.</p>
 <p>Cette option, qui ne pourra être exercée que par l'autorité contractante, sera confirmée, pour des raisons administratives seulement, par une modification au contrat établie et en bonne et due forme.</p>
-<h5>5. RESPONSABLES</h5>
+<h6>5. RESPONSABLES</h6>
 <p><em>5.1 Autorité contractante<br/>
 </em>L'autorité contractante dont le nom est indiqué ci-après est responsable de la gestion du contrat et tous les changements au contrat doivent être autorisés, par écrit, par l'autorité contractante.</p>
 <p>(Nom de l'autorité contractante)<br/>
@@ -760,20 +760,20 @@
 <p><em>5.3 Représentants de l'entrepreneur</em><br/>
 					(Remplir ou supprimer, s'il y a lieu.)</p>
 <p>(Remarque à l'intention de l'autorité contractante: Reproduire intégralement les clauses du Guide des CCUA ou les clauses approuvées se rapportant à la base de paiement, la méthode de paiement, la vérification et les taxes qui ne font pas partie des Conditions générales Consulter, à titre d'information, la section 12, Paiement, et la section 13, Intérêt sur les comptes en souffrance, du document 2029 Conditions générales - Biens et services.)</p>
-<h5>6. BASE DE PAIEMENT</h5>
+<h6>6. BASE DE PAIEMENT</h6>
 <p><em>6.1 Base de paiement<br/>
 </em>(Remarque à l'intention de l'autorité contractante: Reprendre les clauses applicables du Guide des CCUA, s'il y a lieu. Exemple de clause: C6001C.)</p>
 <p><em>6.2 Limitation des dépenses OU prix plafond<br/>
 </em>(Remarque à l'intention de l'autorité contractante: Reprendre les clauses de renvoi du Guide des CCUA , s'il y lieu. Exemples de clauses de renvoi: H1000D, H1001D, C0101D, C2605D, C2608D.)</p>
 <p><em>6.3 Clauses du Guide des CCUA<br/>
 </em>(Remarque à l'intention de l'autorité contractante : reprendre la clause se rapportant au Guide des CCUA ou les autres clauses approuvées se rapportant aux instructions relatives à la facturation. Ces instructions portent également sur les demandes d'acompte et par conséquent, tous les renvois aux factures portent également sur ces demandes d'acomptes. Consulter, à titre d'information, la section 08, Présentation des factures, la section 12, Paiement, et la section 13, Intérêt sur les comptes en souffrance, des Conditions générales – Biens ou services 2010.)</p>
-<h5>7. INSTRUCTIONS POUR LA FACTURATION</h5>
+<h6>7. INSTRUCTIONS POUR LA FACTURATION</h6>
 <p>L'entrepreneur doit présenter ses factures conformément aux renseignements prévus dans la section08 des Conditions générales 2010 – Biens ou services.</p>
-<h5>8. ATTESTATIONS</h5>
+<h6>8. ATTESTATIONS</h6>
 <p>Le respect des attestations fournies par l'entrepreneur est une condition préalable à l'attribution du contrat et sera sujet à vérification par le Canada pendant toute la durée du contrat. Si l'entrepreneur ne respecte pas les attestations ou que l'on constate que des attestations fournies par lui dans sa soumission comprennent de fausses déclarations, faites sciemment ou non, le ministre aura le droit de résilier le contrat pour manquement, conformément aux dispositions du contrat en la matière.</p>
-<h5>9. LOIS APPLICABLES</h5>
+<h6>9. LOIS APPLICABLES</h6>
 <p>Le contrat sera interprété et régi selon les lois en vigueur dans (l'autorité contractante doit indiquer la province ou le territoire précisé par le soumissionnaire dans sa soumission), et les relations entre les parties seront déterminées par ces lois.</p>
-<h5>10. ORDRE DE PRIORITÉ DES DOCUMENTS</h5>
+<h6>10. ORDRE DE PRIORITÉ DES DOCUMENTS</h6>
 <p>En cas de contradiction dans le libellé des documents figurant dans cette liste, le libellé du document qui figure d'abord dans ladite liste l'emportera sur celui de tout autre document indiqué ensuite.</p>
 <ol>
 <li>les articles de la convention;</li>
@@ -784,39 +784,39 @@
 <li>Annexe X</li>
 <li>La soumission de l'entrepreneur datée du (remplir).</li>
 </ol>
-<h5>11. (Remarque à l'intention de l'autorité contractante : S'il y a lieu, reprendre intégralement le texte des clauses suggérées ou ajouter d'autres clauses du Guide des CCUA ou les clauses approuvées).</h5>
+<h6>11. (Remarque à l'intention de l'autorité contractante : S'il y a lieu, reprendre intégralement le texte des clauses suggérées ou ajouter d'autres clauses du Guide des CCUA ou les clauses approuvées).</h6>
 <p>XX PROGRAMME DE CONTRATS FÉDÉRAUX POUR L'ÉQUITÉ EN MATIÈRE D'EMPLOI - ATTESTATION (K2003C)</p>
 <p>XX PROGRAMME DE RÉDUCTION DES EFFECTIFS (A9105C) </p>
 <p>XX ATTESTATION DU CONTENU CANADIEN (K4100C)</p>
 <p>XX ATTESTATION DANS LE CADRE DE L'ACCMT (K5100C)</p>
 <hr/>
-<h4>Annexe X</h4>
-<h4>ÉNONCÉ DES TRAVAUX<br/>
+<h5>Annexe X</h5>
+<h5>ÉNONCÉ DES TRAVAUX<br/>
 					OU<br/>
-					DES BESOINS</h4>
+					DES BESOINS</h5>
 <p>(à reproduire, le cas échéant)</p>
 <hr/>
-<h4>Annexe X<br/>
-					BASE DE PAIEMENT</h4>
+<h5>Annexe X<br/>
+					BASE DE PAIEMENT</h5>
 <p>(à reproduire, le cas échéant)</p>
 <hr/>
-<h4>Annexe X<br/>
-					LISTE DE VÉRIFICATION DES EXIGENCES RELATIVES À LA SÉCURITÉ</h4>
+<h5>Annexe X<br/>
+					LISTE DE VÉRIFICATION DES EXIGENCES RELATIVES À LA SÉCURITÉ</h5>
 <p>(LVERS À REPRODUIRE)</p>
 <hr/>
-<h4>ANNEXE X<br/>
-					CRITÈRES D'ÉVALUATION ET BASE DE SÉLECTION</h4>
-<h5>PARTIE 1. CRITÈRES D'ÉVALUATION</h5>
+<h5>ANNEXE X<br/>
+					CRITÈRES D'ÉVALUATION ET BASE DE SÉLECTION</h5>
+<h6>PARTIE 1. CRITÈRES D'ÉVALUATION</h6>
 <p>1. Exigences obligatoires<br/>
 					(Reproduire les critères obligatoires, s'il y a lieu.)</p>
 <p>2. Critères cotés par points<br/>
 					(Reproduire les critères cotés par points, s'il y a lieu.)</p>
-<h5>PARTIE 2. ÉVALUATION FINANCIÈRE</h5>
+<h6>PARTIE 2. ÉVALUATION FINANCIÈRE</h6>
 <p>(Reproduire les critères d'évaluation financière)</p>
-<h5>PARTIE 3. BASE DE SÉLECTION</h5>
+<h6>PARTIE 3. BASE DE SÉLECTION</h6>
 <p>(Reproduire les critères de sélection)</p>
 <p>Remarque à l'intention de l'autorité contractante : Utilisez l'une des clauses ci-dessous s'il y a des exigences relatives à la sécurité.)</p>
-<h5>PARTIE 4. EXIGENCES RELATIVES À LA SÉCURITÉ</h5>
+<h6>PARTIE 4. EXIGENCES RELATIVES À LA SÉCURITÉ</h6>
 <p>(Remarque à l'intention de l'autorité contractante : Reproduire et remplir la clause ci-dessous si le soumissionnaire a jusqu'à l'adjudication du contrat pour obtenir les attestations de sécurité nécessaires. Voir le Guide des approvisionnements, article 6C.273)</p>
 <p>Avant l'adjudication du contrat, les conditions suivantes doivent être respectées :</p>
 <p>a) le soumissionnaire doit détenir une <span aria-label="Espace réservé vide" class="blankline"></span>  valable, délivrée par la Direction de la sécurité industrielle et internationale (DSICI) de Travaux publics et Services gouvernementaux Canada (TPSGC);</p>
@@ -827,7 +827,7 @@
 <p>a) le soumissionnaire doit détenir une <span aria-label="Espace réservé vide" class="blankline"></span>  valable, délivrée par la Direction de la sécurité industrielle et internationale (DSICI) de Travaux publics et Services gouvernementaux Canada (TPSGC);</p>
 <p>b) les employés proposés par le soumissionnaire et qui doivent avoir accès à des renseignements ou à des biens <span aria-label="Espace réservé vide" class="blankline"></span>  ou à des établissements de travail dont l'accès est réglementé doivent tous être titulaires d'une cote de sécurité pour le personnel au niveau exigé de <span aria-label="Espace réservé vide" class="blankline"></span> , délivrée ou approuvée par la DSICI de TPSGC.</p>
 <hr/>
-<h4>ANNEXE X ATTESTATIONS PRÉALABLES À L'ATTRIBUTION DU CONTRAT</h4>
+<h5>ANNEXE X ATTESTATIONS PRÉALABLES À L'ATTRIBUTION DU CONTRAT</h5>
 <p>(Remarque à l'intention de l'autorité contractante : Utilisez l'annexe X ATTESTATIONS PRÉALABLES à L'ATTRIBUTION DU CONTRAT avec la clause contractuelle intitulée "Attestations préalables à l'attribution du contrat", à la section III. Attestations exigées.</p>
 <p>S'il y a lieu, reproduire le texte complet des clauses des CCUA relatives aux attestations. Supprimer la présente annexe si elle ne s'applique pas. La présentation d'attestations constitue une condition préalable à l'attribution du contrat, par opposition aux exigences obligatoires, pour les besoins de l'évaluation. On recommande d'appliquer ce principe afin de s'assurer que les soumissions ne seront pas rejetées pendant l'évaluation lorsque les attestations ne sont pas déposées. Si un soumissionnaire ne dépose pas les attestations à la date de clôture, l'autorité contractante doit les demander avant l'attribution du contrat. Si le soumissionnaire ne les dépose pas, sa soumission sera jugée irrecevable.).</p>
 <p>Pour que sa soumission soit considérée dans l'attribution du contrat, le soumissionnaire qui dépose une soumission recevable conformément aux exigences techniques et financières doit respecter les conditions suivantes.</p>
@@ -849,7 +849,7 @@
 <p>(Remarque à l'autorité contractante : s'il y a lieu, utiliser la clause pertinente du Guide des CCUA.)</p>
 <p>ATTESTATION DE PRIX OU DE TAUX</p>
 <hr/>
-<h4>ANNEXE X ATTESTATIONS PRÉSENTÉES AVEC LA SOUMISSION</h4>
+<h5>ANNEXE X ATTESTATIONS PRÉSENTÉES AVEC LA SOUMISSION</h5>
 <p>Remarque à l'intention de l'autorité contractante : Utilisez l'annexe X ATTESTATIONS PRÉSENTÉES AVEC LA SOUMISSION avec la clause contractuelle intitulée "Attestations présentées avec la soumission" à la section III. Attestations exigées.</p>
 <p>Lorsque des attestations doivent être présentées en même temps que la soumission à la date de clôture des soumissions, reprendre le texte complet des clauses des CCUA relatives aux attestations. Supprimer la présente annexe si elle ne s'applique pas.</p>
 <p>Pour que sa soumission soit considérée dans l'attribution du contrat, le soumissionnaire qui dépose une soumission recevable conformément aux exigences techniques et financières doit respecter les conditions suivantes.</p>
@@ -861,15 +861,15 @@
 <p>Utiliser de pair avec la clause K5000T, Définitions de l'ACCMT, et avec la clause contractuelle K5100C, ATTESTATION RELATIVE À L'ACCMT.</p>
 <p>ATTESTATION RELATIVE À L'ACCORD CANADA-CORÉE SUR LES ACHATS DE MATÉRIEL DE TÉLÉCOMMUNICATIONS (ACCMT)</p>
 <hr/>
-<h4>PARTIE III - MARCHÉS DE COMPLEXITÉ MOYENNE - BIENS OU SERVICES</h4>
-<h4><a id="AP-71app6" name="app6"></a>APPENDICE 6 DE L'ANNEXE A</h4>
+<h5>PARTIE III - MARCHÉS DE COMPLEXITÉ MOYENNE - BIENS OU SERVICES</h5>
+<h5><a id="AP-71app6" name="app6"></a>APPENDICE 6 DE L'ANNEXE A</h5>
 <p>Les Conditions générales 2010 (2005-06-10) - Biens ou services doivent être utilisées pour les marchés suivants :</p>
 <ul>
 <li>Marchés de complexité moyenne attribués ou non en régime de concurrence</li>
 </ul>
 <hr/>
-<h5>2010 00 (2005-06-10) Conditions générales - biens ou services (complexité moyenne)</h5>
-<h4>TABLE DES MATIÈRES</h4>
+<h6>2010 00 (2005-06-10) Conditions générales - biens ou services (complexité moyenne)</h6>
+<h5>TABLE DES MATIÈRES</h5>
 <ul>
 <li>01. Interprétation</li>
 <li>02. Conditions et clauses uniformisées</li>
@@ -901,7 +901,7 @@
 <li>28. Exhaustivité de la convention</li>
 <li>29. Sanctions internationales</li>
 </ul>
-<h5>2010 01 (2005-06-10) Interprétation</h5>
+<h6>2010 01 (2005-06-10) Interprétation</h6>
 <p>Dans le contrat, à moins que le contexte n'indique un sens différent :</p>
 <p>« <strong>biens de l'État</strong> » désigne tout ce qui est fourni à l'entrepreneur par ou pour le Canada, aux fins de l'exécution du contrat et tout ce que l'entrepreneur acquiert, d'une manière ou d'une autre, relativement aux travaux, dont le coût est acquitté par le Canada en vertu du contrat; </p>
 <p>« <strong>Canada</strong> » « <strong>Couronne</strong> », « <strong>Sa Majesté</strong> » ou « État » désigne sa Majesté la Reine du chef du Canada;</p>
@@ -914,11 +914,11 @@
 <p>« <strong>partie</strong> » désigne le Canada ou l'entrepreneur, ou encore, tout autre signataire du contrat; « parties » l'ensemble de ceux-ci;</p>
 <p>« <strong>prix contractuel</strong> » désigne la somme payable à l'entrepreneur en vertu du contrat, pour l'exécution des travaux;</p>
 <p>« <strong>travaux</strong> » désigne les activités, services, biens, équipements, articles et objets que l'entrepreneur doit exécuter, livrer ou fournir conformément aux modalités du contrat.</p>
-<h5>2010 02 (2005-06-10) Conditions et clauses uniformisées</h5>
+<h6>2010 02 (2005-06-10) Conditions et clauses uniformisées</h6>
 <p>Conformément à la Loi sur le ministère des Travaux publics et des Services gouvernementaux, L.C., 1996, ch. 16, les conditions et les clauses identifiées par un titre, un numéro et une date sont incorporées par renvoi dans le contrat et en font partie intégrante comme si elles y étaient formellement reproduites.</p>
-<h5>2010 03 (2005-06-10) Situation juridique de l'entrepreneur</h5>
+<h6>2010 03 (2005-06-10) Situation juridique de l'entrepreneur</h6>
 <p>L'entrepreneur est retenu à titre d'entrepreneur indépendant à la seule fin d'exécuter les travaux. Ni l'entrepreneur ni ses employés ne constituent des employés, des préposés ou des mandataires du Canada. L'entrepreneur est tenu d'effectuer toutes les déductions et tous les versements exigés par la loi relativement à ses employés.</p>
-<h5>2010 04 (2005-06-10) Exécution des travaux</h5>
+<h6>2010 04 (2005-06-10) Exécution des travaux</h6>
 <p>1) L'entrepreneur déclare et atteste ce qui suit :</p>
 <ol type="a">
 <li>il est qualifié pour exécuter les travaux; et</li>
@@ -930,11 +930,11 @@
 <li>exécute les travaux de manière diligente et efficace; et</li>
 <li>exécute les travaux conformément à des normes de qualité à la satisfaction du Canada et en respectant parfaitement les exigences du contrat.</li>
 </ol>
-<h5>2010 05 (2005-06-10) Contrats de sous-traitance</h5>
+<h6>2010 05 (2005-06-10) Contrats de sous-traitance</h6>
 <p>1) L'entrepreneur peut confier en sous-traitance la fourniture des biens ou des services uniformisés qu'il sous-traite normalement. Dans tous les autres cas, il doit obtenir l'accord préalable écrit du ministre. Ce dernier peut exiger que l'entrepreneur lui fournisse les détails qu'il juge nécessaires du contrat de sous-traitance proposé.</p>
 <p>2) La sous-traitance n'a pas pour effet de dégager l'entrepreneur de ses obligations en vertu du contrat, ni d'imposer, au Canada ou au ministre, des responsabilités envers un sous-traitant.</p>
 <p>3) Dans tous les contrats de sous-traitance, l'entrepreneur s'engage à obliger les sous-traitants à respecter les mêmes clauses et conditions que celles auxquelles il est soumis en vertu du contrat, à moins que le ministre demande ou consente à ce qu'il en soit autrement.</p>
-<h5>2010 06 (2005-06-10) Retard justifiable</h5>
+<h6>2010 06 (2005-06-10) Retard justifiable</h6>
 <p>1) Le retard de l'entrepreneur à s'acquitter de l'une ou l'autre des obligations que lui confère le contrat causé par un événement :</p>
 <ol type="a">
 <li>hors du contrôle raisonnable de l'entrepreneur;</li>
@@ -947,13 +947,13 @@
 <p>3) Dès l'expiration d'une période de 30 jours de retard justifiable, le ministre peut à son gré, résilier le contrat, auquel cas les parties conviennent de renoncer à toute réclamation pour dommages-intérêts, coûts, profits anticipés ou autres pertes découlant de la résiliation ou de l'événement ayant donné lieu au retard justifiable. L'entrepreneur s'engage à rembourser immédiatement au Canada la portion de toute avance non liquidée à la date de la résiliation.</p>
 <p>4) Le Canada n'est pas responsable des frais, quels qu'ils soient, engagés par l'entrepreneur ou l'un de ses sous-traitants ou mandataires par suite d'un retard justifiable, sauf lorsque celui-ci est imputable à l'omission du Canada de s'acquitter d'une de ses obligations aux termes du contrat.</p>
 <p>5) Si le contrat est résilié en vertu de la présente section, le ministre pourra obliger l'entrepreneur à livrer au Canada, selon les modalités et dans les mesures prescrites par le ministre, toutes les parties achevées des travaux qui n'auront pas été livrées ni acceptées avant la résiliation, de même que l'ensemble des matériaux, des pièces, des installations, des biens d'équipement ou des travaux en cours que l'entrepreneur aura acquis ou produits expressément dans l'exécution du contrat. Le Canada remboursera à l'entrepreneur la valeur, calculée en fonction du prix du contrat, dont la quote-part du bénéfice ou des honoraires de l'entrepreneur inclus dans le prix du contrat, de l'ensemble des éléments achevés des travaux et du coût de l'entrepreneur que le ministre juge raisonnable en ce qui concerne l'ensemble des matériaux, des pièces, des installations, des biens d'équipement ou des travaux en cours livrés au Canada et acceptés par ce dernier. Le total des sommes versées par le Canada conformément au contrat jusqu'à sa résiliation et les sommes payables conformément au présent paragraphe ne doivent en aucun cas dépasser le montant du prix contractuel.</p>
-<h5>2010 07 (2005-06-10) Inspection, acceptation et garantie</h5>
+<h6>2010 07 (2005-06-10) Inspection, acceptation et garantie</h6>
 <p>Les travaux sont soumis à l'inspection et à l'acceptation par le Canada. Même si les travaux sont acceptés auparavant et sans restreindre la portée de toutes les conditions ou garanties imposées en vertu des lois, l'entrepreneur doit, à la demande du ministre, remplacer ou corriger, à son gré et à ses frais, tous les travaux défectueux ou qui ne respectent pas les exigences du contrat, le cas échéant. Pour les biens, le délai de garantie sera de 12 mois après la livraison et l'acceptation de travaux ou après la durée de la période de garantie standard de l'entrepreneur ou du fabricant si elle est plus étendue. Tous les ouvrages remplacés, réparés ou corrigés conformément à la présente section sont soumis à l'ensemble des dispositions de ce contrat, dans la même mesure que les travaux exécutés à l'origine.</p>
 <p>Le Canada paie les frais d'expédition de tout ou partie des travaux retournés aux locaux de l'entrepreneur pour leur remplacement, réparation ou rectification. L'entrepreneur paie les frais d'expédition des travaux en cause, une fois remplacés, réparés ou rectifiés, au lieu de livraison précisé dans le contrat ou à un autre endroit désigné par le Canada. Cependant, lorsque le Ministre est d'avis qu'il n'est pas opportun de déplacer les travaux, l'entrepreneur procède aux réparations ou aux rectifications nécessaires là où les travaux se trouvent et il est remboursé pour ses frais de déplacement et de subsistance.</p>
-<h5>2010 08 (2005-06-10) Présentation des factures</h5>
+<h6>2010 08 (2005-06-10) Présentation des factures</h6>
 <p>Les factures doivent être soumises au nom de l'entrepreneur. Elles doivent contenir le nom et l'adresse du ministère client, les numéros d'articles ou de référence, les produits livrables ou la description des travaux, le numéro du contrat, le numéro de référence du client, le numéro d'entreprise – approvisionnement et le ou les codes financiers, le cas échéant. Le mode d'expédition avec la date, le numéro de cas et de pièce ou de référence, le nom des articles et leur quantité, l'unité de distribution, le prix unitaire et les frais supplémentaires seront indiqués dans les factures s'il y a lieu. Les tarifs de main d'œuvre horaires fixes, le niveau d'effort et le montant facturé (excluant la taxe sur les produits et services {TPS} ou la taxe de vente harmonisée {TVH} devront être indiqués dans les factures, le cas échéant.</p>
 <p>La TPS, la TVH ou toutes autres taxes, dans la mesure où elles s'appliquent, seront précisées dans toutes les factures. Tous les biens ou les services détaxés, exonérés ou auxquels la TPS ou la TVH ne s'appliquent pas doivent être identifiés comme tel sur toutes les factures. L'entrepreneur doit soumettre des factures pour chaque livraison ou expédition; ces factures doivent s'appliquer à un seul contrat. Chaque facture doit indiquer si elle porte sur une livraison partielle ou finale.</p>
-<h5>2010 09 (2005-06-10) Taxes</h5>
+<h6>2010 09 (2005-06-10) Taxes</h6>
 <p>1) Taxes municipales</p>
 <p>Les taxes municipales ne s'appliquent pas.</p>
 <p>2) Taxes provinciales</p>
@@ -973,13 +973,13 @@
 <p>En cas de modification apportée à une taxe imposée en vertu de la Loi sur l'accise, L.R.C. 1985, ch. E-14, ou de la Loi sur la taxe d'accise, L.R.C. 1985, ch. E-15, ou à tout droit imposé en vertu du Tarif des douanes ou à toute autre taxe fédérale ou provinciale de vente, d'accise ou autre droit, taxe, frais ou impôt après la date de la soumission et qui modifie le coût des travaux pour l'entrepreneur, le prix contractuel sera rectifié de façon à tenir compte de l'augmentation ou de la baisse du coût pour l'entrepreneur.</p>
 <p>4) Taxe sur les produits et services / Taxe de vente harmonisée</p>
 <p>La taxe sur les produits et services (TPS) ou la taxe de vente harmonisée (TVH), dans la mesure où elle s'applique, est comprise dans le coût estimatif total indiqué à la page 1 du contrat. La TPS ou la TVH n'est pas comprise dans le prix contractuel, mais elle sera payée par le Canada conformément aux dispositions de la clause sur la présentation de factures ci-dessus. L'entrepreneur s'engage à verser à l'Agence du revenu du Canada toutes les sommes acquittées ou exigibles au titre de la TPS et de la TVH.</p>
-<h5>2010 10 (2005-06-10) Frais de transport</h5>
+<h6>2010 10 (2005-06-10) Frais de transport</h6>
 <p>Si, aux termes du présent contrat, les frais de transport sont payables par le Canada et que l'entrepreneur est chargé de prendre les dispositions nécessaires pour le transport, les envois doivent être effectués par le moyen de transport le plus direct et le plus économique, selon les méthodes normales d'expédition. Ces frais doivent figurer séparément sur la facture. La politique du gouvernement fédéral voulant qu'il assume ses propres risques exclut le paiement de frais d'assurances ou d'évaluation pour le transport au-delà du point de transfert du droit de propriété sur les biens au gouvernement fédéral (c'est-à-dire le point FAB ou INCOTERM). Lorsque l'entrepreneur est en mesure d'accroître la responsabilité du transporteur sans frais supplémentaires, il doit avoir recours à cette responsabilité accrue pour l'envoi.</p>
-<h5>2010 11 (2005-06-10) Documentation d'envoi</h5>
+<h6>2010 11 (2005-06-10) Documentation d'envoi</h6>
 <p>Pour l'expédition des biens, le connaissement de transport doit accompagner l'original de la facture, sauf s'il s'agit d'expéditions » payables sur livraison » (lorsque autorisé), auquel cas il doit accompagner la marchandise. En outre, un bordereau d'expédition doit accompagner chaque envoi et indiquer clairement le nom des articles, la quantité d'articles, les numéros de pièce ou de référence, la description des fournisseurs et les numéros de référence du contrat, incluant le numéro de référence du client (NRC) et le numéro d'entreprise – approvisionnement (NEA). Si les biens ont été inspectés à l'usine de l'entrepreneur, un certificat d'inspection signé doit être annexé au bordereau d'expédition normalement inclus dans l'enveloppe prévue à cette fin.</p>
-<h5>2010 12 (2005-06-10) Paiement</h5>
+<h6>2010 12 (2005-06-10) Paiement</h6>
 <p>Le paiement pour les travaux réalisés est fait par le Canada après la livraison, l'inspection et l'acceptation des travaux, sur présentation de factures et d'autres pièces justificatives exigées par le Canada. </p>
-<h5>2010 13 (2005-06-10) Intérêt sur les comptes en souffrance</h5>
+<h6>2010 13 (2005-06-10) Intérêt sur les comptes en souffrance</h6>
 <p>1) Les définitions suivantes s'appliquent au présent article :</p>
 <p>« taux moyen » : la moyenne arithmétique simple du taux d'escompte en vigueur chaque jour, à 16 h, heure normale de l'est, pour le mois de calendrier immédiatement antérieur à la date de paiement;</p>
 <p>« taux d'escompte » s'entend du taux d'intérêt fixé de temps en temps par la Banque du Canada qui représente le taux minimum auquel elle consent des avances à court terme aux membres de l'Association canadienne des paiements;</p>
@@ -987,19 +987,19 @@
 <p>« en souffrance » : s'entend de la somme qui demeure impayée le lendemain du jour où elle est devenue exigible conformément aux conditions du contrat.</p>
 <p>2) Le Canada verse à l'entrepreneur des intérêts simples, au taux moyen majoré de trois pourcent (3%) par année, sur toute somme en souffrance, à partir du premier jour où la somme est en souffrance jusqu'au jour qui précède la date de paiement. L'intérêt est payable sans avis de l'entrepreneur.</p>
 <p>3) Le Canada ne verse pas d'intérêts en application du présent article lorsqu'il n'est pas responsable du retard à payer l'entrepreneur. Le Canada ne verse pas d'intérêts sur les paiements anticipés qui sont en souffrance.</p>
-<h5>2010 14 (2005-06-10) Vérification</h5>
+<h6>2010 14 (2005-06-10) Vérification</h6>
 <p>1) L'entrepreneur tient des comptes et des registres appropriés de ce que lui coûte les travaux ainsi que des dépenses qu'il engage et de ses engagements à l'égard de ceux-ci, et il conserve les factures, les récépissés et les pièces justificatives qui s'y rattachent. Il conserve ces comptes, registres, factures, récépissés et pièces justificatives 6 ans après le dernier paiement effectué aux termes du contrat ou jusqu'au règlement des litiges ou réclamations en cours, selon la plus tardive des deux dates, à moins d'obtenir préalablement une autorisation écrite contraire du ministre.</p>
 <p>2) Pendant la période mentionnée au paragraphe 1, tous les comptes et registres de même que les factures, récépissés et pièces justificatives sont toujours mis à la disposition des représentants du Ministre, lesquels peuvent en tirer des copies ou des extraits, ou en faire la vérification, l'inspection et l'examen. L'entrepreneur met à disposition les installations nécessaires à l'occasion de telles vérifications et inspections et fournit les renseignements que les représentants du ministre lui demandent à l'occasion relativement à ces comptes, registres, factures, récépissés et pièces justificatives.</p>
-<h5>2010 15 (2005-06-10) Respect du droit applicable</h5>
+<h6>2010 15 (2005-06-10) Respect du droit applicable</h6>
 <p>L'entrepreneur doit se conformer à toutes les dispositions législatives applicables à la réalisation des travaux.</p>
-<h5>2010 16 (2005-06-10) Rigueur des délais</h5>
+<h6>2010 16 (2005-06-10) Rigueur des délais</h6>
 <p>Les travaux doivent être réalisés conformément aux délais prévus au contrat.</p>
-<h5>2010 17 (2005-06-10) Droit de propriété</h5>
+<h6>2010 17 (2005-06-10) Droit de propriété</h6>
 <p>1) Sauf disposition contraire du contrat et sous réserve du paragraphe 2, le droit de propriété sur tout ou en partie des travaux est transmis au Canada dès leur livraison et leur acceptation par ou pour le Canada.</p>
 <p>2) Lorsqu'un paiement est effectué à l'entrepreneur à l'égard de matériaux, de pièces, de travaux en cours ou de travaux achevés, notamment au moyen d'acomptes ou d'avances à justifier ou autrement, le droit de propriété s'y rattachant est transmis au Canada au moment du paiement. L'attribution d'un droit de propriété en vertu du présent paragraphe n'entraîne pas l'acceptation par le Canada des matériaux, pièces, travaux en cours ou travaux achevés ni ne relève l'entrepreneur de son obligation d'exécuter les travaux conformément au contrat.</p>
 <p>3) Malgré la cession du droit de propriété visé dans la présente section et sous réserve de dispositions contraires du contrat, le risque de perte ou d'endommagement de tout ou partie des matériaux, pièces, travaux en cours ou travaux achevés incombe à l'entrepreneur jusqu'à la livraison au Canada conformément au contrat.</p>
 <p>4) Lorsque le droit de propriété sur tout ou partie des matériaux, pièces, travaux en cours ou travaux achevés est transmis au Canada, l'entrepreneur établit, à la demande et selon les exigences du ministre, que ce droit de propriété est libre et quitte de tout privilège, réclamation, charge, sûreté ou servitude et il signe les actes de transfert s'y rapportant et les autres documents nécessaires pour parfaire le titre qu'exige le ministre.</p>
-<h5>2010 18 (2005-06-10) Confidentialité </h5>
+<h6>2010 18 (2005-06-10) Confidentialité </h6>
 <p>1) L'entrepreneur garde secrets les renseignements fournis par ou pour le Canada relativement aux travaux, ainsi que tous les renseignements conçus, élaborés ou produits par l'entrepreneur dans le cadre des travaux. Les renseignements fournis à l'entrepreneur par ou pour le Canada ne doivent être utilisés qu'aux seules fins du contrat et ces renseignements demeurent la propriété du Canada.</p>
 <p>2) Sous réserve de la Loi sur l'accès à l'information, LRC (1985), ch. A-1, et sous réserve des droits du Canada selon le contrat de communiquer ou de divulguer, le Canada ne pourra communiquer ou divulguer en dehors du gouvernement du Canada aucune information livrée au Canada en vertu du contrat et qui sont la propriété de l'entrepreneur ou un sous-traitant.</p>
 <p>3) Les obligations des parties prévues au présent article ne s'étendent pas aux renseignements suivants:</p>
@@ -1008,26 +1008,26 @@
 <li>ceux communiqués à une partie par une autre source que l'autre partie, sauf lorsque la partie sait que la source s'est engagée envers le Canada à ne pas les communiquer;</li>
 <li>ceux produits par une partie sans utiliser les renseignements de l'autre partie.</li>
 </ol>
-<h5>2010 19 (2005-06-10) Droits d'auteur</h5>
+<h6>2010 19 (2005-06-10) Droits d'auteur</h6>
 <p>1) Tout ce qui est créé ou conçu par l'entrepreneur aux fins d'exécution des travaux prévus au contrat et qui est protégé par des droits d'auteur appartient au Canada. L'entrepreneur appose le symbole des droits d'auteur et indique l'un ou l'autre des avis suivants, selon le cas :</p>
 <p>SA MAJESTÉ LA REINE DU CHEF DU CANADA (année)</p>
 <p>ou</p>
 <p>HER MAJESTY THE QUEEN IN RIGHT OF CANADA (year)</p>
 <p>2) Sur demande du ministre, l'entrepreneur devra fournir au Canada, à la fin du contrat ou à tout autre moment déterminé par le Ministre, une renonciation définitive écrite aux droits moraux, de forme acceptable au ministre, de la part de chaque auteur qui a contribué aux travaux. Dans les cas où l'entrepreneur est l'auteur, l'entrepreneur renonce définitivement à ses droits moraux.</p>
-<h5>2010 20 (2005-06-10) Biens de l'État</h5>
+<h6>2010 20 (2005-06-10) Biens de l'État</h6>
 <p>L'entrepreneur doit prendre un soin adéquat des biens de l'État qui se trouvent en sa possession ou dont il a le contrôle. S'il ne s'acquitte pas de cette obligation, il est responsable des pertes ou dommages relatifs à ces biens, sauf de l'usure normale du matériel.</p>
-<h5>2010 21 (2005-06-10) Modification</h5>
+<h6>2010 21 (2005-06-10) Modification</h6>
 <p>Nulle modification du contrat ne produira ses effets, à moins d'être intégrée dans le contrat à l'aide d'une modification écrite signée par les représentants autorisés du ministre et de l'entrepreneur.</p>
-<h5>2010 22 (2005-06-10) Cession</h5>
+<h6>2010 22 (2005-06-10) Cession</h6>
 <p>1) L'entrepreneur ne peut céder tout ou partie du contrat sans avoir préalablement obtenu le consentement écrit du ministre, et toute prétendue cession effectuée sans avoir obtenu ce consentement est nulle et sans effet.</p>
 <p>2) La cession du contrat ne relève pas l'entrepreneur de ses obligations aux termes du contrat ni ne confère d'obligations au Canada ou au Ministre, sauf consentement écrit à l'effet contraire du ministre.</p>
-<h5>2010 23 (2005-06-10) Manquement de la part de l'entrepreneur</h5>
+<h6>2010 23 (2005-06-10) Manquement de la part de l'entrepreneur</h6>
 <p>1) Lorsque l'entrepreneur manque à une de ses obligations prévues au contrat, le ministre peut, moyennant un avis écrit à l'entrepreneur, résilier tout ou partie du contrat soit sans délai soit à l'expiration du délai imparti dans l'avis pour remédier au manquement lorsque l'entrepreneur n'a pas, dans le délai imparti, remédié au manquement selon les exigences du ministre.</p>
 <p>2) Lorsque l'entrepreneur fait faillite ou devient insolvable, qu'il cède ses biens au profit de ses créanciers, qu'il se prévaut des dispositions d'une loi sur les débiteurs en faillite ou insolvables, qu'un séquestre est désigné aux termes d'un titre de créance ou qu'une ordonnance de séquestre est prononcée à son égard ou encore, qu'une ordonnance est rendue ou qu'une résolution est adoptée en vue de la liquidation de son entreprise, le ministre peut, moyennant un avis à l'entrepreneur, résilier sans délai tout ou partie du contrat pour manquement.</p>
 <p>3) Une fois donnée l'avis prévu aux paragraphes 1 ou 2, l'entrepreneur n'a droit à aucun autre paiement, mais il demeure redevable envers le Canada des sommes, y compris les paiements d'étape, versées par le Canada ainsi que des pertes et des dommages subis par celui-ci en raison du manquement, y compris l'accroissement du coût, pour le Canada, de l'exécution des travaux par un tiers.</p>
 <p>4) Dès la résiliation du contrat conformément au présent article, le Ministre peut exiger de l'entrepreneur qu'il remette au Canada, de la manière et dans la mesure qu'il précise, toute partie des travaux achevés et qui n'a pas été livrée et acceptée avant la résiliation, ainsi que tous matériaux, pièces, matériel, équipement et travaux en cours que l'entrepreneur a acquis ou produit spécialement aux fins d'exécuter le contrat.</p>
 <p>5) Moyennant la déduction de toute créance du Canada envers l'entrepreneur découlant du contrat ou de la résiliation, le Canada paie à l'entrepreneur la valeur, calculée à partir du prix contractuel, y compris la quote-part du profit ou de la rémunération de l'entrepreneur compris dans le prix contractuel, des parties des travaux qui ont été achevées et livrées au Canada suivant une directive visée au paragraphe 4 et que le Canada a acceptées, et il verse à l'entrepreneur l'équivalent du coût, pour l'entrepreneur, que le ministre juge raisonnable à l'égard des tous matériaux, pièces, matériel, équipement ou travaux en cours livrés au Canada suivant une directive visée au paragraphe 4 et que le Canada a acceptés.</p>
-<h5>2010 24 (2005-06-10) Résiliation au gré du ministre</h5>
+<h6>2010 24 (2005-06-10) Résiliation au gré du ministre</h6>
 <p>1) Le ministre peut, à tout moment avant l'achèvement des travaux, moyennant un avis à cet effet à l'entrepreneur, résilier le contrat en ce qui a trait à tout ou partie des travaux non achevés. Une fois l'avis de résiliation donné, l'entrepreneur cesse d'exécuter les travaux selon les modalités précisées dans l'avis, mais il poursuit l'exécution des travaux qui ne sont pas touchés par l'avis de résiliation.</p>
 <p>2) Lorsqu'un avis de résiliation est donné en application du paragraphe 1, l'entrepreneur a le droit d'être payé par le Canada, s'il ne l'a pas déjà été dans la limite des coûts qu'il a raisonnablement et dûment engagés aux fins d'exécuter le contrat, </p>
 <ol type="a">
@@ -1038,23 +1038,23 @@
 <p>3) Le ministre peut réduire le montant du paiement effectué à l'égard de certaines parties des travaux dans les limites où il ressort d'une inspection que les exigences du contrat ne sont pas respectées.</p>
 <p>4) Les sommes auxquelles l'entrepreneur a droit aux termes des paragraphes 2. a) et b), et les sommes versées ou dues à l'entrepreneur suivant d'autres dispositions du contrat, ne doivent pas dépasser, au total, le prix contractuel ou la partie de celui-ci qui correspond à la partie des travaux que vise la résiliation.</p>
 <p>5) Sauf dans la mesure prévue au présent article, les mesures prises et les avis de résiliation donnés par le ministre en vertu du présent article ne confèrent aucun recours à l'entrepreneur, ni directement ni indirectement, notamment en ce qui a trait à l'obtention de dommages-intérêts ou d'une indemnité sur le fondement, par exemple, d'un manque à gagner.</p>
-<h5>2010 25 (2005-06-10) Membres de la Chambre des communes</h5>
+<h6>2010 25 (2005-06-10) Membres de la Chambre des communes</h6>
 <p>Les membres de la Chambre des communes ne peuvent participer au contrat ni en tirer avantage.</p>
-<h5>2010 26 (2005-06-10) Conflits d'intérêts</h5>
+<h6>2010 26 (2005-06-10) Conflits d'intérêts</h6>
 <p>Toute personne qui ne se conforme pas aux dispositions du Code régissant la conduite des titulaires de charge publique en ce qui concerne les conflits d'intérêts et l'après-mandat ou du Code de valeurs et d'éthique de la fonction publique, ne peut bénéficier du présent contrat.</p>
-<h5>2010 27 (2005-06-10) Honoraires conditionnels</h5>
+<h6>2010 27 (2005-06-10) Honoraires conditionnels</h6>
 <p>L'entrepreneur atteste qu'il n'a pas versé ni convenu de verser, directement ou indirectement, et s'engage à ne pas verser, directement ou indirectement, des honoraires conditionnels en rapport avec la soumission, la négociation ou l'obtention du présent contrat à toute personne autre qu'un employé de l'entrepreneur remplissant les fonctions habituelles liées à son poste. Dans le présent paragraphe, "honoraires conditionnels" signifie tout paiement ou autre forme de rémunération qui est subordonné au degré de succès ou calculé en fonction du degré de succès obtenu en rapport à la soumission, à la négociation ou à l'obtention du contrat et "personne" comprend tout particulier qui est tenu de fournir au directeur une déclaration en vertu de l'article 5 de la Loi concernant l'enregistrement des lobbyistes, L.R.C. (1985), ch.44 (4e suppl.).</p>
-<h5>2010 28 (2005-06-10) Sanctions internationales</h5>
+<h6>2010 28 (2005-06-10) Sanctions internationales</h6>
 <p>1) Les personnes au Canada et les Canadiens et les Canadiennes à l'étranger sont liées par les sanctions économiques imposées par le Canada. En conséquence, le gouvernement du Canada ne peut accepter la livraison d'aucun bien ou service provenant, directement ou indirectement, d'un ou plusieurs pays ou personnes assujettis aux sanctions économiques.</p>
 <p>Les détails relatifs aux sanctions actuellement en vigueur peuvent être vus à l'adresse suivante : <a href="http://www.dfait-maeci.gc.ca/trade/sanctions-f.asp" rel="external">http://www.dfait-maeci.gc.ca/trade/sanctions-f.asp</a>.</p>
 <p>2) L'entrepreneur ne doit pas fournir au gouvernement canadien un bien ou un service assujetti aux sanctions économiques.</p>
 <p>3) En vertu de la loi, l'entrepreneur doit se conformer aux modifications apportées au règlement imposé pendant la durée du contrat. Si, dans le cadre de l'exécution du contrat, l'entrepreneur est dans l'impossibilité d'exécuter le contrat parce qu'on a imposé des sanctions à un pays ou à une personne ou qu'on a ajouté des biens ou des services à la liste des biens ou des services sanctionnés, l'entrepreneur pourra invoquer la force majeure. L'entrepreneur devra informer le Canada immédiatement de la situation, et les procédures établies pour la force majeure s'appliqueront alors.</p>
-<h5>2010 29 (2005-06-10) Exhaustivité de la convention</h5>
+<h6>2010 29 (2005-06-10) Exhaustivité de la convention</h6>
 <p>Le contrat représente la totalité et la seule entente intervenue entre les parties.</p>
 <hr/>
-<h4><a id="AP-71annb" name="annb"></a>Annexe B<br/>
-					Modifications apportées au Guide des approvisionnements</h4>
-<h5>Chapitre 6 – Élaboration de la stratégie d'achat</h5>
+<h5><a id="AP-71annb" name="annb"></a>Annexe B<br/>
+					Modifications apportées au Guide des approvisionnements</h5>
+<h6>Chapitre 6 – Élaboration de la stratégie d'achat</h6>
 <p><strong>Section 6E : Processus</strong></p>
 <p><strong>Modèles uniformisés pour les documents d'achat ministériels en langage clair</strong></p>
 <p>6E.643 (2005/06/10) Travaux publics et Services gouvernementaux Canada (TPSGC) a mis en œuvre les Modèles uniformisés d'approvisionnement ministériel en langage clair, ainsi que les nouvelles instructions uniformisées et les nouvelles conditions générales à l'intention de ses agents de négociation des contrats pour l'achat des biens ou des services (sauf les travaux de construction).</p>
@@ -1072,7 +1072,7 @@
 <li>d'autres clauses pertinentes peuvent être ajoutées dans la section correspondante pour répondre aux besoins relatifs aux biens ou aux services dans les modèles, selon le cas;</li>
 <li>des annexes peuvent être ajoutées pour certains biens ou services si nécessaire.</li>
 </ul>
-<h5>MODÈLES</h5>
+<h6>MODÈLES</h6>
 <p><strong><em>1. 2T- FV1 Modèle de demande de soumissions et de contrat pour les marchés de faible valeur (FV) pour les biens ou les services :</em></strong> le modèle de demande de soumissions comprend les nouvelles Instructions uniformisées 2003 – Biens ou services, qui sont intégrées par renvoi. Le modèle de contrat comprend les nouvelles Conditions générales 2029 – Biens ou services, qui sont intégrées par renvoi. Le modèle de contrat s'appliquera lorsqu'on demande des offres de prix dans le cadre d'une Demande de prix (DPrix) ou d'achats par téléphone pour des marchés attribués en régime de concurrence et qu'on accepte le prix le plus bas, ou encore lorsqu'on demande des prix dans le cadre d'une DPrix ou d'un achat par téléphone pour les marchés attribués sans concurrence à des fournisseurs uniques. Lorsqu'on ne lance pas de demande de soumissions, il faut supprimer la Partie1 et le titre » Partie 2 – Clauses du contrat» avant de reproduire ces clauses.</p>
 <p><strong><em>2. 2T- MED1 Modèle de demande de soumissions et de contrat pour les marchés de complexité moyenne pour les biens ou les services :</em></strong> le modèle de la demande de soumissions comprend les Instructions uniformisées 2003 – Biens ou services, qui sont intégrées par renvoi. Le modèle de contrat comprend les Conditions générales 2010 – Biens ou services, qui sont intégrées par renvoi. Lorsqu'on ne lance pas de demande de soumissions, on doit conserver la Partie4 seulement du document et supprimer le titre »Partie 4 – Clauses du contrat» avant de reproduire ces clauses.</p>
 <p><strong><em>3. Notes pour les modèles</em></strong><br/>
@@ -1080,7 +1080,7 @@
 <p>Les modèles demande de soumissions et les modèles de contrat comprennent des instructions. Il faut supprimer toute cette information avant de publier les documents.</p>
 <p>En anglais, les mots «Contractor», «Bidder», «Work», «Contract» et «Contracting Authority» prennent une majuscule lorsqu'ils sont au singulier and quand ils sont précédés par «the» parce qu'à l'exception de «Bidder», ils sont définis au contrat.<br/>
 					La règle pour les majuscules ne s'appliquent pas en français.</p>
-<h5>Chapitre 7 – Approvisionnements Achats en régime de concurrence</h5>
+<h6>Chapitre 7 – Approvisionnements Achats en régime de concurrence</h6>
 <p><strong>Section 7A : Préparation d'une demande de soumissions</strong></p>
 <p>7A.001 (2005/06/10) Les pages de couverture des Demandes de soumissions propositions sont rédigées d'après des formulaires uniformisés, à savoir :<br/>
 					PWGSC-TPSGC 9400-2 Demande de propositions<br/>
@@ -1088,7 +1088,7 @@
 					PWGSC-TPSGC 212 Révision à un arrangement en matière d'approvisionnement<br/>
 					PWGSC-TPSGC 9169 Arrangement en matière d'approvisionnement (Ceci n'est pas un contrat.)</p>
 <p>Chaque demande de soumissions Toute invitation à soumissionner doit comprendre inclure les instructions et les conditions uniformisées (section 1 du Guide des clauses et conditions uniformisées d'achat (CCUA)), qui fourniront aux qui renferment, à l'intention des soumissionnaires, les renseignements pertinents.</p>
-<h5>Clauses et conditions</h5>
+<h6>Clauses et conditions</h6>
 <p>7A.002 (2005/06/10) La plupart des approvisionnements de biens ou de services doivent être exécutées selon les Conditions générales et les Conditions générales supplémentaires reproduites dans le Guide des CCUA. Les conditions à appliquer dépendent de la nature de l'approvisionnement et sont énumérées ci-après. Tout achat de produits et de services doit être effectué en se servant des conditions générales et des conditions générales supplémentaires que l'on trouve dans le guide des CCUA. Les conditions qui doivent être utilisées dépendent de la nature de l'achat :</p>
 <p>Remarque: les modifications suivantes apportées au tableau 7A.002 entrent en vigueur le 10 juin 2005.</p>
 <ul>
@@ -1099,8 +1099,8 @@
 <li>Conditions générales – Biens et services (complexité moyenne) : 2010 Nouveau</li>
 </ul>
 <hr/>
-<h4><a id="AP-71annc" name="annc"></a>Annexe C<br/>
-					Exemple de marché de FV faisant appel au modèle de marché de FV</h4>
+<h5><a id="AP-71annc" name="annc"></a>Annexe C<br/>
+					Exemple de marché de FV faisant appel au modèle de marché de FV</h5>
 <p>(Remarque:Les clauses reproduites dans ce document n'ont pas été révisées.)<br/>
 <span aria-label="Espace réservé vide" class="blankline"></span> <br/>
 					Sollicitation No. - No. De sollicitation Buyer ID - is. De l'acheteur<br/>
@@ -1108,20 +1108,20 @@
 					Client Ref. No. File No.- N° du dossier<br/>
 					W8485-XXXXXXX XXXXXW8485-XXXXXXXX<br/>
 <span aria-label="Espace réservé vide" class="blankline"></span> </p>
-<h4>PARTIE 1 - RENSEIGNEMENTS ET INSTRUCTIONS</h4>
-<h5>1. EXIGENCES EN MATIÈRE DE SÉCURITÉ</h5>
+<h5>PARTIE 1 - RENSEIGNEMENTS ET INSTRUCTIONS</h5>
+<h6>1. EXIGENCES EN MATIÈRE DE SÉCURITÉ</h6>
 <p>Ce marché ne comporte aucune exigence relative à la sécurité.</p>
-<h5>2. BESOINS</h5>
+<h6>2. BESOINS</h6>
 <p><em>2.1 L'entrepreneur doit fournir les produits énumérés dans la liste ci-jointe.</em></p>
 <p><em>2.2 Pièces d'avion - substitutions et traçabilité<br/>
 					(XBD25T, 26/02/04)</em></p>
-<h5>3. INSTRUCTIONS, CONDITIONS ET CLAUSES UNIFORMISÉES</h5>
+<h6>3. INSTRUCTIONS, CONDITIONS ET CLAUSES UNIFORMISÉES</h6>
 <p>Toutes les clauses et conditions identifiées dans la demande de soumissions par un titre, un numéro et une date sont reproduites dans le Guide des clauses et conditions uniformisées d'achat publié par Travaux publics et Services gouvernementaux Canada (TPSGC).</p>
 <p>Le guide est disponible sur le site Web de TPSGC : <a href="http://sacc.tpsgc.gc.ca/sacc/index-f.jsp" rel="external">http://sacc.tpsgc.gc.ca/sacc/index-f.jsp</a>.</p>
 <p>				Les soumissionnaires qui déposent une soumission s'engagent à respecter les instructions, les conditions et les clauses de cette demande de soumissions et acceptent les clauses et les conditions du contrat.</p>
 <p><em>3.1 Instructions uniformisées</em><br/>
 					Les Instructions uniformisées - Biens ou services 2003 (2005-06-10) font partie de cette demande de soumissions.</p>
-<h5>4. PRÉSENTATION DES SOUMISSIONS</h5>
+<h6>4. PRÉSENTATION DES SOUMISSIONS</h6>
 <p><em>4.1 Les soumissions doivent être présentées à l'autorité contractante dont le nom est indiqué dans la demande de soumissions ainsi qu'à la clause 5 de la partie 2, Clauses du contrat, avant <span aria-label="Espace réservé vide" class="blankline"></span> .</em></p>
 <p><em>4.2 Clauses du guide des CCUA</em><br/>
 					A0020T(30/05/03) Soumissionnaire - Détail de ses capacités<br/>
@@ -1140,13 +1140,13 @@
 					(XBD25TB, 26/02/04)</p>
 <p><em>4.7 Exigences relatives à la certification de la navigabilité</em><br/>
 					( XBD25TA, 11/26/2003 )</p>
-<h5>5. LOIS APPLICABLES</h5>
+<h6>5. LOIS APPLICABLES</h6>
 <p>Tout contrat qui pourrait être attribué sera interprété et régi selon les lois en vigueur en Ontario et les relations entre les parties seront déterminées par ces lois.</p>
 <p>À sa discrétion, le soumissionnaire peut utiliser les lois applicables d'une province ou d'un territoire canadien de son choix, sans que la validité de sa soumission ne soit mise en question, en supprimant le nom de la province ou le territoire canadien précisé et en insérant le nom de la province ou le territoire canadien de son choix. Si aucun changement n'est indiqué, cela signifie que le soumissionnaire accepte les lois applicables indiquées.</p>
-<h4>PARTIE 2 - CLAUSES DU CONTRAT</h4>
-<h5>1. EXIGENCES EN MATIÈRE DE SÉCURITÉ</h5>
+<h5>PARTIE 2 - CLAUSES DU CONTRAT</h5>
+<h6>1. EXIGENCES EN MATIÈRE DE SÉCURITÉ</h6>
 <p>Ce marché ne comporte aucune exigence relative à la sécurité.</p>
-<h5>2. BESOINS</h5>
+<h6>2. BESOINS</h6>
 <p><em>2.1 L'entrepreneur doit fournir les produits indiqués dans la liste ci-jointe.</em></p>
 <p><em>2.2 Clauses du guide des CCUA </em><br/>
 					B1000D (1995/12/15) Matériel <br/>
@@ -1164,14 +1164,14 @@
 					D5542D (2003/12/12) ISO 9001:2000 - Systèmes de management de la qualité - Exigences (CAQ Z)<br/>
 					D5543D (2004/12/10) ISO 9001:2000 - Systèmes de management de la qualité - Exigences (CAQ C)<br/>
 					D9002C (1998/02/16) Ensembles incomplets</p>
-<h5>3. CONDITIONS ET CLAUSES UNIFORMISÉES</h5>
+<h6>3. CONDITIONS ET CLAUSES UNIFORMISÉES</h6>
 <p>Toutes les clauses et conditions identifiées dans le contrat par un titre, un numéro et une date sont reproduites dans le Guide des clauses et conditions uniformisées d'achat publié par Travaux publics et Services gouvernementaux Canada (TPSGC).</p>
 <p>Le guide est disponible sur le site Web de TPSGC : <a href="http://sacc.tpsgc.gc.ca/sacc/index-f.jsp" rel="external">http://sacc.tpsgc.gc.ca/sacc/index-f.jsp</a>.</p>
 <p><em>3.1 Conditions générales</em><br/>
 					Les Conditions générales - Biens ou services 2029 (2005-06-10) (faible valeur) sont intégrés par renvoi et font partie intégrante du contrat. </p>
 <p><em>3.2 Clauses du guide des CCUA</em><br/>
 					A9006D (21/06/99) Contrat de défense</p>
-<h5>4. DURÉE DU CONTRAT</h5>
+<h6>4. DURÉE DU CONTRAT</h6>
 <p><em>4.1 Livraison</em></p>
 <p>La date de livraison est le <span aria-label="Espace réservé vide" class="blankline"></span> .</p>
 <p><em>4.2 Clauses du Guide des CCUA</em><br/>
@@ -1204,7 +1204,7 @@
 </li>
 </ol>
 <p>REMARQUE: Pour les contrats de mise à bord de carburant des aéronefs, les exemplaires 2, 3, 4 et 5 ne seront pas nécessaires et peuvent être détruits.</p>
-<h5>5. RESPONSABLES </h5>
+<h6>5. RESPONSABLES </h6>
 <p><em>5.1 Autorité contractante</em><br/>
 					L'autorité contractante dont le nom est indiqué ci-après est responsable de la gestion du contrat et tous les changements au contrat doivent être autorisés, par écrit, par l'autorité contractante.</p>
 <p><span aria-label="Espace réservé vide" class="blankline"></span> <br/>
@@ -1225,7 +1225,7 @@
 					No de téléphone :<br/>
 					No de télécopieur :<br/>
 					Courriel : </p>
-<h5>6. BASE DE PAIEMENT</h5>
+<h6>6. BASE DE PAIEMENT</h6>
 <p>L'entrepreneur sera payé comme suit:<br/>
 					Prix ferme; TPS: en sus; Droits de douane: Exemption; FAB: Destination.</p>
 <p><em>6.2 Clauses du guide des CCUA</em><br/>
@@ -1233,7 +1233,7 @@
 					C2002C (1993-10-29) Divulgation de taxes étrangères<br/>
 					C2608D (2004-12-10) Documentation des douanes canadiennes<br/>
 					H1001D (2004-12-10) Modalités de paiement - livraison multiple</p>
-<h5>7. INSTRUCTIONS POUR LA FACTURATION</h5>
+<h6>7. INSTRUCTIONS POUR LA FACTURATION</h6>
 <ol type="a">
 <li>L'entrepreneur doit présenter ses factures conformément aux renseignements exigés à la section 5 des Conditions générales - Biens ou services 2029 (faible valeur).</li>
 <li>Les exemplaires des factures doivent être répartis comme suit :<br/>
@@ -1262,7 +1262,7 @@
 </ol>
 </li>
 </ol>
-<h5>8. LOIS APPLICABLES</h5>
+<h6>8. LOIS APPLICABLES</h6>
 <p>Le contrat sera interprété et régi selon les lois en vigueur en Ontario et les relations entre les parties seront déterminées par ces lois.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

@@ -1,19 +1,19 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-51U1</h2>
+<h3 class="pn-content-title">Contenu de l'AP-51U1</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3> DATE : le 7 octobre 2004</h3>
-<h4>Introduction</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4> DATE : le 7 octobre 2004</h4>
+<h5>Introduction</h5>
 <p>L'Avis relatif aux politiques (AP) 51U1 vise à mettre à jour les renseignements sur les marchandises contrôlées qui figurent dans le Guide des Clauses et conditions uniformisées d'achat (CCUA) et dans le Guide des approvisionnements (GDA).</p>
 <p>L'AP-51 et l'AP-51U ont été promulgués le 30 avril 2001 et le 20 juin 2001, respectivement, et ont annoncé que le projet de loi S-25 modifiait la Loi sur la production de défense (LPD) et le Règlement sur les marchandises contrôlées et que la modification de la LPD entraînait la mise sur pied du Programme des marchandises contrôlées (PMC) de Travaux publics et Services gouvernementaux Canada (TPSGC), un programme national de sécurité industrielle qui porte sur les questions de sécurité ayant trait à la protection des marchandises contrôlées à l'intérieur du Canada.</p>
-<h4>Mise à jour</h4>
+<h5>Mise à jour</h5>
 <p>La mise à jour des renseignements sur les marchandises contrôlées touche ce qui suit :</p>
 <ul>
 <li>Les clauses A9130T et A9131C du guide des CCUA ont été révisées afin d'y inclure :
@@ -39,15 +39,15 @@
 <p>Les clauses révisées du guide des CCUA entrent en vigueur immédiatement; on demande donc aux agents de négociation des contrats de les incorporer dans les documents futurs.</p>
 <p>Tous les changements figurant aux annexes A et B (mis en évidence en <em>rouge</em>) seront incorporés dans la prochaine modification du guide des CCUA et du GDA.</p>
 <p><em><strong>NOTA</strong> : On rappelle aux agents de négociation des contrats de mettre en noir le texte en rouge avant de coller les clauses révisées dans leurs documents d'achat.</em></p>
-<h4>Contexte</h4>
+<h5>Contexte</h5>
 <p>Le projet de loi S-25 a modifié la Loi sur la production de défense (LPD) et a établi ainsi une nouvelle réglementation de l'accès à certaines marchandises contrôlées de nature militaire ou paramilitaire et à la technologie connexe. La LPD modifiée et le Règlement sur les marchandises contrôlées qui en a découlé sont entrés en vigueur le 30 avril 2001. Pour répondre aux exigences de la LPD, on a établi le Programme des marchandises contrôlées (PMC), un programme du gouvernement fédéral, en vertu de la LPD et du Règlement sur les marchandises contrôlées. Le PMC, qui est administré par TPSG, exige que toutes les personnes qui, au Canada, examinent ou possèdent des marchandises contrôlées ou les transfèrent à une autre personne au Canada soient inscrites, exemptées ou exclues de l'inscription en vertu du PMC. Les personnes inscrites en vertu du PMC sont assujetties aux inspections dont il est question à l'article 42 de la LPD.</p>
-<h4>Personne à contacter</h4>
+<h5>Personne à contacter</h5>
 <p><strong>S/O</strong></p>
 <hr/>
-<h4>Annexe A Modifications au guide des CCUA</h4>
-<h5>A9130T Marchandises contrôlées</h5>
+<h5>Annexe A Modifications au guide des CCUA</h5>
+<h6>A9130T Marchandises contrôlées</h6>
 <p><strong>Remarques : LE TEXTE INTÉGRAL DE CETTE CLAUSE DOIT APPARAÎTRE DANS LES DOCUMENTS D'ACHAT.</strong> Utiliser la clause suivante dans les documents d'invitations à soumissionner lorsqu'il est question de produire des marchandises contrôlées <em>ou</em> d'y avoir accès. </p>
-<h5>Texte :</h5>
+<h6>Texte :</h6>
 <p><em>1.</em> Étant donné que le contrat subséquent nécessitera la production de marchandises contrôlées <em>ou</em> l'accès à des marchandises contrôlées qui sont visées par la <em>Loi sur la production de défense</em>, les <em>soumissionnaires</em> sont avisés par la présente que, <em>au Canada,</em> seules les personnes inscrites, exemptées ou exclues en vertu du Programme des marchandises contrôlées (PMC) sont légalement autorisées à examiner, à posséder ou à transférer des marchandises contrôlées. <em>On trouvera des précisions sur la façon de s'inscrire au PMC à l'adresse <a href="http://www.cgp.gc.ca" rel="external">www.cgp.gc.ca</a> et l'inscription se fait comme suit :</em></p>
 <ul class="noBullet">
 <li>a) Lorsque le document d'invitation à soumissionner comporte des informations relatives aux marchandises contrôlées ou à de la technologie connexe, le soumissionnaire doit être inscrit, exempté <em>ou exclu</em> en vertu du PMC avant de pouvoir recevoir le document en question. Les demandes visant à obtenir des dossiers de documents techniques ou des spécifications liés aux marchandises contrôlées doivent être adressées par écrit à l'autorité contractante désignée dans la présente <em>et doivent comprendre le numéro d'inscription au PMC ou une preuve écrite de l'exemption ou de l'exclusion du soumissionnaire et de toute autre personne à laquelle celui-ci donnera accès aux marchandises contrôlées</em>.</li>
@@ -56,21 +56,21 @@
 <li><em>Si l'entrepreneur ne prouve pas, à la satisfaction de l'autorité contractante, que l'entrepreneur et tout sous-traitant sont inscrits, exemptés ou exclus en vertu du PMC dans les trente (30) jours suivant la réception d'un avis écrit d'adjudication du contrat, il sera en défaut d'exécution du contrat, sauf si le Canada est responsable de cette situation à cause d'un retard dans le traitement de la demande.</em></li>
 </ul>
 <p>2. Les soumissionnaires sont avisés que tous les renseignements figurant sur le formulaire de demande d'inscription (ou d'exemption) seront vérifiés et que les erreurs ou les inexactitudes pourront causer d'importants retards et/ou entraîner le refus de l'inscription ou de l'exemption.</p>
-<h5>A9131C Marchandises contrôlées</h5>
+<h6>A9131C Marchandises contrôlées</h6>
 <p><strong>Remarques : LE TEXTE INTÉGRAL DE CETTE CLAUSE DOIT APPARAÎTRE DANS LES DOCUMENTS D'ACHAT.</strong> Utiliser la clause suivante dans les contrats lorsqu'il est question de produire des marchandises contrôlées ou d'y avoir accès. </p>
-<h5>Texte :</h5>
+<h6>Texte :</h6>
 <p>1. Étant donné que le contrat nécessite la production de marchandises contrôlées ou l'accès à des marchandises contrôlées qui sont visées par la <em>Loi sur la production de défense</em>, l'entrepreneur et tout sous-traitant sont avisés par la présente que, <em>au Canada,</em> seules les personnes inscrites, exemptées ou exclues en vertu du Programme des marchandises contrôlées (PMC) sont légalement autorisées à examiner, à posséder ou à transférer des marchandises contrôlées. On trouvera des précisions sur la façon de s'inscrire au PMC à l'adresse <a href="http://www.cgp.gc.ca" rel="external">www.cgp.gc.ca</a>.</p>
 <p>2. Lorsque l'entrepreneur et tout sous-traitant proposés pour l'examen, la possession ou le transfert de marchandises contrôlées ne sont pas inscrits, exemptés ou exclus en vertu du PMC au moment de l'adjudication du contrat, l'entrepreneur et tout sous-traitant devront, dans les sept (7) jours ouvrables suivant la réception d'un avis écrit d'adjudication du contrat, soumettre la ou les demandes d'inscription ou d'exemption requises au PMC. Aucun examen, possession ou transfert de marchandises contrôlées ne devra être effectué avant que l'entrepreneur ait prouvé, à la satisfaction de l'autorité contractante, que l'entrepreneur et tout sous-traitant sont inscrits, exemptés ou exclus en vertu du PMC.</p>
 <p>Si l'entrepreneur ne prouve pas, à la satisfaction de l'autorité contractante, que l'entrepreneur et tout sous-traitant sont inscrits, exemptés ou exclus en vertu du PMC dans les trente (30) jours suivant la réception d'un avis écrit d'adjudication du contrat, il sera en défaut d'exécution du contrat, sauf si le Canada est responsable de cette situation à cause d'un retard dans le traitement de la demande.</p>
 <p>3. L'entrepreneur <em>et tout sous-traitant</em> doivent maintenir en vigueur leur inscription, leur exemption <em>ou leur exclusion</em> relative au PMC pendant la durée du contrat <em>et, dans tous les cas, aussi longtemps qu'ils examineront, possèderont ou transféreront des marchandises contrôlées.</em></p>
 <hr/>
-<h4>Annexe B Modifications au Guide des approvisionnements</h4>
-<h5>CHAPITRE 1 - VUE D'ENSEMBLE</h5>
-<h5>Loi sur la production de défense</h5>
+<h5>Annexe B Modifications au Guide des approvisionnements</h5>
+<h6>CHAPITRE 1 - VUE D'ENSEMBLE</h6>
+<h6>Loi sur la production de défense</h6>
 <p>1.053 (xxxx-xx-xx) L'article 40 porte sur les rapports et stipule que chaque personne inscrite est tenue de transmettre au ministre les renseignements exigés par les règlements, dans les délais et selon les modalités réglementaires, <em>y compris de signaler les infractions à la sécurité</em>.</p>
 <p>1.055 (xxxx-xx-xx) L'article 42 porte sur les inspections des lieux et décrit les pouvoirs qu'ont les inspecteurs pour assurer le respect du Programme. Il stipule en outre que les inspecteurs peuvent se faire accompagner d'une personne de leur choix. <em>Ces pouvoirs comprennent le pouvoir d'exiger qu'une personne se présente et de l'interroger, le pouvoir d'obtenir et de copier des documents, le pouvoir de retenir ou de déplacer des marchandises contrôlées, et le pouvoir d'exiger la mise en œuvre de mesures correctives.</em></p>
-<h5>CHAPITRE 6</h5>
-<h5>SECTION 6B - DÉFINITION DE L'ACHAT</h5>
+<h6>CHAPITRE 6</h6>
+<h6>SECTION 6B - DÉFINITION DE L'ACHAT</h6>
 <p><strong>Marchandises contrôlées</strong></p>
 <p><em>6B.192 (xxxx-xx-xx) Les marchandises contrôlées figurant ci-dessous se trouvent dans l'annexe de la Loi sur la production de défense et sont reproduites en détail dans la Liste des marchandises contrôlées, publiée par Commerce international Canada (CIC) :</em></p>
 <ul>
@@ -81,12 +81,12 @@
 <li>Groupe 6 : toutes les marchandises énumérées. </li>
 </ul>
 <p>Il incombe au ministère client d'indiquer, dans toute demande d'achat, que certains aspects concernent des marchandises contrôlées. <em>Par exemple, les demandes d'achat envoyées à Travaux publics et Services gouvernementaux Canada par le ministère de la Défense nationale doivent porter, sur la première ligne, la mention " cette demande porte sur des marchandises contrôlées " ou " cette demande ne porte pas sur des marchandises contrôlées ". En cas de doute, la Direction des contrôles à l'exportation de CIC est l'autorité ultime qui est en mesure de faire cette détermination (613-996-2387).</em></p>
-<h5>CHAPITRE 7</h5>
-<h5>SECTION 7A - PRÉPARATION D'UNE INVITATION À SOUMISSIONNER</h5>
+<h6>CHAPITRE 7</h6>
+<h6>SECTION 7A - PRÉPARATION D'UNE INVITATION À SOUMISSIONNER</h6>
 <p><strong>Marchandises contrôlées</strong></p>
 <p>7A.130 (xxxx-xx-xx) La clause <em>A9130T</em> du guide des CCUA doit faire partie des documents d'invitation à soumissionner et la clause A9131C doit faire partie des	contrats, lorsqu'il est question de produire des marchandises contrôlées ou d'y avoir accès.</p>
 <p><em>Pour toute question au sujet des marchandises contrôlées, les agents de négociation des contrats doivent visiter le site Web du </em><em>Programme des marchandises contrôlées.</em></p>
-<h5>SECTION 7B - PUBLICATION D'UNE INVITATION À SOUMISSIONNER </h5>
+<h6>SECTION 7B - PUBLICATION D'UNE INVITATION À SOUMISSIONNER </h6>
 <p><strong>Marchandises contrôlées</strong></p>
 <p>7B.215 (2002-05-24) Il est interdit de remettre des marchandises contrôlées à des personnes non inscrites, exemptées ou exclues conformément au Programme des marchandises contrôlées (PMC).</p>
 <p>7B.216 (xxxx-xx-xx) Lorsque l'invitation à soumissionner (p. ex. demande de propositions ou avis de projet de marché) porte sur des marchandises contrôlées, seules ces marchandises contrôlées (<em>*</em>p. ex. des dessins ou un énoncé des travaux) ne peuvent pas être remises (p. ex. par l'intermédiaire du Service électronique d'appels d'offres du gouvernement / MERX) à des personnes non inscrites, exemptées ou exclues conformément au PMC; le reste des articles est traité de la manière habituelle.</p>
@@ -104,7 +104,7 @@
 <li>f) consigner la marchandise qui est transférée et le nom de la personne qui la transfère;</li>
 <li>g) vérifier le colis et le matériel de cachetage à la réception, et signaler tout signe d'altération.</li>
 </ul>
-<h5>CHAPITRE 12 - GLOSSAIRE</h5>
+<h6>CHAPITRE 12 - GLOSSAIRE</h6>
 <p><strong>Marchandises contrôlées</strong></p>
 <p>Les marchandises contrôlées sont définies dans l'annexe de la LPD. Les articles suivants figurent dans la Liste des marchandises contrôlées : groupe 2, pas tous les articles; groupe 5, article 5504 uniquement; et groupe 6, tous les articles. (<span lang="en"><strong><em>controlled goods</em></strong></span>) (xxxx-xx-xx)</p>
 <p>(1) " examiner " signifie, dans le contexte des marchandises contrôlées, analyser des marchandises contrôlées par quelque moyen que ce soit pour permettre à quelqu'un d'avoir une connaissance détaillée des propriétés inhérentes et des caractéristiques de performance de ces marchandises de façon telle que cette personne puisse utiliser cette connaissance pour reproduire ou copier la marchandise, ou pour améliorer la performance d'un article similaire. (<span lang="en"><strong><em>examine</em></strong></span>);</p>

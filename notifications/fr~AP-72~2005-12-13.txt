@@ -1,24 +1,24 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-72</h2>
+<h3 class="pn-content-title">Contenu de l'AP-72</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 13 décembre 2005</h3>
-<h4>Introduction</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 13 décembre 2005</h4>
+<h5>Introduction</h5>
 <p>Le présent avis relatif aux politiques (AP) présente les améliorations apportées à la gestion des méthodes d'approvisionnement, soit les offres à commandes et les arrangements en matière d'approvisionnement, et donne à tous les membres du personnel responsable des achats des directives sur le nouveau processus d'approbation. Au cours des prochains mois, on élaborera une politique d'approvisionnement complète, de concert avec les chefs des équipes responsables de la gestion des biens et des services (ERGBS), afin d'établir des lignes directrices et un cadre stratégique détaillés pour la création de nouvelles offres à commandes et de nouveaux arrangements en matière d'approvisionnement. Le présent AP fait état des procédures provisoires à appliquer jusqu'à ce que cette politique soit élaborée.</p>
 <p>Il faut prendre connaissance de cet AP à la lumière des dispositions des chapitres pertinents du Guide des approvisionnements (GDA) et de l'AP-70. En cas de contradiction entre ce guide et le présent AP, les dispositions de l'AP-72 seront prépondérantes. </p>
-<h4>Politique</h4>
+<h5>Politique</h5>
 <p>À partir de maintenant, la création de nouvelles offres à commandes et de nouveaux arrangements en matière d'approvisionnement ainsi que le report des dates d'échéance des offres à commandes ou des arrangements en matière d'approvisionnement existants devront être approuvés au préalable par l'ERGBS désignée pour les biens et les services visés (voir la l'annexe A ci-jointe). S'il n'y a pas d'ERGBS, le directeur de la Gestion des produits, Direction générale des approvisionnements, devra nommer un chef d'ERGBS qui pourra donner les approbations nécessaires, conformément aux procédures et aux lignes directrices figurant dans le présent AP.</p>
-<h4>Contexte</h4>
+<h5>Contexte</h5>
 <p>Dans le cadre de l'initiative « Les prochaines étapes », il est obligatoire depuis le 1<sup>er</sup> avril 2005, de recourir aux offres à commandes et aux arrangements en matière d'approvisionnement existants pour les dix groupes de biens et de services indiqués dans l'AP-70. Pour appuyer cette initiative, la Direction générale des approvisionnements doit s'assurer que les offres à commandes et les arrangements en matière d'approvisionnement actuels et futurs offrent une efficacité et une efficience optimales dans le cadre des programmes des clients, ainsi que le meilleur rapport qualité-prix, permettant ainsi aux ministères de réaliser des économies réelles. On doit porter une attention particulière aux offres à commandes et aux arrangements en matière d'approvisionnement liés aux dix groupes de biens et de services déterminés, étant donné que, dès qu'elles sont en place, leur recours devient obligatoire à l'échelle du gouvernement.</p>
 <p>Par conséquent, on procédera à un examen de toutes les offres à commandes et de tous les arrangements en matière d'approvisionnement existants pour relever et éliminer les problèmes de chevauchement parmi les produits ou les fournisseurs et pour rationaliser le nombre de fournisseurs, en vue de renforcer le pouvoir d'achat du gouvernement tout en veillant à offrir aux clients une sélection raisonnable de biens et de services de qualité.</p>
-<h4>Procédures provisoires</h4>
+<h5>Procédures provisoires</h5>
 <p>Avant de créer de nouvelles offres à commandes ou de nouveaux arrangements en matière d'approvisionnement, ou de prolonger la durée des offres à commandes ou des arrangements en matière d'approvisionnements existants, peu importe leur valeur et si la période de prolongation a été préapprouvée, l'agent de négociation des contrats doit soumettre un plan d'achat à son gestionnaire (ou Planification et approbation préalable des contrats), qui recommandera à l'ERGBS de l'approuver. Le chef de l'ERGBS décidera s'il doit convoquer l'équipe à une réunion ou lui demander une approbation écrite sans réunion, ou s'il peut approuver le plan d'achat au nom de l'ERGBS. En se fondant sur son jugement ou sur les commentaires formulés par l'ERGBS, le chef de l'ERGBS devra tenir compte du bien-fondé et des conditions du plan d'achat, et recommander qu'on soumette le plan pour approbation ou qu'on y apporte des modifications. Il importe de souligner que les pouvoirs d'approbation des contrats existants sont maintenus.  Le chef d'ERGBS doit se limiter aux pouvoirs qui lui ont été délégués et simplement endosser le plan d'achat avant de le soumettre, pour approbation. </p>
 <p>En plus des renseignements standards, le plan d'achat doit comprendre les éléments suivants :</p>
 <ol type="A">
@@ -44,10 +44,10 @@
 </ol>
 </li>
 </ol>
-<h4>Demandes de renseignements</h4>
+<h5>Demandes de renseignements</h5>
 <p><strong>S/O</strong></p>
-<h3>Annexe A </h3>
-<h4 class="center">Liste des conseils et des équipes de biens et de services</h4>
+<h4>Annexe A </h4>
+<h5 class="center">Liste des conseils et des équipes de biens et de services</h5>
 <table class="basic">
 <tbody><tr>
 <th>Conseils et équipes de biens et de services</th>
@@ -161,14 +161,14 @@
 </tr>
 </tbody></table>
 <p> <a id="AP-72annexb" name="annexb"></a></p>
-<h3>Annexe B</h3>
-<h4>Clause du guide des Clauses et conditions uniformisées d'achat</h4>
-<h3>M7010C	(XXXX-XX-XX)	Offres à commandes / arrangements en matière d'approvisionnement - établissement de rapports</h3>
-<h4>Usage :</h4>
+<h4>Annexe B</h4>
+<h5>Clause du guide des Clauses et conditions uniformisées d'achat</h5>
+<h4>M7010C	(XXXX-XX-XX)	Offres à commandes / arrangements en matière d'approvisionnement - établissement de rapports</h4>
+<h5>Usage :</h5>
 <p>Texte intégral</p>
-<h4>Remarques</h4>
+<h5>Remarques</h5>
 <p>À moins d'une autorisation de l'équipe responsable de la gestion des biens et des services responsable, utiliser la clause suivante dans les offres à commandes pluriministérielles (principales) ou dans les arrangements en matière d'approvisionnement lorsque plus d'un ministère est indiqué comme utilisateur de l'offre à commandes ou de l'arrangement en matière d'approvisionnement. Les agents de négociation des contrats doivent choisir entre les termes « offre à commandes » ou « arrangement en matière d'approvisionnement », et les termes « offrant » (pour une offre à commandes) et « fournisseur » (pour un arrangement en matière d'approvisionnement), selon le cas. L'agent de négociation des contrats doit annexer une liste des données dont l'entrepreneur doit rendre compte à la demande d'offre à commandes et aux offres à commandes qui en découlent, ou à la demande pour un arrangement en matière d'approvisionnement et aux arrangements en matière d'approvisionnement qui en découlent.</p>
-<h4>Texte</h4>
+<h5>Texte</h5>
 <p>L'offrant / Le fournisseur doit compiler et tenir à jour des données sur l'utilisation des biens ou des services fournis au gouvernement fédéral dans le cadre de contrats découlant  d'une offre à commandes / arrangement en matière d'approvisionnement. Ces données doivent comprendre les achats commandés ou payés à l'aide d'une carte d'achat du gouvernement du Canada. À chaque trimestre, l'offrant / le fournisseur doit rassembler ces données et les soumettre à l'autorité contractante de Travaux publics et Services gouvernementaux Canada (TPSGC) responsable de l'offre à commandes /  arrangement en matière d'approvisionnement. Les données doivent inclure les données indiquées à l'annexe « <span aria-label="Espace réservé vide" class="blankline"></span>  ».</p>
 <p>Les trimestres se répartissent comme suit : </p>
 <p>Premier trimestre : du 1er avril au 30 juin;<br/>

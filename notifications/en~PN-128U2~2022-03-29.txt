@@ -1,11 +1,11 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-128U2</h2>
+<h3 class="pn-content-title">Content of PN-128U2</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of Policy Notification PN-128U2 is to inform Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) contracting officers of updates and required modifications to the Canada Post Corporation’s (CPC) Connect reception method.</p>
 <p><abbr title="Policy Notification">PN</abbr>-128U2 is an update of <abbr title="Policy Notification">PN</abbr>-128U1.</p>
-<h3>Overview</h3>
+<h4>Overview</h4>
 <p>The purpose of Policy Notification PN-128U2 is to change the name of the service offered by Canada Post Corporation (CPC) and the wording of clauses referring to that service to ensure correct interpretation by all users. This update will also modify the email address and fax number of the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Bid Receiving Unit (BRU). The required changes are as follows:</p>
 <ol>
 <li>Update to the text to ensure consistency with clause 3.1, bid preparation instructions, in Acquisitions Program’s (AP’s) high complexity (HC) and medium complexity (MC) bid templates, as well as the Request for Standing Offers (RFSO), the Request for Standing Offers (RFSO)/Canadian Collaborative Procurement Initiative (CCPI) and the Request for Supply Arrangements Template (RFSA). </li>
@@ -17,20 +17,20 @@
 <li>Remove the personal fax number of the Bid Receiving Unit in Annex Section 2.3: List of Public Works and Government Services Canada Allocation Units. </li>
 <li>Correct the email address for the generic defence priorities inbox and remove the fax number from Standard Acquisition Clause C2801C – Priority Rating: Canadian-based contractors.</li>
 </ol>
-<h3>Effective Date</h3>
+<h4>Effective Date</h4>
 <p>Policy Notification PN-128U2 is effective immediately.</p>
-<h3>Summary of Changes</h3>
-<h4>Revisions to the Supply Manual</h4>
+<h4>Summary of Changes</h4>
+<h5>Revisions to the Supply Manual</h5>
 <p>In support of <abbr title="Policy Notification">PN</abbr>-128U2, the Supply Manual has been updated. For more details, refer to the Affected Supply Manual sections listed below.</p>
-<h4>Revisions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h4>
+<h5>Revisions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h5>
 <p>In support of <abbr title="Policy Notification">PN</abbr>-128U2, the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual has been updated. For more details, refer to the Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections listed below.</p>
-<h4>Revisions to the Standard Procurement Templates</h4>
+<h5>Revisions to the Standard Procurement Templates</h5>
 <p>The Standard Procurement Templates have been revised on GCPedia.</p>
-<h3>Contact Information</h3>
+<h4>Contact Information</h4>
 <p>Questions about the application of PN-128U2 can be emailed to the Procurement Operations Support Division (POSD) team at: <a href="mailto:tpsgc.pareceptiondessoumissions-apbidreceiving.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.pareceptiondessoumissions-apbidreceiving.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions about the Supply Manual (SM) can be emailed to: <a href="mailto:TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions about the Standard Acquisition Clauses and Conditions (SACC) Manual or the Standard Procurement Templates can be emailed to: <a href="mailto:TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-99594260b31d258e1fef636b4caf8244">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -46,7 +46,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
+<h5 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-c98fe219ac23d6e127244adf75540aaa">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

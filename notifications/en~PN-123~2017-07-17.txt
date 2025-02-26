@@ -1,17 +1,17 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-123</h2>
+<h3 class="pn-content-title">Content of PN-123</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of Policy Notification (PN) 123 is to notify all Acquisitions Program (AP) employees and any other persons providing procurement services on behalf of <abbr title="Acquisitions Program">AP</abbr> of a new policy on the Phased Bid Compliance Process.</p>
 <p>The Phased Bid Compliance Process (PBCP) is a process that can be incorporated into solicitations involving either a request for proposal or a request for standing offer (RFP/RFSO). It provides bidders or offerors with an opportunity, after the solicitation closing date, to correct a finding of non-compliance with respect to Eligible Mandatory Requirements. Where a bidder or offeror is evaluated as non-compliant they will be offered an opportunity to submit additional or different information in order to be re-evaluated as compliant with respect to such Eligible Mandatory Requirement. The policy sets out a common set of factors that will be the basis of Public Works and Government Services Canada’s decision concerning whether the <abbr title="Phased Bid Compliance Process">PBCP</abbr> will form part of the terms of a given <abbr title="request for proposal">RFP</abbr>/<abbr title="request for standing offer">RFSO</abbr>.</p>
-<h3>Expected outcomes</h3>
+<h4>Expected outcomes</h4>
 <p>The <abbr title="Phased Bid Compliance Process">PBCP</abbr> is expected to support the Government of Canada’s procurement objectives of competition and best value to Canada by increasing the number of bids or offers that demonstrate compliance with the eligible mandatory requirements of a given <abbr title="Public Works and Government Services Canada">PWGSC</abbr> <abbr title="request for proposal">RFP</abbr>/<abbr title="request for standing offer">RFSO</abbr>.</p>
-<h3>Context</h3>
+<h4>Context</h4>
 <p>The October 2015 mandate letter for the Minister of Public Services and Procurement directs the Minister to ensure that Government of Canada procurement processes are made simpler and less administratively burdensome. In the fall of 2015, the Acquisitions Program established flexible bid compliance as an objective in support of this Ministerial mandate.</p>
 <p>In June 2016, the Acquisitions Program released Policy Notification 117 - Certifications, Declarations and Proofs, which supports its commitment to flexible bid compliance by providing flexibility to bidders concerning when they are required to provide such documents when mandatory. At approximately this time, Public Services and Procurement Canada’s Acquisitions Program also committed to develop a policy that provides similar flexibility to bidders and offerors concerning compliance with a broader range of mandatory requirements associated with a certain subset of its <abbr title="request for proposal">RFP</abbr>s/<abbr title="request for standing offer">RFSO</abbr>s.</p>
-<h3>Policy</h3>
-<h4>When the <abbr title="Phased Bid Compliance Process">PBCP</abbr> must be included in a request for proposal (RFP) or request for standing offer (RFSO):</h4>
+<h4>Policy</h4>
+<h5>When the <abbr title="Phased Bid Compliance Process">PBCP</abbr> must be included in a request for proposal (RFP) or request for standing offer (RFSO):</h5>
 <p>Subject to the exceptions set out below, the <abbr title="Phased Bid Compliance Process">PBCP</abbr> must be included in an <abbr title="request for proposal or a request for standing offer">RFP/RFSO</abbr> when the estimated value exceeds $2,000,000, and one or more of the following factors are present:</p>
 <ul type="i">
 <li>the requirement is complicated;</li>
@@ -28,8 +28,8 @@
 <li>the <abbr title="Phased Bid Compliance Process">PBCP</abbr> be included in an <abbr title="request for proposal">RFP</abbr>/<abbr title="request for standing offer">RFSO</abbr> where the above factors have not been met.</li>
 </ul>
 <p>The justification for the above-noted exceptions must be documented in the procurement file.</p>
-<h4>Application of the <abbr title="Phased Bid Compliance Process">PBCP</abbr>:</h4>
-<h5>Phase I: Compliance assessment — Required financial information</h5>
+<h5>Application of the <abbr title="Phased Bid Compliance Process">PBCP</abbr>:</h5>
+<h6>Phase I: Compliance assessment — Required financial information</h6>
 <ul type="i">
 <li>After the closing date and time of an <abbr title="request for proposal">RFP</abbr>/<abbr title="request for standing offer">RFSO</abbr>, <abbr title="Public Works and Government Services Canada">PWGSC</abbr> procurement officers will:
 		<ul type="a">
@@ -42,7 +42,7 @@
 		<br/>
 <br/> Bids or offers that continue to have missing financial information after the allotted time given to bidders or offerors to provide this information will be considered non-compliant and will not be given further consideration.</li>
 </ul>
-<h5>Phase II: Compliance assessment — All other eligible mandatory requirements</h5>
+<h6>Phase II: Compliance assessment — All other eligible mandatory requirements</h6>
 <ul type="i">
 <li>The evaluation team will assess only the bids or offers with all required financial information as established in Phase I, to determine if they demonstrate compliance with all other eligible mandatory requirements as outlined in the <abbr title="request for proposal">RFP</abbr>/<abbr title="request for standing offer">RFSO</abbr>. Upon completion of this assessment, the PWGSC procurement officer will issue a Compliance Assessment Report (CAR) to all bidders or offerors. This report will inform bidders or offerors either that PWGSC is continuing to consider their bid/offer or identify any eligible mandatory requirement for which the bid or offer does not as yet demonstrate compliance;</li>
 <li>Bidders or offerors whose bids or offers do not as yet demonstrate compliance with one or more of the eligible mandatory requirements will be invited to submit additional or different information, only for the purpose of rendering the re-evaluation of the eligible mandatory requirements identified in the <abbr title="Compliance Assessment Report">CAR</abbr> as compliant.</li>
@@ -62,22 +62,22 @@
 <li>The evaluation team will review the additional or different information provided by the bidder or offeror to determine whether the bid or offer now demonstrates compliance with the eligible mandatory requirements identified in the <abbr title="Compliance Assessment Report">CAR</abbr>. Bids or offers that do not demonstrate compliance with all eligible mandatory requirements at the completion of Phase II will be considered non-compliant and will be given no further consideration.</li>
 <li>For point rated requirements with an associated mandatory minimum threshold score, the bidder’s or offeror’s original score will be used in the determination of the overall final score.</li>
 </ul>
-<h5>Phase III: Completion of the evaluation process</h5>
+<h6>Phase III: Completion of the evaluation process</h6>
 <p>In this phase, the evaluation process as set out in the <abbr title="request for proposal">RFP</abbr>/<abbr title="request for standing offer">RFSO</abbr> documents will continue until the successful bidder(s) or offeror(s) is identified or until it is determined that there is no successful bidder or offeror.</p>
-<h3>Phased Bid Compliance Process Handbook</h3>
+<h4>Phased Bid Compliance Process Handbook</h4>
 <p>This document supports implementation of this policy by providing information on how the <abbr title="Phased Bid Compliance Process">PBCP</abbr> is to be applied and identifying the associated roles and responsibilities of Acquisition Program Procurement Officers, officials in client departments and agencies, as well as bidders and offerors as will be set out in the solicitations document.</p>
 <p>The Handbook can be requested by email at the following address:</p>
 <p><a href="mailto:tpsgc.papcsp-appbcp.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.papcsp-appbcp.pwgsc@tpsgc-pwgsc.gc.ca</a></p>
-<h3>Reporting requirements</h3>
+<h4>Reporting requirements</h4>
 <p>Procurement officers are required to provide information related to the usage of the Phased Bid Compliance Process in an individual Request for Proposal or a Request for Standing Offer (RFP/RFSO). Specific reporting details may be obtained by contacting the following address:</p>
 <p><a href="mailto:tpsgc.papcsp-appbcp.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.papcsp-appbcp.pwgsc@tpsgc-pwgsc.gc.ca</a></p>
-<h3>Contact information</h3>
+<h4>Contact information</h4>
 <p>Enquiries related to this policy notification can be sent by email to the following address:</p>
 <p><a href="mailto:tpsgc.papcsp-appbcp.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.papcsp-appbcp.pwgsc@tpsgc-pwgsc.gc.ca</a></p>
-<h3>Changes to the Supply Manual and Standard Acquisitions Clauses and Conditions Manual</h3>
+<h4>Changes to the Supply Manual and Standard Acquisitions Clauses and Conditions Manual</h4>
 <p>Changes to the Supply Manual and Standard Acquisition Clauses and Conditions Manual will be provided at a later date. For specific <abbr title="request for proposal">RFP</abbr>/<abbr title="request for standing offer">RFSO</abbr> clauses and conditions please contact:</p>
 <p><a href="mailto:tpsgc.papcsp-appbcp.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.papcsp-appbcp.pwgsc@tpsgc-pwgsc.gc.ca</a></p>
-<h3>Lexicon of terms</h3>
+<h4>Lexicon of terms</h4>
 <dl>
 <dt>Eligible Mandatory Requirements</dt>
 <dd>Mandatory requirements for which compliance can be assessed shortly after bid closing.</dd>

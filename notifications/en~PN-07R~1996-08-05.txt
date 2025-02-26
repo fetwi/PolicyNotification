@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-07R</h2>
+<h3 class="pn-content-title">Content of PN-07R</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>At the request of Industrial and Commercial Products and Standardization Services Sector (ICPSSS), this Notification replaces # 7 with additional information.</p>
 <p>Legal counsel at Industry Canada has concluded that procurements which are subject to Comprehensive Land Claim Agreements (CLCAs) can also be subject to the Agreement on Internal Trade (AIT). Based on Article 1802 of the <acronym title="Agreement on Internal Trade">AIT</acronym>, Industry Canada considers that the notification and other requirements in the <acronym title="Comprehensive Land Claim Agreements">CLCA</acronym>s are "measures", as defined in Chapter 2 of the <acronym title="Agreement on Internal Trade">AIT</acronym>, and, that, to the extent they are "severable" from the procurement as a whole, are excluded from the obligations of the <acronym title="Agreement on Internal Trade">AIT</acronym>, but the procurement itself and all other aspects of it remain covered.</p>
@@ -8,11 +8,11 @@
 <p>The above approach applies when a procurement is subject to only <acronym title="Comprehensive Land Claim Agreements">CLCA</acronym>s and the <acronym title="Agreement on Internal Trade">AIT</acronym>. The integrated approach, in which the most open procedures, e.g. the longer of two bidding periods, continues to apply for procurements subject to overlapping trade agreement coverage, such as when the <acronym title="Agreement on Internal Trade">AIT</acronym> and <acronym title="North American Free Trade Agreement">NAFTA</acronym> both apply.</p>
 <p>The Supply Manual will be revised to reflect this change.</p>
 <p>The Automated Buyer Environment (ABE) has been modified to include the option of identifying a procurement as subject to both <acronym title="Comprehensive Land Claim Agreements">CLCA</acronym>s and the <acronym title="Agreement on Internal Trade">AIT</acronym>.</p>
-<h3>Annex A</h3>
-<h4>Article 200: Definitions of General Application</h4>
+<h4>Annex A</h4>
+<h5>Article 200: Definitions of General Application</h5>
 <p>In this Agreement, except as otherwise provided:</p>
 <p><strong>measure</strong> includes any legislation, regulation, directive, requirement, guideline, program, policy, administrative practice or other procedure.</p>
-<h4>Article 1802: Aboriginal Peoples</h4>
+<h5>Article 1802: Aboriginal Peoples</h5>
 <p>This Agreement does not apply to any measure adopted or maintained with respect to Aboriginal peoples. It does not affect existing aboriginal or treaty rights of any of the Aboriginal peoples of Canada under section 35 of the <em>Constitution Act, 1982.</em></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

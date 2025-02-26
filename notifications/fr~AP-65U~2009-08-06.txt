@@ -1,36 +1,36 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-65U</h2>
+<h3 class="pn-content-title">Contenu de l'AP-65U</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>Date : Le <strong>06 août 2009</strong></h3>
-<h4>Introduction</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>Date : Le <strong>06 août 2009</strong></h4>
+<h5>Introduction</h5>
 <p>La Direction générale de la surveillance a annoncé récemment la publication de sa Politique sur la surveillance de l'équité (Politique ministérielle 098). La Politique entre immédiatement en vigueur.</p>
 <p>Un  Programme de surveillance de l'équité est en place depuis 2004 à la Direction générale des approvisionnements (DGA) en tant que mesure proactive pour fournir aux gestionnaires, aux ministères clients, aux fournisseurs du gouvernement, aux parlementaires et à la population canadienne une assurance indépendante selon laquelle les activités d'approvisionnement importantes ou complexes de Travaux publics et Services gouvernementaux Canada (TPSGC) sont réalisées de  manière équitable, ouverte et transparente. La Politique établit que la surveillance de l'équité est un mécanisme de contrôle officiel visant à faire valider de manière indépendante l'équité de toute activité ministérielle.</p>
-<h4>Politique</h4>
+<h5>Politique</h5>
 <p>La  Politique sur la surveillance de l'équité peut avoir des répercussions sur les  achats effectués par la <acronym title="Direction générale des approvisionnements">DGA</acronym>. La Politique exige que les agents de négociation  des contrats évaluent formellement les mérites du recours ou non à la surveillance de l'équité et documentent les décisions connexes pour les achats qui requièrent l'approbation ministérielle ou supérieure. Les agents de  négociation des contrats peuvent aussi recommander le recours à la surveillance de l'équité en tant que mécanisme de surveillance optionnel lorsqu'on souhaite obtenir une assurance accrue de l'équité.</p>
 <p>Les agents de négociation des contrats devraient consulter la <a href="http://publiservice.tpsgc-pwgsc.gc.ca/politique/text/p098-f.html" rel="external">Politique sur la surveillance de l'équité</a> <span> (accessible uniquement sur le réseau du gouvernement du Canada)</span> (<em>accessible aux employés du gouvernement seulement</em>).</p>
-<h4>Révision du Guide des  approvisionnements</h4>
+<h5>Révision du Guide des  approvisionnements</h5>
 <p>Tous les changements  apparaîtront dans la Version 09-1 du nouveau <em>Guide des approvisionnements</em>, lequel devrait être diffusé à l'automne.  Consulter l'<a href="#AP-65Uannexa">Annexe A</a> pour les modifications aux chapitres 1, 3 et 5 du nouveau <em>Guide des approvisionnements</em>.</p>
-<h4>Personne-ressource</h4>
+<h5>Personne-ressource</h5>
 <p>Pour toute question, veuillez communiquer avec Susan Blakeney, Direction de la politique et du processus d'approvisionnement, par téléphone au 819-956-8235 ou par courriel à : <a href="mailto:susan.blakeney@tpsgc-pwgsc.gc.ca" rel="external">susan.blakeney@tpsgc-pwgsc.gc.ca</a>.</p>
 <p> <a id="AP-65Uannexa" name="annexa"></a></p>
-<h3>Annexe A</h3>
-<h4>Modification du Guide des approvisionnements</h4>
-<h5>Chapitre 1 - Marchés publics</h5>
+<h4>Annexe A</h4>
+<h5>Modification du Guide des approvisionnements</h5>
+<h6>Chapitre 1 - Marchés publics</h6>
 <h6>1.50 <span class="indent1">Surveillants de l'équité</span></h6>
 <ol class="double-space" type="a">
 <li>La  surveillance de l'équité de <acronym title="Travaux publics et Services gouvernementaux Canada">TPSGC</acronym> vise à certifier de façon indépendante que certaines opérations d'achat de <acronym title="Travaux publics et Services gouvernementaux Canada">TPSGC</acronym> soient réalisées de manière équitable, ouverte et transparente.</li>
 <li>Un surveillant de l'équité est un tiers indépendant dont le rôle est d'observer  une partie ou l'ensemble du processus d'achat, de présenter des commentaires sur les questions d'équité à l'équipe de projet et à la Direction générale de  la surveillance de <acronym title="Travaux publics et Services gouvernementaux Canada">TPSGC</acronym> et de fournir une opinion impartiale sur l'équité du  processus d'achat observé.</li>
 <li>La  participation d'un surveillant de l'équité à un processus d'achat ne libère pas les fonctionnaires de <acronym title="Travaux publics et Services gouvernementaux Canada">TPSGC</acronym> de toute responsabilité et ne diminue aucunement leurs responsabilités à cet égard.  (Voir  l'article 3.140 pour plus de détails.)</li>
 </ol>
-<h5>Chapitre 3  – Stratégie d'approvisionnement</h5>
+<h6>Chapitre 3  – Stratégie d'approvisionnement</h6>
 <h6>3.140 <span class="indent1">Surveillants  de l'équité</span></h6>
 <ol class="double-space" type="a">
 <li>Pour tous les achats qui nécessitent l'approbation  ministérielle ou supérieure, les agents de négociation des contrats doivent  évaluer formellement, lors du choix de la stratégie d'approvisionnement, les  mérites du recours aux services d'un surveillant de l'équité.</li>
@@ -40,7 +40,7 @@
 <li>Le <acronym title="sous-ministre adjoint de la Direction générale des approvisionnements">SMA/DGA</acronym> examine la demande de recours aux services d'un surveillant de l'équité pour le compte du Comité des affaires opérationnelles (CAO) et lui transmet sa recommandation. Le <acronym title="Comité des affaires opérationnelles">CAO</acronym> prendra une décision à savoir si le recours aux services d'un surveillant de l'équité est  approprié et souhaitable.</li>
 <li>Pour plus de  renseignements, consulter la <a href="http://publiservice.tpsgc-pwgsc.gc.ca/politique/text/p098-f.html" rel="external">Politique sur la  surveillance de l'équité</a>  <span> (accessible uniquement sur le réseau du gouvernement du Canada)</span> (<em>accessible aux employés du gouvernement seulement</em>). (Voir  également les articles 1.50 et 5.25.)</li>
 </ol>
-<h5>Chapitre 5 - Évaluation et sélection de l'entrepreneur</h5>
+<h6>Chapitre 5 - Évaluation et sélection de l'entrepreneur</h6>
 <h6>5.25 <span class="indent1">Recours à des surveillants de l'équité</span></h6>
 <ol class="double-space" type="a">
 <li>Lorsqu'un surveillant de l'équité a été embauché pour appuyer un processus d'achat, il fournira des rapports écrits à la Direction générale de la surveillance (DGS), conformément à l'énoncé des travaux reproduit dans son contrat, attestant de l'équité du processus d'achat.</li>

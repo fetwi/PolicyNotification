@@ -1,13 +1,13 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-81</h2>
+<h3 class="pn-content-title">Content of PN-81</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h4>Introduction</h4>
+<h5>Introduction</h5>
 <p>This Policy Notification (PN)-81 is being issued further to a recent<br/>
 					recommendation by the Office of the Auditor General and the subsequent<br/>
 					e-mail sent by the Executive Director of Acquisitions Operations to Director<br/>
 					Generals and Regional Director Generals on 6 December 2006.</p>
-<h4>Policy</h4>
+<h5>Policy</h5>
 <p>Effective immediately, and under the following circumstances, more than<br/>
 					one Public Works and Government Services Canada (PWGSC) employee must<br/>
 					be involved in the evaluation of the bid prices to ensure an appropriate<br/>
@@ -32,12 +32,12 @@
 <p>Please refer to<a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap81-pn81-eng.html#annexa" rel="external"> Annex A</a> of<br/>
 					this document for changes to the Supply Manual. These changes will be<br/>
 					incorporated in the next release of the Supply Manual. </p>
-<h4>Contact</h4>
+<h5>Contact</h5>
 <p><strong>N/A</strong></p>
 <p> <a id="PN-81annexa" name="annexa"></a></p>
-<h3>Annex A - Changes to the Supply Manual</h3>
-<h4>SECTION 7D: BID HANDLING</h4>
-<h5>Evaluation of Responses</h5>
+<h4>Annex A - Changes to the Supply Manual</h4>
+<h5>SECTION 7D: BID HANDLING</h5>
+<h6>Evaluation of Responses</h6>
 <h6>Client Review</h6>
 <p><span>7D.393 (xxxx-xx-xx)</span> Clients are responsible<br/>
 					for the evaluation of the technical portion of the bids. <span>PWGSC does not<br/>

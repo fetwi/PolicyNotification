@@ -1,18 +1,18 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-69</h2>
+<h3 class="pn-content-title">Contenu de l'AP-69</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3> DATE : le 4 octobre 2004</h3>
-<h4>Mise à jour</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4> DATE : le 4 octobre 2004</h4>
+<h5>Mise à jour</h5>
 <p>Les instructions et conditions uniformisées 9403-6, « offres à commandes », sont révisés comme suit :</p>
-<h4>Partie B, « Particularités de l'offre à commandes »</h4>
+<h5>Partie B, « Particularités de l'offre à commandes »</h5>
 <ul class="noBullet">
 <li>(1) <strong>Ajout</strong> de l'alinéa e) sous le paragraphe 1. (3), « Généralités »;</li>
 <li>e) que le Canada pourra exiger, à son entière discrétion, que l'achat de ces biens ou services se fasse, en totalité ou en partie, par des moyens électroniques. Dans un tel cas, le Canada pourra exiger que le fournisseur facture des frais aux utilisateurs désignés au nom du Canada.</li>
@@ -23,31 +23,31 @@
 <p>À compter d'aujourd'hui, les agents de négociation des marchés doivent intégrer les modifications mentionnées ci-haut aux instructions et conditions uniformisées 9403 6 figurant dans toutes les demandes d'offres à commandes.</p>
 <p>Toutes les modifications apportées à la clause 9403-6 seront intégrées à la prochaine version du guide des Clauses et conditions uniformisées d'achat qui entrera en vigueur le 10 décembre 2004.</p>
 <p>L'annexe A ci-dessous comprend les instructions et conditions uniformisées 9403 6 mises à jour; les modifications apportées à cette clause sont indiquées en <em><strong>caractères gras</strong></em> et en <em><strong>rouge</strong></em>.</p>
-<h4>Contexte</h4>
+<h5>Contexte</h5>
 <p>En raison de l'avènement des achats en ligne et des progrès technologiques permettant au gouvernement d'effectuer des achats dans un environnement électronique, il est nécessaire que des dispositions soient prises en vue de permettre que les mécanismes d'approvisionnement, comme les offres à commandes que l'on établit actuellement, soient utilisés, s'il y a lieu, dans tout environnement électronique futur, comme le Marché en direct du gouvernement du Canada. Les modifications apportées à la clause 9403 6 prévoient la possibilité qu'une offre à commandes actuelle soit établie dans un environnement électronique.</p>
-<h4>Personne-ressource</h4>
+<h5>Personne-ressource</h5>
 <p><strong>S/O</strong></p>
 <hr/>
-<h4>Annexe A CHANGEMENTS AU GUIDE DES CLAUSES ET CONDITIONS UNIFORMISÉES D'ACHAT</h4>
+<h5>Annexe A CHANGEMENTS AU GUIDE DES CLAUSES ET CONDITIONS UNIFORMISÉES D'ACHAT</h5>
 <p><strong>9403-6 Offres à commandes</strong></p>
-<h4>A. INSTRUCTIONS</h4>
-<h5>1. Méthode d'approvisionnement</h5>
+<h5>A. INSTRUCTIONS</h5>
+<h6>1. Méthode d'approvisionnement</h6>
 <p>Parmi les méthodes d'approvisionnement utilisées par Travaux publics et des Services gouvernementaux Canada (TPSGC) pour répondre aux besoins des utilisateurs désignés, il y a celle qui consiste à demander à des offrants de soumettre une offre à commandes pour la fourniture de biens et (ou) la prestation de services à l'administration fédérale pendant une période déterminée. TPSGC délègue alors les pouvoirs d'achat aux utilisateurs désignés et ces derniers peuvent avoir directement accès à la source d'approvisionnement, au fur et à mesure des besoins, en passant des « commandes directes » dans lesquelles ils précisent les quantités exactes de biens ou le niveau de services qu'ils désirent recevoir de l'offrant à un moment particulier au cours de la période de validité de l'offre et conformément aux conditions déterminées au préalable.</p>
-<h5>2. But de l'offre à commandes</h5>
+<h6>2. But de l'offre à commandes</h6>
 <p>Cette méthode d'approvisionnement est particulièrement utile lorsqu'on a fréquemment besoin d'un bien ou d'un service offert ou non dans le commerce, qu'on peut fournir une estimation du volume total ou de la valeur des biens ou du niveau de services dont peuvent avoir besoin les différents utilisateurs désignés, mais qu'on ne peut préciser à l'avance quels seront les besoins exacts d'un utilisateur particulier à une période précise.</p>
 <p>Vu que TPSGC, durant la période indiquée dans la demande d'offre à commandes (DOC), prévoit un besoin de biens et (ou) de services, il invite, par la présente, l'offrant à lui présenter une offre à commandes.</p>
-<h5>3. Quantité</h5>
+<h6>3. Quantité</h6>
 <p>La quantité de biens, le niveau de services et les dépenses estimatives indiqués dans la DOC ne sont que des approximations données de bonne foi. La présentation d'une offre à commandes par l'offrant ne doit pas être interprétée comme une obligation de la part du Canada ou d'un utilisateur désigné de commander une partie ou l'ensemble desdits biens ou services. L'utilisateur désigné peut passer une ou plusieurs commandes dans le cadre de l'offre à commandes.</p>
-<h5>4. Obligation de TPSGC</h5>
+<h6>4. Obligation de TPSGC</h6>
 <p>Une demande ne contraint aucunement le MTPSG à autoriser l'utilisation d'une offre à commandes ou à payer d'éventuels coûts associés à la présentation d'offres ou à l'exécution des études nécessaires à la préparation de celles-ci, ni ne l'oblige à se procurer tout service ou produit ou à attribuer un contrat relatif à un tel service ou produit. Le MTPSG se réserve le droit de rejeter ou d'autoriser l'utilisation de toute offre en totalité ou en partie, avec ou sans négociation ou discussion supplémentaire.</p>
-<h5>5. Procédure</h5>
+<h6>5. Procédure</h6>
 <p>(1) Voici la procédure habituellement suivie dans le cas d'une offre à commandes :</p>
 <ul class="noBullet">
 <li>a) Les offrants (fournisseurs) obtiennent une copie de la DOC par l'entremise du Service d'appels d'offres électroniques du gouvernement, offert par MERX.</li>
 <li>b) Les offrants remplissent la formule de demande et la retournent à TPSGC sous forme de proposition d'offre à commandes.</li>
 <li>c) TPSGC émet une Autorisation de passer des commandes subséquentes à une offre à commandes (APCSOC) aux offrants retenus et aux utilisateurs désignés (ministères ou organismes clients) autorisés à passer des commandes directes.</li>
 </ul>
-<h5>6. Présentation des offres</h5>
+<h6>6. Présentation des offres</h6>
 <p>(1) Il incombe à l'offrant :</p>
 <ul class="noBullet">
 <li>a) de retourner l'original de la DOC, dûment rempli et signé, selon la présentation requise;</li>
@@ -64,7 +64,7 @@
 <p>(3) L'offre à commandes devra traiter en profondeur de chacun des points mentionnés dans la DOC. De plus, il est essentiel que tous ces éléments soient exprimés de façon claire et concise.</p>
 <p>(4) Les documents de soumission et les renseignements connexes peuvent être présentés en français ou en anglais.</p>
 <p>(5) Les offres reçues le ou avant la date et l'heure de clôture stipulées deviendront la propriété du Canada et ne seront pas retournées. Toutes les offres seront traitées comme des documents CONFIDENTIELS, sous réserve des dispositions de la <em>Loi sur l'accès à l'information</em> et de la <em>Loi sur la protection des renseignements personnels</em>.</p>
-<h5>7. Réponses transmises par télécopieur</h5>
+<h6>7. Réponses transmises par télécopieur</h6>
 <p>(1) Si vous n'êtes pas certain que votre offre parviendra à temps à l'adresse exacte indiquée pour la réception des offres, vous pouvez utiliser un télécopieur, à moins d'avoir reçu des instructions contraires dans la DOC.</p>
 <p><strong>Remarque :</strong> À cause du volume de matériel technique requis pour certaines offres, il se peut que certaines DOC précisent que les offres transmises par télécopieur ne sont pas acceptées (p. ex., les demandes pour des besoins scientifiques).</p>
 <p>(2) À moins d'avoir reçu des instructions contraires dans la DOC, le seul numéro de télécopieur valide pour la réception des réponses aux DOC lancées par les secteurs de l'administration centrale de TPSGC est le 819-997-9776.</p>
@@ -86,9 +86,9 @@
 <li>c) suffisamment de données pour permettre une évaluation complète (par exemple, les prix unitaires, le nom du pays si le prix est donné en devises, la taxe de vente, les droits, les données techniques (s'il y a lieu) et tout écart par rapport à la DOC.)</li>
 </ul>
 <p>(5) À moins que la présente demande de soumissions ne donne d'autres précisions, les réponses transmises par télécopieur doivent être confirmées par écrit, dans un délai de deux (2) jours suivant la clôture des soumissions. Tous les documents servant à confirmer une soumission doivent porter la mention « CONFIRMATION ».</p>
-<h5>8. Offres en retard</h5>
+<h6>8. Offres en retard</h6>
 <p>TPSGC a comme politique de renvoyer, non décachetées, les offres livrées après la date et l'heure de clôture stipulées dans la DOC, à moins que ces offres ne soient considérées comme des offres retardées selon les circonstances énoncées ci-dessous.</p>
-<h5>9. Offres retardées</h5>
+<h6>9. Offres retardées</h6>
 <p>(1) Une offre livrée au point de réception désigné après l'heure et la date de clôture, mais avant l'émission d'une APCSOC, peut être prise en considération, à condition que l'offrant puisse prouver que le retard est dû uniquement à un délai de livraison dont la Société canadienne des postes (SCP) (ou l'équivalent national d'un pays étranger) est responsable. Les seules preuves acceptées par TPSGC pour justifier un retard dû au service de la SCP sont les suivantes :</p>
 <ul class="noBullet">
 <li>a) un timbre à la date d'oblitération de la SCP;</li>
@@ -102,14 +102,14 @@
 <p>(2) Veuillez demander à l'employé des postes d'apposer le timbre à date sur votre enveloppe.</p>
 <p>(3) Pour les offres transmises par télécopieur, seulement la date et l'heure consignées par TPSGC au numéro figurant ci-dessus serviront comme preuve d'une offre retardée.</p>
 <p>(4) TPSGC n'acceptera pas les offres qui sont reçues en retard en raison d'une erreur d'acheminement, du volume de trafic, de perturbations atmosphériques ou d'autres motifs.</p>
-<h5>10. Machines à affranchir</h5>
+<h6>10. Machines à affranchir</h6>
 <p>Le timbre de machine à affranchir, qu'il soit apposé par l'offrant, la SCP ou le service postal d'un pays étranger, ne constitue pas une preuve que l'offre a été expédiée à temps. Il est à noter que la SCP n'appose pas habituellement de timbre à date d'oblitération sur le courrier affranchi à la machine; elle ne le fait généralement que lorsque le courrier est affranchi au moyen d'un timbre-poste.</p>
-<h5>11. Groupes de clauses, de conditions et d'instructions uniformisées</h5>
+<h6>11. Groupes de clauses, de conditions et d'instructions uniformisées</h6>
 <p>Il peut arriver à l'occasion qu'un groupe de clauses, de conditions ou d'instructions utilisées ou citées à titre de référence dans une DOC, une offre à commandes ou une commande directe subséquente à une offre soit mis à jour. Dans un tel cas, la version utilisée dans un document déjà publié restera en vigueur dans ce document donné, à moins que la version mise à jour ne soit incorporée de la manière prescrite par les règlements.</p>
-<h5>12. Identité ou capacité civile de l'offrant</h5>
+<h6>12. Identité ou capacité civile de l'offrant</h6>
 <p>L'offrant qui exerce ses activités commerciales sous un nom autre que son nom personnel doit, avant l'attribution de l'offre à commandes, de manière à déterminer sa capacité civile fournir, à la demande de l'autorité contractante, une preuve de sa capacité civile sous laquelle il exerce ses activités commerciales. Il peut s'agir d'une copie des documents d'incorporation ou de l'enregistrement d'un nom commercial d'un propriétaire unique, d'une raison sociale (appellation commerciale), de la constitution d'une société.</p>
-<h4>B. PARTICULARITÉS DE L'OFFRE À COMMANDES</h4>
-<h5>1. Généralités</h5>
+<h5>B. PARTICULARITÉS DE L'OFFRE À COMMANDES</h5>
+<h6>1. Généralités</h6>
 <p>(1) L'offrant reconnaît qu'une offre à commandes n'est pas un contrat.</p>
 <p>(2) L'offrant offre de vendre ou de fournir au Canada, représenté par le ministre des Travaux publics et des Services gouvernementaux, les biens et (ou) les services indiqués, au(x) prix ou selon la ou les formules d'établissement de prix indiqués, au fur et à mesure que l'utilisateur désigné en aura besoin, pourvu qu'il commande lesdits biens ou services conformément aux dispositions qui suivent.</p>
 <p>(3) Il est entendu et convenu :</p>
@@ -120,17 +120,17 @@
 <li>d) que le Canada se réserve le droit de commander les biens et (ou) services indiqués par l'intermédiaire de contrats, d'offres à commandes ou d'autres méthodes d'approvisionnement.</li>
 <li>e) que le Canada pourra exiger, à son entière discrétion, que l'achat de ces biens ou services se fasse, en totalité ou en partie, par des moyens électroniques. Dans un tel cas, le Canada pourra exiger que le fournisseur facture des frais aux utilisateurs désignés au nom du Canada.</li>
 </ul>
-<h5>2. Avis d'annulation/révision</h5>
+<h6>2. Avis d'annulation/révision</h6>
 <p>Si l'offrant désire retirer son offre à commandes une fois que l'autorisation de passer des commandes subséquentes à une offre à commandes a été obtenue, il en avisera l'autorité contractante au moyen d'un préavis écrit d'au moins trente (30) jours, à moins d'indication contraire dans l'APCSOC, pour que l'autorité contractante puisse le communiquer à tous les utilisateurs désignés. Un tel retrait d'offre à commandes ne sera pas en vigueur avant que TPSGC n'ait reçu un tel avis et l'expiration de la période d'avis en question. L'offrant accepte par les présentes de remplir toutes les commandes qui pourront être faites avant l'expiration de ladite période d'avis. Si la période est prolongée ou que la limite des dépenses est augmentée, l'autorité contractante publiera une révision de l'APCSOC.</p>
-<h5>3. Instrument de commande</h5>
+<h6>3. Instrument de commande</h6>
 <p>Les utilisateurs désignés doivent, pour commander les biens et les services, utiliser le formulaire PWGSC-TPSGC 942, « Commande subséquente à une offre à commandes », ou tout autre document de commande subséquente précisé dans l'offre à commandes. Il est aussi possible de commander des biens et des services par téléphone, par télécopieur, <em>ou par des moyens électroniques,</em> mais il est nécessaire d'envoyer une confirmation écrite sur le formulaire PWGSC-TPSGC 942 ou sur tout autre document indiqué.</p>
 <p>Les commandes subséquentes à une offre à commandes réglées par carte d'achat (carte de crédit) du gouvernement du Canada au point de vente bénéficient des mêmes prix et des mêmes conditions que toutes les autres commandes subséquentes.</p>
-<h4>C. CONDITIONS</h4>
-<h5>1. Applicabilité</h5>
+<h5>C. CONDITIONS</h5>
+<h6>1. Applicabilité</h6>
 <p>Les conditions qui suivent s'appliquent à tout contrat résultant d'une commande subséquente à une offre à commandes. Les conditions numérotées de 6 à 10 ne s'appliquent qu'aux marchés de biens.</p>
-<h5>2. Taxes municipales</h5>
+<h6>2. Taxes municipales</h6>
 <p>Les taxes municipales ne s'appliquent pas.</p>
-<h5>3. Taxes provinciales</h5>
+<h6>3. Taxes provinciales</h6>
 <p>(1) Sauf pour les exceptions légiférées (voir le paragraphe (5) ci-dessous), les utilisateurs désignés ne doivent pas payer la taxe de vente ad valorem imposée par la province dans laquelle les biens ou les services taxables sont livrés ou fournis. Cette exonération a été accordée aux utilisateurs désignés en vertu de l'une des autorisations suivantes :</p>
 <ul class="noBullet">
 <li>a) Numéros de permis d'exonération de taxe de vente provinciale (TVP) pour les provinces suivantes :</li>
@@ -154,19 +154,19 @@
 <li>f) pneus et accumulateurs assujettis à une taxe;</li>
 <li>g) hébergement provisoire assujetti aux taxes sur les chambres d'hôtel (Colombie-Britannique.)</li>
 </ul>
-<h5>4. Factures</h5>
+<h6>4. Factures</h6>
 <p>Les factures doivent être établies au nom de l'offrant et elles ne doivent pas être envoyées avant que les biens n'aient été livrés ou que les services n'aient été rendus. On doit trouver sur les factures le nom et l'adresse du destinataire, la date, le mode d'expédition, le numéro de caisse s'il y a lieu, le nom des articles et leur quantité, l'unité de distribution, le prix unitaire, les frais additionnels s'il y a lieu et la taxe sur les produits et services ou la taxe de vente harmonisée le cas échéant, les numéros de pièce ou de référence, la description des articles visés dans l'offre à commandes, le numéro de l'offre à commandes, le numéro de la demande, le numéro de référence du client (NRC), le numéro d'entreprise - approvisionnement (NEA) et le ou les codes financiers. Des factures distinctes doivent être présentées pour chaque envoi et ne doivent s'appliquer qu'à une seule commande. Chaque facture doit indiquer si elle s'applique à un envoi partiel ou à l'envoi final.</p>
-<h5>5. Connaissement</h5>
+<h6>5. Connaissement</h6>
 <p>Le connaissement de transport doit accompagner l'original de la facture, sauf s'il s'agit d'expéditions « payables sur livraison » (lorsqu'autorisés), auquel cas il doit accompagner la marchandise; en outre, un bordereau d'expédition doit accompagner chaque envoi et indiquer clairement le nom des articles, la quantité d'articles, les numéros de pièce ou de référence, la description des articles, les numéros de référence du contrat, et le NRC et le NEA. Si les biens ont été inspectés à l'usine de l'offrant, un certificat d'inspection signé doit être annexé au bordereau d'expédition normalement inclus dans l'enveloppe prévue à cette fin.</p>
-<h5>6. Inspection et acceptation</h5>
+<h6>6. Inspection et acceptation</h6>
 <p>À moins d'indication contraire dans l'APCSOC, les biens et les services, une fois livrés, doivent être inspectés et acceptés par le destinataire.</p>
-<h5>7. Condition du matériel</h5>
+<h6>7. Condition du matériel</h6>
 <p>Sauf disposition contraire du contrat, le matériel fourni doit être neuf et conforme à la plus récente version du dessin, de la spécification et (ou) du numéro de pièce pertinent, en vigueur à la date de clôture de la demande de soumissions.</p>
-<h5>8. Frais de transport</h5>
+<h6>8. Frais de transport</h6>
 <p>Si, aux termes du présent contrat, des frais de transport sont payables par le Canada, les envois devront, sauf indication contraire (tel que dans le cas où les frais de transport sont inclus dans le prix unitaire), être effectués par le moyen de transport le plus direct et le plus économique, selon les méthodes normales d'expédition. Ces frais devront figurer séparément sur la facture.</p>
-<h5>9. Évaluation</h5>
+<h6>9. Évaluation</h6>
 <p>La politique du gouvernement fédéral voulant qu'il assume ses propres risques exclut le paiement de toute évaluation excessive et (ou) de frais de transport au-delà du point FOB spécifié (point où le gouvernement fédéral entre en possession des biens). Les biens seront protégés jusqu'à concurrence de la valeur maximale de l'assurance du transporteur et leur valeur ne pourra être déclarée que si aucun coût supplémentaire n'est engagé.</p>
-<h5>10. Biens expédiés au Canada</h5>
+<h6>10. Biens expédiés au Canada</h6>
 <p>Les biens expédiés au Canada en provenance d'un autre pays doivent, à moins d'indication contraire, être acheminés, en douane, au point de livraison.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

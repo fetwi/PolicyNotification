@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-35U</h2>
+<h3 class="pn-content-title">Content of PN-35U</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This policy notification update refers to previous policy notifications on the Procurement Information Form (PN-32 and PN-32U) and Revised Contract Entry and Amendment Authorities (PN-35).</p>
 <p><strong>Question 1:</strong> <br/>

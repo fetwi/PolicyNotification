@@ -1,8 +1,8 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-85U</h2>
+<h3 class="pn-content-title">Content of PN-85U</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Policy</h3>
+<h4>Policy</h4>
 <p>The purpose of Policy Notification (PN) 85U is to update the  instructions to Public Works and Government Services Canada (PWGSC) contracting  officers regarding the security block of the requisition form<br/>
 <a href="http://publiservice-app.tpsgc-pwgsc.gc.ca/forms/index.cfm?fuseaction=search.details&amp;lang=e&amp;display=5451" rel="external">PWGSC-TPSGC 9200</a>.</p>
 <p>Until such time as the financial systems of client  departments are modified to include the revised security block of the  requisition form PWGSC-TPSGC 9200, contracting officers can accept the previous version of the requisition form PWGSC-TPSGC 9200 from clients as long as certification against the wording of the new security block is provided, either  by replicating the new security wording (see below) in the "Special Instructions" block of the requisition form PWGSC-TPSGC 9200, or by providing it as a separate document.</p>
@@ -19,7 +19,7 @@
 <p> <span aria-label="Blank placeholder" class="blankline"></span> <br/>
 					Date"</p>
 <p>PWGSC contracting officers must ensure that the completed security certification is included on each procurement file for which the requirement has not been contracted yet.</p>
-<h3>Contact</h3>
+<h4>Contact</h4>
 <p>Any inquiries are to be addressed to Veronica Nazareth, Acquisition Policy and Process Directorate, by phone at 819-956-5024, or by  e-mail at <a href="mailto:veronica.nazareth@pwgsc-tpsgc.gc.ca" rel="external">veronica.nazareth@pwgsc-tpsgc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

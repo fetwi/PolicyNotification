@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-35</h2>
+<h3 class="pn-content-title">Contenu de l'AP-35</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 17 juillet 1998</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 17 juillet 1998</h4>
 <p>Le 2 juillet, le ministre a approuvé la nouvelle délégation de pouvoirs dévolus au Ministère. Cette nouvelle délégation reflète les changements importants dans les contrats et les pouvoirs de modifier les contrats qui entreront en vigueur le 17 juillet. Cet avis relatif aux politiques énumère les pouvoirs révisés et les procédures connexes relatifs à la mise en œuvre de la nouvelle délégation en vertu des domaines suivants:</p>
 <ol>
 <li>Nouveaux tableaux relatifs aux pouvoirs d'approbation de modifier et de conclure un contrat</li>
@@ -20,11 +20,11 @@
 <li>Procédures relatives à la présentation des contrats et des modifications</li>
 <li>Information sur l'approvisionnement au ministre</li>
 </ol>
-<h4>1. Nouveaux tableaux relatifs aux pouvoirs d'approbation de modifier et de conclure un contrat</h4>
+<h5>1. Nouveaux tableaux relatifs aux pouvoirs d'approbation de modifier et de conclure un contrat</h5>
 <p>À compter du 17 juillet 1998, le personnel de l'approvisionnement sera autorisé à exercer les pouvoirs révisés d'approbation relatif à la modification et à la conclusion d'un contrat énumérés dans les tableaux à l'annexe A. Les pouvoirs de conclure des marchés sont suffisamment explicites. Une explication détaillée des pouvoirs révisés de modifier les contrats suit.</p>
 <p>Les pouvoirs d'approbation indiqués pour les titres de postes à l'échelon du Directeur et supérieurs à cet échelon reflètent la nouvelle délégation du ministre ainsi que les restrictions. Les pouvoirs indiqués pour les titres de postes inférieurs à l'échelon du Directeur, reflètent uniquement les modifications qui entraînent une diminution des pouvoirs. Dès que la nouvelle délégation de pouvoirs est entièrement mise en œuvre et que les processus d'achat sont modifiés pour appuyer les changements dans les pouvoirs, d'autres décisions quant aux changements des pouvoirs relatifs aux postes inférieurs à l'échelon du Directeur, seront faites. Tous les changements aux pouvoirs existants sont indiqués en<strong> caractères gras</strong>.</p>
 <p><strong>NOTA: Les pouvoirs doivent être utilisés à compter du 17 juillet 1998; pour les postes autres que ceux des Directeurs généraux et Directeurs, il n'y a aucune augmentation jusqu'à présent.</strong></p>
-<h4>2. Révision des pouvoirs de modifier les contrats</h4>
+<h5>2. Révision des pouvoirs de modifier les contrats</h5>
 <p>La nouvelle délégation entraîne des modifications considérables des pouvoirs d'approbation relatifs aux modifications. Le but de cette délégation réduite est d'augmenter la concurrence et l'ouverture en encourageant l'identification des tous les besoins connus, y compris les changements possibles, à l'étape de planification des achats. Lorsque des modifications éventuelles sont approuvées préalablement, elles peuvent être exercées conformément aux procédures relatives à l'exercice des options et à l'utilisation des montants mis de côté.</p>
 <p>Les nouveaux pouvoirs d'approbations relatifs aux modifications sont basés sur la valeur globale des modifications. Les pouvoirs relatifs aux modifications sont décrits soit comme une valeur seuil en dollars unique, ou en termes de: « x $ ou 10% de la valeur de la présentation des contrats approuvés à l'origine, ne dépassant pas le maximum de y $ ».</p>
 <p>Le montant décrit comme x $ dans cette formule (provenant du plafond du Conseil du Trésor relatif aux modifications des contrats pour les autres ministères) est clairement déterminé dans le tableau des pouvoirs de modification. Le montant déterminé comme y $ est également déterminé dans le tableau des pouvoirs de modification et représente la valeur seuil maximale pour l'approbation des modifications.</p>
@@ -33,25 +33,25 @@
 <p>Les modifications émises pour utiliser un montant mis de côté pour des travaux imprévus, des tâches supplémentaires ou des modifications techniques, doivent être approuvées par le fondé de pouvoirs d'approbation de conclure un marché non concurrentiel, ne dépassant pas l'échelon du Directeur ou le fondé de pouvoir original.</p>
 <p>Tous les fondés de pouvoir d'approbation de la modification (pour les modifications non approuvées antérieurement) sont déterminés en fonction du montant cumulatif de la modification. Le processus de l'étape 3 utilisé pour établir le fondé de pouvoir d'approbation de la modification de contrat (tel que déterminé dans les alinéas 1 et 2 à l'annexe 6.1.5 du Guide des approvisionnements) ne doit pas être utilisé avec la nouvelle délégation des pouvoirs de modifications.</p>
 <p>Des exemples sur la façon d'établir le fondé de pouvoir d'approbation sont fournis à l'annexe C.</p>
-<h4>3. Pouvoirs particuliers</h4>
+<h5>3. Pouvoirs particuliers</h5>
 <p><strong>Pouvoirs exceptionnels - </strong>La délégation des pouvoirs exceptionnels du ministre tel qu'indiqué aux alinéas 1.6 à 1.13 inclusivement à l'annexe 6.1.1 du Guide des approvisionnements demeure inchangée sauf que les Directeurs régionaux auront maintenant le même pouvoir que les Directeurs généraux régionaux. La récente augmentation du pouvoir portant sur la réparation ou la révision du matériel militaire à 50 millions de dollars n'a pas été déléguée jusqu'à présent.</p>
 <p><strong>Offres à commandes et pouvoirs relatifs aux arrangements en matière d'approvisionnement - </strong>Le sous-ministre adjoint de la DGSA a un pouvoir d'approbation illimité pour approuver les offres à commandes et les arrangements en matière d'approvisionnement et réviser les offres à commandes et les arrangements en matière d'approvisionnement, lorsque les commandes subséquentes n'exéderont pas les plafonds établis par le Conseil du Trésor.</p>
-<h4>4. Pouvoirs de signature</h4>
+<h5>4. Pouvoirs de signature</h5>
 <p>Les pouvoirs de signature ont été uniformisés pour les biens, les services, les services de télécommunications, les travaux de construction, et les services d'architecture et de génie.</p>
-<h4>5. Suppression des restrictions relatives à la politique</h4>
+<h5>5. Suppression des restrictions relatives à la politique</h5>
 <p>Les pouvoirs ministériels d'approuver des types précis de marchés non concurrentiels ou de modifications tels qu'indiqués dans les alinéas 1.1 (c), (d) et (e) de l'annexe 6.1.1 du Guide des approvisionnements, ne font pas partie de la nouvelle délégation et<strong> ne s'appliquent plus.</strong> Les employés de l'approvisionnement sont rappelés que les pouvoirs d'approbation d'attribution des marchés d'origine pour les marchés sans concurrence s'appliquent si une contestation valide au PAC est reçue, mais qu'une décision de poursuivre avec l'approvisionnement est prise.</p>
-<h4>6. Procédures relatives à la présentation des contrats et des modifications</h4>
+<h5>6. Procédures relatives à la présentation des contrats et des modifications</h5>
 <p>Les présentations des contrats doivent être préparées et envoyées pour approbation conformément aux procédures existantes, sauf que le besoin relatif aux services juridiques, à un analyste des coûts et aux examens, de secteur ou de région, de l'assurance de la qualité, tel qu'indiqué à l'annexe 6.1 du Guide des approvisionnements, doit s'appliquer aux présentations des contrats nécessitant l'approbation des Directeurs régionaux, ainsi que les titres de postes déjà cités dans l'annexe 6.1. Les soumissions pour l'approbation à l'échelon du SMA ou supérieur à cet échelon seront assujettis à une révision de la Direction générale de la vérification et de l'examen (DGVE).</p>
 <p>Les procédures relatives à la préparation et à l'envoi de présentations des modifications de contrats sont actuellement à l'étude, et ont comme objectif de rationnaliser le processus dans un proche avenir.</p>
 <p>Jusqu'à qu'à la mise en œuvre d'une telle procédure, les présentations des modifications nécessitant l'approbation à l'échelon du SMA ou supérieur à cet échelon doivent être préparées en utilisant les formulaires de Demande de modification de contrat (séries DSS MAS 1151) celles-ci ne seront pas assujetties à un examen complet de la Direction générale de la vérification et de l'examen, par contre, elles seront acheminées par l'entremise du SMA de la DGSA. Les présentations des modifications de contrats nécessitant l'approbation du CT continueront à être assujetties à un examen de la DGVE.</p>
-<h4>7. Information sur l'approvisionnement au ministre</h4>
+<h5>7. Information sur l'approvisionnement au ministre</h5>
 <p>Les pouvoirs relatifs aux contrats et aux modifications de contrats ont été délégués à la condition que l'information sur l'approvisionnement soit transmise au bureau du ministre lorsque la valeur des contrats ou des modifications de contrats dépassent les seuils déterminés. Les procédures détaillées pour transmettre l'information au ministre sont décrites dans l'Avis relatif aux politiques 32, en date du 31 mars 1998, et dans la mise à jour de cet avis émise le 15 juillet 1998.</p>
 <p>La condition, pour annoncer à la haute direction les plans d'achat pour les achats d'une valeur prévue de 1 million de dollars ou plus, et le résumé de la Demande de contrat, 48 heures avant l'approbation du contrat, ne font pas partie de la nouvelle délégation et ne s'appliquent plus.</p>
 <p>Les plans d'achats formels qui résulteront en contrats qui nécessiteront l'approbation à l'échelon du SMA ou supérieur à cet échelon devront, toutefois, être révisés par la DGVE avant de les soumettre au Bureau du SMA.</p>
-<h4>Annexe A</h4>
-<h5>Plafonds des pouvoirs d'attribution des marchés de biens</h5>
-<h5>Contrats et modifications aux contrats</h5>
-<h5>En vigueur le 17 juillet 1998</h5>
+<h5>Annexe A</h5>
+<h6>Plafonds des pouvoirs d'attribution des marchés de biens</h6>
+<h6>Contrats et modifications aux contrats</h6>
+<h6>En vigueur le 17 juillet 1998</h6>
 <table class="basic">
 <tbody><tr>
 <td rowspan="2"> </td>
@@ -194,14 +194,14 @@
 <td align="center" headers="header3 header9">2 k$</td>
 </tr>
 </tbody></table>
-<h4>Nota :</h4>
+<h5>Nota :</h5>
 <p><strong>Titres des postes : </strong>Les titres des postes indiqués si-dessus sont des exemples seulement - tous les postes équivalent (tels qu'indiqués à l'annexe B) ont les même pouvoirs tels que susmentionnés.</p>
 <p><strong>Ratifications : </strong>Les pouvoirs pour approuver les accords qui impliquent: un travail précontractuel, une ratification des engagements contractuels antérieurs, les confirmations de commandes, ou contrats/modifications qui comprennent les clauses de reconnaissement et de débit, ou toute autre élément rétroactif sont limités à 50 % des valeurs seuils en dollars précisés ci-dessus.  Le pouvoir d'approbation minimal est à l'echelon du Directeur.</p>
 <p>Les modifications des pouvoirs sont indiqués en caractères <strong>GRAS</strong>.</p>
 <hr/>
-<h5>Plafonds des pouvoirs d'attribution des marchés de services</h5>
-<h5>Contrats et modifications aux contrats</h5>
-<h5>En vigueur le 17 juillet 1998</h5>
+<h6>Plafonds des pouvoirs d'attribution des marchés de services</h6>
+<h6>Contrats et modifications aux contrats</h6>
+<h6>En vigueur le 17 juillet 1998</h6>
 <table class="basic">
 <tbody><tr>
 <td rowspan="2"> </td>
@@ -344,14 +344,14 @@
 <td align="center" headers="head3 head9">2 k$</td>
 </tr>
 </tbody></table>
-<h4>Nota :</h4>
+<h5>Nota :</h5>
 <p><strong>Titres des postes : </strong>Les titres des postes indiqués si-dessus sont des exemples seulement - tous les postes équivalents (tels qu'indiqués à l'annexe B) ont les mêmes pouvoirs tels que susmentionnés.</p>
 <p><strong>Ratifications </strong>: Les pouvoirs pour approuver les accords qui impliquent: un travail précontractuel, une ratification des engagements contractuels antérieurs, les confirmations de commandes, ou contrats/modifications qui comprennent les clauses de reconnaissement et de débit, ou toute autre élément rétroactif sont limités à 50 % des valeurs seuils en dollars précisés ci-dessus. Le pouvoir d'approbation minimal est à l'echelon du Directeur.</p>
 <p>Les modifications des pouvoirs sont indiqués en caractères <strong>GRAS.</strong></p>
 <hr/>
-<h5>Plafond des pouvoirs d'attribution des marchés de construction</h5>
-<h5>Contrats et modifications de contrats</h5>
-<h5>En vigueur le 17 juillet 1998</h5>
+<h6>Plafond des pouvoirs d'attribution des marchés de construction</h6>
+<h6>Contrats et modifications de contrats</h6>
+<h6>En vigueur le 17 juillet 1998</h6>
 <table class="basic">
 <tbody><tr>
 <td rowspan="2"> </td>
@@ -448,15 +448,15 @@
 <td align="center" headers="tablehead3 tablehead9">25 k$</td>
 </tr>
 </tbody></table>
-<h4>Nota :</h4>
+<h5>Nota :</h5>
 <p><strong>Titres des postes : </strong>Les titres des postes indiqués ci-dessus sont des exemples seulement - tous les postes équivalents (tels qu'indiqués à l'annexe B) ont les mêmes pouvoirs maximaux tels que susmentionnés. Les pouvoirs indiqués peuvent être restreints par des secteurs ou des régions. Veuillez communiquer avec votre agent responsable de l'assurance de la qualité afin de confirmer vos pouvoirs.</p>
 <p><strong>Ratifications : </strong>Les pouvoirs pour approuver les accords qui impliquent: un travail précontractuel, une ratification des engagements contractuels antérieurs, les confirmations de commandes, ou contrats/modifications qui comprennent les clauses de reconnaissement et de débit, ou toute autre élément rétroactif sont limités à 50 % des valeurs seuils en dollars précisés ci-dessus. Le pouvoir d'approbation minimal est à l'echelon du Directeur.</p>
 <p><strong>Construction de Défense Canada : </strong>Les pouvoirs d'attribution des marchés de construction, quand le client est le Ministère de la Défense nationale sont limités suite à une entente entre TPSGC et Construction de Défense Canada (CDC). Il a été convenu que TPSGC n'achètera des services de construction pour la Défense nationale que si la valeur est moins de 60,000 $. Si la valeur d'achat dépasse 60,000 $ l'approbation doit être obtenue de CDC.</p>
 <p>Les modifications des pouvoirs sont indiqués en caractères <strong>GRAS</strong>.</p>
 <hr/>
-<h5>Plafonds des pouvoirs d'attribution des marchés de services de télécommunications</h5>
-<h5>Contrats et modifications de contrats</h5>
-<h5>En vigueur le 17 juillet 1998</h5>
+<h6>Plafonds des pouvoirs d'attribution des marchés de services de télécommunications</h6>
+<h6>Contrats et modifications de contrats</h6>
+<h6>En vigueur le 17 juillet 1998</h6>
 <table class="basic">
 <tbody><tr>
 <td rowspan="2"> </td>
@@ -599,14 +599,14 @@
 <td align="center" headers="thead3 thead9">2 k$</td>
 </tr>
 </tbody></table>
-<h4>Nota:</h4>
+<h5>Nota:</h5>
 <p><strong>Titres des postes : </strong>Les titres des postes indiqués si-dessus sont des exemples seulement - tous les postes équivalents (tels qu'indiqués à l'annexe B) ont les mêmes pouvoirs tels que susmentionnés.</p>
 <p><strong>Ratifications : </strong>Les pouvoirs pour approuver les accords qui impliquent: un travail précontractuel, une ratification des engagements contractuels antérieurs, les confirmations de commandes, ou contrats/modifications qui comprennent les clauses de reconnaissement et de débit, ou toute autre élément rétroactif sont limités à 50 % des valeurs seuils en dollars précisés ci-dessus. Le pouvoir d'approbation minimal est à l'echelon du Directeur.</p>
 <p>Les modifications des pouvoirs sont indiqués en caractères <strong>GRAS.</strong></p>
 <hr/>
-<h5>Plafonds des pouvoirs d'attribution des marchés de services d'architecture et de génie</h5>
-<h5>Contrats et modifications de contrats</h5>
-<h5>En vigueur le 17 juillet 1998</h5>
+<h6>Plafonds des pouvoirs d'attribution des marchés de services d'architecture et de génie</h6>
+<h6>Contrats et modifications de contrats</h6>
+<h6>En vigueur le 17 juillet 1998</h6>
 <table class="basic">
 <tbody><tr>
 <td rowspan="2"> </td>
@@ -703,12 +703,12 @@
 <td align="center" headers="header12 header18"> </td>
 </tr>
 </tbody></table>
-<h4>Nota :</h4>
+<h5>Nota :</h5>
 <p><strong>Titres des postes : </strong>Les titres des postes indiqués ci-dessus sont des exemples seulement - tous les postes équivalents (tels qu'indiqués à l'annexe B) ont les mêmes pouvoirs maximaux tels que susmentionnés. Les pouvoirs indiqués peuvent être restreints par des secteurs ou des régions. Veuillez communiquer avec votre agent responsable de l'assurance de la qualité afin de confirmer vos pouvoirs.</p>
 <p><strong>Ratifications : </strong>Les pouvoirs pour approuver les accords qui impliquent: un travail précontractuel, une ratification des engagements contractuels antérieurs, les confirmations de commandes, ou contrats/modifications qui comprennent les clauses de reconnaissement et de débit, ou toute autre élément rétroactif sont limités à 50 % des valeurs seuils en dollars précisés ci-dessus. Le pouvoir d'approbation minimal est à l'echelon du Directeur.</p>
 <p>Les modifications des pouvoirs sont indiqués en caractères <strong>GRAS</strong>.</p>
-<h4>Annexe B</h4>
-<h5>Tableau des postes équivalents</h5>
+<h5>Annexe B</h5>
+<h6>Tableau des postes équivalents</h6>
 <p>SMA, Services des approvisionnements <br/>
 					Directeur exécutif, SCC </p>
 <p>Directeur général, Services des approvisionnements <br/>
@@ -770,8 +770,8 @@
 					Commis de marchés <br/>
 					Commis à la négociation des marchés <br/>
 					Commis aux achats </p>
-<h4>Annexe C</h4>
-<h5>Établissement du pouvoir d'approbation des modifications</h5>
+<h5>Annexe C</h5>
+<h6>Établissement du pouvoir d'approbation des modifications</h6>
 <p>Voici un exemple sur la façon d'établir le fondé de pouvoir compétent pour une modification:</p>
 <p>Modification numéro 1 à un contrat de biens évalués à 250 000 $. La modification n'était pas approuvée antérieurement. La présentation du contrat initial a été approuvée à 3 millions de dollars - ce montant comprenait la valeur du contrat initial de 1 500 000 $ et une autre valeur de 1 500 000 $ approuvée pour les options à être exercées durant les deux années suivantes. Afin de déterminer le pouvoir d'approbation de la modification, veuillez procéder comme suit :</p>
 <ol>
@@ -785,9 +785,9 @@
 </ol>
 <p>La modification numéro 3 est évaluée à 2 000 $. Cette modification n'a pas été approuvée antérieurement. Dès que le ministre a approuvé une modification, toutes les modifications positives ultérieures qui n'ont pas été approuvées antérieurement nécessitent l'approbation du ministre. Par conséquent, il faut l'approbation du ministre.</p>
 <p>Veuillez prendre note que toutes les modifications évaluées à plus de 1 000 000 $ doivent être approuvées par le ministre.</p>
-<h4>Annexe D</h4>
-<h5>Plafonds du pouvoir d'approbation et de signature des contrats et des modifications de contrats.</h5>
-<h5>Les biens, les services, les services de télécommunications, les services d'architecture et de génie et les services de construction</h5>
+<h5>Annexe D</h5>
+<h6>Plafonds du pouvoir d'approbation et de signature des contrats et des modifications de contrats.</h6>
+<h6>Les biens, les services, les services de télécommunications, les services d'architecture et de génie et les services de construction</h6>
 <table class="basic">
 <tbody><tr>
 <td rowspan="2"> </td>
@@ -930,7 +930,7 @@
 <td align="center" headers="head12 head18">5 k$</td>
 </tr>
 </tbody></table>
-<h4>Nota:</h4>
+<h5>Nota:</h5>
 <p><strong>Titres des postes : </strong>Les titres des postes indiqués si-dessus sont des exemples seulement - tous les postes équivalent (tels qu'indiqué\    s à l'annexe B) ont les même pouvoirs tels que susmentionnés.</p>
 <p>Les modifications des pouvoirs sont indiqués en caractères <strong>GRAS.</strong></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">

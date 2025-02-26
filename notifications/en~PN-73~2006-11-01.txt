@@ -1,8 +1,8 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-73</h2>
+<h3 class="pn-content-title">Content of PN-73</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h4>Introduction</h4>
+<h5>Introduction</h5>
 <p>This Policy Notification (PN)-73 changes the policy on direct notification<br/>
 					to potential bidders when a procurement is carried out subject<br/>
 					to a trade agreement. </p>
@@ -13,7 +13,7 @@
 <p>With this change, there will be no basic difference in approach: potential<br/>
 					suppliers may be notified directly, in appropriate circumstances<br/>
 					and with due prudence, whether or not a trade agreement applies.</p>
-<h4>Policy</h4>
+<h5>Policy</h5>
 <p>Effective immediately, when a procurement is subject to a trade agreement,<br/>
 					contracting officers may notify suppliers directly that a bid opportunity<br/>
 					has been posted on the Government Electronic Tendering Service<br/>
@@ -23,11 +23,11 @@
 					the appropriate procedures for the notification are outlined in<br/>
 					the attached <a href="#PN-73a">Annex A</a>. All changes highlighted in red text will be incorporated<br/>
 					in the next release of the Supply Manual.</p>
-<h4>Contact</h4>
+<h5>Contact</h5>
 <p><strong>N/A</strong></p>
-<h3><a id="PN-73a" name="a"></a>Annex A</h3>
-<h4>Changes to the Supply Manual</h4>
-<h5>Chapter 5, Sourcing Strategy</h5>
+<h4><a id="PN-73a" name="a"></a>Annex A</h4>
+<h5>Changes to the Supply Manual</h5>
+<h6>Chapter 5, Sourcing Strategy</h6>
 <h6>Procurements Subject to Trade Agreements</h6>
 <p><strong>5.041 (xxxx-xx-xx)</strong> For procurements subject to <acronym title="North American Free Trade Agreement">NAFTA</acronym>, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> or AIT,<br/>
 					or a combination of these, public advertisement/notification provisions<br/>
@@ -47,7 +47,7 @@
 <p>When public advertising (GETS or other public media) is used, potential<br/>
 					suppliers may be notified directly about the opportunity, <strong>in accordance<br/>
 					with 7B.188.</strong></p>
-<h5>Chapter 7, Competitive Procurement</h5>
+<h6>Chapter 7, Competitive Procurement</h6>
 <h6>Section 7B:  Issuing a Bid Solicitation</h6>
 <p><strong>7B.187 (xxxx-xx-xx)</strong> If the electronic notices are received at GETS<br/>
 					(MERX) by 17:00 on a given day, and all the elements (notice,<br/>

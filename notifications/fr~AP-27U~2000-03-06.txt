@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-27U</h2>
+<h3 class="pn-content-title">Contenu de l'AP-27U</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : Le 6 mars 2000</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : Le 6 mars 2000</h4>
 <p>Cette mise à jour de l'Avis de politique n<sup>o</sup> 27<br/>
 					vise à modifier comme suit la Politique sur les marchés<br/>
 					réservés dans le cadre des ententes sur les revendications<br/>
@@ -36,13 +36,13 @@
 					des approvisionnements et au manuel des CCUA, dont la diffusion<br/>
 					est prévue pour mai 2000.</p>
 <hr/>
-<h3>Annexe A</h3>
-<h4>Changements apportés au chapitre 9M Guide des approvisionnements</h4>
+<h4>Annexe A</h4>
+<h5>Changements apportés au chapitre 9M Guide des approvisionnements</h5>
 <p>Mise à jour du tableau intitulé « Résumé des<br/>
 					avantages découlant de l'Avis de politique des marchés<br/>
 					1997-8 du Secrétariat du Conseil du Trésor du Canada »</p>
-<h5>Section 5.7 : Entente définitive de la Première<br/>
-					nation des Tr'ondëk Hwëch'in*</h5>
+<h6>Section 5.7 : Entente définitive de la Première<br/>
+					nation des Tr'ondëk Hwëch'in*</h6>
 <p><strong>Avis</strong></p>
 <dl>
 <dt><em>Invitation à soumissionner</em></dt>
@@ -66,9 +66,9 @@
 					définitive de la Première nation des Tr'ondëk<br/>
 					Hwëch'in.</p>
 <hr/>
-<h3>Annexe B</h3>
-<h4>Changements apportés au guide des Clauses et conditions<br/>
-					uniformisées d'achat</h4>
+<h4>Annexe B</h4>
+<h5>Changements apportés au guide des Clauses et conditions<br/>
+					uniformisées d'achat</h5>
 <p>Inclure la ou les clauses du guide des CCUA pertinentes (précisées<br/>
 					dans le tableau ci-dessus) dans l'invitation à soumissionner,<br/>
 					et insérer les numéros des clauses correspondants<br/>
@@ -83,8 +83,8 @@
 					La clause CCUA W0173T comprend les clauses : 17.14.2.2; 17.14.2.3;<br/>
 					17.14.2.4; 17.14.2.8. </p>
 <hr/>
-<h3>Clause CCUA modifiée : Entente définitive<br/>
-					de la Première nation des Little Salmon/Carmacks (EDPNLSC)</h3>
+<h4>Clause CCUA modifiée : Entente définitive<br/>
+					de la Première nation des Little Salmon/Carmacks (EDPNLSC)</h4>
 <p><strong>W0113T EDPNLSC - Sylviculture</strong></p>
 <p><strong>Remarques</strong> : Consulter le tableau intitulé « Résumé des<br/>
 					avantages découlant de l'Avis de politique des marchés<br/>
@@ -116,8 +116,8 @@
 					la Première nation de Little Salmon/Carmacks d'un critère<br/>
 					concernant l'embauchage d'Indiens de Little Salmon/Carmacks.</p>
 <hr/>
-<h3>Nouvelle clause CCUA : Entente définitive de la Première<br/>
-					nation des Tr'ondëk Hwëch'in (EDPNTH)</h3>
+<h4>Nouvelle clause CCUA : Entente définitive de la Première<br/>
+					nation des Tr'ondëk Hwëch'in (EDPNTH)</h4>
 <p><strong>W0171T EDPNTH - Site historique désigné</strong></p>
 <p><strong>Remarques</strong> : Consulter le tableau intitulé « Résumé des<br/>
 					avantages découlant de l'Avis de politique des marchés<br/>

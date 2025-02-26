@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-35</h2>
+<h3 class="pn-content-title">Content of PN-35</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>On July 2, the Minister approved a new Departmental Delegation of Authority framework. The new delegation reflects significant changes in contract and contract amendment authorities which will be effective July 17, 1998. This Policy Notification details the revised authorities and related procedures for implementing the new delegation under the following key subject areas:</p>
 <ol>
@@ -12,11 +12,11 @@
 <li>Procedures for Contract and Amendment Submissions</li>
 <li>Procurement Information for the Minister</li>
 </ol>
-<h3>1. New Contract Entry and Amendment Approval Authorities Charts</h3>
+<h4>1. New Contract Entry and Amendment Approval Authorities Charts</h4>
 <p>Effective July 17, 1998, procurement staff will be authorized to exercise the revised contract entry and amendment approval authorities shown in the charts at Annex A. The revised contract entry authorities are self-explanatory. A detailed explanation of the revised amendment authorities follows.</p>
 <p>The approval authorities shown for position titles at the Director level and above reflect the Minister's new delegation combined with Branch level restrictions. The authorities shown for position titles below the Director level, reflect only those changes that result in decreased authorities. Once the new delegation framework is fully implemented and procurement processes are modified to support the changes in authorities, further decisions on changes to the authorities for positions below the Director level will be made. All changes to the existing authorities are shown in <strong>bold</strong>.</p>
 <p><strong>NOTE: Decreased authorities must be used as of July 17, 1998; for positions other than Directors General and Directors there are no increases at this time.</strong></p>
-<h3>2. Revised Amendment Authorities</h3>
+<h4>2. Revised Amendment Authorities</h4>
 <p>The new delegation introduces significant changes to approval authorities for amendments. The objective is to increase competition and openness by encouraging the identification of all known requirements, including possible changes, at the procurement planning stage. When potential amendments are pre-approved they can be exercised in accordance with the procedures for exercising options and using amounts set aside.</p>
 <p>The new approval authorities for amendments are based on the aggregate amendment value. Amendment authorities are described either as a single dollar threshold, or in terms of; "the greater of $x or 10% of the originally approved contract submission value, not to exceed the maximum of $y".</p>
 <p>The amount defined as $x in this formula (derived from the Treasury Board limit on contract amendments for other departments) is clearly defined in the charts of amendment authorities. The amount defined as $y is also defined in the charts of amendment authorities and represents the maximum threshold for approving amendments.</p>
@@ -25,25 +25,25 @@
 <p>Amendments issued to use an amount set aside for unscheduled work, work arisings, or design changes shall be approved by the appropriate non-competitive contract entry approval authority, not to exceed the lower of the Director level or the original approval authority.</p>
 <p>All amendment approval authorities (for amendments not previously approved) are determined on the basis of the aggregate amendment value. The three step process used to determine the appropriate amendment approval authority (as defined in paragraphs 1 and 2 of Annex 6.1.5 of the SM) is not to be used with the new delegation of amendment authorities.</p>
 <p>Examples of how to determine the appropriate amendment approval authority are provided in Annex C.</p>
-<h3>3. Special Authorities</h3>
+<h4>3. Special Authorities</h4>
 <p><strong>Exceptional Authorities - </strong>Delegation of the Minister's Exceptional Authorities as detailed in paragraphs 1.6 through 1.13 inclusive in Annex 6.1.1 of the Supply Manual remain unchanged with the exception that Regional Directors will now have the same authority as the Regional Directors General. The recent increase in the authority for the repair and overhaul of military equipment, to $50 million has not been delegated at this time.</p>
 <p><strong>Standing Offer and Supply Arrangement Authorities - </strong>The Assistant Deputy Minister, SOSB, has unlimited authority to approve and amend standing offers and supply arrangements and revised standing offers and supply arrangements, when individual call-ups will not exceed the limits prescribed by Treasury Board.</p>
-<h3>4. Signing Authorities</h3>
+<h4>4. Signing Authorities</h4>
 <p>Signing authorities have been standardized for goods, services, telecommunications services, construction, and architectural and engineering services. The revised signing authorities are detailed in Annex D.</p>
-<h3>5. Removal of Policy Restrictions</h3>
+<h4>5. Removal of Policy Restrictions</h4>
 <p>The Ministerial authorities to approve specific types of non-competitive contracts and amendments as described in paragraphs 1.1 (c), (d), and (e), Annex 6.1.1 of the Supply Manual, are not part of the new delegation and <strong>are no longer applicable</strong>. Procurement staff are reminded that if a valid challenge to an ACAN is received, but a decision is made to proceed with the procurement, the non-competitive contract approval authorities apply.</p>
-<h3>6. Procedures for Contract and Amendment Submissions</h3>
+<h4>6. Procedures for Contract and Amendment Submissions</h4>
 <p>Contract submissions shall be prepared and routed for approval in accordance with existing procedures, with the exception that the requirement for legal, cost analyst, and sector or regional quality assurance reviews, as described in Annex 6.1 of the Supply Manual shall apply to contract submissions requiring approval of Regional Directors, as well as the position titles already referenced in Annex 6.1. Submissions for approval at the ADM level or above will be subject to review by Audit and Review Branch (A&amp;RB).</p>
 <p>Procedures for preparing and routing contract amendment submissions are currently under review, with the objective of streamlining the process in the near future.</p>
 <p>Until such time as a revised procedure is implemented, amendment submissions seeking approval at the ADM level or above shall be prepared using the Contract Amendment Request forms (DSS 1151 series). These submissions will not be subject to review by A&amp;RB but will be routed through the ADM, SOSB. Contract amendment submissions requiring TB approval will continue to be subject to review by A&amp;RB.</p>
-<h3>7. Procurement Information for the Minister</h3>
+<h4>7. Procurement Information for the Minister</h4>
 <p>Contract and amendment authorities have been delegated on the condition that procurement information will be provided to the Minister's Office when the value of contracts and amendments exceeds specified thresholds. The detailed procedures for providing this information to the Minister's Office are described in Policy Notification 32, dated March 31, 1998, and the related Update dated July 17.</p>
 <p>The condition for posting, to senior management, procurement plans for procurement with an estimated value of $1 million or more, and a summary of the related Contract Request, 48 hours before contract approval, is not part of the new delegation and is no longer applicable.</p>
 <p>Formal procurement plans which will result in contracts that will require approval by the ADM or above will, however, be reviewed by A&amp;RB prior to submission to the ADM's office.</p>
-<h3>Annex A</h3>
-<h4>Contract and Contract Amendment</h4>
-<h4>Approval Authority Limits for Goods</h4>
-<h4>Effective July 17, 1998</h4>
+<h4>Annex A</h4>
+<h5>Contract and Contract Amendment</h5>
+<h5>Approval Authority Limits for Goods</h5>
+<h5>Effective July 17, 1998</h5>
 <table class="basic">
 <tbody><tr valign="top">
 <td rowspan="2"> </td>
@@ -178,14 +178,14 @@
 <td align="center" headers="header3 header9">$2K</td>
 </tr>
 </tbody></table>
-<h3>Notes:</h3>
+<h4>Notes:</h4>
 <p><strong>Position Titles: </strong>Position titles shown above are examples only - all equivalent positions (as shown in the Tables following the approval authority charts) have the same authorities as indicated above.</p>
 <p><strong>Ratifications: </strong>Authorities for approving agreements which involve: pre-contractual work, ratification of prior contractual commitments, confirming orders, or contracts/amendments which include acknowledgement and release clauses, or any other retroactive elements are limited to 50% of the dollar thresholds specified above. The minimum approval authority is the Director level.</p>
 <p>Changes in the authorities are shown in <strong>BOLD </strong>text.</p>
 <hr/>
-<h4>Contract and Contract Amendment Approval Authority Limits for Services</h4>
-<h4>Approval Authority Limits for Services</h4>
-<h4>Effective July 17, 1998</h4>
+<h5>Contract and Contract Amendment Approval Authority Limits for Services</h5>
+<h5>Approval Authority Limits for Services</h5>
+<h5>Effective July 17, 1998</h5>
 <table class="basic">
 <tbody><tr>
 <td rowspan="2"> </td>
@@ -320,14 +320,14 @@
 <td align="center" headers="head3 head9">$2K</td>
 </tr>
 </tbody></table>
-<h3>Notes:</h3>
+<h4>Notes:</h4>
 <p><strong>Position Titles:</strong> Position titles shown above are examples only - all equivalent positions (as shown in the Tables following the approval authority charts) have the same authorities as indicated above.</p>
 <p><strong>Ratifications: </strong>Authorities for approving agreements which involve: pre-contractual work, ratification of prior contractual commitments, confirming orders, or contracts/amendments which include acknowledgement and release clauses, or any other retroactive elements are limited to 50% of the dollar thresholds specified above. The minimum approval authority is the Director level.</p>
 <p>Changes in the authorities are shown in <strong>BOLD</strong> text.</p>
 <hr/>
-<h4>Contract and Contract Amendment Approval Authority Limits</h4>
-<h4>Construction Contracts</h4>
-<h4>Effective July 17, 1998</h4>
+<h5>Contract and Contract Amendment Approval Authority Limits</h5>
+<h5>Construction Contracts</h5>
+<h5>Effective July 17, 1998</h5>
 <table class="basic">
 <tbody><tr>
 <td rowspan="2"> </td>
@@ -417,15 +417,15 @@
 <td align="center" headers="tablehead3 tablehead9">$25K</td>
 </tr>
 </tbody></table>
-<h3>Notes:</h3>
+<h4>Notes:</h4>
 <p><strong>Position Titles: </strong>Position titles shown above are examples only - all equivalent positions (as shown in the Tables following the approval authority charts) have the same maximum authorities as indicated above. Authorities shown may be restricted within individual sectors and regions. Please contact your quality assurance representative to confirm the authorities for your position title.</p>
 <p><strong>Ratifications: </strong>Authorities for approving agreements which involve: pre-contractual work, ratification of prior contractual commitments, confirming orders, or contracts/amendments which include acknowledgement and release clauses, or any other retroactive elements are limited to 50% of the dollar thresholds specified above. The minimum approval authority is the Director level.</p>
 <p><strong>Defence Construction: </strong>Construction contracting authorities for procurements carried out on behalf of Department of National Defence (DND) are limited by an agreement between <acronym title="Public Works and Government Services Canada">PWGSC</acronym> and Defence Construction Canada (DCC) that <acronym title="Public Works and Government Services Canada">PWGSC</acronym> will procure construction services on behalf of DND, only if the value of the procurement does not exceed $60,000. If the value of such a procurement on behalf of DND exceeds $60,000.00 approval to proceed must be obtained from DCC.</p>
 <p>Changes in the authorities are shown in <strong>BOLD</strong> text.</p>
 <hr/>
-<h4>Contract and Contract Amendment Approval Authority Limits</h4>
-<h4>Telecommunications Contracts</h4>
-<h4>Effective July 17, 1998</h4>
+<h5>Contract and Contract Amendment Approval Authority Limits</h5>
+<h5>Telecommunications Contracts</h5>
+<h5>Effective July 17, 1998</h5>
 <table class="basic">
 <tbody><tr>
 <td rowspan="2"> </td>
@@ -560,14 +560,14 @@
 <td align="center" headers="thead3 thead9">$2K</td>
 </tr>
 </tbody></table>
-<h3>Notes:</h3>
+<h4>Notes:</h4>
 <p><strong>Position Titles:</strong> Position titles shown above are examples only - all equivalent positions (as shown in the Tables following the approval authority charts) have the same authorities as indicated above.</p>
 <p><strong>Ratifications: </strong>Authorities for approving agreements which involve: pre-contractual work, ratification of prior contractual commitments, confirming orders, or contracts/amendments which include acknowledgement and release clauses, or any other retroactive elements are limited to 50% of the dollar thresholds specified above. The minimum approval authority is the Director level.</p>
 <p>Changes in the authorities are shown in <strong>BOLD</strong> text.</p>
 <hr/>
-<h4>Contract and Contract Amendment Approval Authority Limits</h4>
-<h4>Architectural and Engineering Services Contracts</h4>
-<h4>Effective July 17, 1998</h4>
+<h5>Contract and Contract Amendment Approval Authority Limits</h5>
+<h5>Architectural and Engineering Services Contracts</h5>
+<h5>Effective July 17, 1998</h5>
 <table class="basic">
 <tbody><tr>
 <td rowspan="2"> </td>
@@ -657,12 +657,12 @@
 <td align="center" headers="header12 header18"> </td>
 </tr>
 </tbody></table>
-<h3>Notes:</h3>
+<h4>Notes:</h4>
 <p><strong>Position Titles: </strong>Position titles shown above are examples only - all equivalent positions (as shown in the Tables following the approval authority charts) have the same authorities as indicated above. Authorities shown may be restricted within individual sectors and regions. Please contact your quality assurance representative to confirm the authorities for your position title.</p>
 <p><strong>Ratifications: </strong>Authorities for approving agreements which involve: pre-contractual work, ratification of prior contractual commitments, confirming orders, or contracts/amendments which include acknowledgement and release clauses, or any other retroactive elements are limited to 50% of the dollar thresholds specified above. The minimum approval authority is the Director level.</p>
 <p>Changes in the authorities are shown in <strong>BOLD</strong> text.</p>
-<h3>Annex B</h3>
-<h4>Table of Equivalent Positions</h4>
+<h4>Annex B</h4>
+<h5>Table of Equivalent Positions</h5>
 <p>ADM Supply Operations <br/>
 					Executive Director, CCSB</p>
 <p>Director General, Supply Operations <br/>
@@ -724,8 +724,8 @@
 					Contract Clerk <br/>
 					Contracting Clerk <br/>
 					Buying Clerk </p>
-<h3>Annex C</h3>
-<h4>Determining the Amendment Approval Authority</h4>
+<h4>Annex C</h4>
+<h5>Determining the Amendment Approval Authority</h5>
 <p>Following is an example of how to determine the appropriate authority for an amendment.</p>
 <p>Amendment No. 1 to a goods contract is valued at $250,000. This amendment was not previously approved. The original contract submission was approved at $3 million - this amount included the original contract value of $1,500,000, and an additional $1,500,000 approved for options to be exercised in the following two year period. To determine the appropriate amendment approval authority proceed as follows:</p>
 <ol>
@@ -739,9 +739,9 @@
 </ol>
 <p>Amendment No. 3 is valued at $2,000. This amendment was not previously approved. Once the Minister has approved an amendment, all subsequent positive amendments that were not previously approved require the Minister's approval; therefore, Ministerial approval is required.</p>
 <p>Note that all amendments valued in excess of $1,000,000 must be approved by the Minister, unless they were part of a previously approved submission.</p>
-<h3>Annex D</h3>
-<h4>Contract and Contract Amendment Signing Authority Limits</h4>
-<h4>Goods, Services, Telecommunication Services, Architectural and Engineering Services and Construction</h4>
+<h4>Annex D</h4>
+<h5>Contract and Contract Amendment Signing Authority Limits</h5>
+<h5>Goods, Services, Telecommunication Services, Architectural and Engineering Services and Construction</h5>
 <table class="basic">
 <tbody><tr>
 <td rowspan="2"> </td>
@@ -876,7 +876,7 @@
 <td align="center" headers="head12 head18">$5K</td>
 </tr>
 </tbody></table>
-<h3>Notes:</h3>
+<h4>Notes:</h4>
 <p><strong>Position Titles</strong>: Position titles shown above are examples only - all equivalent positions (as shown at Annex A have the same authorities as indicated above.</p>
 <p>Changes are shown in the authorities in <strong>BOLD</strong> text.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">

@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-44</h2>
+<h3 class="pn-content-title">Contenu de l'AP-44</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 8 décembre 1999</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 8 décembre 1999</h4>
 <p>Le recours à différents systèmes de gestion financière par de nombreux clients pose certains problèmes de traitement des demandes par TPSGC pour le compte des clients et de leurs fournisseurs. Pour remédier à la situation, nous avons créé un nouvel indicateur, soit le numéro de référence du client (NRC).</p>
 <p>Ce changement a également nécessité des modifications aux clauses actuelles du guide des Clauses et conditions uniformisées d'achat (CCUA) portant sur la facturation. À compter d'aujourd'hui, les clauses qui se trouvent à l'annexe A de cet avis relatif aux politiques remplace les clauses figurant dans toutes les versions précédentes du guide des CCUA.</p>
 <p>Chacune des clauses modifiées ci-dessous doit être insérée intégralement, s'il y a lieu, dans les documents d'achat. Cette mesure doit être appliquée jusqu'à ce que les clauses soient intégrées légalement dans la prochaine version du guide des CCUA, qui devrait être publiée en juin 2000.</p>
@@ -27,7 +27,7 @@
 <li>Y4000D Expédition - Modalités R</li>
 </ul>
 <p>Contact : <strong>S/O</strong>)</p>
-<h3>Annexe A</h3>
+<h4>Annexe A</h4>
 <p><strong>TRA-95 13 (xx/xx/xx) Paiement</strong></p>
 <p>1. Pour tout paiement demandé, l'entrepreneur doit soumettre une facture à l'autorité contractante. La facture doit comprendre les renseignements suivants : nom et adresse de l'entrepreneur, numéro du contrat, numéro(s) de la (des) demande(s) de services, <strong><em>le numéro de référence du client (NRC)</em></strong> volume des prestations exécutées (mots/heures), tarif, montant total demandé et montant de la taxe sur les produits et services (TPS) ou la taxe de vente harmonisée (TVH) s'il y a lieu.</p>
 <p>2. La TPS et la TVH est exclue du prix contractuel pour les travaux. Dans la mesure applicable, la TPS ou la TVH, s'il y a lieu, sera intégrée à toutes les factures et demandes de paiement et sera acquittée par le Canada. L'entrepreneur accepte de remettre à Revenu Canada tout montant que l'entrepreneur reçoit du Canada, à titre de TPS ou de TVH, en vertu du contrat.</p>

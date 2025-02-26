@@ -1,23 +1,23 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-56</h2>
+<h3 class="pn-content-title">Contenu de l'AP-56</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 17 décembre 2001</h3>
-<h4>Contrats de TPSGC passés en devises européennes nécessitant la conversion en euros.</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 17 décembre 2001</h4>
+<h5>Contrats de TPSGC passés en devises européennes nécessitant la conversion en euros.</h5>
 <p>La Communauté économique européenne (CEE) se dirige vers l'utilisation d'une monnaie commune. Les contrats de TPSGC passés en devises des pays membres de la CEE devront faire l'objet d'une conversion de la monnaie nationale d'origine en monnaie européenne.</p>
 <p>La CEE a établi un taux de conversion irrévocable pour chaque devise en question, qui doit être appliqué lors de l'achat ou de la vente de devises euros ou d'unités monétaires nationales. Les taux de conversion figurent ci-dessous.</p>
 <p>Les divers pays affectés par la conversion en euros ont établi les dates officielles auxquelles les unités monétaires actuelles cesseront d'avoir cours légal. Ces dates sont indiquées ci-dessous.</p>
-<h4>MESURES À PRENDRE</h4>
+<h5>MESURES À PRENDRE</h5>
 <p>Les secteurs se chargeront d'apporter les changements nécessaires aux contrats de Travaux publics et Services gouvernementaux Canada (TPSGC) qui ont été passés en unités monétaires nationales, avant la date à laquelle celles-ci cesseront d'avoir cours légal.</p>
 <p>Les secteurs doivent déterminer les contrats visés par le présent Avis relatif aux politiques. Il y aura  peut-être lieu d'examiner les modalités des contrats pour déterminer si des mesures doivent être prises.</p>
-<h4>Conversion</h4>
+<h5>Conversion</h5>
 <p>Il est important de noter que, pour établir un montant en euros, il faut toujours diviser le montant de la devise nationale actuelle par le taux de conversion correspondant (établi par la CEE).</p>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr>
@@ -154,13 +154,13 @@
 <td>28 février 2002</td>
 </tr>
 </tbody></table>
-<h4>Règles d'arrondissement</h4>
+<h5>Règles d'arrondissement</h5>
 <p>La conversion d'unités monétaires nationales en euros est assujettie à des règles particulières afin d'assurer la clarté et l'équité. Chaque taux de conversion correspondant à un euro s'exprime sous la forme de six chiffres (p. ex., 1 euro = 40,3399 BEF). Seuls ces chiffres doivent être utilisés lorsqu'on effectue la conversion; on ne peut pas les arrondir ni les retrancher.</p>
 <p>Si, après la conversion en euros, la troisième décimale est inférieure à cinq, il faut arrondir au chiffre inférieur p. ex, 34,874 euros deviendra 34,87. Par contre, si la troisième décimale est cinq ou un chiffre plus élevé, on doit arrondir à un chiffre supérieur, p. ex., 34,875 deviendra 34,88 euros.</p>
-<h4>Factures et demandes de paiement non réglées avant la date à laquelle la monnaie cesse d'avoir cours légal</h4>
+<h5>Factures et demandes de paiement non réglées avant la date à laquelle la monnaie cesse d'avoir cours légal</h5>
 <p>Lorsque TPSGC a reçu une facture ou une demande de paiement ayant trait à un contrat mais qu'en raison des délais de traitement, le paiement n'a pas été fait avant la date à laquelle la monnaie cesse d'avoir cours légal, le montant payable doit être converti et payé en euros. Les taux de conversion sont indiqués ci-dessus.</p>
 <p>Les paiements émis, dans l'unité monétaire nationale originale, à la date à laquelle la monnaie cesse d'avoir cours légal ou avant seront honorés par les établissements financiers pendant une période de six mois suivant la date d'émission.</p>
-<h4>Contrats comportant une clause d'ajustement du taux de change</h4>
+<h5>Contrats comportant une clause d'ajustement du taux de change</h5>
 <p>Certains contrats de TPSGC peuvent comporter, comme modalité de paiement, une clause prévoyant les variations de change qui ont lieu pendant la durée du contrat. En pareil cas, les modalités du contrat devront être revues pour déterminer s'il y a lieu de modifier la clause.</p>
 <p>Dans certains cas où des monnaies nationales européennes sont utilisées, il sera peut-être nécessaire de modifier la clause pour tenir compte de la conversion d'unités monétaires nationales en euros.</p>
 <p>Dans ce cas, il faudra établir le montant en devises étrangères qui n'a pas été facturé, réclamé ou payé à ce jour. Ce montant devra être converti en euros à partir de l'unité monétaire nationale, en appliquant la méthode susmentionnée, qui servira alors de point de départ pour l'application de la clause d'ajustement du taux de change. Il faudra peut-être modifier la mention se rapportant au facteur de conversion du taux de change pour tenir compte de l'euro (c'est-à-dire le facteur de conversion indiqué entre autres dans le Globe and Mail, édition nationale).</p>

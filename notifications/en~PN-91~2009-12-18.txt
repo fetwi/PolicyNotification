@@ -1,14 +1,14 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-91</h2>
+<h3 class="pn-content-title">Content of PN-91</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>The purpose of Policy Notification (PN)-91 is to update the instructions  to contracting officers on the process to notify unsuccessful  bidders/offerors/suppliers and on providing them with debriefings, and  on disclosure of information.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>These changes are a result of the review of government  procurement practices performed by the Office of the Procurement Ombudsman  (OPO). The <abbr title="Office of the Procurement Ombudsman">OPO</abbr> is an independent  organization with a government-wide mandate defined in the <em>Department of Public Works and Government Services Act</em>. As part of its mandate, the <abbr title="Office of the Procurement Ombudsman">OPO</abbr> reviews the  practices of departments for acquiring goods and services, to assess their  fairness, openness and transparency, and make recommendations for the  improvement of those practices. This  review provided re commendations on how to improve the debriefing process based  on feedback from suppliers and the procurement community.</p>
-<h3>Effective Date</h3>
+<h4>Effective Date</h4>
 <p>This <abbr title="Policy Notification">PN</abbr> is effective immediately.</p>
-<h3>Revisions to the Current Policy</h3>
+<h4>Revisions to the Current Policy</h4>
 <p>In accordance with the <abbr title="Office of the Procurement Ombudsman">OPO</abbr> recommendations, the instructions on providing  debriefings have been revised to strengthen the relationship between suppliers  and the government. The following  significant changes are made to the procedures:</p>
 <ol class="double-space" type="a">
 <li>Suppliers will be notified of their option to request a debriefing by  including in each bid solicitation and Notice of Proposed Procurement  information such as time constraints, procedures and the point of contact.</li>
@@ -26,12 +26,12 @@
 <li>Appendix  B: Regret Letter to Unsuccessful  Bidders/Offerors/Suppliers – <strong>Non-responsive</strong> Bid/Offer/Arrangement</li>
 </ul>
 <p><a href="#PN-91ann-c">Annex  C</a>: includes changes, mainly by inserting pertinent information on  "debriefings", done to Section  2, Templates, of the <em>Standard Acquisition  Clauses and Conditions</em> Manual:  2T-LDV1, 2T-MED1, 2T-HIGH1, 2T-<abbr title="Request for Standing Offers">RFSO</abbr>1 and  2T-<abbr title="Request for Supply Arrangements">RFSA</abbr>1.</p>
-<h3>Contact Persons</h3>
+<h4>Contact Persons</h4>
 <p>For more information, contact Heather Bartlett, by phone at  819-956-0912 or by e-mail at: <a href="mailto:heather.bartlett@tpsgc-pwgsc.gc.ca" rel="external">heather.bartlett@tpsgc-pwgsc.gc.ca</a>;  or Anne Gauthier, by phone at 819-956-1025 or by e-mail at: <a href="mailto:Anne.Gauthier2@tpsgc-pwgsc.gc.ca" rel="external">Anne.Gauthier2@tpsgc-pwgsc.gc.ca</a>.</p>
-<h3 id="PN-91ann-a">Annex A</h3>
-<h4>Changes to the New  Supply Manual</h4>
+<h4 id="PN-91ann-a">Annex A</h4>
+<h5>Changes to the New  Supply Manual</h5>
 <p><em>The numbering of the  articles below follows the numbering of the new <abbr title="Supply Manual">SM</abbr>, to be released in January 2010.</em></p>
-<h5>Chapter 4 – Solicitation Process</h5>
+<h6>Chapter 4 – Solicitation Process</h6>
 <h6 id="PN-91a-4-10-15">4.10.15 Bid  Solicitation</h6>
 <p>(2010-xx-xx)</p>
 <ol class="double-space" type="a">
@@ -116,7 +116,7 @@
 <li value="3">If the cancellation takes place after the closing  date, suppliers should be advised within 10 calendar  days of the cancellation of the solicitation.</li>
 </ol>
 <p>*****************</p>
-<h5 id="PN-91a-7">Chapter 7 – Award of Contracts and Issuance of  Standing Offers and Supply Arrangements</h5>
+<h6 id="PN-91a-7">Chapter 7 – Award of Contracts and Issuance of  Standing Offers and Supply Arrangements</h6>
 <h6 id="PN-91a-7-35">7.35 Notification  to Unsuccessful Bidders/Offerors/Suppliers</h6>
 <p>(2010-xx-xx)</p>
 <p>Contracting  officers should notify unsuccessful bidders/offerors/suppliers as soon as  possible after contract award and issuance of a standing offer or supply  arrangement. Samples of regret letters are provided in <a href="#PN-91ann-7-1">Annex 7.1</a>.</p>
@@ -188,10 +188,10 @@
 <p><em>There may be  circumstances where the provisions related to the disclosure of information, as  set out above, cannot be applied. Such  circumstances must be handled on a case-by-case basis and would require the  approval of the manager or higher, depending on the approval authority, before  issuing the <abbr title="Request for Standing Offers">RFSO</abbr> or <abbr title="Request for Supply Arrangements">RFSA</abbr>.</em></p>
 </li>
 </ol>
-<h3 id="PN-91ann-b">Annex B</h3>
-<h4 id="PN-91ann-7-1">Annex 7.1: Samples  of Regret Letters</h4>
+<h4 id="PN-91ann-b">Annex B</h4>
+<h5 id="PN-91ann-7-1">Annex 7.1: Samples  of Regret Letters</h5>
 <p>(2010-xx-xx)</p>
-<h5 id="PN-91ann-7-1-a">Appendix A: Regret Letter to Unsuccessful Bidders/Offerors/Suppliers – Responsive Bid/Offer/Arrangement</h5>
+<h6 id="PN-91ann-7-1-a">Appendix A: Regret Letter to Unsuccessful Bidders/Offerors/Suppliers – Responsive Bid/Offer/Arrangement</h6>
 <p><strong><em>Note to Contracting  Officer</em></strong><em>: Because the  evaluation methodology for different procurements varies, this letter will have  to be tailored to the individual requirement.  This letter has been drafted assuming that this bidder/offeror/supplier,  although unsuccessful, its bid/offer/arrangement was declared responsive  because it has met all mandatory requirements.  Contracting officers should use the other sample regret letter in  Appendix B if the bid/offer/arrangement was declared non-responsive.</em></p>
 <p><span aria-label="Blank placeholder" class="blankline"></span>  (<strong><em>insert date</em></strong>)</p>
 <p><span aria-label="Blank placeholder" class="blankline"></span>  (<strong><em>insert department address</em></strong>)</p>
@@ -228,7 +228,7 @@ Contracting Authority</p>
 <p>Telephone: <span aria-label="Blank placeholder" class="blankline"></span> -<span aria-label="Blank placeholder" class="blankline"></span> -<span aria-label="Blank placeholder" class="blankline"></span> </p>
 <p>E-mail:  <span aria-label="Blank placeholder" class="blankline"></span>  @tpsgc-pwgsc.gc.ca</p>
 <p>cc: <span aria-label="Blank placeholder" class="blankline"></span>  (<strong><em>insert any additional names of people who  should receive a copy</em></strong>)</p>
-<h5 id="PN-91ann-7-1-b">Appendix  B: Regret Letter to Unsuccessful  Bidders/Offerors/Suppliers - Non-responsive Bid/Offer/Arrangement</h5>
+<h6 id="PN-91ann-7-1-b">Appendix  B: Regret Letter to Unsuccessful  Bidders/Offerors/Suppliers - Non-responsive Bid/Offer/Arrangement</h6>
 <p><strong><em>Note to contracting  officer:</em></strong><em> Because the evaluation methodology for  different procurement varies, this letter will have to be tailored to the  individual requirement. This letter has  been drafted assuming that the bid/offer/arrangement was declared  non-responsive because it has not met one or more mandatory requirements.  Contracting officers should use the other sample regret letter provided in  Appendix A if the bid/offer/arrangement was declared responsive but simply  wasn't the highest-ranked.</em></p>
 <p><span aria-label="Blank placeholder" class="blankline"></span>  (<strong><em>insert department address</em></strong>)</p>
 <p><span aria-label="Blank placeholder" class="blankline"></span>  (<strong><em>insert date</em></strong>)</p>
@@ -272,18 +272,18 @@ Contracting Authority</p>
 <p>Telephone: <span aria-label="Blank placeholder" class="blankline"></span> -<span aria-label="Blank placeholder" class="blankline"></span> -<span aria-label="Blank placeholder" class="blankline"></span> </p>
 <p>E-mail:  <span aria-label="Blank placeholder" class="blankline"></span>  @tpsgc-pwgsc.gc.ca</p>
 <p>cc: <span aria-label="Blank placeholder" class="blankline"></span>  (<strong><em>insert any additional names of people who  should receive a copy</em></strong>)</p>
-<h3 id="PN-91ann-c">Annex C</h3>
-<h4>Changes to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr>  Manual</h4>
-<h5>2T-LDV1 Low Dollar Value Bid Solicitation and  Resulting Contract Template</h5>
+<h4 id="PN-91ann-c">Annex C</h4>
+<h5>Changes to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr>  Manual</h5>
+<h6>2T-LDV1 Low Dollar Value Bid Solicitation and  Resulting Contract Template</h6>
 <p>Modify the 2T-LDV1 template as follows:</p>
 <ol>
 <li>Amend Part 1 - Information and Instructions - to add a  new article as follows:</li>
 </ol>
 <p><strong><em>Remark to Contracting Authority:</em></strong><em> Consult Supply  Manual 7.35, 7.40, 7.45 and <abbr title="Policy Notification">PN</abbr>-91, Debriefings and Regret Letters.</em></p>
-<h5>8. Debriefings</h5>
+<h6>8. Debriefings</h6>
 <p>After contract award, bidders may request a debriefing  on the results of the bid solicitation. Bidders should make the request to the  Contracting Authority within 15 working days of receipt of notification that  their bid was unsuccessful. The debriefing may be provided in writing, by  telephone or in person.</p>
 <p>*****************</p>
-<h5>2T-MED1 Medium Complexity Bid Solicitation  and Resulting Contract Template</h5>
+<h6>2T-MED1 Medium Complexity Bid Solicitation  and Resulting Contract Template</h6>
 <p>Modify the 2T-MED1 template as follows:</p>
 <p>1. Amend the Table of Contents to add a new article as  follows:</p>
 <h6>Part 1 - General  Information</h6>
@@ -300,7 +300,7 @@ Contracting Authority</p>
 <h6>6. Debriefings</h6>
 <p>After contract award, bidders may request a debriefing  on the results of the bid solicitation. Bidders should make the request to the  Contracting Authority within 15 working days of receipt of notification that  their bid was unsuccessful. The debriefing may be provided in writing, by  telephone or in person.</p>
 <p>*****************</p>
-<h5>2T-HIGH1 Higher Complexity Bid Solicitation and  Resulting Contract Template</h5>
+<h6>2T-HIGH1 Higher Complexity Bid Solicitation and  Resulting Contract Template</h6>
 <p>Modify the 2T-HIGH1 template as follows:</p>
 <p>1. Amend  the Table of Contents to add a new article as follows:</p>
 <h6>Part 1 - General  Information</h6>
@@ -315,7 +315,7 @@ Contracting Authority</p>
 <h6>4. Debriefings</h6>
 <p>After contract award, bidders may request a debriefing  on the results of the bid solicitation. Bidders should make the request to the  Contracting Authority within 15 working days of receipt of notification that  their bid was unsuccessful. The debriefing may be provided in writing, by  telephone or in person.</p>
 <p>*****************</p>
-<h5>2T-<abbr title="Request for Standing Offers">RFSO</abbr>1 Request for Standing Offers Template</h5>
+<h6>2T-<abbr title="Request for Standing Offers">RFSO</abbr>1 Request for Standing Offers Template</h6>
 <p>Modify the 2T-<abbr title="Request for Standing Offers">RFSO</abbr>1 template as follows: </p>
 <p>1. Amend the  Table of Contents to add a new article as follows: </p>
 <h6>Part 1 - General  Information</h6>
@@ -332,7 +332,7 @@ Contracting Authority</p>
 <h6>5. Debriefings</h6>
 <p>After issuance of a standing offer, offerors may request a  debriefing on the results of the request for standing offers. Offerors should make the request to the  Standing Offer Authority within 15 working days of receipt of notification that  their offer was unsuccessful. The debriefing may be provided in writing, by  telephone or in person.</p>
 <p>*****************</p>
-<h5>2T-<abbr title="Request for Supply Arrangements">RFSA</abbr>1 Request for Supply Arrangements  Template</h5>
+<h6>2T-<abbr title="Request for Supply Arrangements">RFSA</abbr>1 Request for Supply Arrangements  Template</h6>
 <p>Modify the 2T-<abbr title="Request for Supply Arrangements">RFSA</abbr>1 template as follows: </p>
 <p>1. Amend the  Table of Contents to add a new article as follows: </p>
 <h6>Part 1 - General  Information</h6>

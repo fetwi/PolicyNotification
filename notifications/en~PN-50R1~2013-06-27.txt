@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-50R1</h2>
+<h3 class="pn-content-title">Content of PN-50R1</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of Policy Notification 50R1 (PN-50R1) is to reflect changes to the Federal Contractors Program (FCP) for employment equity.</p>
-<h3>Effective date</h3>
+<h4>Effective date</h4>
 <p>Effective immediately, contracting officers are instructed to modify their solicitation documents to reflect the changes to the Standard Procurement Templates and follow the new instructions in the <cite>Supply Manual</cite>.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>The <a href="http://www.labour.gc.ca/eng/standards_equity/eq/emp/fcp/index.shtml " rel="external">Federal Contractors Program </a>is administered by Human Resources and Skills Development (HRSDC)-Labour and it is intended to address employment disadvantages for four designated groups: women, Aboriginal peoples, persons with disabilities and members of visible minorities. Its goal is to achieve equality so that no person is denied employment opportunities for reasons unrelated to ability.</p>
 <p>The <abbr title="Federal Contractors Program">FCP</abbr> was reviewed by <abbr title="Human Resources and Skills Development">HRSDC</abbr>-Labour and the threshold for its application was increased from $200K to $1M. The ineligibility sanctions now apply to the acquisition of goods and services regardless of the value. Bidders deemed ineligible will no longer be eligible to receive any contracts. The ineligibility list is now called the "<a href="http://www.labour.gc.ca/eng/standards_equity/eq/emp/fcp/list/inelig.shtml " rel="external"><abbr title="Federal Contractors Program">FCP</abbr> Limited Eligibility to Bid</a>" list.</p>
-<h3>Policy</h3>
+<h4>Policy</h4>
 <p>The <abbr title="Federal Contractors Program">FCP</abbr> applies to departments and agencies listed at Schedules I, I.1 and II of the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/f-11/" rel="external">Financial Administration Act (FAA)</a></cite> and who are covered by the Treasury Board <a href="http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=14494&amp;section=text" rel="external">Contracting Policy</a>.</p>
 <p>The <abbr title="Federal Contractors Program">FCP</abbr> applies to bidders/offerors with a combined workforce in Canada of 100 or more permanent full-time, permanent part-time and temporary employees who receive federal government contracts or standing offers with a call-up limitation for the acquisition of goods and services valued at $1,000,000 and above (including all applicable taxes and not including options).</p>
 <p>A bidder/offeror who is subject to the <abbr title="Federal Contractors Program">FCP</abbr>, must have an <a href="http://www.servicecanada.gc.ca/cgi-bin/search/eforms/index.cgi?app=prfl&amp;frm=lab1168&amp;ln=eng" rel="external">Agreement to Implement Employment Equity (AIEE)</a> in place with <abbr title="Human Resources and Skills Development">HRSDC</abbr>-Labour or must complete and sign an <abbr title="Agreement to Implement Employment Equity">AIEE</abbr> form and send to <abbr title="Human Resources and Skills Development">HRSDC</abbr>-Labour before contract award or issuance of a standing offer.</p>
@@ -17,9 +17,9 @@
 <p>A bidder/offeror will not be awarded a contract or issued a standing offer, regardless of the value of the procurement, if its name appears on the “<abbr title="Federal Contractors Program">FCP</abbr> Limited Eligibility to Bid” list.</p>
 <p>Once a contractor is awarded a contract or an offeror is issued a standing offer with a call up limitation of $1,000,000 or more (including all applicable taxes), he is required to honour the <abbr title="Agreement to Implement Employment Equity">AIEE</abbr> as an on-going obligation, and not simply during the period of the contract or standing offer. A new default provision has been added to the resulting contract clauses in the templates to address this contractual requirement.</p>
 <p>An ineligible bidder/offeror should not be awarded a contract or issued a standing offer unless it is required to do so by law or legal proceedings or when Canada considers it necessary to the public interest. In such cases, the contracting/standing offer authority is to obtain prior approval from its Director General or its Regional Director General.</p>
-<h3>Revisions to the <cite>Supply Manual</cite></h3>
+<h4>Revisions to the <cite>Supply Manual</cite></h4>
 <p>In support of this <abbr title="Policy Notification">PN</abbr>, the <cite>Supply Manual</cite> has been updated. To view the modified sections, please refer to "Affected Supply Manual Section(s)" below.</p>
-<h3>Revisions to the Standard Acquisition Clauses and Conditions (SACC) and to the Standard Procurement Templates</h3>
+<h4>Revisions to the Standard Acquisition Clauses and Conditions (SACC) and to the Standard Procurement Templates</h4>
 <p>Changes have been made to the obligations of both the Contractors and Contracting/Standing Offer Authorities in the application of the Federal Contractors Program (FCP) for employment equity. </p>
 <p>Therefore, the relevant <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Clauses and all five <a class="gov-auth-link" href="http://www.gcpedia.gc.ca/wiki/Procurement_community/Tools/Solicitation_and_contract_templates/PWGSC_Standard_Procurement_Templates" rel="external">standard procurement templates</a><span> (accessible only on the Government of Canada network)</span> (published on GCpedia) have been revised to reflect these changes:</p>
 <ul>
@@ -34,10 +34,10 @@
 <p>Contracting officers are to incorporate these changes into their procurement documents.</p>
 <p>Refer to the <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#TEMPLATES">Templates Synopsis</a> for a summary of the changes to the templates.</p>
 <p>To view the affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr>, please refer to "Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual Section(s)" below.</p>
-<h3>Contact Information</h3>
+<h4>Contact Information</h4>
 <p>Please direct any enquiries related to the changes to the standard procurement templates to the Procurement Process Tools Division by e-mail at <a href="mailto:outilsapprov.proctools@tpsgc-pwgsc.gc.ca" rel="external">outilsapprov.proctools@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions related to the Federal Contractor Program for employment equity can be forwarded to the Policy, Risk, Integrity and Strategic Management (PRISM) Sector by email at <a href="mailto:dppapublications.appdpublications@tpsgc-pwgsc.gc.ca" rel="external">dppapublications.appdpublications@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-53e203313cd2f770df32c412ce64ad73">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -59,7 +59,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
+<h5 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-ec5c25c1cadfb0bf7ab39b4e09a677e7">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

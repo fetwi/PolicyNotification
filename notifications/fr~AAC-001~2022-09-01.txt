@@ -1,27 +1,27 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AAC-001</h2>
-<h3>Objet</h3>
+<h3 class="pn-content-title">Contenu de l'AAC-001</h3>
+<h4>Objet</h4>
 <p>L’objet de l’avis relatif à AchatsCanada (AAC) - 001 a pour but d’informer les acheteurs de <abbr title="Services publics et Approvisionnement Canada">SPAC</abbr> de la mise à jour des Instructions uniformisées pour l’utilisation dans AchatsCanada (SAP Ariba).</p>
 <p>Les Instructions uniformisées (IU) 2003ACB mises à jour sont fournies aux acheteurs de <abbr title="Services publics et Approvisionnement Canada">SPAC</abbr> uniquement pour l’utilisation dans les approvisionnements au moyen du système d’AchatsCanada (SAP Ariba).</p>
 <p>Les Instructions uniformisées (IU) 2003ACB mises à jour remplacent intégralement toute version antérieure des <abbr title="Instructions uniformisées">IU</abbr> 2003ACB.</p>
-<h3>Date d’entrée en vigueur</h3>
+<h4>Date d’entrée en vigueur</h4>
 <p><abbr title="avis relatif à AchatsCanada">AAC</abbr> - 001 entre en vigueur immédiatement.</p>
 <p>Les Instructions uniformisées (IU) 2003ACB sont disponibles dans le Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr>.</p>
-<h3>Application</h3>
+<h4>Application</h4>
 <ul>
 <li>Les Instructions uniformisées (IU) 2003ACB sont destinées à l’usage exclusif d’AchatsCanada (SAP Ariba).</li>
 <li>Les soumissions doivent être présentées dans AchatsCanada (SAP Ariba).</li>
 <li>Les <abbr title="Instructions uniformisées">IU</abbr> 2003ACB ne doivent pas être utilisées dans les cas où les formulaires de soumission et de réception des offres autres que ceux soumis dans le système d’AchatsCanada (SAP Ariba).</li>
 </ul>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>En février 2022, les Instructions uniformisées (IU) 2003ACB (AchatsCanadaBuys) relativement aux besoins concurrentiels dans SAP Ariba ont été rendues accessibles hâtivement par l’intermédiaire du bureau de service d’AchatsCanada. Les acheteurs de <abbr title="Services publics et Approvisionnement Canada">SPAC</abbr> devaient communiquer avec le <a href="https://canadabuys.canada.ca/fr/soutien" rel="external">bureau de service d’AchatsCanada</a> pour demander l’accès aux <abbr title="Instructions uniformisées">IU</abbr> 2003ACB.</p>
 <p><abbr title="avis relatif à AchatsCanada">AAC</abbr> - 001 fournit maintenant aux acheteurs de <abbr title="Services publics et Approvisionnement Canada">SPAC</abbr> des <abbr title="Instructions uniformisées">IU</abbr> 2003ACB mises à jour pour les approvisionnements au moyen du système d’AchatsCanada (SAP Ariba).</p>
-<h3>Exigences et responsabilité </h3>
+<h4>Exigences et responsabilité </h4>
 <p>Les <abbr title="Instructions uniformisées">IU</abbr> 2003ACB mises à jour ont été publiées dans le Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr>.</p>
 <p>Il revient à l’acheteur de <abbr title="Services publics et Approvisionnement Canada">SPAC</abbr> de s’assurer que seules les <abbr title="Instructions uniformisées">IU</abbr> 2003ACB sont utilisées pour les approvisionnements au moyen du système d’AchatsCanada (SAP Ariba).</p>
-<h3>Orientation</h3>
+<h4>Orientation</h4>
 <p>FACTEURS À PRENDRE EN CONSIDÉRATION CONCERNANT L’ÉLABORATION D’UNE DEMANDE DE SOUMISSIONS AU MOYEN DU SYSTÈME D’ACHATSCANADA (SAP ARIBA)</p>
 <ol>
 <li><p>Les acheteurs doivent seulement ajouter un renvoi aux <abbr title="Instructions uniformisées">IU</abbr> 2003ACB pour les approvisionnements au moyen du système d’AchatsCanada (SAP Ariba).</p>
@@ -43,18 +43,18 @@
 </div>
 </li>
 </ol>
-<h3>Modifications au Guide des approvisionnements</h3>
+<h4>Modifications au Guide des approvisionnements</h4>
 <p>Il n’y a pas de modifications au Guide des approvisionnements.</p>
-<h3>Modifications apportées au Guide des clauses et conditions uniformisées d’achat (CCUA)</h3>
+<h4>Modifications apportées au Guide des clauses et conditions uniformisées d’achat (CCUA)</h4>
 <p>Le Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> a été révisé pour refléter le présent <abbr title="avis relatif à AchatsCanada">AAC</abbr>. Pour plus de détails, veuillez consulter les items du Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> visés ci-dessous.</p>
-<h3>Révisions apportées aux modèles uniformisés d’approvisionnement</h3>
+<h4>Révisions apportées aux modèles uniformisés d’approvisionnement</h4>
 <p>Aucune modification n’a été apportée aux modèles uniformisés d’approvisionnement.</p>
-<h3>Coordonnées</h3>
+<h4>Coordonnées</h4>
 <p>Pour obtenir de l’aide sur l’assemblage des documents d’invitation à soumissionner dans AchatsCanada (SAP Ariba), les acheteurs de <abbr title="Services publics et Approvisionnement Canada">SPAC</abbr> sont invités à communiquer avec le <a href="https://canadabuys.canada.ca/fr/soutien" rel="external">bureau de service d’AchatsCanada</a>.</p>
 <p>Les demandes de renseignements relatives à l’<abbr title="avis relatif à AchatsCanada">AAC</abbr> - 001 et à AchatsCanada (SAP Ariba) peuvent être envoyées par courriel au bureau de service d’AchatsCanada : <a href="https://canadabuys.canada.ca/fr/soutien/envoyez-nous-un-courriel" rel="external">Courriel | AchatsCanada</a>.</p>
 <p>Toute question relative au Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> peut être envoyée par courriel à l’adresse suivante : <a href="mailto:tpsgc.outilsdapprovisionnement-procurementtools.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.outilsdapprovisionnement-procurementtools.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
+<h5 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-f2fc9fcc17e3b881abe643261414860b">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">

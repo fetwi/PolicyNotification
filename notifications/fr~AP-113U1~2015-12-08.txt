@@ -1,19 +1,19 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-113U1</h2>
-<h3>Objet</h3>
+<h3 class="pn-content-title">Contenu de l'AP-113U1</h3>
+<h4>Objet</h4>
 <p>L’Avis relatif aux politiques 113U1 (AP-113U1) vise à apporter des précisions concernant les limites provisoires associées au pouvoir d’approbation pour la passation de marchés concurrentiels, et à fournir les limites provisoires s’appliquant à la conclusion et à la modification de marchés pour les services d’architecture et de génie à l’appui de l’initiative de réinstallation des réfugiés syriens.</p>
-<h3>Date d'entrée en vigueur</h3>
+<h4>Date d'entrée en vigueur</h4>
 <p>En vigueur immédiatement. Les limites provisoires resteront en place jusqu'au 31 mars 2016. </p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>L’AP-113 diffusé le 28 novembre 2015 visait à informer les agents de négociation des contrats de l’augmentation temporaire des limites de la passation de marché à l’appui de la réponse du Canada à l'appui de la réinstallation des réfugiés syriens, ainsi que des modifications apportées au processus d’approvisionnement. Comme indiqué dans l’AP-113, le Canada prévoit réinstaller dans un délai extrêmement court 25 000 réfugiés syriens déplacés. Des activités d’approvisionnement devront être mises en œuvre afin de fournir l’ensemble des biens, des services, des travaux de construction et des services d’architecture et de génie requis pour répondre aux besoins des réfugiés.
 </p>
-<h3>Politique</h3>
-<h4>Généralités</h4>
+<h4>Politique</h4>
+<h5>Généralités</h5>
 <p>L’augmentation provisoire des limites s’appliquant à la conclusion et à la modification des marchés ne concerne que les achats appuyant la réponse du Canada à l'appui de la réinstallation des réfugiés syriens; les limites existantes continueront à s’appliquer à tous les autres achats. Consulter les <a href="http://www.gcpedia.gc.ca/gcwiki/images/8/87/RRS_LimitesProvisoires_Tableaux_FR.pdf" rel="external">limites provisoires appuyant la réponse du Canada à l'appui de la réinstallation des réfugiés syriens</a>.
 </p>
-<h4>Coordonnées</h4>
+<h5>Coordonnées</h5>
 <p>Toute question au sujet de cet AP peut être envoyée par courriel à l’adresse suivante : <a href="mailto:TPSGC.DGAOPSyria-ABOpSyria.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.DGAOPSyria-ABOpSyria.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

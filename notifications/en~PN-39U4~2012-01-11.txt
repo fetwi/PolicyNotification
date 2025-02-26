@@ -1,10 +1,10 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-39U4</h2>
+<h3 class="pn-content-title">Content of PN-39U4</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>The purpose of Policy Notification (PN) 39U4 is to strengthen and clarify the implementation process in the Supply Manual (<abbr title="Supply Manual ">SM</abbr>) with respect to an Advance Contract Award Notice (<abbr title="Advance Contract Award Notice">ACAN</abbr>).</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>The Acquisitions Branch (AB) will be updating the current policy on <abbr title="Advance Contract Award Notice">ACAN</abbr> in the Supply Manual. This update is the result of an audit report by the Auditor General (AG) of Canada on <abbr title="Advance Contract Award Notice">ACAN</abbr>s. This audit report detailed that the <abbr title="Advance Contract Award Notice">ACAN</abbr> used in a directed procurement did not comply with the intent of the applicable regulations and policies. The AG provided the following comments in this regard:</p>
 <ol type="a">
 <li>Lack of justification on the procurement file justifying a non-competitive approach in accordance with the exceptions for soliciting bids in the <em>Government Contracts Regulations</em> (<abbr title="Government Contracts Regulations"><a href="http://laws-lois.justice.gc.ca/eng/regulations/SOR-87-402/index.html" rel="external">GCRs</a></abbr>).</li>
@@ -15,9 +15,9 @@
 <li>Potential lack of fairness when meeting with the pre-identified supplier during the <abbr title="Advance Contract Award Notice">ACAN</abbr> posting period.
     </li>
 </ol>
-<h3>Effective Date</h3>
+<h4>Effective Date</h4>
 <p>This <abbr title="Policy Notification ">PN</abbr> is effective immediately.</p>
-<h3>Revisions to the current policy</h3>
+<h4>Revisions to the current policy</h4>
 <p>The following significant changes will be made to the current policy in Chapter 3 of the Supply Manual relative to <abbr title="Advance Contract Award Notice">ACAN</abbr> terminology and procedures:</p>
 <ol type="a">
 <li>Clarification relative to file documentation procedures for <abbr title="Advance Contract Award Notice">ACAN</abbr>-related procurements; e.g. level of documentation to support the decision for an <abbr title="Advance Contract Award Notice">ACAN</abbr>.</li>
@@ -28,9 +28,9 @@
 </ol>
 <p>With respect to the audit comment in item (f) of Background above, contracting officers are reminded that care should be exercised to ensure that any negotiations with the pre-identified supplier during the <abbr title="Advance Contract Award Notice">ACAN</abbr> posting period do not put the pre-identified supplier at an advantage should a successful challenge take place before contract award. Furthermore, the pre-identified supplier must be cautioned not to commence any work or incur any costs before contract award. See <abbr title="Supply Manual">SM</abbr> <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-3#_3-15"> 3.15.5.1 (b)</a>.</p>
 <p><a href="#PN-39U4annexa">Annex A</a> contains the changes to the Supply Manual. The procedures in 3.10 to <a href="#PN-39U4a315520">3.15.5.20</a>, <a href="#PN-39U4annex33">Annex 3.3</a> have been revised.</p>
-<h3>Contact Person</h3>
+<h4>Contact Person</h4>
 <p>Please direct any enquiries to Arti Bhal, <abbr title="Acquisition Policy and Process Directorate">APPD</abbr> at 819-956-0464 or via email at <a href="mailto:arti.bhal@pwgsc-tpsgc.gc.ca" rel="external">arti.bhal@pwgsc-tpsgc.gc.ca</a>.</p>
-<h3 id="PN-39U4annexa">Annex A - Changes to the Supply Manual, Chapter 3 – Procurement Strategy, 3.10 Competitive Contracting Process</h3>
+<h4 id="PN-39U4annexa">Annex A - Changes to the Supply Manual, Chapter 3 – Procurement Strategy, 3.10 Competitive Contracting Process</h4>
 <p>(<time datetime="2012-01-22">2012-01-11</time>)</p>
 <ol type="a">
 <li>The <em>Government Contracts Regulations</em> (<abbr title="Government Contracts Regulations"><a href="http://laws-lois.justice.gc.ca/eng/regulations/SOR-87-402/index.html" rel="external">GCRs</a></abbr>) require the solicitation of bids before any contract is entered into, though the <abbr title="Government Contracts Regulations"><a href="http://laws-lois.justice.gc.ca/eng/regulations/SOR-87-402/index.html" rel="external">GCRs</a></abbr> do provide for exceptions to soliciting of bids.</li>
@@ -38,7 +38,7 @@
 <li>It is the contracting officer's responsibility to select the most effective process for notifying suppliers of an opportunity by taking into consideration the requirements of the trade agreements and the policies set out in the <em>Supply Manual</em>.</li>
 <li>For procedures relative to public advertisement and for publication of a Notice of Proposed Procurement and posting solicitation documents, see <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-4#_4-75">4.75.10</a> to <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-4#_4-75">4.75.25</a>. For procurements not publicly advertised, see <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-4#_4-75">4.75.45</a>. For more information on trade agreements, see <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-3#_3-50">3.50</a>.</li>
 </ol>
-<h4 id="PN-39U4a315">3.15 Non-competitive Contracting Process</h4>
+<h5 id="PN-39U4a315">3.15 Non-competitive Contracting Process</h5>
 <p>(<time datetime="2012-01-22">2012-01-11</time>)</p>
 <ol type="a">
 <li>In all instances where bids are not solicited, the legal authority to use an exception to soliciting bids must be fully justified by the client department with a reference to the applicable exception to competitive bidding which may apply under the <em>Government Contracts Regulations</em> (<a href="http://laws-lois.justice.gc.ca/eng/regulations/SOR-87-402/index.html" rel="external">GCRs</a>) of the <em><a href="http://laws.justice.gc.ca/eng/acts/F-11/" rel="external">Financial Administration Act</a></em>, and the limited tendering provisions of Canada's national and international trade agreements. Contracting officers are also reminded to take into account the procurement provisions under the Comprehensive Land Claims Agreements (<abbr title="Comprehensive Land Claims Agreement">CLCA</abbr>s).</li>
@@ -77,14 +77,14 @@
         <br/><strong><em>Note 2:</em></strong> <em>In general, the Supply Manual refers only to <abbr title="North American Free Trade Agreement">NAFTA</abbr> and the <abbr title="World Trade Organization – Agreement on Government Procurement">WTO–AGP</abbr>, as the procedural requirements of the other international trade agreements will be fulfilled following compliance to the procedural requirements of <abbr title="North American Free Trade Agreement">NAFTA</abbr> and the <abbr title="World Trade Organization – Agreement on Government Procurement">WTO–AGP</abbr>. See <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-1#_1-25">1.25.16</a>.</em>
 </li>
 </ol>
-<h4 id="PN-39U4a3151">3.15.1 Justification of Non-competitive Process</h4>
+<h5 id="PN-39U4a3151">3.15.1 Justification of Non-competitive Process</h5>
 <p>(<time datetime="2012-01-22">2012-01-11</time>)</p>
 <ol type="a">
 <li>While the client department must provide the rationale for any exception to soliciting bids, it is the responsibility of the contracting officers to make sure that the rationale can be adequately supported. Contracting officers are also reminded to take into account the procurement provisions under the Comprehensive Land Claims Agreements.</li>
 <li>If there is inadequate or no substantiation, the contracting officer should advise the client of alternative products or sources, if known, and attempt to reach agreement with the client on the most appropriate procurement strategy. When agreement cannot be reached by the contracting officer, the next level of management should be consulted.</li>
 <li>Use of any of the <abbr title="Government Contracts Regulations"><a href="http://laws-lois.justice.gc.ca/eng/regulations/SOR-87-402/index.html" rel="external">GCRs</a></abbr> exceptions must be fully justified by the contracting officer with appropriate documentation that sets out the procurement strategy as well as the rationale for the exception used, placed on the procurement file (see <a href="#PN-39U4a315">3.15</a> and <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-5">6.5.1</a>). The trade agreements also contain provisions to document on file the reasons for the use of limited tendering and the appropriate article must be provided as justification, where applicable. (See <a href="#PN-39U4a315d">3.15(d)</a> and <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-3#_3-25">3.25</a>(b)).</li>
 </ol>
-<h4 id="PN-39U4a3155">3.15.5 Advance Contract Award Notice</h4>
+<h5 id="PN-39U4a3155">3.15.5 Advance Contract Award Notice</h5>
 <p>(<time datetime="2012-01-22">2012-01-11</time>)</p>
 <ol type="a">
 <li>An Advance Contract Award Notice (<abbr title="Advance Contract Award Notice">ACAN</abbr>) is a public notice indicating to the supplier community that a department or agency intends to award a good, service or construction contract to a pre-identified supplier, believed to be the only one capable of performing the work, thereby allowing other suppliers to signal their interest in bidding by submitting a statement of capabilities. If no other supplier submits a statement of capabilities that meets the requirements set out in the <abbr title="Advance Contract Award Notice">ACAN</abbr>, the contracting officer may then proceed with awarding the contract to the pre-identified supplier. It is important to note that an <abbr title="Advance Contract Award Notice">ACAN</abbr> is not a "competitive" process. Also of note is that an <abbr title="Advance Contract Award Notice">ACAN</abbr> process, even if conducted in accordance with the Policy, does not constitute a "competitive" process for the purposes of the trade agreements and any Canadian International Trade Tribunal (CITT) challenge. For the purposes of contract approval authorities only, a contract awarded after posting an <abbr title="Advance Contract Award Notice">ACAN</abbr> for which no valid statement of capabilities is submitted within the notice period is a competitive (electronic) contract.</li>
@@ -111,13 +111,13 @@
 <li><abbr title="Advance Contract Award Notice">ACAN</abbr>s are not to be used to circumvent electronic bidding or other bidding procedures when it is clear that more than one supplier exists that can perform the work.</li>
 <li><abbr title="Advance Contract Award Notice">ACAN</abbr>s are not to be structured in ways that discourage submissions of statements of capabilities. For example, the <strong>notice should not say</strong>: "This is not a competitive solicitation", or "This is a non-competitive requirement".</li>
 </ol>
-<h4 id="PN-39U4a31551">3.15.5.1 <abbr title="Advance Contract Award Notice">ACAN</abbr> Time Limit</h4>
+<h5 id="PN-39U4a31551">3.15.5.1 <abbr title="Advance Contract Award Notice">ACAN</abbr> Time Limit</h5>
 <p>(<time datetime="2012-01-22">2012-01-11</time>)</p>
 <ol type="a">
 <li>Although <abbr title="Advance Contract Award Notice">ACAN</abbr>s are posted for a minimum of 15 calendar days on <abbr title="Government Electronic Tendering Service">GETS</abbr>, the contracting officer should consider a longer posting period based on the individual circumstances for each procurement. In determining the <abbr title="Advance Contract Award Notice">ACAN</abbr> time limit, contracting officers must consider the complexity associated with the procurement.</li>
 <li>Furthermore, while for reasons of timeliness and efficiency, contracting officers may enter into negotiations with the pre-identified supplier before the closing of the <abbr title="Advance Contract Award Notice">ACAN</abbr> posting period, care should be exercised to ensure that any such negotiations do not put the pre-identified supplier at an advantage should a successful challenge take place before contract award. In addition, the pre-identified supplier must be cautioned not to commence any work or incur any costs before contract award.</li>
 </ol>
-<h4 id="PN-39U4a31555">3.15.5.5 Procedures for Posting an <abbr title="Advance Contract Award Notice">ACAN</abbr></h4>
+<h5 id="PN-39U4a31555">3.15.5.5 Procedures for Posting an <abbr title="Advance Contract Award Notice">ACAN</abbr></h5>
 <p>(<time datetime="2012-01-22">2012-01-11</time>)</p>
 <ol type="a">
 <li>Contracting officers are responsible for preparing an <abbr title="Advance Contract Award Notice">ACAN</abbr> for publication on <abbr title="Government Electronic Tendering Service">GETS</abbr>.</li>
@@ -147,7 +147,7 @@
 </li>
 <li>When significant information not specifically set out in the <abbr title="Advance Contract Award Notice">ACAN</abbr> becomes available or a significant clarification is required, it must be provided equally to all interested parties to ensure fairness, openness and transparency. Such information should be provided in an amended <abbr title="Advance Contract Award Notice">ACAN</abbr> with an extension to the closing date or a new <abbr title="Advance Contract Award Notice">ACAN</abbr> should be issued, as applicable.</li>
 </ol>
-<h4 id="PN-39U4a315510">3.15.5.10 Statement of Capabilities (Challenge Process)</h4>
+<h5 id="PN-39U4a315510">3.15.5.10 Statement of Capabilities (Challenge Process)</h5>
 <p>(<time datetime="2012-01-22">2012-01-11</time>)</p>
 <ol type="a">
 <li>The <abbr title="Advance Contract Award Notice">ACAN</abbr> process provides suppliers with an opportunity to submit a statement of capabilities regarding work identified in an <abbr title="Advance Contract Award Notice">ACAN</abbr>.</li>
@@ -175,7 +175,7 @@
 <li>If the requirement subject to an <abbr title="Advance Contract Award Notice">ACAN</abbr> is cancelled, suppliers that submitted statements of capabilities should be notified in a timely manner.</li>
 <li>Contracting officers may request additional information from suppliers or third parties, as appropriate, to ensure that the interested supplier has the capability to meet the requirements set out in the <abbr title="Advance Contract Award Notice">ACAN</abbr>.</li>
 </ol>
-<h4 id="PN-39U4a315515">3.15.5.15 <abbr title="Advance Contract Award Notice">ACAN</abbr> Exceptions</h4>
+<h5 id="PN-39U4a315515">3.15.5.15 <abbr title="Advance Contract Award Notice">ACAN</abbr> Exceptions</h5>
 <p>(<time datetime="2012-01-22">2012-01-11</time>)</p>
 <ol type="a">
 <li>Contracting officers must ensure that Canada is in a position to accept a statement of capabilities before publishing an <abbr title="Advance Contract Award Notice">ACAN</abbr>. In circumstances where there is no possibility of another supplier submitting a statement of capabilities or where Canada cannot, for program or policy reasons, accept a statement of capabilities from another supplier, then the contract should be awarded on a non-competitive basis with transparency achieved through a contract award notice. Examples of situations where an <abbr title="Advance Contract Award Notice">ACAN</abbr> is not to be published include:
@@ -195,7 +195,7 @@
 </li>
 <li>In such cases, the rationale underlying the decision not to publish an <abbr title="Advance Contract Award Notice">ACAN</abbr> should be well documented on the procurement file.</li>
 </ol>
-<h4 id="PN-39U4a315520">3.15.5.20 Documenting the Procurement File</h4>
+<h5 id="PN-39U4a315520">3.15.5.20 Documenting the Procurement File</h5>
 <p>(<time datetime="2012-01-22">2012-01-11</time>)</p>
 <p>When the decision is made to proceed with an <abbr title="Advance Contract Award Notice">ACAN</abbr>, contracting officers are required to document the procurement file with the actions taken in each phase of the <abbr title="Advance Contract Award Notice">ACAN</abbr> process. Procurement files must include documentation of the following justifications, reasons and associated steps, as a minimum:</p>
 <ol type="a">
@@ -209,7 +209,7 @@
 <li>Evidence that all suppliers that submitted a statement of capabilities were notified and were given the reasons why their statement of capabilities was rejected, if requested (see <a href="#PN-39U4a315510">3.15.5.10</a>).</li>
 <li>Details of any resulting competitive process, if conducted.</li>
 </ol>
-<h3 id="PN-39U4annex33">Annex 3.3: Model Content of an Advance Contract Award Notice</h3>
+<h4 id="PN-39U4annex33">Annex 3.3: Model Content of an Advance Contract Award Notice</h4>
 <p>(<time datetime="2012-01-22">2012-01-11</time>)</p>
 <div class="option2">
 <br/><em>An Advanced Contract Award Notice (<abbr title="Advance Contract Award Notice">ACAN</abbr>) must be prepared, in both official languages. Below is a model that must be used by contracting officers for the preparation of an <abbr title="Advance Contract Award Notice">ACAN</abbr>. The blocks include guidance for its use as well as examples for some of the items listed.</em>
@@ -375,7 +375,7 @@
 		E-mail:
 </li>
 </ol> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-1a0cae34e613752f33d729d1710e41bd">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

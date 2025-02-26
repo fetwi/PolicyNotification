@@ -1,11 +1,11 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-70</h2>
+<h3 class="pn-content-title">Content of PN-70</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>In Budget 2005 the government announced that as part of its action plan to realize procurement savings it will be mandatory for departments to use 'standing offers' negotiated by Public Works and Government Services Canada (PWGSC).</p>
 <p>'Standing offers' (the quotation marks were in the actual Budget document), for this purpose was a broad term that includes standing offers, supply arrangements and other procurement instruments put in place by PWGSC. However, for the purposes of this Policy Notification, the terms 'standing offers', and 'supply arrangements' are explicit.</p>
-<h3>Policy</h3>
+<h4>Policy</h4>
 <p>Effective April 1, 2005, the use of standing offers and supply arrangements within ten commodity groups listed below becomes mandatory across the government. Treasury Board confirmation of this is anticipated soon.</p>
 <p>In coming months, more standing offers and supply arrangements may be added within these commodities, and more commodities will be added. Also, again based on commodity reviews, the mandatory concept may be extended to include government-wide contracts.</p>
 <p>On receipt of a requisition for any goods or services within these identified commodity groups, <acronym title="Public Works and Government Services Canada">PWGSC</acronym> contracting officers must determine if an existing standing offer or supply arrangement can meet the requirement. If so, that standing offer or supply arrangement must be utilized. There are only a few exceptions (listed below) whereby a contracting officer may use another method of supply.</p>
@@ -23,20 +23,20 @@
 <li>D Information Processing and Related Telecom Services/Traitement de l'information et services de télécommunications connexes</li>
 <li>R Professional, Administrative and Management Support Services/Services professionnels, administratifs, et de soutien à la gestion</li>
 </ul>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>The Way Forward is a wide-ranging strategy led by Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>) to find innovative ways to deliver services smarter, faster and at a reduced cost, and to improve how the Government of Canada does business.</p>
 <p><acronym title="Public Works and Government Services Canada">PWGSC</acronym> provides services that are common to all federal government departments and agencies to help them focus on their own vital roles of serving Canadians — services that include real estate management, goods and services purchasing, IT, as well as translation and consulting and audit.</p>
 <p>The Way Forward is part of <acronym title="Public Works and Government Services Canada">PWGSC</acronym>'s ongoing commitment to help modernize government and provide the best service to Canadians. It is also part of the government's agenda to improve management and accountability, save money and reallocate the savings to higher priorities such as health care, early childhood development, a new deal for communities and the environment. </p>
 <p>Achieving significant savings through improved procurement processes is a core element of The Way Forward, and making the use of standing offers and supply arrangements mandatory is the first step down that road.</p>
 <p>Standing offers and supply arrangements have always been recognized as a fast way to obtain goods and services, with low costs to government of handling the transaction. In many cases they also offer significant price savings, compared to going to the open market.</p>
 <p>The first stage of the 'Way Forward Initiative' will start to produce savings for the Government of Canada through the mandatory use of <acronym title="Public Works and Government Services Canada">PWGSC</acronym> standing offers and supply arrangements. In subsequent stages we will work to improve our approach to standing offers, supply arrangements and other procurement approaches such that we provide more savings and better service to all Government of Canada users.</p>
-<h3>Procedures</h3>
-<h4>(a) Departments</h4>
+<h4>Procedures</h4>
+<h5>(a) Departments</h5>
 <p>Departments and agencies continue to be able to acquire goods and services as they have in the past. However, as of April 1, they must first verify whether a mandatory standing offer or supply arrangement exists that meets their requirements. If it does, they must use it.</p>
 <p>When the Government of Canada Marketplace (GoCM) becomes operational, and a department with a requirement has access to the GoCM, use of the GoCM becomes mandatory as soon as the required good or service is available through it.</p>
 <p>If no such standing offer, supply arrangement or GoCM access exists, departments will acquire the goods or services using their existing procedures.</p>
 <p>If such a standing offer or supply arrangement does exist or the GoCM is available, but a department does not wish to use it, it must submit a requisition to <acronym title="Public Works and Government Services Canada">PWGSC</acronym> or follow a new Exception Process described below.</p>
-<h4>(b) <acronym title="Public Works and Government Services Canada">PWGSC</acronym></h4>
+<h5>(b) <acronym title="Public Works and Government Services Canada">PWGSC</acronym></h5>
 <ol>
 <li>On receipt of a requisition for a good or service within one of the mandatory commodity groups, the contracting officer will determine if a standing offer or supply arrangement exists that meets the requirement.</li>
 <li>If the requirement cannot be met using one of those standing offers or supply arrangements, or if no standing offer or supply arrangement exists, the contracting officer will proceed with another appropriate method of supply.</li>
@@ -44,7 +44,7 @@
 <li>Should the client indicate to <acronym title="Public Works and Government Services Canada">PWGSC</acronym> that they have a valid reason to not use a mandatory standing offer or supply arrangement, the exception process must be initiated.</li>
 </ol>
 <p><em>Note: 'not wanting to' is not an acceptable reason for not using a mandatory standing offer or supply arrangement: this would defeat the long-term benefits and savings of the <acronym title="Public Works and Government Services Canada">PWGSC</acronym> government-wide approach.</em></p>
-<h3>Exceptions</h3>
+<h4>Exceptions</h4>
 <p>'Mandatory Standing Offers' must be used - by departments acting on their own behalf, or by <acronym title="Public Works and Government Services Canada">PWGSC</acronym> handling a requisition - unless one of the following applies.</p>
 <ol>
 <li>A lower price is available and confirmed (by the <acronym title="Public Works and Government Services Canada">PWGSC</acronym> contracting officer) for an equivalent product or service, by means other than the mandatory standing offer or supply arrangement, and the standing offer or supply arrangement in question has not been established as the 'exclusive Supplier for the GoC'.</li>
@@ -54,7 +54,7 @@
 <li>The requisitioning department or agency has its own standing offer or supply arrangement in place which better meets needs/price.</li>
 </ol>
 <p><em>Note, however, that departments are not to put their own standing offers or supply arrangements in place, so as to avoid having to use <acronym title="Public Works and Government Services Canada">PWGSC</acronym> standing offers or supply arrangements: this would defeat the long-term benefits and savings of the <acronym title="Public Works and Government Services Canada">PWGSC</acronym> government-wide approach.</em></p>
-<h3>Exception Process</h3>
+<h4>Exception Process</h4>
 <ol>
 <li>The <acronym title="Public Works and Government Services Canada">PWGSC</acronym> contracting officer makes the decision as to whether an exception to the use of a mandatory standing offer or supply arrangement will be used.</li>
 <li>If a department is handling its own procurement, and requires an exception to a mandatory standing offer or supply arrangement, it must contact the contracting officer responsible for the appropriate standing offer or supply arrangement (the one that the department does not want to use), and seek an exception.</li>

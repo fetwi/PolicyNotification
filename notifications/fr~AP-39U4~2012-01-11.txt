@@ -1,10 +1,10 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-39U4</h2>
-<h3>Introduction</h3>
+<h3 class="pn-content-title">Contenu de l'AP-39U4</h3>
+<h4>Introduction</h4>
 <p>L'avis relatif aux politiques (AP) 39U4 vise à clarifier et  renforcer l'approche pour la mise en œuvre du processus lié  à un préavis d'adjudication de contrats (PAC) dans le Guide des approvisionnements. </p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>La Direction générale des approvisionnements (DGA) mettra à jour la politique actuelle relative au <abbr title="Préavis d'adjudication de contrats">PAC</abbr> dans le Guide des approvisionnements. Cette  mise à jour est le résultat d'un rapport de vérification de la vérificatrice  générale (VG) du Canada sur les <abbr title="Préavis d'adjudication de contrats">PAC</abbr>. Ce rapport de vérification  décrivait que le <abbr title="Préavis d'adjudication de contrats">PAC</abbr> utilisé pour le marché prescrit ne respectait pas l'esprit  de la réglementation et des politiques applicables. La <abbr title="vérificatrice  générale">VG</abbr> a formulé les  commentaires suivants à cet égard :</p>
 <ol type="a">
 <li>Le dossier  d'approvisionnement ne contenait aucune raison justifiant le recours à une  approche non–concurrentielle conformément aux exceptions pour la sollicitation  de soumissions figurant dans le <em>Règlement sur  les marchés de l'État</em> (<a href="http://laws-lois.justice.gc.ca/fra/reglements/DORS-87-402/index.html" rel="external">RME</a>).</li>
@@ -14,9 +14,9 @@
 <li>Mauvaise interprétation des politiques en raison de différences entre les diverses politiques, p. ex. les marchés concurrentiels et les marchés non concurrentiels.</li>
 <li>Manque possible d'équité lors de la rencontre avec le fournisseur sélectionné à l'avance pendant la période d'affichage du <abbr title="Préavis d'adjudication de contrats">PAC</abbr>.</li>
 </ol>
-<h3>Date d'entrée en vigueur</h3>
+<h4>Date d'entrée en vigueur</h4>
 <p>Le présent <abbr title="Avis relatifs aux politiques">AP</abbr> entre en vigueur immédiatement.</p>
-<h3>Changements apportés à la politique actuelle</h3>
+<h4>Changements apportés à la politique actuelle</h4>
 <p>Les changements importants suivants seront apportés à la politique actuelle relative à la terminologie et aux procédures liées au <abbr title="Préavis d'adjudication de contrats">PAC</abbr> dans le chapitre 3 du Guide des approvisionnements :</p>
 <ol type="a">
 <li>Clarification des procédures de documentation des dossiers pour les achats liés à un <abbr title="Préavis d'adjudication de contrats">PAC</abbr>, p. ex., le niveau de documentation à l'appui de la décision de recourir à un <abbr title="Préavis d'adjudication de contrats">PAC</abbr>.</li>
@@ -27,9 +27,9 @@
 </ol>
 <p>En ce qui a trait au commentaire f ) de la section  « Contexte » ci–dessous, on rappelle aux agents de négociation des  contrats qu'ils doivent s'assurer que toute négociation avec le fournisseur  sélectionné à l'avance pendant la période d'affichage du <abbr title="Préavis d'adjudication de contrats">PAC</abbr> ne lui confère pas  avantage indu au cas où une contestation valide serait reçue avant  l'attribution du contrat. En outre, le fournisseur sélectionné à l'avance doit  être informé qu'il ne doit pas commencer les travaux ou engager de coûts avant  l'attribution du contrat. Voir l'article <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-3#_3-15">3.15.5.1  b)</a> du Guide des approvisionnements.</p>
 <p>L'<a href="#AP-39U4annexa">Annexe A</a> contient les changements apportés au Guide des approvisionnements. Les procédures figurant aux articles  3.10 à <a href="#AP-39U4a315520">3.15.5.20</a> de l'<a href="#AP-39U4annex33">Annexe 3.3</a> ont été modifiées. </p>
-<h3>Personne–ressource</h3>
+<h4>Personne–ressource</h4>
 <p>Pour toute demande de renseignements, veuillez communiquer avec Arti Bhal, <abbr title="Direction de la politique et du processus d'approvisionnement">DPPA</abbr>, par téléphone au 819–956–0464 ou par courriel à l'adresse suivante : <a href="mailto:arti.bhal@pwgsc-tpsgc.gc.ca" rel="external">arti.bhal@pwgsc-tpsgc.gc.ca</a>.</p>
-<h3 id="AP-39U4annexa">Annexe A - Modifications au Guide des approvisionnements: Chapitre 3 – Stratégie d'approvisionnement,3.10	Processus de passation de contrats concurrentiels</h3>
+<h4 id="AP-39U4annexa">Annexe A - Modifications au Guide des approvisionnements: Chapitre 3 – Stratégie d'approvisionnement,3.10	Processus de passation de contrats concurrentiels</h4>
 <p>(<time datetime="2012-01-22">2012–01–11</time>)</p>
 <ol type="a">
 <li>Le <em>Règlement sur  les marchés de l'État</em> (<a href="http://laws-lois.justice.gc.ca/fra/reglements/DORS-87-402/index.html" rel="external"><abbr title="Règlement sur les marchés de l’État">RME</abbr></a>)  exige que l'on sollicite des soumissions  concurrentielles avant de conclure tout contrat, bien que le <a href="http://laws-lois.justice.gc.ca/fra/reglements/DORS-87-402/index.html" rel="external"><abbr title="Règlement sur les marchés de l’État">RME</abbr></a> prévoie  des exceptions à cette règle.</li>
@@ -37,7 +37,7 @@
 <li>Il incombe à l'agent de négociation des contrats de choisir le moyen le plus efficace d'aviser les fournisseurs des occasions de marchés, tout en tenant compte des exigences des accords commerciaux et des politiques énoncées dans le Guide des approvisionnements.</li>
 <li>Pour  les procédures relatives à l'annonce publique et celles qui concernent la  publication d'un avis de projet de marché, de même que pour l'affichage des  documents de demandes de soumissions, voir les articles <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-4#_4-75">4.75.10</a> à <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-4#_4-75">4.75.25</a>. Pour les marchés   qui ne sont pas annoncés publiquement, voir l'article <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-4#_4-75">4.75.45</a>. Pour des  renseignements supplémentaires sur les accords commerciaux, voir l'article <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-3#_3-50">3.50</a>.</li>
 </ol>
-<h4 id="AP-39U4a315">3.15 Processus de passation de contrats non concurrentiels</h4>
+<h5 id="AP-39U4a315">3.15 Processus de passation de contrats non concurrentiels</h5>
 <p>(<time datetime="2012-01-22">2012–01–11</time>)</p>
 <ol type="a">
 <li>Dans tous les cas où aucune  soumission n'est sollicitée, l'autorisation légale de recourir  à une exception à la sollicitation de soumissions doit être entièrement  justifiée par le ministère client, avec renvoi à l'exception applicable aux  soumissions concurrentielles qui peut s'appliquer en vertu du <em>Règlement sur  les marchés de l'État</em> (<a href="http://laws-lois.justice.gc.ca/fra/reglements/DORS-87-402/index.html" rel="external"><abbr title="Règlement sur les marchés de l’État">RME</abbr></a>) de la <em><a href="http://laws.justice.gc.ca/fra/lois/F-11/" rel="external">Loi sur la gestion des finances  publiques,</a></em> et des  dispositions des accords commerciaux du Canada et des accords commerciaux  internationaux limitant les appels d'offres. On rappelle également aux agents  de négociation des contrats qu'ils doivent tenir compte des dispositions  relatives à l'approvisionnement en vertu des  ententes sur les revendications territoriales globales (ERTG).</li>
@@ -69,14 +69,14 @@
 	    <br/><em><strong>Nota 2 :</strong> En règle générale, le Guide des approvisionnements renvoie  uniquement à l'Accord de libre–échange nord–américain (ALENA) et à l'Accord sur  les marchés publics de l'Organisation mondiale du commerce (AMP–OMC), puisque  le respect des exigences de procédure de ces accords entraîne automatiquement  le respect des exigences des autres accords de libre–échange internationaux. Voir l'article <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-1#_1-25">1.25.16</a>.</em>
 </li>
 </ol>
-<h4 id="AP-39U4a3151">3.15.1 Justification du processus non concurrentiel</h4>
+<h5 id="AP-39U4a3151">3.15.1 Justification du processus non concurrentiel</h5>
 <p>(<time datetime="2012-01-22">2012–01–11</time>)</p>
 <ol type="a">
 <li>Bien que  le ministère client doive justifier toutes les exceptions à la sollicitation de  soumissions, il incombe à l'agent de négociation des contrats de s'assurer que  la justification peut être adéquatement appuyée. On rappelle également aux  agents de négociation des contrats de tenir compte des dispositions en matière  d'approvisionnement contenues dans les ententes sur les revendications  territoriales globales.</li>
 <li>Si  le client fournit des motifs qui ne sont pas acceptables, ou s'il n'en fournit  aucun, l'agent de négociation des contrats doit l'aviser des autres produits ou  fournisseurs qui peuvent satisfaire à la demande, le cas échéant, et essayer  d'arriver à une entente avec le client sur la stratégie d'approvisionnement la  plus appropriée. Lorsque l'agent de négociation des contrats ne peut conclure  une entente, le gestionnaire hiérarchique suivant devrait être consulté.</li>
 <li>L'agent de négociation des contrats doit justifier entièrement le  recours à toute exception prévue dans le <a href="http://laws-lois.justice.gc.ca/fra/reglements/DORS-87-402/index.html" rel="external"><abbr title="Règlement sur les marchés de l’État">RME</abbr></a>, en versant au dossier d'achat les  documents appropriés qui établissent la stratégie d'approvisionnement ainsi que  la justification pour l'exception utilisée (voir les articles <a href="#AP-39U4a315">3.15</a> et <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-6#_6-5">6.5.1</a>).  Les accords commerciaux contiennent également des dispositions qui visent à  documenter au dossier les raisons justifiant le recours à un appel d'offres limité et l'article  approprié doit être fourni à titre de justification, le cas échéant. (Voir les  articles <a href="#AP-39U4a315d">3.15d)</a> et <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-3#_3-25">3.25b)</a>)</li>
 </ol>
-<h4 id="AP-39U4a3155">3.15.5 Préavis d'adjudication de contrats</h4>
+<h5 id="AP-39U4a3155">3.15.5 Préavis d'adjudication de contrats</h5>
 <p>(<time datetime="2012-01-22">2012–01–11</time>)</p>
 <ol type="a">
 <li>Le préavis d'adjudication de contrats (<abbr title="Préavis d'adjudication de contrats">PAC</abbr>) est un avis public destiné aux fournisseurs pour leur faire part de l'intention d'un ministère ou d'un organisme d'attribuer à un fournisseur sélectionné à l'avance, jugé comme étant le seul fournisseur en mesure d'exécuter les travaux, un contrat pour un bien, un service ou des travaux de construction, ce qui permet aux autres fournisseurs de signaler leur intérêt à soumissionner en présentant un énoncé des capacités. Si aucun autre fournisseur ne présente d'énoncé des capacités qui satisfait aux exigences établies dans le <abbr title="Préavis d'adjudication de contrats">PAC</abbr>, l'agent de négociation des contrats peut alors procéder à l'attribution du contrat au fournisseur sélectionné à l'avance. Il est important de noter que l'émission d'un <abbr title="Préavis d'adjudication de contrats">PAC</abbr> ne constitue pas un processus concurrentiel. Il convient également de noter qu'un processus relatif au <abbr title="Préavis d'adjudication de contrats">PAC</abbr>, même s'il est fait conformément à la Politique, ne constitue pas un processus concurrentiel aux fins des accords commerciaux ou en cas de plainte devant le Tribunal canadien du commerce extérieur (TCCE). Un contrat attribué après l'affichage d'un <abbr title="Préavis d'adjudication de contrats">PAC</abbr> pour lequel aucun énoncé valide des capacités n'est soumis pendant la période d'avis constitue un contrat (électronique) concurrentiel uniquement en ce qui concerne les pouvoirs d'approbation des contrats.</li>
@@ -101,13 +101,13 @@
 <li>Les <abbr title="Préavis d'adjudication de contrats">PAC</abbr> ne doivent pas être utilisés pour se soustraire aux invitations à soumissionner électroniques ou traditionnelles lorsqu'il est clairement établi que plus d'un fournisseur est en mesure d'exécuter les travaux.</li>
 <li>Les <abbr title="Préavis d'adjudication de contrats">PAC</abbr> ne doivent pas être rédigés de manière à décourager la présentation d'énoncés des capacités. Par exemple, l'avis ne devrait pas indiquer : « Il ne s'agit pas d'une demande de soumissions concurrentielle » ou « Il s'agit d'un achat de type fournisseur unique ».</li>
 </ol>
-<h4 id="AP-39U4a31551">3.15.5.1	Délais prescrits pour les <abbr title="Préavis d'adjudication de contrats">PAC</abbr></h4>
+<h5 id="AP-39U4a31551">3.15.5.1	Délais prescrits pour les <abbr title="Préavis d'adjudication de contrats">PAC</abbr></h5>
 <p>(<time datetime="2012-01-22">2012–01–11</time>)</p>
 <ol type="a">
 <li>Bien que les <abbr title="Préavis d'adjudication de contrats">PAC</abbr> soient affichés pour une période minimale de 15 jours civils sur le <abbr title="Service électronique d'appels d'offres du gouvernement ">SEAOG</abbr>, l'agent de négociation des contrats devrait envisager une période d'affichage plus longue en fonction des circonstances individuelles de chaque achat. Lorsqu'il s'agit de déterminer les délais prescrits pour un <abbr title="Préavis d'adjudication de contrats">PAC</abbr>, les agents de négociation des contrats doivent tenir compte de la complexité associée à l'achat.</li>
 <li>De plus, si par souci d'efficience et de rapidité, les agents de négociation des contrats peuvent entamer des négociations avec les fournisseurs sélectionnés à l'avance avant la date de clôture de la période d'affichage des <abbr title="Préavis d'adjudication de contrats">PAC</abbr>, il faut toutefois éviter que ces négociations ne confèrent un avantage indu au fournisseur sélectionné à l'avance au cas où une contestation valide serait reçue avant l'attribution du contrat. Par ailleurs, il faut indiquer au fournisseur sélectionné à l'avance qu'il ne doit pas entreprendre les travaux ni engager des coûts avant l'attribution du contrat.</li>
 </ol>
-<h4 id="AP-39U4a31555">3.15.5.5	Procédures d'affichage d'un <abbr title="Préavis d'adjudication de contrats">PAC</abbr></h4>
+<h5 id="AP-39U4a31555">3.15.5.5	Procédures d'affichage d'un <abbr title="Préavis d'adjudication de contrats">PAC</abbr></h5>
 <p>(<time datetime="2012-01-22">2012–01–11</time>)</p>
 <ol type="a">
 <li>Il incombe aux agents de négociation des contrats de préparer les <abbr title="Préavis d'adjudication de contrats">PAC</abbr> pour affichage sur le <abbr title="Service électronique d'appels d'offres du gouvernement ">SEAOG</abbr>.</li>
@@ -135,7 +135,7 @@
 </li>
 <li>Lorsque des renseignements importants non expressément précisés dans le <abbr title="Préavis d'adjudication de contrats">PAC</abbr> deviennent disponibles ou que des précisions importantes sont requises, ils doivent être transmis simultanément à tous les fournisseurs intéressés afin de garantir l'équité, l'ouverture et la transparence. Ces renseignements doivent être fournis dans un <abbr title="Préavis d'adjudication de contrats">PAC</abbr> modifié, avec report de la date de clôture, ou un nouveau <abbr title="Préavis d'adjudication de contrats">PAC</abbr> devrait être publié, au besoin.</li>
 </ol>
-<h4 id="AP-39U4a315510">3.15.5.10 Énoncé des capacités (processus de contestation)</h4>
+<h5 id="AP-39U4a315510">3.15.5.10 Énoncé des capacités (processus de contestation)</h5>
 <p>(<time datetime="2012-01-22">2012–01–11</time>)</p>
 <ol type="a">
 <li>Le processus relatif aux <abbr title="Préavis d'adjudication de contrats">PAC</abbr> offre aux fournisseurs la possibilité de présenter un énoncé des capacités portant sur les travaux précisés dans un <abbr title="Préavis d'adjudication de contrats">PAC</abbr>.</li>
@@ -161,7 +161,7 @@
 <li>Si le besoin faisant l'objet d'un <abbr title="Préavis d'adjudication de contrats">PAC</abbr> est annulé, on devrait en informer en temps opportun les fournisseurs ayant déjà présenté un énoncé des capacités.</li>
 <li>Les agents de négociation de contrats peuvent demander des renseignements supplémentaires aux fournisseurs ou aux tiers intéressés, au besoin, afin de s'assurer que les fournisseurs sont en mesure de satisfaire aux exigences du <abbr title="Préavis d'adjudication de contrats">PAC</abbr>.</li>
 </ol>
-<h4 id="AP-39U4a315515">3.15.5.15 Exceptions aux <abbr title="Préavis d'adjudication de contrats">PAC</abbr></h4>
+<h5 id="AP-39U4a315515">3.15.5.15 Exceptions aux <abbr title="Préavis d'adjudication de contrats">PAC</abbr></h5>
 <p>(2012-01-11)</p>
 <ol type="a">
 <li>Les agents de négociation des contrats doivent s'assurer que le Canada est en position d'accepter un énoncé des capacités avant de publier un <abbr title="Préavis d'adjudication de contrats">PAC</abbr>. Lorsqu'il n'y a aucune possibilité qu'un autre fournisseur présente un énoncé des capacités ou que le Canada ne peut, pour des considérations liées aux programmes ou aux politiques, accepter un énoncé des capacités d'un autre fournisseur, le contrat devrait être attribué selon un processus non concurrentiel rendu transparent grâce à la publication d'un avis d'adjudication de contrat. Voici des exemples de situations où un <abbr title="Préavis d'adjudication de contrats">PAC</abbr> ne doit pas être publié :
@@ -180,7 +180,7 @@
 </li>
 <li>Dans ces cas, la justification sur laquelle repose la décision de ne pas publier un <abbr title="Préavis d'adjudication de contrats">PAC</abbr> devrait être bien documentée dans le dossier d'achat.</li>
 </ol>
-<h4 id="AP-39U4a315520">3.15.5.20 Documentation du dossier d'achat</h4>
+<h5 id="AP-39U4a315520">3.15.5.20 Documentation du dossier d'achat</h5>
 <p>(<time datetime="2012-01-22">2012–01–11</time>)</p>
 <p>Lorsque la décision est prise de recourir à un <abbr title="Préavis d'adjudication de contrats">PAC</abbr>, les agents de négociation des contrats doivent documenter dans le dossier d'achat les mesures prises au cours de chacune des étapes du processus relatif aux <abbr title="Préavis d'adjudication de contrats">PAC</abbr>. Les dossiers d'achat doivent comprendre la documentation des justifications, des raisons et des étapes connexes suivantes :</p>
 <ol type="a">
@@ -194,7 +194,7 @@
 <li>Les preuves que tous les fournisseurs ayant présenté un énoncé des capacités ont été informés de la décision et qu'on leur a justifié, s'ils le demandent, les raisons pour lesquelles leur énoncé a été rejeté  (voir l'article <a href="#AP-39U4a315510">3.15.5.10</a>).</li>
 <li>Les détails sur tout processus concurrentiel connexe, si effectué..</li>
 </ol>
-<h3 id="AP-39U4annex33">Annexe 3.3 : Contenu du modèle de préavis d'adjudication de contrat</h3>
+<h4 id="AP-39U4annex33">Annexe 3.3 : Contenu du modèle de préavis d'adjudication de contrat</h4>
 <p>(<time datetime="2012-01-22">2012–01–11</time>)</p>
 <p><em>Un préavis d'adjudication de contrat (<abbr title="Préavis d'adjudication de contrats">PAC</abbr>) doit être préparé, </em><em>dans les deux langues officielles. Le modèle de préparation d'un <abbr title="Préavis d'adjudication de contrats">PAC</abbr> ci–dessous doit être utilisé par les agents de négociation des contrats. Les  encadrés comprennent des conseils pour son utilisation ainsi que des exemples  de certains des points énoncés.</em></p>
 <ol type="1">
@@ -332,7 +332,7 @@
 	
 </li>
 </ol> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
+<h5 class="field-label">Sections du Guide des approvisionnements visées</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-9919b788e1baf6f6029497b8e910b344">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

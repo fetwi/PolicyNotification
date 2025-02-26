@@ -1,21 +1,21 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-32U2</h2>
+<h3 class="pn-content-title">Contenu de l'AP-32U2</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : 26 août 1999</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : 26 août 1999</h4>
 <p>Le présent avis relatif aux politiques fait référence au processus révisé d'acheminement et de traitement des formulaires de renseignements sur l'approvisionnement (FRA) à l'intention du ministre. Il est en vigueur dès maintenant et remplace le processus d'<em>acheminer actuel</em> pour les FRAs. Toutes autres directions dans les politiques AP-32, AP-32U et AP-32U1 restent les mêmes.</p>
-<h4>Questions</h4>
+<h5>Questions</h5>
 <p>Premièrement, le ministre a confirmé que son bureau a besoin de 48 heures (voir la note ci-dessous) pour examiner les FRA relatifs aux plans, aux attributions et aux modifications qui n'ont pas été approuvés au préalable. La politique actuelle ne précise pas très bien cette exigence, ce qui est souvent interprété comme étant le processus complet qui devait prendre 48 heures.</p>
 <p>Deuxièmement, on a signalé un manque d'uniformité et de précision dans les FRA soumis. Lorsqu'il y a erreur ou omission (p. ex., points où rien n'a été coché ou inscrit, explications vagues) le traitement du formulaire doit être mis en suspens, en attendant de récupérer les informations manquantes.</p>
 <p>Troisièmement, la présentation des FRA en temps opportun et dûment remplis est une condition de l'instrument de délégation du ministre et elle devrait être respectée.</p>
-<h4>Processus révisé relatif aux FRA :</h4>
+<h5>Processus révisé relatif aux FRA :</h5>
 <ul>
 <li><strong>Les gestionnaires doivent examiner les FRA afin de s'assurer que les renseignements fournis sont complets et clairs.</strong></li>
 <li><strong>Les gestionnaires doivent acheminer les FRA directement au compte FRA (<em>NCR-SPMS PIF</em>), par courriel, avec une copie conforme à leur DG. Le nom du gestionnaire et du DG <em>doivent</em> paraître dans l'adresse électronique. La Direction de la gestion des approvisionnements (anciennement la Direction du soutien opérationnel), qui assure l'entretien du compte FRA, transmettra le FRA au bureau du sous-ministre adjoint (BSMA).</strong></li>

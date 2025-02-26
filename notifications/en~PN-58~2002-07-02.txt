@@ -1,35 +1,35 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-58</h2>
+<h3 class="pn-content-title">Content of PN-58</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>The nature of the revisions to Chapter 11 of the Supply Manual are that they:</h3>
+<h4>The nature of the revisions to Chapter 11 of the Supply Manual are that they:</h4>
 <p>1. remove the unsupported implication that Contract Claims Resolution Board (CCRB) is empowered (as a third party) to settle disputes by mediation or arbitration;</p>
 <p>2. add the Contract Disputes Advisory Board (CDAB) process which was introduced as a result of the merger of Supply and Services Canada and Public Works; and,</p>
 <p>3. reflect the recent transfer of the termination for convenience activities from the Audit and Ethics Branch (AEB) to the Supply Operations Services Branch. </p>
-<h3>NOTES:</h3>
+<h4>NOTES:</h4>
 <p>1. The dispute resolution activities associated with extra cost claims of the Contract Settlement Board and the CDAB remain with AEB.</p>
 <p>2. The definition of CCRB which appears in the Glossary (Chapter 12) of the Supply Manual has also been revised.</p>
 <p>This Policy Notification is promulgated so that the Department does not have to address a situation where the Supply Manual will be inconsistent with the information that will be contained in the Risk Management and Quality Assurance Directorate (RMQAD) Website that will be promulgated on Internet in the next couple of weeks.</p>
 <p>Changes to the Supply Manual take effect immediately; the revisions will be incorporated into the next Supply Manual amendment, to be released 13 December 2002.</p>
 <p>Please direct inquiries to <strong>Bill Petersen</strong>, RMQAD, via e-mail at: <a href="mailto:bill.petersen@tpsgc-pwgsc.gc.ca" rel="external">bill.petersen@tpsgc-pwgsc.gc.ca</a>.</p>
-<h3>CHAPTER 11 - CONTRACT MANAGEMENT</h3>
-<h4>Disputes</h4>
+<h4>CHAPTER 11 - CONTRACT MANAGEMENT</h4>
+<h5>Disputes</h5>
 <p>11.115 to 11.117 <strong>No change</strong></p>
 <p>11.118 (<strong>xx/xx/xx</strong>) When any dispute associated with goods and services contracts cannot be resolved expeditiously through negotiation, the contractor should be advised, in writing, to submit a formal claim to Contracts Settlement Board (CSB) (see 11.201).</p>
 <p> When any dispute associated with architectural and engineering, construction, building and maintenance and leasing contracts cannot be resolved expeditiously through negotiation, the contractor/consultant may request the Minister, in writing, to authorize a Contract Disputes Advisory Board (CDAB) hearing (see 11.202).</p>
 <p>11.119 <strong>Deleted</strong></p>
 <p>11.120 to 11.130 <strong>No change </strong></p>
-<h4>Termination for Convenience of the Crown</h4>
+<h5>Termination for Convenience of the Crown</h5>
 <p>11.131 (<strong>xx/xx/xx</strong>) Occasionally the Crown may wish to terminate a contract for convenience. (See 11.146) This may be due to curtailment of funds, discontinuation of a government program, or other circumstances which make the acquisition of the product or service unnecessary. To protect the integrity of the bid solicitation system, the Crown may also terminate a contract for convenience if it is determined that it has been mistakenly awarded to other than the lowest responsive bidder. The General Conditions contain a section titled 'Termination for Convenience' which becomes applicable as soon as the 'Notice of Termination' is received by the contractor.</p>
 <p>11.132 to 11.140 <strong>No change</strong></p>
-<h4>Involvement of the Termination Claims Officer</h4>
+<h5>Involvement of the Termination Claims Officer</h5>
 <p>11.141 (<strong>xx/xx/xx</strong>) The Termination Claims Officer (TCO), SPMS must be involved immediately in the claim settlement process resulting from contracts that are partially or completely terminated for convenience. Accordingly, the contracting officer must contact the TCO as soon as the initial Notice of Termination (SACC Manual Clauses J0200C and J0205C) is issued, and is to provide the TCO with a copy of each initial and confirming Notice of Termination. The TCO's facsimile number is 819-956-6416.</p>
 <p>11.142 and 11.143 <strong>No change</strong></p>
-<h4>PWGSC Offices Outside Canada</h4>
+<h5>PWGSC Offices Outside Canada</h5>
 <p>11.144 (<strong>xx/xx/xx</strong>) Termination procedures for contracts awarded by <acronym title="Public Works and Government Services Canada">PWGSC</acronym> offices outside Canada may differ from those for contracts issued in Canada, and the termination procedures serve only as a general guide.</p>
 <p> <em>For example, if problems arise in such cases, the Director , <acronym title="Public Works and Government Services Canada">PWGSC</acronym> Washington, will obtain guidance from the </em>T<em>CO and, if necessary, obtain legal advice for the outside offices from Legal Services.</em></p>
 <p>11.145 <strong>No change</strong></p>
-<h4>Termination for Convenience</h4>
+<h5>Termination for Convenience</h5>
 <p>11.146 (<strong>xx/xx/xx</strong>) On 15 January 2002, SPMS was designated to provide termination settlement services associated with goods and services contracts that have been terminated for the convenience of the Crown. SPMS was also designated to handle claims arising from US/CCC contracts that are terminated for the convenience of the US Government. For terminations involving US/CCC contracts, the Director General, SPMS will ensure compliance with the certification and termination settlement functions that are required to conform with the DOD/DND Letter of Agreement (refer to US/DFAR's 249.7000 and 225.870-6). The Director General, SPMS will also be responsive to requests by the US Government for arranging for audits of US Government contracts or subcontracts placed directly with Canadian-based suppliers that are terminated for convenience. The contracting officer and the TCO are responsible for the following termination activities:</p>
 <table class="basic">
 <tbody><tr>
@@ -119,23 +119,23 @@
 </tr>
 </tbody></table>
 <p>11.147 and 11.148 <strong>No change</strong></p>
-<h4>Notice of Termination</h4>
+<h5>Notice of Termination</h5>
 <p>11.150 (<strong>xx/xx/xx</strong>) On receiving the client's initial written instructions to cancel all or part of a contract for the convenience of the Crown (see 11.131), the contracting officer must immediately issue an initial Notice of Termination for Convenience to advise the contractor to 'stop work' (see SACC Manual clause J0200C for a complete termination or clause J0205C for a partial termination). Following the issuance of the initial Notice of Termination for Convenience a confirming Notice of Termination must be issued (see SACC Manual Clauses J0001C or J0002C). The confirming Notice of Termination cannot be issued until the formal requisition amendment is received, and a legal opinion has been sought. The contracting officer must also contact and provide the Termination Claims Officer with a copy of the initial Notice of Termination.</p>
 <p><em>To expedite the termination action and minimize potential costs to the Crown the contracting officer is authorized to issue an initial Notice of Termination for Convenience prior to receipt of the formalized amendment to the requisition, and without seeking legal advice</em> (see 11.140).</p>
 <p>11.151 to 11.154 <strong>No change</strong></p>
-<h4>Confirming Notice of Termination</h4>
+<h5>Confirming Notice of Termination</h5>
 <p>11.155 <strong>No change</strong></p>
 <p>11.156 (<strong>xx/xx/xx</strong>) After the confirming Notice of Termination or Partial Termination is issued, the contracting officer will immediately send one copy of the notice to the TCO.</p>
 <p><em>In order to avoid further costs to the Crown and hardship to the contractor, a confirming</em> <em>Notice of Termination must be issued as promptly as possible to finalize the implications of an initial Notice of Termination.</em></p>
-<h4>Adjustment of Funds</h4>
+<h5>Adjustment of Funds</h5>
 <p>11.157 (<strong>xx/xx/xx</strong>) The funds in the contract should not be adjusted when the confirming Notice of Termination is issued. The contract funds are adjusted only after a settlement offer has been made to a contractor.</p>
 <p><em>The funding will be adjusted by the TCO at the time that the Settlement and Release document is prepared for the approval and signature of the Director General, SPMS.</em></p>
-<h4>Adjustment to the Price of the Non-Terminated Portion of the Contract</h4>
+<h5>Adjustment to the Price of the Non-Terminated Portion of the Contract</h5>
 <p>11.158 (<strong>xx/xx/xx</strong>) Whenever a contractor requests an upward adjustment to the cost or unit price of the non-terminated portion of a contract, the resulting claim for adjustment is to be referred to the TCO for review prior to reaching any agreement with the contractor concerning such upward cost or price adjustment.</p>
-<h4>Termination File</h4>
+<h5>Termination File</h5>
 <p>11.159 (<strong>xx/xx/xx</strong>) For non-complex, fully terminated contracts, the contracting officer is to transfer the complete procurement file to the TCO, if a claim is involved.</p>
 <p>For complex procurements or partial terminations where the non-terminated portion of the file is still active, the contracting officer will prepare a termination case file including copies of the contract, amendments, specifications, pricing details, documents, correspondence and any other information relevant to the termination, and send it to the TCO.</p>
-<h4>Informing the Contractor</h4>
+<h5>Informing the Contractor</h5>
 <p>11.160 (<strong>xx/xx/xx</strong>) If a claim is involved, the contracting officer is to forward two sets of <acronym title="Public Works and Government Services Canada">PWGSC</acronym> Prime Contractor termination claim forms and the 'Procedures Manual on Termination of Contracts,' to the contractor.</p>
 <p>These may be obtained from the TCO: each set of claim forms includes the following:</p>
 <table class="basic">
@@ -174,10 +174,10 @@
 </tbody></table>
 <p>11.161 <strong>No change</strong></p>
 <p>11.162 (<strong>xx/xx/xx</strong>) After the termination claim forms are forwarded, the contractor must be contacted by telephone to ensure that the forms have been received and that the necessary action is being taken on the contractor's part to submit a claim. If the contractor has any questions concerning the presentation of the claim, or the details of the termination settlement procedures, the contracting officer may advise the contractor to contact the TCO directly. When the contractor has completed the forms, the signed original and one copy are returned to the contracting officer. On receipt of the contractor's claim, one copy is to be forwarded promptly to the TCO, who shall then become responsible for the resolution of the claim.</p>
-<h4>Audit of Claims</h4>
+<h5>Audit of Claims</h5>
 <p>11.163 (<strong>xx/xx/xx</strong>) Upon receipt of a claim, the TCO will determine the need for an audit. If the TCO concludes that an audit is required, the TCO will prepare the terms of reference for the audit and arrange for its completion by Consulting and Audit Canada.</p>
 <p><em>When an audit is performed, the TCO reviews the cost factors reported by the auditor and reconciles the contractor's claim with the auditor's report and the Inventory Verification Report form SPMS-50). The cost implications of any inventory adjustments must be discussed with the auditor as well as with the contractor.</em></p>
-<h4>Inventories</h4>
+<h5>Inventories</h5>
 <p>11.164 (<strong>xx/xx/xx</strong>) If the claim from a termination for convenience involves inventory that is rendered surplus by the termination, the contracting officer must send copies of the termination inventory schedules to the client in order to obtain instructions as to disposition, which will be either:</p>
 <ol type="a">
 <li>arranging for the verification and shipment of all, or any part, of the inventories to a recipient designated by the client. The costs associated with packaging, routing, shipping, etc., are a proper post termination charge to be added to the contractor's claim;
@@ -188,28 +188,28 @@
 <p>The Report of Surplus must be signed by the director general or director concerned, to certify that: the inventories are reasonable in relation to the requirements of the terminated portion of the relevant contract; that their use is not required for other existing <acronym title="Public Works and Government Services Canada">PWGSC</acronym> contracts, due to the nature of the goods; and consequently, that disposal is recommended. The contracting officer will forward the signed Report of Surplus to CADC.</p>
 <p>In due course, the contracting officer receives a Final Inventory Certificate (FIC) from CADC, signed by the CADC inspector or assessor and the contractor.</p>
 <p><em>By signing the FIC, the contractor agrees to the final quantities for disposal and, at the same time, agrees to retain and be responsible for the residual inventories for 90 days, at no cost, on behalf of CADC. At the time of receipt of the FIC, the contracting officer is relieved of the responsibility for the residual inventory. Any proceeds realized from the sale of the surplus inventory are credited, on behalf of the client, to the Consolidated Revenue Fund or to the revolving fund, as applicable.</em></p>
-<h4>Settlement Offer</h4>
+<h5>Settlement Offer</h5>
 <p>11.166 (<strong>xx/xx/xx</strong>) Upon receipt of the audit report, the TCO will prepare a proposed settlement offer. This offer informs the contractor of the amount of settlement the TCO is prepared to recommend to the Director General, SPMS, for approval.</p>
 <p>11.167 (<strong>xx/xx/xx</strong>) If the contractor accepts the proposed settlement offer, the TCO will prepare a Settlement and Release, form <acronym title="Public Works and Government Services Canada">PWGSC</acronym>-TPSGC 9223-2, and submit it to Legal Services for review, the Director General, SPMS, for approval and signature, and then to the contractor for acceptance. When the contractor's written acknowledgement is received, the original is placed on the SPMS file and a copy forwarded to the contracting officer, for the contract file.</p>
 <p>11.168 (<strong>xx/xx/xx</strong>) If the contractor rejects the proposed settlement, the TCO will advise the contractor to submit the case directly, in writing, to the Director, CCRB so that the case may be handled in accordance with CCRB's procedures for handling disputes (see 11.201).</p>
-<h4>Contract Termination Claims</h4>
+<h5>Contract Termination Claims</h5>
 <p>11.169 (<strong>xx/xx/xx</strong>) When an interim payment or final settlement on a contract terminated or partially terminated for the convenience of the Crown is approved and signed by the Director General, SPMS. The TCO will place the original of the completed document on the SPMS file and make arrangements to implement the approved settlement payment.</p>
 <p>11.180 and 11.181 <strong>No change</strong></p>
 <p>11.182 <strong> Deleted</strong></p>
 <p>11.183 to 11.187 <strong>No change</strong> </p>
-<h4>Termination by Mutual Consent</h4>
+<h5>Termination by Mutual Consent</h5>
 <p>11.195 (<strong>xx/xx/xx</strong>) On receiving the client's request for termination by Mutual Consent, the contracting officer shall request the contractor to confirm that no claim is involved and shall refer the matter to Legal Services in accordance with 11.140.</p>
 <p><em>Since no claim is made, the TCO is not involved in this process.</em></p>
-<h4>Contract Claims Resolution Board</h4>
+<h5>Contract Claims Resolution Board</h5>
 <p>11.200 (<strong>xx/xx/xx</strong>) All enquiries, from contractors or contracting officers, concerning the CCRB and submissions to the CCRB, should be directed to CCRB.</p>
 <p>The CCRB was formed in January 1994 by the integration of the Contract Dispute Advisory Board (CDAB) of the former Public Works Canada and the Contracts Settlement Board (CSB) of the former Supply and Services Canada. A summary of these two processes follows:</p>
-<h4>CCRB - Contract Settlement Board (CSB) Process</h4>
+<h5>CCRB - Contract Settlement Board (CSB) Process</h5>
 <p>11.201 (<strong>xx/xx/xx</strong>) The CSB process is designed to provide for the prompt resolution of disputes arising from goods and services contracts. It provides for an independent review of a contractor's claim as well as the Crown's response to the claim. Following that review process, the Board issues a decision which is not binding on the contractor. Accordingly, if the contractor reject the decision of the Board, its rights at law are not compromised. Further details on the CSB Process are set forth in 11.204</p>
-<h4>CCRB - Contract Dispute Advisory Board (CDAB) Process</h4>
+<h5>CCRB - Contract Dispute Advisory Board (CDAB) Process</h5>
 <p>11.202 (<strong>xx/xx/xx</strong>) The CDAB process is designed to provide for the prompt resolution of disputes arising from architectural and engineering, construction, building maintenance and leasing contracts. The process provides a simplified, non-binding arbitration dispute resolution process for contractors which involves the selection of a private sector arbitrator by both parties. Following a Board Hearing, the arbitrator submits a recommendation for the Minister's final decision. Given that the Minister's decision is not binding on the Claimant, its rights at law are not compromised. Further details on the CDAB Process are set forth in 11.218</p>
 <p><strong>Advice, Assistance and Training</strong></p>
 <p>11.203 (<strong>xx/xx/xx</strong>) Upon request, CCRB's staff will provide advice and assistance concerning any of the matters falling within the purview of CCRB to all persons seeking it, and is available to provide brief information and training sessions on the claims process. The expertise associated with lessons learned derived from previous cases may provide useful information to assist in the resolution of disputes.</p>
-<h4>CCRB - Contract Settlement Board (CSB) Procedures</h4>
+<h5>CCRB - Contract Settlement Board (CSB) Procedures</h5>
 <p>11.204 (<strong>xx/xx/xx</strong>) When any dispute arising from goods and services contracts cannot be resolved through negotiation, the contractor should be advised in writing to submit a formal statement and documentation of claim to the Director, CCRB. The proposed letter to the contractor should be referred to the CCRB for approval.</p>
 <p><em>Without this step, unresolved disputes can only be resolved through formal legal action. The CCRB process exists to resolve matters without that potentially lengthy and expensive process.</em></p>
 <p>11.205 (<strong>xx/xx/xx</strong>) The contractor may submit a claim at any time during or after the contract. Normally a claim should not be submitted to CCRB until the contract has been completed, since in most cases an audit of the total contract will be required. The extent and nature of the Board's review process is at the discretion of CCRB.</p>
@@ -217,19 +217,19 @@
 <p>11.207 (<strong>xx/xx/xx)</strong> The submission, to be signed at the director level, must include a recommended settlement as well as confirmation that funds are available for settlement under the encumbrance.</p>
 <p>11.208 (<strong>xx/xx/xx</strong>) The Chairperson, CSB will advise the contractor in writing of the date of receipt of the submission from the sector/region, and will, if necessary, arrange a meeting of the participants.</p>
 <p>11.209 (<strong>xx/xx/xx</strong>) Depending on the complexity of the dispute, the contractor will be given the opportunity to appear in person, or to have selected company officials appear, and can be represented by legal counsel. The same opportunity will also be afforded to <acronym title="Public Works and Government Services Canada">PWGSC</acronym> and the client in relation to data or presentation against, or in support of, the contractor's claim.</p>
-<h4>Meetings</h4>
+<h5>Meetings</h5>
 <p>11.210 (<strong>xx/xx/xx</strong>) The Chairperson, CSB, is responsible for ensuring that all participants at any Board meeting are fully aware of the role and responsibilities of the CSB, and the manner in which the proceedings will be conducted. The Chairperson will also determine the time necessary to permit a full and detailed discussion of the claim.</p>
 <p><em>All copies of submissions to CSB, assemblies of data, memoranda and working papers of CSB, are for the sole use of the Members of CSB, the Director General, Audit and Ethics Branch (AEB), the Deputy Minister and the Minister of <acronym title="Public Works and Government Services Canada">PWGSC</acronym>.</em></p>
 <p>11.211 (<strong>xx/xx/xx</strong>) Normally, full Board meetings are only convened to review complex claims in excess of $100,000. Such meetings would be attended by the Chairperson, CSB, one or more private sector consultants, an independent representative from the project authority, as well as the Board's legal advisor. For claims at $100,000 or less, the review of the contractor's claim will normally be conducted less formally and without incurring the expense of engaging any private sector consultants.</p>
 <p>11.212 (<strong>xx/xx/xx</strong>) When deliberations are complete, the final conclusions and recommendations for settlement will be recorded in the Minutes of Proceedings.</p>
-<h4>Settlement Offer</h4>
+<h5>Settlement Offer</h5>
 <p>11.213 (<strong>xx/xx/xx</strong>) When the Chairperson, CSB, concludes that a settlement offer is to be made, CSB will officially advise the contractor of the recommended amount of settlement and will seek to obtain the contractor's written acceptance. A copy of the CSB's letter of offer to the contractor will be sent to the client and the sector/region for information.</p>
 <p>11.214 (<strong>xx/xx/xx</strong>) If the settlement amount exceeds departmental approval authorities, the contractor will be advised that the settlement is subject to the approval of TB. The contracting officer will prepare the necessary TB submission, and send it to the CCRB for submission to TB.</p>
 <p>11.215 (<strong>xx/xx/xx</strong>) When the recommended payment has received all necessary approvals, CSB will prepare, in collaboration with Legal Services, a settlement and release agreement which must contain an acceptance and release clause approved by Legal Services.</p>
 <p>11.216 (<strong>xx/xx/xx</strong>) Copies of the settlement and release agreement must be distributed to all interested parties.</p>
-<h4>Non-acceptance of Settlement</h4>
+<h5>Non-acceptance of Settlement</h5>
 <p>11.217 (<strong>xx/xx/xx</strong>) If a CSB ruling is not acceptable to the contractor, the contractor may institute legal proceedings against the Crown.</p>
-<h4>CCRB - Contract Dispute Advisory Board (CDAB) Procedures</h4>
+<h5>CCRB - Contract Dispute Advisory Board (CDAB) Procedures</h5>
 <p>11.218 (<strong>xx/xx/xx</strong>) When any dispute arising from architectural and engineering, construction, building maintenance and leasing contracts cannot be resolved through negotiation, the contractor/consultant may request the Minister, in writing, to set up a CDAB. The Minister's Office will forward such a request to CCRB.</p>
 <p>11.219 (<strong>xx/xx/xx</strong>) If no final departmental position has been reached, the Region is to advise, within three working days, what specific actions are underway to attempt to reach a settlement by negotiation. This Region must also document the nature of the claim and supply a copy of it to the Director, CCRB, and the ADM(RPSB). </p>
 <p>11.220 (<strong>xx/xx/xx</strong>) If the negotiation process appears to be unduly protracted, the Director, CCRB, will write to the ADM(RPSB) requesting direction. The memo will attach a copy of the claim, summarize the regional position and recommend a course of action. A legal opinion or other advise may be included, as necessary.</p>
@@ -245,12 +245,12 @@
 <li>Brief the Contractor/Consultant. If requested, concerning the basis of the Minister's decision.</li>
 <li>If the Minister's decision involves a settlement amount, the CCRB will arrange for a settlement and release document to be prepared and will ensure that the settlement payment is made in a timely manner.</li>
 </ol>
-<h4>Non-acceptance of Settlement</h4>
+<h5>Non-acceptance of Settlement</h5>
 <p>11.223 (<strong>xx/xx/xx</strong>) If a CCRB ruling is not acceptable to the contractor, the contractor may institute legal proceedings against the Crown.</p>
-<h4>Supplier Sanctions</h4>
+<h5>Supplier Sanctions</h5>
 <p>Existing procedures 11.220 to 11.222 have been renumbered 11.225 to 11.227 - no changes to the text.</p>
-<h3>Chapter 12 - Glossary</h3>
-<h4>Contract Claims Resolution Board (CCRB)</h4>
+<h4>Chapter 12 - Glossary</h4>
+<h5>Contract Claims Resolution Board (CCRB)</h5>
 <p>The CCRB was formed in January 1994 by the integration of the Contracts Settlement Board (CSB) of the former Supply and Services Canada and the Contract Disputes Advisory Board (CDAB) of the former Public Works Canada. A summary of the dispute resolution processes of the CSB and the CDAB is set forth in 11.201 and 11.202 respectively. (<strong>xx/xx/xx</strong>) (conseil de règlement des différends contractuels).</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

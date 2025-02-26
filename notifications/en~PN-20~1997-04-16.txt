@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-20</h2>
+<h3 class="pn-content-title">Content of PN-20</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>1. On February 13, 1997, the Treasury Board approved increases in the following threshold levels for entering into and/or amending contracts above which Public Works and Government Services must seek Treasury Board approval:</p>
 <ol type="a">
@@ -11,7 +11,7 @@
 </ol>
 <p>At this time, the new contract and amendment authority levels are exercisable only by the Minister. Therefore, procurements falling within the range of the new contract and amendment authorities shall be processed for approval by the Minister.</p>
 <p>2. In addition, to the increases described above, Treasury Board has approved increased dollar levels for entering into and/or amending service contracts by all departments and agencies, and has removed the requirement to seek Treasury Board approval to enter into and/or amend contract with Crown Corporations. These changes are further described in the excerpts from Contracting Policy Notice 1997-2 provided below:</p>
-<h3>New Contract Entry Levels</h3>
+<h4>New Contract Entry Levels</h4>
 <p>3. On February 13, 1997, Treasury Board approved increased dollar levels for entering into and/or amending service contracts by all departments and agencies.</p>
 <p>4. The following changes were made to the basic threshold levels:</p>
 <p>For service contracts:</p>

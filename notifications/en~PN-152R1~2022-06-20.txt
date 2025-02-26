@@ -1,27 +1,27 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-152R1</h2>
+<h3 class="pn-content-title">Content of PN-152R1</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3 id="PN-152R1a1">Purpose</h3>
+<h4 id="PN-152R1a1">Purpose</h4>
 <p>The purpose of Policy Notification (PN)-152R1 is to inform Government of Canada contracting authorities of the suspension of Public Works and Government Services Canada’s (PWGSC) COVID-19 Vaccination Policy for Supplier Personnel (“the policy”).</p>
 <p>This <abbr title="Policy Notification">PN</abbr> replaces <abbr title="Policy Notification">PN</abbr>-152U3 in its entirety.</p>
-<h3 id="PN-152R1a2">Effective date</h3>
+<h4 id="PN-152R1a2">Effective date</h4>
 <p>This Policy Notification is in effect as of June 20, 2022.</p>
-<h3 id="PN-152R1a3">Background</h3>
+<h4 id="PN-152R1a3">Background</h4>
 <p>On June 14, 2022, the Government of Canada announced the <a href="https://www.canada.ca/en/treasury-board-secretariat/news/2022/06/backgrounder-government-of-canada-suspends-mandatory-vaccination-for-federal-employees.html" rel="external">suspension of mandatory vaccination for federal employees</a> effective June 20, 2022. In alignment with this measure, the Government of Canada has suspended the COVID-19 Vaccination Policy for Supplier Personnel. This means that as of June 20, 2022 and until further notice, the requirements of the policy is no longer in effect.</p>
 <p>Suppliers may still be required to comply with site-specific workplace health and safety measures in federal workplaces that have been put in place by departments and agencies separately from the policy.</p>
 <p>A <a href="https://www.canada.ca/en/treasury-board-secretariat/news/2022/06/backgrounder-government-of-canada-suspends-mandatory-vaccination-for-federal-employees.html">notice to Federal Contractors</a> informing them of the suspension of the policy was published on BuyandSell.gc.ca on June 17, 2022. The information contained in this Policy Notification will assist contracting authorities in managing affected solicitations and contracts.</p>
-<h3 id="PN-152R1a4">Scope</h3>
+<h4 id="PN-152R1a4">Scope</h4>
 <p>The suspension of the policy applies to all new and existing Government of Canada solicitations and contracts, including call-ups, that included vaccination requirements.</p>
-<h3 id="PN-152R1a5">Duration</h3>
+<h4 id="PN-152R1a5">Duration</h4>
 <p>The suspension is effective June 20, 2022 and until further notice.</p>
 <p>Contracting authorities should note that the policy may be reinstated in the future in alignment with public health guidelines and the <a href="https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32694" rel="external">Policy on COVID-19 Vaccination for the Core Public Administration including the Royal Canadian Mounted Police</a>. Contracting authorities will receive further information and guidance should the policy be reinstated.</p>
-<h3 id="PN-152R1a6">Implications of policy suspension</h3>
-<h4 id="PN-152R1a7">Existing contracts</h4>
+<h4 id="PN-152R1a6">Implications of policy suspension</h4>
+<h5 id="PN-152R1a7">Existing contracts</h5>
 <p>Following the June 20, 2022 suspension of the policy, suppliers are no longer required to meet the vaccination requirements under previously submitted COVID-19 Vaccination Certifications or provide vaccinated personnel to the Government of Canada. Canada no longer requires suppliers to comply with any accommodation and mitigation measures previously approved under the policy for their personnel who were unable to get vaccinated.</p>
 <p>There is no requirement to amend existing contracts.</p>
 <p>Since the policy is no longer in effect, contracting authorities must not take any actions to enforce previously collected COVID-19 Vaccination Certifications.</p>
-<h4 id="PN-152R1a8">New solicitations</h4>
+<h5 id="PN-152R1a8">New solicitations</h5>
 <p>As of June 20, 2022, when preparing solicitation documents and contracts for new requirements where supplier personnel will or might access Government of Canada workplaces where they may come into contact with public servants, contracting authorities are no longer required to include the following in solicitation documents:</p>
 <ul>
 <li><abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual clause <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#A3080T">A3080T: COVID-19 vaccination requirement</a>;</li>
@@ -30,7 +30,7 @@
 </ul>
 <p>However, until further notice, in such new solicitations and resulting contracts, contracting authorities <strong>must</strong> continue to incorporate <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual clause <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#4013">4013 - Compliance with on-site measures, standing orders, policies, and rules</a> if <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual clause <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#2035">2035: General Conditions - Higher Complexity – Services</a>, <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#2040">2040: General Conditions - Research and Development</a> or equivalent language is not already being used. Where a ‘Suspension of the work’ clause is not otherwise included, contracting authorities <strong>must</strong> also include <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual clause <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#4014">4014: Suspension of the work</a>.
 </p>
-<h4 id="PN-152R1a9">Active solicitations</h4>
+<h5 id="PN-152R1a9">Active solicitations</h5>
 <p>For active solicitations closing on or after June 20, 2022 which were previously subject to the policy, contracting authorities must amend the solicitation documents to remove the following clauses. This may require providing bidders with additional time in order to submit their bids:</p>
 <ul>
 <li><abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual clause <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#A3080T">A3080T: COVID-19 vaccination requirement</a>;</li>
@@ -39,11 +39,11 @@
 </ul>
 <p>If for any reason it is not possible to amend an active solicitation to remove the above clauses, bidders would be obliged to still submit a COVID-19 Vaccination Certification along with their bid. Otherwise, their bid would be considered non-responsive, despite the suspension of the policy.</p>
 <p>For procurements that are in the bid evaluation stage that included a vaccination requirement in the solicitation, contracting authorities should continue the evaluation as planned.</p>
-<h4 id="PN-152R1a10">Supply Arrangements</h4>
+<h5 id="PN-152R1a10">Supply Arrangements</h5>
 <p>As of June 20, 2022, contracting authorities are no longer required to include <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual clause <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#S3037T">S3037T: Applicability of COVID-19 vaccination requirements to individual solicitations</a> in Requests for Supply Arrangements (RFSAs) that are new or are in the process of being refreshed.</p>
 <p>Active <abbr title="Request for Supply Arrangement">RFSA</abbr>s that already include <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#S3037T">S3037T: Applicability of COVID-19 vaccination requirements to individual solicitations</a> should be amended to remove this clause.</p>
 <p>For new individual solicitations under Supply Arrangements (SAs) with COVID-19 vaccination requirements, or for individual solicitations under <abbr title="Supply Arrangements">SAs</abbr> with COVID-19 vaccination requirements that are in the process of being competed, contracting authorities should follow the process for <a href="#PN-152R1a8">new solicitations</a> or <a href="#PN-152R1a9">active solicitations</a>, as applicable.</p>
-<h4 id="PN-152R1a11">Standing Offers</h4>
+<h5 id="PN-152R1a11">Standing Offers</h5>
 <p>As of June 20, 2022 and until further notice, contracting authorities are no longer required to incorporate the following clauses in new Requests for Standing Offers (RFSOs) or in <abbr title="Request for Standing Offer">RFSO</abbr>s that are in the process of being refreshed:</p>
 <ul>
 <li><a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#M3080T">M3080T: COVID-19 vaccination requirements for Standing Offers</a>;</li>
@@ -53,27 +53,27 @@
 </ul>
 <p>Active <abbr title="Request for Standing Offer">RFSO</abbr>s that already include the above COVID-19 vaccination requirements should be amended to remove these clauses.</p>
 <p>For new call-ups under existing <abbr title="Standing Offer">SO</abbr>s, no action is required and as of June 20, 2022, Canada no longer requires a COVID-19 Vaccination Certification at the call-up stage.</p>
-<h4 id="PN-152R1a12">Bidders’ conferences and site visits</h4>
+<h5 id="PN-152R1a12">Bidders’ conferences and site visits</h5>
 <p>As of June 20, 2022 and until further notice, bidders’ conferences or site visits occurring at Government of Canada workplaces are no longer subject to vaccination requirements. Contracting authorities should only use the versions of <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#A9038T">A9038T: Optional site visit</a>, <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#A9040T">A9040T: Mandatory site visit</a>, <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#A9083T">A9083T: Bidders' conference</a>, <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#M9083T">M9083T: Offerors' conference</a>, or <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#S0026T">S0026T: Suppliers' conference</a> that do not include a vaccination requirement.</p>
-<h3 id="PN-152R1a13">Exceptional site-specific requirements</h3>
+<h4 id="PN-152R1a13">Exceptional site-specific requirements</h4>
 <p>Some federal workplaces may continue to have policies in place that impose specific health and safety measures. Where contracting authorities are advised of the existence of such workplace policies by the responsible technical authority, the following applies:</p>
 <ul>
 <li><strong>For new solicitations:</strong> Follow the guidance regarding clauses <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#4013">4013 - Compliance with on-site measures, standing orders, policies, and rules</a> and <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#4014">4014: Suspension of the work</a> as outlined above.</li>
 <li><strong>For existing contracts containing a provision requiring compliance with work-site policies:</strong> Contracts issued after the COVID-19 Vaccination Policy for Supplier Personnel came into effect (<abbr title="in essence">i.e.</abbr>  November 15, 2021) should already include <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual Clause <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#4013">4013 - Compliance with on-site measures, standing orders, policies, and rules</a>, or equivalent language where <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#2035">2035: General Conditions – Higher Complexity – Services</a> or <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#2040">2040: General Conditions – Research and Development</a> were used. Many service contracts issued prior to November 15, 2021 also used these General Conditions. These provisions require suppliers to comply with any health and safety work-site policies that may be in place at Government of Canada workplaces.</li>
 <li><strong>For existing contracts not containing a provision requiring compliance with work-site policies:</strong> If for any reason a service contract does not include any of the above provisions, and compliance with work-site health and safety policies is being met with resistance, contracting authorities should consult with Legal Services to explore options based on existing contractual provisions.</li>
 </ul>
-<h3>Revisions to the Supply Manual</h3>
+<h4>Revisions to the Supply Manual</h4>
 <p>The Supply Manual has been revised in support of this <abbr title="Policy Notification">PN</abbr>. For more details, refer to the Affected Supply Manual sections listed below.</p>
-<h4 id="PN-152R1a14">Revisions to the Standard Acquisition Clauses and Conditions Manual (SACC)</h4>
+<h5 id="PN-152R1a14">Revisions to the Standard Acquisition Clauses and Conditions Manual (SACC)</h5>
 <p>The <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual has been revised in support of this <abbr title="Policy Notification">PN</abbr>. For more details, refer to the Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections listed below.</p>
-<h3 id="PN-152R1a15">Revisions to the Standard Procurement Templates</h3>
+<h4 id="PN-152R1a15">Revisions to the Standard Procurement Templates</h4>
 <p>The <a class="gov" href="https://www.gcpedia.gc.ca/wiki/Standard_Procurement_Templates#Standard_Procurement_Templates" rel="external">Standard Procurement Templates</a><span> (accessible only on the Government of Canada network)</span> have been revised on GCPedia.</p>
-<h3 id="PN-152R1a16">Contact information</h3>
+<h4 id="PN-152R1a16">Contact information</h4>
 <p>For further questions on this <abbr title="Policy Notification">PN</abbr>, contracting authorities may contact <a href="mailto:tpsgc.pacertificatsvaccins-apvaccinescertificates.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.pacertificatsvaccins-apvaccinescertificates.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions regarding to the Supply Manual can be sent by email to: </p>
 <p><a href="mailto:tpsgc.paspspublications-apspspublications.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.paspspublications-apspspublications.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions regarding the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual and Standard Procurement Templates can be sent by email to: <a href="mailto:tpsgc.outilsdapprovisionnement-procurementtools.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.outilsdapprovisionnement-procurementtools.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-0ba8631e67fbe36fcf90a3a5533b8480">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
@@ -81,7 +81,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
+<h5 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-520027e7dd55695119fe4b27b68e3d68">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

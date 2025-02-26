@@ -1,16 +1,16 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-37U</h2>
+<h3 class="pn-content-title">Content of PN-37U</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This update is to be read in conjunction with the original Policy Notification 37.</p>
 <p>Since its introduction on September 11, 1998, the JITAP has proven itself as an effective and timely instrument for dealing with urgent amendment requests. There is now a clearer understanding of what information is required and how it should be organized. The format as described below should now be used as the standard for submitting future requests under the JITAP:</p>
-<h3>SUBJECT:</h3>
+<h4>SUBJECT:</h4>
 <ul>
 <li>Project Name/Reference;</li>
 <li>Request For An Amendment of $X;</li>
 <li>For Approval of the Minister or the Assistant Deputy Minister (ADM).</li>
 </ul>
-<h3>BACKGROUND:</h3>
+<h4>BACKGROUND:</h4>
 <ul>
 <li>Project Description;</li>
 <li>Client;</li>
@@ -21,31 +21,31 @@
 <li>method of procurement (e.g. competitive, sole source, SPEC);</li>
 <li>list of previous bidders, ranked, with bid price.</li>
 </ul>
-<h3>PREVIOUS AMENDMENTS:</h3>
+<h4>PREVIOUS AMENDMENTS:</h4>
 <ul>
 <li>value and purpose of each previous amendment;</li>
 <li>accountability issues (e.g. client request).</li>
 </ul>
-<h3>PROPOSED AMENDMENT:</h3>
+<h4>PROPOSED AMENDMENT:</h4>
 <ul>
 <li>Value and purpose;</li>
 <li>Accountability issues, if any (e.g. Is the requirement due to a newly raised client request?; Is the Crown accountable due to delay?; Is the accountability shared between the Contractor and the Crown?);</li>
 <li>If the scope of work is increasing, why amend rather than re-compete? How have we assured fair &amp; reasonable value?</li>
 </ul>
-<h3>IMPLICATIONS OF NOT RECEIVING IMMEDIATE AUTHORITY TO PROCEED:</h3>
+<h4>IMPLICATIONS OF NOT RECEIVING IMMEDIATE AUTHORITY TO PROCEED:</h4>
 <ul>
 <li>Impacts on the project, the client, political implications, if any, etc.;</li>
 <li>Give quantitative impacts as well as the qualitative impacts.</li>
 </ul>
-<h3>COSTS AND TAXES:</h3>
+<h4>COSTS AND TAXES:</h4>
 <ul>
 <li>Costs and Funding Detail [e.g. original contract amount of $X, previous amendments OF $X; proposed amendment of $X; anticipated final contract amount of $X (tax included or extra)].</li>
 </ul>
-<h3>OTHER:</h3>
+<h4>OTHER:</h4>
 <ul>
 <li>Any other extenuating circumstances or pertinent facts.</li>
 </ul>
-<h3>APPROVAL SIGNATURE BLOCK FOR MINISTER:</h3>
+<h4>APPROVAL SIGNATURE BLOCK FOR MINISTER:</h4>
 <ul>
 <li>the Deputy Minister (DM), Audit and Review Branch (ARB), and the Director General (DG)/Regional Director General (RDG) who submitted the JITAP are always cc'd after approval is received;</li>
 <li>informally, a verbal response is provided by the ADM's office to the point of contact in the sector/region.</li>

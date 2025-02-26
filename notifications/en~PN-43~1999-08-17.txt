@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-43</h2>
+<h3 class="pn-content-title">Content of PN-43</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>1. The Supply Operations Service (HQ and Regions) <strong>will not</strong> use its delegated contracting authorities for (i) construction, and (ii) A&amp;E services, unless the Real Property Services Branch (RPSB) is the client, and/or the technical authority for the project.</p>
 <p>Contracts that might be entered into using <strong>these two specific types</strong> of authority are called, in this Policy Notification, real property contracts.</p>
@@ -16,7 +16,7 @@
 <p><em>These three are interim measures, being implemented to reduce the risk to the government of this type of contracting, pending in-depth discussion of the issue. RPCD managers and staff are encouraged to discuss these interim measures, internally and with their clients, to determine the likely and possible long-term effects on real property contracting requirements.</em></p>
 <p><em>SPMS (Special Projects) has undertaken to clarify the specific parameters of Treasury Board delegations of contracting authority, relating to real property and other forms of contract, before the end of September, at which time a proposal for further action will be submitted to the Acquisition Policy Council for full discussion.</em></p>
 <p><em>At that time, <acronym title="Public Works and Government Services Canada">PWGSC</acronym> (RPCD lead) will likely want to communicate (internally, and to OGDs - TBACC [Construction] will be a focus) the objectives and benefits of a common service real property contracting organization e.g. the benefits of an arms length relationship; the application of professional contracting knowledge and expertise; and, the management of the tendering process, including the interface with the Trade Agreements and their associated frameworks.</em></p>
-<h3>RATIONALE</h3>
+<h4>RATIONALE</h4>
 <ol type="a">
 <li>Real property contracts (those for which delegated authorities for construction, or A&amp;E services, are used) deal with many technical design, health and safety issues, requiring the exercise of due diligence, based on professional and technical knowledge of issues, liabilities and accountabilities.</li>
 <li>When RPCD contracts on behalf of a client, it is important to note that throughout the life of the project, <acronym title="Public Works and Government Services Canada">PWGSC</acronym> (ultimately, the Minister) remains the contracting authority of record, and so remains accountable for the management of the contract, and the attendant legal responsibilities. That accountability means that <acronym title="Public Works and Government Services Canada">PWGSC</acronym> must rely on the technical expertise of its client, in designing a real property project, and in seeing it through to completion. Key examples of this technical expertise are the abilities: to prepare project briefs; to evaluate professional design proposals; to manage and oversee a construction project; and, to evaluate the performance of Consultants and Contractors.</li>
@@ -30,7 +30,7 @@
 <p>						While this concern is not unique to real property contracting, the other possible legal issues relating to real property contracting make it deserving of special attention at this time - but, again, on an INTERIM basis only.</p></li>
 <li>Before providing such advice, therefore, where there are indications that technical aspects of a procurement may be involved, RPCD/SOS staff may wish to consult with with the appropriate technical experts in RPSB Such consultation is not needed, when it relates to contracting issues.</li>
 </ol>
-<h3>BACKGROUND</h3>
+<h4>BACKGROUND</h4>
 <p>There are two scenarios under which RPCD enters into contract for the procurement of construction or A&amp;E services.</p>
 <p>The first involves RPCD and RPSB. RPCD, SOSB's real property contracting arm, provides expertise in the administration of the contract through the management of its terms and conditions. RPSB, as the technical authority, manages the activities of the consultant (during the design phase), and the contractor (during the construction phase), to ensure that the project is designed to applicable codes and standards, and the the work is completed in full compliance with the plans and specifications</p>
 <p>The second scenario involves RPCD, and an OGD. As with the first scenario, RPCD provides the contracting expertise - but it is the OGD that has the role of the technical authority, to ensure that the design is done properly, and the work completed in accordance with the plans and specifications.</p>

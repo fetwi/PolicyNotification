@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-12</h2>
+<h3 class="pn-content-title">Content of PN-12</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The SACC Manual clauses listed below have been modified to clarify the meaning of the Canadian Content Policy clauses and to improve consistency in the treatment of bidders.</p>
 <p>The updated clauses require that the bidder submit the Canadian Content certification with the bid; otherwise goods and services in the bid will be treated as non-Canadian.</p>
@@ -8,7 +8,7 @@
 <p>These changes take effect immediately.</p>
 <p>For your information, electronic copies of the updated SACC Manual clauses and updated articles of the Supply Manual are attached.</p>
 <p>For more information, please contact Christine Cowan (956-6497).</p>
-<h4>THE ATTACHED CLAUSES (ANNEX A) WILL APPEAR IN THE FEBRUARY 1997 RELEASE OF THE SACC MANUAL.</h4>
+<h5>THE ATTACHED CLAUSES (ANNEX A) WILL APPEAR IN THE FEBRUARY 1997 RELEASE OF THE SACC MANUAL.</h5>
 <p>Updated SACC Manual clauses:</p>
 <p>K4000D Canadian Content Definition<br/>
 					K4001T Canadian Content Certification<br/>
@@ -19,13 +19,13 @@
 					K4006T Canadian Content Certification<br/>
 					K4015T Canadian Content Certification - S&amp;T<br/>
 					K4100C Canadian Content Certification</p>
-<h4>THE ATTACHED CHANGES TO THE SUPPLY MANUAL (ANNEX B) WILL APPEAR IN THE DECEMBER 1996 RELEASE OF THE SUPPLY MANUAL.</h4>
+<h5>THE ATTACHED CHANGES TO THE SUPPLY MANUAL (ANNEX B) WILL APPEAR IN THE DECEMBER 1996 RELEASE OF THE SUPPLY MANUAL.</h5>
 <p>Updated Supply Manual articles 5.072, 5.073, 7.366 and 7.368 are attached.</p>
-<h3>Annex A</h3>
-<h4>Changes to the SACC Manual</h4>
+<h4>Annex A</h4>
+<h5>Changes to the SACC Manual</h5>
 <p>(Changes are effective immediately. Changes will appear in the February 1997 Release of the SACC Manual)</p>
 <p><strong>Remarks:</strong> Use the following clause whenever a definition of Canadian goods and Canadian services is required. This clause must always be used whenever clauses K4001T, K4002T, K4003T, K4004T, K4005T and K4006T are used.</p>
-<h4>K4000D Canadian Content Definition</h4>
+<h5>K4000D Canadian Content Definition</h5>
 <p>1. Canadian Good: A good wholly manufactured or originating in Canada is considered a Canadian good. A product containing imported components may also be considered Canadian for the purpose of this policy when it has undergone sufficient change in Canada, in a manner that satisfies the definition specified under the Free Trade Agreement (FTA) Rules of Origin. For photocopiers, computers and office equipment within Federal Supply Classification (FSC) groups 36, 70 and 74, only the products of MERIT/CIRCLE firms or companies in Priority Group 1 prior to April 1992 are considered Canadian (see below the paragraph on MERIT Partnership Program and CIRCLE Program).</p>
 <p>2. Canadian Service: A service provided by an individual based in Canada is considered a Canadian service. Where a requirement consists of only one service, which is being provided by more than one individual, the service will be considered Canadian if a minimum of 80 percent of the total bid price for the service is provided by individuals based in Canada.</p>
 <p>3. Variety of Goods: When requirements consist of more than one good:</p>
@@ -50,7 +50,7 @@
 </ol>
 <hr/>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Use the following clause in all competitive bid solicitations in which the Canadian Content policy is applicable (see Supply Manual) and where competition is being solely limited to bids offering Canadian goods and/or services. This clause is to be used for single item requirements and multi-item requirements that are being certified on an aggregate basis. This clause must be used in conjunction with clause K4000D - Canadian Content Definition.</p>
-<h4>K4001T Canadian Content Certification</h4>
+<h5>K4001T Canadian Content Certification</h5>
 <p>This procurement is limited to Canadian goods and services as defined in clause K4000D - Canadian Content Definition.</p>
 <p>The Bidder represents and warrants that, of the goods and services being offered, no less than 80 percent of the bid price consists of Canadian goods and Canadian services as defined in clause K4000D - Canadian Content Definition.</p>
 <p>The Bidder acknowledges that the Minister relies upon such representation and warranty to evaluate bids and to enter into any contract resulting from this bid. Such representation and warranty of Canadian Content may be verified in such manner as the Minister may reasonably require.</p>
@@ -62,7 +62,7 @@
 					Date</p>
 <hr/>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Use the following clause in all competitive bid solicitations in which the Canadian Content policy is applicable (see Supply Manual) and where competition is being conditionally limited to bids offering Canadian goods and/or services. This clause is to be used for single item requirements and multi-item requirements that are being certified on an aggregate basis. This clause must be used in conjunction with clause K4000D - Canadian Content Definition.</p>
-<h4>K4002T Canadian Content Certification</h4>
+<h5>K4002T Canadian Content Certification</h5>
 <p>This procurement is subject to a preference for Canadian goods and services.</p>
 <p>Bids that include this representation and warranty will be given preference over other bids, if there are three or more bids with a valid certification.</p>
 <p>By executing this representation and warranty, the Bidder represents and warrants that, of the goods and services being offered, no less than 80 percent of the bid price consists of Canadian goods and Canadian services, as defined in the clause K4000D - Canadian Content Definition.</p>
@@ -75,7 +75,7 @@
 					Date</p>
 <hr/>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Use the following clause in all competitive bid solicitations in which the Canadian Content policy is applicable (see Supply Manual) and where competition is being solely limited to bids offering Canadian goods and/or services. This clause is to be used for multi-item requirements that are being certified on an individual item basis and where the bidder will be required to indicate beside each item, listed in the bid, whether the item is Canadian. This clause must be used in conjunction with clause K4000D - Canadian Content Definition.</p>
-<h4>K4003T Canadian Content Certification</h4>
+<h5>K4003T Canadian Content Certification</h5>
 <p>This procurement is limited to Canadian goods and services as defined in clause K4000D - Canadian Content Definition.</p>
 <p>By executing this representation and warranty, the Bidder represents and warrants that, of the goods and services being offered, items individually identified as such in the bid are Canadian goods or Canadian services as defined in clause K4000D - Canadian Content Definition, and acknowledges that only those items will receive consideration.</p>
 <p>Bids may be accepted in whole or in part.</p>
@@ -88,7 +88,7 @@
 					Date</p>
 <hr/>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Use the following clause in all competitive bid solicitations in which the Canadian Content policy is applicable (see Supply Manual) and where competition is being solely limited to bids offering Canadian goods and/or services. This clause is to be used for multi-item requirements that are being certified on an individual item basis and where the bidder is to list in the clause those items in its bid that are to be considered Canadian goods and/or Canadian services. This clause must be used in conjunction with clause K4000D - Canadian Content Definition.</p>
-<h4>K4004T Canadian Content Certification</h4>
+<h5>K4004T Canadian Content Certification</h5>
 <p>This procurement is limited to Canadian goods and services as defined in clause K4000D - Canadian Content Definition.</p>
 <p>Bids may be accepted in whole or in part.</p>
 <p>The Bidder represents and warrants that, of the goods and services being offered, the following items are Canadian goods or Canadian services as defined in clause K4000D - Canadian Content Definition and acknowledges that only those items will receive consideration.</p>
@@ -108,7 +108,7 @@
 					Date</p>
 <hr/>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Use the following clause in all competitive bid solicitations in which the Canadian Content policy is applicable (see Supply Manual) and where competition is being conditionally limited to bids offering Canadian goods and/or services. This clause is to be used for multi-item requirements that are being certified on an individual item basis and where the bidder will be required to indicate beside each item, listed in the bid, whether the item is Canadian. This clause must be used in conjunction with clause K4000D - Canadian Content Definition.</p>
-<h4>K4005T Canadian Content Certification</h4>
+<h5>K4005T Canadian Content Certification</h5>
 <p>This procurement is subject to a preference for Canadian goods and services.</p>
 <p>On an item-by-item basis, items that include this representation and warranty will be given preference over other bids, if there are three or more bids with a valid certification. Bids may be accepted in whole or in part.</p>
 <p>By executing this representation and warranty, the Bidder represents and warrants that, of the goods and services being offered, items individually identified as such in the bid are Canadian goods or Canadian services as defined in clause K4000D - Canadian Content Definition.</p>
@@ -121,7 +121,7 @@
 					Date</p>
 <hr/>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Use the following clause in all competitive bid solicitations in which the Canadian Content policy is applicable (see Supply Manual) and where competition is being conditionally limited to bids offering Canadian goods and/or services. This clause is to be used for multi-item requirements that are being certified on an individual item basis and where the bidder is to list in the clause those items in its bid that are to be considered Canadian goods and/or Canadian services. This clause must be used in conjunction with clause K4000D - Canadian Content Definition.</p>
-<h4>K4006T Canadian Content Certification</h4>
+<h5>K4006T Canadian Content Certification</h5>
 <p>This procurement is subject to a preference for Canadian goods and services.</p>
 <p>On an item-by-item basis, items that include this representation and warranty will be given preference over other bids, if there are three or more bids with a valid certification. Bids may be accepted in whole or in part.</p>
 <p>The Bidder represents and warrants that, of the goods and services being offered, the following items are Canadian goods or Canadian services as defined in clause K4000D - Canadian Content Definition:</p>
@@ -142,7 +142,7 @@
 					Date</p>
 <hr/>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Use the following clause in all competitive bid solicitations in respect of which the requisition is subject to the Science &amp; Technology Contracting-Out Policy (see Supply Manual) and where the procurement officer is setting a minimum percentage, normally 80 percent, for that part of the bid price which must consist of Canadian goods and/or services for the bid to be acceptable. This clause must be used in conjunction with clause K4000D - Canadian Content Definition.</p>
-<h4>K4015T Canadian Content Certification - S and T</h4>
+<h5>K4015T Canadian Content Certification - S and T</h5>
 <p>This procurement is limited to Canadian Goods and Canadian Services as defined in clause K4000D - Canadian Content Definition.</p>
 <p>The Bidder represents and warrants that, of the goods and services being offered, no less than <span aria-label="Blank placeholder" class="blankline"></span>  percent of the bid price consists of Canadian Goods and Canadian Services as defined in clause K4000D - Canadian Content Definition.</p>
 <p>The Bidder acknowledges that the Minister relies upon such representation and warranty to evaluate bids and to enter into any contract resulting from this bid. Such representation and warranty may be verified in such manner as the Minister may reasonably require.</p>
@@ -154,13 +154,13 @@
 					Date</p>
 <hr/>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Use the following clause in all contracts where the winning bidder's eligibility for consideration required the completion and submission of a signed Canadian Content certification.</p>
-<h4>K4100C Canadian Content Certification</h4>
+<h5>K4100C Canadian Content Certification</h5>
 <p>The Contractor represents and warrants that the certification of Canadian Content submitted with its bid is accurate and complete, and that the goods and services to be provided to Canada pursuant to this Contract will be in accordance with the said certification. The Contractor acknowledges that the Minister has relied upon such representation and warranty to enter into this Contract. Such representation and warranty may be verified in such manner as the Minister may reasonably require.</p>
 <p>The Contractor acknowledges that in the event of a breach of such covenant, the Minister shall have the right to treat the Contract as being in default in accordance with the default provisions of the Contract.</p>
 <p>The Contractor shall keep proper records and documentation relating to the origin of the goods and services provided to Canada. The Contractor shall not, without the prior written consent of the Minister, dispose of any such records or documentation until the expiration of six (6) years after final payment under this Contract, or until settlement of all outstanding claims and disputes, whichever is later. All such records and documentation shall at all times during the aforementioned retention period be open to audit, inspection and examination by the authorized representatives of the Minister, who may make copies and take extracts thereof. The Contractor shall provide all facilities for such audits, inspections and examinations, and shall furnish all such information as the representatives of the Minister may from time to time require with respect to such records and documentation.</p>
 <p>Nothing in this clause shall be interpreted as limiting the rights and remedies which Canada or the Minister may otherwise have in relation to or pursuant to this Contract.</p>
-<h3>Annex B</h3>
-<h4>Changes to the Supply Manual</h4>
+<h4>Annex B</h4>
+<h5>Changes to the Supply Manual</h5>
 <p>(Changes are effective immediately. Changes will appear in the December 1996 Release of the Supply Manual)</p>
 <p>5.072 A good wholly manufactured or originating in Canada is considered a Canadian good. A product containing imported components may also be considered Canadian for the purpose of this policy when it has undergone sufficient change in Canada, in a manner that satisfies the definition specified under the Free Trade Agreement (FTA) Rules of Origin. For photocopiers, computers and office equipment within Federal Supply Classification (FSC) groups 36, 70 and 74, only the products of MERIT/CIRCLE firms or companies in Priority Group 1 prior to April 1992 are considered Canadian (see below the paragraph on MERIT Partnership Program and CIRCLE Program).</p>
 <p>A service provided by an individual based in Canada is considered a Canadian service. Where a requirement consists of only one service, which is being provided by more than one individual, the service will be considered Canadian if a minimum of 80 percent of the total bid price for the service is provided by individuals based in Canada.</p>

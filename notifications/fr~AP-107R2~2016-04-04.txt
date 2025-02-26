@@ -1,24 +1,24 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-107R2</h2>
-<h3>Introduction</h3>
+<h3 class="pn-content-title">Contenu de l'AP-107R2</h3>
+<h4>Introduction</h4>
 <p>L’Avis relatif aux politiques 107R2 (AP-107R2) vise à informer le personnel du Programme des approvisionnements que les dispositions relatives à  l’intégrité employées par Travaux publics et Services gouvernementaux Canada  (TPSGC) dans le cadre de ses activités d’approvisionnement et transactions immobilières ont été mises à jour.</p>
 <p>Les dispositions relatives à l’intégrité et la <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/politique-policy-fra.html" rel="external"><em>Politique d’inadmissibilité et de suspension</em></a> sont modifiées afin de fournir des précisions concernant le <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/ci-if-fra.html" rel="external">régime d'intégrité</a> en fonction de commentaires reçus des agents de négociation des contrats, des autres ministères du gouvernement et des fournisseurs. Les modifications ne changent pas la façon dont le régime est appliqué et administré.</p>
-<h3>Date d’entrée en vigueur</h3>
+<h4>Date d’entrée en vigueur</h4>
 <p>L’AP-107R2 entre en vigueur le 4 avril 2016.</p>
-<h3>Résumé des exigences</h3>
+<h4>Résumé des exigences</h4>
 <p>Les dispositions relatives à l’intégrité sont modifiées afin d’incorporer par renvoi la <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/politique-policy-fra.html" rel="external"><em>Politique d’inadmissibilité et de suspension</em></a> mise à jour, laquelle comporte un libellé simplifié et fournit des renseignements supplémentaires sur les processus. <br/>
   En vue de tenir compte de cette approche révisée, les agents de négociation des contrats doivent inclure les plus récentes dispositions relatives à  l’intégrité dans toute nouvelle demande de soumissions et tout contrat subséquent. Toutes les demandes de soumissions affichées actuellement dans le système d’appel d’offres du gouvernement du Canada ne sont pas visées et aucune modification n’est nécessaire.</p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>Au cours des dernières années, <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> a mis en place de nombreuses mesures visant à renforcer l'intégrité des processus d'approvisionnement et des transactions immobilières du Ministère :</p>
 <ul>
 <li><strong>Juillet 2012</strong> : <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> a mis en place un Cadre d’intégrité formel, sous ses propres autorités ministérielles, afin de veiller à ce que le gouvernement ne conclue pas de marchés avec des fournisseurs qui ont été reconnus coupables d’une infraction criminelle au Canada. </li>
 <li><strong>Novembre 2012</strong> et <strong>mars 2014</strong> : Des améliorations ont ensuite été apportées au Cadre (<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/avis-relatifs-aux-politiques?pnid=AP-107#parcourir-ap-precedents">ARCHIVÉE –  Dispositions relatives à  l'intégrité –  AP-107</a> et <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/avis-relatifs-aux-politiques?pnid=AP-107U1#parcourir-ap-precedents">ARCHIVÉE –  Dispositions relatives à  l’intégrité –  AP-107U1</a>) dans le but d’élargir la portée et d’inclure des infractions commises à l’étranger et les condamnations des affiliés du fournisseur et d'exiger que les fournisseurs soumettent leurs sous-traitants aux mêmes modalités.</li>
 <li><strong>Juillet 2015</strong> : <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> met en  œuvre un nouveau régime d'intégrité pangouvernemental pour ses processus d'approvisionnement et transactions immobilières afin de s’assurer que le gouvernement du Canada entreprenne des relations d’affaires avec des fournisseurs dont le comportement est conforme à l’éthique (<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/avis-relatifs-aux-politiques?pnid=AP-107R1#parcourir-ap-precedents">ARCHIVÉE – Dispositions relatives à  l'intégrité –  AP-107R1</a>). Le régime d’intégrité constitue une approche fondée sur des politiques et s’applique à tous les ministères et organismes fédéraux par le biais de protocoles d'entente.</li>
 </ul>
-<h3>Résumé des modifications</h3>
-<h4>Les dispositions relatives à l'intégrité sont mises à jour pour :</h4>
+<h4>Résumé des modifications</h4>
+<h5>Les dispositions relatives à l'intégrité sont mises à jour pour :</h5>
 <ul>
 <li>incorporer par renvoi la <em>Politique d’inadmissibilité et de suspension</em> mise à jour dans les demandes de soumissions et les contrats subséquents; </li>
 <li>fournir des instructions précises exigeant que les soumissionnaires, les offrants ou les fournisseurs présentent une liste complète de toutes les accusations au criminel et déclarations de culpabilité à  l’étranger qui pourraient être semblables aux infractions canadiennes énoncées dans la <em>Politique d’inadmissibilité et de suspension</em> les concernant, concernant leurs affiliés et les premiers sous-traitants qu’ils proposent;</li>
@@ -32,7 +32,7 @@
 <li>qu’ils ne sont au courant d’aucune détermination d’inadmissibilité ou suspension à leur sujet.</li>
 </ul>
 </ul>
-<h3>La <em>Politique d’inadmissibilité et de suspension</em> est mise à jour pour :</h3>
+<h4>La <em>Politique d’inadmissibilité et de suspension</em> est mise à jour pour :</h4>
 <ul>
 <li>fournir des précisions concernant les types de contrats exemptés de la Politique, qui figuraient antérieurement dans les directives connexes; </li>
 <li>fournir plus de détails concernant les processus employés pour rendre une décision sur l’inadmissibilité ou la suspension;</li>
@@ -44,16 +44,16 @@
 <li>modifier les références aux responsabilités du ministre des Travaux publics et des Services gouvernementaux afin d’énoncer qu’elles correspondent aux responsabilités de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>;</li>
 <li>indiquer dans quelles circonstances les agents de négociation des contrats doivent soumettre des renseignements au registraire d’inadmissibilité et de suspension.</li>
 </ul>
-<h3>Guide des approvisionnements et Guide des clauses et conditions uniformisées d'achat</h3>
+<h4>Guide des approvisionnements et Guide des clauses et conditions uniformisées d'achat</h4>
 <p>Le Guide des approvisionnements est mis à jour afin de tenir compte de cette approche révisée. Consulter la liste des articles modifiés à la rubrique Sections du Guide des approvisionnements visées ci-dessous.</p>
 <p>L'article Dispositions relatives à l'intégrité de toutes les instructions uniformisées, instructions générales et conditions générales est intégralement mis à jour afin de tenir compte de l’approche révisée. Consulter la rubrique Items du Guide des clauses et conditions uniformisées d'achat visés ci-dessous pour obtenir la liste complète des clauses modifiées.</p>
-<h3>Modèles uniformisés d'approvisionnement</h3>
+<h4>Modèles uniformisés d'approvisionnement</h4>
 <p>Les révisions au régime d’intégrité de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> ont une incidence sur les cinq modèles uniformisés d’approvisionnement. Par conséquent, la partie 5  « Attestations et renseignements supplémentaires » des modèles, ainsi que les parties 1, 2 et 7 des modèles de demandes de soumissions pour les besoins de complexité élevée (CE), de complexité moyenne (CM) et simple, et les parties 6A et 6B du modèle <abbr title="demande d'arrangements en matière d'approvisionnement">DAMA</abbr> ont été révisées.</p>
-<h3>Ressources</h3>
+<h4>Ressources</h4>
 <p>Pour toute question concernant le régime d'intégrité et la <em>Politique d’inadmissibilité et de suspension</em>, y compris les questions concernant l’interprétation, communiquer avec la Direction générale de la surveillance au 1-844-705-2084 ou à l'adresse suivante : <a href="mailto:PWGSC.O.integrity-TPSGC.O.integrite@tpsgc-pwgsc.gc.ca" rel="external">PWGSC.O.integrity-TPSGC.O.integrite@tpsgc-pwgsc.gc.ca</a>.<br/>
   Les demandes de renseignements concernant l'application des dispositions relatives à l'intégrité, l’application de la <em>Politique d’inadmissibilité et de suspension</em> dans le processus d’approvisionnement, ainsi que les questions liées au Guide des approvisionnements peuvent être acheminées au Secteur de la politique, du risque, de l'intégrité et de la gestion stratégique (SPRIGS) à l’adresse suivante : <a href="mailto:TPSGC.DGAIntegrite-ABIntegrity.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.DGAIntegrite-ABIntegrity.PWGSC@tpsgc-pwgsc.gc.ca</a>..<br/>
   Les questions liées au Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> ou aux modèles uniformisés d'approvisionnement peuvent être acheminées à la Division des politiques et outils relatifs aux approvisionnements à l'adresse suivante : <a href="mailto:TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
+<h5 class="field-label">Sections du Guide des approvisionnements visées</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-6fd841fb1b5540d42e9a719c4e7cf573">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -101,7 +101,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
+<h5 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-ff1517d74842cfd7bc3b43a184eb2f75">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

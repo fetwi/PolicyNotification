@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-13</h2>
+<h3 class="pn-content-title">Contenu de l'AP-13</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 21 octobre 1996</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 21 octobre 1996</h4>
 <p>Compte tenu des décisions rendues par le TCCE en ce qui concerne la négociation et la remise en adjudication de marchés assujettis à l'ALENA ou à l'OMC-AMP, le Guide des approvisionnements sera révisé pour :</p>
 <ul>
 <li>incorporer des références précises à l'article 1014 de l'ALENA et à l'article XIV de l'OMC-AMP et pour regrouper les procédures de négociation touchant l'étape de l'évaluation dans le chapitre 7D;</li>
@@ -19,9 +19,9 @@
 </ul>
 <p>Les changements précis qui seront apportés à la version de décembre 1996 du Guide des approvisionnements figurent à l'appendice A. Les rubriques particulières et les chapitres pertinents sont indiqués. Les agents de négociation des contrats qui comptent négocier ou annuler un marché assujetti à l'ALENA ou à l'OMC-AMP sont invités à consulter au préalable ces instructions.</p>
 <p>Pour de plus amples renseignements, communiquer avec Heather Harrison (956-0912).</p>
-<h3>Annexe A</h3>
-<h4>CHAPITRE 5 - STRATÉGIE DE SÉLECTION DES FOURNISSEURS</h4>
-<h5>Méthodes d'invitation</h5>
+<h4>Annexe A</h4>
+<h5>CHAPITRE 5 - STRATÉGIE DE SÉLECTION DES FOURNISSEURS</h5>
+<h6>Méthodes d'invitation</h6>
 <h6>Appel d'offres</h6>
 <p>5.137 (01/07/95) Un appel d'offres devrait être lancé lorsque tous les critères suivants sont respectés :</p>
 <ol type="a">
@@ -34,8 +34,8 @@
 <p>5.138 (02/12/96) <strong>Supprimé</strong></p>
 <p>5.139 (01/07/95) De toutes les méthodes d'invitation possibles, l'appel d'offres est unique en ce sens qu'il fait l'objet d'un dépouillement public. À l'exception de ceux portant une classification de sécurité, tous les appels d'offres pour des besoins dont la valeur excède 25 000 $ devraient faire l'objet d'un dépouillement public. Si les circonstances le justifient, les appels d'offres pour des besoins d'une valeur inférieure à 25 000 $ peuvent aussi être dépouillés en public.</p>
 <p><em>On devrait envisager le dépouillement public pour toute offre lorsque l'attribution du contrat aura une incidence élevée au niveau du public.</em></p>
-<h4>SECTION 6E : PROCESSUS</h4>
-<h5>Frais de transport</h5>
+<h5>SECTION 6E : PROCESSUS</h5>
+<h6>Frais de transport</h6>
 <p>6.621 (02/12/96) Toute demande de biens évaluée à 25 000 $ et plus (TPS incluse) comportant des frais de transport supérieurs à 1 500 $ doit être soumise à la Direction de la gestion des transports pour une analyse détaillée de ces frais, sauf en ce qui concerne :</p>
 <ol type="a">
 <li>les marchés de réparation et de révision, de mise au point, de services d'ingénierie, d'études techniques et d'outillage;</li>
@@ -51,8 +51,8 @@
 <li>les marchés de service;</li>
 <li>les marchés assujettis à l'ALENA ou à l'OMC-AMP, à moins que l'on ait recours à un processus non concurrentiel en vertu de l'une des raisons figurant dans l'accord et servant à justifier l'appel d'offres limité.</li>
 </ol>
-<h4>SECTION 7D : TRAITEMENT DES SOUMISSIONS</h4>
-<h5>Évaluation des réponses</h5>
+<h5>SECTION 7D : TRAITEMENT DES SOUMISSIONS</h5>
+<h6>Évaluation des réponses</h6>
 <h6>Garantie financière</h6>
 <p>7.402 (02/12/96) Si un soumissionnaire ne soumet pas le bon type de garantie financière, l'agent de négociation des contrats devra l'aviser afin qu'il puisse soumettre à nouveau la garantie appropriée dans un délai raisonnable, <em>n'excédant pas en moyenne cinq jours ouvrables</em>.</p>
 <p>Si un soumissionnaire présente une soumission ne comprenant pas une garantie financière suffisante, c.-à-d. inférieure à la somme exacte demandée ou sans aucune garantie, sa soumission sera jugée non recevable, sauf si l'écart est minime et sans conséquence.</p>
@@ -68,13 +68,13 @@
 <p>7.440 (23/06/94) Si une seule soumission recevable est présentée à la suite d'une invitation à soumissionner en régime de concurrence et que la soumission représente une valeur juste pour l'État, on peut attribuer le contrat, selon les pouvoirs d'autorisation en régime de concurrence, au soumissionnaire ayant présenté la seule soumission recevable, sans attestation ou justification de prix additionnelle.</p>
 <p>7.441 (02/12/96) Si l'agent de négociation des contrats n'est pas convaincu que ladite soumission représente une valeur juste pour l'État, on devra obtenir une justification de prix auprès du soumissionnaire. Si cette justification ne permet pas de déterminer que le prix est juste et raisonnable, l'agent de négociation des contrats peut décider de tenir des négociations ou d'annuler l'invitation à soumissionner et de lancer une nouvelle invitation. (Voir les procédures 7.447 et 7.468.)</p>
 <p><em>La justification de prix peut être une comparaison des prix proposés aux prix courants du marché ou aux prix payés antérieurement. On doit tenir compte des raisons de toute augmentation des prix dans la justification.</em></p>
-<h5>Négociations</h5>
+<h6>Négociations</h6>
 <p>7.445 (02/12/96) Dans le cas où l'on a reçu deux soumissions recevables ou plus à la suite d'une invitation à soumissionner en régime de concurrence, et qu'aucune ne représente une juste valeur, les agents de négociation des contrats devraient examiner l'invitation pour en déterminer les causes. Par la suite, l'agent de négociation des contrats pourra décider de tenir des négociations ou d'annuler l'invitation à soumissionner et de lancer une nouvelle invitation. (Voir les procédures 7.447 et 7.468.)</p>
 <p>7.446 (02/12/96)<strong> Supprimé.</strong></p>
 <p>7.447 (02/12/96) Lorsqu'on négocie avec plus d'une entreprise, il faut s'assurer qu'elles sont toutes traitées avec justice et impartialité. Les négociations ne devraient pas dégénérer en une vente aux enchères du contrat, chacune des entreprises améliorant progressivement sa proposition à la lumière des renseignements concernant la position de ses concurrents. La position de chaque entreprise qui négocie doit demeurer confidentielle.</p>
-<h3>Manuel du Conseil du Trésor</h3>
-<h4>Marchés</h4>
-<h5>Politique 10.6.6</h5>
+<h4>Manuel du Conseil du Trésor</h4>
+<h5>Marchés</h5>
+<h6>Politique 10.6.6</h6>
 <p>7.448 (23/06/94) Toutes les négociations doivent être menées par l'agent de négociation des contrats ou, dans le cas d'un besoin de nature technique, par cet agent en collaboration avec le client. Un rapport des négociations doit être versé au dossier du marché.</p>
 <p>7.449 (02/12/96) L'agent de négociation des contrats ne peut tenir des négociations pour tous les achats assujettis à l'Accord de libre-échange nord-américain (ALENA) ou à l'Organisation mondiale du commerce - Accord sue les marchés publics (OMC-AMP) que lorsqu'une des deux conditions précisées dans l'ALENA ou dans l'OMC-AMP est remplie. Dans le cadre de ces négociations, il doit respecter les étapes mentionnées dans l'ALENA ou dans l'OMC-AMP. (S'il y a lieu, consultez l'article 1014 de l'ALENA ou l'article XIV de l'OMC-AMP; dans les cas où le marché est assujetti aux deux accords, consultez l'article 1014 de l'ALENA.)</p>
 <p>7.450 (02/12/96) Pour ce qui est des achats non assujettis à l'ALENA ou à l'OMC-AMP,</p>
@@ -88,10 +88,10 @@
 <li>lorsqu'un appel d'offres a été diffusé et que l'on a reçu plus d'une soumission recevable, mais où ni la soumission la moins-disante ni les autres soumissions ne représentent une valeur juste, l'agent de négociation des contrats doit déterminer, lorsqu'il envisage d'entreprendre des négociations, s'il ne serait pas plus efficace d'annuler l'appel d'offres et de recourir à une autre méthode d'approvisionnement. Dans les cas d'urgence, il serait peut-être possible d'utiliser les résultats de l'appel d'offres initial pour entreprendre des négociations avec les fournisseurs;</li>
 <li>lorsqu'une une demande de propositions a été diffusée, on devrait éviter d'entreprendre des négociations, sauf dans les cas où le besoin n'a pas été défini adéquatement dans la demande initiale.</li>
 </ol>
-<h4>Mise à l'écart d'un fournisseur</h4>
+<h5>Mise à l'écart d'un fournisseur</h5>
 <p>7.455 (02/12/96) Si l'on se propose d'écarter un fournisseur à qui on aurait attribué le marché, fondé sur les critères d'évaluation publiés et la méthode de sélection retenue, il faut obtenir l'approbation requise pour les marchés non concurrentiels avant de conclure le marché proposé. L'attribution du marché doit être pleinement justifiée et documentée.</p>
 <p>La présente procédure ne s'applique pas aux achats assujettis à l'ALENA, à l'OMC-AMP ou à l'Accord sur le commerce intérieur (ACI). Par exemple, le point 4 c) de l'article 1015 de l'ALENA stipule ceci : hsauf si elle décide, pour des raisons d'intérêt public, de ne pas passer le marché, l'entité adjugera au fournisseur qui aura été reconnu pleinement capable d'exécuter le marché et dont la soumission sera la soumission la plus basse ou celle qui aura été jugée la plus avantageuse selon les critères d'évaluation spécifiés dans les avis ou dans la documentation relative à l'appel d'offresi. Des clauses similaires existent dans les deux autres accords.</p>
-<h4>Annulation et réémission de documents de soumission</h4>
+<h5>Annulation et réémission de documents de soumission</h5>
 <p>7.465 (02/12/96) <strong>Supprimé.</strong></p>
 <p>7.466 (23/06/94) En cas d'annulation d'une invitation à soumissionner avant la date de clôture des soumissions, l'agent de négociation des contrats doit informer, soit par téléphone ou par télécopieur (afin que le fournisseur n'ait pas à défrayer les coûts d'une modification) : tous les fournisseurs qui ont soumissionné ou qui ont été invités à soumissionner; le Service des invitations ouvertes à soumissionner (SIOS); de même que le service de réception des soumissions. Il doit en outre donner des instructions au service de réception des soumissions sur la façon d'éliminer les réponses à l'invitation initiale.</p>
 <p>L'agent de négociation des contrats est chargé de la distribution interne des documents de soumission et des mises à jour auprès de TPSGC et des clients.</p>

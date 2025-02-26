@@ -1,18 +1,18 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-34</h2>
+<h3 class="pn-content-title">Content of PN-34</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h4>Background:</h4>
+<h5>Background:</h5>
 <p>The Chairman of the Canadian International Trade Tribunal (CITT) expressed concern that generally, suppliers were not aware of the recourse mechanisms available to unsuccessful bidders whenever they are dissatisfied with the procurement process.</p>
-<h4>Policy:</h4>
+<h5>Policy:</h5>
 <p>Although it may already be a well established practice in some areas to make unsuccessful bidders aware of their recourses to the CITT or to Federal Court in the event they are not satisfied with the handling of a particular procurement, we now wish to make it <acronym title="Public Works and Government Services Canada">PWGSC</acronym> policy to provide this information in the course of debriefings with unsuccessful bidders.</p>
 <p>Where regret letters are used to notify unsuccessful bidders, it is not considered appropriate to use such letters to advise or remind bidders of the various recourse mechanisms, unless bidders are first invited to attend a debriefing where the contracting officer will be given the opportunity to explain how the process was carried out and answer or alleviate any concerns, before a formal complaint is filed. While we want unsuccessful bidders to be aware of the recourse mechanisms available to them, we feel it is important for <acronym title="Public Works and Government Services Canada">PWGSC</acronym> to provide the necessary issue resolution/information sharing "first step" to unsuccessful bidders that might minimize the likelihood that unsuccessful bidders would immediately (prematurely) lodge a formal complaint.</p>
 <p>Release 98-3 of Supply Manual will include an amendment to SM procedure 7.698 (attached as annex A) to state that in the case of procurements subject to trade agreements, unsuccessful bidders will be advised that they have the right to file a formal complaint with the CITT; in the case of procurements not subject to trade agreements, unsuccessful bidders will be advised that they have the right to bring action in Federal Court.</p>
-<h4>Effective date:</h4>
+<h5>Effective date:</h5>
 <p>This policy is effective immediately. If you have any questions on the above, please contact Lise Rieger, 956-0863.</p>
-<h3>Annex A</h3>
-<h4>CHANGES TO THE SUPPLY MANUAL</h4>
-<h4>Debriefings</h4>
+<h4>Annex A</h4>
+<h5>CHANGES TO THE SUPPLY MANUAL</h5>
+<h5>Debriefings</h5>
 <p>7.698 (__/__/98) Debriefings should be made available to unsuccessful bidders on request, but only after contract award. A debriefing should include an outline of the reasons the bid was not successful, making reference to the evaluation criteria. In addition, unsuccessful bidders must be informed of the recourse mechanisms available to them, should they feel that despite the information provided during the debriefing, they are still dissatisfied with the handling of a particular procurement. In the case of procurements subject to trade agreements, unsuccessful bidders shall be informed that they have the right to file a complaint with the Canadian International Trade Tribunal (CITT); in the case of procurements not subject to trade agreements, unsuccessful bidders shall be informed that they have the right to bring action in Federal Court.</p>
 <p>Care must be taken to protect the confidentiality of information relating to other bids. <strong>The release of information relating to other bids by contracting personnel must comply with procedure 7.706.</strong></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">

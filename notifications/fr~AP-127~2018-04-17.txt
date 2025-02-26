@@ -1,31 +1,31 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-127</h2>
-<h3>Objet</h3>
+<h3 class="pn-content-title">Contenu de l'AP-127</h3>
+<h4>Objet</h4>
 <p>L'avis relatif aux politiques (AP) 127 vise à informer tous les agents de négociation des contrats du Programme des approvisionnements (PA) de Travaux publics et services gouvernementaux Canada (TPSGC) de l'incidence des dernières modifications apportées à la <a href="https://www.njc-cnm.gc.ca/directive/d10/fr" rel="external">Directive sur les voyages du Conseil national mixte</a> (CNM). La directive modifiée indique que l'indemnité de faux frais doit être versée au fonctionnaire, et non au voyageur. Le présent avis relatif aux politiques sert à adresser la Directive sur les voyages du <abbr title="Conseil national mixte">CNM</abbr> datée du 1er juillet 2017 en ce qui a trait à l'inadmissibilité des entrepreneurs à l'indemnité de faux frais.</p>
-<h3>Date d'entrée en vigueur</h3>
+<h4>Date d'entrée en vigueur</h4>
 <p>L'avis relatif aux politiques entre en vigueur immédiatement. Le Guide des approvisionnements et le Guide des clauses et conditions uniformisées d'achat (CCUA) ont été mis à jour afin de tenir compte de ces changements.</p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p> La politique sur les marchés du Conseil du Trésor 4.2.16 stipule que « <a href="http://www.njc-cnm.gc.ca/directive/d10/fr" rel="external">La Directive sur les voyages du Conseil national mixte</a> s'applique aux frais de déplacement supportés par les entrepreneurs lorsque les frais en question constituent un élément particulier du marché. ». Les documents d'invitation à soumissionner et contrats renvoient aux indemnités de déplacement publiées aux appendices B, C et D de la Directive sur les voyages du Conseil national mixte. La directive modifiée remplace la version archivée datée du 1er avril 2008, qui indiquait que les faux frais étaient autorisés pour les employés du gouvernement et pour les voyageurs, qui comprenaient des entrepreneurs autorisés à voyager dans le secteur public.</p>
 <p>La Directive sur les voyages de la <abbr title="Conseil national mixte">CNM</abbr> contient les définitions suivantes :</p>
 <p><strong>« Fonctionnaire : personne au service de la fonction publique.</strong></p>
 <p><strong>Voyageur : une personne qui voyage en service commandé autorisé. »</strong></p>
 <p>Veuillez consulter les <a href="https://www.njc-cnm.gc.ca/directive/d10/v238/s641/fr#s641-tc-tm_2_6" rel="external">définitions de la Directive sur les voyages du <abbr title="Conseil national mixte">CNM</abbr></a> pour de plus amples renseignements.</p>
-<h3>Aperçu</h3>
+<h4>Aperçu</h4>
 <p>La Directive sur les voyages du Conseil national mixte modifiée autorise les indemnités de faux frais pour les fonctionnaires, mais ne mentionne pas les voyageurs à cet égard. Selon la directive, un fonctionnaire qui doit se déplacer dans le cadre de son travail a droit à une indemnité servant à couvrir divers frais liés au voyage, soit l'indemnité de faux frais. L'information a été mise à jour dans le Guide des approvisionnements et le Guide des clauses et conditions uniformisées d'achat.</p>
-<h3>Politique</h3>
+<h4>Politique</h4>
 <p>Trois scénarios peuvent se poser en ce qui a trait à la modification de la Directive sur les voyages du <abbr title="Conseil national mixte">CNM</abbr> datée du 1er juillet 2017 en ce qui concerne le versement de l'indemnité de faux frais aux entrepreneurs relativement aux contrats qui sont émis dans le cadre d'un mécanisme d'approvisionnement sous la responsabilité de <abbr title="Programme des approvisionnements">PA</abbr> de <abbr title="Travaux publics et services gouvernementaux Canada">TPSGC</abbr>.</p>
 <ol>
 <li><strong>Contrats existants avec renvoi aux faux frais : </strong>Continuer de respecter les modalités du contrat. Les faux frais découlant de déplacements approuvés par le gouvernement continueront d'être payés conformément aux modalités du contrat.</li>
 <li><strong>Contrats existants sans renvoi aux faux frais : </strong>La décision d'arrêter de payer les faux frais aux entrepreneurs pour des déplacements approuvés par le gouvernement sera de nature opérationnelle, prise au cas par cas, en consultation avec les Services juridiques. Cela comprend les futures commandes subséquentes dans le cadre d'offres à commandes existantes et les futurs contrats dans le cadre d'arrangements en matière d'approvisionnement existants.</li>
 <li><strong>Nouveaux contrats :</strong> Les faux frais découlant de déplacements approuvés par le gouvernement ne seront pas payés aux entrepreneurs dans le cadre de nouveaux contrats. Les faux frais ne doivent pas être inclus dans la base de paiement en ce qui a trait aux coûts de déplacement pour les entrepreneurs qui effectuent des déplacements approuvés par le gouvernement dans le cadre de nouveaux approvisionnements, y compris des contrats, des offres à commandes et des arrangements en matière d'approvisionnement. Les clauses du Guide des clauses et conditions uniformisées d'achat (CCUA) de <abbr title="Travaux publics et services gouvernementaux Canada">TPSGC</abbr> seront révisées pour retirer le terme « faux frais » des clauses de base de paiement pour les déplacements effectués par les entrepreneurs.</li>
 </ol>
-<h3>Résumé des changements</h3>
+<h4>Résumé des changements</h4>
 <p>Dans le Guide des clauses et conditions uniformisées d'achat, les modifications apportées consistent à supprimer la mention de l'indemnité de faux frais des dispositions. Dans le Guide des approvisionnements, les modifications apportées consistent en une mise à jour des liens menant le lecteur directement sur la page de la Directive sur les voyages du Conseil national mixte et l'ajout de renvois vers les <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/deplacements-reinstallation/autorisations-speciales-voyager.html" rel="external">Autorisations spéciales de voyager</a> du Secrétariat du Conseil du Trésor.</p>
-<h3>Coordonnées des personnes-ressources</h3>
+<h4>Coordonnées des personnes-ressources</h4>
 <p>Les demandes de renseignements doivent être transmises par courriel à l'adresse suivante : <a href="mailto:tpsgc.dppapublications-appdpublications.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.dppapublications-appdpublications.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
+<h5 class="field-label">Sections du Guide des approvisionnements visées</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-186069d5e903ea131e9d53e16fdf0e8d">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -37,7 +37,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
+<h5 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-675fe8d559a08ef764d67beb83613acb">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

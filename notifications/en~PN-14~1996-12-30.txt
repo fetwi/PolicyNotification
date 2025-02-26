@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-14</h2>
+<h3 class="pn-content-title">Content of PN-14</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>On December 19, 1996, Minister Diane Marleau, with Mr. André Lafond, President of the Shipbuilding Association of Canada, announced amendments to the <acronym title="Public Works and Government Services Canada">PWGSC</acronym> policy on Ship Repair, Refit and Modernization which will promote greater competition for federal government ship repair, refit and modernization contracts.</p>
 <p>The changes to the policy come into effect immediately. They were developed jointly by the federal government and Canada's shipbuilding industry in response to a proposal from the Shipbuilding Association of Canada (SAC) to Public Works and Government Services Canada (PWGSC).</p>
@@ -10,8 +10,8 @@
 <p> The revised policy statement, which will be included in an upcoming amendment to the Supply Manual, is attached as <strong>Annex A</strong>.</p>
 <p>Clause A0240T, to be used to establish vessel transfer costs is attached as <strong>Annex B</strong>. This clause will be included in an upcoming amendment to the SACC Manual.</p>
 <p>Contact: Tom Simper, Supply Policy Directorate, 819-956-0881.</p>
-<h3>Annex A</h3>
-<h4>Shipbuilding, Repair, Refit and Modernization</h4>
+<h4>Annex A</h4>
+<h5>Shipbuilding, Repair, Refit and Modernization</h5>
 <p>5.104 (19/12/96) The <acronym title="Public Works and Government Services Canada">PWGSC</acronym> procedures for sourcing suppliers for work on Canadian government vessels derive from the government's <strong>Shipbuilding Procurement Policy</strong>. The objective of the policy is to encourage competition amongst Canadian shipyards. For all competitive shipbuilding, repair and modernization requirements as defined in the Shipbuilding Procurement Policy, subject to AIT, contracting officers must ensure that the details of the restrictions or practices are highlighted in the Notice of Proposed Procurement (NPP)/solicitation documentation.</p>
 <p>The <strong>NPP/solicitation documentation</strong> must contain the following statement:</p>
 <blockquote><p>"The sourcing strategy relating to this procurement will be limited to suppliers in the (as applicable) Area of Origin in accordance with the Shipbuilding Procurement Policy."</p>
@@ -72,11 +72,11 @@
 <li>Emergency requirements necessitate use of the nearest yard capable of performing the work.</li>
 <li>Special operational considerations of the client limit movement of the vessel beyond a specified location.</li>
 </ol>
-<h3>Annex B</h3>
-<h4>REMARKS:</h4>
+<h4>Annex B</h4>
+<h5>REMARKS:</h5>
 <p>1. Procurement Officers shall use the latest table (Eastern Canada or Western Canada) approved by the Director, Marine Directorate, to prepare the list of shipyard/shiprepair facilities, as required under 3.0 of this clause, where the Work could potentially be undertaken. Procurement Officers are to include from the table the applicable vessel transfer costs for each shipyard/shiprepair facility in the list based on the vessel's home port location and based on whether the Work is under a manned refit. Where the table does not provide a specific home port for the vessel or the name of a potential shipyard/shiprepair facility where Work could potentially be undertaken, Procurement Officers must contact the Director, Marine Directorate (Place du Portage Phase III - 6C2, Phone: 819-956-0664/ Fax: 819-956-0897) to obtain the necessary data.</p>
 <p>2. Procurement Officers are to enter the number of calendar days in section 2 (b).</p>
-<h5>A0240T VESSEL TRANSFER COSTS</h5>
+<h6>A0240T VESSEL TRANSFER COSTS</h6>
 <p>1. The evaluation price shall include the cost for transferring the vessel from its home port to the shipyard/shiprepair facility where the majority of the Work will be undertaken and the cost of transferring the vessel to its home port following completion of the Work, in accordance with the following:</p>
 <p>2. (a) The Bidder shall enter below the location of the shipyard/shiprepair facility where it proposes to undertake the Work together with the applicable vessel transfer cost from the list provided under 3.0 of this clause:</p>
 <h6>BIDDER TO ENTER:</h6>

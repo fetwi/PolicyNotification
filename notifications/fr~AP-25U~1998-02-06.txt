@@ -1,25 +1,25 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-25U</h2>
+<h3 class="pn-content-title">Contenu de l'AP-25U</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 6 février 1998</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 6 février 1998</h4>
 <p>1. À compter d'aujourd'hui, des mises à jour ont été faites dans les Instructions et conditions uniformisées DSS-MAS 9403-5 et 9403-6 du Guide des clauses et conditions uniformisées d'achat afin de mieux indiquer aux soumissionnaires qu'il leur incombe de bien acheminer leur soumission au point de réception désigné. Les soumissionnaires doivent assumer tous les risques et conséquences attribuables à une soumission mal acheminée.</p>
 <p>Ce nouvel avis est une mise à jour de l'AP-25, en date du 2 février 1998, dans laquelle les mêmes changements ont été apportés à DSS-MAS 9403.</p>
 <p>2. Veuillez prendre note également que la date d'entrée en vigueur des changements (16/06/98) a été enlevée du texte de DSS-MAS 9403.</p>
 <p>3. Ces changements NE MODIFIENT PAS les méthodes courantes utilisées par le personnel responsable des achats, mais ils permettent de souligner que les soumissionnaires doivent présenter leur soumission SEULEMENT au point de réception des soumissions désigné.</p>
 <p>4. Les modifications qui seront apportées au <em>Guide des clauses et conditions uniformisées d'achat</em> (ci-jointes à <strong>l'annexe B</strong>) seront incluses dans la modification 98-2, qui sera publiée le 15 juin 1998.</p>
-<h3>ANNEXE B</h3>
-<h4>MODIFICATIONS DANS LE GUIDE DES CCUA</h4>
+<h4>ANNEXE B</h4>
+<h5>MODIFICATIONS DANS LE GUIDE DES CCUA</h5>
 <p><strong>DSS-MAS 9403 (__/__/98) Instructions et conditions uniformisées</strong></p>
 <p><strong>A. INSTRUCTIONS (APPLICABLES AUX DEMANDES DE SOUMISSIONS)</strong></p>
-<h4>1. Présentation des soumissions</h4>
+<h5>1. Présentation des soumissions</h5>
 <ol>
 <li>
 <p>Il incombe au soumissionnaire :</p>
@@ -36,9 +36,9 @@
 <li>Bien que le Canada puisse passer un marché sans négociation, il se réserve le droit d'en négocier les dispositions avec le soumissionnaire.</li>
 <li>Les documents de soumission et les renseignements connexes peuvent être présentés en français ou en anglais.</li>
 </ol>
-<h4>2. Soumissions en retard</h4>
+<h5>2. Soumissions en retard</h5>
 <p>C'est la politique de TPSGCG de renvoyer, non décachetées, les soumissions livrées après la date et l'heure de clôture stipulées, à moins que ces dernières ne soient considérées comme des soumissions retardées selon les circonstances énoncées ci-dessous.</p>
-<h4>3. Soumissions retardées</h4>
+<h5>3. Soumissions retardées</h5>
 <ol>
 <li>
 <p>Les soumissions livrées au point de réception désigné après l'heure et la date de clôture, mais avant l'adjudication du contrat, peuvent être prises en considération, à condition que le soumissionnaire puisse prouver que le retard est dû uniquement à un délai de livraison dont la Société canadienne des postes (SCP) (ou l'équivalent national d'un pays étranger) est responsable. Les seules preuves acceptées par TPSGC pour justifier un retard dû au service de la SCP sont les suivantes :</p>
@@ -55,9 +55,9 @@
 <li>Pour les soumissions transmises par télécopieur ou par télégramme commercial, seulement la date et l'heure consignées par TPSGC au numéro de réception des soumissions figurant dans le document d'invitation à soumissionner serviront comme preuve d'une soumission retardée.</li>
 <li>TPSGC n'acceptera pas les soumissions qui sont reçues en retard en raison d'une erreur d'acheminement, du volume de trafic, de perturbations atmosphériques ou d'autres motifs.</li>
 </ol>
-<h4>4. Machines à affranchir</h4>
+<h5>4. Machines à affranchir</h5>
 <p>Le timbre de machine à affranchir, qu'il soit apposé par le fournisseur, la SCP ou le service postal d'un pays étranger, ne constitue pas une preuve que la soumission a été expédiée à temps. Il est à noter que la SCP n'appose pas habituellement de timbre à date d'oblitération sur le courrier affranchi à la machine; elle ne le fait généralement que lorsque le courrier est affranchi au moyen d'un timbre-poste.</p>
-<h4>5. Réponses transmises par télécopieur ou par télégramme commercial</h4>
+<h5>5. Réponses transmises par télécopieur ou par télégramme commercial</h5>
 <ol>
 <li>
 <p>Si vous n'êtes pas certain que votre soumission parviendra à temps à l'adresse exacte indiquée pour la réception des soumissions, vous pouvez utiliser un télécopieur ou un télégramme commercial, à moins d'avoir reçu des instructions contraires dans la demande de soumissions.</p>
@@ -89,7 +89,7 @@
 <hr/>
 <p><strong>DSS-MAS 9403-5 (__/__/98) Services professionnels et de recherche et développement</strong></p>
 <p><strong>A. INSTRUCTIONS (APPLICABLES AUX DEMANDES DE SOUMISSIONS)</strong></p>
-<h4>1. Présentation des propositions</h4>
+<h5>1. Présentation des propositions</h5>
 <ol>
 <li>La présente constitue une demande (nommée dans les présentes « demande de soumissions ») concernant la mise au point et la présentation, au ministre des Travaux publics et Services gouvernementaux, de propositions indiquant des moyens parallèles d'atteindre le plus efficacement possible certains objectifs techniques, de performance, de temps et autres en ce qui a trait aux exigences obligatoires indiquées. Le Canada envisagera d'accorder un contrat pour la mise en œuvre de la proposition la plus acceptable, en rapport avec les facteurs d'évaluation indiqués dans la présente demande de soumissions. La proposition sera en outre évaluée en fonction des conditions contractuelles indiquées dans la présente demande de soumissions.</li>
 <li>
@@ -107,9 +107,9 @@
 <li>Bien que le Canada puisse passer un marché sans négociation, il se réserve le droit d'en négocier les dispositions avec le soumissionnaire.</li>
 <li>Les documents de soumission et les renseignements connexes peuvent être présentés en français ou en anglais.</li>
 </ol>
-<h4>2. Soumissions en retard</h4>
+<h5>2. Soumissions en retard</h5>
 <p>C'est la politique du MTPSG de renvoyer, non décachetées, les soumissions livrées après la date et l'heure de clôture stipulées, à moins que ces dernières ne soient considérées comme des soumissions retardées selon les circonstances énoncées ci-dessous.</p>
-<h4>3. Soumissions retardées</h4>
+<h5>3. Soumissions retardées</h5>
 <ol>
 <li>Les soumissions livrées au point de réception désignée après l'heure et la date de clôture, mais avant l'adjudication du contrat, peuvent être prises en considération, à condition que le soumissionnaire puisse prouver que le retard est dû uniquement à un délai de livraison dont la Société canadienne des postes (SCP) (ou l'équivalent national d'un pays étranger) est responsable. Les seules preuves acceptées par le MTPSG pour justifier un retard dû au service de la SCP sont les suivantes :<br/>
 <ol type="a">
@@ -125,9 +125,9 @@
 <li>Pour les soumissions transmises par télécopieur ou par télégramme commercial, seulement la date et l'heure consignées par le MTPSG au numéro de réception des soumissions figurant dans le document d'invitation à soumissionner serviront comme preuve d'une soumission retardée.</li>
 <li>TPSGC n'acceptera pas les soumissions qui sont reçues en retard en raison d'une erreur d'acheminement, du volume de trafic, de perturbations atmosphériques ou d'autres motifs.</li>
 </ol>
-<h4>4. Machines à affranchir</h4>
+<h5>4. Machines à affranchir</h5>
 <p>Le timbre de machine à affranchir, qu'il soit apposé par le fournisseur, la SCP ou le service postal d'un pays étranger, ne constitue pas une preuve que la soumission a été expédiée à temps. Il est à noter que la SCP n'appose pas habituellement de timbre à date d'oblitération sur le courrier affranchi à la machine; elle ne le fait généralement que lorsque le courrier est affranchi au moyen d'un timbre-poste.</p>
-<h4>5. Réponses transmises par télécopieur ou par télégramme commercial</h4>
+<h5>5. Réponses transmises par télécopieur ou par télégramme commercial</h5>
 <ol>
 <li>
 <p>Si vous n'êtes pas certain que votre soumission parviendra à temps à l'adresse exacte indiquée pour la réception des soumissions, vous pouvez utiliser un télécopieur ou un télégramme commercial, à moins d'avoir reçu des instructions contraires dans la demande de soumissions.</p>
@@ -158,16 +158,16 @@
 </ol>
 <p><strong>DSS-MAS 9403-6 (__/__/98) Offres à commandes</strong></p>
 <p><strong>A. INSTRUCTIONS</strong></p>
-<h4>1. Méthode d'approvisionnement</h4>
+<h5>1. Méthode d'approvisionnement</h5>
 <p>Parmi les méthodes d'approvisionnement utilisées par le ministère des Travaux publics et Services gouvernementaux (MTPSG) pour répondre aux besoins des utilisateurs désignés, il y a celle qui consiste à demander à des proposants de soumettre une offre à commandes pour la fourniture de biens et (ou) la prestation de services à l'administration fédérale pendant une période déterminée. Le MTPSG délègue alors les pouvoirs d'achat aux utilisateurs désignés et ces derniers peuvent avoir directement accès à la source d'approvisionnement, au fur et à mesure des besoins, en passant des « commandes directes » dans lesquelles ils précisent les quantités exactes de biens ou le niveau de services qu'ils désirent recevoir du proposant à un moment particulier au cours de la période de validité de l'offre et conformément aux conditions déterminées au préalable.</p>
-<h4>2. But de l'offre à commandes</h4>
+<h5>2. But de l'offre à commandes</h5>
 <p>Cette méthode d'approvisionnement est particulièrement utile lorsqu'on a fréquemment besoin d'un bien ou d'un service offert ou non dans le commerce, qu'on peut fournir une estimation du volume total ou de la valeur des biens ou du niveau de services dont peuvent avoir besoin les différents utilisateurs désignés, mais qu'on ne peut préciser à l'avance quels seront les besoins exacts d'un utilisateur particulier à une période précise.</p>
 <p>Vu que le MTPSG, durant la période indiquée dans la Demande d'offre à commandes (DOC), prévoit un besoin de biens et (ou) de services, il invite, par la présente, le proposant à lui présenter une offre à commandes.</p>
-<h4>3. Quantité</h4>
+<h5>3. Quantité</h5>
 <p>La quantité de biens, le niveau de services et les dépenses estimatives indiqués dans la DOC ne sont que des approximations données de bonne foi. La présentation d'une offre à commandes par le proposant ne doit pas être interprétée comme une obligation de la part du Canada ou d'un utilisateur désigné de commander une partie ou l'ensemble desdits biens ou services. Le ou les utilisateurs désignés peuvent passer une ou plusieurs commandes dans le cadre de l'offre à commandes.</p>
-<h4>4. Obligation du MTPSG</h4>
+<h5>4. Obligation du MTPSG</h5>
 <p>Une demande ne contraint aucunement le MTPSG à autoriser l'utilisation d'une offre à commandes ou à payer d'éventuels coûts associés à la présentation d'offres ou à l'exécution des études nécessaires à la préparation de celles-ci, ni ne l'oblige à se procurer tout service ou produit ou à attribuer un contrat relatif à un tel service ou produit. Le MTPSG se réserve le droit de rejeter ou d'autoriser l'utilisation de toute offre en totalité ou en partie, avec ou sans négociation ou discussion supplémentaire.</p>
-<h4>5. Procédure</h4>
+<h5>5. Procédure</h5>
 <ol>
 <li>Voici la procédure habituellement suivie dans le cas d'une offre à commandes :<br/>
 <ol type="a">
@@ -177,7 +177,7 @@
 </ol>
 </li>
 </ol>
-<h4>6. Présentation des offres</h4>
+<h5>6. Présentation des offres</h5>
 <ol>
 <li>Il incombe au proposant:<br/>
 <ol type="a">
@@ -192,7 +192,7 @@
 <li>L'offre à commandes devra traiter en profondeur de chacun des points mentionnés dans la DOC. De plus, il est essentiel que tous ces éléments soient exprimés de façon claire et concise.</li>
 <li>Les documents de soumission et les renseignements connexes peuvent être présentés en français ou en anglais.</li>
 </ol>
-<h4>7. Réponses transmises par télécopieur ou par télégramme commercial</h4>
+<h5>7. Réponses transmises par télécopieur ou par télégramme commercial</h5>
 <ol>
 <li>
 <p>Si vous n'êtes pas certain que votre offre parviendra à temps à l'adresse exacte indiquée pour la réception des offres, vous pouvez utiliser un télécopieur ou un télégramme commercial, à moins d'avoir reçu des instructions contraires dans la DOC.</p>
@@ -221,9 +221,9 @@
 </li>
 <li>À moins que la présente demande de soumissions ne donne d'autres précisions, les réponses transmises par télécopieur ou par télégramme commercial doivent être confirmées par écrit, dans un délai de deux (2) jours suivant la clôture des soumissions. Tous les documents servant à confirmer une soumission doivent porter la mention « CONFIRMATION ».</li>
 </ol>
-<h4>8. Offres en retard</h4>
+<h5>8. Offres en retard</h5>
 <p>Le MTPSG a comme politique de renvoyer, non décachetées, les offres livrées après la date et l'heure de clôture stipulées dans la DOC, à moins que ces offres ne soient considérées comme des offres retardées selon les circonstances énoncées ci-dessous.</p>
-<h4>9. Offres retardées</h4>
+<h5>9. Offres retardées</h5>
 <ol>
 <li>Les offres livrées au point de réception désigné après l'heure et la date de clôture, mais avant l'émission d'une APCSOC, peuvent être prises en considération, à condition que le proposant puisse prouver que le retard est dû uniquement à un délai de livraison dont la Société canadienne des postes (SCP) (ou l'équivalent national d'un pays étranger) est responsable. Les seules preuves acceptées par le MTPSG pour justifier un retard dû au service de la SCP sont les suivantes :<br/>
 <ol type="a">
@@ -239,11 +239,11 @@
 <li>Pour les offres transmises par télécopieur ou par télégramme commercial, seulement la date et l'heure consignées par le MTPSG au numéro figurant ci-dessus serviront comme preuve d'une offre retardée.</li>
 <li>TPSGC n'acceptera pas les offres qui sont reçues en retard en raison d'une erreur d'acheminement, du volume de trafic, de perturbations atmosphériques ou d'autres motifs.</li>
 </ol>
-<h4>10. Machines à affranchir</h4>
+<h5>10. Machines à affranchir</h5>
 <p>Le timbre de machine à affranchir, qu'il soit apposé par le proposant, la SCP ou le service postal d'un pays étranger, ne constitue pas une preuve que l'offre a été expédiée à temps. Il est à noter que la SCP n'appose pas habituellement de timbre à date d'oblitération sur le courrier affranchi à la machine; elle ne le fait généralement que lorsque le courrier est affranchi au moyen d'un timbre-poste.</p>
-<h4>11. Groupes de clauses, de conditions et d'instructions uniformisées</h4>
+<h5>11. Groupes de clauses, de conditions et d'instructions uniformisées</h5>
 <p>Il peut arriver à l'occasion qu'un groupe de clauses, de conditions ou d'instructions utilisées ou citées à titre de référence dans une DOC, une offre à commandes ou une commande directe subséquente à une offre soit mis à jour. Dans un tel cas, la version utilisée dans un document déjà publié restera en vigueur dans ce document donné, à moins que la version mise à jour ne soit incorporée de la manière prescrite par les règlements.</p>
-<h4>12. Identité ou capacité civile du proposant</h4>
+<h5>12. Identité ou capacité civile du proposant</h5>
 <p>Un proposant qui exerce ses activités commerciales sous un nom autre que son nom personnel doit, avant l'attribution de l'offre à commandes, de manière à déterminer sa capacité civile fournir, à la demande de l'autorité contractante, une preuve de sa capacité civile sous laquelle il exerce ses activités commerciales. Il peut s'agir d'une copie des documents d'incorporation ou de l'enregistrement d'un nom commercial d'un propriétaire unique, d'une raison sociale (appellation commerciale), de la constitution d'une société.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

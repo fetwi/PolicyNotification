@@ -1,18 +1,18 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-142</h2>
+<h3 class="pn-content-title">Content of PN-142</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of Policy Notification (PN)-142 is to inform Acquisitions Program (AP) contracting officers of the new accessibility requirements in the Treasury Board <cite>Contracting Policy</cite>.</p>
-<h3>Effective date</h3>
+<h4>Effective date</h4>
 <p>This policy notification is effective immediately.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>On June 21, 2019, the <a href="https://laws-lois.justice.gc.ca/eng/acts/A-0.6/" rel="external"><cite>Accessible Canada Act</cite></a> (Act) received Royal Assent and came into force on July 11, 2019. The Act seeks to create a barrier-free Canada through the proactive identification, removal and prevention of accessibility barriers in seven priority areas, including the federal procurement of goods and services.</p>
 <p>The <cite>Accessible Canada Act</cite> provides the following new, legal definitions to support a barrier-free Canada: </p>
 <p><strong>Barrier</strong> means anything — including anything physical, architectural, technological or attitudinal, anything that is based on information or communications or anything that is the result of a policy or a practice — that hinders the full and equal participation in society of persons with an impairment, including a physical, mental, intellectual, cognitive, learning, communication or sensory impairment or a functional limitation. </p>
 <p><strong>Disability</strong> means any impairment, including a physical, mental, intellectual, cognitive, learning, communication or sensory impairment — or a functional limitation — whether permanent, temporary or episodic in nature, or evident or not, that, in interaction with a barrier, hinders a person's full and equal participation in society. </p>
 <p>In support of the Act and the Government's priority for accessible procurement, the Treasury Board approved and implemented changes to the Treasury Board <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=14494" rel="external"><cite>Contracting Policy</cite></a> (referred to as the Policy throughout this document) effective October 11, 2019, requiring the consideration of accessibility in public procurements. The Policy also requires departments, where appropriate, to include accessibility criteria when specifying the requirements for goods and services and ensure deliverables incorporate accessibility features. </p>
-<h3>Overview</h3>
+<h4>Overview</h4>
 <p>The Policy represents a shift in Canada's contracting policy for procurements to include accessibility as a mandatory consideration. Accessibility must now be considered as part of the Government of Canada's procurement process.</p>
 <p>The new requirements specified in the Policy are as follows:</p>
 <ol>
@@ -24,7 +24,7 @@
 </li>
 <li>In section 4.2.27, the Policy states that: consistent with trade agreements and comprehensive land claims agreements, if the department determines that it is not appropriate to include accessibility criteria as part of commodity specifications, or if it is unable to obtain goods or services that comply, the client or business owner/technical authority must ensure that clear justification is on file.</li>
 </ol>
-<h3>Acquisitions Policy requirements</h3>
+<h4>Acquisitions Policy requirements</h4>
 <p>Business Owners/Technical Authorities (TA)/Clients are responsible for considering accessibility criteria in their procurements as part of the specifications, unless accessibility is not applicable. If the TA/Client determines that it is not appropriate to include accessibility, they are responsible for providing a clear justification which must be kept on the procurement file. The justification form can be found on <a class="gov-auth-link" href="http://intranet.tpsgc-pwgsc.gc.ca/app-acq/text/ca-pc/roaa-aprt-eng.html" rel="external"><abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s Procurement Corner</a><span> (accessible only on the Government of Canada network)</span> or the <a class="gov-auth-link" href="https://www.gcpedia.gc.ca/wiki/Procurement/_Approvisionnement?setlang=en&amp;uselang=en" rel="external"><abbr title="Treasury Board Secretariat">TBS</abbr> GCPedia</a><span> (accessible only on the Government of Canada network)</span> page.</p>
 <p>The policy applies to all procurement tools, including Standing Offers (SOs) and Supply Arrangements (SAs), and the call-ups against these tools. Business Owners/Technical Authorities (TA)/Clients can work with their contracting officers to determine how best to incorporate accessibility considerations or criteria into a requirement, and whether the existing <abbr title="Standing Offers">SO</abbr>/<abbr title="Supply Arrangements">SA</abbr> will be the most appropriate tool for their procurement requirement.</p>
 <p>Contracting officers are responsible for ensuring that:</p>
@@ -33,16 +33,16 @@
 <li>the <abbr title="Technical Authorities">TA</abbr>/Client provides a justification if accessibility criteria are not appropriate or if they are unable to obtain goods or services that comply with accessibility requirements.</li>
 </ul>
 <p>Additional information on accessibility considerations is found in the <a class="gov-auth-link" href="https://www.gcpedia.gc.ca/gcwiki/images/5/57/Accessibility_in_Procurement_Guidance_-_April_2019-V1%28EN%29.pdf" rel="external">Treasury Board Secretariat Guidelines to the Contracting Policy: Ensuring Accessibility via Public Procurement</a><span> (accessible only on the Government of Canada network)</span>.</p>
-<h3>Accessible Procurement Resource Centre (APRC)</h3>
+<h4>Accessible Procurement Resource Centre (APRC)</h4>
 <p>In light of the Act, and the Policy, the Accessible Procurement Resource Centre (APRC) has been established to lead and support Acquisitions Program contracting officers and government buyers in other departments with the integration and application of accessibility criteria (commodity specific) across services and goods that are procured by the federal government. The <abbr title="Accessible Procurement Resource Centre">APRC</abbr> is housed within Public Works and Government Services Canada's (PWGSC) Acquisitions Program in the Strategic Policy Sector. Please visit YouTube for informational videos on <a href="https://www.youtube.com/watch?v=iZaUMrn-H6g" rel="external">the <cite>Accessible Canada Act</cite></a> and <a href="https://www.youtube.com/watch?v=Uyjxws7a1_Q&amp;t=5s" rel="external">meaningful consideration of accessibility in procurement</a>.</p>
 <p>Additional information on accessible procurement resources and tools developed by the <abbr title="Accessible Procurement Resource Centre">APRC</abbr> is found on <a class="gov-auth-link" href="http://intranet.tpsgc-pwgsc.gc.ca/app-acq/text/ca-pc/roaa-aprt-eng.html" rel="external"><abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s Procurement Corner</a><span> (accessible only on the Government of Canada network)</span>.</p>
-<h3>Summary of changes</h3>
+<h4>Summary of changes</h4>
 <p>In support of <abbr title="Policy Notification">PN</abbr>-142, the Supply Manual has been updated. For more details, refer to the Affected Supply Manual sections listed below.</p>
-<h3>Revisions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h3>
+<h4>Revisions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h4>
 <p>There are no changes to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> manual.</p>
-<h3>Contact information</h3>
+<h4>Contact information</h4>
 <p>Questions related to accessible procurement may be directed to <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s <abbr title="Accessible Procurement Resource Centre">APRC</abbr> at the following address: <a href="mailto:TPSGC.PACRAAccessible-APAccessiblePRC.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PACRAAccessible-APAccessiblePRC.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-62e84a48f45f695e8bd6280e3c65eecb">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

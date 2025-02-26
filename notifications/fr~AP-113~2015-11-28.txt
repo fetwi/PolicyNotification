@@ -1,18 +1,18 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-113</h2>
-<h3>Objet</h3>
+<h3 class="pn-content-title">Contenu de l'AP-113</h3>
+<h4>Objet</h4>
 <p>L'Avis relatif aux politiques 113 (AP-113) vise à informer les agents de négociation des contrats de l'augmentation temporaire des limites de la passation de marché à l'appui de la réponse du Canada à l'appui de la réinstallation des réfugiés syriens, ainsi que des modifications apportées au processus d'approvisionnement.</p>
-<h3>Date d'entrée en vigueur</h3>
+<h4>Date d'entrée en vigueur</h4>
 <p>À compter d'aujourd'hui, lorsqu'il s'agit d'effectuer des achats liés à l'appui de la réinstallation des réfugiés syriens, les limites s'appliquant à la conclusion et à la modification des marchés concernant des biens, des services ou des travaux de construction, ainsi que les limites s’appliquant à la passation de marchés en cas d’urgence, sont temporairement étendues. Les limites provisoires resteront en place jusqu’au 31 mars 2016.</p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>Le Canada prévoit réinstaller dans un délai extrêmement court 25 000 réfugiés syriens déplacés. Immigration, Réfugiés et Citoyenneté Canada (IRCC) (anciennement appelé Citoyenneté et Immigration Canada) est le ministère responsable de l’initiative, et est appuyé à cet égard par plusieurs autres ministères. <abbr title="Immigration, Réfugiés et Citoyenneté Canada">IRCC</abbr> est responsable de la coordination des réponses du Canada à la réinstallation de réfugiés à l’étranger. Des activités d’approvisionnement devront être mises en œuvre afin de fournir l’ensemble des biens, des services et des travaux de construction requis pour répondre aux besoins des réfugiés.
 </p>
 <p>Une exception au titre de la sécurité nationale (ESN) a été invoquée relativement à tous les achats liés à l'appui de la réinstallation des réfugiés syriens dans le cadre desquels Services publics et Approvisionnement Canada (SPAC) est l’autorité contractante. </p>
 <p>Les agents de négociation des contrats doivent suivre le processus d’approvisionnement décrit ci-dessous.</p>
-<h3>Politique</h3>
-<h4>Généralités</h4>
+<h4>Politique</h4>
+<h5>Généralités</h5>
 <p>L’augmentation provisoire des limites s’appliquant à la conclusion et à la modification des marchés ne concerne que les achats appuyant la réponse du Canada à l'appui de la réinstallation des réfugiés syriens; les limites existantes continueront à s’appliquer à tous les autres achats.</p>
 <p>Lorsque les achats sont liés à l'appui de la réinstallation des réfugiés syriens, les agents de négociation des contrats doivent placer dans le dossier d’achat une copie de la lettre invoquant l'<abbr title="exception au titre de la sécurité nationale">ESN</abbr> et inclure le libellé suivant à la demande de soumissions :</p>
 <ul class="no-markers">
@@ -24,12 +24,12 @@
 <p>
 Les agents de négociation des contrats doivent continuer à faire preuve de la diligence raisonnable nécessaire relativement à leurs dossiers d’achat (p. ex. l’apport de modifications à un contrat doit être autorisé par écrit par l’autorité contractante compétente).
 </p>
-<h4>Processus d’approvisionnement provisoire – Renseignements généraux</h4>
+<h5>Processus d’approvisionnement provisoire – Renseignements généraux</h5>
 <p>Toutes les demandes concernant l'appui de la réinstallation des réfugiés syriens reçues directement des clients doivent être acheminées à l’adresse suivante : <a href="mailto:TPSGC.DGAOPSyria-ABOpSyria.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.DGAOPSyria-ABOpSyria.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>On prévoit que la plupart des achats nécessaires à l’appui de cette initiative feront l’objet d’une publication sur le site Achatsetventes.gc.ca sous la forme d’une LI, suivi de la création d’une liste de fournisseurs en vue de répondre aux besoins exigeant des offres concurrentielles. La liste de fournisseurs recensera les fournisseurs qualifiés. Les délais seront fixés en fonction du caractère urgent du besoin. Les agents de négociation des contrats sont invités à envoyer un courriel à l’adresse suivante pour obtenir d’autres directives : <a href="mailto:TPSGC.DGAOPSyria-ABOpSyria.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.DGAOPSyria-ABOpSyria.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Les avis d’adjudication de marchés pour les marchés attribués à l’appui de la réponse à l'appui de la réinstallation des réfugiés syriens ne doivent pas être publiés immédiatement. La publication peut avoir lieu à une date ultérieure. Consulter l’article <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-7#_7-30">7.30.30 Usage de l'indicateur relatif à la sécurité nationale</a> du <em>Guide des approvisionnements</em> pour de plus amples renseignements.</p>
 <p>Toutes les activités d’approvisionnement liées à cette initiative doivent faire l’objet de rapports auprès du <abbr title="Conseil du Trésor">CT</abbr>.</p>
-<h4>Passation de marchés non urgente</h4>
+<h5>Passation de marchés non urgente</h5>
 <p>Les limites s’appliquant à la conclusion et à la modification des marchés sont provisoirement étendues pour les biens, les services et les travaux de construction (voir les <a href="http://www.gcpedia.gc.ca/gcwiki/images/8/87/RRS_LimitesProvisoires_Tableaux_FR.pdf" rel="external">limites provisoires appuyant la réponse du Canada à l'appui de la réinstallation des réfugiés syriens</a>).</p>
 <p>Les risques précis associés aux achats effectués en vertu de ces autorisations en réponse à l'appui de la réinstallation des réfugiés syriens seront variables. Pour les achats ne dépassant pas la limite ministérielle actuelle (p. ex. marché concurrentiel par voie électronique concernant des biens d’une valeur de 40 M$), les agents de négociation des contrats continueront à utiliser l’outil d’évaluation des risques liés aux achats afin de déterminer quel est le titulaire du pouvoir d’approbation compétent pour l’achat en question.</p>
 <p>Les achats dont le montant est compris entre les limites ministérielles actuelles et la limite ministérielle provisoire seront approuvés par le sous-ministre adjoint ou par le sous-ministre adjoint associé de la Direction générale des approvisionnements. L’approbation du Conseil du Trésor (CT) n’est pas requise pour les achats dont le montant ne dépasse pas la limite ministérielle provisoire.</p>
@@ -40,9 +40,9 @@ Les agents de négociation des contrats doivent continuer à faire preuve de la 
 <li>La modification d’un contrat non concurrentiel conclu avec un ancien fonctionnaire touchant une pension nécessite l’approbation du <abbr title="Conseil du Trésor">CT</abbr> si la valeur totale du marché (modifications comprises) est supérieure à 50 000 $.</li>
 <li>La modification d’un marché concurrentiel (que la méthode traditionnelle ou la méthode de l’invitation électronique à soumissionner ait été utilisée) conclu avec un ancien fonctionnaire nécessite l’approbation du <abbr title="Conseil du Trésor">CT</abbr> si la valeur totale du marché (modifications comprises) est supérieure à 200 000 $.</li>
 </ul>
-<h4>Passation de marchés en cas d’urgence</h4>
+<h5>Passation de marchés en cas d’urgence</h5>
 <p>Dans le cadre de la passation de marchés en cas d’urgence, la limite s’appliquant à la conclusion des marchés concernant des achats liés à l'appui de la réinstallation des réfugiés syriens est temporairement étendue : elle passe de 15 M$ à 200 M$. Le titulaire de pouvoir et le processus de passation de marchés en cas d’urgence ne changent pas; le pouvoir appartient toujours au sous-ministre adjoint et au sous-ministre adjoint associé de la Direction générale des approvisionnements.</p>
-<h4>Information supplémentaire</h4>
+<h5>Information supplémentaire</h5>
 <p>De l’information supplémentaire sera acheminée lorsqu’elle sera disponible. Toute question au sujet de cet AP peut être envoyée par courriel à l’adresse suivante : <a href="mailto:TPSGC.DGAOPSyria-ABOpSyria.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.DGAOPSyria-ABOpSyria.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

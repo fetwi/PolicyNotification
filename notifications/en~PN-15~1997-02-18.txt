@@ -1,17 +1,17 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-15</h2>
+<h3 class="pn-content-title">Content of PN-15</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Effective March 31, 1997, the Department of Public Works and Government Services will expand the types of information which can be released by contracting officers on a routine basis to include the unit prices for goods and services contained in standing offers.</p>
 <p>This change will coincide with the publication of the next amendment to the <em>Supply Manual</em>.</p>
 <p>As it is essential to inform bidders of our intention to disclose their unit prices, in the event of a resultant standing offer, clause M0090T must be incorporated in full text in all requests for standing offers (goods and services), effective March 31, 1997, and clause M0090C must be incorporated in all resultant Standing Offers. These clauses are attached (Annex A) and will be incorporated in the next amendment of the <em>Standard Acquisition Clauses and Conditions Manual</em> scheduled for 2 June 1997.</p>
 <p>A notice will be published shortly in the Open Bidding Service and in the <em>Government Business Opportunities</em> to advise bidders of this change in policy.</p>
-<h3>Annex A</h3>
+<h4>Annex A</h4>
 <p><strong>REMARKS</strong>: The following clause shall be used in all requests for standing offers for goods and services.</p>
-<h4>M0090T (__/__/97) Disclosure of Information</h4>
+<h5>M0090T (__/__/97) Disclosure of Information</h5>
 <p>In the event of a resultant standing offer, the Offeror agrees to the disclosure of its unit prices by Canada, and further agrees that it shall have no right to claim against Canada, the Minister, the Identified User, their employees, agents or servants, or any of them, in relation to such disclosure.</p>
 <p><strong>REMARKS</strong>: The following shall be used in all standing offer documents where clause M0090T was used.</p>
-<h4>M0090C (__/__/97) Disclosure of Information</h4>
+<h5>M0090C (__/__/97) Disclosure of Information</h5>
 <p>The Offeror agrees to the disclosure of its standing offer unit prices by Canada, and further agrees that it shall have no right to claim against Canada, the Minister, the Identified User, their employees, agents or servants, or any of them, in relation to such disclosure.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

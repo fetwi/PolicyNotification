@@ -1,37 +1,37 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-23</h2>
+<h3 class="pn-content-title">Contenu de l'AP-23</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 12 décembre 1997</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 12 décembre 1997</h4>
 <p>Les politiques et procédures d'émission des avis de résiliation pour des raisons de commodité ont été révisées afin de permettre aux agents de négociation des contrats d'émettre un avis initial de résiliation en fonction des instructions écrites des ministères clients, avant la réception de la modification formelle de la demande et sans être tenus d'obtenir des conseils juridiques. L'avis initial de résiliation, qui ordonne à l'entrepreneur d'arrêter tous les travaux et de n'engager aucune autre dépense, donne lieu à une résiliation ayant force obligatoire. À la suite de l'émission de l'avis initial de résiliation, un avis de confirmation de la résiliation doit être émis; celui-ci ne peut pas être émis avant que la modification officielle de la demande n'ait été reçue et qu'une opinion juridique n'ait été obtenue.</p>
 <p>Les politiques et procédures de résiliation par consentement mutuel et de résiliation pour inexécution ont aussi été révisées pour correspondre aux changements internes.</p>
 <p>Les modifications qui seront apportées au <em>Guide des approvisionnements</em> et qui sont reproduites à l'<strong>Annexe A</strong> feront l'objet du modificatif 98-2, qui devrait être publié le 15 juin 1998.</p>
 <p>Les modifications qui seront apportées au guide<em> des clauses et conditions uniformisées d'achat</em> et qui sont reproduites à l'<strong>Annexe B</strong> feront l'objet du modificatif 98-2, qui devrait être publié le 15 juin 1998.</p>
-<h3>ANNEXE A</h3>
-<h4>Chapitre 11 - Gestion des marchés</h4>
+<h4>ANNEXE A</h4>
+<h5>Chapitre 11 - Gestion des marchés</h5>
 <p>Les alinéas 11.131, 11.132, 11.140, 11.141, 11.145, 11.146, 11.148, 11.150 à 11.152, 11.154 à 11.157 et 11.195 ont été révisés pour correspondre aux nouvelles politiques de résiliation pour des raisons de commodité;</p>
 <p>Les alinéas 11.160 et 11.166 à 11.168 ont été révisés pour correspondre aux changements internes.</p>
 <p>Chapitre 6 - Élaboration de la stratégie d'achat, Section 6E : Processus.</p>
 <p>L'alinéa 6.507 (n) a été révisé pour refléter la collaboration du Contentieux en ce qui touche les nouvelles procédures de résiliation pour des raisons de commodité.</p>
-<h3>ANNEXE B</h3>
+<h4>ANNEXE B</h4>
 <p>Les clauses J0001C, J0002C, J0003C, J0004D, J0005D, J0200C, J0205C et J0500C du Guide des CCUA et/ou les observations préliminaires connexes ont été ajoutées ou modifiées pour correspondre aux changements apportés aux politiques de résiliation pour des raisons de commodité :</p>
 <p>Les clauses J1000C, J1001C, J1003C, J1004C, J1005C et J2000C du Guide des CCUA ont été révisés pour correspondre aux changements internes et pour faire en sorte que les clauses de résiliation fassent mention des services aussi bien que des fournitures.</p>
 <p>Ces changements entrent en vigueur dès maintenant.</p>
 <p>À titre d'information, vous ne trouverez ci-joint que les clauses du Guide des CCUA qui ont été révisés et les mises à jour des sections du Guide des approvisionnements qui portent sur les résiliations et les services juridiques.</p>
-<h3>ANNEXE A</h3>
-<h4>CHANGEMENTS AU GUIDE DES APPROVISIONNEMENTS</h4>
-<h4>CHAPITRE 11 - GESTION DES CONTRATS</h4>
-<h4>Résiliations</h4>
+<h4>ANNEXE A</h4>
+<h5>CHANGEMENTS AU GUIDE DES APPROVISIONNEMENTS</h5>
+<h5>CHAPITRE 11 - GESTION DES CONTRATS</h5>
+<h5>Résiliations</h5>
 <p>11.130 (23/06/94) Ces procédures ne s'appliquent pas aux marchés de la CCC ni à ceux conclus pour les États-Unis ou d'autres gouvernements étrangers.</p>
 <p><em>Pour déterminer quel type de résiliation s'applique, voir la procédure 11.131 (Résiliation pour des raisons de commodité), 11.133 (Résiliation pour inexécution) et 11.135 (Résiliation par consentement mutuel). Les clauses de résiliation se trouvent à la sous-section 5J du Guide des clauses et conditions uniformisées d'achat (CCUA).</em></p>
-<h4>Résiliation pour des raisons de commodité par l'État</h4>
+<h5>Résiliation pour des raisons de commodité par l'État</h5>
 <p>11.131 (__/__/97) L'État peut occasionnellement résilier un contrat pour des raisons de commodité. (Voir la procédure 11.146.) Cette résiliation peut se faire en raison du contingentement de fonds, de l'arrêt d'un programme gouvernemental ou pour d'autres raisons qui font que l'achat du produit ou du service n'est plus nécessaire. Les Conditions générales comprennent une section sur la « Résiliation pour des raisons de commodités » qui s'applique lorsqu'un entrepreneur reçoit un « avis de résiliation ».</p>
 <p>11.132 (__/__/97) La résiliation pour des raisons de commodité s'applique dans les cas suivants :</p>
 <ol type="a">
@@ -39,7 +39,7 @@
 <li>lorsqu'on ne peut pas prendre en considération une résiliation pour inexécution parce que l'entrepreneur n'est pas en défaut;</li>
 <li>lorsqu'une résiliation par consentement mutuel ne serait pas plus avantageuse pour l'État.</li>
 </ol>
-<h4>Résiliation pour inexécution</h4>
+<h5>Résiliation pour inexécution</h5>
 <p>11.133 (23/06/94) On résilie un contrat pour inexécution lorsque l'entrepreneur n'a pas respecté ses obligations contractuelles, notamment en raison de la non-exécution des travaux ou du non-respect de l'échéance. La section « Défaillance de l'entrepreneur » dans les Conditions générales fait état des critères qui s'appliquent à la résiliation pour inexécution. (Voir la procédure 11.180.)</p>
 <p>11.134 (23/06/94) La résiliation pour inexécution s'applique :</p>
 <ol type="a">
@@ -53,32 +53,32 @@
 <li><em>les échantillons n'ont pas été livrés à temps; ou</em></li>
 <li><em>l'État n'a pris aucune mesure à la suite de la première défaillance de l'entrepreneur.</em></li>
 </ul>
-<h4>Résiliation par consentement mutuel</h4>
+<h5>Résiliation par consentement mutuel</h5>
 <p>11.135 (23/06/94) En de rares occasions, soit lorsque le client a demandé la résiliation totale ou partielle d'un contrat, l'entrepreneur a engagé peu ou pas de frais, il renonce à présenter une demande de règlement et la question peut être réglée sans frais pour l'État, les deux parties peuvent convenir de résilier le contrat sans demande de règlement ou pénalité. (Voir la procédure 11.195.)</p>
 <p>11.136 (23/06/94) La résiliation par consentement mutuel ne s'applique pas lorsque l'État a intérêt à résilier un contrat pour inexécution ou lorsque des coûts supplémentaires sont réclamés par l'entrepreneur par suite de la réduction ou de l'annulation d'une partie ou de la totalité du contrat.</p>
-<h4>Demande de résiliation de l'entrepreneur</h4>
+<h5>Demande de résiliation de l'entrepreneur</h5>
 <p>11.137 (23/06/94) Lorsqu'un entrepreneur présente une demande de résiliation en raison de pertes prévues dans le cadre de l'exécution du marché, on doit refuser cette demande et informer l'entrepreneur qu'il doit respecter ses obligations contractuelles. L'entrepreneur peut, à la fin du marché, demander un « paiement supplémentaire » relativement aux coûts additionnels engagés ou aux pertes subies, lorsque l'État est responsable de ces coûts supplémentaires ou de ces pertes. (Voir la procédure 11.031.)</p>
 <p>Si l'entrepreneur refuse de respecter ses obligations contractuelles, le contrat doit être résilié pour inexécution.</p>
-<h4>Mesures relatives aux garanties financières</h4>
+<h5>Mesures relatives aux garanties financières</h5>
 <p>11.138 (15/09/97) Si l'exécution d'un contrat est garantie par un dépôt (obligations garanties par le gouvernement, lettres de change, lettres de crédit de soutien irrévocables), on ne peut le résilier sans consulter le Contentieux.</p>
 <p>11.139 (23/06/94) Si le marché est garanti par des cautionnements, on ne peut le résilier sans résilier le contrat établi avec la compagnie de cautionnement. Lorsqu'un entrepreneur ne peut exécuter un marché ou qu'une demande de règlement est reçue relativement au non-paiement de la main-d'œuvre ou du matériel (et qu'un cautionnement est établi), l'agent de négociation des contrats doit informer immédiatement la compagnie de cautionnement par écrit, et lui demander de corriger la situation. L'agent ne doit pas entreprendre de négociation avec l'entrepreneur ou le demandeur.</p>
-<h4>Participation du Contentieux</h4>
+<h5>Participation du Contentieux</h5>
 <p>11.140 (__/__/97) On ne fera aucun des types de résiliation suivants sans avoir obtenu une opinion juridique par écrit : résiliations pour inexécution, résiliations par consentement mutuel, confirmation de la résiliation pour des raisons de commodité.</p>
 <p>Afin d'obtenir l'opinion du Contentieux, l'agent de négociation des contrats doit présenter le dossier, accompagné d'un index chronologique dactylographié des documents relatifs à la demande de résiliation et d'une courte note faisant état du motif de la résiliation. En se fondant sur cette information, le Contentieux donnera son opinion et recommandera une méthode de résiliation appropriée.</p>
 <p>Nota : Une opinion juridique n'est pas requise dans le cas des avis initiaux de résiliation pour raisons de commodité. On ne peut émettre un avis initial de résiliation pour raisons de commodité qu'après avoir reçu les instructions écrites du client.</p>
 <p><em>Bien qu'il soit souhaitable d'obtenir une opinion juridique avant l'émission de tout avis de résiliation, afin de limiter les frais engagés par l'État, il n'est pas nécessaire d'obtenir une opinion juridique pour émettre un avis initial de résiliation pour raisons de commodité (Guide des CCUA , clauses J0200C et J0205C) et l'avis peut être émis par l'agent de négociation des contrats, conformément à la procédure prévue à l'alinéa 11.145 .</em></p>
-<h4>Participation du Conseil de règlement des différents contractuels</h4>
+<h5>Participation du Conseil de règlement des différents contractuels</h5>
 <p>11.141 (__/__/97) L'agent principal des réclamations (APR) du CRDC, doit procéder immédiatement au règlement des demandes relatives à des contrats résiliés en totalité ou en partie pour des raisons de commodité. Par conséquent, l'agent de négociation des contrats doit communiquer avec l'APR dès que l'avis initial de résiliation est émis par télégramme ou par fax (Guide des CCUA , clauses J0200C et J0205C), et il doit fournir à l'APR une copie de chaque avis initial de résiliation et chaque avis de confirmation de la résiliation. Le numéro de fax du CRDC est le 819-956-6705.</p>
-<h4>Modification de la liste des fournisseurs</h4>
+<h5>Modification de la liste des fournisseurs</h5>
 <p>11.142 (23/06/94) Les résiliations de contrats par l'État pour des raisons de commodité ne doivent pas entraîner la modification des listes des fournisseurs, mais les résiliations par consentement mutuel peuvent susciter des changements sur ces listes. La résiliation pour inexécution entraîne habituellement la radiation ou la suspension de l'entrepreneur de la liste des fournisseurs.</p>
-<h4>Offres à commandes</h4>
+<h5>Offres à commandes</h5>
 <p>11.143 (23/06/94) Les offres à commandes ne constituent pas des marchés au sens de la loi; une des parties peut donc se retirer de l'offre en informant simplement l'autre partie. Toutefois, les commandes reçues par un fournisseur avant la date du retrait officiel de l'une des parties doivent être remplies conformément aux conditions de l'offre à commandes.</p>
-<h4>Bureaux de TPSGC à l'étranger</h4>
+<h5>Bureaux de TPSGC à l'étranger</h5>
 <p>11.144 (23/06/94) Les procédures de résiliation des contrats attribués par les bureaux de TPSGC à l'étranger peuvent différer de celles établies pour les contrats attribués au Canada, et ces procédures ne servent que de cadre général.</p>
 <p><em>Par exemple, lorsqu'il doit régler un problème de cet ordre, le directeur, TPSGC Washington, peut demander conseil à l'APR et, au besoin, il consultera le Contentieux pour ce qui est des bureaux à l'étranger.</em></p>
-<h4>Fondé de pouvoir</h4>
+<h5>Fondé de pouvoir</h5>
 <p>11.145 (__/__/97) Les avis initiaux de résiliation et les avis de confirmation de la résiliation doivent être approuvés et signés par un agent de négociation des contrats qui a le pouvoir de signature requis (selon l'annexe 6.1.3.) pour la valeur totale du contrat au moment de sa résiliation.</p>
-<h4>Résiliation pour des raisons de commodité</h4>
+<h5>Résiliation pour des raisons de commodité</h5>
 <p>11.146 (__/__/97) L'agent de négociation des contrats et l'APR sont responsables des fonctions qui suivent en matière de résiliation :</p>
 <table class="basic">
 <tbody><tr>
@@ -181,30 +181,30 @@
 <p>Lorsqu'il a reçu les renseignements, l'agent de négociation des contrats les fera parvenir au client, accompagnés des recommandations.</p>
 <p>Habituellement, la première demande du client visera à annuler la totalité ou une partie d'un contrat, auquel cas, l'agent de négociation des contrats doit émettre immédiatement un avis initial de résiliation conformément à la procédure prévue à l'alinéa 11.150, si la cause de résiliation est attribuable au contingentement de fonds, à l'arrêt d'un programme gouvernemental ou à d'autres raisons qui font que l'achat du produit ou du service n'est plus nécessaire ou est rendu inutile par une innovation technologique.</p>
 <p>Un avis initial de résiliation doit être suivi d'un avis de confirmation de la résiliation.</p>
-<h4>Avis de résiliation</h4>
+<h5>Avis de résiliation</h5>
 <p>11.150 (__/__/97) Lorsque l'agent de négociation des contrats reçoit des instructions initiales écrites en vue d'une résiliation partielle ou totale par l'État d'un marché pour des raisons de commodité (voir l'alinéa 11.131), il doit immédiatement émettre un avis initial de résiliation pour raisons de commodité pour aviser l'entrepreneur « d'arrêter les travaux » (voir la clause J0200C du Guide des CCUA pour ce qui est de la résiliation totale ou la clause J0205C pour ce qui est de la résiliation partielle). À la suite de l'émission d'un avis initial de résiliation pour raisons de commodité, un avis de confirmation de la résiliation doit être émis (voir les clauses J0001C ou J0002C du Guide des CCUA). L'avis de confirmation de la résiliation ne peut pas être émis avant la réception de la modification de la demande officielle et avant qu'on ait obtenu une opinion juridique. L'agent de négociation des contrats doit également communiquer avec l'APR et lui fournir une copie de l'avis initial de résiliation.</p>
 <p><em>Pour accélérer le processus de résiliation et réduire les frais potentiels que l'État pourrait devoir engager, l'agent de négociation des contrats est autorisé à émettre un avis initial de résiliation pour raisons de commodité avant la réception de la modification officielle de la demande et cela sans avoir à obtenir une opinion juridique (voir l'alinéa 11.140).</em></p>
-<h4>Suspension des travaux - Ordre d'arrêt des travaux</h4>
+<h5>Suspension des travaux - Ordre d'arrêt des travaux</h5>
 <p>11.151 (__/__/97) Si un client désire suspendre les travaux à exécuter dans le cadre d'un marché plutôt que d'annuler le marché, il faut se reporter à la clause J0500C du Guide des CCUA, « suspension des travaux - Ordre d'arrêt des travaux ». La suspension des travaux à réaliser dans le cadre d'un marché permet au client d'examiner l'état d'avancement du contrat avant de déterminer quel type de résiliation s'applique (y compris la résiliation pour inexécution). Si un client désire rétablir un marché après l'émission d'un ordre de suspension des travaux - d'arrêt des travaux, ce dernier doit être abrogé. (Voir la clause J0501C du Guide des CCUA, Ordre d'arrêt des travaux - abrogation). Dans ce cas, il peut être nécessaire de modifier les conditions d'exécution et/ou le prix du marché. L'agent de négociation des contrats est chargé de déterminer la validité de toutes les demandes relatives aux frais supplémentaires que peut présenter l'entrepreneur. Les modifications qui visent à couvrir le paiement de ces frais doivent être autorisées par les personnes responsables d'approuver les modifications des marchés et par les signataires autorisés (voir annexe 6.1.5).</p>
-<h4>Aucune demande de règlement</h4>
+<h5>Aucune demande de règlement</h5>
 <p>11.152 (__/__/97) Lorsqu'un entrepreneur informe l'agent de négociation des contrats qu'une demande de règlement à la suite de la réception d'un avis initial de résiliation ne sera pas présentée, l'agent de négociation des contrats doit préparer, pour approbation par le Contentieux, un avis de confirmation de la résiliation qui comprend la clause J0003C du Guide des CCUA, et qui annule les crédits relatifs aux articles faisant l'objet de la résiliation (voir la clause J0003C du Guide des CCUA). L'agent fait par la suite parvenir l'avis de résiliation à l'entrepreneur en vue d'obtenir son accord. Étant donné qu'il n'y a pas de demande de règlement, l'APR n'intervient pas dans ce processus.</p>
-<h4>Décision du client</h4>
+<h5>Décision du client</h5>
 <p>11.153 (23/06/94) Il appartient au client de décider à quelle étape on doit résilier en totalité ou en partie un contrat. Les modifications officielles à la demande, corroborant la décision de résiliation, doivent être fournies le plus rapidement possible.</p>
 <p>11.154 (__/__/97) L'agent de négociation des contrats ne doit pas émettre un avis de confirmation de la résiliation pour raisons de commodité avant d'avoir reçu la modification de la demande du client.</p>
 <p>L'agent de négociation des contrats devrait s'assurer que les crédits affectés à la modification de la demande sont suffisants pour couvrir les coûts de demande de règlement et les coûts résultant de l'arrêt des travaux par l'entrepreneur. Inclus sont les frais relatifs à l'établissement de la demande de règlement, à la répartition et l'emballage, à l'entreposage sécuritaire ou aux stocks résiduels du matériel, des pièces, des outils, de l'équipement, etc., avant de les aliéner.</p>
-<h4>Avis de confirmation de la résiliation</h4>
+<h5>Avis de confirmation de la résiliation</h5>
 <p>11.155 (__/__/97) Dès qu'il reçoit la modification de la demande, l'agent de négociation des contrats doit préparer l'avis de confirmation de la résiliation totale ou partielle, à l'aide des clauses types de la sous-section 5J du Guide des CCUA, et sur l'avis du Contentieux l'envoyer au fournisseur.</p>
 <p>11.156 (__/__/97) Après l'émission de l'avis de confirmation de la résiliation totale ou partielle, l'agent de négociation des contrats doit en faire parvenir immédiatement une copie à l'APR.</p>
 <p><em>Afin d'éviter des coûts supplémentaires pour l'État et des problèmes pour l'entrepreneur, on doit émettre un avis de confirmation de la résiliation le plus rapidement possible, en complément de l'avis initial de résiliation.</em></p>
-<h4>Rajustement des crédits</h4>
+<h5>Rajustement des crédits</h5>
 <p>11.157 (__/__/97) Les crédits engagés dans le marché ne doivent pas être rajustés lorsque l'avis de confirmation de la résiliation est émis. Les crédits affectés au contrat sont rajustés uniquement après qu'une offre de règlement a été présentée à l'entrepreneur.</p>
 <p><em>Les crédits doivent être rajustés par l'APR au moment de la préparation du document de règlement et de sortie qui doit être approuvé et signé par le directeur du CRDC.</em></p>
-<h4>Rajustement du prix de la partie non exécutée du contrat</h4>
+<h5>Rajustement du prix de la partie non exécutée du contrat</h5>
 <p>11.158 (23/06/94) Lorsqu'un entrepreneur demande d'augmenter le coût ou le prix unitaire de la partie non exécutée d'un contrat, il doit faire parvenir sa demande à l'APR, qui doit l'évaluer avant de conclure une entente à cet effet avec l'entrepreneur.</p>
-<h4>Dossier de résiliation</h4>
+<h5>Dossier de résiliation</h5>
 <p>11.159 (23/06/94) Dans le cas des marchés simples et entièrement résiliés, l'agent de négociation des contrats doit transférer le dossier d'achat complet à l'APR, si une demande est faite.</p>
 <p>Dans le cas des achats complexes ou des résiliations partielles qui comportent une partie non exécutée en vigueur, l'agent de négociation des contrats doit préparer un dossier comprenant des copies du contrat, des modifications, des spécifications, des prix détaillés, des documents, de la correspondance et tout autre renseignement relatif à la résiliation, et il doit le faire parvenir à l'APR.  </p>
-<h4>Information de l'entrepreneur</h4>
+<h5>Information de l'entrepreneur</h5>
 <p>11.160 (__/__/97) Si une demande est faite, l'agent de négociation des contrats doit faire parvenir à l'entrepreneur principal trois jeux de formulaires de demande de règlement suite à une résiliation, émis par TPSGC, ainsi que le « Manuel des dispositions à prendre lors d'une résiliation de contrat ».</p>
 <p>On peut obtenir les jeux auprès de l'APR; chaque jeu de formulaires comprend ce qui suit :</p>
 <p><em>CRDC-1 - Proposition de Règlement pour les contrats à forfait</em></p>
@@ -219,10 +219,10 @@
 <p>Vous devez par la présente faire parvenir votre demande de règlement dûment remplie dans une période de deux mois à partir de la date de la présente lettre. Afin de vous aider à respecter ce délai, nous pourrons vous fournir les conseils et les explications nécessaires afin que votre entreprise puisse prendre les dispositions appropriées et que les renseignements pertinents soient inclus dans le formulaire.</p>
 <p>Veuillez noter que toutes les communications et tous les documents relatifs à votre demande doivent être adressés à (<em>nom et adresse de l'agent de négociation des contrats compétent</em>). »</p>
 <p>11.162 (23/06/94) Lorsque les formulaires de demande de résiliation ont été envoyés, on doit communiquer par téléphone avec l'entrepreneur pour s'assurer qu'il les a reçus et qu'il prend les mesures nécessaires pour présenter une demande de règlement. Si l'entrepreneur a des questions sur la présentation de la demande de règlement ou sur les procédures de règlement par suite de la résiliation du contrat, l'agent de négociation des contrats peut lui conseiller de s'adresser directement à l'APR. L'entrepreneur doit renvoyer l'original et une copie des formulaires dûment remplis et signés à l'agent de négociation des contrats. Dès réception, on enverra une copie de la demande de règlement de l'entrepreneur à l'APR, qui sera alors responsable du dossier.</p>
-<h4>Vérification des demandes de règlement</h4>
+<h5>Vérification des demandes de règlement</h5>
 <p>11.163 (03/06/96) Sur réception d'une demande de règlement, l'APR détermine s'il faut procéder à une évaluation. S'il conclut que c'est nécessaire, il établit le mandat de l'évaluation et veille à ce qu'elle soit effectuée par Conseils et vérification Canada.</p>
 <p><em>Lorsqu'une évaluation est effectuée, l'APR examine les coûts signalés par le vérificateur et rapproche la demande de règlement de l'entrepreneur, le rapport du vérificateur et le rapport de vérification des stocks (formulaire CRDC-50). Les répercussions sur les coûts de tout rajustement d'inventaire doivent être discutées avec le vérificateur et l'entrepreneur.</em></p>
-<h4>Stocks</h4>
+<h5>Stocks</h5>
 <p>11.164 (23/06/94) Si la demande de règlement découlant d'une résiliation porte sur un surplus de stocks, l'agent de négociation des contrats doit envoyer au client des copies des listes d'inventaire faisant l'objet d'une résiliation pour que le client lui donne des instructions sur la façon de disposer des stocks, c'est-à-dire :</p>
 <ol type="a">
 <li>
@@ -234,11 +234,11 @@
 <p>Le Rapport de surplus doit être signé par le directeur général ou le directeur concerné pour certifier : que les stocks sont raisonnables par rapport aux exigences touchant la partie résiliée du marché; que, de par leur nature, les biens ne peuvent être utilisés dans le cadre d'un autre marché de TPSGC; et que, par conséquent, on recommande d'en disposer. L'agent de négociation des contrats enverra au CDBC le Rapport de surplus dûment signé.</p>
 <p>En temps et lieu, l'agent de négociation des contrats recevra un certificat de dernier inventaire (CDI) du CDBC, signé par l'inspecteur ou l'évaluateur du CDBC et l'entrepreneur.</p>
 <p><em>En signant le CDI, l'entrepreneur accepte que les stocks soient éliminés et, du même coup, il accepte de les conserver et d'en être responsable au nom du CDBC pendant 90 jours, sans frais. Lorsqu'il reçoit le CDI, l'agent de négociation des contrats n'est plus responsable des stocks résiduels. Le produit de la vente des stocks résiduels est versé au nom du client, aux fonds du revenu consolidé ou aux fonds renouvelables, selon le cas.</em></p>
-<h4>Offre de règlement</h4>
+<h5>Offre de règlement</h5>
 <p>11.166 (__/__/97) Sur réception du rapport de vérification, l'APR prépare une offre de règlement dans laquelle il informe l'entrepreneur du montant du règlement qu'il recommandera au directeur du CRDC pour approbation.</p>
 <p>11.167 (__/__/97) Si l'entrepreneur accepte l'offre de règlement, l'APR remplit un formulaire Règlement et sortie (DSS-MAS 9223-1) qu'il soumet au Contentieux pour examen, au directeur du CRDC pour approbation et signature, et à l'entrepreneur pour exécution. Lorsque l'accusé de réception par écrit de l'entrepreneur est reçu, on verse l'original au dossier du CRDC et on fait parvenir une copie à l'agent de négociation des contrats, qui se charge de fermer le dossier.</p>
 <p>11.168 (__/__/97) Si l'entrepreneur refuse l'offre de règlement, l'APR lui demande de soumettre sa demande au directeur du CRDC, par écrit, afin que celle-ci soit traitée conformément aux procédures du CRDC en matière de litige (voir l'alinéa 11.201).</p>
-<h4>Résiliation pour inexécution</h4>
+<h5>Résiliation pour inexécution</h5>
 <p>11.180 (23/06/94) La décision de résilier un contrat pour inexécution ne devrait être prise qu'après avoir envisagé toutes les autres solutions possibles. Dans tous les cas, on doit obtenir l'avis du Contentieux dès le début du processus pour s'assurer que toute mesure envisagée n'est pas préjudiciable à la position juridique de l'État, et que la résiliation est exécutoire.</p>
 <p><em>Le défaut d'agir peut être préjudiciable aux intérêts de l'État.</em></p>
 <p><em>Si un marché est garanti par des cautionnements, la résiliation du contrat peut modifier le lien contractuel avec la compagnie de cautionnement.</em></p>
@@ -265,9 +265,9 @@
 <p>Sur réception d'un avis de faillite ou d'insolvabilité, suivre les procédures de règlement énoncées à l'alinéa 11.112.</p>
 </li>
 </ol>
-<h4>Résiliation</h4>
+<h5>Résiliation</h5>
 <p>11.182 (23/06/94) Les mesures visant la résiliation pour inexécution sont les mêmes que celles pour les résiliations pour raisons de commodité, qui figurent à l'alinéa 11.146.</p>
-<h4>Mesures de recouvrement des pertes ou des dommages</h4>
+<h5>Mesures de recouvrement des pertes ou des dommages</h5>
 <p>11.183 (23/06/94) Après la résiliation, l'agent de négociation des contrats détermine le montant réel des pertes ou des dommages subis par l'État ou les évalue le plus exactement possible et établit la répartition des montants à récupérer auprès de l'entrepreneur.</p>
 <p><em>L'évaluation des pertes ou dommages doit comprendre tout montant que l'État devra débourser en surplus du prix contractuel pour se procurer les biens ou les services auprès d'un autre fournisseur.</em></p>
 <p>11.184 (23/06/94) L'agent de négociation des contrats doit remettre les demandes de règlement au Contentieux dans le cas de marchés garantis par un dépôt ou lorsque l'État a une demande de règlement à l'égard d'un entrepreneur en ce qui concerne des travaux pour lesquels l'entrepreneur a une demande de règlement à l'égard de l'État.</p>
@@ -275,17 +275,17 @@
 <p>11.185 (23/06/94) Lorsqu'un entrepreneur accepte le règlement proposé, la recommandation relative à la récupération des fonds est soumise à la DSECC ou, dans le cas des marchés de la CCC, au Directeur, Administration des finances et des ressources (AFR). La DSECC ou le Directeur de l'AFR envoie une facture à l'entrepreneur en vue de recouvrer les fonds.</p>
 <p>Si le paiement n'est pas reçu dans les 60 jours suivant l'émission de la facture, la DSECC ou le Directeur, AFR, informe l'agent de négociation des contrats de prendre les mesures nécessaires auprès de l'entrepreneur. Lorsque les procédures de suivi normales ne portent pas fruit, on remet le dossier entre les mains du Contentieux.</p>
 <p>11.186 (23/06/94) Les demandes de règlement doivent demeurer dans les dossiers du ministère jusqu'à ce que le montant total ait été versé ou jusqu'à ce qu'on en autorise le retrait.</p>
-<h4>Paiement en vertu de cautionnements</h4>
+<h5>Paiement en vertu de cautionnements</h5>
 <p>11.187 (23/06/94) Lorsqu'un cautionnement est en vigueur, les paiements sont effectués comme suit :</p>
 <ol type="a">
 <li>Cautionnement d'exécution - lorsque le marché a été exécuté à la satisfaction de l'État, on peut verser à la compagnie de cautionnement tous les montants auxquels l'entrepreneur a droit en vertu du contrat.</li>
 <li>Cautionnement de paiement - la compagnie de cautionnement n'est pas remboursée pour le paiement aux créanciers à l'aide des fonds détenus par l'État jusqu'à ce que les travaux soient achevés et que la compagnie de cautionnement se soit entièrement dégagée de ses obligations en vertu du cautionnement.</li>
 </ol>
-<h4>Résiliation par consentement mutuel</h4>
+<h5>Résiliation par consentement mutuel</h5>
 <p>11.195 (__/__/97) Sur réception d'une demande de résiliation par consentement mutuel d'un client, l'agent de négociation des contrats doit demander à l'entrepreneur de confirmer qu'aucune demande de règlement n'a été présentée, et il doit porter la question devant le Contentieux conformément à l'alinéa 11.140.</p>
 <p><em>Étant donné qu'aucune demande de règlement n'est présentée, l'APR ne participe pas au processus.</em></p>
-<h3>SECTION 6E : PROCESSUS</h3>
-<h4>Contentieux</h4>
+<h4>SECTION 6E : PROCESSUS</h4>
+<h5>Contentieux</h5>
 <p>6.506 (23/06/94) Les agents de négociation des contrats doivent savoir que l'obtention d'un avis juridique par le Contentieux est assujettie au secret professionnel, et qu'un tel avis ne peut être divulgué sans que le conseiller juridique en soit informé et le recommande.</p>
 <p>6.507 (__/__/98) Des agents de négociation des contrats doivent demander l'avis du Contentieux dans les cas suivants :  </p>
 <ol type="a">
@@ -314,8 +314,8 @@
 <p>Le Contentieux doit être consulté avant que l'agent de négociation des contrats prenne quelque mesure exécutoire que ce soit relativement à ces situations obligatoires (par exemple la conclusion, la résiliation ou la modification d'un marché). Normalement, il est plus qu'approprié que la consultation ait lieu avant qu'on lance l'invitation à soumissionner.</p>
 </li>
 </ol>
-<h3>ANNEXE B</h3>
-<h4>CHANGEMENTS AU GUIDE DES CLAUSES ET CONDITIONS UNIFORMISÉES D'ACHAT</h4>
+<h4>ANNEXE B</h4>
+<h5>CHANGEMENTS AU GUIDE DES CLAUSES ET CONDITIONS UNIFORMISÉES D'ACHAT</h5>
 <p><strong>J0001C (__/__97) Résiliation pour raisons de commodité - Avis de confirmation</strong></p>
 <p><strong>Remarques :</strong> Se servir du libellé suivant pour confirmer un Avis initial de résiliation pour raisons de commodité (cf. J0200C) envoyé par télégraphe, par télécopieur ou par d'autres moyens par écrit lorsque le contrat est résilié et quand on s'attend à une demande d'indemnité.</p>
 <p>L'agent de négociation des contrats doit préparer un Avis de confirmation de résiliation pour des raisons de commodité et le soumettre à l'examen du conseiller juridique. On ne doit pas envoyer cet avis à l'entrepreneur tant que le conseiller juridique n'a pas apposé l'estampille portant la mention « examiné par le Contentieux » sur le document de résiliation et qu'il n'a pas signé à l'endroit voulu.</p>

@@ -1,25 +1,25 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-15</h2>
+<h3 class="pn-content-title">Contenu de l'AP-15</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 18 février 1997</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 18 février 1997</h4>
 <p>À compter du 31 mars 1997, le ministère des Travaux publics et Services gouvernementaux ajoutera aux types de renseignements qui sont actuellement divulgués de façon systématique par les agents d'achats, les demandes concernant les prix unitaires contenus dans les offres à commandes, de biens et de services.</p>
 <p>Ce changement coïncidera avec la date à laquelle le prochain modificatif du <em>Guide des approvisionnements</em> sera publié.</p>
 <p>Puisqu'il est essentiel d'informer les soumissionnaires de notre intention de divulguer leurs prix unitaires, advenant qu'une offre à commandes leur soit attribuée, la clause M0090T devra apparaître en entier dans toutes les demandes d'offre à commandes (biens et services) à compter du 31 mars 1997, et la clause M0090C devra figurer dans tous les documents d'offres à commandes qui en découlent. Ces clauses (Annexe A) sont annexées à cet avis, et seront incorporées au <em>Guide des clauses et conditions uniformisées d'achat</em> lors du prochain modificatif prévu pour le 2 juin prochain.</p>
 <p>Un avis sera publié au Service d'invitation ouverte à soumissionner et dans le bulletin <em>Marchés publics</em> sous peu afin d'informer les soumissionnaires du changement à la politique.</p>
-<h3>Annexe A</h3>
+<h4>Annexe A</h4>
 <p><strong>REMARQUES:</strong> La clause suivante doit être utilisée dans toutes les demandes d'offres à commandes portant sur des biens et des services.</p>
-<h4>M0090T (__/__/97) Divulgation des renseignements</h4>
+<h5>M0090T (__/__/97) Divulgation des renseignements</h5>
 <p>Le proposant accepte que ses prix soient divulgués par Canada advenant l'attribution d'une offre à commandes, et convient qu'il n'aura aucun droit de réclamation contre Canada, le Ministre, les utilisateurs désignés, leurs employés, agents ou préposés en ce qui a trait à ladite divulgation.</p>
 <p><strong>REMARQUES:</strong> La clause suivante doit être utilisée dans toutes les offres à commandes où la clause M0090T a été utilisée dans le document d'invitation.</p>
-<h4>M0090C (__/__/97) Divulgation des renseignements</h4>
+<h5>M0090C (__/__/97) Divulgation des renseignements</h5>
 <p>Le proposant accepte que ses prix soient divulgués par Canada et convient qu'il n'aura aucun droit de réclamation contre Canada, le Ministre, les utilisateurs, leurs employés, agents ou préposés en ce qui a trait à ladite divulgation.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

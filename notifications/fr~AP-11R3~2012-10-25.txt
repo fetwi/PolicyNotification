@@ -1,8 +1,8 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-11R3</h2>
-<h3>Introduction :</h3>
+<h3 class="pn-content-title">Contenu de l'AP-11R3</h3>
+<h4>Introduction :</h4>
 <p>L'avis relatif aux politiques 11R3 (AP-11R3) remplace au complet l'<abbr title="avis relatif aux politiques">AP</abbr>-11R2 publié le 29 juin 2011. Toutes les dispositions du présent <abbr title="avis relatif aux politiques">AP</abbr> sont rétroactives au 29 juin 2011. L'AP-11R3 clarifie le but et la portée de la Politique et normalise davantage les processus et les procédures relatifs à l’application d’une mesure corrective du rendement d’un fournisseur (MCRF). L’équité, l’ouverture et la transparence continueront d’être des principes fondamentaux de la Politique.</p>
 <p>L’<abbr title="avis relatif aux politiques">AP</abbr>-11R3 est émis afin de modifier la méthode d’évaluation du rendement du fournisseur dans les cas où :</p>
 <ol type="1">
@@ -26,7 +26,7 @@
 <p class="indent1">Cependant, pour les opérations ci-dessus, il doit être noté qu’aucune conséquence ne sera imposée à l’endroit des fournisseurs en raison de résiliations pour manquement et/ou de modifications conditionnelles qui sont survenues entre le 4 novembre 2010 et le 28 juin 2011 inclusivement.</p>
 <p>Autrement, les dispositions de la version antérieure applicable demeurent en vigueur.</p>
 <p>La <abbr title="Politique sur les mesures correctives du rendement des fournisseurs">PMCRF</abbr> s’applique seulement à la Direction générale des approvisionnements de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> en tant que fournisseur de services communs pour les opérations sous son autorité.</p>
-<h3>Contexte :</h3>
+<h4>Contexte :</h4>
 <p>L’application de mesures correctives à l’encontre des fournisseurs qui ne respectent pas leurs obligations contractuelles a été introduite dans la version de 1996 de la PRF. De telles mesures affectent la capacité d’un fournisseur à soumissionner sur les opportunités futures avec <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> ou à recevoir des contrats de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>. L’examen de la Politique effectué par la Direction générale des approvisionnements a soulevé le besoin de clarifier la portée, les processus, les rôles et les responsabilités dans l’évaluation et l’application possible d’une <abbr title="mesure corrective du rendement d’un fournisseur">MCRF</abbr>. L’examen a également permis de soulever le besoin de positionner le rôle de la <abbr title="Politique sur les mesures correctives du rendement des fournisseurs">PMCRF</abbr> dans le contexte global de la gestion du risque lié à l’approvisionnement.</p>
 <p>Le processus d’examen a mis en lumière les éléments suivants qui devraient être pris en considération :</p>
 <ol type="i">
@@ -56,19 +56,19 @@
 <li value="10">Le <abbr title="Système d’information sur les fournisseurs">SIF</abbr> doit maintenant être consulté à la date de clôture de la demande de soumissions et avant l’évaluation de celles-ci, de même qu’avant l’octroi du contrat ou de l’émission de certains types de modifications au contrat pour confirmer l’existence ou non de <abbr title="mesure corrective du rendement d’un fournisseur">MCRF</abbr>. D’autres vérifications sont prévues dans la Politique.</li>
 <li value="11">Le contenu des notes et l’information relatives à des <abbr title="mesure corrective du rendement d’un fournisseur">MCRF</abbr> seront supprimés du <abbr title="Système d’information sur les fournisseurs">SIF</abbr> six ans après la date d’entrée en vigueur de la <abbr title="mesure corrective du rendement d’un fournisseur">MCRF</abbr> plutôt que sept.</li>
 </ol>
-<h3>Changements apportés au <cite>Guide des approvisionnements</cite></h3>
+<h4>Changements apportés au <cite>Guide des approvisionnements</cite></h4>
 <p>Suite à cet avis relatif aux politiques, des sections du <cite>Guide des approvisionnements</cite> ont été modifiées. Pour en prendre connaissance, voir les « Sections du <cite>Guide des approvisionnements</cite> visées » ci-dessous.</p>
-<h3>Changements apportés au <cite>Guide des clauses et conditions uniformisées d’achat (CCUA)</cite></h3>
+<h4>Changements apportés au <cite>Guide des clauses et conditions uniformisées d’achat (CCUA)</cite></h4>
 <p>Aucun changement n'a été apporté aux <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr>. Pour connaître les derniers changements apportés aux <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> en ce qui a trait aux mesures correctives du rendement d'un fournisseur, consulter l'<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/avis-relatifs-aux-politiques?pnid=AP-11R2#parcourir-ap-precedents">avis relatif aux politiques 11R2</a>.</p>
-<h3>Documents <abbr title="Formulaires électroniques">FEL</abbr></h3>
+<h4>Documents <abbr title="Formulaires électroniques">FEL</abbr></h4>
 <p>Les deux documents suivants sont disponibles dans Formulaires électroniques (FEL) :</p>
 <ul>
 <li>Directive pour ajouter des notes dans le <abbr title="Système d’information sur les fournisseurs">SIF</abbr> et autorisation de procéder à une évaluation d’une <abbr title="mesure corrective du rendement d’un fournisseur">MCRF</abbr> (Formulaire 149)</li>
 <li>Évaluation d’une <abbr title="mesure corrective du rendement d’un fournisseur">MCRF</abbr> (Formulaire 149-1)</li>
 </ul>
-<h3>Pour communiquer avec nous</h3>
+<h4>Pour communiquer avec nous</h4>
 <p>Pour plus de renseignements, communiquer avec le Secteur de la politique, du risque, de l'intégrité et de la gestion stratégique (SPRIGS), par courriel à <a href="mailto:dppapublications.appdpublications@tpsgc-pwgsc.gc.ca" rel="external">dppapublications.appdpublications@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
+<h5 class="field-label">Sections du Guide des approvisionnements visées</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-ccb05ab9cba6e9ec98e9cb070aa84ac8">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

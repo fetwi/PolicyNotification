@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-28U</h2>
+<h3 class="pn-content-title">Contenu de l'AP-28U</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 8 décembre 1999</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 8 décembre 1999</h4>
 <p>La présente a pour but la mise à jour de quelques politiques et procédures du Guide des approvisionnement (GDA) qui ont trait aux ententes sur les revendications territoriales globales (ERTG) suite à l'Addendum du Secrétariat du Conseil du Trésor (SCT) à son Avis de politique des marchés 1997-8 intitulé Modifications et ajouts à la mise en œuvre des obligations contractuelles en vertu des ententes sur les revendications territoriales globales, des ententes sur les parc nationaux et des ententes de collaboration du ministère de la Défense nationale (MDN). D'autres mises à jour  éditoriales ont également été apportées.</p>
 <p>Ces modifications qui sont en vigueur immédiatement, sont les suivantes :</p>
 <p>1. L'ajout de l'Entente définitive du Tr'ondëk Hwëch'in à la liste des ERTG ratifiées énumérées à la procédure 1.047, sous Entente-cadre finale - Conseil des Indiens du Yukon;</p>
@@ -19,9 +19,9 @@
 <p>5. Un changement au numéro de téléphone du contact de la Division de la politique des approvisionnements (DPA) sous les procédures 1.047, 1.048 et 4.007.</p>
 <p>Les modifications proposées, qui sont détaillées en annexe, seront incorporées dans la prochaine édition du Guide des approvisionnements.</p>
 <p><strong>NOTA</strong>: Les modifications à la politique sur les Marchés réservés dans le cadre des Ententes sur les revendications territoriales feront l'objet d'un avis de politique séparé.</p>
-<h3>Annexe A</h3>
-<h3>CHAPITRE 1 - VUE D'ENSEMBLE</h3>
-<h4>Ententes sur les revendications territoriales globales ratifiées</h4>
+<h4>Annexe A</h4>
+<h4>CHAPITRE 1 - VUE D'ENSEMBLE</h4>
+<h5>Ententes sur les revendications territoriales globales ratifiées</h5>
 <p>1.047 (xx/xx/xx) À l'heure actuelle, treize ERTG ont été ratifiées par le Parlement (y compris 7 qui sont sous l'entente-cadre finale, Conseil des Indiens du Yukon) et sont en vigueur. Voici la liste de ces ententes, accompagnée des zones approximatives du Canada visées par les ERTG. Les obligations contractuelles du Canada en vertu de chacune de ces ententes sont énonçée dans le Politique des marchés du SCT 1997-8, en date du 10 décembre 1997 (lien) et l'Addendum de novembre 1998 (lien):</p>
 <p>Section 1 : <strong>Convention de la Baie James et du Nord québécois</strong>: Zone qui s'étend depuis les rives de la Baie James et de la Baie d'Hudson jusqu'au Labrador, soit environ 50 p. 100 de la masse territoriale du Québec, essentiellement la partie nord de la province.</p>
 <p>Section 2 : <strong>Convention définitive des Inuvialuit</strong>: Îles et partie du continent longeant la mer de Beaufort (partie nord-ouest des Territoires du Nord-Ouest, y compris la partie ouest de l'Île de Victoria, toute l'Île Banks, l'Île du Prince Patrick dans la partie nord et la partie ouest de l'Île de Melville).</p>
@@ -41,22 +41,22 @@
 <p>(5.7) Entente définitive avec la Première Nation de Tr'ondëk Hwëch'in : Partie du Territoire du Yukon (antérieurement la ville de Dawson)</p>
 <p>Section 6 : <strong>Entente de revendications territoriales des Dene et des Métis du Sahtu</strong>: Partie nord-ouest du district de Mackenzie, y compris les communautés d'Echo Bay, de Richardson, de Fort Franklin, de Fort Norman, de Norman Wells et de Fort Good Hope.</p>
 <p>Des copies des Ententes sur les revendications territoriales globales ratifiées peuvent être consultées à la Direction de la politique des approvisionnements. On peut se procurer des copies de la Convention de la Baie James et du Nord québécois auprès de l'Éditeur officiel du Québec en faisant parvenir une demande par télécopieur au 1-800-561-3479. On peut également se procurer des copies des autres Ententes sur les revendications territoriales globales ratifiées en communiquant avec le kiosque d'information du ministère des Affaires indiennes et du Nord canadien au 819-997-0380. Pour savoir si une communauté en particulier est située dans une ZRRTG, les agents de négociation des contrats doivent consulter la carte sur les Revendications territoriales globales au Canada et s'adresser à la Division de l'analyse et de la mise en application des politiques, Direction de la politique des approvisionnements, au 819-956-0863. Ils doivent également consulter le spécialiste compétent et demander conseil.</p>
-<h4>Ententes sur les de coopération parc nationaux et Ententes de collaboration avec le MDN. </h4>
+<h5>Ententes sur les de coopération parc nationaux et Ententes de collaboration avec le MDN. </h5>
 <p>1.048 (xx/xx/xx) Les autorités contractantes doivent également savoir qu'un certain nombre d'ententes sur les parcs nationaux et ententes de collaboration avec le MDN ont aussi été conclues avec certains groupes autochtones. Ces ententes qui sont contenues dans les sections 7 à 10 de l'Avis des politiques des Marchés du SCT 1997-8, en date du 10 Décembre 1997, sont les suivantes :</p>
 <p>Section 7 : Entente concernant la création d'un <strong>parc national sur l'Îles Banks</strong>;</p>
 <p>Section 8 : Entente du<strong> parc national Tuktut Nogait</strong>;</p>
 <p>Section 9 : Entente de collaboration entre la Inuvialuit Regional Corporation et le ministère de la Défense nationale sur <strong>l'exploitation et l'entretien du Système d'alerte du Nord</strong>;</p>
 <p>Section 10 : Entente de collaboration entre «l'Inuvialuit Regional Corporation» et le ministère de la Défense nationale en vue de la <strong>remise en état et du nettoyage des sites du réseau DEW</strong>dans la Région d'établissement des Inuvialuit.</p>
 <p>Lorsque le ministère client les lui fera connaître, TPSGC tiendra compte de ces ententes de coopération dans le processus d'attribution des marchés.</p>
-<h4>Renseignements complémentaires</h4>
+<h5>Renseignements complémentaires</h5>
 <p>1.049 (xx/xx/xx) Pour en savoir davantage sur les ERTG et les marchés publics, les agents de négociation des contrats peuvent consulter leur gestionnaire, demander l'avis d'un juriste ou se mettre en rapport avec le spécialiste compétent. La Direction de la politique des approvisionnements est en mesure de donner des conseils sur les politiques. On peut se mettre en rapport avec cette direction aux numéros suivants :</p>
 <p>Téléphone : 819-956-0863<br/>
 					Télécopieur : 819-956-6416</p>
-<h3>CHAPITRE 4 - ACCORDS NATIONAUX ET INTERNATIONAUX SUR LE COMMERCE</h3>
-<h4>Ententes sur les revendications territoriales globales</h4>
-<h4>Avis d'achat</h4>
+<h4>CHAPITRE 4 - ACCORDS NATIONAUX ET INTERNATIONAUX SUR LE COMMERCE</h4>
+<h5>Ententes sur les revendications territoriales globales</h5>
+<h5>Avis d'achat</h5>
 <p>4.007 (xx/xx/xx) L'avis d'achat doit être adressé aux groupes revendicateurs concernés. Pour tout achat de biens, de services ou de construction destiné pour les emplacements visés par une revendication territoriale globale, veuillez télécopier une copie de l'avis d'achat aux groupes de revendication territoriale mentionnés en vertu de l'entente pertinente:</p>
-<h4>Convention de la Baie James et du Nord québécois</h4>
+<h5>Convention de la Baie James et du Nord québécois</h5>
 <p>Société Makivik<br/>
 					650 - 32e Avenue, 6e étage<br/>
 					Lachine (Qc)<br/>
@@ -87,21 +87,21 @@
 					G0G 2T0</p>
 <p>Téléphone : 418-585-2686<br/>
 					Télécopieur : 418-585-3130</p>
-<h4>Convention définitive des Inuvialuit</h4>
+<h5>Convention définitive des Inuvialuit</h5>
 <p>Invialuit Development Corporation<br/>
 					Sac postal no 7<br/>
 					Inuvik (T.N.-O.)<br/>
 					X0E 0T0</p>
 <p>Téléphone : 867-777-2419<br/>
 					Télécopieur : 867-777-3256</p>
-<h4>Entente sur la revendication territoriale globale des Gwich'in</h4>
+<h5>Entente sur la revendication territoriale globale des Gwich'in</h5>
 <p>Conseil Tribal des Gwich'in<br/>
 					C.P. 30<br/>
 					Fort MacPherson (T.N.-O.)<br/>
 					X0E 0J0</p>
 <p>Téléphone : 867-952-2330<br/>
 					Télécopieur : 867-952-2212</p>
-<h4>Accord sur les revendications territoriales du Nunavut</h4>
+<h5>Accord sur les revendications territoriales du Nunavut</h5>
 <p>Nunavut Tunngavik Incorporated<br/>
 					C.P. 280<br/>
 					Rankin Inlet (T.N.-O)<br/>
@@ -156,49 +156,49 @@
 					X0E 0C0</p>
 <p>Téléphone : 867-983-2458<br/>
 					Télécopieur : 867-983-2701</p>
-<h4>Entente-cadre finale du Conseil des Indiens du Yukon</h4>
+<h5>Entente-cadre finale du Conseil des Indiens du Yukon</h5>
 <p>Conseil des Premières Nations du Yukon<br/>
 					22, promenade Nisutlin<br/>
 					Whitehorse (Yn)<br/>
 					Y1A 2S5</p>
 <p>Téléphone : 867-667-7631<br/>
 					Télécopieur : 867-668-6577</p>
-<h4>Entente définitive des Premières Nations de Champagne et Aishihik</h4>
+<h5>Entente définitive des Premières Nations de Champagne et Aishihik</h5>
 <p>Première Nation de Champagne et Aishihik<br/>
 					C.P. 5309<br/>
 					Haines Junction (Yn)<br/>
 					Y0B 1L0</p>
 <p>Téléphone : 867-634-2288<br/>
 					Télécopieur : 867-634-2108</p>
-<h4>Entente définitive avec la Première Nation de Little Salmon/Carmacks</h4>
+<h5>Entente définitive avec la Première Nation de Little Salmon/Carmacks</h5>
 <p>Première Nation de Little Salmon/Carmacks<br/>
 					C.P. 135<br/>
 					Carmacks (Yn)<br/>
 					Y0B 1C0</p>
 <p>Téléphone : 867-863-5576<br/>
 					Télécopieur : 867-863-5710</p>
-<h4>Entente définitive avec la Première Nation des Nacho Nyak Dun</h4>
+<h5>Entente définitive avec la Première Nation des Nacho Nyak Dun</h5>
 <p>Première Nation des Nacho Nyak Dun<br/>
 					C.P. 220<br/>
 					Mayo (Yn)<br/>
 					Y0B 1M0</p>
 <p>Téléphone : 867-996-2265<br/>
 					Télécopieur : 867-996-2107</p>
-<h4>Entente définitive avec la Première Nation de Selkirk</h4>
+<h5>Entente définitive avec la Première Nation de Selkirk</h5>
 <p>Première Nation de Selkirk<br/>
 					C.P. 40<br/>
 					Pelly Crossing (Yn)<br/>
 					Y0B 1P0</p>
 <p>Téléphone : 867-537-3331<br/>
 					Télécopieur : 867-537-3902</p>
-<h4>Entente définitive avec le Conseil de Teslin Tlingit</h4>
+<h5>Entente définitive avec le Conseil de Teslin Tlingit</h5>
 <p>Conseil de Teslin Tlingit<br/>
 					C.P. 133<br/>
 					Teslin (Yn)<br/>
 					Y0A 1B0</p>
 <p>Téléphone : 867-390-2532<br/>
 					Télécopieur : 867-390-2204</p>
-<h4>Entente définitive avec la Première Nation des Gwichin Vuntut</h4>
+<h5>Entente définitive avec la Première Nation des Gwichin Vuntut</h5>
 <p>Vuntut Gwichin<br/>
 					Livraison générale<br/>
 					C.P. 94<br/>
@@ -206,14 +206,14 @@
 					Y0B 1G0</p>
 <p>Téléphone : 867-966-3261<br/>
 					Télécopieur : 867-966-3800</p>
-<h4>Entente définitive avec Tr'ondëk Hwëch'in</h4>
+<h5>Entente définitive avec Tr'ondëk Hwëch'in</h5>
 <p>Tr'ondëk Hwëch'in<br/>
 					C.P. 599<br/>
 					Dawson City (Yn)<br/>
 					Y0B 1G0</p>
 <p>Téléphone : 867-993-5385<br/>
 					Télécopieur: 867-993-6553</p>
-<h4>Entente sur la revendication territoriale des Dénés et des Métis du Sahtu</h4>
+<h5>Entente sur la revendication territoriale des Dénés et des Métis du Sahtu</h5>
 <p>Fort Good Hope Metis Nation<br/>
 					Land Corporation, local no 54<br/>
 					Livraison générale<br/>

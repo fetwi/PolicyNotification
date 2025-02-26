@@ -1,30 +1,30 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-89</h2>
+<h3 class="pn-content-title">Contenu de l'AP-89</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 3 octobre, 2008</h3>
-<h4>Introduction</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 3 octobre, 2008</h4>
+<h5>Introduction</h5>
 <p>L'objectif de l'Avis relatif aux politiques (AP) 89 consiste à mettre à jour les instructions à l'intention des agents de négociation des contrats de Travaux publics et Services gouvernementaux Canada (TPSGC) à l'égard des marchés non concurrentiels.</p>
 <p>Le 20 septembre 2007, le Conseil du Trésor (CT) a promulgué un nouvel Avis sur la Politique des marchés 2007-04 - Marchés non concurrentiels afin d'améliorer la gestion des marchés non concurrentiels.  Cet avis souligne le besoin de rendre plus rigoureux le recours à l'exception 6.d) du Règlement sur les marchés de l'État (RME), lorsqu'une seule personne est en mesure d'exécuter le contrat. Pour tous les besoins de plus de 25 000 $, il faut répondre aux questions figurant à l'annexe A de l'Avis sur la Politique des marchés 2007-04 du CT. Les réponses doivent être jointes au document d'approbation et versées au dossier d'achat. Ces questions se trouvent à <a href="#AP-89annexb"> l'Annexe B</a> lequel comprend également un échantillon du formulaire MSWord qui peut être utilisé par les agents de négociation des contrats et leurs clients.</p>
-<h4>Politique</h4>
+<h5>Politique</h5>
 <p>Les agents de négociation des contrats continueront de s'assurer que tous les marchés non concurrentiels sont pleinement justifiés conformément aux exceptions à la règle d'appel d'offres du RME et aux dispositions des accords commerciaux du Canada restreignant les appels d'offres. Bien que le ministère client doit justifier le recours à une exception à la règle de l'appel d'offres, l'agent de négociation des contrats doit s'assurer que cette justification est bien documentée et que les raisons pour un contrat non concurrentiel sont indiquées dans le dossier d'achat. Les agents de négociation des contrats doivent également tenir compte des dispositions des ententes sur les revendications territoriales globales (ERTG) en matière de marchés. </p>
 <p>Les agents de négociation des contrats doivent noter les nouvelles instructions suivantes en ce qui concerne l'exception 6.d) du RME :</p>
 <p>Lorsqu'une seule personne est en mesure d'exécuter le contrat, l'autorité contractante doit répondre aux questions figurant à l'annexe A de l'Avis sur la Politique des marchés 2007-04 du CT pour justifier le recours à l'exception 6.d) du RME, avec la participation du ministère client. L'autorité contractante doit joindre ces réponses au document d'approbation et les verser au dossier du contrat en ce qui concerne tous les besoins de plus de 25 000 $.</p>
-<h4>Révisions au Guide des approvisionnements</h4>
+<h5>Révisions au Guide des approvisionnements</h5>
 <p>Consulter <a href="#AP-89annexa">l'Annexe A</a> du présent document pour connaître les modifications apportées au <em>Guide des approvisionnements</em>.  Ces changements seront intégrés à la prochaine version du <em>Guide des approvisionnements</em>.</p>
-<h4>Personne-ressource</h4>
+<h5>Personne-ressource</h5>
 <p><strong>S/O</strong></p>
 <div class="topPage"> <a href="#AP-89tphp" title="Retourner au haut de la page"><br/>
 			Haut de la page</a></div>
-<h4 id="AP-89annexa">Annexe A - Révisions au Guide des approvisionnements</h4>
-<h5>Chapitre 5 - Stratégie de sélection des fournisseurs</h5>
+<h5 id="AP-89annexa">Annexe A - Révisions au Guide des approvisionnements</h5>
+<h6>Chapitre 5 - Stratégie de sélection des fournisseurs</h6>
 <h6>Détermination de l'étendue de la concurrence</h6>
 <p id="AP-89ch5.001">5.001 (<span>2008-xx-xx</span>) Chaque fois que cela est possible, les entrepreneurs doivent être choisis par un processus concurrentiel. On peut s'écarter plus ou moins de ce principe selon le cadre dans lequel s'effectue l'achat.  Le type de demande concurrentielle que l'on peut utiliser dépendra également du cadre dans lequel s'effectue l'achat.</p>
 <div>
@@ -53,7 +53,7 @@
 </ol>
 <div class="topPage"><a href="#AP-89tphp" title="Retourner au haut de la page"><br/>
 			Haut de la page</a></div>
-<h5>Section 6E:  Processus</h5>
+<h6>Section 6E:  Processus</h6>
 <h6><span>Approbation de la stratégie d'achat</span></h6>
 <p>6E.647 (<span>2008-xx-xx</span>) <span>La stratégie d'achat pour tous les besoins de 50 000 $ et plus </span> doit être approuvée selon le processus de planification et d'approbation préalable des contrats (PAPC) ou celui du plan d'achat formel.</p>
 <p>Les besoins de 50 000 $ ou moins sont approuvés par la voie des procédures du secteur ou de la région. <span>Cependant, lorsque l'exception du paragraphe 6d) du Règlement sur les marchés de l'État (RME) est invoquée pour tous les achats de 25 000 $ et plus, les réponses aux sept questions qui se trouvent à l'Annexe A de l'Avis sur la Politique des marchés 2007-04 - Marchés non concurrentiels du Conseil du Trésor (CT) doivent être jointes à tous les documents d'approbation et consignées au dossier.</span></p>
@@ -95,7 +95,7 @@
 <p>6E.667 et 6E.668 :  aucun changement</p>
 <div class="topPage"><a href="#AP-89tphp" title="Retourner au haut de la page"><br/>
 			Haut de la page</a></div>
-<h5 id="AP-89annex7.7">Annexe 7.7:	Préparation d'une demande de contrat</h5>
+<h6 id="AP-89annex7.7">Annexe 7.7:	Préparation d'une demande de contrat</h6>
 <p>(<span>2008-xx-xx</span>)</p>
 <div>
 <p>En ce qui concerne les présentations au Conseil du Trésor (CT), les agents de négociation des contrats devraient se conformer aux lignes directrices du CT qui se trouvent dans leur publication intitulée «  Guide pour la préparation de présentation au CT ».  Les présentations faites au CT doivent être sous forme bilingue, côte à côte.</p>
@@ -144,15 +144,15 @@
 <p><strong>Section A à Section F :</strong> aucun changement </p>
 <div class="topPage"><a href="#AP-89tphp" title="Retourner au haut de la page"><br/>
 			Haut de la page</a></div>
-<h5>Chapitre 12 - Glossaire</h5>
+<h6>Chapitre 12 - Glossaire</h6>
 <h6> fournisseur <span>unique </span></h6>
 <div>
 <p> On envisage les situations non concurrentielles quand un seul fournisseur est en mesure de fournir le bien ou d'assurer le service (fournisseur unique), conformément aux obligations légales définies dans le Règlement sur les marchés de l'État de la Loi sur la gestion des finances publiques établissant les exceptions au processus de soumissions concurrentielles, et aux dispositions des accords commerciaux du Canada et des accords commerciaux internationaux limitant les appels d'offres. (<span>2008-xx-xx</span>) (<em>sole source</em>)</p>
 </div>
 <div class="topPage"><a href="#AP-89tphp" title="Retourner au haut de la page"><br/>
 			Haut de la page</a></div>
-<h4 id="AP-89annexb">Annexe B</h4>
-<h5><span>(Adapté de) </span> Annexe A de l'Avis sur la Politique des marchés 2007-04 du Conseil du Trésor Marchés à fournisseur exclusif  (Le marché ne peut être exécuté que par une seule personne)</h5>
+<h5 id="AP-89annexb">Annexe B</h5>
+<h6><span>(Adapté de) </span> Annexe A de l'Avis sur la Politique des marchés 2007-04 du Conseil du Trésor Marchés à fournisseur exclusif  (Le marché ne peut être exécuté que par une seule personne)</h6>
 <p><span>Répondre aux questions ci-dessous, selon le cas, afin </span> d'expliquer et de justifier le recours à l'exception 6(d) au RME dans l'attribution d'un marché de services ou de fournitures.  Il faut tenir compte de toutes les questions et confirmer, le cas échéant, qu'une question ne s'applique pas au marché examiné. <span>Quelques exemples de réponse sont fournis à titre de ligne directrice dans le modèle qui suit. </span></p>
 <p> (Remarque : Dans le cas d'un marché de services, les autorités contractantes devraient être convaincues que le marché de services en question est l'instrument pertinent, par opposition à d'autres instruments tels qu'une subvention, une contribution ou un contrat de travail, que ce soit pour un emploi d'une durée déterminée ou occasionnel ou une nomination par un ministre.)</p>
 <ol>

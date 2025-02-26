@@ -1,8 +1,8 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-51U</h2>
+<h3 class="pn-content-title">Content of PN-51U</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>PN-51U supersedes PN-51 dated 30 April 2001</h3>
+<h4>PN-51U supersedes PN-51 dated 30 April 2001</h4>
 <p>Bill S-25 amended the Defence Production Act (DPA) by adding two new parts to the Act which established a new regime for regulating access to certain controlled military and military related goods and technology ("controlled goods" - <strong>see Annex D for definition</strong>). To meet this requirement, the Controlled Goods Registration Program (CGRP), a federal government program, was established under the DPA and the Controlled Goods Regulations. It requires all "persons" in Canada examining, possessing, or transferring "controlled goods", to another person in Canada to be registered or exempted from registration. The CGRP is administered by PWGSC. The Web site address for the CGRP may be found at: <a href="http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp" rel="external">http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp</a></p>
 <p>"Controlled goods" are highlighted below and are listed in the Export Control List (in full text) posted on the Department of Foreign Affairs and International Trade Web site at: <a href="http://www.dfait-maeci.gc.ca/~eicb/export/contente.htm" rel="external">http://www.dfait-maeci.gc.ca/~eicb/export/contente.htm</a></p>
 <ul>
@@ -33,9 +33,9 @@
 <strong>Annex C</strong> - CGRP Template - Notice to all Canadian Contractors with an existing contract requiring the examination, possession or transfer of "controlled goods"<br/>
 <strong>Annex D</strong> - CGRP Definitions </p>
 <hr/>
-<h3>Annex A</h3>
-<h4>Controlled Goods Registration Program</h4>
-<h4>Questions and Answers</h4>
+<h4>Annex A</h4>
+<h5>Controlled Goods Registration Program</h5>
+<h5>Questions and Answers</h5>
 <p><strong>Q1: Where can I find information on Group 5, Item 5504?</strong></p>
 <p> A1: You may find information pertaining to Group 5, Item 5504 at the following Web site address:</p>
 <p> <a href="http://www.dfait-maeci.gc.ca/~eicb/export/contente.htm" rel="external">http://www.dfait-maeci.gc.ca/~eicb/export/contente.htm</a><br/>
@@ -98,18 +98,18 @@
 					-Temporary workers from a foreign country<br/>
 					-Visitors from a foreign country</p>
 <hr/>
-<h3>Annex B</h3>
-<h4>CGRP Clause for new bid solicitation documents / contracts:</h4>
+<h4>Annex B</h4>
+<h5>CGRP Clause for new bid solicitation documents / contracts:</h5>
 <p>The Controlled Goods Registration Program (CGRP) came into effect April 30th, 2001. The CGRP applies to this procurement. For persons/firms to be eligible to obtain "controlled goods" in the bid solicitation process, they must provide their CGRP registration number. The Canadian based contractor recognizes and accepts that only registered or exempt persons/firms may examine, possess, or transfer "controlled goods" in Canada. Details on how to register are available at: <a href="http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp" rel="external">http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp</a></p>
 <hr/>
-<h3>Annex C</h3>
-<h4>Notice to all Canadian Contractors with an existing contract requiring the examination, possession or transfer of "controlled goods"</h4>
+<h4>Annex C</h4>
+<h5>Notice to all Canadian Contractors with an existing contract requiring the examination, possession or transfer of "controlled goods"</h5>
 <p> Pursuant to the amended Defence Production Act, Chapter 31, Statutes of Canada 2000 and the Controlled Goods Regulations, the Controlled Goods Registration Program (CGRP) applies to this contract. Your firm must be registered under the CGRP. </p>
 <p> Details on how to register are available at the following Web site: <a href="http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp" rel="external">http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-e.asp</a> </p>
 <hr/>
-<h3>Annex D</h3>
-<h4>Controlled Goods Registration Program</h4>
-<h4>Definitions</h4>
+<h4>Annex D</h4>
+<h5>Controlled Goods Registration Program</h5>
+<h5>Definitions</h5>
 <p><strong>"Controlled goods"</strong> are specified in the Export Control List [ECL] (Group 2, not all; Group 5, Item 5504 only; and Group 6, all).</p>
 <p>Drawing from the ECL, in addition to hardware, which in most cases is self-evident, "technology" or "technical data", in certain cases, is also considered to be "controlled goods". In other words, "controlled goods" encompass certain technology or technical data. In order to avoid the use of various terms that have multiple meanings such as "technical specifications", "detailed technical information", "technical data packages", etc., <strong>it is important to agree to a common understanding for "controlled goods" which includes both hardware and related technical information as noted below.</strong></p>
 <p><strong>What "technology" IS considered a "controlled good":</strong></p>

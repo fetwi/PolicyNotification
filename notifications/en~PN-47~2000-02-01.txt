@@ -1,13 +1,13 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-47</h2>
+<h3 class="pn-content-title">Content of PN-47</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The policy to seek the Deputy Minister's approval for authority to firm up interim rates if the contract has been approved by Treasury Board is rescinded, effective immediately.</p>
 <p>The requirement to obtain the DM's approval is identified in the Supply Manual under Annex 6.1.5 paragraph 9 (c), Rates (or Prices-to-be-negotiated) / Interim Rates (or Prices). This policy, implemented as an internal control measure, applied whenever the original contract, with the interim rates, was approved by Treasury Board.</p>
 <p>The Supply Manual will be revised to reflect this change, as indicated in <strong>Annex A</strong>.</p>
 <p>The next release of the Supply Manual is scheduled for May 12, 2000.</p>
-<h3>Annex A</h3>
-<h4>Annex 6.1.5: Contract Amendment Approval Instructions</h4>
+<h4>Annex A</h4>
+<h5>Annex 6.1.5: Contract Amendment Approval Instructions</h5>
 <p><strong>9. Rates (or Prices-to-be-negotiated) / Interim Rates (or Prices)</strong></p>
 <p>If the basis of payment in a contract includes interim rates (or prices) and it is proposed to amend the contract to provide for firm rates (or prices) in lieu, then the amendment approval authority level will be as follows (unless otherwise instructed by the contract approval authority):</p>
 <ol type="a">

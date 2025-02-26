@@ -1,24 +1,24 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-22U</h2>
+<h3 class="pn-content-title">Contenu de l'AP-22U</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 19 août 1998</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 19 août 1998</h4>
 <p>Cette mise à jour de l'avis relatif aux politiques (AP) présente deux clauses supplémentaires relatives à la garantie de conversion à l'an 2000 (Annexe A) qui s'ajoutent aux clauses déjà incluses dans l'AP-22:</p>
 <p>1. K0043D (__/__/98) Garantie relative à l'an 2000 - biens non directement liés aux approvisionnements en matière de TI.</p>
 <p>2. K0044D (__/__/98) Garantie relative à l'an 2000 - services non directement liés aux approvisionnements en matière de TI.</p>
 <p>Les modifications qui seront apportées en conséquence au guide des<em> Clauses et conditions uniformisées d'achat</em>, et qui sont reproduites à <strong>l'annexe A</strong>, feront l'objet du modificatif 98-3 qui doit paraître le 23 novembre 1998.</p>
 <p>Les modifications qui seront apportées en conséquence au <em>Guide des approvisionnements</em>, et qui sont reproduites à <strong>l'annexe B</strong>, feront l'objet du modificatif 98-3 qui doit paraître le 23 novembre 1998.</p>
 <p>Cette mise à jour doit être lue et appliquée en sus de l'AP-22 original.</p>
-<h3>Annexe A</h3>
-<h4>CHANGEMENTS AU GUIDE DES CLAUSES ET CONDITIONS UNIFORMISÉES D'ACHAT</h4>
-<h4>BIENS PORTANT SUR LES SYSTÈMES DE TRAITEMENT ÉLECTRONIQUES</h4>
+<h4>Annexe A</h4>
+<h5>CHANGEMENTS AU GUIDE DES CLAUSES ET CONDITIONS UNIFORMISÉES D'ACHAT</h5>
+<h5>BIENS PORTANT SUR LES SYSTÈMES DE TRAITEMENT ÉLECTRONIQUES</h5>
 <p><strong>Remarques :</strong> Utiliser la clause suivante si, ou lorsque, les produits décrits dans les documents contractuels sont des biens qui peuvent contenir des systèmes de traitement électroniques non directement liés à l'achat de systèmes en matière de technologie de l'information (TI).</p>
 <p>K0043D (__/__/98) Garantie relative à l'an 2000 - biens non directement liés aux approvisionnements en matière de TI</p>
 <p>1. L'entrepreneur garantit que tous les systèmes de traitement électroniques contenus dans ce document ou faisant partie des biens fournis dans le cadre de ce contrat seront conformes aux exigences contractuelles, en ce qu'ils traiteront automatiquement et avec exactitude toutes les dates et les données connexes en effectuant notamment le calcul, la comparaison et le classement de ces données, qu'elles datent du XX<sup>e</sup> ou du XXI<sup>e </sup>siècle, et des années 1999 et 2000, et que de tels traitements des données en fonction des dates tiendront compte du calcul des années bissextiles, lorsqu'ils seront utilisés conformément à la documentation fournie par l'entrepreneur et acceptée par le Canada.</p>
@@ -40,7 +40,7 @@
 <li>à la fin de la période de six mois suivant l'acceptation du matériel, des logiciels ou des micrologiciels; le délai le plus éloigné étant retenu.</li>
 </ol>
 <hr/>
-<h4>SERVICES PORTANT SUR LES SYSTÈMES DE TRAITEMENT ÉLECTRONIQUES</h4>
+<h5>SERVICES PORTANT SUR LES SYSTÈMES DE TRAITEMENT ÉLECTRONIQUES</h5>
 <p><strong>Remarques :</strong> Utiliser la clause suivante si, ou lorsque, les produits décrits dans les documents contractuels sont des services non directement liés à l'achat de systèmes en matière de technologie de l'information (TI).</p>
 <p>K0044D (__/__/98) Garantie relative à l'an 2000 - services non directement liés aux approvisionnements en matière de TI</p>
 <p>1. L'entrepreneur garantit que tous les services fournis dans le cadre de ce contrat seront conformes aux exigences contractuelles, en ce qu'ils traiteront automatiquement et avec exactitude toutes les dates et les données connexes en effectuant notamment le calcul, la comparaison et le classement de ces données, qu'elles datent du XX<sup>e</sup> ou du XXI<sup>e </sup>siècle, et des années 1999 et 2000, et que de tels traitements des données en fonction des dates tiendront compte du calcul des années bissextiles, lorsqu'ils seront utilisés conformément à la documentation fournie par l'entrepreneur et acceptée par le Canada. À cette fin, l'entrepreneur garantit également que le traitement des données en fonction des dates n'entraînera pas, de quelque façon que ce soit, du matériel, la non-conformité des logiciels ou des micrologiciels aux exigences contractuelles, avant, pendant ou après l'an 2000. Le Canada peut, avant l'exécution des services et sans frais supplémentaires, demander à l'entrepreneur de faire une démonstration, des techniques et des processus d'essai qu'il compte utiliser pour se conformer à toutes les obligations décrites dans le présent document.</p>
@@ -59,9 +59,9 @@
 <li>le 30 juin 2000;</li>
 <li>à la fin de la période de six mois suivant l'acceptation du matériel, des logiciels ou des micrologiciels; le délai le plus éloigné étant retenu.</li>
 </ol>
-<h3>Annexe B</h3>
-<h4>CHANGEMENTS AU GUIDE DES APPROVISIONNEMENTS</h4>
-<h4>Garantie relative à l'an 2000</h4>
+<h4>Annexe B</h4>
+<h5>CHANGEMENTS AU GUIDE DES APPROVISIONNEMENTS</h5>
+<h5>Garantie relative à l'an 2000</h5>
 <p>6.332 (__/__/98) Pour ce qui est des achats de biens ou de services portant sur des travaux de traitement relatifs à la date et effectués avant, pendant ou après l'an 2000, l'agent de négociation des contrats doit reproduire, dans les invitations à soumissionner, les contrats et les offres à commandes, une ou plusieurs des clauses pertinentes suivantes, extraites du guide des CCUA :</p>
 <ol type="a">
 <li>clause K0039D pour les biens particuliers comme le matériel, les logiciels ou les micro programmes;</li>

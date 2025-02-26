@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-56</h2>
+<h3 class="pn-content-title">Content of PN-56</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>PWGSC Contracts Placed in European Currencies Requiring Conversion to the EURO.</h3>
+<h4>PWGSC Contracts Placed in European Currencies Requiring Conversion to the EURO.</h4>
 <p>The European Economic Community (EEC) is moving towards a common currency. Where <acronym title="Public Works and Government Services Canada">PWGSC</acronym> has contracts placed in those currencies, there will be a requirementto amend those contracts from the original national currency to the new EURO.</p>
 <p>The European Economic Community has established, for each participating currency, an irrevocably fixed conversion rate to be used for conversion either way between the EURO and the national currency units. These conversion rates are outlined below.</p>
 <p>The various countries involved with the conversion to the EURO have established different dates for the official End of Legal Tender for the existing national currency units. These dates are outlined below.</p>
-<h3>REQUIRED ACTION</h3>
+<h4>REQUIRED ACTION</h4>
 <p>Sectors will be responsible for amending the Public Works and Government Services Canada (PWGSC) contracts placed in the stated national currencies units prior to the date in which the respective currencies are no longer legal tender.</p>
 <p>The Sector should identify the contracts to which this notification pertains. A review of the contract terms and conditions may be required to determine if any other discussion or action is necessary.</p>
-<h3>Conversion</h3>
+<h4>Conversion</h4>
 <p>It should be noted that in all situations, to arrive at the converted EURO amounts, you <strong>divide</strong> the existing national currency amounts by the respective conversion rate (established by the European Economic Community).</p>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr align="center">
@@ -145,13 +145,13 @@
 <td>28 February 2002</td>
 </tr>
 </tbody></table>
-<h3>Rounding Rules</h3>
+<h4>Rounding Rules</h4>
 <p>The conversion of national currency units into EUROs is governed by precise legal rules so as to guarantee clarity and fairness. Each conversion rate to one EURO is expressed as six significant figures (e.g. 1 EURO = 40.3399 BEF) and these six figures should always be used when making conversions. They cannot be rounded or shortened.</p>
 <p>If, after conversion into EUROs, the number at the third decimal place is less than 5, then the EURO figure must be rounded down e.g. 34.874 EUROs becomes 34.87. If the third decimal number is five or above, then it can be rounded up e.g. 34.875 becomes 34.88 EUROs.</p>
-<h3>Invoices/Claims Received But Not Paid By  End of Legal Tender Date</h3>
+<h4>Invoices/Claims Received But Not Paid By  End of Legal Tender Date</h4>
 <p>In situations where an invoice or a claim has been received by PWGSC, on a specific contract, but due to processing times the invoice or claim has not been paid prior to the End of Legal Tender Dates, the amount payable must be converted to EUROs and payment must be made in EUROs. The conversion rates are outlined above.</p>
 <p>Payments issued, in the original national currency units, on or before the End of Legal Tender Dates will be accepted by financial institutions for a six month period after the date of issue.</p>
-<h3>Contracts with Foreign Exchange Adjustment Clauses</h3>
+<h4>Contracts with Foreign Exchange Adjustment Clauses</h4>
 <p>There may be <acronym title="Public Works and Government Services Canada">PWGSC</acronym> contracts that contain as a provision of the terms of payment, a clause to account for changes in foreign exchange over the life of the contract. In these cases, the terms of the contract should be reviewed to determine whether an amendment to the Foreign Exchange provision is required.</p>
 <p>There may be cases where European National Currencies are involved and there may be a requirement to amend the clause to reflect the conversion from the national currency units to the EURO.</p>
 <p>If this is the case, it will be necessary to establish the amount of the foreign exchange provision that is not invoiced, claimed or paid to date. This amount will need to be converted to EUROs from the national currency unit, using the procedure explained above, which will then become the basis upon which the foreign exchange clause will operate. There may be a requirement to amend the reference to the exchange rate conversion factor, to reflect the EURO, i.e. the EURO as per the Globe and Mail Newspaper, National Edition, etc.</p>

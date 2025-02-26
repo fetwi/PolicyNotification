@@ -1,29 +1,29 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-132</h2>
+<h3 class="pn-content-title">Content of PN-132</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of Policy Notification (PN) 132 is to inform Acquisitions Program (AP) on new contracting and certification requirements for the ethical procurement of apparel.</p>
-<h3>Effective date and application</h3>
+<h4>Effective date and application</h4>
 <p>This <abbr title="Policy Notification">PN</abbr> is effective immediately, and supersedes all existing ‘origin of work' requirements for the procurement of apparel goods.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>As an integral part of the government’s commitment to improve social and economic benefits through purchasing, this <abbr title="Policy Notification">PN</abbr> sets forth clear measures to ensure that apparel is acquired from suppliers who operate in an ethically and socially responsible manner. Specifically, these requirements address concerns regarding human and labour rights violations within the federal procurement supply chain. They will serve to establish a minimum level of expected ethical behaviour amongst suppliers for apparel for contracts issued by <abbr title="Acquisitions Program">AP</abbr>.</p>
 <p>Building on what many companies have already adopted to ensure the integrity and security of their supply chains, this approach draws from Canada’s commitment to uphold international standards, including the <a href="https://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:11200:0::NO::P11200_COUNTRY_ID:102582" rel="external">International Labour Organization (ILO) eight fundamental conventions</a> and the United Nations (UN) <a href="http://www.un.org/en/universal-declaration-human-rights/" rel="external">Universal Declaration of Human Rights (UDHR)</a>. </p>
 <p>Suppliers selling apparel to the government must self-certify that they and their first-tier subcontractors comply with local laws and international standards on labour and human rights. These rights include freedom from child labour, forced labour, discrimination and abuse, and access to fair wages and safe working conditions.</p>
-<h3>Requirements</h3>
+<h4>Requirements</h4>
 <p>Contracting officers shall adopt the following certification and contract requirements in all tenders for apparel items listed in <strong>Annex A</strong>, adjusting where necessary any terminology that is specific to the method of supply.</p>
-<h4>Certifications</h4>
+<h5>Certifications</h5>
 <p>The ethical procurement certification solicitation clause, <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#A3006T">A3006T</a>, requires that the bidders and their first-tier subcontractors comply with minimum human rights and labour standards as set forth in the ethical procurement certification. By submitting a bid, the bidder certifies that they comply with the certification.</p>
 <p>The origin of work solicitation clause, <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#A3007T">A3007T</a>, requires that bidders provide with their bid documents the name of the manufacturers, suppliers and subcontractors who manufactured the garment, as well as their location and country of origin. </p>
 <p>The information gathered via the origin of work clause will be published on Buyandsell.gc.ca as part of contract award information.</p>
 <p>Bidders, suppliers, and first-tier subcontractors must ensure continuous compliance with the certification and maintain the accuracy of the information provided in the origin of work clause contained in the solicitation. Contractors must inform Canada in writing of any changes to this information and note that they are subject to verification by Canada at any given time during the procurement process and the period of the contract. If the certification or origin of work information is found to be untrue Canada may terminate the contract for default.</p>
 <p>The ethical procurement contract clause, <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#A3008C">A3008C</a>, is to be incorporated into all contracts for apparel. By incorporating the ethical procurement certification submitted during the bid evaluation stage by reference into the contract, the certification will form part of the legally binding agreement between Canada and the Contractor. </p>
-<h3>Summary of revisions</h3>
+<h4>Summary of revisions</h4>
 <p>The <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual has been updated to reflect this revised approach. </p>
-<h3>Contact</h3>
+<h4>Contact</h4>
 <p>Inquiries regarding the application of the new apparel clauses may be sent to the following email: <a href="mailto:TPSGC.PAAchatseEthiques-APEthicalProcurement.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PAAchatseEthiques-APEthicalProcurement.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions regarding the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual or the standard procurement templates may be sent to the following email: <a href="mailto:TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
-<h3>Annex A: List of apparel</h3>
+<h4>Annex A: List of apparel</h4>
 <p>Policy Notification 132 applies to the procurement of apparel items with the following <abbr title="Goods and Services Identification Number">GSIN</abbr> codes listed in the table below.</p>
 <table>
 <tbody><tr>
@@ -113,7 +113,7 @@
 </tr>
 </tbody></table> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
+<h5 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-cd9b65cd079f51b047dd5f03111c7a1b">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

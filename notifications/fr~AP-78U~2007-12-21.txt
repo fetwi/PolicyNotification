@@ -1,18 +1,18 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-78U</h2>
+<h3 class="pn-content-title">Contenu de l'AP-78U</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
 <!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><p><strong>DATE : Le 21 décembre 2007</strong></p>
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>Le projet de loi C-28, intitulé « Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 mars 2007 et de certaines dispositions de l'énoncé économique déposé au Parlement le 30 octobre 2007 » et qui comprend une réduction du taux de la taxe sur les produits et services (TPS) et de la composante fédérale de la taxe de vente harmonisée (TVH), a reçu la sanction royale le 14 décembre 2007. Par conséquent, le 1er janvier 2008, le taux de la TPS passera de 6 % à 5 % et celui de la TVH, de 14 % à 13 %.</p>
-<h3>Procédures</h3>
+<h4>Procédures</h4>
 <p>En règle générale, les nouveaux taux de TPS/TVH s'appliquent à l'achat de biens et de services taxables de la manière suivante :</p>
 <ul>
 <li>Si la TPS/TVH devient exigible le 1er janvier 2008 ou après cette date, ou est payée sans être devenue exigible avant cette date, le taux de 5 % ou de 13 % selon le cas s'applique.</li>
@@ -20,18 +20,18 @@
 </ul>
 <p>En règle générale, la TPS/TVH devient exigible soit à la date de la facture soit à la date du paiement en vertu du contrat, selon celle de ces dates qui survient la première.</p>
 <p>Autres considérations applicables à l'achat de biens et de services taxables :</p>
-<h4>1. Contrats existants</h4>
+<h5>1. Contrats existants</h5>
 <p>Les montants payés ou exigibles avant le 1er janvier 2008 aux termes d'un contrat existant comprendront la TPS au taux de 6 % ou la TVH au taux de 14 %. Les montants payés ou exigibles aux termes de ce contrat le 1er janvier 2008 ou après cette date comprendront la TPS au taux réduit de 5 % ou la TVH au taux réduit de 13 %.</p>
 <p>Étant donné que la réduction du taux de la TPS/TVH a été prescrite par la loi, tous les changements liés à cette modification fiscale seront non négociables. Par conséquent, les agents de négociation des contrats ne sont pas tenus de modifier leurs contrats existants pour tenir compte de ladite modification. Ils pourront plutôt informer les entrepreneurs concernés de la réduction du taux de la TPS/TVH de façon verbale ou au moyen d'une lettre normalisée ou d'un courriel.</p>
-<h4>2. Retenues de garantie</h4>
+<h5>2. Retenues de garantie</h5>
 <p>Les règles qui déterminent normalement le moment où la TPS/TVH est exigible continueront de s'appliquer pour déterminer le taux de taxe approprié.</p>
 <p>Dans le cas des contrats comportant des retenues de garantie, la TPS/TVH est normalement payée sur le montant total réclamé avant toute retenue. On ne paie pas de TPS/TVH lorsque la retenue de garantie est lévée. Le taux de la TPS/TVH exigible sera le taux en vigueur à la date à laquelle le montant réclamé est payé ou à la date à laquelle il vient à échéance, selon celle de ces dates qui survient la première.</p>
 <p>On fait exception pour une retenue prescrite par la loi ou prévue dans un contrat pour la construction, la rénovation ou la réparation d'un immeuble ou d'un navire. Dans ces cas, la TPS/TVH calculée sur la retenue devient exigible à la date du versement de la retenue ou, si elle est antérieure, à la date à laquelle expire la période de retenue. Par conséquent, si les deux événements surviennent le 1er janvier 2008 ou après cette date, la TPS/TVH s'applique au taux réduit de 5 % ou de 13 % à la retenue.</p>
-<h4>3. Fonds</h4>
+<h5>3. Fonds</h5>
 <p>Les fonds que les clients ont affectés au code financier de la TPS/TVH qui deviennent non grevés en raison de la réduction de taux ne peuvent pas servir à acquérir d'autres biens ou services dans le cadre d'un contrat ou d'une modification de contrat.</p>
-<h4>4. Approbations</h4>
+<h5>4. Approbations</h5>
 <p>Aux fins de regroupement des modifications contractuelles, les montants approuvés devraient rester non rajustés.</p>
-<h3>Personne-ressource</h3>
+<h4>Personne-ressource</h4>
 <p>Les fournisseurs qui ont des questions techniques sur la TPS/TVH sont invités à visiter le site Web de l'Agence du revenu du Canada, ou à appeler au 1-800-959-8287.</p>
 <p>Les agents de négociation des contrats de TPSGC peuvent adresser leurs demandes de renseignements à Veronica Nazareth, Direction de la politique et du processus d'approvisionnement, par téléphone au 819-956-5024, ou par courriel à l'adresse <a href="mailto:veronica.nazareth@tpsgc-pwgsc.gc.ca" rel="external">veronica.nazareth@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">

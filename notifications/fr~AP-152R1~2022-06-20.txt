@@ -1,27 +1,27 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-152R1</h2>
-<h3 id="AP-152R1a1">But</h3>
+<h3 class="pn-content-title">Contenu de l'AP-152R1</h3>
+<h4 id="AP-152R1a1">But</h4>
 <p>L’avis relatif aux politiques (AP)-152R1 a pour but d’informer les autorités contractantes du gouvernement du Canada de la suspension de la Politique de vaccination contre la COVID-19 relative au personnel des fournisseurs (la politique) de Travaux publics et Services gouvernementaux Canada (TPSGC).</p>
 <p>Cet <abbr title="Avis relatif aux politiques">AP</abbr> remplace l’<abbr title="Avis relatif aux politiques">AP</abbr>-152U3 dans son intégralité.</p>
-<h3 id="AP-152R1a2">Date d’entrée en vigueur</h3>
+<h4 id="AP-152R1a2">Date d’entrée en vigueur</h4>
 <p>Le présent <abbr title="Avis relatif aux politiques">AP</abbr> entre en vigueur le 20 juin 2022.</p>
-<h3 id="AP-152R1a3">Contexte</h3>
+<h4 id="AP-152R1a3">Contexte</h4>
 <p>Le 14 juin 2022, le gouvernement du Canada a annoncé <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/nouvelles/2022/06/document-dinformation--le-gouvernement-du-canada-suspend-la-vaccination-obligatoire-des-employes-federaux.html" rel="external">la suspension de la vaccination obligatoire des employés fédéraux</a> à compter du 20 juin 2022. En accord avec cette mesure, le gouvernement du Canada a suspendu également la politique de vaccination contre la COVID-19 relative au personnel des fournisseurs. Ainsi, à compter du 20 juin 2022 et jusqu’à nouvel ordre, les exigences de la politique ne sont plus en vigueur.</p>
 <p>Les fournisseurs peuvent encore être tenus de respecter les mesures de santé et de sécurité propres au milieu de travail qui ont été mises en place par les ministères et les agences, indépendamment de la politique.</p>
 <p>Le 17 juin 2022, <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/nouvelles/2022/06/document-dinformation--le-gouvernement-du-canada-suspend-la-vaccination-obligatoire-des-employes-federaux.html">un avis aux entrepreneurs du gouvernement fédéral</a> a été publié sur Achatsetventes.gc.ca les avisant de la suspension de la politique. Les renseignements contenus dans le présent <abbr title="Avis relatif aux politiques">AP</abbr> aideront les autorités contractantes dans la gestion des demandes de soumissions et des contrats concernés.</p>
-<h3 id="AP-152R1a4">Portée</h3>
+<h4 id="AP-152R1a4">Portée</h4>
 <p>La suspension de la politique s’applique aux demandes de soumissions et aux contrats nouveaux et existants du gouvernement du Canada, y compris les commandes subséquentes, qui comprenaient des exigences de vaccination.</p>
-<h3 id="AP-152R1a5">Durée</h3>
+<h4 id="AP-152R1a5">Durée</h4>
 <p>La suspension est en vigueur à compter du 20 juin 2022 jusqu’à nouvel ordre.</p>
 <p>Les autorités contractantes devraient noter que la politique pourrait être rétablie en vue de respecter les lignes directrices de la santé publique et la <a href="https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=32694" rel="external">Politique sur la vaccination contre la COVID-19 applicable à l’administration publique centrale, y compris à la Gendarmerie royale du Canada</a>. Elles recevront davantage de renseignements et de directives si la politique devait être rétablie.</p>
-<h3 id="AP-152R1a6">Incidences de la suspension de la Politique</h3>
-<h4 id="AP-152R1a7">Contrats existants</h4>
+<h4 id="AP-152R1a6">Incidences de la suspension de la Politique</h4>
+<h5 id="AP-152R1a7">Contrats existants</h5>
 <p>À la suite de la suspension de la politique le 20 juin 2022, les fournisseurs ne seront plus tenus de satisfaire aux exigences de vaccination prévues par les attestations de vaccination contre la COVID-19 précédemment transmises ou de fournir du personnel vacciné au gouvernement du Canada. Le Canada n’exigera plus que les fournisseurs se conforment aux mesures d’adaptation et d’atténuation approuvées précédemment dans le cadre de la politique pour leurs membres du personnel qui n’ont pu être vaccinés.</p>
 <p>Il n’est pas nécessaire de modifier les contrats existants.</p>
 <p>Puisque la politique ne s’applique plus, les autorités contractantes ne doivent pas prendre de mesures pour faire appliquer les attestations de vaccination contre la COVID-19 recueillies précédemment.</p>
-<h4 id="AP-152R1a8">Nouvelles demandes de soumissions</h4>
+<h5 id="AP-152R1a8">Nouvelles demandes de soumissions</h5>
 <p>À compter du 20 juin 2022, lors de la préparation des documents de demande de soumissions et des contrats pour de nouveaux besoins selon lesquels le personnel des fournisseurs aura accès aux lieux de travail du gouvernement du Canada où il pourrait entrer en contact avec des fonctionnaires, les autorités contractantes ne sont plus tenues d’inclure les clauses suivantes dans les documents de demande de soumissions:</p>
 <ul>
 <li>la clause du Guide des clauses et conditions uniformisées d’achat (CCUA) <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#A3080T">A3080T : Exigence de vaccination contre la COVID-19</a>;</li>
@@ -32,7 +32,7 @@
 <p>Toutefois, jusqu’à nouvel ordre, dans ces nouvelles demandes de soumissions et les contrats subséquents, les autorités contractantes <strong>doivent</strong> continuer d’intégrer la clause du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#4013">4013 : Respect des mesures, des ordres permanents, des politiques et des règles sur place</a> si la clause du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2035">2035 : Conditions générales – besoins plus complexes de services</a>, la clause <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2040">2040 : Conditions générales – recherche et développement</a> ou un libellé équivalent n’y est pas déjà inclus. Lorsqu’une clause de ‘Suspension des travaux’ ne figure pas dans le document, les autorités contractantes <strong>doivent</strong> aussi intégrer la clause du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#4014">4014 : Suspension des travaux</a>.
     <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#4014"></a>
 </p>
-<h4 id="AP-152R1a9">Demandes de soumissions actives</h4>
+<h5 id="AP-152R1a9">Demandes de soumissions actives</h5>
 <p>Pour les demandes de soumissions actives se terminant le 20 juin 2022 ou après cette date et qui étaient auparavant visées par la politique, les autorités contractantes doivent modifier les documents de demande de soumissions pour supprimer les clauses suivantes. Ainsi, il faudra peut-être accorder aux soumissionnaires un délai supplémentaire pour présenter leur soumission :</p>
 <ul>
 <li>la clause du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#A3080T">A3080T : Exigence de vaccination contre la COVID-19</a>;</li>
@@ -42,11 +42,11 @@
 </ul>
 <p>Si, pour une quelconque raison, il n’est pas possible de modifier une demande de soumissions active en vue de supprimer les clauses ci-dessus, les soumissionnaires devront tout de même soumettre une attestation de vaccination contre la COVID-19 avec leur demande de soumissions. Sinon, leur soumission sera jugée non recevable, malgré la suspension de la politique.</p>
 <p>Pour les approvisionnements à l’étape de l’évaluation des soumissions qui comprennent une exigence de vaccination dans la demande de soumissions, les autorités contractantes doivent poursuivre l’évaluation comme prévu.</p>
-<h4 id="AP-152R1a10">Arrangements en matière d’approvisionnement</h4>
+<h5 id="AP-152R1a10">Arrangements en matière d’approvisionnement</h5>
 <p>À compter du 20 juin 2022, les autorités contractantes ne sont plus tenues d’inclure la clause du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#S3037T">S3037T : Applicabilité des exigences de vaccination contre la COVID-19 aux demandes de soumissions individuelles</a> dans les demandes d’arrangements en matière d’approvisionnement (DAMA) qui sont nouvelles ou en voie d’être actualisées.</p>
 <p>Il faut modifier les <abbr title="demandes d’arrangements en matière d’approvisionnement">DAMA</abbr> actives qui comprennent déjà la clause <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#S3037T">S3037T : Applicabilité des exigences de vaccination contre la COVID-19 aux demandes de soumissions individuelles</a> pour retirer cette clause.</p>
 <p>Pour les nouvelles demandes de soumissions individuelles liées à des arrangements en matière d’approvisionnement (AMA) comprenant des exigences de vaccination contre la COVID-19 ou les demandes de soumissions individuelles liées à des <abbr title="arrangements en matière d’approvisionnement">AMA</abbr> comprenant des exigences de vaccination contre la COVID-19 qui sont en cours d’appel d’offres, les autorités contractantes doivent suivre le processus relatif aux <a href="#AP-152R1a8">nouvelles demandes de soumissions</a> ou <a href="#AP-152R1a9">demandes de soumissions actives</a>, le cas échéant.</p>
-<h4 id="AP-152R1a11">Offres à commandes</h4>
+<h5 id="AP-152R1a11">Offres à commandes</h5>
 <p>À compter du 20 juin 2022 et jusqu’à nouvel ordre, les autorités contractantes ne sont plus tenues d’intégrer les clauses suivantes dans les nouvelles demandes d’offre à commandes (DOC) ou dans les <abbr title="demandes d’offre à commandes">DOC</abbr> en cours d’actualisation :</p>
 <ul>
 <li><a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#M3080T">M3080T : Exigence de vaccination contre la COVID-19 – Offres à commandes</a>;
@@ -59,27 +59,27 @@
 <p>Il faut modifier les <abbr title="demandes d’offre à commandes">DOC</abbr> actives qui comprennent déjà les exigences de vaccination contre la COVID-19 ci-dessus pour supprimer ces clauses.</p>
 <p>Pour les commandes subséquentes découlant d’offres à commandes existantes, aucune mesure n’est à prendre et, à compter du 20 juin 2022, le Canada n’exigera plus d’attestation de vaccination contre la COVID-19 à l’étape de la commande subséquente.</p>
 <div class="alert alert-info">
-<h4 id="AP-152R1a12">Conférences des soumissionnaires et visites des lieux</h4>
+<h5 id="AP-152R1a12">Conférences des soumissionnaires et visites des lieux</h5>
 <p>À compter du 20 juin 2022 et jusqu’à nouvel ordre, les conférences des soumissionnaires ou les visites des lieux se déroulant dans les milieux de travail du gouvernement du Canada ne sont plus visées par les exigences de vaccination. Les autorités contractantes ne doivent utiliser que les versions de la clause <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#A9038T">A9038T : Visite facultative des lieux</a>, de la clause <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#A9040T">A9040T : Visite obligatoire des lieux</a>, de la clause <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#A9083T">A9083T : Conférence des soumissionnaires</a>, de la clause <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#M9083T">M9083T : Conférence des offrants</a> ou de la clause <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#S0026T">S0026T : Conférence des fournisseurs</a> qui ne comprennent pas d’exigence de vaccination.</p>
 </div>
-<h3 id="AP-152R1a13">Exigences exceptionnelles propres à l’emplacement</h3>
+<h4 id="AP-152R1a13">Exigences exceptionnelles propres à l’emplacement</h4>
 <p>Certains milieux de travail fédéraux peuvent maintenir des politiques qui imposent des mesures de santé et de sécurité particulières. Dans les cas où les autorités contractantes sont informées de l’existence de telles politiques en milieu de travail par le responsable technique, les directives suivantes s’appliquent.</p>
 <ul>
 <li><strong>Pour les nouvelles demandes de soumissions :</strong> Il faut suivre les directives concernant les clauses <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#4013">4013 : Respect des mesures, des ordres permanents, des politiques et des règles sur place</a> et <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#4014">4014 : Suspension des travaux</a>, comme il est indiqué ci-dessus.</li>
 <li><strong>Pour les contrats existants comprenant une disposition exigeant la conformité aux politiques du lieu de travail :</strong> Les contrats attribués après l’entrée en vigueur de la politique de vaccination contre la COVID-19 relative au personnel des fournisseurs (<abbr title="c'est-à-dire">c.-à-d.</abbr> le 15 novembre 2021) devraient déjà comporter la clause du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#4013">4013 : Respect des mesures, des ordres permanents, des politiques et des règles sur place</a> ou un libellé équivalent dans lequel la clause <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2035">2035 : Conditions générales – besoins plus complexes de services</a> ou la clause <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2040">2040 : Conditions générales – recherche et développement</a> a été utilisée. Bien des contrats de service attribués avant le 15 novembre 2021 ont aussi utilisé ces conditions générales. Ces dispositions obligent les fournisseurs à respecter les politiques de santé et de sécurité en milieu de travail qui pourraient être en place dans les lieux de travail du gouvernement du Canada.</li>
 <li><strong>Pour les contrats existants ne comprenant pas de disposition exigeant la conformité aux politiques du lieu de travail :</strong> Si, pour une quelconque raison, un contrat de service ne comprend aucune des dispositions ci-dessus et que le respect des politiques de santé et de sécurité en milieu de travail suscite de la résistance, les autorités contractantes doivent consulter les services juridiques pour étudier les options selon les dispositions contractuelles existantes.</li>
 </ul>
-<h3 id="AP-152R1a14">Révisions apportées au Guide des approvisionnements</h3>
+<h4 id="AP-152R1a14">Révisions apportées au Guide des approvisionnements</h4>
 <p>Le Guide des approvisionnements a été révisé pour refléter le présent <abbr title="Avis relatif aux politiques">AP</abbr>. Pour plus de détails, veuillez consulter les Items du Guide des approvisionnements visés ci-dessous.</p>
-<h3 id="AP-152R1a15">Révisions apportées au Guide des clauses et conditions uniformisées d’achat (CCUA)</h3>
+<h4 id="AP-152R1a15">Révisions apportées au Guide des clauses et conditions uniformisées d’achat (CCUA)</h4>
 <p>Le Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> a été révisé pour refléter le présent <abbr title="Avis relatif aux politiques">AP</abbr>. Pour plus de détails, veuillez consulter les items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés ci-dessous.</p>
-<h3 id="AP-152R1a16">Révisions apportées aux modèles uniformisés d’approvisionnement</h3>
+<h4 id="AP-152R1a16">Révisions apportées aux modèles uniformisés d’approvisionnement</h4>
 <p>Les <a class="gov" href="https://www.gcpedia.gc.ca/wiki/Mod%C3%A8les_uniformis%C3%A9s_d%E2%80%99approvisionnement" rel="external">modèles uniformisés d’approvisionnement</a><span> (accessible uniquement sur le réseau du gouvernement du Canada)</span> ont été révisés sur GCpédia.</p>
-<h3 id="AP-152R1a17">Coordonnées</h3>
+<h4 id="AP-152R1a17">Coordonnées</h4>
 <p>Pour toute autre question sur le présent <abbr title="Avis relatif aux politiques">AP</abbr>, les autorités contractantes peuvent utiliser l’adresse suivante : <a href="mailto:tpsgc.pacertificatsvaccins-apvaccinescertificates.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.pacertificatsvaccins-apvaccinescertificates.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Les questions concernant le Guide des approvisionnements peuvent être envoyées à l’adresse suivante : <a href="mailto:tpsgc.paspspublications-apspspublications.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.paspspublications-apspspublications.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Les questions concernant le Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> et les modèles uniformisés d’approvisionnement peuvent être envoyées à l’adresse suivante : <a href="mailto:tpsgc.outilsdapprovisionnement-procurementtools.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.outilsdapprovisionnement-procurementtools.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
+<h5 class="field-label">Sections du Guide des approvisionnements visées</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-948eae54196094759fd789cb3fe32e95">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
@@ -87,7 +87,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
+<h5 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-ac64e2873dbb3cf956787889a655cff6">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

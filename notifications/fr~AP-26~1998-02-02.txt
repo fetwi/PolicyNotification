@@ -1,16 +1,16 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-26</h2>
+<h3 class="pn-content-title">Contenu de l'AP-26</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 2 février 1998</h3>
-<h4>Comité de la stratégie des approvisionnements</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 2 février 1998</h4>
+<h5>Comité de la stratégie des approvisionnements</h5>
 <p>À compter du 19 décembre 1997, les achats dont la valeur dépasse 2 M$ et qui entrent dans les catégories suivantes, ne font plus l'objet d'un examen par le Comité de la stratégie des approvisionnements :</p>
 <p>B. Ventes de matériel militaire des États-Unis</p>
 <p>C. Achats en vertu du Programme d'approvisionnement en munitions</p>
@@ -18,7 +18,7 @@
 <p>E. Services de sécurité</p>
 <p>F. Services d'aide temporaire.</p>
 <p>Ce changement (<strong>Annexe A</strong>) apparaitra dans la prochaine mise à jour du <em>Guide des approvisionnements</em> qui sortira le 16 février 1998.</p>
-<h3>Annexe A</h3>
+<h4>Annexe A</h4>
 <p>5.094 (16/02/98) Le CSA répartit les achats dans les catégories suivantes :</p>
 <p>A. Exigences de l'OMC et de l'ALENA</p>
 <p>G. Tous les autres incluant les besoins qui relèvent de l'Accord sur le commerce intérieur (ACM) à l'exception des sujets suivant :</p>

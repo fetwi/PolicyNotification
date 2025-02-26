@@ -1,12 +1,12 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-126</h2>
+<h3 class="pn-content-title">Content of PN-126</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p> The purpose of Policy Notification (PN) 126 is to notify all Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) contracting officers and any other persons providing procurement services on behalf of <abbr title="Acquisitions Program">AP</abbr> about the ability to request price certification and audit services from foreign governments.</p>
-<h3> Effective date</h3>
+<h4> Effective date</h4>
 <p> <abbr title="Policy Notification">PN</abbr>-126 and related changes to the Supply Manual are effective immediately.</p>
-<h3> Background</h3>
+<h4> Background</h4>
 <p> As a reciprocal service between governments, Canada and several North Atlantic Treaty Organization (NATO) allied nations provide each other with price certification and audit services. Acquisitions Program (AP) contracting officers, involved in non-competitive procurements with foreign suppliers, either as the prime contractor or as significant subcontractor to the work, may wish to request such services from the government of the country in which the foreign supplier is located. The output of a price certification or audit request is generally a report which provides some high-level information or an opinion statement from an official of that foreign government. </p>
 <p> Foreign price certification and audit service requests between Public Works and Government Services Canada (PWGSC) and allied foreign governments are coordinated by <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s International Contract Support Group (ICSG), a division of the Price Support Directorate (PSD).</p>
 <p> The services may include:</p>
@@ -14,21 +14,21 @@
 <li> price certifications: pre-award reviews of price proposals, or specific elements therein, including labour and overhead rates, level of effort, direct materials, other direct costs, profit, exchange rate, and price or rate escalation; and</li>
 <li>audits: post-award requests to conduct accounting system reviews, incurred cost audits, labour time system recording reviews, and termination audits.</li>
 </ul>
-<h3> Summary of changes</h3>
-<h4> Supply Manual</h4>
+<h4> Summary of changes</h4>
+<h5> Supply Manual</h5>
 <ul>
 <li>Section 9.56 Price Certifications and Audits with Foreign Suppliers and Subcontractors was added to the Supply Manual to inform contracting officers of the service by foreign governments to provide price certifications and audits of foreign suppliers and subcontractors, and provide procurement staff directions on how to access these services</li>
 <li>Section 4.70.35.15 Audit of Contract with a Foreign Contractor and sub-article (c) of section 5.70 One Responsive Bid were added to the Supply Manual to provide complementary information as well as a link to section 9.56 </li>
 </ul>
 <p>For more details, refer to the affected Supply Manual sections listed below.</p>
-<h4>Standard Acquisition Clauses and Conditions (SACC) Manual</h4>
+<h5>Standard Acquisition Clauses and Conditions (SACC) Manual</h5>
 <p>There are no changes to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual.</p>
-<h4>Standard Procurement Templates</h4>
+<h5>Standard Procurement Templates</h5>
 <p>There are no changes to the Standard Procurement Templates.</p>
-<h3>Contact Information</h3>
+<h4>Contact Information</h4>
 <p>Please direct any enquiries to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Price Certification Coordinator by email at the following address: <a href="mailto:TPSGC.pacertificationdeprix-appricecertification.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.pacertificationdeprix-appricecertification.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-862e3a25f89f570ee3420dd7e60e7523">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

@@ -1,20 +1,20 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-66</h2>
+<h3 class="pn-content-title">Contenu de l'AP-66</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : Le 26 mars 2004</h3>
-<h4>Objet</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : Le 26 mars 2004</h4>
+<h5>Objet</h5>
 <p>L'AP-66 a pour objet de réviser la politique et les lignes directrices sur la prolongation de la période de validité des soumissions et d'incorporer des dispositions supplémentaires aux instructions et conditions uniformisées (série 9403) afin de faire savoir aux soumissionnaires ayant répondu à l'appel d'offres initial que le Canada a le droit de demander une prolongation de la période de validité des soumissions et que le Canada se réserve l'option d'attribuer un contrat seulement à l'un des soumissionnaires qui ont consenti à la prolongation, d'annuler la demande de soumissions ou encore d'annuler la demande de soumissions et d'en publier une nouvelle si l'un ou l'autre des soumissionnaires ne consent pas à prolonger la période de validité de sa soumission.</p>
-<h4>Introduction</h4>
+<h5>Introduction</h5>
 <p>Il existe des circonstances exceptionnelles dans lesquelles un contrat ne peut pas être attribué dans la période de validité des soumissions stipulée dans la demande de soumissions. C'est pourquoi la procédure 7D.463 du Guide des approvisionnements (GDA), datée de mars 1997, dit que les agents de négociation des contrats doivent, dans ces cas, demander à tous les soumissionnaires dont la soumission a été jugée recevable de prolonger la période de validité de celle-ci et que, si l'un ou l'autre de ces soumissionnaires refuse de prolonger cette période, le contrat doit être attribué au soumissionnaire dont la soumission a obtenu la «meilleure cote» parmi ceux qui ont prolongé la période de validité de leur soumission et maintenu leur proposition de prix originale.</p>
-<h4>Politique révisée</h4>
+<h5>Politique révisée</h5>
 <p>La procédure 7D.463 du GDA, qui porte sur des situations où l'évaluation des soumissions est presque terminée, est révisée afin de donner au Canada un fondement juridique lui permettant de demander une prolongation de la période de validité des soumissions conformément à la version révisée des instructions et conditions uniformisées, et afin de donner aux agents de négociation des contrats l'option d'attribuer le contrat au soumissionnaire dont la soumission a obtenu la «meilleure cote» parmi ceux dont la soumission a été jugée recevable et qui ont prolongé la période de validité de leur soumission, à l'exclusion des soumissionnaires ayant refusé de le faire, <em>d'annuler la demande de soumissions ou encore d'annuler la demande de soumissions et d'en publier une nouvelle,</em> lorsque cela est approprié.</p>
 <ul class="noBullet">
 <li>7D.462 (31/03/97) (inchangé) Si l'évaluation n'est pas terminée et qu'il est peu probable qu'elle le soit dans un délai raisonnable et avant la fin de la période de validité des soumissions, il faut mettre un terme au processus, déterminer pourquoi le processus a été aussi long et apporter les correctifs nécessaires au processus d'invitation ou d'évaluation, puis lancer un nouvel appel d'offres.</li>
@@ -27,28 +27,28 @@
 <p>Les agents de négociation des contrats doivent noter que les instructions révisées (série 9403) exigent aussi maintenant que la demande de prolongation de la période de validité de la soumission soit faite dans un délai d'au moins trois (3) jours avant la date d'expiration de la soumission.</p>
 <ul class="noBullet">
 <li>
-<h5>Instructions et conditions uniformisées (9403 et 9403-5), Section A</h5>
+<h6>Instructions et conditions uniformisées (9403 et 9403-5), Section A</h6>
 </li>
 <li>Les soumissions seront valables pendant au moins soixante (60) jours à compter de la date de clôture de la demande de soumissions, à moins que le Canada n'inclue une indication contraire dans la demande de soumissions.</li>
 <li><em>Nonobstant la période de validité des soumissions qui est stipulée dans la présente demande de soumissions, le Canada se réserve le droit de demander, dans un délai d'au moins trois (3) jours avant la fin de cette période, à tous les soumissionnaires dont la soumission a été jugée recevable de consentir une prolongation de cette période. Les soumissionnaires auront la possibilité d'accepter ou de refuser la prolongation.</em></li>
 <li><em>Si la prolongation mentionnée ci-dessus est acceptée, par écrit, par tous ceux qui ont présenté une soumission jugée recevable, le Canada poursuivra immédiatement l'évaluation des soumissions et le processus d'approbation.</em></li>
 <li><em>Si la prolongation mentionnée ci-dessus n'est pas acceptée, par écrit, par tous ceux qui ont présenté une soumission jugée recevable, le Canada, à son entière discrétion, continuera d'évaluer les soumissions jugées recevables des soumissionnaires qui ont accepté la prolongation et demandera les approbations nécessaires, annulera la demande de soumissions, ou encore annulera la demande de soumissions et en publiera une nouvelle.</em></li>
 <li>
-<h5>Instructions et conditions uniformisées (9403-6), Offres à commandes, Section A</h5>
+<h6>Instructions et conditions uniformisées (9403-6), Offres à commandes, Section A</h6>
 </li>
 <li>Une APCSOC peut être émise pour toute offre à commandes proposée jusqu'à soixante (60) jours après la date de clôture de la demande d'offre à commandes, à moins que le Canada n'inclue une indication contraire dans la DOC.</li>
 <li><em>Nonobstant la période de validité des offres qui est stipulée dans la présente DOC, le Canada se réserve le droit de demander, dans un délai d'au moins trois (3) jours avant la fin de cette période, à tous les offrants dont l'offre a été jugée recevable de consentir une prolongation de cette période. Les offrants auront la possibilité d'accepter ou de refuser la prolongation.</em></li>
 <li><em>Si la prolongation mentionnée ci-dessus est acceptée, par écrit, par tous ceux qui ont présenté une offre jugée recevable, le Canada poursuivra immédiatement l'évaluation des offres et le processus d'approbation.</em></li>
 <li><em>Si la prolongation mentionnée ci-dessus n'est pas acceptée, par écrit, par tous ceux qui ont présenté une offre jugée recevable, le Canada, à son entière discrétion, continuera d'évaluer les offres jugées recevables des fournisseurs qui ont accepté la prolongation et demandera les approbations nécessaires, annulera la DOC, ou encore annulera la DOC et en publiera une nouvelle.</em></li>
 </ul>
-<h4>Mise en œuvre</h4>
+<h5>Mise en œuvre</h5>
 <p><strong>La politique révisée entre en vigueur immédiatement. Les révisions au Guide des approvisionnements et au guide des CCUA apparaîtront dans la version 04-1, qui sera publiée le 14 mai 2004. Jusque là, les agents de négociation des contrats devront incorporer les dispositions appropriées des instructions et conditions uniformisées (série 9403) dans chacune de leurs demandes de soumissions.</strong></p>
-<h4>Contexte</h4>
+<h5>Contexte</h5>
 <p>Les procédures 7D.460 à 7D.463 du GDA portent sur les cas où l'agent de négociation des contrats ne peut pas attribuer un contrat dans la période de validité des soumissions stipulée dans la demande de soumissions et où il peut demander une prolongation de la période originale de validité des soumissions. Les soumissionnaires qui ne peuvent ou ne veulent pas consentir à prolonger la période de validité de leur soumission ne peuvent pas être exclus du processus concurrentiel, à moins d'avoir été informés, dans la demande de soumissions, du droit qu'a le Canada de demander une prolongation et des intentions de celui-ci pour le cas où les soumissionnaires ne consentiraient pas tous à cette prolongation. Les instructions et conditions uniformisées (série 9403) font maintenant savoir aux soumissionnaires que le Canada a le droit de demander une prolongation de la période de validité des soumissions et que, si tous ne consentent pas à cette prolongation, le Canada a l'option de poursuivre l'évaluation des soumissions de ceux qui ont accepté de prolonger cette période, à l'exclusion des soumissionnaires ayant refusé de le faire, d'annuler la demande de soumissions ou encore d'annuler la demande de soumissions et d'en publier une nouvelle. </p>
 <p>Les agents de négociation des contrats doivent évaluer attentivement la nécessité possible de prolonger la période de validité des soumissions à l'étape de planification de l'achat afin que l'invitation à soumissionner prévoie une plus longue période de validité lorsqu'une telle nécessité se manifeste (par exemple, dans le cas des marchés exigeant des évaluations complexes et/ou l'approbation du Conseil du Trésor).</p>
 <p>Il importe également que les agents de négociation des contrats suivent le déroulement des événements pendant la période d'évaluation des soumissions et le processus d'approbation du contrat afin que l'attribution du contrat se fasse dans la période stipulée d'acceptation des soumissions. La nécessité de prolonger la période de validité des soumissions précisée dans l'invitation à soumissionner devrait donc devenir l'exception. (Voir la procédure 7D.460 du GDA.)</p>
 <p>Lorsqu'ils décident de demander une prolongation de la période de validité des soumissions, les agents de négociation des contrats doivent être sensibles aux conséquences qu'une telle prolongation pourrait avoir pour les soumissionnaires, particulièrement en ce qui concerne les secteurs industriels caractérisés par la fluctuation des prix ou dans lesquels les soumissionnaires établissent leurs prix d'après des prix fixés par des fournisseurs pour une période limitée. Les agents de négociation des contrats ne doivent demander une prolongation, et la plus raisonnable possible, qu'en cas de nécessité absolue.</p>
-<h4>Renseignements</h4>
+<h5>Renseignements</h5>
 <p><strong>S/O</strong></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

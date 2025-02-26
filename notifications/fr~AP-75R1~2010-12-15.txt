@@ -1,13 +1,13 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-75R1</h2>
+<h3 class="pn-content-title">Contenu de l'AP-75R1</h3>
 <p>Le but de l'avis relatif aux politiques (<abbr title="Avis relatifs aux politiques">AP</abbr>)-75R1 est de fournir de nouvelles directives au  personnel des approvisionnements à l'égard des contrats avec autorisation de  tâches. La nouvelle démarche comporte de nouveaux outils et de nouvelles lignes  directrices ainsi que des modifications au <em>Guide  des approvisionnements</em> (<abbr title="Guide des approvisionnements">GDA</abbr>) et de nouvelles clauses dans le guide des<em> Clauses et conditions  uniformisées d'achat</em> (<abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr>).</p>
-<h4>Contexte</h4>
+<h5>Contexte</h5>
 <p>Ces dernières années, de nombreuses  vérifications gouvernementales ont eu lieu, comportant notamment des examens de  contrats avec autorisation de tâches. Ces examens ont soulevé des questions  concernant l'application de contrôles financiers, dans la séparation des  fonctions, dans les modifications apportées aux contrats, dans les relations  employeur-employé et dans le respect des modalités contractuelles. La Direction  générale des approvisionnements a décidé de mettre à jour ses procédures afin  d'améliorer l'efficacité et l'uniformité dans l'utilisation et la gestion des  contrats avec autorisation de tâches.</p>
-<h4>Date d'entrée en vigueur</h4>
+<h5>Date d'entrée en vigueur</h5>
 <p>Le présent <abbr title="Avis relatifs aux politiques">AP</abbr> entre immédiatement en  vigueur. Cependant, pour les approvisionnements existants pour lesquels le document  planification de contrat et approbation préalable ou le plan  d'approvisionnement a déjà été soumis aux fins d'approbation, la mise en œuvre  de nouvelles instructions contenues dans l'<abbr title="Avis relatifs aux politiques">AP</abbr> est à la discrétion de l'agent de  négociation des contrats, à moins d'avis contraire de la direction.</p>
-<h4>Révision de la politique actuelle</h4>
+<h5>Révision de la politique actuelle</h5>
 <p>Les modifications importantes suivantes ont  été apportées à la politique actuelle liée aux contrats avec autorisation de  tâches :</p>
 <ol class="double-space" type="a">
 <li>Des  instructions supplémentaires ont été ajoutées afin de souligner les différences  entre les contrats avec autorisation de tâches, les offres à commandes et les  arrangements en matière d'approvisionnement. </li>
@@ -25,11 +25,11 @@
 </ol>
 <p><a href="#AP-75R1AnnexA">L'annexe  A</a> contient toutes les modifications apportées au <em>Guide des approvisionnements</em>. Les  procédures antérieures des paragraphes 3.30, 3.35, 3.35.1 et de  l'annexe 3.4 ont été remplacées au complet. Les procédures 3.40, 3.45, 8.70.20 ainsi que deux définitions du glossaire ont été revues. La  procédure 6.25.40 a été supprimée. </p>
 <p><a href="#AP-75R1AnnexB">L'annexe B</a> comprend  les nouvelles et les clauses révisées du guide des <abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr>.</p>
-<h4>Personnes-ressources</h4>
+<h5>Personnes-ressources</h5>
 <p>Pour en savoir plus sur  les modifications apportées au <em>Guide des  approvisionnements</em>, veuillez communiquer avec Veronica Nazareth par  téléphone au 819-956-5024, ou par courriel à l'adresse <a href="mailto:veronica.nazareth@pwgsc-tpsgc.gc.ca" rel="external">veronica.nazareth@pwgsc-tpsgc.gc.ca</a>.</p>
 <p>Pour en savoir  davantage sur les nouvelles clauses du guide des <abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr>, veuillez  communiquer avec Anne Villeneuve par téléphone au 819-956-0458, ou par courriel  à l'adresse <a href="mailto:anne.villeneuve@pwgsc-tpsgc.gc.ca" rel="external">anne.villeneuve@pwgsc-tpsgc.gc.ca</a>.</p>
-<h3 id="AP-75R1AnnexA">Annexe A - Révisions du Guide des approvisionnements</h3>
-<h4>chapitre 3 - Stratégie d'approvisionnement</h4>
+<h4 id="AP-75R1AnnexA">Annexe A - Révisions du Guide des approvisionnements</h4>
+<h5>chapitre 3 - Stratégie d'approvisionnement</h5>
 <p><strong>3.30	Méthodes d'approvisionnement</strong><br/>
   (2010-XX-XX)</p>
 <p>Travaux publics et Services gouvernementaux Canada (<abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr>) fait  appel à différentes méthodes pour répondre à ses besoins dans le domaine des  achats. L'ensemble de ces méthodes comprend aussi bien les contrats définissant  exactement les biens et les services à fournir à des clients en particulier  avant des dates précises que différents instruments d'achats à appliquer par un  certain nombre de ministères et d'organismes pour des besoins initiaux parfois  moins précis ou moins bien définis. </p>
@@ -197,15 +197,15 @@
 <li>lorsqu'il est plus efficace pour <abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr> de définir le cadre d'achat au nom d'autres utilisateurs ou des clients plutôt que d'agir comme agent de négociation des contrats.</li>
 </ol>
 <p>d) à f) :  Aucun changement.</p>
-<h4 id="AP-75R1Annex3_4">Annexe 3.4 : Contrats avec autorisation de tâches - Processus<br/>
-  (2010-XX-XX) </h4>
+<h5 id="AP-75R1Annex3_4">Annexe 3.4 : Contrats avec autorisation de tâches - Processus<br/>
+  (2010-XX-XX) </h5>
 <p>La présente annexe comprend les appendices suivants portant sur les contrats avec autorisation de tâches :</p>
 <ol class="double-space">
 <li><a href="#AP-75R1aappendiceA">Appendice A</a> : <em>Guide pour la préparation et  la gestion des autorisations de tâches - à l'intention des clients de <abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr></em></li>
 <li><a href="#AP-75R1aappendiceB">Appendice B</a> : Modèle d'entente - à l'intention des clients de <abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr></li>
 </ol>
-<h4 id="AP-75R1aappendiceA">Appendice A (de l'annexe 3.4) : Guide pour la préparation et la gestion des autorisations de tâches - à l'intention des clients de <abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr><br/>
-  (2010-01-11) </h4>
+<h5 id="AP-75R1aappendiceA">Appendice A (de l'annexe 3.4) : Guide pour la préparation et la gestion des autorisations de tâches - à l'intention des clients de <abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr><br/>
+  (2010-01-11) </h5>
 <p><strong>1.0	Objet</strong></p>
 <p>Le but du <em>Guide pour la préparation et la gestion des autorisations de tâches</em> est de fournir des conseils sur les  procédures aux clients de Travaux publics et Services gouvernementaux Canada  (<abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr>) lorsque <abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr> offre des contrats des services avec autorisation de  tâches et que le client est autorisé à émettre des autorisations de tâches  (<abbr title="Autorisation de tâches">AT</abbr>). Ce guide renferme des conseils sur la préparation et la gestion des <abbr title="Autorisation de tâches">AT</abbr>. Plusieurs principes abordés dans ce  document s'appliquent également aux autres mécanismes servant à la commande sur  demande de produits ou de services dans le cadre d'un contrat. Pour les besoins  du ministère de la Défense (<abbr title="Ministère de la Défense nationale">MDN</abbr>), ce guide est un supplément à la procédure interne pour  l'administration des <abbr title="Autorisation de tâches">AT</abbr> reproduite à l'articleAppendice 3.3.2 du <em>Manuel de l'administration de l'approvisionnement </em>(MAA) du  <abbr title="Ministère de la Défense nationale">MDN</abbr>.</p>
 <p><strong>2.0 Définitions</strong></p>
@@ -320,8 +320,8 @@
 <li>Faire en sorte que le prix soit juste et raisonnable pour la tâche en question et qu'il soit conforme à la base de paiement du contrat.</li>
 <li>Faire en sorte que les fonds soient suffisants.</li>
 </ol>
-<h4 id="AP-75R1aappendiceB">Appendice B (de l'annexe 3.4) :	Modèle d'entente - à l'intention des clients de <abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr><br/>
-  (2010-01-11) </h4>
+<h5 id="AP-75R1aappendiceB">Appendice B (de l'annexe 3.4) :	Modèle d'entente - à l'intention des clients de <abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr><br/>
+  (2010-01-11) </h5>
 <p><strong>Remarques à l'intention de l'autorité contractante de <abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr> :</strong><br/>
 <em>(Supprimer les instructions avant d'acheminer au client l'entente et le courriel).</em></p>
 <ol class="double-space">
@@ -507,8 +507,8 @@ Ce tableau propose les rôles et les responsabilités pour les contrats avec aut
 <td class="alignCenter" headers="un_3">X</td>
 </tr>
 </tbody></table>
-<h4 id="AP-75R1Annex3_8">Annexe 3.8 : Comparaison entre différentes méthodes d'approvisionnement<br/>
-  (2010-XX-XX) </h4>
+<h5 id="AP-75R1Annex3_8">Annexe 3.8 : Comparaison entre différentes méthodes d'approvisionnement<br/>
+  (2010-XX-XX) </h5>
 <p>Le tableau suivant compare les différentes méthodes d'approvisionnement à utiliser lorsqu'il est impossible d'établir d'avance la nature exacte, la quantité ni les échéances des besoins.</p>
 <table class="basic">
 <caption>
@@ -596,11 +596,11 @@ Ce tableau propose les rôles et les responsabilités pour les contrats avec aut
 <td headers="un_7 un_11">Le  suivi par le client du rendement de l'entrepreneur et de l'utilisation conforme  d'un AMA par le client, accompagné de la production de rapports connexes,  constitue une condition d'utilisation de l'AMA par le client.</td>
 </tr>
 </tbody></table>
-<h3>Annexe A - Révision du Guide des approvisionnements</h3>
-<h4>chapitre 6 - Approbations et pouvoirs</h4>
+<h4>Annexe A - Révision du Guide des approvisionnements</h4>
+<h5>chapitre 6 - Approbations et pouvoirs</h5>
 <p><strong>6.25.40 Contrats avec autorisation de tâches</strong></p>
 <p>Supprimé en entier.</p>
-<h4>chapitre 8 - Gestion de contrat</h4>
+<h5>chapitre 8 - Gestion de contrat</h5>
 <p id="AP-75R1a8_70_20"><strong>8.70.20 Administration des contrats avec autorisation de tâches </strong><br/>
   (2010-XX-XX)</p>
 <ol type="a">
@@ -630,14 +630,14 @@ Ce tableau propose les rôles et les responsabilités pour les contrats avec aut
 </ol>
 <p>Lorsqu'une tâche est terminée, le montant prévu peut être réduit pour correspondre aux dépenses actuelles, et ces révisions doivent être consignées dans le dossier d'autorisations de tâches.</p>
 <p>Voir <a href="#AP-75R1a3_35_1_35">3.35.1.35</a> au sujet de la séparation des fonctions pour les <abbr title="Autorisation de tâches">AT</abbr>.</p>
-<h4>Glossaire</h4>
+<h5>Glossaire</h5>
 <p><strong>autorisation de tâches</strong><br/>
   L'<abbr title="Autorisation de tâches">AT</abbr> est un outil  administratif structuré grâce auquel le client autorise un entrepreneur à  effectuer les travaux sur demande, conformément aux modalités d'un contrat. Les <abbr title="Autorisation de tâches">AT</abbr> ne sont pas des contrats. <br/>
   (2010-XX-XX) <em><strong>(task authorization)</strong></em></p>
 <p><strong>contrat avec autorisation de tâches</strong><br/>
   Un contrat avec  autorisation de tâches (<abbr title="Autorisation de tâches">AT</abbr>) est une méthode d'approvisionnement de services où <strong>l'ensemble</strong> ou une partie des travaux seront réalisés « sur demande » selon des  conditions préétablies et un processus administratif concernant les  autorisations de tâches. Les contrats avec <abbr title="Autorisation de tâches">AT</abbr> sont utilisés dans les cas où il  existe un besoin précis du client d'obtenir rapidement et à répétition une ou  plusieurs catégories de services pendant la durée du contrat. Dans le cadre de  contrats d'<abbr title="Autorisation de tâches">AT</abbr>, les travaux à réaliser peuvent être définis,  mais la nature et les échéances précises des services, des activités et des  livrables requis ne seront connues qu'au moment où le service est demandé  pendant la durée du contrat.<br/>
   (2010-XX-XX) <em><strong>(task authorization contracts)</strong></em></p>
-<h3 id="AP-75R1AnnexB">Annexe B - Modifications au guide des <abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr></h3>
+<h4 id="AP-75R1AnnexB">Annexe B - Modifications au guide des <abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr></h4>
 <p><strong>(RÉVISÉE) B9030C Garantie des travaux minimums - Tous les travaux - d'autorisations de tâches </strong></p>
 <p><strong>Remarques :</strong><br/>
   Utiliser la clause suivante lorsque tous les travaux dans le cadre  d'un contrat doivent être réalisés au moyen d'autorisations de tâches afin de  limiter l'obligation du Canada dans le cadre de celui-ci en fonction du montant  précisé ci-après. Utiliser cette clause en conjonction avec C9010C.</p>
@@ -758,13 +758,13 @@ Ce tableau propose les rôles et les responsabilités pour les contrats avec aut
 <p><strong>Texte : </strong><br/>
   Le  <span aria-label="Espace réservé vide" class="blankline"></span>  (<strong><em>insérer</em></strong> responsable «   du projet  » <em>ou </em>«  technique  ») peut  approuver les autorisations de tâches individuelles jusqu'à une limite de  <span aria-label="Espace réservé vide" class="blankline"></span> <em>  $ (insérer le montant)</em>, taxe sur les produits et services ou taxe de vente  harmonisée incluse, y compris toutes révisions. </p>
 <p>Une  autorisation de tâches qui dépasserait cette limite doit être approuvée par le  <span aria-label="Espace réservé vide" class="blankline"></span> <em>(<strong>insérer</strong></em> responsable «   du projet  » <em>ou </em>«  technique  ») et  l'autorité contractante  » <em>ou </em>«   l'autorité contractante  »<em>)</em> avant d'être  émise. </p>
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>Le but de l'avis relatif aux politiques (<abbr title="Avis relatifs aux politiques">AP</abbr>)-75R1 est de fournir de nouvelles directives au  personnel des approvisionnements à l'égard des contrats avec autorisation de  tâches. La nouvelle démarche comporte de nouveaux outils et de nouvelles lignes  directrices ainsi que des modifications au <em>Guide  des approvisionnements</em> (<abbr title="Guide des approvisionnements">GDA</abbr>) et de nouvelles clauses dans le guide des<em> Clauses et conditions  uniformisées d'achat</em> (<abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr>).</p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>Ces dernières années, de nombreuses  vérifications gouvernementales ont eu lieu, comportant notamment des examens de  contrats avec autorisation de tâches. Ces examens ont soulevé des questions  concernant l'application de contrôles financiers, dans la séparation des  fonctions, dans les modifications apportées aux contrats, dans les relations  employeur-employé et dans le respect des modalités contractuelles. La Direction  générale des approvisionnements a décidé de mettre à jour ses procédures afin  d'améliorer l'efficacité et l'uniformité dans l'utilisation et la gestion des  contrats avec autorisation de tâches.</p>
-<h3>Date d'entrée en vigueur</h3>
+<h4>Date d'entrée en vigueur</h4>
 <p>Le présent <abbr title="Avis relatifs aux politiques">AP</abbr> entre immédiatement en  vigueur. Cependant, pour les approvisionnements existants pour lesquels le document  planification de contrat et approbation préalable ou le plan  d'approvisionnement a déjà été soumis aux fins d'approbation, la mise en œuvre  de nouvelles instructions contenues dans l'<abbr title="Avis relatifs aux politiques">AP</abbr> est à la discrétion de l'agent de  négociation des contrats, à moins d'avis contraire de la direction.</p>
-<h3>Révision de la politique actuelle</h3>
+<h4>Révision de la politique actuelle</h4>
 <p>Les modifications importantes suivantes ont  été apportées à la politique actuelle liée aux contrats avec autorisation de  tâches :</p>
 <ol class="double-space" type="a">
 <li>Des  instructions supplémentaires ont été ajoutées afin de souligner les différences  entre les contrats avec autorisation de tâches, les offres à commandes et les  arrangements en matière d'approvisionnement. </li>
@@ -782,11 +782,11 @@ Ce tableau propose les rôles et les responsabilités pour les contrats avec aut
 </ol>
 <p><a href="#AP-75R1AnnexA">L'annexe  A</a> contient toutes les modifications apportées au <em>Guide des approvisionnements</em>. Les  procédures antérieures des paragraphes 3.30, 3.35, 3.35.1 et de  l'annexe 3.4 ont été remplacées au complet. Les procédures 3.40, 3.45, 8.70.20 ainsi que deux définitions du glossaire ont été revues. La  procédure 6.25.40 a été supprimée. </p>
 <p><a href="#AP-75R1AnnexB">L'annexe B</a> comprend  les nouvelles et les clauses révisées du guide des <abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr>.</p>
-<h3>Personnes-ressources</h3>
+<h4>Personnes-ressources</h4>
 <p>Pour en savoir plus sur  les modifications apportées au <em>Guide des  approvisionnements</em>, veuillez communiquer avec Veronica Nazareth par  téléphone au 819-956-5024, ou par courriel à l'adresse <a href="mailto:veronica.nazareth@pwgsc-tpsgc.gc.ca" rel="external">veronica.nazareth@pwgsc-tpsgc.gc.ca</a>.</p>
 <p>Pour en savoir  davantage sur les nouvelles clauses du guide des <abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr>, veuillez  communiquer avec Anne Villeneuve par téléphone au 819-956-0458, ou par courriel  à l'adresse <a href="mailto:anne.villeneuve@pwgsc-tpsgc.gc.ca" rel="external">anne.villeneuve@pwgsc-tpsgc.gc.ca</a>.</p>
-<h3 id="AP-75R1AnnexA">Annexe A - Révisions du Guide des approvisionnements</h3>
-<h4>chapitre 3 - Stratégie d'approvisionnement</h4>
+<h4 id="AP-75R1AnnexA">Annexe A - Révisions du Guide des approvisionnements</h4>
+<h5>chapitre 3 - Stratégie d'approvisionnement</h5>
 <p><strong>3.30	Méthodes d'approvisionnement</strong><br/>
   (2010-XX-XX)</p>
 <p>Travaux publics et Services gouvernementaux Canada (<abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr>) fait  appel à différentes méthodes pour répondre à ses besoins dans le domaine des  achats. L'ensemble de ces méthodes comprend aussi bien les contrats définissant  exactement les biens et les services à fournir à des clients en particulier  avant des dates précises que différents instruments d'achats à appliquer par un  certain nombre de ministères et d'organismes pour des besoins initiaux parfois  moins précis ou moins bien définis. </p>
@@ -954,15 +954,15 @@ Ce tableau propose les rôles et les responsabilités pour les contrats avec aut
 <li>lorsqu'il est plus efficace pour <abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr> de définir le cadre d'achat au nom d'autres utilisateurs ou des clients plutôt que d'agir comme agent de négociation des contrats.</li>
 </ol>
 <p>d) à f) :  Aucun changement.</p>
-<h4 id="AP-75R1Annex3_4">Annexe 3.4 : Contrats avec autorisation de tâches - Processus<br/>
-  (2010-XX-XX) </h4>
+<h5 id="AP-75R1Annex3_4">Annexe 3.4 : Contrats avec autorisation de tâches - Processus<br/>
+  (2010-XX-XX) </h5>
 <p>La présente annexe comprend les appendices suivants portant sur les contrats avec autorisation de tâches :</p>
 <ol class="double-space">
 <li><a href="#AP-75R1aappendiceA">Appendice A</a> : <em>Guide pour la préparation et  la gestion des autorisations de tâches - à l'intention des clients de <abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr></em></li>
 <li><a href="#AP-75R1aappendiceB">Appendice B</a> : Modèle d'entente - à l'intention des clients de <abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr></li>
 </ol>
-<h4 id="AP-75R1aappendiceA">Appendice A (de l'annexe 3.4) : Guide pour la préparation et la gestion des autorisations de tâches - à l'intention des clients de <abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr><br/>
-  (2010-01-11) </h4>
+<h5 id="AP-75R1aappendiceA">Appendice A (de l'annexe 3.4) : Guide pour la préparation et la gestion des autorisations de tâches - à l'intention des clients de <abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr><br/>
+  (2010-01-11) </h5>
 <p><strong>1.0	Objet</strong></p>
 <p>Le but du <em>Guide pour la préparation et la gestion des autorisations de tâches</em> est de fournir des conseils sur les  procédures aux clients de Travaux publics et Services gouvernementaux Canada  (<abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr>) lorsque <abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr> offre des contrats des services avec autorisation de  tâches et que le client est autorisé à émettre des autorisations de tâches  (<abbr title="Autorisation de tâches">AT</abbr>). Ce guide renferme des conseils sur la préparation et la gestion des <abbr title="Autorisation de tâches">AT</abbr>. Plusieurs principes abordés dans ce  document s'appliquent également aux autres mécanismes servant à la commande sur  demande de produits ou de services dans le cadre d'un contrat. Pour les besoins  du ministère de la Défense (<abbr title="Ministère de la Défense nationale">MDN</abbr>), ce guide est un supplément à la procédure interne pour  l'administration des <abbr title="Autorisation de tâches">AT</abbr> reproduite à l'articleAppendice 3.3.2 du <em>Manuel de l'administration de l'approvisionnement </em>(MAA) du  <abbr title="Ministère de la Défense nationale">MDN</abbr>.</p>
 <p><strong>2.0 Définitions</strong></p>
@@ -1077,8 +1077,8 @@ Ce tableau propose les rôles et les responsabilités pour les contrats avec aut
 <li>Faire en sorte que le prix soit juste et raisonnable pour la tâche en question et qu'il soit conforme à la base de paiement du contrat.</li>
 <li>Faire en sorte que les fonds soient suffisants.</li>
 </ol>
-<h4 id="AP-75R1aappendiceB">Appendice B (de l'annexe 3.4) :	Modèle d'entente - à l'intention des clients de <abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr><br/>
-  (2010-01-11) </h4>
+<h5 id="AP-75R1aappendiceB">Appendice B (de l'annexe 3.4) :	Modèle d'entente - à l'intention des clients de <abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr><br/>
+  (2010-01-11) </h5>
 <p><strong>Remarques à l'intention de l'autorité contractante de <abbr title="Travaux  publics et Services gouvernementaux Canada">TPSGC</abbr> :</strong><br/>
 <em>(Supprimer les instructions avant d'acheminer au client l'entente et le courriel).</em></p>
 <ol class="double-space">
@@ -1264,8 +1264,8 @@ Ce tableau propose les rôles et les responsabilités pour les contrats avec aut
 <td class="alignCenter" headers="un_3">X</td>
 </tr>
 </tbody></table>
-<h4 id="AP-75R1Annex3_8">Annexe 3.8 : Comparaison entre différentes méthodes d'approvisionnement<br/>
-  (2010-XX-XX) </h4>
+<h5 id="AP-75R1Annex3_8">Annexe 3.8 : Comparaison entre différentes méthodes d'approvisionnement<br/>
+  (2010-XX-XX) </h5>
 <p>Le tableau suivant compare les différentes méthodes d'approvisionnement à utiliser lorsqu'il est impossible d'établir d'avance la nature exacte, la quantité ni les échéances des besoins.</p>
 <table class="basic">
 <caption>
@@ -1353,11 +1353,11 @@ Ce tableau propose les rôles et les responsabilités pour les contrats avec aut
 <td headers="un_7 un_11">Le  suivi par le client du rendement de l'entrepreneur et de l'utilisation conforme  d'un AMA par le client, accompagné de la production de rapports connexes,  constitue une condition d'utilisation de l'AMA par le client.</td>
 </tr>
 </tbody></table>
-<h3>Annexe A - Révision du Guide des approvisionnements</h3>
-<h4>chapitre 6 - Approbations et pouvoirs</h4>
+<h4>Annexe A - Révision du Guide des approvisionnements</h4>
+<h5>chapitre 6 - Approbations et pouvoirs</h5>
 <p><strong>6.25.40 Contrats avec autorisation de tâches</strong></p>
 <p>Supprimé en entier.</p>
-<h4>chapitre 8 - Gestion de contrat</h4>
+<h5>chapitre 8 - Gestion de contrat</h5>
 <p id="AP-75R1a8_70_20"><strong>8.70.20 Administration des contrats avec autorisation de tâches </strong><br/>
   (2010-XX-XX)</p>
 <ol type="a">
@@ -1387,14 +1387,14 @@ Ce tableau propose les rôles et les responsabilités pour les contrats avec aut
 </ol>
 <p>Lorsqu'une tâche est terminée, le montant prévu peut être réduit pour correspondre aux dépenses actuelles, et ces révisions doivent être consignées dans le dossier d'autorisations de tâches.</p>
 <p>Voir <a href="#AP-75R1a3_35_1_35">3.35.1.35</a> au sujet de la séparation des fonctions pour les <abbr title="Autorisation de tâches">AT</abbr>.</p>
-<h4>Glossaire</h4>
+<h5>Glossaire</h5>
 <p><strong>autorisation de tâches</strong><br/>
   L'<abbr title="Autorisation de tâches">AT</abbr> est un outil  administratif structuré grâce auquel le client autorise un entrepreneur à  effectuer les travaux sur demande, conformément aux modalités d'un contrat. Les <abbr title="Autorisation de tâches">AT</abbr> ne sont pas des contrats. <br/>
   (2010-XX-XX) <em><strong>(task authorization)</strong></em></p>
 <p><strong>contrat avec autorisation de tâches</strong><br/>
   Un contrat avec  autorisation de tâches (<abbr title="Autorisation de tâches">AT</abbr>) est une méthode d'approvisionnement de services où <strong>l'ensemble</strong> ou une partie des travaux seront réalisés « sur demande » selon des  conditions préétablies et un processus administratif concernant les  autorisations de tâches. Les contrats avec <abbr title="Autorisation de tâches">AT</abbr> sont utilisés dans les cas où il  existe un besoin précis du client d'obtenir rapidement et à répétition une ou  plusieurs catégories de services pendant la durée du contrat. Dans le cadre de  contrats d'<abbr title="Autorisation de tâches">AT</abbr>, les travaux à réaliser peuvent être définis,  mais la nature et les échéances précises des services, des activités et des  livrables requis ne seront connues qu'au moment où le service est demandé  pendant la durée du contrat.<br/>
   (2010-XX-XX) <em><strong>(task authorization contracts)</strong></em></p>
-<h3 id="AP-75R1AnnexB">Annexe B - Modifications au guide des <abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr></h3>
+<h4 id="AP-75R1AnnexB">Annexe B - Modifications au guide des <abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr></h4>
 <p><strong>(RÉVISÉE) B9030C Garantie des travaux minimums - Tous les travaux - d'autorisations de tâches </strong></p>
 <p><strong>Remarques :</strong><br/>
   Utiliser la clause suivante lorsque tous les travaux dans le cadre  d'un contrat doivent être réalisés au moyen d'autorisations de tâches afin de  limiter l'obligation du Canada dans le cadre de celui-ci en fonction du montant  précisé ci-après. Utiliser cette clause en conjonction avec C9010C.</p>

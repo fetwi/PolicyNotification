@@ -1,23 +1,23 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-19</h2>
+<h3 class="pn-content-title">Contenu de l'AP-19</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 14 avril 1997</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 14 avril 1997</h4>
 <p>À compter d'aujourd'hui, les lettres de crédit de soutien irrévocable émises ou confirmées par des institutions financières membres de l'Association canadienne des paiements, peuvent être acceptées comme garantie pour les soumissions et l'exécution des marchés. Le Conseil du Trésor a indiqué qu'il n'y aura pas de lettre de crédit type, mais que les lettres de crédit devront toutefois, pour être jugées acceptables, renfermer les éléments précisés dans la politique. La plupart, si ce n'est pas l'ensemble, des institutions financières utilisent déjà une formule type qui couvre tous ces éléments.</p>
 <p>De plus, à compter d'aujourd'hui, on n'exigera qu'exceptionnellement et seulement lorsqu'il y a visiblement un risque pour l'État, une garantie contractuelle pour les contrats immobiliers, les contrats de biens et de services d'une valeur estimative de 100 000 $ ou moins. Toutes les demandes de garantie devront être justifiées.</p>
 <p>Les changements relatifs au Guide des approvisionnements, qui figurent à l'annexe A, seront inclus dans la modification 97-2, qui doit paraître le 1<sup>er</sup> août 1997.</p>
 <p>Les changements relatifs au Guide des clauses et conditions uniformisées d'achat, qui figurent à l'annexe B, seront inclus dans la modification 97-3, qui doit paraître le 1<sup>er</sup> octobre 1997.</p>
-<h3>Annexe A</h3>
-<h3>CHAPITRE 6 - ÉLABORATION DE LA STRATÉGIE D'ACHAT</h3>
-<h4>SECTION 6C : GESTION DES RISQUES</h4>
-<h4>Garantie de soumission/de contrat (garantie financière)</h4>
+<h4>Annexe A</h4>
+<h4>CHAPITRE 6 - ÉLABORATION DE LA STRATÉGIE D'ACHAT</h4>
+<h5>SECTION 6C : GESTION DES RISQUES</h5>
+<h5>Garantie de soumission/de contrat (garantie financière)</h5>
 <p>6.279 (01/08/97) Une garantie financière peut être exigée d'un soumissionnaire/entrepreneur afin:</p>
 <ol type="a">
 <li>de protéger l'État contre des pertes éventuelles au cas où un soumissionnaire choisi ne passerait pas un contrat (garantie de soumission);</li>
@@ -28,9 +28,9 @@
 <p>La décision d'exiger une garantie financière dans le cadre d'un appel à la concurrence doit être prise avant l'étape de l'invitation à soumissionner.</p>
 <p><em>Les soumissionnaires et les entrepreneurs ont le droit de décider de la forme de garantie financière qu'ils fourniront. Se reporter aux clauses E0001T, E0004T et E0007T du Guide des CCUA.</em></p>
 <p>6.281 (01/08/97) La liste des sociétés de cautionnement agréées, publiée par le Secrétariat du Conseil du Trésor, figure à l'annexe 7.2.</p>
-<h4>Garantie de soumission</h4>
+<h5>Garantie de soumission</h5>
 <p>6.287 (01/08/97) Toute lettre de crédit reçue par le gouvernement du Canada doit comporter une date d'expiration appropriée. La lettre de crédit ne devrait pas expirer en même temps que la période de risque qu'elle couvre. Par exemple, la date d'expiration précisée dans la lettre de crédit ne devrait pas être la même que celle qui est prévue pour l'adjudication du marché. Plutôt, la date d'expiration devrait être fixée de manière à prévoir un délai d'exécution suffisant par rapport à la date prévue d'adjudication du marché, pour faire en sorte que l'autorité contractante soit en mesure d'établir que le soumissionnaire s'est acquitté des obligations prévues par la lettre de crédit. En effet, si le soumissionnaire ne remplit pas ses obligations, l'autorité contractante doit disposer de suffisamment de temps pour préparer et présenter la demande de paiement requise en vertu de la lettre de crédit.</p>
-<h4>Garantie de contrat</h4>
+<h5>Garantie de contrat</h5>
 <p>6.290 (01/08/97) Pour les marchés immobiliers et les marchés de biens et de services évalués à plus de 100 000 $, la décision d'exiger une garantie de contrat et la fixation du montant de cette garantie devraient tenir compte des éléments suivants :</p>
 <ol type="a">
 <li>le type de travail et les pratiques commerciales courantes;</li>
@@ -41,17 +41,17 @@
 <p><em>Les décisions quant à la nécessité d'exiger une garantie financière et à l'établissement du montant de cette dernière doivent être prises compte tenu des circonstances particulières du marché en question. Certaines entreprises peuvent éprouver de la difficulté à fournir certains types de garanties; les agents de négociation des marchés doivent donc en tenir compte et établir des exigences contractuelles raisonnables sur ce chapitre. Dans certains cas, il n'est pas nécessaire d'exiger de garanties avant l'exécution des travaux; des retenues sur les sommes à verser peuvent suffire. Le Conseil du Trésor suggère de ne pas exiger de garantie financière tant que la valeur prévue du marché ne dépasse pas 100 000 $. Toutefois, les questions relatives à la nature du besoin sont habituellement plus importantes que la valeur monétaire</em>.</p>
 <p>6.291 (01/08/97) Lorsqu'ils décident d'exiger une garantie financière, les agents de négociation des contrats doivent le préciser dans les documents d'invitation à soumissionner. Ils doivent inclure la clause E0007T du Guide des CCUA.</p>
 <p>6.292 (01/08/97) Toute lettre de crédit reçue par le gouvernement du Canada doit comporter une date d'expiration appropriée. La lettre de crédit ne devrait pas expirer en même temps que la période de risque qu'elle couvre. Par exemple, la date d'expiration précisée dans la lettre de crédit ne devrait pas être la même que celle qui est prévue pour l'achèvement des travaux. Plutôt, la date d'expiration devrait être fixée de manière à prévoir un délai d'exécution suffisant par rapport à la date prévue d'achèvement des travaux, pour faire en sorte que l'autorité contractante soit en mesure d'établir que l'entrepreneur s'est acquitté des obligations prévues par la lettre de crédit. En effet, si l'entrepreneur ne remplit pas ses obligations, l'autorité contractante doit disposer de suffisamment de temps pour préparer et présenter la demande de paiement requise en vertu de la lettre de crédit.</p>
-<h4>SECTION 6E : PROCESSUS</h4>
-<h4>Retenues</h4>
+<h5>SECTION 6E : PROCESSUS</h5>
+<h5>Retenues</h5>
 <p>6.600 (01/08/97) Ces restrictions comportent des exceptions dont on peut tenir compte, à savoir :</p>
 <ol type="a">
 <li>lorsqu'il existe des pratiques commerciales établies qui permettent de déroger à ces restrictions, et qu'on peut en faire la démonstration; ou</li>
 <li>dans le cas d'organisations qui ne touchent ni bénéfices ni honoraires; ou</li>
 <li>lorsque d'autres méthodes de protection financière sont prévues dans le contrat, par exemple, des dépôts de garantie (les obligations garanties par le gouvernement, les lettres de change ou les lettres de crédit de soutien irrévocables) ou des cautionnements.</li>
 </ol>
-<h3>CHAPITRE 7 - ACHATS EN RÉGIME DE CONCURRENCE</h3>
-<h4>SECTION 7A : PRÉPARATION D'UNE INVITATION À SOUMISSIONNER</h4>
-<h4>Garantie de soumissions</h4>
+<h4>CHAPITRE 7 - ACHATS EN RÉGIME DE CONCURRENCE</h4>
+<h5>SECTION 7A : PRÉPARATION D'UNE INVITATION À SOUMISSIONNER</h5>
+<h5>Garantie de soumissions</h5>
 <p>7.020 (01/08/97) Lorsqu'une garantie de soumission est exigée, l'invitation à soumissionner doit préciser que l'entrepreneur est tenu de fournir une garantie et qu'à moins d'indication contraire, cette garantie doit prendre la forme de dépôt de garantie (une obligation garantie par le gouvernement, une lettre de change, une lettre de crédit de soutien irrévocable) ou de cautionnement.</p>
 <p>7.021 (01/08/97) Les soumissionnaires qui garantissent leur soumission par un dépôt de garantie (une obligation garantie par le gouvernement, une lettre de change, une lettre de crédit de soutien irrévocable) devront présenter des soumissions hmarquées d'un sceaui (sauf au Québec où le principe du sceau ne s'applique pas). Cette façon de procéder assure un fondement juridique pour la perte totale ou partielle du dépôt de garantie au cas où le soumissionnaire retirerait sa soumission avant que celle-ci ne soit acceptée, refuserait de conclure un marché ou omettrait de fournir la garantie contractuelle exigée.</p>
 <p>7.022 (01/08/97) Afin de prévenir les problèmes liés à l'obtention, à une date ultérieure, de la garantie contractuelle exigée, les invitations à soumissionner doivent préciser que si l'entrepreneur ne fournit pas la garantie contractuelle exigée dans le délai prescrit, il perdra le dépôt (une obligation garantie par le gouvernement, une lettres de change, une lettre de crédit de soutien irrévocable) versé à titre de garantie de soumission, jusqu'à concurrence de la différence entre le prix de la soumission et le montant du marché conclu par l'État, ou encore des demandes de paiements tirés sur la lettre de crédit de soutien seront effectuées.</p>
@@ -59,7 +59,7 @@
 <p>7.023 (01/08/97) Sauf si les seules garanties acceptables sont les dépôts de garantie (les obligations garanties par le gouvernement, les lettres de change et les lettres de crédit de soutien irrévocables), l'invitation à soumissionner doit comprendre une liste des sociétés de cautionnement, dont le cautionnement est reconnu par le gouvernement, ainsi que des échantillons des formules types de cautionnement. Les changements apportés aux formules de cautionnement doivent être approuvés par le Contentieux.</p>
 <p>La liste des compagnies de cautionnement figure à l'annexe 7.2. Des formules types figurent aux annexes 7.1 (cautionnement de soumission), 7.3 (cautionnement pour la main-d'œuvre et les matériaux), et 7.4 (cautionnement d'exécution).</p>
 <p><em>Les versions actuelles du cautionnement fédéral de paiement de la main-d'œuvre et des matériaux, du cautionnement de soumission et du cautionnement d'exécution inclus dans l'appendice S du Manuel du Conseil du Trésor (CT) $ Marchés font l'objet d'une révision et doivent continuer d'être utilisées jusqu'à avis contraire. Le formulaire de cautionnement pour le paiement du demandeur est une forme de garantie qui peut être utilisée pour les marchés de construction depuis le 1<sup>er</sup> janvier 1994. Lorsque l'entrepreneur principal fait l'objet d'une ou de plusieurs réclamations, le dépôt d'un cautionnement pour le paiement du demandeur par l'entrepreneur principal permettra le versement de paiements réguliers, par l'État, conformément au marché, pendant que les différends sont réglés entre les diverses parties. L'utilisation du cautionnement dans les marchés de construction prévoit un remède à l'intention des entrepreneurs qui pourraient avoir des difficultés financières à la suite des réclamations faites contre eux.</em></p>
-<h4>Exécution</h4>
+<h5>Exécution</h5>
 <p>7.027 (01/08/97) Au besoin, l'invitation à soumissionner peut comprendre divers mécanismes pour favoriser l'exécution du marché en temps opportun, tels que :</p>
 <ol type="a">
 <li>les garanties de contrat (financières) :<br/>
@@ -89,18 +89,18 @@
 <p>Ce type d'incitatifs pour livraison avant la date prévue ne devrait être envisagé que dans le cas des marchés très importants, comportant des échéances de livraison très longues, lorsque de tels paiements peuvent inciter l'entrepreneur à faire des efforts spéciaux pour livrer les biens ou produits plus tôt que prévu, et lorsque le client est d'accord en raison des économies substantielles réalisables et des autres avantages.</p>
 </li>
 </ol>
-<h4>SECTION 7D : TRAITEMENT DES SOUMISSIONS</h4>
-<h4>Évaluation des réponses</h4>
-<h4>Admissibilité des soumissions d'entreprises en participation</h4>
+<h5>SECTION 7D : TRAITEMENT DES SOUMISSIONS</h5>
+<h5>Évaluation des réponses</h5>
+<h5>Admissibilité des soumissions d'entreprises en participation</h5>
 <p>7.384 (01/08/97) On encourage la présentation de soumissions par des entreprises en participation et, aux fins d'évaluation, ces soumissions sont traitées comme toutes les autres soumissions. Une entreprise en participation, peu importe la structure pour laquelle elle a opté, ne peut être considérée comme un soumissionnaire admissible que si elle forme une entité viable sur le plan financier.</p>
-<h4>Éclaircissements</h4>
+<h5>Éclaircissements</h5>
 <p>7.389 (01/08/97) Au cours de l'évaluation, l'agent de négociation des contrats peut juger nécessaire d'obtenir des éclaircissements ou des données supplémentaires à l'appui. L'agent de négociation des contrats doit s'assurer qu'aucun des fournisseurs n'est avantagé par rapport aux autres. Il ne faut en aucun cas que cet éclaircissement modifie le prix proposé ou quelque élément important que ce soit de la soumission.</p>
-<h4>Garantie financière</h4>
+<h5>Garantie financière</h5>
 <p>7.402 (01/08/97) Si un soumissionnaire présente une soumission ne comprenant pas une garantie financière suffisante, c.-à-d. inférieure à la somme exacte demandée ou sans aucune garantie, sa soumission sera jugée non recevable.</p>
 <p>7.405 (01/08/97) TPSGC retiendra tout cautionnement de soumission, cautionnement d'exécution, cautionnement de paiement ou dépôt de garantie non négociable (les obligations garanties par le gouvernement, les lettres de change ou les lettres de crédit de soutien irrévocable) jusqu'à ce que les conditions de la garantie soient remplies. Pour obtenir de plus amples renseignements sur la garde de ces instruments en toute sécurité, consulter l'annexe 7.5, « Traitement, garde et mise en lieu sûr des garanties financières ».</p>
-<h4>SECTION 7E : ADJUDICATION DES MARCHÉS</h4>
-<h4>Éléments de finalisation du marché</h4>
-<h4>Vérification de la garantie contractuelle</h4>
+<h5>SECTION 7E : ADJUDICATION DES MARCHÉS</h5>
+<h5>Éléments de finalisation du marché</h5>
+<h5>Vérification de la garantie contractuelle</h5>
 <p>7.553 (01/08/97) Les lettres de crédit présentées par les entrepreneurs doivent être soumises à l'examen de l'agent de négociation des contrats, conseillé par le Contentieux au besoin, qui déterminera si elles sont exactes sous tous les rapports. Une lettre de crédit doit notamment :</p>
 <ol type="a">
 <li>prévoir la somme nominale qui peut être retirée;</li>
@@ -111,8 +111,8 @@
 <li>préciser clairement sa nature irrévocable ou indiquer clairement qu'elle est jugée irrévocable en vertu de l'article 6 c) des <em>Règles et usances uniformes relatives aux crédits documentaires</em> publiées par la Chambre de commerce internationale, révision de 1993, publication de la CCI n<sup>o</sup> 500;</li>
 <li>être émise ou confirmée dans l'une ou l'autre des langues officielles, par une institution financière membre de l'Association canadienne des paiements, et être écrite sur le papier à en-tête de l'émetteur ou du confirmateur. La mise en page est laissée à la discrétion de l'émetteur ou du confirmateur.</li>
 </ol>
-<h4>SECTION 7F : MESURES À PRENDRE APRÈS L'ADJUDICATION D'UN MARCHÉ</h4>
-<h4>Remise des garanties de soumission</h4>
+<h5>SECTION 7F : MESURES À PRENDRE APRÈS L'ADJUDICATION D'UN MARCHÉ</h5>
+<h5>Remise des garanties de soumission</h5>
 <p>7.726 (01/08/97) Les cautionnements viennent automatiquement à échéance et doivent être détruits à la fin de la période pour laquelle ils ont été exigés ou après l'exécution de l'engagement pour lequel ils ont été nécessaires. Les dépôts de garantie (les obligations garanties par le gouvernement, les lettres de change ou les lettres de crédit de soutien irrévocables) doivent être retournés aux soumissionnaires. Pour s'acquitter de toutes ses obligations, le soumissionnaire doit retourner les lettres de crédit à l'émetteur.</p>
 <p>7.727 (01/08/97) L'expiration des cautionnements ou le retour des dépôts de garantie (les obligations garanties par le gouvernement, les lettres de change ou les lettres de crédit de soutien irrévocables) doit avoir lieu :</p>
 <ol type="a">
@@ -120,17 +120,17 @@
 <li>pour les soumissionnaires non retenus, il est essentiel d'aviser ces derniers ou de renvoyer leur dépôt de garantie dans les plus brefs délais, immédiatement après l'attribution du marché, afin de ne pas limiter leur capacité à présenter de nouvelles soumissions;</li>
 <li>pour le soumissionnaire retenu, immédiatement après l'adjudication du marché une fois que la garantie a déjà été reçue ou immédiatement si aucune garantie n'est exigée.</li>
 </ol>
-<h3>ANNEXE 7.5 : TRAITEMENT, GARDE ET MISE EN LIEU SÛR DES GARANTIES FINANCIÈRES</h3>
+<h4>ANNEXE 7.5 : TRAITEMENT, GARDE ET MISE EN LIEU SÛR DES GARANTIES FINANCIÈRES</h4>
 <p>Les lignes directrices exposées ci-dessous s'appliquent au traitement, à la garde et à la mise en lieu sûr des garanties de soumissions et autres dépôts de garantie.</p>
-<h4>Traitement des lettres de change</h4>
+<h5>Traitement des lettres de change</h5>
 <p>1. Les lettres de change déposées à titre de dépôt de garantie de soumission ne doivent pas être encaissées; elles doivent être conservées dans un lieu sûr à l'épreuve du feu jusqu'à ce qu'une soumission soit acceptée ou pendant une période d'un an, selon celle de ces deux éventualités qui se produira la première. (Si le contrat n'a pas été attribué après un an, l'agent de négociation des contrats doit demander au soumissionnaire une nouvelle lettre de change portant la date courante.) Les dépôts de garantie reçus avec les soumissions de l'administration centrale sont envoyés par l'Unité de réception des soumissions au Secteur des finances de TPSGC pour mise en lieu sûr. L'Unité de réception des soumissions envoie trois copies de la liste et les dépôts au Secteur des finances, et inscrit le montant et le genre de dépôt (par exemple, chèque visé, obligation) à côté du nom de chaque soumissionnaire. Le Secteur des finances signe la liste et en retourne deux copies à l'Unité de réception des soumissions qui en envoie une copie à l'agent de négociation des contrats.</p>
 <p>2. Lorsqu'une soumission est acceptée et que la lettre de change doit être conservée à titre de garantie jusqu'à l'exécution du contrat, l'entrepreneur peut demander au Ministère de ne pas encaisser la lettre de change, auquel cas celle-ci doit être conservée par la direction dans le matériel de sécurité approuvé (voir le paragraphe 8 ci-dessous). Si la direction ne possède pas le matériel adéquat, la lettre de change doit être envoyée à la Division des services financiers (DSF) de la Direction des opérations financières de TPSGC, qui prendra les dispositions pour sa garde. Dans le cas contraire, la lettre doit être envoyée à la DSF, qui se chargera de la déposer dans le Fonds du revenu consolidé (FRC).</p>
 <p>3. Lorsqu'une soumission est acceptée ou rejetée et qu'il n'est pas jugé nécessaire de conserver à titre de garantie de l'exécution du contrat la lettre de change présentée comme garantie de soumission, la lettre est alors retournée à l'entrepreneur.</p>
 <p>4. Les lettres de change reçues à titre de garanties de contrats doivent être envoyées immédiatement à la DSF et déposées dans le FRC, conformément au Règlement sur la réception et le dépôt des deniers publics.</p>
 <p>5. Un dépôt de garantie remis en nantissement du retour des plans et devis sera confisqué si les lesdits plans et devis ne sont pas retournés à temps et en bon état. En outre, l'agent de négociation des contrats informera le gestionnaire de la DSF de la situation.</p>
-<h4>Obligations garanties par le gouvernement, lettres de change et lettres de crédit</h4>
+<h5>Obligations garanties par le gouvernement, lettres de change et lettres de crédit</h5>
 <p>6. Le Secteur des finances doit s'assurer que les obligationsgaranties par le gouvernement, les lettres de change ou les lettres de crédit de soutien irrévocables reçues sont consignées dans les registres comptables du Ministère ainsi qu'à l'actif et au passif des Comptes du Canada. Les directions doivent aviser immédiatement le Secteur des finances de tout effet reçu, qu'il soit conservé ou non par la direction.</p>
-<h4>Garde des obligations, des titres négociables et des lettres de crédit</h4>
+<h5>Garde des obligations, des titres négociables et des lettres de crédit</h5>
 <p>7. Les obligations d'État, les titres négociables et les lettres de crédit doivent être conservés en lieu sûr selon l'une des trois méthodes suivantes :</p>
 <ol type="a">
 <li>la garde peut être confiée à la DSF qui a été créée afin d'assurer la garde des titres et autres articles de valeur et de les protéger contre le vol; ou</li>
@@ -143,30 +143,30 @@
 <p>11. Les organisations du Ministère doivent acheminer les obligations nominatives et les obligations données en gage par courrier recommandé à la DSF (les directions doivent aussi procéder ainsi lorsqu'elles retournent des obligations au titulaire). Les obligations au porteur peuvent être acheminées par hpaquet d'argenti, par messagerie assurée, par service de voiture blindée ou par service de porteur assuré par le Ministère.</p>
 <p>12. La protection maximale assurée par le bureau de poste pour l'envoi d'obligations au porteur par hpaquet d'argenti est de 100 $; lorsqu'on utilise cette méthode, on devrait envisager une assurance supplémentaire adéquate. (Pour connaître les exigences relatives à l'étude et à la gestion des risques, les directions devraient consulter le Manuel du Conseil du Trésor intitulé hMatériel, Services et Gestion des risquesi.)</p>
 <p>13. La DSF est responsable de la bonne garde des obligations à coupons dont on lui confie la garde; elle doit en détacher les coupons échus et les remettre selon les instructions données par l'autorité contractante.</p>
-<h3>CHAPITRE 11 - GESTION DES MARCHÉS</h3>
-<h4>Demandes d'acomptes et facturation</h4>
-<h4>Mesures relatives à la sécurité financières</h4>
-<h4>Modification des clauses d'un marché</h4>
+<h4>CHAPITRE 11 - GESTION DES MARCHÉS</h4>
+<h5>Demandes d'acomptes et facturation</h5>
+<h5>Mesures relatives à la sécurité financières</h5>
+<h5>Modification des clauses d'un marché</h5>
 <p>11.090 (01/08/97) Lorsque le prix du contrat est haussé, il est préférable d'augmenter le montant de la garantie en fonction du nouveau prix. La valeur nominale d'une lettre de soutien de marché peut être augmentée ou réduite proportionnellement aux changements pouvant survenir quant au risque. La valeur nominale peut être changée par l'apport d'une modification à la lettre de crédit. Sinon, la lettre de crédit peut comporter une disposition expresse prévoyant la variation de la valeur selon des sommes précises ou déterminables, soit en fixant des dates précises à cet égard, soit sur présentation de la documentation prévue à cette fin, par exemple d'un certificat provisoire d'achèvement. Advenant un changement au contrat, on doit prévoir l'émission d'une nouvelle lettre de crédit ou la modification de la lettre de crédit émise.</p>
 <p>11.091 (01/08/97) Si le montant du dépôt de garantie excède le montant requis compte tenu de la modification du prix du marché, l'excédent doit être remboursé à l'entrepreneur. (Voir 11.296.)La valeur nominale d'une lettre de soutien de marché peut être augmentée ou réduite proportionnellement aux changements pouvant survenir quant au risque. La valeur nominale peut être changée par l'apport d'une modification à la lettre de crédit. Sinon, la lettre de crédit peut comporter une disposition expresse prévoyant la variation de la valeur selon des sommes précises ou déterminables, soit en fixant des dates précises à cet égard, soit sur présentation de la documentation prévue à cette fin, par exemple d'un certificat provisoire d'achèvement.</p>
-<h4>Protection des biens de l'État</h4>
+<h5>Protection des biens de l'État</h5>
 <p>11.103 (01/08/97) Si les risques éventuels pour l'État sont égaux ou supérieurs à 2 millions de dollars au total, on doit normalement effectuer une vérification discrétionnaire. On évalue ainsi la protection assurée par les dépôts de garantie (les obligations garanties par le gouvernement, les lettres de change ou les lettres de crédit de soutien irrévocables), les cautionnements d'exécution, les cautionnements pour salaires et matériaux, ou l'enregistrement établi ou prévu.</p>
-<h4>Résiliation</h4>
-<h4>Mesures relatives à la sécurité financière</h4>
+<h5>Résiliation</h5>
+<h5>Mesures relatives à la sécurité financière</h5>
 <p>11.138 (01/08/97) Si l'exécution d'un contrat est garantie par un dépôt (une obligation garantie par le gouvernement, une lettre de change ou une lettre de crédit de soutien irrévocable), on ne peut le résilier sans consulter le Contentieux.</p>
-<h4>Résiliation pour inexécution</h4>
-<h4>Mesures de recouvrement des pertes ou des dommages</h4>
+<h5>Résiliation pour inexécution</h5>
+<h5>Mesures de recouvrement des pertes ou des dommages</h5>
 <p>11.184 (01/08/97) L'agent de négociation des contrats doit remettre les demandes de règlement au Contentieux dans le cas de marchés garantis par un dépôt (une obligation garantie par le gouvernement, une lettre de change ou une lettre de crédit de soutien irrévocable) ou lorsque l'État a une demande de règlement à l'égard d'un entrepreneur en ce qui concerne des travaux pour lesquels l'entrepreneur a une demande de règlement à l'égard de l'État.</p>
 <p>Dans tous les autres cas, l'agent de négociation des contrats tente de négocier un règlement. Lorsqu'il est impossible de négocier un règlement satisfaisant, la demande de règlement est remise au Contentieux, qui prend les mesures nécessaires.</p>
-<h4>Décharge de la garantie financière du marché</h4>
+<h5>Décharge de la garantie financière du marché</h5>
 <p>11.296 (01/08/97) Lorsqu'un marché pour lequel une garantie (une obligation garantie par le gouvernement, une lettre de change ou une lettre de crédit de soutien irrévocable) a été déposée est réalisé ou résilié pour une raison qui ne dépend pas de l'entrepreneur, la garantie est remise à l'entrepreneur. L'agent de négociation des contrats doit demander à la Direction des services comptables d'obtenir un chèque correspondant au montant indiqué dans la lettre de change plus les intérêts accumulés, ou demander à la direction générale de veiller à ce que les cautionnements, les lettres de crédit ou autres titres négociables soient remboursés.</p>
-<h3>CHAPITRE 12 - GLOSSAIRE</h3>
-<h4>Lettre de crédit de soutien irrévocable</h4>
+<h4>CHAPITRE 12 - GLOSSAIRE</h4>
+<h5>Lettre de crédit de soutien irrévocable</h5>
 <p>1) Tout accord, quel qu'en soit le nom ou la description, en fonction duquel une institution financière, agissant conformément aux instructions ou aux demandes d'un client, ou en son nom propre, doit verser un paiement au gouvernement du Canada, en tant que bénéficiaire, ou doit accepter et payer les lettres de change émises par le gouvernement du Canada, ou autorise une autre institution financière à effectuer un tel paiement ou à accepter et à payer de telles lettres de change, ou autorise une autre institution financière à négocier, à la suite d'une demande écrite de paiement, à condition que les modalités de la lettre de crédit soient respectées. Les lettres de crédit irrévocables ne peuvent en aucun cas être modifiées ni annulées sans que le gouvernement du Canada, à titre de bénéficiaire, en soit d'abord informé. Sur les lettres de crédit, on doit préciser clairement qu'elles sont irrévocables ou indiquer qu'elles sont jugées irrévocables en vertu de l'article 6 c) des <em>Règles et usances uniformes relatives aux crédits documentaires</em> publiées par la Chambre de commerce internationale, révision de 1993, publication de la CCI n<sup>o</sup> 500. 2) Une forme de dépôt de garantie fourni à titre de garantie financière de soumission ou de contrat(01/08/97) (Irrevocable Standby Letter of Credit)</p>
-<h4>Dépôt de garantie</h4>
+<h5>Dépôt de garantie</h5>
 <p>Un dépôt, par le soumissionnaire/l'entrepreneur, de valeurs, y compris d'obligations garanties par le gouvernement, de lettres de change ou de lettres de crédit de soutien irrévocables, que l'autorité contractante peut utiliser pour remplir les obligations du soumissionnaire/de l'entrepreneur. (01/08/97) <strong><em>(Security Deposit)</em></strong></p>
-<h3>Annexe B</h3>
-<h4>SOUS-SECTION E - SÉCURITÉ FINANCIÈRE</h4>
+<h4>Annexe B</h4>
+<h5>SOUS-SECTION E - SÉCURITÉ FINANCIÈRE</h5>
 <p><strong>Remarques : LE TEXTE DE CETTE CLAUSE DOIT FIGURER EN ENTIER DANS LES DOCUMENTS D'ACHAT.</strong> Utiliser la clause suivante lorsque l'invitation à soumissionner contient la clause E0004T. L'agent de négociation des contrats doit inscrire les données requises aux paragraphes 1 (pourcentage seulement), 2 et 3. Le texte des annexes mentionnées dans cette clause figure dans la section « Annexes » du Guide des approvisionnements.</p>
 <p><strong>E0001T __/__/97 Dépôts de garantie/cautionnements</strong></p>
 <p>1. Annexée à la présente soumission est la garantie exigée<br/>

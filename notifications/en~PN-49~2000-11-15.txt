@@ -1,8 +1,8 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-49</h2>
+<h3 class="pn-content-title">Content of PN-49</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h4>Background:</h4>
+<h5>Background:</h5>
 <p>The revised policy on <em>Title to Intellectual Property Arising<br/>
 					under Crown Procurement Contracts</em>, sponsored by Industry<br/>
 					Canada, was approved by Treasury Board (TB) June 1, 2000. The<br/>
@@ -38,7 +38,7 @@
 					IP much as if the Crown owned the IP, it was hoped that reluctance<br/>
 					on the part of clients to allow the contractor to own the IP, based<br/>
 					on concern for their operations, would be reduced.</p>
-<h4>Policy</h4>
+<h5>Policy</h5>
 <p>The new Policy is essentially the same as the old Policy (1991)<br/>
 					in that it maintains the presumption that IP is best commercialized<br/>
 					by the private sector, and that ownership by the private sector<br/>
@@ -60,7 +60,7 @@
 <p>The Implementation Guide (which includes the Model Clauses) for<br/>
 					the Treasury Board Policy can be viewed at:<br/>
 <a href="http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/contracting/tipaucpc_ig_e.html" rel="external">http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/contracting/tipaucpc_ig_e.html</a></p>
-<h4>Implementation of the Policy</h4>
+<h5>Implementation of the Policy</h5>
 <p>The new Policy is being implemented using a phased approach. All<br/>
 					ownership decisions taken on or after October 1, 2000, and all<br/>
 					Request for Proposals (RFPs) and contracts issued on or after December<br/>
@@ -83,11 +83,11 @@
 					be able to indicate whether the IP will be contractor-owned or<br/>
 					Crown-owned (and if so, under what exception) by making a choice<br/>
 					from a drop down list in the Automated Buyer Environment system.</p>
-<h4>Supply Manual:</h4>
+<h5>Supply Manual:</h5>
 <p>The revisions to the Supply Manual are attached at Appendix B.<br/>
 					These revisions will be incorporated into the next Supply Manual<br/>
 					amendment, scheduled to be released in the first quarter of 2001.</p>
-<h4>Standard Acquisition Clauses and Conditions (SACC) Manual:</h4>
+<h5>Standard Acquisition Clauses and Conditions (SACC) Manual:</h5>
 <p>SPD and Legal Services are amending the SACC Manual to produce<br/>
 					new IP terms (General Conditions, Supplemental General Conditions<br/>
 					and clauses) that will allow contracting officers to continue doing<br/>
@@ -117,7 +117,7 @@
 					D. Where the client department indicates a reason for Crown ownership<br/>
 					based on the 1991 Policy, the current version of K3200T in the<br/>
 					SACC Manual should be used.</p>
-<h3>APPENDIX A</h3>
+<h4>APPENDIX A</h4>
 <table class="basic">
 <caption>
 					Exceptions Allowing Crown Ownership<br/>
@@ -207,8 +207,8 @@
 							could make up their own exceptions)</td>
 </tr>
 </tbody></table>
-<h3>APPENDIX B</h3>
-<h4>Revisions to the Supply Manual</h4>
+<h4>APPENDIX B</h4>
+<h5>Revisions to the Supply Manual</h5>
 <p> 6.174 (xx/xx/xx) "<strong>Policy - Objectives and Underlying<br/>
 					Principles</strong></p>
 <p><em>"10. Like the 1991 policy, the revised policy aims to increase<br/>
@@ -278,7 +278,7 @@
 <li>Crown to retain copyright</li>
 <li>Contractor to retain all IP, including copyright</li>
 </ul>
-<h4>Intellectual Property</h4>
+<h5>Intellectual Property</h5>
 <p>7.070 (xx/xx/xx) The bid solicitation should make clear to potential<br/>
 					bidders the ownership of any IP rights, as determined by the client<br/>
 					department. SACC Manual clauses may be used in conjunction with<br/>
@@ -301,11 +301,11 @@
 					that are contractor-owned IP and that are Crown-owned IP and the<br/>
 					exception(s) invoked (the same reason used in clause K3200T). The<br/>
 					report will be rolled up with the TB report on contracting.</p>
-<h4>Annex 7.5: INTELLECTUAL PROPERTY CLAUSES</h4>
+<h5>Annex 7.5: INTELLECTUAL PROPERTY CLAUSES</h5>
 <p>An amendment to this Annex will be released at the same time as<br/>
 					the new clauses are released.</p>
-<h3>APPENDIX C</h3>
-<h4>Concordance Table between Existing IP Terms and Model Clauses</h4>
+<h4>APPENDIX C</h4>
+<h5>Concordance Table between Existing IP Terms and Model Clauses</h5>
 <p><strong>1A: Research and Development Contracts</strong></p>
 <p><strong>Client Decision: Contractor Owns</strong></p>
 <table class="basic">
@@ -734,7 +734,7 @@
 							Property</td>
 </tr>
 </tbody></table>
-<h3>APPENDIX D</h3>
+<h4>APPENDIX D</h4>
 <p><strong>K3200T (xx/xx/xx)   Basis for Canada's<br/>
 					Ownership of Intellectual Property</strong></p>
 <p><strong>Remarks</strong>: <em>Use the following clause in all<br/>

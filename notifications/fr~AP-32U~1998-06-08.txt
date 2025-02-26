@@ -1,32 +1,32 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-32U</h2>
+<h3 class="pn-content-title">Contenu de l'AP-32U</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 17 juillet 1998</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 17 juillet 1998</h4>
 <p>La présente mise à jour de l'avis relatif aux politiques (AP) contient ce qui suit :</p>
 <p>1. un guide de consultation rapide servant à déterminer si un Formulaire de renseignements sur l'approvisionnement (FRA) est nécessaire (<strong>annexe A</strong>);</p>
 <p>2. le détail des modifications apportées au Formulaire et aux procédures connexes (description ci-dessous);</p>
 <p>3. des renseignements supplémentaires et des précisions sous forme de questions et réponses (<strong>annexe B</strong>).</p>
 <p>Cette mise à jour doit être lue et mise en œuvre en même temps que l'AP 32 original. Lorsqu'il y a une différence entre l'avis relatif aux politiques original et la mise à jour, les instructions énumérées dans la mise à jour doivent être suivies.</p>
-<h4>Modifications apportées au Formulaire de renseignements sur l'approvisionnement et aux procédures connexes</h4>
+<h5>Modifications apportées au Formulaire de renseignements sur l'approvisionnement et aux procédures connexes</h5>
 <p>Les révisions indiquées ci-dessous ont été apportées au FRA et aux procédures connexes. Le FRA modifié (voir le formulaire n<sup>o</sup>_PIF0798.STY (AMI) ci-joint à l'<strong>appendice A</strong>) doit être mis en œuvre au plus tard le 17 juillet 1998.</p>
 <p><strong>Modifications aux marchés et aux autres attributions</strong> - À compter du 17 juillet 1998, le FRA sera utilisé pour communiquer de l'information au bureau du ministre en ce qui a trait aux modifications proposées (y compris les modifications approuvées antérieurement) aux contrats et aux autres types d'attribution lorsque la valeur globale des modifications dépasse les seuils du FRA indiqués ci-dessous.</p>
-<h4>Seuils établis aux fins du FRA pour les modifications</h4>
+<h5>Seuils établis aux fins du FRA pour les modifications</h5>
 <p>Le seuil établi pour <strong>les modifications des marchés concurrentiels</strong> (y compris les marchés approuvés par l'entremise d'une délégation de pouvoir pour les appels d'offres électroniques) est:</p>
 <p>25 000 $ et 10 p. 100 de la valeur approuvée à l'origine, au moment de l'attribution.</p>
 <p>Le seuil établi pour <strong>les modifications des marchés non concurrentiels</strong>, lorsqu'un PAC n'a pas été publié, est :</p>
 <p>10 000 $ et 10 p. 100 de la valeur approuvée à l'origine, au moment de l'attribution.</p>
 <p>Les FRA relatifs aux modifications sont exigés seulement lorsque la valeur seuil en dollars et la valeur seuil en pourcentage sont dépassées. Il n'est pas nécessaire de remplir un FRA lorsque la valeur des modifications est négative ou nulle ou que les modifications ont été approuvées par le ministre.</p>
-<h4>Délai de présentation et de distribution des FRA relatifs aux modifications</h4>
+<h5>Délai de présentation et de distribution des FRA relatifs aux modifications</h5>
 <p>Les FRA relatifs aux modifications non approuvées antérieurement doivent être envoyés à l'adresse électronique «PIF» 48 heures avant la date d'émission prévue pour la modification. Les FRA relatifs aux modifications approuvées antérieurement et les modifications réalisées pour le compte de la Corporation commerciale canadienne (CCC) doivent être présentés à la date à laquelle la modification est émise. La règle d'affectation des noms des fichiers électroniques exposée dans l'Avis de politique 32 doit s'appliquer aux FRA relatifs aux modifications. La lettre « M » correspondra au premier caractère dans le nom du fichier affecté par des modifications.</p>
-<h4>Modifications apportées au FRA</h4>
+<h5>Modifications apportées au FRA</h5>
 <p>La partie supérieure du FRA a été révisée pour inclure deux nouveaux champs, l'un pour indiquer le type de document comme une modification à une attribution et l'autre pour préciser le numéro de la modification. Une nouvelle section intitulée «Information relative à la modification», comprenant cinq champs explicites, a été ajoutée comme deuxième page au FRA.</p>
 <p>La brève description ainsi que la justification à l'appui d'une modification doivent indiquer si la modification a été approuvée antérieurement, et lorsqu'il s'agit de modifications non approuvées antérieurement, elles doivent inclure les raisons pour lesquelles les principes de concurrence et de transparence ne peuvent être maintenus.</p>
 <p>En plus des renseignements sur la modification proposée, les FRA relatifs aux modifications doivent inclure tous les renseignements pertinents dans les sections Planification et Attribution du FRA même si les FRA ont été présentés pour cet achat.</p>
@@ -39,8 +39,8 @@
 <p><strong>Pour les attributions</strong> - les FRA doivent être soumis au plus tard 48 heures avant la date prévue pour l'attribution, sauf les attributions réalisées pour le compte de la CCC pour lesquelles les FRA doivent être soumis au moment de l'attribution.</p>
 <p><strong>Pour les modifications non approuvées antérieurement</strong> - les FRA doivent être soumis au plus tard 48 heures avant la date prévue pour l'émission de la modification.</p>
 <p><strong>Pour les modifications approuvées antérieurement, et les modifications effectuées pour le compte de la CCC</strong> - les FRA doivent être soumis au moment de l'émission de la modification.</p>
-<h4>Annexe A</h4>
-<h5>Guide de consultation rapide pour déterminer s'il y a lieu d'utiliser un formulaire de renseignements sur l'approvisionnement (FRA)</h5>
+<h5>Annexe A</h5>
+<h6>Guide de consultation rapide pour déterminer s'il y a lieu d'utiliser un formulaire de renseignements sur l'approvisionnement (FRA)</h6>
 <p><strong>Types de demandes d'approbation d'achat qui nécessitent un FRA</strong></p>
 <p>Les Formulaires de renseignements sur l'approvisionnement servent à fournir des informations sur ce qui suit :</p>
 <ul>
@@ -48,7 +48,7 @@
 <li>les attributions de contrat; et</li>
 <li>les modifications de contrats (et autres types d'attribution).</li>
 </ul>
-<h5>Seuils au-dessus desquels un FRA est nécessaire</h5>
+<h6>Seuils au-dessus desquels un FRA est nécessaire</h6>
 <p>Un FRA doit être rempli pour les plans d'achat et les attributions de contrat dont la valeur dépasse les seuils des produits précis énumérés ci-dessous. Les seuils relatifs au FRA pour toutes les modifications sont indiqués à la fin de ce tableau. Il n'est pas nécessaire de remplir un FRA dans le cas des modifications approuvées par le ministre.</p>
 <dl>
 <dt><strong>Appels d'offres électroniques</strong></dt>
@@ -76,15 +76,15 @@
 <p>Dans le cas des achats approuvés par l'entremise d'une délégation de pouvoirs exceptionnels, comme pour la réparation et la révision ou la gestion de l'énergie, le FRA doit être rempli pour tous les plans d'achat et les attributions de contrat qui dépassent 25 % de la délégation de pouvoirs exceptionnels. Il est nécessaire de remplir un FRA pour les modifications approuvées par l'entremise de la délégation de pouvoirs exceptionnels, en utilisant les seuils susmentionnés.</p>
 <p>Dans le cas des achats réalisés pour le compte de la CCC, un FRA doit être rempli lorsque les attributions dépassent les seuils établis pour les « Biens », basé sur la méthode d'invitation à soumissionner connue (p. ex. appels d'offres électroniques, concurrentiels ou non concurrentiels). Il n'est pas nécessaire de remplir un FRA pour l'attestation des soumissions.</p>
 <p>Il faut également remplir un FRA pour les modifications approuvées antérieurement.</p>
-<h5>Délai de présentation et distribution des FRA</h5>
+<h6>Délai de présentation et distribution des FRA</h6>
 <p>Les FRA doivent être envoyés à l'adresse électronique « PIF » 48 heures avant :</p>
 <ul>
 <li>la date prévue pour le lancement de l'appel d'offres (pour les plans d'achat);</li>
 <li>la date prévue pour l'attribution (sauf dans le cas des attributions réalisées pour le compte de la CCC où les FRA doivent être soumis au moment de l'attribution);</li>
 <li>la date prévue pour l'émission de la modification (sauf dans le cas des modifications approuvées antérieurement et les modifications de contrats de la CCC où les FRA doivent être soumis au moment de l'émission de la modification).</li>
 </ul>
-<h4>Annexe B</h4>
-<h5>Questions et réponses concernant le FRA</h5>
+<h5>Annexe B</h5>
+<h6>Questions et réponses concernant le FRA</h6>
 <p><strong>1.Q Un Formulaire de renseignements sur l'approvisionnement (FRA) est-il nécessaire dans les cas où une note au ministre est établie?</strong></p>
 <p>1.R Oui, il faut remplir un FRA si on demande l'approbation d'un plan d'achat ou d'une attribution de contrat par l'entremise d'une note au ministre. Ce n'est pas le type de document d'approbation établi qui détermine s'il faut ou non remplir un FRA.</p>
 <p><strong>2.Q Faut-il remplir un FRA pour les modifications aux documents contractuels?</strong></p>
@@ -125,8 +125,8 @@
 <p><strong>12.Q Quand doit-on remplir la nouvelle section relative aux Achats axés sur les avantages?</strong></p>
 <p>12. R Les Achats axés sur les avantages (AAA) représentent une nouvelle méthode sur la façon selon laquelle nous faisons des affaires. Les éléments des AAA peuvent être utilisés dans tous les achats. Lorsqu'un ou plusieurs éléments (Début, contexte, responsabilité et paiement) seront utilisés, il faudra le mentionner sur le FRA.</p>
 <p>En ce qui a trait au FRA situé à l'appendice A, veuillez vous référer au fichier AP32UAPA.SAM</p>
-<h4>Appendice B</h4>
-<h5>RAISONS JUSTIFIANT LE RECOURS À L'APPEL D'OFFRES LIMITÉ</h5>
+<h5>Appendice B</h5>
+<h6>RAISONS JUSTIFIANT LE RECOURS À L'APPEL D'OFFRES LIMITÉ</h6>
 <table class="basic">
 <tbody><tr>
 <th id="AP-32Uheading1" scope="col">Champ d'application</th>
@@ -245,8 +245,8 @@
 </tr>
 </tbody></table>
 <p>* Pour MREA et Aucun, seulement les raisons énoncées par le CT sont admissibles. (Voir les Codes PAC 71, 81, 85 et 87.)</p>
-<h4>Appendice C</h4>
-<h5>CODES DU PROCESSUS D'ATTRIBUTION DES CONTRATS (PAC)</h5>
+<h5>Appendice C</h5>
+<h6>CODES DU PROCESSUS D'ATTRIBUTION DES CONTRATS (PAC)</h6>
 <p>Les codes PAC admissibles et les raisons justifiant l'utilisation d'un code PAC spécifique sont énumérés ci-dessous. <em>(Modifiée le 01/01/96)</em></p>
 <p><strong>Code PAC : 01</strong> <br/>
 					Soumission la plus basse</p>

@@ -1,10 +1,10 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-09</h2>
+<h3 class="pn-content-title">Content of PN-09</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Distribution, to senior management, of CPAAs, procurement plans and contract summaries for requirements over $1 million is a condition of the Minister's delegation of contract approval authorities.</p>
 <p>Further to the standard distribution prescribed by the <em>Supply Manual</em> (procedures 6.656 and 6.667) and complementary internal procedures, CPAAs, procurement plans and contract summaries for procurements valued greater than $1 million must be provided to the following distribution lists:</p>
-<h4>Procurement Plans and Contract Summaries:</h4>
+<h5>Procurement Plans and Contract Summaries:</h5>
 <p>Alan Williams, (ADM, SOSB)<br/>
 					Mary-Lou Devine, (ADM, SOSB)<br/>
 					Catherine McCarthy, (ADM, SOSB)<br/>
@@ -13,7 +13,7 @@
 					Steven Turner, (Audit and Review)<br/>
 					Gian Brown, (Audit and Review)<br/>
 					Sector/Regional Director General</p>
-<h4>CPAAs:</h4>
+<h5>CPAAs:</h5>
 <p>Alan Williams, (ADM, SOSB)<br/>
 					Mary-Lou Devine, (ADM, SOSB)<br/>
 					Catherine McCarthy, (ADM, SOSB)<br/>
@@ -38,11 +38,11 @@
 					is approved.</p>
 <p>CPAAs must be resubmitted where there has been a significant change<br/>
 					from the originally approved plan.</p>
-<h4>References:</h4>
+<h5>References:</h5>
 <p>Supply Manual:<br/>
 					Contract Planning and Advance Approval Process - 6.655 - 6.658<br/>
 					Formal Procurement Plan Process - 6.662 - 6.668</p>
-<h3>Annex 6.1 (e)</h3>
+<h4>Annex 6.1 (e)</h4>
 <table class="basic" summary="Annex 6.1 (e)">
 <caption>
 					Public Works and Government Services Canada Legal Services Place<br/>

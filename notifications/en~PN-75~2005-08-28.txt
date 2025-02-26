@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-75</h2>
+<h3 class="pn-content-title">Content of PN-75</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Public Works and Government Services Canada (PWGSC) employs a variety of approaches to meet procurement requirements.  This spectrum<sup><a id="PN-75b1" name="b1"></a><a href="#PN-75f1">1</a></sup> ranges from specific contracts which precisely define the deliverables to be provided to a specific client by a specific date, to various procurement frameworks for use by several or many departments and agencies, for sometimes less specific or well defined needs.  Included in the latter are standing offers, supply arrangements, and contracts with components activated by Task Authorizations.</p>
 <p>A Task Authorization (TA) is a structured administrative process enabling the client to authorize work by a contractor on an "as and when requested" basis in accordance with the terms and conditions of an existing contract.  Contracts that provide for the use of TAs ("TA contracts") are used in <strong>service</strong> contracting situations where a definite need for a category of service exists, but the precise nature and timing of the need cannot be set out in advance.  The use of TAs must be specifically provided for in the contract.  When the client requires the services, a TA is issued to instruct the contractor to carry out the specified work.</p>
@@ -12,7 +12,7 @@
 <li>Certain types of Repair and Overhaul (R&amp;O) services (for more details see paragraph 7 below).</li>
 </ul>
 <p>Effective immediately, this Policy Notification (PN) provides the broad policy basis for using TA contracts.  The Department of National Defence (DND) is perhaps the largest user of TA contracts and has a well-defined internal process.  Within the overall policy framework for TA contracts, a specific section of this Policy Notification sets out how TA contracts for DND will be dealt with.</p>
-<h4>Policy</h4>
+<h5>Policy</h5>
 <p><strong>1.</strong> Clients may request that task authorizations be included in a new contract. Equally, PWGSC contracting officers may determine that the needs of the client(s) would be best met by the use of task authorizations issued on an "as and when requested" basis. Developing the most appropriate procurement approach to meet client needs as described in a requisition or during pre-requisition discussions is a key responsibility of the contracting officer.</p>
 <p><strong>2.</strong> In developing a method of supply or upon receipt of a requisition for a TA contract, the contracting officer and the client must work together closely, to ensure the appropriate combination of operational flexibility and speed, contract and risk management, and overall efficiency and cost-effectiveness. It is always preferable to have these discussions before the actual requisition is received by PWGSC. This will help ensure that all characteristics and needs of a TA contract are taken into account by the contracting officer and the clients in deciding how to proceed.</p>
 <p><strong>3.</strong> Client project or program authorities may issue TAs to have work performed within the scope of the contract, up to financial limits established by PWGSC in consultation with the client. These limits are established taking into consideration a number of factors. In general, the more closely the contract scope has been defined, and the more specifically individual tasks may be defined, the higher the limit that can be placed on individual TAs by clients.  Conversely, where the overall contract and individual tasks have a broader scope and tasks will require significant negotiation to define and put in place, it is prudent that individual task authorization limits be lower.  Further, the greater the number of client representatives issuing TAs, the closer the need for oversight by PWGSC and the client (particularly of total expenditures against the contract).</p>
@@ -37,7 +37,7 @@
 <li>R&amp;O work currently authorized on an "as and when requested" basis through the use of forms such as the Project Work Order (PWO).  Note that DND will now be using the DND626 task authorization form in lieu of the PWO.</li>
 </ul>
 <p><strong>8.</strong> For TA contracts already in place as of the effective date of this PN, contracting officers may consider modifying the existing TA contract provisions, including TA approval limits, within the framework of this PN in consultation with their manager and client.</p>
-<h4>Background</h4>
+<h5>Background</h5>
 <p><strong>9.</strong> When they are well designed and properly used, TA contracts provide a structured framework offering operational speed and flexibility to clients.  Also, because a formal contract is in place, the overall cost to the government is usually less.  With these recognized benefits, TA contracts have been used successfully for many years.</p>
 <p><strong>10.</strong> As part of the business transformation of government procurement now under way as part of The Way Forward, the use of TA contracts and similar instruments is expected to increase.  PWGSC will seek to move from individual contracts entered into by or for individual departments, to broader-coverage procurement instruments that one or many clients can use directly, quickly and inexpensively.</p>
 <p><strong>11.</strong> However, there have also been cases where problems have occurred.  These fall into three main categories:</p>
@@ -48,10 +48,10 @@
 </ol>
 <p>While problems of this nature may also occur with non TA-type contracts, the focus of this Policy Notification is to avoid these pitfalls with TA contracts in particular.</p>
 <p><strong>12.</strong> TAs may be appropriate in a broad range of contract and operational situations.  The nature and scope of work to be performed under the contract may be defined in detail in the contract, and a rate structure included which sets out the basis for pricing any specific task.  Equally, the nature and scope of the work to be performed may be included in the contract, but it may take considerable effort to define and negotiate the Level of Effort for a particular task.  As a result, each situation must be dealt with on its own merits.</p>
-<h4>Procedures</h4>
+<h5>Procedures</h5>
 <p><strong>13.</strong> When it is decided to put in place a TA contract, it is important that the bidding process and resulting contract deal specifically with: scope; task authorization limits, and process.</p>
 <p><strong>14.</strong> Additionally, the procurement plan must address the contract risk management strategy, and roles and responsibilities.</p>
-<h4>Scope</h4>
+<h5>Scope</h5>
 <p><strong>15.</strong> TA contracts must contain a clear Statement of Work (SOW) describing the work that will or may be performed under the contract, with specific reference to work that may be carried out pursuant to TAs.</p>
 <p><strong>16.</strong> TAs must include an equally clear SOW addressing deliverables and schedule requirements.</p>
 <ol type="a">
@@ -59,7 +59,7 @@
 <li>TAs must not exceed individual TA limit(s) specified in the contract, or any limit placed on the cumulative value of TAs under the contract.</li>
 </ol>
 <p><strong>17.</strong> TAs must not be used to amend the terms and conditions of the contract.</p>
-<h4>Task Authorization Limits</h4>
+<h5>Task Authorization Limits</h5>
 <p><strong>18.</strong> Task authorization limits will include (i) limits for issuing TAs by clients; and (ii) limits for issuing TAs by the PWGSC contracting officer.  In establishing limits to individual TAs and any amendments to those TAs, contracting officers in consultation with the client should consider:</p>
 <ol type="a">
 <li>Operational requirements, control issues, financial management requirements or other factors affecting the use of TAs;</li>
@@ -78,7 +78,7 @@
 <li>This added value can be in several forms, such as financial oversight; negotiation of prices for work packages (tasks) within the contract framework; or comparisons with similar contracts for other clients to ensure value for money.</li>
 <li>Where PWGSC involvement will not result in any value added, or that value added is not sufficient to compensate for any costs of this involvement, consideration should be given to an increase in the client TA authority.</li>
 </ol>
-<h4>Process</h4>
+<h5>Process</h5>
 <p><strong>20.</strong> In using task authorizations, the organization authorized to issue tasks to the contractor (normally the client) is responsible for:</p>
 <ol type="a">
 <li>Verifying that the work required is within the scope of the TA contract and the task authorization process;</li>
@@ -110,7 +110,7 @@
 <li>The frequency of monitoring or audits of tasks can influence the limits placed on individual task authorizations. The greater the audit frequency, the more managed the risk associated with the task authorization process.  Consequently, this may allow contracting officers to consider higher individual task authorization limits.</li>
 </ol>
 <p><strong>24.</strong> Contracting officers must ensure that detailed information is provided in order to effectively perform monitoring and oversight requirements.  For example, TAs should include a clear description of the work to be performed, appropriate rates/resource categories, schedule, appropriate authorization, etc.  Reports should include details on the work performed, running totals, rates/resource categories, etc.  Any audit requirements should be clearly detailed in the contract to ensure the contractor is aware of what information will be required and verified.</p>
-<h4>Risk Management</h4>
+<h5>Risk Management</h5>
 <p><strong>25.</strong> The improper use of task authorization contracts can lead to major problems between the government and its suppliers; between PWGSC and its clients; and for the government in the eyes of the public.  Therefore, focused attention must be given to how to prevent such negative events and how they, however infrequent, will be dealt with.</p>
 <p>strong&gt;26. In developing the procurement plan for TA contracts, contracting officers must consider and discuss with the client<sup><a id="PN-75b3" name="b3"></a><a href="#PN-75f3">3</a></sup> specific preventative, remedial or corrective measures to be taken where there are indications that the TA process is not working as planned.  Measures may range from changing the detail and/or frequency of information reporting; training any or all participants; reduction of the dollar limit placed on individual tasks; reducing or revoking the authority to issue task authorizations; to invoking penalty or termination provisions in the contract:</p>
 <ol type="a">
@@ -119,7 +119,7 @@
 <li>Invoking termination provisions must not be undertaken without consultation with Legal Services.</li>
 <li>An area of attention must be how requirements, identified by the client or by the supplier, that cannot be dealt with using TAs will nonetheless be met quickly and economically.</li>
 </ol>
-<h4>Roles and Responsibilities</h4>
+<h5>Roles and Responsibilities</h5>
 <p><strong>27.</strong> The following paragraphs provide general guidelines for management of roles and responsibilities in procurements involving TA contracts<sup><a id="PN-75b4" name="b4"></a><a href="#PN-75f4">4</a></sup>.</p>
 <p><strong>28.</strong> When it is proposed to issue a TA contract, it is essential that there be a clear understanding and agreement between PWGSC and the client as to roles and responsibilities relating to the management of the contract and the use of task authorizations:</p>
 <ol type="a">
@@ -154,7 +154,7 @@
 </ol>
 <p><strong>32.</strong> There must be an agreement between PWGSC and the client regarding the monitoring process and appropriate information exchange, including the frequency and content of client reports, if applicable.  The agreement must be documented on file, and the formality of the agreement will depend on the complexity of the procurement.</p>
 <p><strong>33.</strong> At all times during the life of the contract, all parties must be fully accountable for their respective roles and responsibilities in and relating to the contract, and must remain fully informed of any actions initiated under the contract.</p>
-<h4>Task Authorization Contracts for Department of National Defence (DND)</h4>
+<h5>Task Authorization Contracts for Department of National Defence (DND)</h5>
 <p><strong>34.</strong> As a major user of task authorization contracts, DND has its own internal procedure for the management of TAs, known as the DND626 after the authorization form that is used. PWGSC contracting officers working with DND on TA contracts must ensure that they are familiar with DND's internal processes, which are contained in DND's Procurement Administration Manual (PAM), extracts of which are attached at Annex A.  The major features of the DND approach, which seeks to ensure tight management oversight over task authorizations, are that in order to include task authorizations in a contract, the contract must include:</p>
 <ol type="a">
 <li>A SOW that defines the work to be performed by the contractor under task authorizations;</li>
@@ -165,19 +165,19 @@
 <p><strong>35.</strong> DND makes it clear to its own staff that it is the responsibility of DND, before issuing a task authorization or seeking PWGSC approval of one, to verify that the proposed work is within scope.</p>
 <p><strong>36.</strong> Only the DND 626 Task Authorization form can be used for requesting/confirming Task Authorizations to the contractor in DND TA contracts.</p>
 <p><strong>37.</strong> The DND 626 form contains a signature block for PWGSC approval of tasks, where this is required under the agreed-to process, i.e. where a particular task authorization is outside the client's approval authority.  Where PWGSC approval of a task authorization is required, contracting officers must review it according to the context of the particular contract.  If the task authorization is found appropriate, the contracting officer will authorize or arrange for appropriate authorization and return the DND626 to the DND procurement/requisitioning authority in an expeditious manner for issuance to the contractor.</p>
-<h4>Next Steps</h4>
+<h5>Next Steps</h5>
 <p>Work is under way to develop appropriate clauses and forms, as well as a set of guidelines to assist contracting officers in determining appropriate limits for task authorizations.  When completed, they will be published along with appropriate updates to the Supply Manual.</p>
-<h4>Contact</h4>
+<h5>Contact</h5>
 <p>Any inquiries are to be addressed to Veronica Nazareth, Acquisition Policy and Process Directorate, by phone at 819-956-5024, or by e-mail at <a href="mailto:veronica.nazareth@pwgsc-tpsgc.gc.ca" rel="external">veronica.nazareth@pwgsc-tpsgc.gc.ca</a>.</p>
-<h3>Annex A</h3>
-<h4>Extract from DND Procurement Administration Manual (PAM) – DND 626 Procedures</h4>
+<h4>Annex A</h4>
+<h5>Extract from DND Procurement Administration Manual (PAM) – DND 626 Procedures</h5>
 <p>"A Task Authorization Contract may be raised when:</p>
 <ol type="a">
 <li>There is a need to have some or all of the work performed by the contractor on an "as and when requested" basis; and</li>
 <li>The main Statement of Work (SOW) will broadly define the scope of work that will be performed under a task authorization; and</li>
 <li>The task authorization will be an administrative process only and will use the existing terms and conditions in the main contract. (PAM 3.1 Annex A)</li>
 </ol>
-<h5>Special requirements to include in the 9200 requisition for a Task Authorization Contract:</h5>
+<h6>Special requirements to include in the 9200 requisition for a Task Authorization Contract:</h6>
 <p>The Technical Authority must specify in the SOW the scope of the work to be performed using "as and when requested" tasks. The TA must define the scope sufficiently to allow inclusion in the resulting contract for both the appropriate labour and resource categories and associated firm labour or per diem rates for each resource category.</p>
 <ol class="double">
 <li>The TA should have sufficient knowledge of all work to be performed under the contract, including Tasks, and be able to identify a reasonable estimated Limitation of Expenditure for the term of the resulting contract.</li>
@@ -205,7 +205,7 @@
 </ol>
 <p>This is a list of the minimum requirements to include; more may be added if required by the individual contract.</p>
 <p><strong>Note:</strong> Before issuing a Task Authorization contract, PWGSC may need to ensure that specific reporting requirements will be addressed.  These requirements will be discussed and agreed to by the DND procurement authority and the PWGSC contracting authority prior to releasing the RFQ/RFP.  (DND PAM 3.3.11 Annex H)</p>
-<h5>When to use a DND626</h5>
+<h6>When to use a DND626</h6>
 <p>There must be a Task Authorization contract in place containing the following:</p>
 <ol type="a">
 <li>A Statement of Work (SOW) that broadly defines the work to be performed by the contractor under a Task Authorization;</li>
@@ -217,9 +217,9 @@
 </ol>
 <p>The PA will ensure the DND626 is approved by the signing authority listed in the <strong>PAM 1.4 Annex D table 1.4D-2</strong>.  Once approved, the original signed Task Authorization form will be forwarded to the contractor to authorize them to begin work on the task and at the same time a copy of the signed approved Task Authorization form must be forwarded to the Contracting Authority. (DND PAM 3.3.2.2)</p>
 <p>If the quote exceeds the DND approval/amendment threshold identified in the PWGSC contract, the procurement authority forwards the DND626 to the PWGSC Contracting Authority for review and comments.  When the PWGSC Contracting authority is satisfied with the task they will sign in the block for PWGSC and return the DND626 to the Procurement authority." (DND PAM 3.3.2.2)</p>
-<h3>Annex B</h3>
-<h4>Sample Minimum Work Guarantee Clause</h4>
-<h5>Contract for Work on an "As and When Requested" Basis</h5>
+<h4>Annex B</h4>
+<h5>Sample Minimum Work Guarantee Clause</h5>
+<h6>Contract for Work on an "As and When Requested" Basis</h6>
 <ol class="upper-roman double">
 <li>In this clause,
 <p>"Maximum Contract Value" means the amount specified in the Limitation of Expenditure clause set out in this Contract; and</p>

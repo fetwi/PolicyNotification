@@ -1,8 +1,8 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-35U1</h2>
+<h3 class="pn-content-title">Content of PN-35U1</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Background</h3>
+<h4>Background</h4>
 <p>This policy notification provides updated guidance for implementing<br/>
 					the recently approved SOS Delegation Approval Limits.</p>
 <p>In December 2001, Supply Operations Service Branch received approval<br/>
@@ -11,7 +11,7 @@
 					This Policy Notification incorporates all of the changes<strong>and<br/>
 					is effective as of Monday March 18, 2002.</strong></p>
 <hr/>
-<h3>Supply Manual</h3>
+<h4>Supply Manual</h4>
 <p>1. The tables in Annex 6.1.2 of the Supply Manual, setting out delegations for Goods;<br/>
 					Services; Telecommunications; Construction; and, A&amp;E Services,<br/>
 					are updated and superseded by the five tables at Annex A of this<br/>
@@ -22,7 +22,7 @@
 <p>Note that the non-competitive contract entry approval authority<br/>
 					for goods (Annex 6.1.2 in the Supply Manual), granted to Chiefs is revised to<br/>
 					$150K, to correct a previous error in the Supply Manual.</p>
-<h4>2. Exceptional Contract Approval Authorities are amended as follows:</h4>
+<h5>2. Exceptional Contract Approval Authorities are amended as follows:</h5>
 <ol type="i">
 <li>(agricultural products for foreign aid programs) Section 6.1.6<br/>
 						(a) is amended to read as follows:
@@ -61,7 +61,7 @@
 							not exceed <strong>$10 million: all positions in Level 1.</strong></p>
 </li>
 </ol>
-<h4>3. Procurement Information Form (PIF)</h4>
+<h5>3. Procurement Information Form (PIF)</h5>
 <p>The following changes to the PIF process are now applicable. All<br/>
 					other aspects of the PIF process, as referenced in Annex 6.1.8 of the Supply Manual remain active and applicable.</p>
 <p>PIFs are required for Services; Telecommunications; Construction;<br/>
@@ -74,9 +74,9 @@
 					Award (24 hours before the Award).</p>
 <p>The chart below supersedes <strong>the previous chart in the Supply<br/>
 					Manual,</strong> Annex 6.1.8</p>
-<h4>Annex A - Thresholds for Reporting Using the Procurement Information<br/>
-					Form</h4>
-<h4>Procurement Information Form (PIF) Thresholds</h4>
+<h5>Annex A - Thresholds for Reporting Using the Procurement Information<br/>
+					Form</h5>
+<h5>Procurement Information Form (PIF) Thresholds</h5>
 <p>A PIF is required for all Plans and Awards when the following<br/>
 					thresholds are exceeded:</p>
 <dl>
@@ -99,15 +99,15 @@
 <p>The Minister's office requires 24 hours to review PIFs prior to<br/>
 					award. The 24 hour clock will not start until the PIF has been<br/>
 					sent to the Minister's office.</p>
-<h4>4. Conditions Imposed</h4>
+<h5>4. Conditions Imposed</h5>
 <p>Effective immediately, Annex 6.1 (1) (b) and (c) of the Supply Manual are modified,<br/>
 					by removing from the lists of position titles "Regional Directors/Directors,<br/>
 					European and Washington Directorates".</p>
-<h4>5. Conditional Emergency Contracting Authority</h4>
+<h5>5. Conditional Emergency Contracting Authority</h5>
 <p>An increase in approval authority from Treasury Board for Emergency<br/>
 					Contracting to $15M has been approved. This authority rests with<br/>
 					the Minister.</p>
-<h4>Conditional Emergency Contracting Authority</h4>
+<h5>Conditional Emergency Contracting Authority</h5>
 <p>Authority limits apply to the cumulative value of the contract<br/>
 					including amendments</p>
 <dl>
@@ -133,7 +133,7 @@
 						remain subject to the reporting requirements for the use of emergency<br/>
 						contracting as set out in the TB Contracting Policy.</li>
 </ul>
-<h4>6. Certification of Defence Supplies</h4>
+<h5>6. Certification of Defence Supplies</h5>
 <p>Section 6.1.21 is amended to read as follows:</p>
 <p>6.1.21 Certifications required by the Canada Customs and Revenue<br/>
 					Agency from <acronym title="Public Works and Government Services Canada">PWGSC</acronym> that items imported by the Department of National<br/>
@@ -142,7 +142,7 @@
 					1967-969, and section 17 of the Financial Administration Act:</p>
 <p>Directors General, Supply Operations and Regions<strong>; Senior<br/>
 					Directors and Directors, headquarters; and, Regional Directors.</strong></p>
-<h4>7. Table of Equivalent Positions</h4>
+<h5>7. Table of Equivalent Positions</h5>
 <p>The Table of Equivalent Positions which appears in Annex 6.1.2<br/>
 					is amended, by adding:</p>
 <ul>
@@ -150,8 +150,8 @@
 						Procurement Officer, Contract Management Officer (MCP); and,</li>
 <li>to Level 4, Supply Officer.</li>
 </ul>
-<h3 id="PN-35U1AnnexA">Annex A</h3>
-<h4>Contract Entry and Amendment Approval Limits - GOODS</h4>
+<h4 id="PN-35U1AnnexA">Annex A</h4>
+<h5>Contract Entry and Amendment Approval Limits - GOODS</h5>
 <p><strong>Minister</strong></p>
 <dl>
 <dt>Elect</dt>
@@ -362,7 +362,7 @@
 <dd>A - 2</dd>
 <dd>Signing - C: 1.5M A: 1M</dd>
 </dl>
-<h4>Contract Entry and Amendment Approval Limits - SERVICES</h4>
+<h5>Contract Entry and Amendment Approval Limits - SERVICES</h5>
 <p><strong>Minister</strong></p>
 <dl>
 <dt>Elect</dt>
@@ -573,7 +573,7 @@
 <dd>A - 2</dd>
 <dd>Signing - C: 20M A: 1M</dd>
 </dl>
-<h4>Contract Entry and Amendment Approval Limits - CONSTRUCTION</h4>
+<h5>Contract Entry and Amendment Approval Limits - CONSTRUCTION</h5>
 <p><strong>Minister</strong></p>
 <dl>
 <dt>Elect</dt>
@@ -709,7 +709,7 @@
 <dd>A - 25</dd>
 <dd>Signing - C: 250K A: 375K</dd>
 </dl>
-<h4>Contract Entry and Amendment Approval Limits - TELECOMMUNICATIONS</h4>
+<h5>Contract Entry and Amendment Approval Limits - TELECOMMUNICATIONS</h5>
 <p><strong>Minister</strong></p>
 <dl>
 <dt>Elect</dt>
@@ -920,8 +920,8 @@
 <dd>A - 2</dd>
 <dd>Signing - C: 1.5M A: 1M</dd>
 </dl>
-<h4 id="PN-35U1AEServices">Contract Entry and Amendment Approval<br/>
-					Limits - A&amp;E SERVICES</h4>
+<h5 id="PN-35U1AEServices">Contract Entry and Amendment Approval<br/>
+					Limits - A&amp;E SERVICES</h5>
 <p><strong>Minister</strong></p>
 <dl>
 <dt>Elect</dt>

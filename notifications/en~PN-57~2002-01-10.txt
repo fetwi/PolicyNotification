@@ -1,32 +1,32 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-57</h2>
+<h3 class="pn-content-title">Content of PN-57</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Background</h3>
+<h4>Background</h4>
 <p>Due to recent events, the Operational Policy Directorate (OPD) requested the Department of Foreign Affairs and International Trade (DFAIT) to review the current International Sanctions clause. Upon review, DFAIT thought it would be clearer to include explicit reference to persons rather than just countries. They also thought that such a clarification would be helpful for clarity not only in relation to terrorists and Afghanistan, but also other places such as Sierra Leone and Angola where the targets of the sanctions are rebel movements within the country, not the country as a whole.</p>
-<h3>Issue</h3>
+<h4>Issue</h4>
 <p>The International Sanctions SACC Manual clauses K2105D and M2100D have been updated to include the changes requested by DFAIT and the Supply Manual (6D.390) has also been updated accordingly. The changes to the SACC Manual clauses and the Supply Manual are marked in <em>red</em> and detailed below.</p>
 <p>Please direct inquiries to Elaine Aitkenhead, via e-mail at <a href="mailto:elaine.aitkenhead@tpsgc-pwgsc.gc.ca" rel="external">elaine.aitkenhead@tpsgc-pwgsc.gc.ca</a></p>
 <hr/>
 <p><strong>SACC MANUAL</strong></p>
-<h3>K2105D (xx/xx/xx) International Sanctions</h3>
+<h4>K2105D (xx/xx/xx) International Sanctions</h4>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Use the following clause in all contractual documents. At the bid solicitation stage, <em>the sanctions</em> are provided to bidders for information purposes only.</p>
-<h3>Text:</h3>
+<h4>Text:</h4>
 <p>1. Persons in Canada, <em>and Canadians outside of Canada,</em> are bound by economic sanctions imposed by Canada. As a result, the Government of Canada cannot accept delivery of goods or services that originate, either directly or indirectly, from the countries <em>or persons</em> subject to economic sanctions.</p>
 <p>Details on existing sanctions can be found at: <a href="http://www.dfait-maeci.gc.ca/trade/sanctions-e.asp" rel="external">http://www.dfait-maeci.gc.ca/trade/sanctions-e.asp</a></p>
 <p>2. It is a condition of this Contract that the Contractor not supply to the Government of Canada any goods or services which are subject to economic sanctions.</p>
 <p>3. By law, the Contractor must comply with changes to the regulations imposed during the life of the Contract. During the performance of the Contract should <em>the imposition of sanctions against a country or person</em> or the additions of a good or service to the list of sanctioned goods or services cause an impossibility of performance for the Contractor, the situation will be treated by the Parties as a force majeure. The Contractor shall forthwith inform Canada of the situation; the procedures applicable to force majeure shall then apply.</p>
 <hr/>
-<h3>M2100D (xx/xx/xx) International Sanctions</h3>
+<h4>M2100D (xx/xx/xx) International Sanctions</h4>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong>  Use the following clause in all standing offer documents. At the bid solicitation stage, <em>the sanctions </em>are provided to bidders for information purposes only.</p>
-<h3>Text:</h3>
+<h4>Text:</h4>
 <p>1. Persons in Canada, <em>and Canadians outside of Canada</em>, are bound by economic sanctions imposed by Canada. As a result, the Government of Canada cannot accept delivery of goods or services that originate, either directly or indirectly, from the countries <em>or persons</em> subject to economic sanctions.</p>
 <p>Details on existing sanctions can be found at: <a href="http://www.dfait-maeci.gc.ca/trade/sanctions-e.asp" rel="external">http://www.dfait-maeci.gc.ca/trade/sanctions-e.asp</a></p>
 <p>2. It is a condition of this Standing Offer and of any ensuing call-ups, if any, that the Offeror not supply to the Government of Canada any goods or services which are subject to economic sanctions.</p>
 <p>3. By law, the Offeror must comply with changes to the regulations imposed during the life of the Standing Offer. During the performance of any call-up under the Standing Offer should <em>the imposition of sanctions against a country or person</em> or the addition of a good or service to the list of sanctioned goods and services prevent the Offeror from performing all or part of its obligations pursuant to a call-up made against this Standing Offer, the Offeror shall treat the situation as a force majeure. The Offeror shall forthwith inform Canada of the situation; the procedures applicable to force majeure shall then apply.</p>
 <hr/>
 <p><strong>Supply Manual</strong></p>
-<h3>International Sanctions</h3>
+<h4>International Sanctions</h4>
 <p>6D.390 (xx/xx/xx)  The Department of Foreign Affairs and International Trade Web site at: <a href="http://www.dfait-maeci.gc.ca/trade/sanctions-e.asp" rel="external">http://www.dfait-maeci.gc.ca/trade/sanctions-e.asp</a> lists <em>the current Canadian Economic Sanctions. PART A deals with CANADIAN LEGISLATIVE INSTRUMENTS: 1) the United Nations Act</em>, 2) the <em>Special Economic Measures Act;</em> and 3) some provisions of the <em>Export and Import Permits Act</em>.   PART B deals with COUNTRIES OR GROUPS SUBJECT TO CANADIAN ECONOMIC SANCTIONS. PART C deals with PROCEDURES FOR SEEKING EXEMPTION CERTIFICATES AND PERMITS.</p>
 <p>To comply with the Canadian Economic Sanctions, SACC clause K2105D or M2100D must be included in all contractual documents. Canada cannot procure any goods or services <em>that originate, either directly or indirectly, from the countries or persons subject to economic sanctions.</em></p>
 <p>6D.391 (03/06/96) When, in order to meet a client's operational requirements, it appears necessary to deviate from these sanctions, Legal Services must be consulted to determine the appropriate course of action, if any, for the particular situation.</p>

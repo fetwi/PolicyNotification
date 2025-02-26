@@ -1,8 +1,8 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-79U</h2>
+<h3 class="pn-content-title">Content of PN-79U</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h4>Purpose</h4>
+<h5>Purpose</h5>
 <p>The purpose of Policy Notification (PN) 79U is:</p>
 <ol>
 <li>to revise the Request for Standing Offer (RFSO) template<br/>
@@ -10,14 +10,14 @@
 <li>to revise the French text of SACC Manual clause M7010C<br/>
 						and the remarks of clause M9105C as detailed in Annex B.</li>
 </ol>
-<h4>Contact</h4>
+<h5>Contact</h5>
 <p><strong>N/A</strong></p>
-<h3>ANNEX A</h3>
-<h4>Modifications to Request for Standing Offer Template - Goods<br/>
-					or Services, 2T-RFSO1</h4>
+<h4>ANNEX A</h4>
+<h5>Modifications to Request for Standing Offer Template - Goods<br/>
+					or Services, 2T-RFSO1</h5>
 <p><strong>Part 3, Section II: Financial Offer, clause entitled Payment<br/>
 					by Credit Card</strong></p>
-<h5>Payment by Credit Card</h5>
+<h6>Payment by Credit Card</h6>
 <p>The Offeror is requested to complete <strong>one<br/>
 					of</strong> the following:</p>
 <ul class="noBullet">
@@ -45,7 +45,7 @@
 					Standard Clauses and Conditions</strong></p>
 <p><strong>If general conditions 9601, 9676 or 9624 apply to the<br/>
 					requirement, include the following article:</strong></p>
-<h5>2.3 International Sanctions</h5>
+<h6>2.3 International Sanctions</h6>
 <ol>
 <li>Persons in Canada, and Canadians outside of Canada,<br/>
 						are bound by economic sanctions imposed by Canada. As a result,<br/>
@@ -66,11 +66,11 @@
 						inform Canada of the situation and the procedures applicable<br/>
 						to force majeure will then apply.</li>
 </ol>
-<h3>ANNEX B</h3>
-<h4>Changes to the SACC Manual</h4>
+<h4>ANNEX B</h4>
+<h5>Changes to the SACC Manual</h5>
 <p><strong>The remarks of M9105C are revised as follows:</strong></p>
 <p><strong>M9105C Work Force Reduction Programs</strong></p>
-<h5>Remarks:</h5>
+<h6>Remarks:</h6>
 <p>Use the following clause in standing offers where clauses <strong><del>9103T</del> M9103T</strong> or <strong><del>9104T</del> M9104T</strong> and<br/>
 					clause <strong><del>9106T</del> M9106T</strong> were<br/>
 					used.</p>

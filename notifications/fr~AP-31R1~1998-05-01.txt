@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-31R1</h2>
+<h3 class="pn-content-title">Contenu de l'AP-31R1</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 1<sup>er</sup> mai 1998</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 1<sup>er</sup> mai 1998</h4>
 <p>L'Avis relatif aux politiques (AP) n<sup>o</sup> 31 est remis en vigueur immédiatement, avec les modifications indiquées dans la présente.</p>
 <p>L'AP originale en date du 25 mars dernier donnait suite aux avis d'information du Conseil du Trésor émis à tous les Agents financiers supérieurs des ministères et organismes fédéraux les 24 février et 25 mars derniers, afin de les informer des nouvelles modalités régissant la déclaration des paiements contractuels de services, dont faisait état le budget de 1998. Conformément à l'alinéa 221 (1) d) de la <em>Loi de l'impôt sur le revenu</em>, les ministères et organismes sont tenus de préparer les feuillets T4-A supplémentaires pour tous les particuliers et entreprises à qui ils ont versé des paiements en vertu de marchés de services au cours de l'année civile, en commençant par la période du 1<sup>er</sup> janvier 1998 au 31 décembre 1998. La présente directive devait aussi s'appliquer aux marchés mixtes de biens et de services, mais seulement lorsque la valeur reliée aux services correspondait à au moins 10 p. 100 de la valeur totale du marché.</p>
 <p>En fonction des consultations tenues entre Revenu Canada, le Conseil du trésor et d'autres ministères fédéraux, des révisions ont été apportées et un nouvel avis a été émis le 30 avril 1998. Les révisions qui sont pertinentes à la passation des marchés sont comme suit:</p>
@@ -37,7 +37,7 @@
 <li>supprimer du texte, le paragraphe e) antérieur qui demandait la nature de la facture puisque les services financiers ont indiqué que cette information ne leur était pas utile.</li>
 </ol>
 <p>Cette clause révisée (ci-jointe à l'<strong>annexe A)</strong> sera incluse dans le guide des CCUA, modification 98-3, qui sera publiée le 23 novembre 1998.</p>
-<h3>Annexe A</h3>
+<h4>Annexe A</h4>
 <p><strong>Remarques:</strong> La clause suivante doit figurer dans tous les appels d'offres de services et les marchés qui en découlent, ainsi que les appels d'offres et marchés composés de biens et de services. Sont aussi inclus les marchés avec des Canadiens qui exécutent des marchés gouvernementaux à l'étranger.</p>
 <p><strong>H3023 (<span aria-label="Espace réservé vide" class="blankline"></span> /__/98) Instructions supplémentaires de facturation</strong></p>
 <p>1. Conformément à l'alinéa 221 (I) d) de la <em>Loi de l'impôt sur le revenu</em>, les ministères et organismes sont tenus de déclarer à l'aide de feuillets T4-A supplémentaires, les paiements contractuels versés en vertu de marchés de services (y compris les marchés composés de biens et de services). Afin de permettre aux agences et organismes de se conformer à cette exigence, les entrepreneurs sont tenus de fournir les renseignements suivants sur chacune de leurs factures :</p>

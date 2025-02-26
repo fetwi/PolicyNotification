@@ -1,8 +1,8 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-77</h2>
+<h3 class="pn-content-title">Content of PN-77</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>On November 25, 2005, the Treasury Board (TB) approved a new government-wide<br/>
 					'Policy on Green Procurement'. This Policy was a joint effort by Public<br/>
 					Works and Government Services Canada (PWGSC), Environment Canada and<br/>
@@ -15,7 +15,7 @@
 <p>Environmentally preferable or 'green' goods and services are those that<br/>
 					are less harmful to the environment over their life cycle when compared<br/>
 					with competing goods or services serving the same purpose.</p>
-<h3>Policy</h3>
+<h4>Policy</h4>
 <p>The implementation of this Policy will have a phased approach over the<br/>
 					next two years and draw on the commodity management process, which is<br/>
 					one of the tools for achieving savings through "The Way Forward" initiative<br/>
@@ -32,13 +32,13 @@
 <p>Targets are being set for PWGSC, which will be required to monitor and<br/>
 					report on green procurement performance in the annual Report on Plans<br/>
 					and Priorities and Departmental Performance Reports.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>As outlined in the October 2004 Speech from the Throne and Budget 2005,<br/>
 					the TB Policy supports the government's goals in reducing greenhouse<br/>
 					gases and air contaminants; improving energy and water efficiency; reducing<br/>
 					waste and supporting reuse and recycling; reducing toxic and hazardous<br/>
 					chemicals and substances; and a healthier environment for all Canadians.</p>
-<h3>Requirements</h3>
+<h4>Requirements</h4>
 <p>Effective immediately contracting personnel are to:</p>
 <ol>
 <li> take <a href="http://coursebrowser.pwgsc.gc.ca/courseDetails.htm?courseCode=6089&amp;searchCriteria=green&amp;" rel="external">Green Procurement training</a>;</li>
@@ -53,7 +53,7 @@
 						approval and reporting documents, that environmentally preferable<br/>
 						goods or services have been considered.</li>
 </ol>
-<h3>Supporting Tools</h3>
+<h4>Supporting Tools</h4>
 <p>Standards, tools and guidance are under development to support this<br/>
 					policy, such as: updates to forms and templates, solicitation and contract<br/>
 					clauses and the commodity management framework. These will be communicated<br/>

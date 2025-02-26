@@ -1,23 +1,23 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-07</h2>
+<h3 class="pn-content-title">Contenu de l'AP-07</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 16 mai 1996</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 16 mai 1996</h4>
 <p>Les conseillers juridiques d'Industrie Canada ont conclu que les marchés assujettis aux ententes sur les revendications territoriales globales (ERTG) peuvent également être visés par l'Accord sur le commerce intérieur (ACI). Conformément à l'article 1802 de l'<acronym title="Accord sur le commerce intérieur">ACI</acronym>, Industrie Canada considère que les avis et les autres exigences relatives aux <acronym title="ententes sur les revendications territoriales globales">ERTG</acronym> sont des mesures si, aux termes du chapitre 2 de l'<acronym title="Accord sur le commerce intérieur">ACI</acronym>, et que, tant et aussi longtemps que ces mesures sont dissociable du marché dans son ensemble, elles sont excluses des obligations de l'<acronym title="Accord sur le commerce intérieur">ACI</acronym>, mais l'achat comme tel et tous les autres aspects du processus demeurent visés.</p>
 <p>On prévoit de modifier l'Environnement automatisé de l'acheteur (ABE) pour qu'il offre la possibilité de déterminer si le marché est visé par les <acronym title="ententes sur les revendications territoriales globales">ERTG</acronym> et l'<acronym title="Accord sur le commerce intérieur">ACI</acronym>. En attendant que ce changement soit apporté, les agents de négociation des contrats devraient coder les marchés assujettis à la fois aux <acronym title="ententes sur les revendications territoriales globales">ERTG</acronym> et à l'<acronym title="Accord sur le commerce intérieur">ACI</acronym> comme s'il s'agissait de marchés assujettis à l'<acronym title="Accord sur le commerce intérieur">ACI</acronym> seulement, puis indiquer dans l'avis de projet de marché que le marché est également visé par des <acronym title="ententes sur les revendications territoriales globales">ERTG</acronym>.</p>
 <p>Le présent avis porte uniquement sur les marchés visés par l'<acronym title="Accord sur le commerce intérieur">ACI</acronym> et ne touche pas les marchés assujettis à l'Accord de libre-échange nord-américain (ALENA), à l'Accord relatif aux marchés publics (AMP) et à l'<acronym title="Accord sur le commerce intérieur">ACI</acronym>. Le Guide des approvisionnements sera modifié en fonction de ce changement.</p>
-<h3>Annexe A</h3>
-<h4>Article 200 : Définitions d'application générale</h4>
+<h4>Annexe A</h4>
+<h5>Article 200 : Définitions d'application générale</h5>
 <p>Sauf disposition contraire, les définitions qui suivent s'appliquent au présent accord.</p>
 <p><strong>«mesure» :</strong> S'entend notamment des lois, règlements, directives, exigences, prescriptions, lignes directrices, programmes, politiques, pratiques administratives ou autres procédures.</p>
-<h4>Article 1802 : Peuples autochtones</h4>
+<h5>Article 1802 : Peuples autochtones</h5>
 <p>Le présent accord ne s'applique pas aux mesures adoptées ou maintenues à l'égard des peuples autochtones. Il ne modifie pas les droits existants -- ancestraux ou issus de traités -- reconnus et confirmés par l'article 35 de la <em>Loi constitutionnelle de 1982</em> aux peuples autochtones du Canada.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

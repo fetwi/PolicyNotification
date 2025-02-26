@@ -1,8 +1,8 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-11R3</h2>
+<h3 class="pn-content-title">Content of PN-11R3</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Introduction:</h3>
+<h4>Introduction:</h4>
 <p>Policy Notification 11R3 (PN-11R3) replaces <abbr title="Policy Notification">PN</abbr>-11R2 of June 29, 2011 in its entirety.  All the provisions of this <abbr title="Policy Notification">PN</abbr> are retroactive to June 29, 2011. <abbr title="Policy Notification">PN</abbr>-11R3 clarifies the purpose and scope of the policy, and further standardizes the processes and procedures pertaining to the application of a Vendor Performance Corrective Measure (VPCM). Fairness, openness and transparency will continue to be fundamental principles of the policy.</p>
 <p><abbr title="Policy Notification">PN</abbr>-11R3 is issued in order to modify the method of assessing vendor performance in cases where:</p>
 <ol type="1">
@@ -26,7 +26,7 @@
 <p class="indent1">However, for the above transactions, it must be noted that no consequences will be enforced against vendors for terminations for default and/or conditional amendments that occurred between November 4, 2010 and June 28, 2011 inclusive.</p>
 <p>Otherwise, the provisions of the applicable previous version remain in effect.</p>
 <p>The <abbr title="Vendor Performance Corrective Measure Policy">VPCMP</abbr> applies only to <abbr title="Public Works and Government Services Canada">PWGSC</abbr>,Acquisitions Branch, as a common service provider for transactions under its authority.</p>
-<h3>Background:</h3>
+<h4>Background:</h4>
 <p>The application of corrective measures against vendors that do not fulfill their contractual obligations was introduced under the 1996 version of the <abbr title="Vendor Performance Policy">VPP</abbr>. Such measures have an impact on a vendor's ability to bid on future opportunities with, or receive contracts from <abbr title="Public Works and Government Services Canada">PWGSC</abbr>. Acquisition Branch's review of the policy indicated the need for clarification regarding scope, processes, roles and responsibilities in assessing and potentially applying a <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>. The review also underscored the need to position the role of the <abbr title="Vendor Performance Corrective Measure Policy">VPCMP</abbr> in the overall context of procurement risk management.</p>
 <p>From the review, it was noted that the following elements should be addressed:</p>
 <ol type="i">
@@ -56,19 +56,19 @@
 <li value="10"><abbr title="Vendor Information Management">VIM</abbr> is now to be checked for at bid closing date and prior to bid evaluation as well as before contract award and certain types of contract amendments to confirm whether any <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>s exist. Other checks are set out in the policy.</li>
 <li value="11">The contents of notes and information on <abbr title="Vendor Performance Corrective Measure">VPCM</abbr>s will be removed from <abbr title="Vendor Information Management">VIM</abbr> six years after the date the <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> is implemented instead of seven.</li>
 </ol>
-<h3>Revisions to the <cite>Supply Manual</cite></h3>
+<h4>Revisions to the <cite>Supply Manual</cite></h4>
 <p>In support of this Policy Notification, sections of the <cite>Supply Manual</cite> have been changed. To view the changed sections, please refer to the "Affected <cite>Supply Manual</cite> sections" below.</p>
-<h3>Revisions to the <cite>Standard Acquisition Clauses and Conditions (SACC) Manual</cite></h3>
+<h4>Revisions to the <cite>Standard Acquisition Clauses and Conditions (SACC) Manual</cite></h4>
 <p>No change has been made to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr>. To view the latest <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> changes related to the Vendor Performance Corrective Measure, please refer to <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/policy-notifications?pnid=PN-11R2#browse-previous-pn">Policy Notification 11R2</a>.</p>
-<h3><abbr title="Electronic Forms">ELF</abbr> Documents</h3>
+<h4><abbr title="Electronic Forms">ELF</abbr> Documents</h4>
 <p>The two following documents are available on Electronic Forms (ELF):</p>
 <ul>
 <li>Direction for Adding Notes in <abbr title="Vendor Information Management">VIM</abbr> and Authorization to Proceed with <abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment (Form 149)</li>
 <li><abbr title="Vendor Performance Corrective Measure">VPCM</abbr> Assessment (Form 149-1)</li>
 </ul>
-<h3>Contact Information</h3>
+<h4>Contact Information</h4>
 <p>For more information, contact the Policy, Risk, Integrity and Strategic Management (PRISM) Sector by email: <a href="mailto:dppapublications.appdpublications@tpsgc-pwgsc.gc.ca" rel="external">dppapublications.appdpublications@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-d5e63bdacf89515a0bec73bc56565822">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

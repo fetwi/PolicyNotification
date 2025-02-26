@@ -1,23 +1,23 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-147</h2>
+<h3 class="pn-content-title">Content of PN-147</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of Policy Notification (PN)-147 is to notify Acquisitions Program (AP) contracting officers of the updates to the <a class="gov" href="https://www.gcpedia.gc.ca/gcwiki/images/d/d0/Directive_on_the_Use_of_Cost_and_Price_Analysis_FINAL_EN.pdf" rel="external">Directive on the Use of Cost and Price Analysis Services</a><span> (accessible only on the Government of Canada network)</span> and the corresponding <a class="gov" href="https://www.gcpedia.gc.ca/gcwiki/images/d/dd/Guideline_on_the_Use_of_Cost_and_Profit_Analysis_FINAL_EN.pdf" rel="external">Guideline on the Use of Cost and Price Analysis Services</a><span> (accessible only on the Government of Canada network)</span>.</p>
 <p>In particular, these updates serve to clarify the application of the conditions under which contracting officers must engage a Price Support Directorate advisor to mitigate risks associated with procurements where price is based on estimated or actual costs and to align with current pricing guidance and tools.</p>
-<h3>Effective date</h3>
+<h4>Effective date</h4>
 <p><abbr title="Policy Notification">PN</abbr>-147 is effective immediately.</p>
-<h3>Expected outcome</h3>
+<h4>Expected outcome</h4>
 <p>The updated <a class="gov" href="https://www.gcpedia.gc.ca/gcwiki/images/d/d0/Directive_on_the_Use_of_Cost_and_Price_Analysis_FINAL_EN.pdf" rel="external">Directive on the Use of Cost and Price Analysis Services</a><span> (accessible only on the Government of Canada network)</span> and the updated <a class="gov" href="https://www.gcpedia.gc.ca/gcwiki/images/d/dd/Guideline_on_the_Use_of_Cost_and_Profit_Analysis_FINAL_EN.pdf" rel="external">Guideline on the Use of Cost and Price Analysis Services</a><span> (accessible only on the Government of Canada network)</span> support the Government of Canada’s objective of achieving best value for money in contracts, in a manner that ensures the integrity in pricing and payments and supports sound stewardship in procurement.</p>
 <p>It is expected that the approach promoted by the updated Directive and associated Guideline will normalize the mandatory engagement of Price Support Directorate advisors for cost and price analysis services and increase awareness of best practices to support the price, assess the risk and increase the clarity, consistency and transparency of pricing decisions.</p>
 <p>It is also expected that the effective management of pricing, and the use of pricing as an enabler to achieve better contractor performance, will result in the best value for Canada.</p>
-<h3>Background and context</h3>
+<h4>Background and context</h4>
 <p>As detailed in the <a href="https://www.tpsgc-pwgsc.gc.ca/app-acq/amd-dp/samd-dps/reponse-respond-eng.html" rel="external">Department’s response</a>, an independent study dated December 2015 concluded that Canada’s pricing framework is sound but findings indicated that guidance material and tools were necessary to further foster transparency and consistency in pricing decisions.</p>
 <p>The Directive and Guideline referred to in this <abbr title="Policy Notification">PN</abbr> represent measures to facilitate consistency and achieve fair value in cost-based pricing. More specifically in cases when only one compliant bid is received, or when the procurement is awarded on a non-competitive basis, or when following a competitive process, price negotiations with the successful bidder are required, the contracting officer must ensure that Canada obtains fair value with the support of cost and price analysis services.</p>
 <p>Public Works and Government Services Canada (PWGSC) dedicates in-house Chartered Professional Accountants (CPAs) for the provision of financial expertise to assist Acquisitions Program (AP) contracting officers involved in identifying financial and pricing risks and determining the most suitable pricing approach of a procurement. This expertise, as part of the Price Support Directorate, includes price advisors and assurance advisors skilled in areas such as the development of pricing strategies, benchmarking tools, price and technical validation.</p>
 <p>The updated <a class="gov" href="https://www.gcpedia.gc.ca/gcwiki/images/d/d0/Directive_on_the_Use_of_Cost_and_Price_Analysis_FINAL_EN.pdf" rel="external">Directive on the Use of Cost and Price Analysis Services</a><span> (accessible only on the Government of Canada network)</span> represents a method to enable uniformity in the mandatory engagement of Price Support Directorate advisors when certain conditions are met, and consistency in mitigating pricing risks throughout the lifecycle of a procurement.</p>
 <p>The <a class="gov" href="https://www.gcpedia.gc.ca/gcwiki/images/d/dd/Guideline_on_the_Use_of_Cost_and_Profit_Analysis_FINAL_EN.pdf" rel="external">Guideline on the Use of Cost and Price Analysis Services</a><span> (accessible only on the Government of Canada network)</span> represents a best practice to support contracting officers in assessing and reducing risk associated with price negotiations and verification of contractor claims.</p>
-<h3>Requirements and responsibility </h3>
+<h4>Requirements and responsibility </h4>
 <p>The Acquisitions Program contracting officer leads the development and progress of the procurement and is required to engage a Price Support Directorate advisor when a procurement presents specific risks.</p>
 <p>The mandatory conditions as previously stated in the Directive and outlined in <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6#_6-10">Section 6.10.10</a> of the Supply Manual have changed.</p>
 <p>It is now mandatory to use the services of a Price Support Directorate advisor when the procurement presents any of the following characteristics:</p>
@@ -28,19 +28,19 @@
 <li>Any competitive procurement, with a total estimated value of $10,000,000 or more, including applicable taxes, options and amendments.</li>
 </ol>
 <p>The updated <a class="gov" href="https://www.gcpedia.gc.ca/gcwiki/images/d/d0/Directive_on_the_Use_of_Cost_and_Price_Analysis_FINAL_EN.pdf" rel="external">Directive on the Use of Cost and Price Analysis Services</a><span> (accessible only on the Government of Canada network)</span> provides more details on the suite of professional accounting services available to Acquisitions Program contracting officers and how to access Price Support Directorate price and assurance advisors with updated form "Request for Cost and Price Analysis Services" <a class="gov" href="http://publiservice-app.pwgsc.gc.ca/forms/pdf/603_E.pdf" rel="external"><abbr title="Public Works and Government Services Canada">PWGSC</abbr>-<abbr lang="fr" title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> 603-E</a><span> (accessible only on the Government of Canada network)</span> and, if applicable, a "Request for Financial Capability Opinion" form <a class="gov" href="http://publiservice-app.pwgsc.gc.ca/forms/pdf/602-E.pdf" rel="external"><abbr title="Public Works and Government Services Canada">PWGSC</abbr>-<abbr lang="fr" title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> 602-E</a><span> (accessible only on the Government of Canada network)</span>.</p>
-<h4>Early engagement of Price Support Directorate advisors</h4>
+<h5>Early engagement of Price Support Directorate advisors</h5>
 <p>Price Support Directorate advisors should be engaged at the planning phase of a procurement, when pricing approaches are assessed to determine how a contractor will be compensated to enable the achievement of a procurement’s objective, in a way that delivers value to Canada.</p>
 <p>In order to efficiently manage pricing throughout the acquisition lifecycle, the contracting officer must request the assistance of advisors from the Price Support Directorate as soon as it is known that the above mandatory conditions apply and as often as necessary depending on the complexity and pricing risks of the procurement.</p>
-<h3>Guidance</h3>
+<h4>Guidance</h4>
 <p>The <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/pricing-framework#pricing_guide">Practitioner’s Guide for Procurement Pricing</a> provides more details on the establishment and development of a cost-base for contract pricing.</p>
 <p>The <a class="gov" href="https://gcdocs.gc.ca/tpsgc-pwgsc/llisapi.dll?func=ll&amp;objaction=overview&amp;objid=227384285" rel="external">Cost Accounting Practices Submission Evaluation Process</a><span> (accessible only on the Government of Canada network)</span> supports implementation of this policy notification by providing information on how <a class="gov" href="https://gcdocs.gc.ca/tpsgc-pwgsc/llisapi.dll?func=ll&amp;objaction=overview&amp;objid=157226238" rel="external">Cost Accounting Practices Submission</a><span> (accessible only on the Government of Canada network)</span> are evaluated.</p>
-<h3>Summary of revisions to the Supply Manual</h3>
+<h4>Summary of revisions to the Supply Manual</h4>
 <p>The Supply Manual has been updated to reflect this <abbr title="Policy Notification">PN</abbr>. For more details, refer to the Affected Supply Manual sections listed below.</p>
-<h3>Contact information</h3>
+<h4>Contact information</h4>
 <p>Enquiries related to <abbr title="Policy Notification">PN</abbr>-147 and to cost and price analysis services can be sent by email to the Price Advisory Group at the following address:
     <a href="mailto:TPSGC.PASoutiendesprix-APPriceSupport.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PASoutiendesprix-APPriceSupport.PWGSC@tpsgc-pwgsc.gc.ca</a></p>
 <p>Questions regarding to the Supply Manual can be sent by email to the following address: <a href="mailto:TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca</a></p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-1bb6d9fa42297f31eac4c17f2437f3c3">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

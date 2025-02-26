@@ -1,13 +1,13 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-105</h2>
+<h3 class="pn-content-title">Content of PN-105</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of this Policy Notification 105 (PN-105) is to notify all Acquisitions Branch and Regional employees of changes to the Supply Manual, Chapter 6: Approvals and Authorities, in support of the new processes and limits for approval authorities for Basic and Standard Procurements, to simplify Exceptional Contracting Limits and signing authorities, and to request the completion of new individual delegation forms. 
 </p>
 <p>Chapter 6 now adds specific information to address the processes for Basic and Standard procurements and modifies the various authorities’ limits in Annex 6.4 Conditions Imposed on the Approval Authority Limits for <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Personnel. The changes to the limits support the implementation of Basic and Standard procurements (e.g. 100% of departmental limit for Level 2), in addition, the contract entry and amendment limits for Construction and Architectural and Engineering Services have been updated to reflect Treasury Board approved limits. The current processes still apply for all procurements not categorized as Basic or Standard.  The Complex procurement process is under development and will be introduced at a later date.
 </p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p><abbr title="Policy Notification">PN</abbr>-104 Implementation of New Processes for Basic and Standard Procurements introduced new procurement processes and explained the background and implementation related to them. To allow for full functionality of the new processes, changes are required to the approval processes and approval limits found in Chapter 6. <abbr title="Policy Notification">PN</abbr>-105 modifies the approval processes to incorporate Basic and Standard Procurement processes and adds a new section to Annex 6.4 to address the authority limits for Basic and Standard procurements.
 </p>
 <p>The Minister signed a new Delegation of Authority Instrument on March 13, 2012 that allows for full functionality of the new processes and limits for approval authorities for Basic and Standard Procurements, i.e. increases most of the common service acquisition authorities. These changes are reflected in the revisions to Chapter 6.
@@ -20,14 +20,14 @@
 <p><dfn><strong>"Complex procurement"</strong></dfn> has the characteristics of dealing with the unknown and requires creativity and ongoing development. It is based on achieving a goal/target and driven by managing change/phases. Pre-established methods of supply may have to be modified and procurement strategies and evaluation methodologies may have to be researched or developed. The procurement may involve partnerships with clients, multiple stakeholders, and control may be
 shared. Contract administration is detailed and extensive and may be unpredictable. There may be a high level of risk (public sensitivity, product, impacts).
 </p>
-<h3>Effective Date</h3>
+<h4>Effective Date</h4>
 <p>This PN is effective immediately.</p>
-<h3>Revisions to the Supply Manual</h3>
+<h4>Revisions to the Supply Manual</h4>
 <p>Chapter 6: Approvals and Authorities has been updated to reflect the changes required to implement the new procurement processes and simplify the exceptional contracting limits. The majority of changes occur in sections 6.5 Procurement Approval Documents, 6.10 Additional Reviews, Annex 6.2 Contract Request Instructions, Annex 6.3 Preparation of Contract Amendment Approval Documents, and Annex 6.4 Conditions Imposed on the Approval Authority Limits for <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Personnel.
 </p>
 <p>Also of note is that all signing authorities are now “Full”: a resource under any Level holding a valid delegation of authority for contract entry may sign a contractual document for the same commodity grouping.
 </p>
-<h3>Individual Delegation Forms</h3>
+<h4>Individual Delegation Forms</h4>
 <p>As limits have changed, contracting officers in Acquisitions Branch and in the Regional offices are requested to complete new individual delegation forms. 
 </p>
 <p>To exercise these authorities, the contracting officer must complete the form for their position (delete items which you do not procure), sign and date and forward for signature and date of the Superior.
@@ -43,12 +43,12 @@ shared. Contract administration is detailed and extensive and may be unpredictab
 <li value="3">a signed copy is kept on file in the procurement area or central location.
 </li>
 </ol>
-<h3>Contact Persons</h3>
+<h4>Contact Persons</h4>
 <p>For more information about the content of this Policy Notification, contact Susan Blakeney, Acquisition Policy and Process Directorate, 819-956-8235 or by e-mail at <a href="mailto:susan.blakeney@tpsgc-pwgsc.gc.ca" rel="external">susan.blakeney@tpsgc-pwgsc.gc.ca</a>. 
 </p>
 <p>For more information about the new procurement processes introduced by the Strategic Policy Directorate, you may send E-mail to the following address: <a href="mailto:Modernizingtogether.modernisonsensemble@pwgsc-tpsgc.gc.ca" rel="external">Modernizingtogether.modernisonsensemble@pwgsc-tpsgc.gc.ca</a>.
 </p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-2a5ad370d4b581231424714743628b64">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

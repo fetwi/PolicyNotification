@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-82</h2>
+<h3 class="pn-content-title">Content of PN-82</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h4>Introduction</h4>
+<h5>Introduction</h5>
 <p>This Policy Notification (PN)-82 provides instructions and guidance<br/>
 					on obtaining appropriate client review of elements of a bid solicitation.</p>
 <p>PN-82 is issued further to the e-mail sent by the Executive Director<br/>
 					of Acquisitions Operations to Directors General and Regional Directors<br/>
 					General on 11 December 2006, and as a result of a recently-released<br/>
 					report by the Office of the Auditor General.</p>
-<h4>Policy</h4>
+<h5>Policy</h5>
 <p>Contracting officers must follow the instructions in this PN when handling<br/>
 					any procurement which may be considered sensitive or high-risk. When handling<br/>
 					other procurements, contracting officers may use their discretion in determining<br/>
@@ -17,13 +17,13 @@
 					nature of the procurement.Please refer to <a href="#PN-82annexa">Annex<br/>
 					A</a> of this document for changes to the Supply Manual. These changes<br/>
 					will be incorporated in the next release of the <em>Supply Manual</em>.</p>
-<h4>Contact</h4>
+<h5>Contact</h5>
 <p><strong>N/A</strong></p>
 <p> <a id="PN-82annexa"></a></p>
-<h3>Annex A - Changes to the Supply Manual</h3>
-<h4>Section 7A, Preparing a Bid Solicitation</h4>
+<h4>Annex A - Changes to the Supply Manual</h4>
+<h5>Section 7A, Preparing a Bid Solicitation</h5>
 <div>
-<h5><em>Client Review of Elements of a Bid Solicitation</em></h5>
+<h6><em>Client Review of Elements of a Bid Solicitation</em></h6>
 <p><em>7A.150 (xxxx-xx-xx) For sensitive or high-risk procurements, where<br/>
 						the client department has primary responsibility for the requirement<br/>
 						definition and/or evaluation of technical proposals, before issuing<br/>

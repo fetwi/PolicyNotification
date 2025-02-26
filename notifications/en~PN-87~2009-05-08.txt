@@ -1,23 +1,23 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-87</h2>
+<h3 class="pn-content-title">Content of PN-87</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3 id="PN-87no1">Introduction</h3>
+<h4 id="PN-87no1">Introduction</h4>
 <p>The purpose of Policy Notification (PN) 87 is to revise the common service acquisition authorities, associated conditions and related procedures in the Supply Manual. On April 17, 2009, the Minister approved a new departmental Delegation of Authority instrument. Schedule 3 of this instrument sets out the maximum limits for common service acquisition authorities. The Supply Manual tables of approval and signing authority limits have been modified to reflect changes as a result of the new delegation instrument.</p>
-<h3 id="PN-87no2">Policy</h3>
+<h4 id="PN-87no2">Policy</h4>
 <p>Effective immediately, contract approval and signing authority limits, and associated conditions and related procedures, are revised. The delegation limit for goods and services for the Assistant Deputy Minister (ADM), Acquisition Branch, has increased from 75 to 100 percent of the Minister's authorities as per Schedule 3. A summary of the revisions to the Supply Manual is provided below. </p>
 <p>Although the new contract approval and signing authority limits are effective immediately, the authorities for individual positions will only be effective when they are recognized on new individual delegation forms. All contracting staff must complete a new Delegation of Common Service Acquisition Authorities - Schedule 3 form. The revised contract approval and signing authority limits cannot be exercised until the form is completed. The revised limits are valid for new procurements and for those already in progress. More information on completing the new delegation form can be found in Section II below.</p>
 <p>This <acronym title="Policy Notification">PN</acronym> also serves to notify contracting staff of the deletion from the Supply Manual of: references to the Electronic Data Processing Buy for Lease Program; Annex 6.1.9: Contract Amendment Approval Process (CAAP); and Annex 6.1.10: Just in Time Approval Process (JITAP).</p>
 <div class="topPage"><a href="#PN-87tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
-<h3 id="PN-87no3">I. Summary of Revisions to the Supply Manual</h3>
-<h4>1. Section 6A: Approval and Signing Authority Limits (<a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap87-pn87-appa-eng.html" rel="external" title="For more information see Appendix A.">Appendix A</a>)</h4>
+<h4 id="PN-87no3">I. Summary of Revisions to the Supply Manual</h4>
+<h5>1. Section 6A: Approval and Signing Authority Limits (<a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap87-pn87-appa-eng.html" rel="external" title="For more information see Appendix A.">Appendix A</a>)</h5>
 <p>The authorities have been updated to align with current Treasury Board (TB) and Public Works and Government Services Canada (PWGSC) policies, directives and instructions.</p>
-<h4>2. Annex 6.1:  Conditions Imposed on the Approval Authority Limits for <acronym title="Public Works and Government Services Canada">PWGSC</acronym> Personnel (<a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap87-pn87-appb-eng.html" rel="external" title="For more information see Appendix B.">Appendix B</a>)</h4>
+<h5>2. Annex 6.1:  Conditions Imposed on the Approval Authority Limits for <acronym title="Public Works and Government Services Canada">PWGSC</acronym> Personnel (<a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap87-pn87-appb-eng.html" rel="external" title="For more information see Appendix B.">Appendix B</a>)</h5>
 <p>Reporting on turnaround times, and posting Procurement Plans and Contract Requests have been deleted, and the condition with regard to obtaining Legal review of certain types of bid solicitation documents has been added.</p>
-<h4>3. Annex 6.1.1: Contract Approval and Signing Authorities in Support of Clients' Programs - other than for Canadian Commercial Corporation (<a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap87-pn87-appc-eng.html" rel="external" title="For more information see Appendix C.">Appendix C</a>)</h4>
+<h5>3. Annex 6.1.1: Contract Approval and Signing Authorities in Support of Clients' Programs - other than for Canadian Commercial Corporation (<a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap87-pn87-appc-eng.html" rel="external" title="For more information see Appendix C.">Appendix C</a>)</h5>
 <p>These special authorities have been updated to align with the <acronym title="Treasury Board">TB</acronym> Contracting Policy and organizational changes. Exceptional contracting limits have been moved to a separate annex and are addressed under article 5 below.</p>
-<h4>4. Annex 6.1.2: Basic Contracting Limits (<a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap87-pn87-appd-eng.html" rel="external" title="For more information see Appendix D.">Appendix D</a>)</h4>
+<h5>4. Annex 6.1.2: Basic Contracting Limits (<a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap87-pn87-appd-eng.html" rel="external" title="For more information see Appendix D.">Appendix D</a>)</h5>
 <p>Some of the basic contracting limits have been revised. It should be noted that Appendix D now reflects  the equivalent status of a Senior Director and a Regional Director. The main changes are summarized below:</p>
 <ol class="double-space" type="a">
 <li>The <acronym title="Assistant Deputy Minister">ADM</acronym>'s authority has increased to 100 percent of the Minister's authority, and as a result limits for other Level 1 positions have increased. </li>
@@ -34,7 +34,7 @@
 </ol>
 <div class="topPage"><a href="#PN-87tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
-<h4>5. Annex 6.1.3: Exceptional Contracting Limits (<a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap87-pn87-appe-eng.html" rel="external" title="For more information see Appendix E.">Appendix E</a>)</h4>
+<h5>5. Annex 6.1.3: Exceptional Contracting Limits (<a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap87-pn87-appe-eng.html" rel="external" title="For more information see Appendix E.">Appendix E</a>)</h5>
 <p>Exceptional contracting limits have been updated to align with the <acronym title="Treasury Board">TB</acronym> Contracting Policy, and are now clearly defined in the accompanying "Notes" and presented in table format.  The main changes are summarized below:</p>
 <ol class="double-space" type="a">
 <li>Authorities for deregulated electricity and natural gas, and energy management contracts are now addressed. </li>
@@ -43,9 +43,9 @@
 <li>Seized Property Management and Crown Assets Disposal authorities are captured in the table. Only those positions identified in the relevant notes can exercise these authorities.</li>
 <li>Annexes 6.2, 6.2.1 and 6.2.2 are deleted in their entirety. The <acronym title="Canadian Commercial Corporation">CCC</acronym> certification and signing authorities are now captured in Annex 6.1.3. </li>
 </ol>
-<h4>6. Annex 6.1.5: Contract Amendment Approval Instructions (<a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap87-pn87-appf-eng.html" rel="external" title="For more information see Appendix F.">Appendix F</a>)</h4>
+<h5>6. Annex 6.1.5: Contract Amendment Approval Instructions (<a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/hist/ap87-pn87-appf-eng.html" rel="external" title="For more information see Appendix F.">Appendix F</a>)</h5>
 <p>Some of the instructions have been deleted, as they were out-of-date, or revised to provide further clarification.</p>
-<h4>7. The following documents are deleted</h4>
+<h5>7. The following documents are deleted</h5>
 <ol class="double-space" type="a">
 <li>Annex 6.1.9: Contract Amendment Approval Process (CAAP);</li>
 <li>Annex 6.1.10: Just in Time Approval Process (JITAP);</li>
@@ -62,9 +62,9 @@
 <p><strong>NOTE:</strong> Refer to the attached Appendices for revisions to the Supply Manual. These changes will be incorporated in the next release of the Supply Manual.</p>
 <div class="topPage"><a href="#PN-87tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
-<h3 id="PN-87no4">Section II. Delegation Form</h3>
+<h4 id="PN-87no4">Section II. Delegation Form</h4>
 <p>The individual delegation form is used to specify the limits that are set by management for the incumbent of each position. The authority granted to an incumbent of a position must be commensurate with the level required to carry out the responsibilities assigned to the incumbent. This relationship between responsibilities and authorities for each incumbent is recognized on individual delegation forms.</p>
-<h4>Procedures to update the individual delegation form </h4>
+<h5>Procedures to update the individual delegation form </h5>
 <p>Superiors must ensure that: </p>
 <ol class="double-space" type="a">
 <li>a new individual delegation form (<span lang="fr"><acronym title="Public Works and Government Services Canada - Travaux publics et Services gouvernementaux Canada">PWGSC-TPSGC</acronym></span> 524 in <acronym title="Electronic Forms">ELF</acronym>), is completed for each incumbent to reflect the revised authorities;</li>
@@ -73,11 +73,11 @@
 </ol>
 <p>General information on Delegation of Authority Instruments is available to <acronym title="Public Works and Government Services Canada">PWGSC</acronym> employees on-line at <a href="http://source.pwgsc-tpsgc.gc.ca/gos/delegation/menu_e.html" rel="external">Delegation of Authorities</a> <span> (accessible only on the Government of Canada network)</span>. Further information on the principles of delegation of authority and proper use of the authorities is available at <a href="http://source.pwgsc-tpsgc.gc.ca/gos/delegation/chap3_e.html" rel="external">Delegation Principles</a> <span> (accessible only on the Government of Canada network)</span>.</p>
 <p>Contracting officers must ensure that any authorities they exercise are in accordance with their approved delegation form.</p>
-<h4>Contact Person</h4>
+<h5>Contact Person</h5>
 <p>Please direct any inquiries to Susan Blakeney, Acquisition Policy and Process Directorate, at 819-956-8235 or via e-mail to <a href="mailto:susan.blakeney@pwgsc-tpsgc.gc.ca" rel="external">susan.blakeney@pwgsc-tpsgc.gc.ca</a>.</p>
-<h3>Appendix A</h3>
-<h4>REVISIONS TO SUPPLY MANUAL</h4>
-<h5>Chapter 6 - Developing the Procurement Strategy</h5>
+<h4>Appendix A</h4>
+<h5>REVISIONS TO SUPPLY MANUAL</h5>
+<h6>Chapter 6 - Developing the Procurement Strategy</h6>
 <h6>Section 6A: Approval and Signing Authority Limits</h6>
 <p><strong>Treasury Board Approval</strong></p>
 <p>6A.011 (2009-xx-xx)  <acronym title="Treasury Board">TB</acronym> approval is also required for a number of areas described in the Treasury Board (TB) manuals and in current <acronym title="Treasury Board">TB</acronym> circulars, as well as for the making of any "extra payment," i.e. a payment where a legal liability does not exist or has not been accepted by Canada, or where there is uncertainty that a legal liability exists under the contract.</p>
@@ -156,8 +156,8 @@
 <p>***************</p>
 <h6>Section 7E: Contract Award</h6>
 <p>7E.511 (2009-xx-xx)  For contracts requiring a senior director, regional director, or director general approval, a condition of exercising delegated authority is that the cost analyst and legal officer be given the opportunity to review the contractual documents and to provide comments. For contracts above a director general's approval level, these comments should be included as supporting data in Part 2, Section F of the Contract Request, form <span lang="fr"><acronym title="Public Works and Government Services Canada - Travaux publics et Services gouvernementaux Canada">PWGSC-TPSGC</acronym></span> 1151-2 (see Annex 7.7).</p>
-<h3>Appendix B</h3>
-<h4>Annex 6.1: Conditions Imposed on the Approval Authority Limits for <acronym title="Public Works and Government Services Canada">PWGSC</acronym> Personnel (2009-xx-xx)</h4>
+<h4>Appendix B</h4>
+<h5>Annex 6.1: Conditions Imposed on the Approval Authority Limits for <acronym title="Public Works and Government Services Canada">PWGSC</acronym> Personnel (2009-xx-xx)</h5>
 <p>The approval authority limits for Public Works and Government Services Canada (PWGSC) personnel are subject to the following conditions:</p>
 <ol class="double-space" type="a">
 <li>that Contracting Authorities  ensure that for contracts and contract amendments requiring their approval, the conditions of the contract are  consistent with the representations made to them as to the substantive nature of the transaction;</li>
@@ -173,9 +173,9 @@
 </ol>
 <p>Legal Services must also be consulted when the contracting officer is considering a deviation from <em>Standard Acquisition Clauses and Conditions</em> Manual clauses or the departmental standard procurement templates.  The contracting officer should also seek advice from Legal Services on sensitive requirements.</p>
 <p><strong>NOTE:</strong> The Minister's approval authority is required for specific submissions as described in Annex 6.1.1</p>
-<h3>Appendix C</h3>
-<h4>Annex 6.1.1: Contract Approval and Signing Authorities in Support of Clients' Programs Only - Other than for Canadian Commercial Corporation (2009-XX-XX)</h4>
-<h5>Approval Authorities</h5>
+<h4>Appendix C</h4>
+<h5>Annex 6.1.1: Contract Approval and Signing Authorities in Support of Clients' Programs Only - Other than for Canadian Commercial Corporation (2009-XX-XX)</h5>
+<h6>Approval Authorities</h6>
 <p><strong>1.1</strong> Submissions (contract requests) granting approval to enter into and amend a contract, excluding those described in sections 1.2 to 1.4 below and Annex 6.1.3: in accordance with Annex 6.1.2 for goods, services, construction, non-regulated telecommunication, and A&amp;E services, if limits in Annex 6.1.2 exceeded:</p>
 <p>						Treasury Board </p>
 <p><strong>1.2 Former Public Servants</strong></p>
@@ -194,7 +194,7 @@
 <p>Submissions (contract requests) granting approval to issue a confirming order must be approved at the Director level or higher  based on 50% of the non-competitive contract approval authority limits in Annex 6.1.2. The 50% reduction and the limitation to non-competitive contract approval authority limits applies to all positions below Assistant Deputy Minister. (See 7F.692.) </p>
 <div class="topPage"><a href="#PN-87tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
-<h5>Signing Authorities</h5>
+<h6>Signing Authorities</h6>
 <p><strong>1.5</strong> Purchase orders, contracts, standing offers, supply arrangements, formal agreements and arrangements, stores and supply transfer orders, written direction to the Agency of Record, assignments, go-ahead letters and messages, letters of intent, consents to subcontract, termination for convenience notices, and amendments to any of the above, as follows:</p>
 <ol class="double-space" type="a">
 <li>in accordance with Annex 6.1.2 for goods, services, construction, non-regulated telecommunication, and A&amp;E services;</li>
@@ -235,9 +235,9 @@
 <p>Corporate Secretary</p>
 <p><strong>1.10 Exceptional Contracting Limits</strong></p>
 <p>When using the Exceptional Contracting Limits, in accordance with Annex 6.1.3, the explanations in the "Notes" must be read in conjunction with the matrix. The "Notes" provide descriptions and relevant restrictions to the delegation of authority.</p>
-<h3>Appendix D</h3>
-<h4>Annex 6.1.2: Basic Contracting Limits<br/>
-					(2009-XX-XX)</h4>
+<h4>Appendix D</h4>
+<h5>Annex 6.1.2: Basic Contracting Limits<br/>
+					(2009-XX-XX)</h5>
 <table class="basic fontSize70" summary="This table contains contract approval and signing authority limits for GOODS - Contract Approval and Signing Authority Limits, including authority level, position title, type of procurement.">
 <caption><strong>GOODS - Contract Approval and Signing Authority Limits</strong></caption>
 <tbody><tr>
@@ -1333,8 +1333,8 @@
 <p>The limits shown in this table are expressed in terms of thousands (K) or millions (M) of dollars or, where dollars are not appropriate, in terms of policy or regulatory constraints.  The word "Full" means that the authority limit is subject to the lesser of <acronym title="Treasury Board">TB</acronym>/departmental restriction or budgetary limit (i.e. the availability of funds).</p>
 <div class="topPage"><a href="#PN-87tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
-<h5>Table of Equivalent Positions<br/>
-					  (2009-XX-XX)</h5>
+<h6>Table of Equivalent Positions<br/>
+					  (2009-XX-XX)</h6>
 <h6>Purpose</h6>
 <p>Unless otherwise specified, all positions in this table are in the Acquisitions Branch, located in either headquarters or at client locations, or in regional operations with responsibility for common service acquisition functions.</p>
 <p><strong>Notes:</strong></p>
@@ -1410,10 +1410,10 @@
 							Contract Clerk</td>
 </tr>
 </tbody></table>
-<h3>Appendix E</h3>
-<h4>Annex 6.1.3:  Exceptional Contracting Limits<br/>
-					(2009-xx-xx)</h4>
-<h5>NOTES TO EXCEPTIONAL AUTHORITIES</h5>
+<h4>Appendix E</h4>
+<h5>Annex 6.1.3:  Exceptional Contracting Limits<br/>
+					(2009-xx-xx)</h5>
+<h6>NOTES TO EXCEPTIONAL AUTHORITIES</h6>
 <p>These tables must be read in conjunction with the "Notes" to Exceptional Contracting Limits, using the column numbers for reference.  The Notes provide additional information about the authorities contained in the tables, describing the meanings of column headings and documenting the relevant restrictions that apply to various authorities but which are not shown in the tables themselves.</p>
 <p>In addition to dollar references in the tables, some limits are shown as "Full". This means that officers in specified organizational positions have full authority for contracting subject to the lesser of Treasury Board/Public Works and Government Services Canada restriction or the availability of funds in the client budget.  Unless specified otherwise, the authorities delegated in these tables apply only in the area of responsibility of the contracting officers exercising the authorities.  This is directly related to the function contracting officers performs in their positions and the associated responsibilities of that function.</p>
 <table class="basic fontSize70" summary="This table contains contract approval and signing authority limits, including authority level, position title and type of procurement.">
@@ -2398,7 +2398,7 @@
 <div class="topPage"><a href="#PN-87tphp" title="Return to Top of Page"><br/>
 				Top of Page</a></div>
 <p>*******************</p>
-<h5>NOTES:</h5>
+<h6>NOTES:</h6>
 <h6>Column 46 Conditional Emergency Contracting Authority</h6>
 <p>Approval authorities for non-competitive contracts and amendments, for goods and services up to $15M rests with the Minister of <acronym title="Public Works and Government Services Canada">PWGSC</acronym> and the Assistant Deputy Minister, Acquisitions Branch, in response to pressing emergencies by departments where there will be significant human and/or financial risk on condition that a report be sent to the Treasury Board (TB) Secretariat within 60 calendar days of the authorization or beginning of work.</p>
 <p>This emergency contracting authority <strong>can be used only if all</strong> of the following criteria are met:</p>
@@ -2616,9 +2616,9 @@
 <li><em>Seized Property Disposition Regulations</em></li>
 <li><em>Federal Real Property and Federal Immovables Act and Regulations</em></li>
 </ul>
-<h3>Appendix F</h3>
-<h4>Annex 6.1.5: Contract Amendment Approval Instructions<br/>
-					(2009-XX-XX)</h4>
+<h4>Appendix F</h4>
+<h5>Annex 6.1.5: Contract Amendment Approval Instructions<br/>
+					(2009-XX-XX)</h5>
 <p>When the correct approval authority level for a proposed amendment is being determined, consideration must be given not only to the value of the amendment but also to the cumulative value (or aggregate) of amendments. The amendment approval authority level is based on the aggregate amendment value excluding negative and pre-approved amendments.  Following is an example of how to determine the appropriate authority for amendments to a contract awarded on a competitive basis. </p>
 <p><strong>1. Determining the Amendment Approval Authority for Competitive Contracts for Goods</strong></p>
 <p>A Contract Planning and Advance Approval (CPAA) was approved at the director level for a total original procurement value estimated at $10,000,000.  The electronic bidding process was utilized. The original contract was awarded at $8,500,000 and signed by the Manager, the applicable signing authority level. The <acronym title="Contract Planning and Advance Approval">CPAA</acronym> included a quantity option equaling $1,000,000 to be exercised at anytime before the expiry date of the contract. The <acronym title="Contract Planning and Advance Approval">CPAA</acronym> also included a set aside for design changes equaling $500K.</p>

@@ -1,22 +1,22 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-81</h2>
+<h3 class="pn-content-title">Contenu de l'AP-81</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 23 janvier 2007</h3>
-<h4>Introduction</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 23 janvier 2007</h4>
+<h5>Introduction</h5>
 <p>Le présent avis relatif aux politiques (AP)-81 fait suite à une<br/>
 					récente recommandation du Bureau du vérificateur général<br/>
 					et au courriel subséquent envoyé par la directrice exécutive,<br/>
 					Opérations d'approvisionnement, aux directeurs généraux<br/>
 					et aux directeurs généraux régionaux le 6 décembre 2006.</p>
-<h4>Politique</h4>
+<h5>Politique</h5>
 <p>À compter de maintenant, et dans les circonstances suivantes,<br/>
 					plus d'un employé de Travaux public et Services gouvernementaux<br/>
 					Canada (TPSGC) devra participer à l'évaluation des prix<br/>
@@ -47,12 +47,12 @@
 					A</a> du présent document pour connaître les modifications<br/>
 					apportées au <em>Guide des approvisionnements</em>, lesquelles seront intégrées<br/>
 					au Guide à l'occasion de sa prochaine parution.</p>
-<h4>Personne-ressource</h4>
+<h5>Personne-ressource</h5>
 <p><strong>S/O</strong></p>
 <p> <a id="AP-81annexa" name="annexa"></a></p>
-<h3>Annexe A - Changements apportés au Guide des approvisionnements</h3>
-<h4>SECTION 7D : TRAITEMENT DES SOUMISSIONS</h4>
-<h5>Évaluation des réponses</h5>
+<h4>Annexe A - Changements apportés au Guide des approvisionnements</h4>
+<h5>SECTION 7D : TRAITEMENT DES SOUMISSIONS</h5>
+<h6>Évaluation des réponses</h6>
 <h6>Évaluation par le client</h6>
 <p><span>7D.393 (xxxx-xx-xx)</span> Les clients ont la responsabilité de<br/>
 					l'évaluation de la portion technique des soumissions. <span><em>TPSGC</em> ne<br/>

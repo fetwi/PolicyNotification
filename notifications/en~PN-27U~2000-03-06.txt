@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-27U</h2>
+<h3 class="pn-content-title">Content of PN-27U</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This update to Policy Notification 27 amends the Land Claims Set-Aside<br/>
 					Policy found in Section 9M of the Supply Manual to:</p>
@@ -21,11 +21,11 @@
 					next Supply Manual and SACC Manual amendments, scheduled for release<br/>
 					in May 2000.</p>
 <hr/>
-<h3>Annex A</h3>
-<h4>Changes to the Supply Manual, Chapter 9M</h4>
+<h4>Annex A</h4>
+<h5>Changes to the Supply Manual, Chapter 9M</h5>
 <p><strong>Update to the Summary of Benefits from Treasury Board<br/>
 					of Canada Secretariat Contracting Policy Notice 1997-8 chart</strong></p>
-<h5>Section 5.7: Tr'ondëk Hwëch'in Final Agreement*</h5>
+<h6>Section 5.7: Tr'ondëk Hwëch'in Final Agreement*</h6>
 <p><strong>Notification</strong></p>
 <dl>
 <dt><em>Bid Solicitation</em></dt>
@@ -47,8 +47,8 @@
 					also apply to procurements subject to the Tr'ondëk Hwëch'in<br/>
 					Final Agreement.</p>
 <hr/>
-<h3>Annex B</h3>
-<h4>Changes to the SACC Manual</h4>
+<h4>Annex B</h4>
+<h5>Changes to the SACC Manual</h5>
 <p>Include the relevant SACC clause(s) (identified in the chart above)<br/>
 					in the bid solicitation and insert the corresponding clause numbers<br/>
 					from the Tr'ondëk Hwëch'in Final Agreement (listed below)<br/>
@@ -61,8 +61,8 @@
 					SACC W0173T is comprised of clauses: 17.14.2.2; 17.14.2.3; 17.14.2.4;<br/>
 					17.14.2.8. </p>
 <hr/>
-<h3>Little Salmon/Carmacks First Nation Final Agreement (LSCFA) Revised<br/>
-					SACC Manual Clause</h3>
+<h4>Little Salmon/Carmacks First Nation Final Agreement (LSCFA) Revised<br/>
+					SACC Manual Clause</h4>
 <p><strong>W0113T LSCFA - Silviculture</strong></p>
 <p><strong>Remarks</strong>: Refer to the chart "Summary of Benefits<br/>
 					from Treasury Board of Canada Secretariat Contracting Policy Notice<br/>
@@ -92,8 +92,8 @@
 					associated with silviculture in the Traditional Territory of the<br/>
 					Little Salmon/Carmacks First Nation</p>
 <hr/>
-<h3>Tr'ondëk Hwëch'in Final Agreement (THFA) New SACC Manual<br/>
-					Clauses</h3>
+<h4>Tr'ondëk Hwëch'in Final Agreement (THFA) New SACC Manual<br/>
+					Clauses</h4>
 <p><strong>W0171T THFA - Designated Heritage Site</strong></p>
 <p><strong>Remarks</strong>: Refer to the chart "Summary of Benefits<br/>
 					from Treasury Board of Canada Secretariat Contracting Policy Notice<br/>

@@ -1,20 +1,20 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-87U</h2>
+<h3 class="pn-content-title">Content of PN-87U</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>The purpose of Policy Notification (<abbr title="Policy Notification">PN</abbr>)-87U is to update the authority limits for Construction and Architectural and Engineering Services.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>Temporary authority limits were provided for Construction and Architectural and Engineering Services in support of the Accelerated Infrastructure Program. These limits are in effect from April 1, 2009 to March 31, 2011. On April 1, 2011, new approval and signing authority limits will come into effect and will require new delegation forms for all positions requiring Construction and Architectural and Engineering Services authorities. Any new procurement or procurement in progress as of April 1, 2011 must use the new limits.</p>
-<h3>Effective Date</h3>
+<h4>Effective Date</h4>
 <p>This <abbr title="Policy Notification">PN</abbr> is effective immediately.</p>
-<h3>Revisions to the Current Policy</h3>
+<h4>Revisions to the Current Policy</h4>
 <p>Approval and Signing Authority Limits for Construction and Architectural and Engineering Services have been revised and replace the temporary limits put in place for the Accelerated Infrastructure Program. The revised limits are effective April 1, 2011. Annex A contains the changes to the Supply Manual.</p>
-<h3>Contact Person</h3>
+<h4>Contact Person</h4>
 <p>For more information on the Supply Manual changes, contact Susan Blakeney, by phone at 819-956-8235, or by e-mail at: <a href="mailto:susan.blakeney@tpsgc-pwgsc.gc.ca" rel="external">susan.blakeney@tpsgc-pwgsc.gc.ca</a>.</p>
-<h3>Annex A - Changes to the Supply Manual
+<h4>Annex A - Changes to the Supply Manual
 <br/>
-Annex 6.4.2: Basic Contracting Limits</h3>
+Annex 6.4.2: Basic Contracting Limits</h4>
 <p>CONSTRUCTION - <strong>Contract Approval and Signing Authority Limits</strong></p>
 <p>This table entitled CONSTRUCTION - Contract Approval and Signing Authority Limits provides contract entry, amendment, and signing authority limits for Electronic, Competitive and Non-competitive Construction procurement.</p>
 <table class="basic">
@@ -220,7 +220,7 @@ Annex 6.4.2: Basic Contracting Limits</h3>
 C = Contract Signing Authority
 <br/>
 A = Aggregate Contract Amendment Signing Authority</p>
-<h3>Annex 6.4.2: Basic Contracting Limits</h3>
+<h4>Annex 6.4.2: Basic Contracting Limits</h4>
 <p><strong>A&amp;E SERVICES</strong> - Contract Approval and Signing Authority Limits</p>
 <p>This table entitled A&amp;E SERVICES - Contract Approval and Signing Authority Limits, provides contract entry, amendment and signing authority limits for Electronic, Competitive and Non-competitive A&amp;E Services procurement.</p>
 <table class="basic">

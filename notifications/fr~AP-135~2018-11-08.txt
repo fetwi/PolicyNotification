@@ -1,17 +1,17 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-135</h2>
-<h3>But</h3>
+<h3 class="pn-content-title">Contenu de l'AP-135</h3>
+<h4>But</h4>
 <p>L'avis relatif aux politiques 135 (AP-135) vise à informer les agents de négociation des contrats du Programme des approvisionnements de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> des mesures qu'ils doivent prendre pour publier de l'information sur l'<a href="https://ocama.achatscanada.canada.ca/mes-accords">application sur les offres à commandes et arrangements en matière d'approvisionnement (Appli OCAMA)</a>, qui a maintenant officiellement remplacé l'Index des offres à commandes (IOC) en date du 11 octobre 2018.</p>
 <p>Cet avis relatif aux politiques devrait être lu en parallèle avec l'<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/avis-relatifs-aux-politiques?pnid=AP-131#parcourir-ap-precedents">Avis relatif aux politiques 131 : Initiative canadienne d'approvisionnement collaboratif pour les offres à commandes</a>.</p>
-<h3>Date d'entrée en vigueur</h3>
+<h4>Date d'entrée en vigueur</h4>
 <p>Le présent <abbr title="avis relatif aux politiques">AP</abbr> entre en vigueur immédiatement.</p>
-<h3>Renseignements généraux</h3>
+<h4>Renseignements généraux</h4>
 <p>L'<a href="https://ocama.achatscanada.canada.ca/mes-accords"><abbr title="Application sur les offres à commandes et arrangements en matière d'approvisionnement">Appli OCAMA</abbr></a> est une application Web sécurisée qui permet à des utilisateurs connus et fiables de gérer et de consulter les offres à commandes (OC) et les arrangements en matière d'approvisionnement (AMA) du gouvernement fédéral. </p>
 <p>L'<abbr title="Application sur les offres à commandes et arrangements en matière d'approvisionnement">Appli OCAMA</abbr> a été initialement déployée en juin 2016 pour donner aux utilisateurs provinciaux et territoriaux autorisés ayant signé une entente-cadre d'utilisation avec Services Travaux publics et Services gouvernementaux Canada (TPSGC) un accès sécurisé aux offres à commandes du gouvernement fédéral. Ce processus s'est déroulé conformément à l'<a href="https://www.tpsgc-pwgsc.gc.ca/app-acq/app-collaborat-procur/index-fra.html" rel="external">Initiative canadienne d'approvisionnement collaboratif (ICAC)</a> de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> et à la suite d'un <a href="http://decrets.canada.ca/attachment.php?attach=30566&amp;lang=fr" rel="external">décret</a> approuvé en février 2015, permettant à <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> de communiquer ses instruments et ses services d'approvisionnement sur une base volontaire, sans frais supplémentaires pour les provinces et les territoires.</p>
 <p>Le 11 octobre 2018, Achatsetventes.gc.ca a lancé la deuxième phase de l'<abbr title="Application sur les offres à commandes et arrangements en matière d'approvisionnement">Appli OCAMA</abbr>, qui est devenue la source officielle des <abbr title="offres à commandes">OC</abbr> et des <abbr title="arrangements en matière d'approvisionnement">AMA</abbr> du gouvernement du Canada, en remplacement de l'<abbr title="Index des offres à commandes">IOC</abbr>. Tous les renseignements sur les <abbr title="offres à commandes">OC</abbr> et les <abbr title="arrangements en matière d'approvisionnement">AMA</abbr> qui ont été affichés sur l'<abbr title="Index des offres à commandes">IOC</abbr> ont déjà été exportés dans l'<abbr title="Application sur les offres à commandes et arrangements en matière d'approvisionnement">Appli OCAMA</abbr>. Après la date de lancement, toutes les <abbr title="offres à commandes">OC</abbr>, tous les <abbr title="arrangements en matière d'approvisionnement">AMA</abbr> et toutes les modifications doivent être publiés directement dans l'Appli <abbr title="offres à commandes et arrangements en matière d'approvisionnement">OCAMA</abbr> par un agent de négociation des contrats. Autrement, ces <abbr title="offres à commandes">OC</abbr>, <abbr title="arrangements en matière d'approvisionnement">AMA</abbr> et les modifications ne seront pas visibles par les utilisateurs fédéraux, provinciaux et territoriaux autorisés.</p>
-<h3>Publier des offres à commandes et des arrangements en matière d'approvisionnement dans l'<abbr title="Application sur les offres à commandes et arrangements en matière d'approvisionnement">Appli OCAMA</abbr></h3>
+<h4>Publier des offres à commandes et des arrangements en matière d'approvisionnement dans l'<abbr title="Application sur les offres à commandes et arrangements en matière d'approvisionnement">Appli OCAMA</abbr></h4>
 <p>Les agents de négociation des contrats doivent prendre les mesures suivantes pour afficher leurs offres à commandes et leurs arrangements en matière d'approvisionnement dans l'<abbr title="Application sur les offres à commandes et arrangements en matière d'approvisionnement">Appli OCAMA</abbr> :</p>
 <ol>
 <li><strong>Obtenir un compte Achatsetventes.gc.ca sécurisé :</strong> Les agents de négociation des contrats ont besoin d'un compte sécurisé sur Achatsetventes.gc.ca pour pouvoir modifier les renseignements de l'Application Web d'<abbr title="offres à commandes et arrangements en matière d'approvisionnement">OCAMA</abbr>. Pour obtenir un compte Achatsetventes.gc.ca, un agent de négociation des contrats doit d'abord avoir une identité numérique approuvée par le gouvernement du Canada (GC) telle que <b>maCLÉ</b>. Un agent de négociation des contrats pourrait alors obtenir les autorisations nécessaires pour accéder à l'<abbr title="Application sur les offres à commandes et arrangements en matière d'approvisionnement">Appli OCAMA</abbr> en faisant parvenir une demande par courriel à l'adresse suivante : <a href="mailto:achatsetventes.buyingandselling@tpsgc-pwgsc.gc.ca" rel="external">achatsetventes.buyingandselling@tpsgc-pwgsc.gc.ca</a>.</li>
@@ -25,13 +25,13 @@
 </li>
 <li>Publier l'<abbr title="offres à commandes">OC</abbr> ou <abbr title="arrangements en matière d'approvisionnement">AMA</abbr> dans l'<abbr title="Application sur les offres à commandes et arrangements en matière d'approvisionnement">Appli OCAMA</abbr> selon les indications du guide de l'utilisateur.</li>
 </ol>
-<h3>Résumé des modifications apportées au Guide des approvisionnements</h3>
+<h4>Résumé des modifications apportées au Guide des approvisionnements</h4>
 <p>Le Guide des approvisionnements a été mis à jour en fonction du présent <abbr title="avis relatif aux politiques">AP</abbr>. </p>
-<h3>Résumé des modifications apportées au Guide des Clauses et conditions uniformisées d'achat</h3>
+<h4>Résumé des modifications apportées au Guide des Clauses et conditions uniformisées d'achat</h4>
 <p>Aucune modification n'a été apportée aux Clauses et conditions uniformisées d'achat.</p>
-<h3>Coordonnées</h3>
+<h4>Coordonnées</h4>
 <p>Si vous avez des questions, envoyez un courriel à Achatsetventes.gc.ca, à : <a href="mailto:achatsetventes.buyingandselling@tpsgc-pwgsc.gc.ca" rel="external">achatsetventes.buyingandselling@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
+<h5 class="field-label">Sections du Guide des approvisionnements visées</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-9f344fe341a542d2a103d8c5c09de9ad">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

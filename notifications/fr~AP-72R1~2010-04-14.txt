@@ -1,16 +1,16 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-72R1</h2>
-<h3>Objet</h3>
+<h3 class="pn-content-title">Contenu de l'AP-72R1</h3>
+<h4>Objet</h4>
 <p>L'avis relatif aux politiques (<abbr title="Avis relatifs aux politiques">AP</abbr>)-72R1 remplace au complet l'<abbr title="Avis relatifs aux politiques">AP</abbr>-72R, publié le 14 novembre 2006.  L'<abbr title="Avis relatifs aux politiques">AP</abbr>-72R1 complémente et devrait être lu en parallèle avec l'<abbr title="Avis relatifs aux politiques">AP</abbr>-92, Politique de gestion des biens et des services, et avec les dispositions qui se trouvent dans les chapitres pertinents du <em>Guide des approvisionnements</em>.  En cas de divergence entre le <em>Guide des approvisionnements</em> et cet <abbr title="Avis relatifs aux politiques">AP</abbr>, les dispositions de l'<abbr title="Avis relatifs aux politiques">AP</abbr>-72R1 ont préséance.</p>
 <p>L'<abbr title="Avis relatifs aux politiques">AP</abbr>-72R1 donne aux agents de négociation des contrats des conseils sur la création, le renouvellement ou la prolongation des offres à commandes (<abbr title="offre à commandes">OC</abbr>s) (offres à commandes principales et nationales [<abbr title="offres à commandes principales et nationales">OCPN</abbr>], offres à commandes individuelles et nationales (<abbr title="Offres à commandes individuelles et nationales">OCIN</abbr>), offres à commandes principales et régionales [<abbr title="offres à commandes principales et régionales">OCPR</abbr>], offres à commandes individuelles et régionales [<abbr title="offres à commandes individuelles et régionales">OCIR</abbr>], offres à commandes individuelles et ministérielles [<abbr title="offres à commandes individuelles et ministérielles">OCIM</abbr>]) et des arrangements en matière d'approvisionnement (<abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s).</p>
 <p>Les demandes pour tous les <abbr title="offre à commandes">OC</abbr>s et les <abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s, indépendamment de leur valeur en dollar ou type de transaction, relatives aux biens et services visés par les approches nationales sortent du champ d'application de l'<abbr title="Avis relatifs aux politiques">AP</abbr>-72R1 et doivent être traitées en suivant les instructions fournies dans l'<abbr title="Avis relatifs aux politiques">AP</abbr>-92.</p>
 <p>L'<abbr title="Avis relatifs aux politiques">AP</abbr>-72R1 vise à réduire le chevauchement des <abbr title="offre à commandes">OC</abbr>s et des <abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s, à accroître l'efficacité, l'efficience et la qualité des <abbr title="offre à commandes">OC</abbr>s et des <abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s, et à s'assurer qu'à l'intérieur de chaque <abbr title="offre à commandes">OC</abbr> et <abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s, les objectifs nationaux, régionaux et sociaux soient traités.  Il décrit brièvement les rôles et les responsabilités des individus impliqués dans le processus.</p>
-<h3>Politique</h3>
+<h4>Politique</h4>
 <p>Les demandes pour la création, le renouvellement et  la prolongation des <strong><abbr title="offre à commandes">OC</abbr>s</strong> (<abbr title="offres à commandes principales et nationales">OCPN</abbr>, <abbr title="offres à commandes individuelles et nationales">OCIN</abbr>, <abbr title="offres à commandes principales et régionales">OCPR</abbr>, <abbr title="offres à commandes individuelles et ministérielles">OCIM</abbr> et <abbr title="offres à commandes individuelles et régionales">OCIR</abbr>) et(ou) des <strong><abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s</strong> doivent être acceptées au préalable par le gestionnaire des biens et services  ou l'agent de première responsabilité ayant été désigné pour les biens et  services visés ou, s'il n'y a pas de gestionnaire ou d'agent, par le réviseur  régional affecté à chacune des régions.   S'il n'y a ni gestionnaire, agent ou réviseur régional, le gestionnaire,  Division de la coordination des biens et services de la Direction de la gestion  du rendement, des dépenses et des biens et services, procédera à l'examen.</p>
 <p>Les individus responsables des examens des demandes  d'<abbr title="offre à commandes">OC</abbr>s et <abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s sont désignés dans les présentes par le terme  « réviseur ».  La liste des  réviseurs, mise à jour régulièrement, est disponible dans l'<a href="http://soi.pwgsc.gc.ca/app/index.cfm?Fuseaction=prg.main&amp;altlang=-f" rel="external">Index  des offres à commandes</a> (IOC).</p>
-<h3>Mise en application</h3>
+<h4>Mise en application</h4>
 <ol class="double-space">
 <li> <strong>Examen</strong>
 <p>Avant de créer, de renouveler ou de prolonger toute <abbr title="offre à commandes">OC</abbr>s (<abbr title="offres à commandes principales et nationales">OCPN</abbr>, <abbr title="offres à commandes individuelles et nationales">OCIN</abbr>, <abbr title="offres à commandes principales et régionales">OCPR</abbr>, <abbr title="offres à commandes individuelles et régionales">OCIR</abbr>, <abbr title="offres à commandes individuelles et ministérielles">OCIM</abbr>) et(ou) tout <abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s, et(ou) que la période de prolongation ait été approuvée ou non au préalable dans le document original, l'agent de négociation des contrats doit soumettre la « Demande d'approbation du réviseur » (voir l'<a href="#AP-72R1ann-a">Annexe A</a>) au réviseur pertinent (voir l'<a href="http://soi.pwgsc.gc.ca/app/index.cfm?Fuseaction=prg.main&amp;altlang=-f" rel="external">Index  des offres à commandes</a> pour la liste complète.)</p>
@@ -48,14 +48,14 @@
 </ol>
 </li>
 </ol>
-<h3>Modifications à l'Index des offres à commandes, au Guide des approvisionnements (<abbr title="Guide des approvisionnements">GDA</abbr>) et au guide des Clauses et conditions uniformisées d'achat (<abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr>)</h3>
+<h4>Modifications à l'Index des offres à commandes, au Guide des approvisionnements (<abbr title="Guide des approvisionnements">GDA</abbr>) et au guide des Clauses et conditions uniformisées d'achat (<abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr>)</h4>
 <p>Le contenu des <a href="#AP-72R1ann-a">Annexe A</a> et <a href="#AP-72R1ann-b">Annexe B</a> sera bientôt intégrédans  l'<a href="http://soi.pwgsc.gc.ca/app/index.cfm?Fuseaction=prg.main&amp;altlang=-f" rel="external">Index des offres à commandes</a>. Les changements aux procédures seront intégrés dans  une version ultérieure du Guide des approvisionnements. Des changements ont été apportés aux clauses <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#M7010C">M7010C</a> et <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#S0010C">S0010C</a> du Guide des <abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr>, dans la Version 10-1 en date du 11 janvier 2010.</p>
-<h3>Personne-ressource</h3>
+<h4>Personne-ressource</h4>
 <p>Les questions doivent être adressées au gestionnaire, Division de coordination des biens et services, Direction de la gestion du rendement, des dépenses et des biens et services, soit par courriel à : <a href="mailto:DCBS-CCD@tpsgc-pwgsc.gc.ca" rel="external">DCBS-CCD@tpsgc-pwgsc.gc.ca</a>, ou par téléphone au : 819-956-0676.</p>
 <div class="alternate-format">Version Doc (
    73Ko)<br/>
 <a class="help" href="https://www.canada.ca/fr/services-publics-approvisionnement/services/achats/mieux-acheter/reduire-obstacles/ameliorer-accessibilite.html">Aide sur les formats de fichier</a></div>
-<h3 id="AP-72R1ann-a">Annexe A - Gestion des biens et des services Demande d'acceptation du réviseur</h3>
+<h4 id="AP-72R1ann-a">Annexe A - Gestion des biens et des services Demande d'acceptation du réviseur</h4>
 <p>Les demandes pour la création, le renouvellement ou la prolongation des <abbr title="offre à commandes">OC</abbr>s (<abbr title="offres à commandes principales et nationales">OCPN</abbr>, <abbr title="offres à commandes individuelles et nationales">OCIN</abbr>, <abbr title="offres à commandes principales et régionales">OCPR</abbr>, <abbr title="offres à commandes individuelles et régionales">OCIR</abbr>, <abbr title="offres à commandes individuelles et ministérielles">OCIM</abbr>) et(ou) des <abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s doivent être acceptées au préalable par le réviseur pertinent. Les instructions fournies dans l'<abbr title="Avis relatifs aux politiques">AP</abbr>-92 doivent être suivies si la demande soumise pour la création, le renouvellement ou la prolongation concerne un bien ou service visé par une approche nationale, selon la Politique de gestion des biens et des services.</p>
 <p>Afin d'obtenir cette acceptation, l'agent de négociation des contrats doit remplir la « Demande d'approbation du réviseur » ci-dessous et la transmettre au réviseur pertinent. Durant l'évaluation de la demande, le réviseur peut :</p>
 <ol class="single-space" type="a">
@@ -64,7 +64,7 @@
 <li>« accepter avec  commentaires/recommandations/conditions », ou</li>
 <li>« refuser avec justification à l'appui ».</li>
 </ol>
-<h4>Gestion des biens et services Demande d'acceptation du réviseur</h4>
+<h5>Gestion des biens et services Demande d'acceptation du réviseur</h5>
 <ol class="double-space" type="1">
 <li>Afin  de faire parvenir ce formulaire au réviseur pertinent, consulter l'<a href="http://soi.pwgsc.gc.ca/app/index.cfm?Fuseaction=prg.main&amp;altlang=-f" rel="external">Index des  offres à commandes</a>, plus précisément le « Tableaux des équipes  de biens et de services, des réviseurs régionaux et des biens et services  désignés ».</li>
 <li>Fournir  une description concise des biens ou des services achetés, y compris la ou les  régions géographiques visées par les achats.</li>
@@ -78,7 +78,7 @@
 <li>Des <abbr title="offre à commandes">OC</abbr> ou des <abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s multiples seront-ils émis à des offrants ou fournisseurs multiples  pour répondre à des besoins identiques? Dans l'affirmative, expliquer de quelle  façon les ministères clients détermineront, sur une base concurrentielle, quel  offrant ou fournisseur devrait être choisi au moment de l'émission de chaque  commande subséquente ou contrat. <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> a-t-il un mécanisme en place pour aider  le ministère client dans leur choix? S'il n'y a pas de tel mécanisme, de quelle  façon le ministère client choisira-t-il, sur une base concurrentielle,  l'offrant ou le fournisseur?</li>
 <li>Si  le montant de la soumission n'est pas considéré dans le processus d'évaluation  et de sélection de l'offrant ou du fournisseur, expliquer quel processus ou  système sera mis en place à l'intention de l'utilisateur final pour lui  permettre de comparer les prix.</li>
 </ol>
-<h5><em>S'il s'agit d'une demande d'acceptation liée à  la modification d'une <abbr title="offre à commandes">OC</abbr> ou d'un <abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s en vigueur, passer à la question 20. Si  non, poursuivre avec la prochaine question.</em></h5>
+<h6><em>S'il s'agit d'une demande d'acceptation liée à  la modification d'une <abbr title="offre à commandes">OC</abbr> ou d'un <abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s en vigueur, passer à la question 20. Si  non, poursuivre avec la prochaine question.</em></h6>
 <ol class="double-space" start="11" type="1">
 <li>Quelle  est la  stratégie d'approvisionnement  (concurrentielle ou fournisseur unique)?</li>
 <li>Le  marché est-il assujetti à l'Accord sur le commerce intérieur (ACI), à l'Accord  de libre-échange nord-américain (ALENA) ou à l'Accord sur les marchés publics  de l'Organisation mondiale du commerce (AMC-OMC)? Dans l'affirmative, indiquer  lequel ou lesquels s'appliqueront.</li>
@@ -93,7 +93,7 @@
 <li>Dans  le cas d'<abbr title="offre à commandes">OC</abbr> ou d'<abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s pluriannuels, comment veillera-t-on à ce que les prix  continuent d'être compétitifs durant toute la période?</li>
 <li>Quelles  sont les limites fixées pour les commandes subséquentes aux <abbr title="offre à commandes">OC</abbr> et pour les  contrats en vertu des <abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s, et pour quelle raison ces limites ont-elles été  choisies?</li>
 </ol>
-<h5><strong>Modifications en vue  de prolonger des <abbr title="offre à commandes">OC</abbr> ou des <abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s en vigueur</strong></h5>
+<h6><strong>Modifications en vue  de prolonger des <abbr title="offre à commandes">OC</abbr> ou des <abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s en vigueur</strong></h6>
 <ol class="double-space" start="20" type="1">
 <li>Pourquoi  cette <abbr title="offre à commandes">OC</abbr> ou <abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s n'est pas émise de nouveau?</li>
 <li>Comment  les prix demeureront-ils compétitifs au cours des périodes de prolongation?</li>
@@ -102,7 +102,7 @@
 </ol>
 <p>Nom de l'agent de  négociation des contrats (écrire en lettres imprimées) :  <span aria-label="Espace réservé vide" class="blankline"></span> </p>
 <p>Numéro  de téléphone : <span aria-label="Espace réservé vide" class="blankline"></span> </p>
-<h4>Cette section doit être  complétée par le réviseur</h4>
+<h5>Cette section doit être  complétée par le réviseur</h5>
 <ol class="double-space" type="A">
 <li>Acceptée sans commentaire – Le réviseur, <span aria-label="Espace réservé vide" class="blankline"></span>  (<em>insérer le nom du réviseur</em>), accepte cette  demande d'émission d'une <abbr title="offre à commandes">OC</abbr> ou d'un <abbr title="arrangement en matière d'approvisionnement">AMA</abbr>s, ou de la modification pour prolongation  <span aria-label="Espace réservé vide" class="blankline"></span>  (<em>insérer le numéro de demande</em>),  sans commentaire.  Date  d'approbation : <span aria-label="Espace réservé vide" class="blankline"></span>  (<em>insérer la date</em>).</li>
 <li>Acceptée avec  commentaires/recommandations/conditions – Décrire brièvement les  commentaires/recommandations/conditions ou attacher sous pli séparé.</li>
@@ -110,7 +110,7 @@
 <li>Si un aspect quelconque de  la demande initiale ou du dossier a été modifié à la suite des commentaires ou  des recommandations du réviseur, résumer les grandes lignes de ces changements  dans la case de droite.</li>
 </ol>
 <p>Les agents de négociation  des contrats doivent placer une copie de cette demande d'acceptation dans leur  dossier d'achat, et les commentaires du réviseur doivent être inclus dans le  <abbr title="Planification et approbation préalable des contrats">PAPC</abbr> ou dans le plan d'achat.  Une fois  acceptée avec ou sans commentaires/recommandations/conditions ou dans le cas où la demande serait refusée, le  réviseur retournera le formulaire par courriel à l'agent de négociation des  contrats avec une copie à <a href="mailto:DCBS-CCD@tpsgc-pwgsc.gc.ca" rel="external">DCBS-CCD@tpsgc-pwgsc.gc.ca</a>.  Voir l'<a href="#AP-72R1ann-b">Annexe B</a> pour obtenir de plus amples  renseignements à ce sujet.</p>
-<h3 id="AP-72R1ann-b">Annexe B - Instructions à l'intention du réviseur et exigences en matière  d'établissement de rapports</h3>
+<h4 id="AP-72R1ann-b">Annexe B - Instructions à l'intention du réviseur et exigences en matière  d'établissement de rapports</h4>
 <p>Les  examens seront réalisés comme suit :</p>
 <ol class="double-space">
 <li>Le demandeur soumettra la  « Demande d'approbation du réviseur » (voir l'<a href="#AP-72R1ann-a">Annexe A</a>.) au réviseur pertinent.  Le réviseur pourra étoffer le contenu de la demande afin de la clarifier; toutefois, le gestionnaire des biens et services ou l'agent de première responsabilité  doit soumettre ses ajouts à l'adresse suivante : <a href="mailto:DCBS-CCD@tpsgc-pwgsc.gc.ca" rel="external">DCBS-CCD@tpsgc-pwgsc.gc.ca</a> pour examen avant de les joindre aux documents. </li>
@@ -130,9 +130,9 @@
 </li>
 <li>Le  réviseur doit s'assurer que tous les changements à l'approche initiale soient  identifiés dans la case « D » de la demande d'acceptation.</li>
 </ol>
-<h4>Rapport du réviseur</h4>
+<h5>Rapport du réviseur</h5>
 <p>Une fois  que la demande d'acceptation est complétée, le réviseur doit simultanément  transmettre, comme confirmation d'acceptation, une copie à la Division de la  coordination des biens et services par courriel à : <a href="mailto:DCBS-CCD@tpsgc-pwgsc.gc.ca" rel="external">DCBS-CCD@tpsgc-pwgsc.gc.ca</a>.</p>
-<h4>Responsabilités de la Division de la coordination des  biens et services (<abbr title="Division de la coordination des  biens et services">DCBS</abbr>)</h4>
+<h5>Responsabilités de la Division de la coordination des  biens et services (<abbr title="Division de la coordination des  biens et services">DCBS</abbr>)</h5>
 <p>La <abbr title="division de la coordination des  biens et services">DCBS</abbr> est responsable :</p>
 <ol class="double-space" type="a">
 <li>de  s'assurer, en cas de différend entre le réviseur et le demandeur, que le  réviseur peut communiquer avec le gestionnaire de la <abbr title="division de la coordination des  biens et services">DCBS</abbr>, Direction  de la gestion du rendement, des dépenses et des biens et services.</li>

@@ -1,24 +1,24 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-107R2</h2>
+<h3 class="pn-content-title">Content of PN-107R2</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of Policy Notification 107R2 (PN-107R2) is to notify Acquisitions Program personnel that the Integrity Provisions used in Public Works and Government Services Canada (PWGSC)’s procurement and real property transactions are being updated.</p>
 <p>The Integrity Provisions and the <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/politique-policy-eng.html" rel="external"><em>Ineligibility and Suspension Policy</em></a> are being modified to provide clarity regarding the <a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/ci-if-eng.html" rel="external">Integrity Regime</a> based on feedback received from contracting officers, other government departments and suppliers. The modifications do not change how the Regime is applied and administered.</p>
-<h3>Effective date</h3>
+<h4>Effective date</h4>
 <p>PN107R2 is effective April 4, 2016.</p>
-<h3>Summary of requirements</h3>
+<h4>Summary of requirements</h4>
 <p>The Integrity Provisions are being amended to incorporate the updated <em>Ineligibility and Suspension Policy</em> by reference, which includes simplified language and provides additional information on processes.</p>
 <p>Contracting officers are instructed to include the latest Integrity Provisions in any new solicitation documents and resulting contracts to reflect the revised approach. All solicitations currently on the Government of Canada’s tendering system will not be impacted and no amendments are required.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>Over the past several years, <abbr title="Public Works and Government Services Canada">PWGSC</abbr> has implemented numerous measures to strengthen the integrity of the Department’s procurement and real property transactions:</p>
 <ul>
 <li><strong>July 2012</strong>: <abbr title="Public Works and Government Services Canada">PWGSC</abbr> established a formal Integrity Framework, under its own authorities, designed to ensure that the Government does not enter into contracts with suppliers that have criminal convictions in Canada. </li>
 <li><strong>November 2012</strong> and <strong>March 2014</strong>:  Subsequent enhancements to the Framework were made (<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/policy-notifications?pnid=PN-107#browse-previous-pn">ARCHIVED – Integrity Provisions – PN-107</a> and <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/policy-notifications?pnid=PN-107U1#browse-previous-pn">ARCHIVED – Integrity Provisions – PN-107U1</a>)  and it was expanded to include foreign offences, affiliate convictions of a supplier and to require that suppliers extend the same terms and conditions to subcontractors.</li>
 <li><strong>July 2015</strong>: <abbr title="Public Works and Government Services Canada">PWGSC</abbr> implemented a new government-wide Integrity Regime for its procurement and real property transactions to ensure that the Government of Canada does business with ethical suppliers (<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/policy-notifications?pnid=PN-107R1#browse-previous-pn">ARCHIVED – Integrity Provisions – PN-107R1</a>). The Integrity Regime is a policy-based approach that applies across federal departments and agencies through memoranda of understanding.</li>
 </ul>
-<h3>Summary of revisions</h3>
-<h4>The Integrity Provisions are being updated to:</h4>
+<h4>Summary of revisions</h4>
+<h5>The Integrity Provisions are being updated to:</h5>
 <ul>
 <li>incorporate the updated <em>Ineligibility and Suspension Policy </em>by reference into solicitations and resulting contracts;</li>
 <li>provide specific instructions requiring that bidders, offerors or suppliers provide a complete list of all foreign criminal charges and convictions that may be similar to the Canadian offences listed in the <em>Ineligibility and Suspension Policy</em> pertaining to itself, its affiliates and its proposed first tier subcontractors;</li>
@@ -32,7 +32,7 @@
 <li>they are not aware of a determination of ineligibility or suspension that applies to them. </li>
 </ul>
 </ul>
-<h4>The <em>Ineligibility and Suspension Policy</em> is being updated to:</h4>
+<h5>The <em>Ineligibility and Suspension Policy</em> is being updated to:</h5>
 <ul>
 <li>provide clarification on types of contracts that are exempt from the Policy, that were previously found in the related Directives;</li>
 <li>provide greater details regarding the process used to make a determination of ineligibility or suspension;</li>
@@ -44,16 +44,16 @@
 <li>modify references to the Minister of Public Works and Government Services’ responsibilities to state that they are <abbr title="Public Works and Government Services Canada">PWGSC</abbr>’s responsibilities;</li>
 <li>identify when contracting officers are required to submit information to the Registrar of ineligibility and suspension.</li>
 </ul>
-<h4>Supply Manual and Standard Acquisition Clauses and Conditions Manual</h4>
+<h5>Supply Manual and Standard Acquisition Clauses and Conditions Manual</h5>
 <p>The Supply Manual is being updated to reflect this revised approach. See Affected Supply Manual sections below for a complete list of modified sections.</p>
 <p>The Integrity Provisions section of all of the standard instructions, general instructions and general conditions are updated in their entirety to reflect the revised approach. See Affected Standard Acquisition Clauses and Conditions Manual sections below for a complete list of the modified clauses.</p>
-<h4>Standard Procurement Templates</h4>
+<h5>Standard Procurement Templates</h5>
 <p>All five standard procurement templates are impacted by revisions to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Integrity Regime. Consequently, Part 5 “Certifications” of the templates is revised, as well as Part 1, 2, and 7 of the <abbr title="Higher Complexity">HC</abbr>, <abbr title="Medium Complexity">MC</abbr> and Simple templates and Part 6A and 6B of the <abbr title="Request for Supply Arrangement">RFSA</abbr> template.</p>
-<h3>Contact</h3>
+<h4>Contact</h4>
 <p>Inquiries regarding the Integrity Regime and <em>Ineligibility and Suspension Policy, </em>including questions regarding interpretation, may be sent to the Department Oversight Branch at the following email address: <a href="mailto:PWGSC.O.integrity-TPSGC.O.integrite@tpsgc-pwgsc.gc.ca" rel="external">PWGSC.O.integrity-TPSGC.O.integrite@tpsgc-pwgsc.gc.ca</a> or by calling 1-844-705-2084.</p>
 <p>Inquiries regarding the application of the Integrity Provisions, the <em>Ineligibility and Suspension Policy </em>in the procurement process, and Supply Manual-related questions may be sent to the Policy, Risk, Integrity and Strategic Management Sector (PRISMS) at the following e-mail address: <a href="mailto:TPSGC.DGAIntegrite-ABIntegrity.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.DGAIntegrite-ABIntegrity.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions regarding the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual or the standard procurement templates may be sent to Procurement Policy and Tools Division by e-mail at: <a href="mailto:TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.Outilsdapprovisionnement-ProcurementTools.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-42fb61cfbe94adc9bbfddc8d0adbeeca">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -101,7 +101,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
+<h5 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-cb173c87fbc62e0c7285d7891ae10419">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

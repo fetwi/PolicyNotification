@@ -1,19 +1,19 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-139</h2>
+<h3 class="pn-content-title">Content of PN-139</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose </h3>
+<h4>Purpose </h4>
 <p>The purpose of Policy Notification (PN)-139 is to inform <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Acquisitions Program (AP) contracting officers of the new <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32610" rel="external">Directive on Government Contracts Including Real Property Leases in the Nunavut Settlement Area (the Directive)</a> and the accompanying contracting guidance document titled "<a href="https://canadabuys.canada.ca/en/how-procurement-works/procurement-process/planning-procurement">Guide on Government Contracts in the Nunavut Settlement Area</a>" (the Guide). <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s Real Property Services have developed a separate Guide on Real Property Leases in the <abbr title="Nunavut Settlement Area">NSA</abbr>.</p>
-<h3>Effective date </h3>
+<h4>Effective date </h4>
 <p>This policy notification is effective on December 20, 2019. The obligations of the <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32610" rel="external">Directive on Government Contracts Including Real Property Leases in the Nunavut Settlement Area</a> will come into force on December 20, 2019. The Supply Manual (SM) and Standard Procurement Templates will be updated and published on December 12, 2019. For advice and guidance on clauses for the Directive, contact: <a href="mailto:TPSGC.PAContratsNunavut-APNunavutContracts.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PAContratsNunavut-APNunavutContracts.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>On August 15, 2019, the Government of Canada announced the new Treasury Board <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32610" rel="external">Directive on Government Contracts, Including Real Property Leases, in the Nunavut Settlement Area</a>. The Directive was developed in close consultation with the <a href="https://www.tunngavik.com/about/" rel="external">Nunavut Tunngavik Incorporated (NTI)</a>, the Designated Inuit Organization (DIO) for the Agreement between the Inuit of the Nunavut Settlement Area and Her Majesty the Queen in right of Canada (Nunavut Agreement). </p>
 <p>The implementation of this Directive supports the <a href="http://webarchive.bac-lac.gc.ca:8080/wayback/20051222235906/http:/www.ainc-inac.gc.ca/pr/agr/pdf/nunav_e.pdf" rel="external">Government of Canada's obligations under Article 24 (Government Contracts)</a> of the Nunavut Agreement to provide reasonable support and assistance to Inuit firms to enable them to compete for government contracts, for the supply of goods, services, construction services and real property leases. </p>
-<h3>Overview</h3>
+<h4>Overview</h4>
 <p>The Directive represents a shift in Canada's contracting policy for procurements in the Nunavut Settlement Area (NSA). It clarifies obligations for Contracting Authorities (<abbr title="Contracting authorities">CAs</abbr>) and, Business Owners (BOs) – formerly Technical Authorities (<abbr title="Technical Authorities">TAs</abbr>) reflecting a government-wide approach to provide Inuit firms with fair and reasonable opportunities to submit bids on government contracts. It also allows for increased participation of Inuit firms on <abbr title="Nunavut Tunngavik Incorporated">NTI</abbr>'s Inuit Firm Registry (IFR) by limiting bids to those firms in certain circumstances, and strengthening requirements for bid evaluation criteria related to Inuit and Nunavut benefits. </p>
-<h3>Guide on Government Contracts in the Nunavut Settlement Area (the Guide)</h3>
+<h4>Guide on Government Contracts in the Nunavut Settlement Area (the Guide)</h4>
 <p>As required in the Directive, a government-wide guide titled "<a href="https://canadabuys.canada.ca/en/how-procurement-works/procurement-process/planning-procurement">Guide on Government Contracts in the Nunavut Settlement Area</a>" has been developed to assist <abbr title="Contracting authorities">CAs</abbr> and <abbr title="Technical Authorities">TAs</abbr> in fulfilling the obligations of the Directive. The Guide assumes a general understanding of Canada's procurement process, and focuses advice on areas where the Directive represents a significant departure from the standard procurement approach. </p>
-<h3>Expected Results </h3>
+<h4>Expected Results </h4>
 <p>The Directive and its implementation measures (including the Guide) reflect the expected results of Article 24 of the Nunavut Agreement which are, to the extent possible, as follows: </p>
 <ul>
 <li>increased participation by Inuit firms in business opportunities in the <abbr title="Nunavut Settlement Area">NSA</abbr> economy;</li>
@@ -21,11 +21,11 @@
 <li>employment of Inuit at a representative level in the <abbr title="Nunavut Settlement Area">NSA</abbr> workforce. </li>
 </ul>
 <p>It is also expected that the procurement obligations in the Nunavut Agreement will be more consistently applied across the federal government by following the provisions of the Guide. </p>
-<h3>Application of the Directive </h3>
+<h4>Application of the Directive </h4>
 <p>The requirements of the Directive apply to any government contract (as defined in Article 24.1.1 of the Nunavut Agreement), including real property leases, where the deliverable(s), or a portion of the deliverable(s) include final delivery or performance in or into the <abbr title="Nunavut Settlement Area">NSA</abbr>. </p>
 <p>The Directive applies to departments and agencies listed in Schedules I, I.1 and II of the <a href="https://laws-lois.justice.gc.ca/eng/acts/F-11/FullText.html" rel="external"><em>Financial Administration Act</em></a>, with the exception of the Canada Revenue Agency and to Commissions established pursuant to the Inquiries Act that are designated as departments for the purposes of the <em>Financial Administration Act</em>.</p>
 <p>In the event of a conflict between the Directive and a requirement of any other Treasury Board or departmental policy, the Directive will take precedence.</p>
-<h3>Key Policy Measures of the Directive</h3>
+<h4>Key Policy Measures of the Directive</h4>
 <ol class="double-space" type="i">
 <li>
 <p><strong>Inuit Firm Registry (<a href="https://inuitfirm.tunngavik.com/" rel="external">IFR</a>)</strong></p>
@@ -59,13 +59,13 @@
 </ul>
 </li>
 </ol>
-<h3>Summary of changes </h3>
-<h4>Supply Manual changes</h4>
+<h4>Summary of changes </h4>
+<h5>Supply Manual changes</h5>
 <p>In support of <abbr title="Policy Notification">PN</abbr>-139, modifications will be made to the Supply Manual (SM) on December 12, 2019, to reflect Canada’s obligations under the Directive and describe its implementation process. In particular, <abbr title="Supply Manual">SM</abbr> Section 9.35.5.15.1 will be updated to provide information to AP contracting officers on where to find the Guide. Please refer to Annex A for complete details.</p>
 <p>Section 9.35 on Modern Treaties/Comprehensive Land Claims Agreement will also be updated to provide AP contracting officers with the most current available information.</p>
-<h4>Summary of revisions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h4>
+<h5>Summary of revisions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h5>
 <p>There are no changes to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr>.</p>
-<h4>Standard procurement templates changes</h4>
+<h5>Standard procurement templates changes</h5>
 <p>In support of <abbr title="Policy Notification">PN</abbr>-139, the Standard Procurement Templates outlined below will be updated and published on December 12, 2019: </p>
 <ul>
 <li>High Complexity Bid Solicitation and Resulting Contract Template (HC) </li>
@@ -75,7 +75,7 @@
 <li>Request for Supply Arrangements (RFSA) Template</li>
 <li>Request for Standing Offers Template for Canadian Collaborative Procurement Initiative (RFSO-CCPI) </li>
 </ul>
-<h3>Contact information</h3>
+<h4>Contact information</h4>
 <p>Questions related to Policy Notification (PN)-139, the obligations of the Directive and the Guide, can be sent by email to Strategic Policy Sector's Indigenous Involvement in Procurement Division at the following address: <a href="mailto:TPSGC.PAContratsNunavut-APNunavutContracts.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PAContratsNunavut-APNunavutContracts.PWGSC@tpsgc-pwgsc.gc.ca</a>. </p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
 </div>

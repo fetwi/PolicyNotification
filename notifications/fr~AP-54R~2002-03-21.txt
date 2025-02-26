@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-54R</h2>
+<h3 class="pn-content-title">Contenu de l'AP-54R</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>Date d'entree en vigueur : Le 21 mars 2002</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>Date d'entree en vigueur : Le 21 mars 2002</h4>
 <p>L'ACCMT est un accord bilatéral conclu entre le Canada et la Corée et qui porte sur les marchés de biens de télécommunications et de services d'accessoires (services compris dans les marchés de biens) du gouvernement fédéral. Cet accord est entré en vigueur le 1<sup>er</sup>septembre 2001.</p>
 <p>Pour la mise en œuvre de l'ACCMT, on a ajouté huit nouvelles clauses au Guide des CCUA : K5000D, K5001T, K5002T, K5003T, K5004T, K5005T, K5006T et K5100C.</p>
 <p>Lorsque l'ACCMT a été adopté, pour tout marché assujetti à l'ACCMT, le soumissionnaire devait déposer avec sa soumission l'attestation du contenu canadien et (ou) coréen. L'agent de négociation de contrats peut, pour avoir plus de souplesse, supprimer cette exigence pour les marchés limités exclusivement aux biens et aux services canadiens et (ou) coréens. On a élaboré trois nouvelles clauses (K5011T, K5013T et K5014T) du Guide des CCUA pour les cas où on permet aux les soumissionnaires de déposer cette attestation après la date de clôture. On a révisé les clauses K5001T, K5003T et K5004T pour obliger les soumissionnaires à déposer cette attestation avec leur soumission.</p>
@@ -18,9 +18,9 @@
 <p>Nous avons révisé le Guide des approvisionnements afin de donner des instructions aux agents de négociation de contrats. Les changements apportés au Guide des approvisionnements et au Guide des CCUA entrent en vigueur aujourd'hui même.</p>
 <p>Ces révisions seront intégrées dans la prochaine modification du Guide des approvisionnements, à publier le 24 mai 2002. Les changements seront apportés à la prochaine version du Guide des CCUA, à publier le 24 mai 2002.</p>
 <hr/>
-<h4>GUIDE DES CCUA</h4>
+<h5>GUIDE DES CCUA</h5>
 <hr/>
-<h5>K5001T (XX/XX/XX) Attestation de l'ACCMT - Obligatoire avec soumission - Limitée exclusivement - Produits uniques ou attestation globale</h5>
+<h6>K5001T (XX/XX/XX) Attestation de l'ACCMT - Obligatoire avec soumission - Limitée exclusivement - Produits uniques ou attestation globale</h6>
 <p><strong>Remarques:</strong></p>
 <p>Utiliser la clause suivante dans toutes les invitations à soumissionner en régime de concurrence et dans le cadre desquels on applique les procédures spéciales de l'ACCMT (voir le Guide des approvisionnements), de même que lorsque la concurrence est limitée exclusivement aux soumissions portant sur des produits et des services canadiens et (ou) coréens et qu'il est <strong>obligatoire</strong> que les soumissionnaires déposent une attestation avec leur soumission. On doit se servir de cette clause pour les marchés portant sur des produits uniques et pour les marchés portant sur plusieurs produits qui font l'objet d'une attestation globale.</p>
 <p>Cette clause doit être utilisée de pair avec la clause K5000D, Définitions de l'ACCMT.</p>
@@ -36,7 +36,7 @@
 <span aria-label="Espace réservé vide" class="blankline"></span> <br/>
 					Date</p>
 <hr/>
-<h5>K5003T (XX/XX/XX) Attestation de l'ACCMT - Obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la soumission</h5>
+<h6>K5003T (XX/XX/XX) Attestation de l'ACCMT - Obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la soumission</h6>
 <p><strong>Remarques:</strong></p>
 <p>Utiliser la clause suivante dans toutes les invitations à soumissionner en régime de concurrence et dans le cadre desquels on applique les procédures spéciales de l'ACCMT (voir le Guide des approvisionnements), de même que lorsque la concurrence est limitée exclusivement aux soumissions portant sur des produits et des services canadiens et (ou) coréens et qu'il est <strong>obligatoire</strong> que les soumissionnaires déposent une attestation avec leur soumission. Cette clause doit être utilisée dans le cas des besoins pour plusieurs articles, chacun devant faire l'objet d'une attestation, et lorsque le soumissionnaire doit indiquer, contre chaque article énuméré dans la soumission, s'il s'agit d'un article canadien ou coréens.</p>
 <p>Cette clause doit être utilisée de pair avec la clause K5000D, Définitions de l'ACCMT.</p>
@@ -53,7 +53,7 @@
 <span aria-label="Espace réservé vide" class="blankline"></span> <br/>
 					Date</p>
 <hr/>
-<h5>K5004T (XX/XX/XX) Attestation de l'ACCMT - Obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la clause</h5>
+<h6>K5004T (XX/XX/XX) Attestation de l'ACCMT - Obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la clause</h6>
 <p><strong>Remarques:</strong></p>
 <p>Utiliser la clause suivante dans toutes les invitations à soumissionner en régime de concurrence et dans le cadre desquels on applique les procédures spéciales de l'ACCMT (voir le Guide des approvisionnements), de même que lorsque la concurrence est limitée exclusivement aux soumissions portant sur des produits et des services canadiens et (ou) coréens et qu'il est <strong>obligatoire</strong> que les soumissionnaires déposent une attestation avec leur soumission. Cette clause doit être utilisée dans le cas des besoins pour plusieurs articles, chacun devant faire l'objet d'une attestation, et lorsque le soumissionnaire doit indiquer, contre chaque article énuméré dans la clause, s'il s'agit d'un article canadien ou coréens.</p>
 <p>Cette clause doit être utilisée de pair avec la clause K5000D, Définitions de l'ACCMT.</p>
@@ -74,7 +74,7 @@
 <span aria-label="Espace réservé vide" class="blankline"></span> <br/>
 					Date</p>
 <hr/>
-<h5>K5011T (XX/XX/XX) Attestation de l'ACCMT - Non obligatoire avec soumission - Limitée exclusivement - Produits uniques ou attestation globale</h5>
+<h6>K5011T (XX/XX/XX) Attestation de l'ACCMT - Non obligatoire avec soumission - Limitée exclusivement - Produits uniques ou attestation globale</h6>
 <p><strong>Remarques:</strong></p>
 <p>Utiliser la clause suivante dans toutes les invitations à soumissionner en régime de concurrence et dans le cadre desquels on applique les procédures spéciales de l'ACCMT (voir le <em>Guide des approvisionnements</em>), de même que lorsque la concurrence est limitée exclusivement aux soumissions portant sur des produits et des services canadiens et (ou) coréens et qu'il n'est <strong>pas obligatoire</strong> que les soumissionnaires déposent une attestation avec leur soumission. On doit se servir de cette clause pour les marchés portant sur des produits uniques et pour les marchés portant sur plusieurs produits qui font l'objet d'une attestation globale.</p>
 <p>Cette clause doit être utilisée de pair avec la clause K5000D, Définitions de l'ACCMT.</p>
@@ -90,7 +90,7 @@
 <span aria-label="Espace réservé vide" class="blankline"></span> <br/>
 					Date</p>
 <hr/>
-<h5>K5013T (XX/XX/XX) Attestation de l'ACCMT - Non obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la soumission</h5>
+<h6>K5013T (XX/XX/XX) Attestation de l'ACCMT - Non obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la soumission</h6>
 <p><strong>Remarques:</strong></p>
 <p>Utiliser la clause suivante dans toutes les invitations à soumissionner en régime de concurrence et dans le cadre desquels on applique les procédures spéciales de l'ACCMT (voir le <em>Guide des approvisionnements</em>), de même que lorsque la concurrence est limitée exclusivement aux soumissions portant sur des produits et des services canadiens et (ou) coréens qu'il n'est <strong>pas obligatoire</strong> que les soumissionnaires déposent une attestation avec leur soumission. Cette clause doit être utilisée dans le cas des besoins pour plusieurs articles, chacun devant faire l'objet d'une attestation, et lorsque le soumissionnaire doit indiquer, contre chaque article énuméré dans la soumission, s'il s'agit d'un article canadien ou coréens.</p>
 <p>Cette clause doit être utilisée de pair avec la clause K5000D, Définitions de l'ACCMT.</p>
@@ -107,7 +107,7 @@
 <span aria-label="Espace réservé vide" class="blankline"></span> <br/>
 					Date</p>
 <hr/>
-<h5>K5014T (XX/XX/XX) Attestation de l'ACCMT - Non obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la clause</h5>
+<h6>K5014T (XX/XX/XX) Attestation de l'ACCMT - Non obligatoire avec soumission - Limitée exclusivement - Plusieurs articles énumérés dans la clause</h6>
 <p><strong>Remarques:</strong></p>
 <p>Utiliser la clause suivante dans toutes les invitations à soumissionner en régime de concurrence et dans le cadre desquels on applique les procédures spéciales de l'ACCMT (voir le <em>Guide des approvisionnements</em>), de même que lorsque la concurrence est limitée exclusivement aux soumissions portant sur des produits et des services canadiens et (ou) coréens qu'il n'est <strong>pas obligatoire</strong> que les soumissionnaires déposent une attestation avec leur soumission. Cette clause doit être utilisée dans le cas des besoins pour plusieurs articles, chacun devant faire l'objet d'une attestation, et lorsque le soumissionnaire doit indiquer, contre chaque article énuméré dans la clause, s'il s'agit d'un article canadien ou coréens.</p>
 <p>Cette clause doit être utilisée de pair avec la clause K5000D, Définitions de l'ACCMT.</p>
@@ -131,7 +131,7 @@
 <span aria-label="Espace réservé vide" class="blankline"></span> <br/>
 					Date</p>
 <hr/>
-<h5>Guide des approvisionnements</h5>
+<h6>Guide des approvisionnements</h6>
 <p><strong>Changements apportés au Guide des approvisionnements</strong></p>
 <p>5.069 (XX/XX/XX) Le soumissionnaire doit attester le contenu canadien et (ou) coréen en signant une déclaration selon laquelle les produits offerts répondent à la définition de biens et de services canadiens et (ou) coréens. Les formulaires d'attestation sont reproduits dans le guide des <em>Clauses et conditions d'achat uniformisées</em> (CCUA), dans les clauses portant les numéros K5001T, K5002T, K5003T, K5004T, K5005T, K5006T, K5011T, K5012T et K5013T.</p>
 <p>7A.007 (XX/XX/XX) Pour les marchés auxquels s'appliquent des procédures spéciales dans le cadre de l'ACCMT, l'agent de négociation de contrats doit, à l'étape de la planification du marché, décider si ce marché sera:</p>

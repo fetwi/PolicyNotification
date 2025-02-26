@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-19</h2>
+<h3 class="pn-content-title">Content of PN-19</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Effective immediately, irrevocable standby letters of credit, issued or confirmed by financial institutions which are members of the Canadian Payments Association may be accepted as security for both bidding and contract performance. Treasury Board has indicated that a specific form for letters of credit is not to be developed. Letters of credit must however, to be deemed acceptable, contain the elements specified within the policy. Most, if not all, financial institutions have standard forms which include these elements.</p>
 <p>Also, effective immediately, for real property, goods and services contracts which have an anticipated value of $100,000 or less, contract security is to be sought on an exceptions basis and only in cases where there is readily identifiable or demonstrable risk to Canada. A justification should be prepared for each case where security is required.</p>
 <p>Related changes to the <em>Supply Manual</em>, attached as Annex A, will be included in amendment 97-2, which is scheduled for release on 15 September 1997.</p>
 <p>Related changes to the <em>Standard Acquisition Clauses and Conditions </em>Manual, attached as Annex B, will be included in amendment 98-1, which is scheduled for release on 16 February 1998.</p>
-<h3>ANNEX A</h3>
-<h3>CHAPTER 6 - DEVELOPING THE PROCUREMENT STRATEGY</h3>
-<h4>SECTION 6C: RISK MANAGEMENT</h4>
-<h4>Bid/Contract Security (Financial)</h4>
+<h4>ANNEX A</h4>
+<h4>CHAPTER 6 - DEVELOPING THE PROCUREMENT STRATEGY</h4>
+<h5>SECTION 6C: RISK MANAGEMENT</h5>
+<h5>Bid/Contract Security (Financial)</h5>
 <p>6.279 (01/08/97) Financial security can be required from a bidder/contractor to:</p>
 <ol type="a">
 <li>protect the Crown against loss should a winning bidder fail to enter into a contract (bid security);</li>
@@ -20,9 +20,9 @@
 <p>The decision to obtain financial security for competitive solicitations should must be taken prior to issuing the bid solicitation.</p>
 <p><em>Bidders and contractors have the right to determine which form of financial security they will provide. See SACC Manual clauses E0001T, E0004T and E0007T.</em></p>
 <p>6.281 (01/08/97) The list of approved surety companies, issued by the Treasury Board Secretariat (TBS), is in Annex 7.2.</p>
-<h4>Bid Security</h4>
+<h5>Bid Security</h5>
 <p>6.287 (01/08/97) Any letter of credit received by Canada must have an appropriate expiry date. The letter of credit should not have its expiry date coincide with the projected cessation of the risk which it covers: for instance, the expiry date stated in the letter of credit should not be the same date as that which is projected for the award of the contract. The expiry date should allow for a comfortable turn-around time from the estimated date of award of contract, to ensure that the contracting authority is satisfied that the bidder has discharged its obligations for which the letter of credit was provided. If the bidder has not met its obligations, the contracting authority must have sufficient time to prepare and present the required demand for payment under the letter of credit.</p>
-<h4>Contract Security</h4>
+<h5>Contract Security</h5>
 <p>6.290 (01/08/97) For real property, goods and services contracts which have an anticipated value of over $100,000, the decision to obtain contract security, and the amount of security required, should take into account the following:</p>
 <ol type="a">
 <li>the type of work and custom of the trade;</li>
@@ -33,17 +33,17 @@
 <p><em>Decisions as to whether and how much financial security will be required should be based on the circumstances of the individual procurement. Some businesses may encounter difficulty in obtaining certain kinds of security, therefore, contracting officers should be sensitive to this and not require unreasonable contract security. In certain cases, perhaps an advance form of security may not be needed; holdbacks in contract payment may suffice. Treasury Board recommends that financial security not be considered until the anticipated cost of the contract exceeds $100,000. However, issues relating to the nature of the requirement are usually more important than the dollar value.</em></p>
 <p>6.291 (01/08/97) When the decision to obtain contract financial security has been taken, contracting officers must stipulate in the bid solicitation documents that the provision of contract security will be required. SACC Manual clause E0007T shall be included.</p>
 <p>6.292 (01/08/97) Any letter of credit received by the Crown must have an appropriate expiry date. The letter of credit should not have its expiry date coincide with the projected cessation of the risk which it covers: for instance, the expiry date stated in the letter of credit should not be the same date as that which is projected for the completion of the work. The expiry date should allow for a comfortable turn-around time from the estimated date of completion of work, to ensure that the contracting authority is satisfied that the contractor has discharged its obligations for which the letter of credit was provided. If the contractor has not met its obligations, the contracting authority must have sufficient time to prepare and present the required demand for payment under the letter of credit.</p>
-<h4>SECTION 6E: PROCESS</h4>
-<h4>Holdbacks</h4>
+<h5>SECTION 6E: PROCESS</h5>
+<h5>Holdbacks</h5>
 <p>6.600 (01/08/97) Exceptions to these payment ceilings may be considered:</p>
 <ol type="a">
 <li>where recognized trade practices supporting such exceptions can be demonstrated; or</li>
 <li>in the case of organizations that do not receive a profit or fee; or</li>
 <li>where alternative methods of financial protection are employed, e.g. security deposits (government guaranteed bonds, bills of exchange, irrevocable standby letters of credit) or surety bonds.</li>
 </ol>
-<h3>CHAPTER 7 - COMPETITIVE PROCUREMENT</h3>
-<h4>SECTION 7A: PREPARING A BID SOLICITATION</h4>
-<h4>Bid Security</h4>
+<h4>CHAPTER 7 - COMPETITIVE PROCUREMENT</h4>
+<h5>SECTION 7A: PREPARING A BID SOLICITATION</h5>
+<h5>Bid Security</h5>
 <p>7.020 (01/08/97) When bid security is required, the bid solicitation must clearly state that it is mandatory and, unless otherwise indicated, will either be in the form of a security deposit (government guaranteed bonds, bills of exchange, irrevocable standby letters of credit), or a surety bond.</p>
 <p>7.021 (01/08/97) Bidders who supply a security deposit (government guaranteed bonds, bills of exchange, irrevocable standby letters of credit) as bid security are required to submit their bids under seal (except in Quebec, where the seal concept does not apply). This procedure provides a legal basis for full or partial forfeiture of the security deposit in the event the bidder withdraws the bid before acceptance, refuses to enter into a contract or fails to furnish the required contract security.</p>
 <p>7.022 (01/08/97) To prevent problems in obtaining the required contract financial security at a later date, bid solicitations must specify that, if the required contract security is not furnished within the period specified, a security deposit (government guaranteed bonds, bills of exchange, irrevocable standby letters of credit) given as bid security will be forfeited or payment demands will be made against the bid support letter of credit. The amount forfeited must not exceed the difference between the bid price and the amount of the contract entered into by the Crown.</p>
@@ -51,7 +51,7 @@
 <p>7.023 (01/08/97) Unless the acceptable form of security is limited to security deposits (government guaranteed bonds, bills of exchange, irrevocable standby letters of credit), the bid solicitation must include a list of those surety companies whose bonds are acceptable to the government, together with specimen forms of the applicable model bond forms. Deviation from the specimen bond shall be permitted only with the prior approval of Legal Services.</p>
 <p>The list of surety companies is in Annex 7.2. Specimen forms are in annexes 7.1 (Bid Bond), 7.3 (Labour and Material Bond), and 7.4 (Performance Bond).</p>
 <p><em>The current versions of the Federal Labour and Material Payment Bond, Bid Bond and the Performance Bond contained in Appendix S of the Treasury Board (TB) Contracting Manual are under revision, and should continue to be used until further notice. The Claimant's Payment Bond form is a security option that may be used in construction contracts effective January 1, 1994. When one or more claims are made against the prime contractor, the posting of a Claimant's Payment Bond by the prime contractor will permit regular payments by the Crown under the contract while the disputes are being settled between the various parties. The use of the bond in construction contracts provides a remedy to contractors whose cash flow would otherwise suffer as a result of claims against them.</em></p>
-<h4>Performance</h4>
+<h5>Performance</h5>
 <p>7.027 (01/08/97) When required, bid solicitations may contain various mechanisms for encouraging timely performance, such as:</p>
 <ol type="a">
 <li>contract security (financial):<br/>
@@ -81,18 +81,18 @@
 <p>Such incentives for early delivery should be considered only in the case of major procurements with long lead times for delivery, where such payment provisions can act as an incentive to the contractor in putting forth special efforts to achieve earlier than scheduled delivery and the client agrees because of substantial realizable cost savings and other benefits.</p>
 </li>
 </ol>
-<h4>SECTION 7D: BID HANDLING</h4>
-<h4>Evaluation of Responses</h4>
-<h4>Qualifying Joint Venture Bids</h4>
+<h5>SECTION 7D: BID HANDLING</h5>
+<h5>Evaluation of Responses</h5>
+<h5>Qualifying Joint Venture Bids</h5>
 <p>7.384 (01/08/97) Joint venture bids are encouraged and, for evaluation purposes, shall be treated on an equal basis with other bids. A joint venture, regardless of how it has chosen to structure itself, can only be qualified as an eligible bidder if it is a financially viable legal entity.</p>
-<h4>Clarifications</h4>
+<h5>Clarifications</h5>
 <p>7.389 (01/08/97) During the evaluation, contracting officers may find it necessary to seek clarifications or additional supporting data. The contracting officer must ensure that this process does not give any bidder an advantage over the others and in no event can this clarification alter the price quoted or any substantive element of a bid.</p>
-<h4>Financial Security</h4>
+<h5>Financial Security</h5>
 <p>7.402 (01/08/97) If a bidder submits a bid which includes insufficient security, i.e. less than the exact financial security stipulated, or none at all, the bid will be considered non-responsive.</p>
 <p>7.405 (01/08/97) <acronym title="Public Works and Government Services Canada">PWGSC</acronym> will hold any bid bond, payment bond, performance bond, non-negotiable security deposit (government guaranteed bonds, bills of exchange, irrevocable standby letters of credit) until the terms of the security are fulfilled. For detailed instructions on the safekeeping of these instruments, refer to Annex 7.5, "Handling, Custody and Safekeeping of Financial Security."</p>
-<h4>SECTION 7E: CONTRACT AWARD</h4>
-<h4>Finalizing Elements of the Contract</h4>
-<h4>Verifying Contract Security</h4>
+<h5>SECTION 7E: CONTRACT AWARD</h5>
+<h5>Finalizing Elements of the Contract</h5>
+<h5>Verifying Contract Security</h5>
 <p>7.553 (01/08/97) Letters of credit furnished by contractors must be examined by the contracting officer, with advice from Legal Services as necessary, to ensure that they are correct in all respects, including:</p>
 <ol type="a">
 <li>the face amount which may be drawn against it;</li>
@@ -103,8 +103,8 @@
 <li>clear specification that it is irrevocable or deemed to be irrevocable pursuant to article 6c) of the International Chamber of Commerce (ICC) Uniform Customs and Practice for Documentary Credits, 1993 Revision, ICC Publication No 500;</li>
 <li>that it has been issued or confirmed, in either official language, by a financial institution which is a member of the Canadian Payments Association and shall be on the letterhead of the Issuer or Confirmer. The format is left to the discretion of the Issuer or Confirmer.</li>
 </ol>
-<h4>SECTION 7F: COMPLETING THE CONTRACTING PROCESS</h4>
-<h4>Release of Bid Security</h4>
+<h5>SECTION 7F: COMPLETING THE CONTRACTING PROCESS</h5>
+<h5>Release of Bid Security</h5>
 <p>7.726 (01/08//97) Surety bonds lapse automatically and must be destroyed on expiration of the purpose or period for which they were required. Security deposits (government guaranteed bonds, bills of exchange, irrevocable standby letters of credit) must be returned to bidders. Letters of credit must be returned by the bidder to the issuer to complete the discharge.</p>
 <p>7.727 (01/08/97) Lapsing of surety bonds, or return of security deposits (government guaranteed bonds, bills of exchange, irrevocable standby letters of credit) shall occur:</p>
 <ol type="a">
@@ -112,17 +112,17 @@
 <li>for unsuccessful bidders, prompt notification or return of a security deposit, immediately after a contract is issued, is essential in such cases so as not to constrain the unsuccessful bidder's ability to make new bids;</li>
 <li>for a successful bidder, immediately upon award of a contract, once the contract security has already been received or immediately if no contract security is required.</li>
 </ol>
-<h3>Annex 7.5: HANDLING, CUSTODY AND SAFEKEEPING OF FINANCIAL SECURITY</h3>
+<h4>Annex 7.5: HANDLING, CUSTODY AND SAFEKEEPING OF FINANCIAL SECURITY</h4>
 <p>Guidelines applicable to the handling, custody and safekeeping of bid and contract financial security are the following:</p>
-<h4>Handling of bills of exchange</h4>
+<h5>Handling of bills of exchange</h5>
 <p>1. A bill of exchange tendered as a security deposit in connection with a bid for a contract shall be held uncashed in a secure and fireproof place until the successful bid is selected or for up to one year, whichever occurs first. (If at the end of one year the contract still has not been awarded, the contracting officer must exchange the bill of exchange for a current-dated one.) Security deposits received with Headquarters bids are sent by the Bid Receiving Unit to the Finance Sector, PWGSC, for safekeeping. The Bid Receiving Unit sends three copies of the list together with the deposits to the Finance Sector, showing opposite the name of each bidder the amount and nature of the deposit (e.g. certified cheque, bonds). The Finance Sector signs and returns two copies of the list to the Bid Receiving Unit. The Bid Receiving Unit sends one copy to the contracting officer.</p>
 <p>2. When a bid is accepted and the bill of exchange is then required as security until completion of the contract, a contractor may request the Department to hold and not cash the bill of exchange. It should be stored by the directorate in approved security equipment (see paragraph 8 below) or, where the directorate does not have adequate facilities, it should be sent to the Financial Services Division (FSD), Financial Operations Directorate, who will arrange for storage. If the contractor makes no such request, the bill of exchange is to be forwarded to the FSD for deposit in the Consolidated Revenue Fund (CRF).</p>
 <p>3. When a bid is rejected, or accepted and the bill of exchange submitted in connection with the bid is not required as security until completion of the contract, the bill of exchange is returned to the contractor.</p>
 <p>4. Bills of exchange received as contract security shall be forwarded immediately to FSD for deposit in the CRF, in accordance with the Receipt and Deposit of Public Money Regulations.</p>
 <p>5. A security deposit provided as collateral for the return of plans and specifications will be forfeited if those plans and specifications are not returned in time and in satisfactory condition. Furthermore, the contracting officer shall so inform the Manager, FSD.</p>
-<h4>Government guaranteed bonds, bills of exchange and letters of credit</h4>
+<h5>Government guaranteed bonds, bills of exchange and letters of credit</h5>
 <p>6. The Finance Sector shall ensure that the receipt of bills of exchange and/or government guaranteed bonds and/or irrevocable standby letters of credit is recorded in the accounting records of the Department and that it is also appropriately recorded in the Accounts of Canada as an asset and a liability. Directorates shall promptly notify the Finance Sector of all such receipts, regardless of whether they are held by the directorate.</p>
-<h4>Safekeeping of bonds, negotiable instruments and letters of credit</h4>
+<h5>Safekeeping of bonds, negotiable instruments and letters of credit</h5>
 <p>7. There are three acceptable methods for the safekeeping of government bonds, and negotiable instruments and letters of credit:</p>
 <ol type="a">
 <li>custody by FSD which was established to provide a safekeeping service for securities and any other valuable assets requiring theft-proof storage; or</li>
@@ -135,31 +135,31 @@
 <p>11. When transmitting bonds from the Department to FSD (or to the owner when the securities are held by directorates), registered and hypothecated bonds are to be transmitted by registered mail. Bearer bonds may be transmitted by "money packet" or bonded courier, armoured car service or a courier provided from within departmental resources.</p>
 <p>12. When bearer bonds are transmitted by the "money packet" system, the maximum indemnity from the Post Office is $100 and, thus, appropriate additional insurance should be considered. (For the examination and management of risks, directorates should refer to the Treasury Board Manual entitled Materiel, Services and Risk Management.)</p>
 <p>13. While coupon-bearing bonds are in its custody, FSD is responsible for their security and for clipping matured coupons and remitting them as directed by the contracting authority.</p>
-<h3>CHAPTER 11 - CONTRACT MANAGEMENT</h3>
-<h4>Progress Claims and Invoicing</h4>
-<h4>Financial Security Issues</h4>
-<h4>Changes in Contract Terms</h4>
+<h4>CHAPTER 11 - CONTRACT MANAGEMENT</h4>
+<h5>Progress Claims and Invoicing</h5>
+<h5>Financial Security Issues</h5>
+<h5>Changes in Contract Terms</h5>
 <p>11.090 (01/08/97) In cases where the contract price is being increased, it may be advisable to increase the amount of security to reflect the revised contract price. The face amount of a contract support letter of credit may be increased commensurate with the change in risk that has occurred. The face amount may be changed by an amendment to the letter of credit.</p>
 <p>Alternatively, the letter of credit may contain an express provision for change by a specified or determinable amount or amounts on a specified date or dates or upon presentation of the document(s) specified for this purpose such as an interim certificate of completion. Contract amendments should be contingent upon issuance of a new letter of credit or an amendment to the current letter of credit.</p>
 <p>11.091 (01/08/97) If a security deposit exceeds the amount required due to changes in the contract price, the excess is to be returned to the contractor. (See 11.296.) The face amount of a contract support letter of credit may be reduced commensurate with the change in risk that has occurred. The face amount may be changed by an amendment to the letter of credit. Alternatively, the letter of credit may contain an express provision for change by a specified or determinable amount or amounts on a specified date or dates or upon presentation of the document(s)specified for this purpose such as an interim certificate of completion.</p>
-<h4>Protecting Crown Goods</h4>
+<h5>Protecting Crown Goods</h5>
 <p>11.103 (01/08/97) If the total risk exposure is $2 million or over, a discretionary verification will normally be undertaken. A determination will be made as to the protection provided to the Crown by any security deposits (government guaranteed bonds, bills of exchange, irrevocable standby letters of credit), performance bonds, labour and material payments bonds, or registration action taken or intended.</p>
-<h4>Terminations</h4>
-<h4>Financial Security Issues</h4>
+<h5>Terminations</h5>
+<h5>Financial Security Issues</h5>
 <p>11.138 (01/08/97) If the contract is secured by a security deposit (government guaranteed bonds, bills of exchange, irrevocable standby letters of credit) it should not be terminated without the prior advice of Legal Services.</p>
-<h4>Termination for Default</h4>
-<h4>Action to Recover Loss or Damage</h4>
+<h5>Termination for Default</h5>
+<h5>Action to Recover Loss or Damage</h5>
 <p>11.184 (01/08/97) The contracting officer must refer claims to Legal Services when a contract is secured by a security deposit (government guaranteed bonds, bills of exchange, irrevocable standby letters of credit) or when the Crown has a claim against a contractor that is related to a work package for which the contractor has a claim against the Crown.</p>
 <p>In all other cases the contracting officer will attempt to negotiate a settlement. When a satisfactory settlement cannot be reached, the claim will be referred to Legal Services for action.</p>
-<h4>Release of Contract Financial Security</h4>
+<h5>Release of Contract Financial Security</h5>
 <p>11.296 (01/08/97) Where a contract, in respect of which a security deposit (government guaranteed bonds, bills of exchange, irrevocable standby letters of credit) was given, has been completed or terminated through no fault of the contractor, the security deposit shall be returned to the contractor. The contracting officer is to instruct the Accounting Services Branch to requisition a cheque for the amount of a bill of exchange plus accumulated interest, or to request that branch to arrange the release of bonds, letters of credit and other negotiable instruments deposited.</p>
-<h3>CHAPTER 12 - GLOSSARY</h3>
-<h4>Irrevocable Standby Letter of Credit</h4>
+<h4>CHAPTER 12 - GLOSSARY</h4>
+<h5>Irrevocable Standby Letter of Credit</h5>
 <p>1) Any arrangement, however named or described, whereby a financial institution, acting at the request and on the instructions of a customer, or on its own behalf, is to make a payment to or to the order of Canada, as the beneficiary, or is to accept and pay bills of exchange drawn by Canada, or authorises another financial institution to effect such payment, or accept and pay such bills of exchange, or authorises another financial institution to negotiate, against written demand(s) for payment provided that the terms and conditions of the letter of credit are complied with. Irrevocable letters of credit cannot be amended or cancelled by the Issuer at any moment and without prior notice to Canada as beneficiary. The letter of credit must clearly state that they are irrevocable or are deemed to be irrevocable pursuant to article 6 c) of the International Chamber of Commerce (ICC) Uniform Customs and Practice for Documentary Credits, 1993 Revision, ICC Publication No. 500. 2) A form of security deposit for bid or contract financial security. (01/08/97) <strong><em>(lettre de crédit de soutien irrévocable)</em></strong></p>
-<h4>Security Deposit</h4>
+<h5>Security Deposit</h5>
 <p>The deposit by the bidder/contractor of securities including government guaranteed bonds, bills of exchange and irrevocable standby letters of credit which the contracting authority may convert to complete the bidder's/contractor's obligations. (01/08/97) <strong><em>(dépôts de garantie)</em></strong></p>
-<h3>Annex B</h3>
-<h4>SUB-SECTION E - FINANCIAL SECURITY</h4>
+<h4>Annex B</h4>
+<h5>SUB-SECTION E - FINANCIAL SECURITY</h5>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Use this clause when clause E0004T is used in the bid solicitation. The contracting officer is to fill in data required under paragraphs 1 (percentage requested only), 2 and 3. Copies of the annexes referred to in this clause can be found in the <em>Supply Manual</em> under "Annexes".</p>
 <p><strong>E0001T __/__/97 Security Deposits and/or Surety Bonds</strong></p>
 <p>1. Enclosed with this bid is the requested security consisting of:</p>

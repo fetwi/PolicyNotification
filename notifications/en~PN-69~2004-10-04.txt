@@ -1,10 +1,10 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-69</h2>
+<h3 class="pn-content-title">Content of PN-69</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Update</h3>
+<h4>Update</h4>
 <p>Standard Instructions and Conditions 9403-6, Standing Offers, are revised as follows:</p>
-<h3>At Part B, Particulars of the Standing Offer</h3>
+<h4>At Part B, Particulars of the Standing Offer</h4>
 <ul class="noBullet">
 <li>(1) Add new paragraph (e) under Subsection 1. (3), General:</li>
 <li>(e) Canada may require at its sole discretion that the purchasing of these goods or services be performed, in whole or in part, through electronic means. In such event, Canada may require the Supplier to levy a fee from the identified users on Canada's behalf.</li>
@@ -15,31 +15,31 @@
 <p>Effective immediately, contracting officers are to incorporate the above revisions into the Standard Instructions and Conditions 9403-6 referenced in any Request for Standing Offer.</p>
 <p>All changes to 9403-6 will be incorporated into the next edition of the SACC Manual to be released December 10, 2004.</p>
 <p>Annex A below contains the updated Standard Instructions and Conditions 9403-6 with the revisions highlighted in <em><strong>bold</strong></em> and <em><strong>red</strong></em>.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>With the advent of electronic purchasing and advances in technology that will allow government purchasing to be effected in an electronic environment, it is necessary that procurement instruments, such as standing offers, contain provisions that will allow the resulting procurement instruments to be used if applicable, in any future electronic environment, such as the Government of Canada Marketplace. The revisions to 9403-6 address the eventuality that an existing standing offer could be effected in an electronic environment. </p>
-<h3>Contact</h3>
+<h4>Contact</h4>
 <p><strong>N/A</strong></p>
 <hr/>
-<h3>Annex A CHANGES TO STANDARD ACQUISITION CLAUSES AND CONDITIONS MANUAL</h3>
+<h4>Annex A CHANGES TO STANDARD ACQUISITION CLAUSES AND CONDITIONS MANUAL</h4>
 <p><strong>9403-6, Standing Offers</strong></p>
-<h3>A. INSTRUCTIONS</h3>
+<h4>A. INSTRUCTIONS</h4>
 <p><strong>1. Method of Supply</strong></p>
 <p>One method of supply used by Public Works and Government Services Canada (PWGSC) to satisfy the requirements of identified users is to arrange with offerors to submit a Standing Offer to provide goods, services, or both, to the federal government during a specified period. The identified users to be served are then delegated purchasing authority by <acronym title="Public Works and Government Services Canada">PWGSC</acronym> and may access the source of supply directly, as and when requested, by issuing call-ups detailing the exact quantities of goods or level of services they wish to order from the Offeror at a particular time during the effective period of the Offeror's offer and in accordance with the predetermined conditions.</p>
-<h4>2. Purpose of the Standing Offer</h4>
+<h5>2. Purpose of the Standing Offer</h5>
 <p>This method of supply is particularly useful in acquiring frequently ordered commercially and non-commercially available goods or services when the total volume or value of goods or level of services that may be required by one or more identified users can be estimated beforehand, but it is not possible at the outset to identify the exact requirements for any given user at a specific time in the future.</p>
 <p>Inasmuch as <acronym title="Public Works and Government Services Canada">PWGSC</acronym>, during the period stated in the Request for a Standing Offer (RFSO), foresees a potential need for goods or services, or both, the Offeror is hereby invited to provide <acronym title="Public Works and Government Services Canada">PWGSC</acronym> with a Standing Offer.</p>
-<h4>3. Quantity</h4>
+<h5>3. Quantity</h5>
 <p>The quantity of goods, level of services and estimated expenditure specified in the RFSO are only an approximation of requirements given in good faith. The making of a Standing Offer by the Offeror shall not constitute an agreement by Canada or any Identified User to order any or all of the said goods or services. The Identified User may make one or several call-ups against a Standing Offer.</p>
-<h4>4. DPWGS Obligation</h4>
+<h5>4. DPWGS Obligation</h5>
 <p>A request does not commit <acronym title="Public Works and Government Services Canada">PWGSC</acronym> to authorize the utilization of a Standing Offer or to pay any cost incurred in the submission of offers, or cost incurred in making necessary studies for the preparation thereof, or to procure or contract for any services or supplies. <acronym title="Public Works and Government Services Canada">PWGSC</acronym> reserves the right to reject or authorize for utilization any offer in whole or in part, with or without further discussion or negotiation.</p>
-<h4>5. Process</h4>
+<h5>5. Process</h5>
 <p>(1) The Standing Offer is normally processed as follows:</p>
 <ul class="noBullet">
 <li>(a) An RFSO is obtained by offerors (suppliers) through the Government Electronic Tendering Service (GETS), provided by MERX.</li>
 <li>(b) Offerors then complete the request and return it to <acronym title="Public Works and Government Services Canada">PWGSC</acronym> as a proposed Standing Offer.</li>
 <li>(c) <acronym title="Public Works and Government Services Canada">PWGSC</acronym> issues a Standing Offer and Call-up Authority (SOCA) to successful offerors and identified users (customer departments or agencies) authorized to make call-ups directly.</li>
 </ul>
-<h4>6. Submission of Offers</h4>
+<h5>6. Submission of Offers</h5>
 <p>(1) It is the Offeror's responsibility to:</p>
 <ul class="noBullet">
 <li>(a) return a signed original of the RFSO, duly completed, in the format requested;</li>
@@ -56,7 +56,7 @@
 <p>(3) The Standing Offer should completely and thoroughly address each element of the requirement as enumerated in the RFSO. It is also essential that the elements contained in the offer be stated in a clear and concise manner.</p>
 <p>(4) Bid documents and supporting information may be submitted in either English or French.</p>
 <p>(5) Offers received on or before the stipulated bid solicitation closing date and time will become the property of Canada and will not be returned. All offers will be treated as CONFIDENTIAL, subject to the provisions of the <em>Access to Information Act</em> and the <em>Privacy Act</em>.</p>
-<h4>7. Responses Transmitted by Facsimile</h4>
+<h5>7. Responses Transmitted by Facsimile</h5>
 <p>(1) If you are in doubt that your offer will be delivered on time at the specific location designated for the receipt of the offer, you may use a facsimile, unless otherwise instructed in the RFSO.</p>
 <p><strong>NOTE:</strong> Due to the volume of technical material required for some offers, certain RFSO's may specify that submissions by facsimile are not acceptable (e.g. science solicitations).</p>
 <p>(2) Unless otherwise instructed in the RFSO, the only acceptable facsimile number for responses to RFSO's issued by <acronym title="Public Works and Government Services Canada">PWGSC</acronym> headquarters sectors is 819-997-9776.</p>
@@ -78,9 +78,9 @@
 <li>(c) sufficient data to allow evaluation, such as unit prices, country of currency in the event that the offer is submitted in a foreign currency, sales tax, duty, technical data (where applicable) and any deviation(s) from the RFSO document.</li>
 </ul>
 <p>(5) For responses transmitted by facsimile, written confirmation is required within two (2) working days after bid closing, unless otherwise specified in this solicitation. All documents confirming bids should bear the word "CONFIRMATION".</p>
-<h4>8. Late Offers</h4>
+<h5>8. Late Offers</h5>
 <p>It is <acronym title="Public Works and Government Services Canada">PWGSC</acronym>'s policy to return, unopened, offers delivered after the stipulated RFSO closing date and time, unless they qualify as a delayed offer as described below.</p>
-<h4>9. Delayed Offers</h4>
+<h5>9. Delayed Offers</h5>
 <p>(1) An offer delivered to the specified Bid Receiving area after the closing date and time but before the issue of a SOCA may be considered, provided the delay can be proven to have been due solely to a delay in delivery that can be attributed to the Canada Post Corporation (CPC) (or national equivalent of a foreign country). The only pieces of evidence relating to a delay in the CPC system that are acceptable to <acronym title="Public Works and Government Services Canada">PWGSC</acronym> are:</p>
 <ul class="noBullet">
 <li>(a) a CPC cancellation date stamp;</li>
@@ -94,14 +94,14 @@
 <p>(2) Please request the postal employee to date-stamp your envelope.</p>
 <p>(3) For offers transmitted by facsimile, only the date and the time of receipt recorded by <acronym title="Public Works and Government Services Canada">PWGSC</acronym> at the Bid Receiving number stated in the solicitation document will be accepted as evidence of a delayed offer.</p>
 <p>(4) Misrouting, traffic volume, weather disturbances, or any other causes for the late delivery of offers are not acceptable reasons for the offer to be accepted by <acronym title="Public Works and Government Services Canada">PWGSC</acronym>.</p>
-<h4>10. Postage Meters</h4>
+<h5>10. Postage Meters</h5>
 <p>Postage meter imprints, whether imprinted by the Offeror, the CPC or the postal authority outside Canada, are not acceptable as proof of timely mailing. It should be noted that CPC does not normally apply a cancellation date stamp to metered mail; this is usually done only when postage stamps are used.</p>
-<h4>11. Standard Clauses, Conditions and Instruction Sets</h4>
+<h5>11. Standard Clauses, Conditions and Instruction Sets</h5>
 <p>Any standard clause, and any condition or instruction set, used or referenced in an RFSO, a Standing Offer, or a call-up pursuant to a Standing Offer may be updated from time to time. When this happens, the version used in an already-issued document will remain in effect in that document, unless the updated version is legally incorporated.</p>
-<h4>12. Identity or Legal Capacity of Offeror</h4>
+<h5>12. Identity or Legal Capacity of Offeror</h5>
 <p>In order to establish the legal capacity under which an Offeror proposes to enter into a Standing Offer, any offeror who carries on business in other than its own personal name shall, if requested by the Contracting Authority, provide proof of the legal capacity under which it carries on business to the Contracting Authority prior to the issuance of a Standing Offer. Such proof may be in the form of a copy of the articles of incorporation or of the registration of the business name of a sole proprietor, of a trade name, of a partnership, etc.</p>
-<h3>B. PARTICULARS OF THE STANDING OFFER</h3>
-<h4>1. General</h4>
+<h4>B. PARTICULARS OF THE STANDING OFFER</h4>
+<h5>1. General</h5>
 <p>(1) The Offeror acknowledges that a Standing Offer is not a contract.</p>
 <p>(2) The Offeror offers to sell or provide and deliver to Canada, acting through and represented by the Minister of Public Works and Government Services, the goods or services, or both, listed at the price(s) or on the pricing basis set out, as and when the Identified User may request such goods or services, in accordance with the following provisions.</p>
 <p>(3) It is understood and agreed that:</p>
@@ -112,17 +112,17 @@
 <li>(d) Canada reserves the right to procure the specified goods or services by means of contracts, standing offers, or by other contracting methods.</li>
 <li>(e) Canada may require at its sole discretion that the purchasing of these goods or services be performed, in whole or in part, through electronic means. In such event, Canada may require the Supplier to levy a fee from the identified users on Canada's behalf.</li>
 </ul>
-<h4>2. Notification of Withdrawal/Revision</h4>
+<h5>2. Notification of Withdrawal/Revision</h5>
 <p>In the event that the Offeror wishes to withdraw the Standing Offer after authority to call-up against a Standing Offer has been given, the Offeror shall provide no less than thirty (30) days' written notice to the Contracting Authority, unless otherwise indicated in the SOCA, in order that the Contracting Authority may inform all identified users. Such withdrawal of Standing Offer shall not be effective until receipt of such notification by <acronym title="Public Works and Government Services Canada">PWGSC</acronym> and the expiry of such notice period. The Offeror hereby agrees to fulfil any and all call-ups which may be made before the expiry of such notice period. If the period of the Standing Offer is extended or the limitation of expenditure is increased, the Contracting Authority will issue a revision to the SOCA.</p>
-<h4>3. Call-up Instrument</h4>
+<h5>3. Call-up Instrument</h5>
 <p>The identified users shall order goods and services either on form <acronym title="Public Works and Government Services Canada">PWGSC</acronym>-TPSGC 942, Call-up Against a Standing Offer, or on such other call-up document as may be specified in the Standing Offer. Goods and services may also be ordered by other methods such as telephone, facsimile, <em>or electronic means,</em> but must be confirmed in writing either on form <acronym title="Public Works and Government Services Canada">PWGSC</acronym>-TPSGC 942 or on such other document as may be specified.</p>
 <p>Call-ups Against a Standing Offer paid for with the Government of Canada acquisition card (credit card) at point of sale will be accorded the same prices and terms and conditions as any other call-up.</p>
-<h3>C. CONDITIONS</h3>
-<h4>1. Applicability</h4>
+<h4>C. CONDITIONS</h4>
+<h5>1. Applicability</h5>
 <p>The following conditions apply to all contracts resulting from any call-up pursuant to the Standing Offer. Conditions numbers 6 through 10, however, only apply to goods contracts.</p>
-<h4>2. Municipal Taxes</h4>
+<h5>2. Municipal Taxes</h5>
 <p>Municipal taxes are not applicable.</p>
-<h4>3. Provincial Taxes</h4>
+<h5>3. Provincial Taxes</h5>
 <p>(1) Excluding legislated exceptions (see subsection (5) below), identified users are not required to pay any ad valorem sales tax levied by the province in which the taxable goods or services are delivered. This exemption has been provided to identified users under the authority of one of the following:</p>
 <ul class="noBullet">
 <li>(a) Provincial Sales Tax (PST) Exemption Licence Numbers, for the provinces of:</li>
@@ -146,19 +146,19 @@
 <li>(f) tires/batteries subject to environmental levies;</li>
 <li>(g) transient living accommodation subject to hotel room taxes (British Columbia).</li>
 </ul>
-<h4>4. Invoices</h4>
+<h5>4. Invoices</h5>
 <p>Invoices must be submitted in the name of the Offeror and are not to be submitted prior to the delivery of supplies or the performance of the services. They must show the name and address of the Consignee, together with date, method of shipment, the case numbers if applicable, item, quantity, unit of issue, unit price, additional charges if applicable, and the Goods and Services Tax or the Harmonized Sales Tax if applicable, part or reference numbers, description of supplies as shown in the Standing Offer, Standing Offer number, requisition number, Client Reference Number (CRN), Procurement Business Number (PBN) and financial code(s). Separate invoices must be submitted for each shipment and must apply to one call-up only. Each invoice must indicate whether it covers partial or final shipment.</p>
-<h4>5. Bills of Lading</h4>
+<h5>5. Bills of Lading</h5>
 <p>The transportation bill of lading must accompany the original invoice, except for "collect" shipments (if and when allowed), in which event it shall accompany the shipment; in addition, a packing slip must accompany each shipment, be clearly visible, and show item, quantity, part or reference numbers, description of supplies and contract reference numbers, including the CRN and PBN. If the supplies have been inspected at the Offeror's plant, the signed inspection voucher must be attached to the packing slip normally enclosed in the packing note envelope.</p>
-<h4>6. Inspection and Acceptance</h4>
+<h5>6. Inspection and Acceptance</h5>
 <p>The goods/services are subject to inspection and acceptance by the consignee at destination, unless otherwise indicated in the SOCA.</p>
-<h4>7. Condition of Material</h4>
+<h5>7. Condition of Material</h5>
 <p>Unless otherwise specified elsewhere in the Contract, materiel supplied shall be new and conform to the latest issue of the applicable drawing, specification and/or part number that is in effect on the solicitation closing date.</p>
-<h4>8. Transportation Charges</h4>
+<h5>8. Transportation Charges</h5>
 <p>If transportation charges are payable by Canada under the terms of the Contract, shipments are to be made by the most direct and economical means consistent with normal shipping practice, unless otherwise directed (as in the case when transportation costs are part of the unit price). They are to be shown as a separate item on the invoice.</p>
-<h4>9. Valuation</h4>
+<h5>9. Valuation</h5>
 <p>The federal government's policy of underwriting its own risks precludes payment of any excess valuation and/or transportation charges beyond the specified FOB point (the point at which title of goods passes to the federal government). Goods will be covered to the carrier's maximum liability and value will be declared only when additional costs will not be incurred.</p>
-<h4>10. Shipment into Canada</h4>
+<h5>10. Shipment into Canada</h5>
 <p>Goods shipped into Canada from another country are to be consigned to destination, IN BOND, unless otherwise directed.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

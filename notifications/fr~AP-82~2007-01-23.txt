@@ -1,16 +1,16 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-82</h2>
+<h3 class="pn-content-title">Contenu de l'AP-82</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 23 janvier 2007</h3>
-<h4>Introduction</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 23 janvier 2007</h4>
+<h5>Introduction</h5>
 <p>Le présent avis relatif aux politiques (AP)-82 fournit des instructions<br/>
 					et une orientation sur la meilleure façon dont le client devrait évaluer<br/>
 					les éléments d'une demande de soumissions.</p>
@@ -19,7 +19,7 @@
 					aux directeurs généraux et aux directeurs généraux<br/>
 					des régions, le 11 décembre 2006, et en raison<br/>
 					du rapport publié récemment par le Bureau du vérificateur général.</p>
-<h4>Politique</h4>
+<h5>Politique</h5>
 <p>Les agents de négociation des contrats doivent respecter les<br/>
 					instructions de cet AP lors du traitement des marchés de nature<br/>
 					délicate ou de risques élevés. Pour le traitement<br/>
@@ -30,14 +30,14 @@
 					A</a> du présent document pour connaître les modifications<br/>
 					apportées au <em>Guide des approvisionnements</em>, <em>qui</em> seront<br/>
 					intégrées au Guide lors de sa prochaine parution..</p>
-<h4>Personne-ressource</h4>
+<h5>Personne-ressource</h5>
 <p><strong>S/O</strong></p>
 <p> <a id="AP-82annexa"></a></p>
-<h3>Annexe A - Modifications apportées au Guide des approvisionnements</h3>
-<h4>Section 7A - Préparation d'une demande de soumissions</h4>
+<h4>Annexe A - Modifications apportées au Guide des approvisionnements</h4>
+<h5>Section 7A - Préparation d'une demande de soumissions</h5>
 <div>
-<h5><em>Évaluation par le client des éléments d'une<br/>
-						demande de soumissions</em></h5>
+<h6><em>Évaluation par le client des éléments d'une<br/>
+						demande de soumissions</em></h6>
 <p><em>7A.150 (xxxx-xx-xx) Pour un marché de nature délicate<br/>
 						ou de risques élevés, lorsque le ministère client<br/>
 						a la responsabilité première de définir les besoins<br/>

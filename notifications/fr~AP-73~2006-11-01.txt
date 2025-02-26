@@ -1,16 +1,16 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-73</h2>
+<h3 class="pn-content-title">Contenu de l'AP-73</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 1 novembre 2006</h3>
-<h4>Introduction</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 1 novembre 2006</h4>
+<h5>Introduction</h5>
 <p>Cet Avis relatif aux politiques (AP)-73 vient modifier la politique sur<br/>
 					les avis directs aux soumissionnaires éventuels lorsqu'un marché est<br/>
 					assujetti à un accord commercial. </p>
@@ -26,7 +26,7 @@
 					avisés directement d'une occasion de marché, dans des circonstances<br/>
 					appropriées et de façon prudente, qu'un accord commercial<br/>
 					s'applique ou non.</p>
-<h4>Politique</h4>
+<h5>Politique</h5>
 <p>À compter de maintenant, lorsqu'un marché est assujetti à un<br/>
 					accord commercial, les agents de négociation des contrats peuvent<br/>
 					aviser directement les fournisseurs qu'une occasion de marché a été publiée<br/>
@@ -35,11 +35,11 @@
 					d'obtenir le meilleur rapport qualité-prix pour les contribuables<br/>
 					canadiens. </p>
 <p>Les critères particuliers établis pour décider si un avis direct est nécessaire ainsi que les procédures d'avis sont énoncées à <a href="#AP-73a">l'Annexe A</a> ci-jointe.  Tous les changements indiqués en rouge seront incorporés dans la prochaine version du Guide des approvisionnements.</p>
-<h4>Personne-ressource</h4>
+<h5>Personne-ressource</h5>
 <p><strong>S/O</strong></p>
-<h3><a id="AP-73a" name="a"></a>l'Annexe A</h3>
-<h4>Changements apportés au Guide des approvisionnements</h4>
-<h5>Chapitre 5, Stratégie de sélection des fournisseurs</h5>
+<h4><a id="AP-73a" name="a"></a>l'Annexe A</h4>
+<h5>Changements apportés au Guide des approvisionnements</h5>
+<h6>Chapitre 5, Stratégie de sélection des fournisseurs</h6>
 <h6>Marchés assujettis aux accords commerciaux</h6>
 <p><strong>5.041 (xxxx-xx-xx)</strong> Pour les marchés<br/>
 					assujettis à l'ALENA, à l'AMP-OMC ou à l'ACI, ou encore à plusieurs<br/>
@@ -67,7 +67,7 @@
 					autres), on peut faire connaître directement le projet de marché aux<br/>
 					fournisseurs éventuels, <strong>conformément à la procédure<br/>
 					7B.188.</strong></p>
-<h5>Chapitre 7,  Achats en régime de concurrence</h5>
+<h6>Chapitre 7,  Achats en régime de concurrence</h6>
 <h6>Section 7B : Publication d'une demande de soumissions</h6>
 <p><strong>7B.187 (xxxx-xx-xx)</strong> Les avis électroniques<br/>
 					reçus au SEAOG (MERX) avant 17 h chaque jour seront publiés<br/>

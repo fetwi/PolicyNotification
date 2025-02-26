@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-54</h2>
+<h3 class="pn-content-title">Content of PN-54</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The CKTEA is a bilateral agreement between Canada and Korea which covers federal government procurement of telecommunications goods and incidental services (services included in goods contracts). The CKTEA was signed in early July 1999. The Policy implementing the Agreement was approved by Treasury Board Ministers on May 17, 2001. The CKTEA will take effect on September 1, 2001.</p>
 <p>The CKTEA applies to government procurement of telecommunications goods over $261,216. It does not apply to procurement of telecommunications services.</p>
@@ -12,10 +12,10 @@
 <p>These changes take effect 1 September 2001.</p>
 <p>Any questions on application of the CKTEA should be directed to the Strategic Policy Directorate (SPD), at telephone number 819-956-6497.</p>
 <hr/>
-<h4>SACC CLAUSES</h4>
-<h5>K5000D (XX/XX/XX) CKTEA Definitions</h5>
+<h5>SACC CLAUSES</h5>
+<h6>K5000D (XX/XX/XX) CKTEA Definitions</h6>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS</strong>. Use the following clause whenever definitions are required for procurement covered by the special procedures under the Canada-Korea Agreement on the Procurement of Telecommunications Equipment (CKTEA). This clause should <strong>not</strong> be used when the procurement is also covered by the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>. The special procedures under the CKTEA should only be used for procurement not covered by the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>. For procurement covered by both the CKTEA and the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, procedures for the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> are followed. This clause must always be used whenever clauses K5001T, K5002T, K5003T, K5004T, K5005T and K5006T are used.</p>
-<h5>Text:</h5>
+<h6>Text:</h6>
 <p>For the purpose of the CKTEA:</p>
 <p>1. (a) A Good is considered a Canadian or Korean good, for the purpose of this Policy, if it is considered so under Canada's "Determination of Country of Origin for the Purposes of Marking Goods (NAFTA Countries) Regulations". Article 8 of these Regulations, which provides for a NAFTA tariff preference override, cannot be used for determining whether a good is Canadian.</p>
 <p>(b) An "Incidental Service" means any service that is included in a tender for the procurement of a Covered Good under this Agreement.</p>
@@ -32,9 +32,9 @@
 </ol>
 <p>3. Mix of goods and services: when requirements consist of a mix of goods and services, no less than 60 percent of the total bid price must consist of Canadian and/or Korean goods and services (as defined above).</p>
 <hr/>
-<h5>K5001T (XX/XX/XX) CKTEA Certification</h5>
+<h6>K5001T (XX/XX/XX) CKTEA Certification</h6>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS</strong>. Use the following clause in all competitive bid solicitations in which the special procedures under the CKTEA are applicable (see Supply Manual) and where competition is being solely limited to bids offering Canadian and/or Korean Goods and Services. This clause is to be used for single item requirements and multi-item requirements that are being certified on an aggregate basis. This clause must be used in conjunction with clause K5000D, CKTEA Definitions.</p>
-<h5>Text:</h5>
+<h6>Text:</h6>
 <p>1. This procurement is limited to Canadian and/or Korean Goods and Services as defined in clause K5000D, CKTEA Definitions.</p>
 <p>2. The Bidder represents and warrants that, of the Goods and Services being offered, no less than 60 percent of the bid price consists of Canadian and/or Korean Goods and Services as defined in clause K5000D, CKTEA Definitions.</p>
 <p>3. The Bidder acknowledges that the Minister relies upon such representation and warranty to evaluate bids and to enter into any contract resulting from this bid. Such representation and warranty of Canadian or Korean content may be verified in such manner as the Minister may reasonably require.</p>
@@ -46,9 +46,9 @@
 <span aria-label="Blank placeholder" class="blankline"></span> <br/>
 					Date</p>
 <hr/>
-<h5>K5002T (XX/XX/XX) CKTEA Certification</h5>
+<h6>K5002T (XX/XX/XX) CKTEA Certification</h6>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS</strong>. Use the following clause in all competitive bid solicitations in which the special procedures under the CKTEA are applicable (see Supply Manual) and where competition is being conditionally limited to bids offering Canadian and/or Korean Goods and Services. This clause is to be used for single item requirements and multi-item requirements that are being certified on an aggregate basis. This clause must be used in conjunction with clause K5000D, CKTEA Definitions.</p>
-<h5>Text:</h5>
+<h6>Text:</h6>
 <p>1. This procurement is subject to a preference for Canadian and/or Korean Goods and Services as defined in clause K5000D, CKTEA Definitions.</p>
 <p>2. Bids that include this representation and warranty will be given preference over other bids, if there are two or more bids with a valid certification.</p>
 <p>3. By executing this representation and warranty, the Bidder Represents and warrants that, of the goods and services being offered, no less than 60 percent of the bid price consists of Canadian and/or Korean Goods and Services, as defined in the clause K5000D, CKTEA Definitions.</p>
@@ -61,9 +61,9 @@
 <span aria-label="Blank placeholder" class="blankline"></span> <br/>
 					Date</p>
 <hr/>
-<h5>K5003T (XX/XX/XX) CKTEA Certification</h5>
+<h6>K5003T (XX/XX/XX) CKTEA Certification</h6>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS</strong>. Use the following clause in all competitive bid solicitations in which the special procedures under the CKTEA are applicable (see Supply Manual) and where competition is being solely limited to bids offering Canadian and/or Korean Goods and Services. This clause is to be used for multi-item requirements that are being certified on an individual item basis and where the bidder will be required to indicate beside each item, listed in the bid, whether the item is Canadian or Korean. This clause must be used in conjunction with clause K5000D, CKTEA Definitions.</p>
-<h5>Text:</h5>
+<h6>Text:</h6>
 <p>1. This procurement is limited to Canadian and/or Korean Goods and Services as defined in clause K5000D, CKTEA Definitions.</p>
 <p>2. By executing this representation and warranty, the Bidder represents and warrants that, of the goods and services being offered, items individually identified as such in the bid are Canadian or Korean Goods and Services as defined in clause K5000D, CKTEA Definitions, and acknowledges that only those items will receive consideration.</p>
 <p>3. Bids may be accepted in whole or in part.</p>
@@ -76,9 +76,9 @@
 <span aria-label="Blank placeholder" class="blankline"></span> <br/>
 					Date</p>
 <hr/>
-<h5>K5004T (XX/XX/XX) CKTEA Certification</h5>
+<h6>K5004T (XX/XX/XX) CKTEA Certification</h6>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS</strong>. Use the following clause in all competitive bid solicitations in which the special procedures under the CKTEA are applicable (see Supply Manual) and where competition is being solely limited to bids offering Canadian and/or Korean Goods and Services. This clause is to be used for multi-item requirements that are being certified on an individual item basis and where the bidder is to list in the clause those items in its bid that are to be considered Canadian or Korean Goods and Services. This clause must be used in conjunction with clause K5000D, CKTEA Definitions.</p>
-<h5>Text:</h5>
+<h6>Text:</h6>
 <p>1. This procurement is limited to Canadian and/or Korean Goods and Services as defined in clause K5000D CKTEA Definitions.</p>
 <p>2. Bids may be accepted in whole or in part.</p>
 <p>3. The Bidder represents and warrants that, of the Goods and Services being offered, the following items are Canadian or Korean Goods and Services as defined in clause K5000D, CKTEA Definitions, and acknowledges that only those items will receive consideration.</p>
@@ -98,9 +98,9 @@
 <span aria-label="Blank placeholder" class="blankline"></span> <br/>
 					Date</p>
 <hr/>
-<h5>K5005T (XX/XX/XX) CKTEA Certification</h5>
+<h6>K5005T (XX/XX/XX) CKTEA Certification</h6>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS</strong>. Use the following clause in all competitive bid solicitations in which the special procedures under the CKTEA are applicable (see Supply Manual) and where competition is being conditionally limited to bids offering Canadian and/or Korean Goods and Services. This clause is to be used for multi-item requirements that are being certified on an individual item basis and where the bidder will be required to indicate beside each item, listed in the bid, whether the item is Canadian or Korean. This clause must be used in conjunction with clause K5000D, CKTEA Definitions.</p>
-<h5>Text:</h5>
+<h6>Text:</h6>
 <p>1. This procurement is subject to a preference for Canadian and/or Korean Goods and Services as defined in clause K5000D, CKTEA Definitions.</p>
 <p>2. On an item-by-item basis, items that include this representation and warranty will be given preference over other bids, if there are two or more bids with a valid certification. Bids may be accepted in whole or in part.</p>
 <p>3. By executing this representation and warranty, the Bidder represents and warrants that, of the goods and services being offered, items individually identified as such in the bid are Canadian or Korean Goods and Services as defined in clause K5000D, CKTEA Definitions.</p>
@@ -113,9 +113,9 @@
 <span aria-label="Blank placeholder" class="blankline"></span> <br/>
 					Date</p>
 <hr/>
-<h5>K5006T (XX/XX/XX) CKTEA Certification</h5>
+<h6>K5006T (XX/XX/XX) CKTEA Certification</h6>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS</strong>. Use the following clause in all competitive bid solicitations in which the special procedures under the CKTEA are applicable (see Supply Manual) and where competition is being conditionally limited to bids offering Canadian or Korean Goods and Services. This clause is to be used for multi-item requirements that are being certified on an individual item basis and where the bidder is to list in the clause those items in its bid that are to be considered Canadian or Korean Goods and Services. This clause must be used in conjunction with clause K5000D, CKTEA Definitions.</p>
-<h5>Text:</h5>
+<h6>Text:</h6>
 <p>1. This procurement is subject to a preference for Canadian and/or Korean Goods and Services as defined in clause K5000D, CKTEA Definitions.</p>
 <p>2. On an item-by-item basis, items that include this representation and warranty will be given preference over other bids, if there are two or more bids with a valid certification. Bids may be accepted in whole or in part.</p>
 <p>3. The Bidder represents and warrants that, of the Goods and Services being offered, the following items are Canadian or Korean Goods or Services as defined in clause K5000D, CKTEA Definitions:</p>
@@ -135,21 +135,21 @@
 <span aria-label="Blank placeholder" class="blankline"></span> <br/>
 					Date</p>
 <hr/>
-<h5>K5100C (XX/XX/XX) CKTEA Certification</h5>
+<h6>K5100C (XX/XX/XX) CKTEA Certification</h6>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS</strong>. Use the following clause in all contracts where the winning bidder's eligibility for consideration required the completion and submission of a signed CKTEA certification.</p>
-<h5>Text:</h5>
+<h6>Text:</h6>
 <p>1. The Contractor represents and warrants that the certification of Canadian and/or Korean content submitted with its bid is accurate and complete, and that the goods and services to be provided to Canada pursuant to this Contract will be in accordance with the said certification. The Contractor acknowledges that the Minister has relied upon such representation and warranty to enter into this Contract. Such representation and warranty may be verified in such manner as the Minister may reasonably require.</p>
 <p>2. The Contractor acknowledges that in the event of a breach of such covenant, the Minister shall have the right to treat the Contract as being in default in accordance with the default provisions of the Contract.</p>
 <p>3. The Contractor shall keep proper records and documentation relating to the origin of the goods and services provided to Canada. The Contractor shall not, without the prior written consent of the Minister, dispose of any such records or documentation until the expiration of six (6) years after final payment under this Contract, or until settlement of all outstanding claims and disputes, whichever is later. All such records and documentation shall at all times during the aforementioned retention period be open to audit, inspection and examination by the authorized representatives of the Minister, who may make copies and take extracts thereof. The Contractor shall provide all facilities for such audits, inspections and examinations, and shall furnish all such information as the representatives of the Minister may from time to time require with respect to such records and documentation.</p>
 <p>4. Nothing in this clause shall be interpreted as limiting the rights and remedies which Canada or the Minister may otherwise have in relation to or pursuant to this Contract.</p>
 <hr/>
-<h5>A9110T (XX/XX/XX) Land Claims Set-Aside</h5>
+<h6>A9110T (XX/XX/XX) Land Claims Set-Aside</h6>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS</strong>. Insert the following clause in full text at the beginning of the bid solicitation when the procurement is being set aside under the Land Claims Set-Aside Policy. Ensure that the applicable trade agreement is identified in the clause. Treasury Board of Canada Secretariat Contracting Policy Notice 1997-8 of December 10, 1997, provides further detail into the implementation of contracting obligations under the Comprehensive Land Claims Agreements.</p>
-<h5>Text:</h5>
+<h6>Text:</h6>
 <p>This procurement is set aside from <span aria-label="Blank placeholder" class="blankline"></span>  (insert as applicable: the North American Free Trade Agreement Annex 1001.2b, Article 1(d); World Trade Organization - Agreement on Government Procurement, Appendix I, article 1(d) or the Canada-Korea Procurement of Telecommunications Equipment Agreement (CKTEA), Article 1, part 5 (see Annex 4.2), and/or Agreement on Internal Trade (AIT), Article 1802 [see Annex 4.7].)</p>
 <hr/>
-<h4>SUPPLY MANUAL CHANGES</h4>
-<h4>CHAPTER 4 - NATIONAL AND INTERNATIONAL TRADE AGREEMENTS</h4>
+<h5>SUPPLY MANUAL CHANGES</h5>
+<h5>CHAPTER 4 - NATIONAL AND INTERNATIONAL TRADE AGREEMENTS</h5>
 <ul class="noBullet">
 <li>Comprehensive Land Claims Agreements </li>
 <li>Procurement Obligations </li>
@@ -168,7 +168,7 @@
 <li>Annex 4.4: AGREEMENT ON INTERNAL TRADE </li>
 <li>Annex 4.7: AIT: EXCERPTS FROM PART I, GENERAL DEFINITIONS, CHAPTER TWO; AND, PART VI, FINAL PROVISIONS, CHAPTER EIGHTEEN</li>
 </ul>
-<h4>CHAPTER 5 - SOURCING STRATEGY</h4>
+<h5>CHAPTER 5 - SOURCING STRATEGY</h5>
 <ul class="noBullet">
 <li>Determining the Extent of Competition</li>
 <li>Use of the National Security Exceptions </li>
@@ -205,8 +205,8 @@
 <li>Annex 5.3: CONTRACT AWARD PROCESS (CAP) CODES </li>
 <li>Annex 5.5: THE RULES OF ORIGIN DETERMINATION</li>
 </ul>
-<h4>CHAPTER 7 - COMPETITIVE PROCUREMENT</h4>
-<h4>SECTION 7A: PREPARING A BID SOLICITATION</h4>
+<h5>CHAPTER 7 - COMPETITIVE PROCUREMENT</h5>
+<h5>SECTION 7A: PREPARING A BID SOLICITATION</h5>
 <ul class="noBullet">
 <li>Documents </li>
 <li>Terms and Conditions </li>
@@ -247,7 +247,7 @@
 <li>Joint Ventures </li>
 <li>U.S. Defense Priorities and Allocations System</li>
 </ul>
-<h4>SECTION 7D: BID HANDLING</h4>
+<h5>SECTION 7D: BID HANDLING</h5>
 <ul>
 <li>Authority </li>
 <li>Bid Timeliness </li>
@@ -286,11 +286,11 @@
 <li>Other Requirements </li>
 </ul>
 <hr/>
-<h4>CHAPTER 4 - NATIONAL AND INTERNATIONAL TRADE AGREEMENTS</h4>
+<h5>CHAPTER 4 - NATIONAL AND INTERNATIONAL TRADE AGREEMENTS</h5>
 <p>4.001(XX/XX/XX) Comprehensive Land Claims Agreements (CLCAs), the North American Free Trade Agreement (NAFTA), the World Trade Organization - Agreement on Government Procurement (WTO-AGP), the Canada - Korea Procurement of Telecommunications Equipment Agreement (CKTEA) and the Agreement on Internal Trade (AIT) require Public Works and Government Services Canada (PWGSC) to comply with specific procedures when carrying out certain procurements. Therefore, a decision must be made as to whether or not the requisition is subject to a particular agreement, or a combination of agreements.</p>
 <p>To determine coverage under the NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA and AIT agreements, the requisition value, the client, the type of good or service, and any exceptions or exclusions must be reviewed. Coverage under CLCAs is based on where the service will be performed or the good will be delivered.</p>
 <p>The estimated amount of the Goods and Services Tax (GST) and/or the Harmonized Sales Tax (HST) must be included when determining the requisition value.</p>
-<h5>Comprehensive Land Claims Agreements</h5>
+<h6>Comprehensive Land Claims Agreements</h6>
 <p>4.002 (XX/XX/XX) CLCAs contain specific government contracting obligations which <acronym title="Public Works and Government Services Canada">PWGSC</acronym> is legally obligated to comply with. These obligations apply when contracting for the provision of goods, services or construction in areas subject to CLCAs.</p>
 <p>Procurement that is subject to CLCAs, and one or more of the trade agreements (NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA, AIT) may involve special procedures. (See 4.009, 4.010, 4.011, 4.012.) Procurement that is subject to CLCAs, but not to any of the trade agreements, must adhere to all procurement policies applicable to non NAFTA , <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA and AIT procurements. For example, application of the Canadian Content Policy for requirements over $25,000.</p>
 <p>To the extent possible the procedures and policies which implement the individual CLCAs are designed to achieve the following objectives which have been established by Treasury Board Secretariat (TBS):</p>
@@ -300,7 +300,7 @@
 <li>employ aboriginals at a representative level in the workforce of the settlement areas.</li>
 </ol>
 <p>For any procurement which has contracting activities that take place within Comprehensive Land Claims Settlement Areas (CLCSAs), contracting officers should consult the Operational Policy Directorate (OPD), at telephone number 819-956-0863 to determine whether a CLCA may affect the overall procurement strategy. OPD will assist contracting officers in identifying these obligations and in developing methods of meeting them on a case-by-case basis.</p>
-<h5>NEW Canada-Korea Agreement on the Procurement of Telecommunications Equipment (CKTEA)</h5>
+<h6>NEW Canada-Korea Agreement on the Procurement of Telecommunications Equipment (CKTEA)</h6>
 <p>4.011 (XX/XX/XX) The CKTEA is a bilateral agreement between Canada and Korea which covers federal government procurement of telecommunications goods and incidental services (services included in a covered goods contract). The CKTEA was signed in early July 1999. The Treasury Board Policy implementing the CKTEA was approved in May 2001 (See Annex 4.3).</p>
 <p>Implementation of the CKTEA is different from implementation of NAFTA and the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> in that, when a procurement is covered by the CKTEA, preference may be given to suppliers of Canadian and/or Korean goods.</p>
 <p>Procurement covered by both the CKTEA and the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> should follow procedures set out for the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, as Canada has committed through the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> to open these procurements to Korea and the other <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> members.</p>
@@ -333,7 +333,7 @@
 </ol>
 </li>
 </ol>
-<h5>Section 4.011 currently in the Supply Manual should be renumbered 4.012.</h5>
+<h6>Section 4.011 currently in the Supply Manual should be renumbered 4.012.</h6>
 <p>4.013 (XX/XX/XX) Contracting officers should note that when the procurement is covered by more than one agreement, the procedures to be followed are the procedures which are considered the most rigorous, for example, for limited tendering reasons, procurements covered by NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> and AIT, only the limited tendering reasons that are common to all three agreements are available as options. (See 5.031.)</p>
 <p>4.014 (XX/XX/XX) NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA and AIT require that each party to the specific agreement maintain an independent bid challenge authority. The Canadian International Trade Tribunal (CITT) (<a href="http://www.citt.gc.ca/menu_e.htm" rel="external">http://www.citt.gc.ca/menu_e.htm</a>) has been designated as the bid challenge authority for Canada for NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA and AIT. A potential supplier may file a complaint concerning a procurement action to the CITT, on the grounds that any aspect of the procurement process relating to a requirement covered by NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA or AIT is unfair or discriminatory. </p>
 <p>Complaints to the CITT should be addressed to:</p>
@@ -345,8 +345,8 @@
 <p>Telephone: 613-990-1988<br/>
 					Facsimile: 613-992-3686</p>
 <p>4.015 (XX/XX/XX) The Tribunal's mandate authorizes it to receive complaints pertaining to any aspect of the procurement process up to and including contract award, conduct inquiries and make determinations. In dealing with a complaint, the Tribunal must determine whether the government institution responsible for the procurement under review has complied with the requirements of NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA and AIT and such other procedural requirements, as prescribed in the Canadian International Trade Tribunal Procurement Inquiry Regulations.</p>
-<h5>Sections 4.015 to 4.017 currently in the Supply Manual should be renumbered 4.016 to 4.018.</h5>
-<h4>CHAPTER 5 - SOURCING STRATEGY</h4>
+<h6>Sections 4.015 to 4.017 currently in the Supply Manual should be renumbered 4.016 to 4.018.</h6>
+<h5>CHAPTER 5 - SOURCING STRATEGY</h5>
 <p>5.010 (XX/XX/XX) The Canadian International Trade Tribunal (CITT), in its decision PR-98-005, has found that the Assistant Deputy Minister of the Supply Operations Services Branch (ADM/SOSB) has the authority to invoke the use of the national security exception, to exclude a procurement from the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, NAFTA, CKTEA and the AIT trade agreements.</p>
 <p>5.012 (XX/XX/XX) Therefore, to comply with this interpretation, the following procedure is now in effect:</p>
 <ol type="a">
@@ -354,7 +354,7 @@
 <li>If none of the conditions listed in 6E.662 which normally require a formal Procurement Plan apply, a Contract Planning and Advance Approval (CPAA) may be prepared and submitted for approval with the formal Procurement Plan. Approval of the CPAA, in addition to approval of the formal Procurement Plan, would allow award of the contract without further reference to the approval authority if there are no significant changes from the approved CPAA. Without approval of the CPAA, the appropriate Contract Request Form will have to be executed prior to contract award.</li>
 <li>The utilization of the national security exceptions must be documented. Contracting officers must explain clearly in the Sourcing section of the Procurement Plan that the National Security exception is being invoked, specifying each of the trade agreements from which the procurement is being excluded.</li>
 </ol>
-<h5>NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA and AIT</h5>
+<h6>NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA and AIT</h6>
 <p>5.030 (XX/XX/XX) With the introduction of trade agreements like NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA and AIT, the non-competitive approach to the procurement process is limited tendering. Limited tendering is a process which allows deviations from the competitive process including the ability to contact a sole or single supplier or a number of suppliers individually. This in fact means that it is possible to have a competitive procurement within a limited tendering procurement. This concept should be kept in mind when examining the following circumstances (limited tendering reasons) for NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA and AIT. (see 5.031, see 5.032, see 5.033, see 5.036 and see 5.037.). For procurement covered by the CKTEA, the limited tendering rules of the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> are applied (CKTEA, Article 3).</p>
 <p>In procedures 5.031, 5.032, 5.033, 5.036 and 5.037 the applicable Contract Award Process (CAP) Code is included with each of the limited tendering reasons. This was done in order to ensure that the comparable limited tendering reason for each of the agreements (NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA and AIT) will be coded by contracting officers in a consistent manner. Annex 5.3 - Contract Award Process (CAP) Codes illustrates the permissible CAP Codes depending on the type of solicitation chosen for the particular procurement.</p>
 <p>"...limited tendering procedures are not used with a view to avoiding maximum possible competition or in a manner that would constitute a means of discrimination between suppliers of the other Parties or protection of domestic suppliers." (NAFTA Agreement, Article 1016,1.)</p>
@@ -413,7 +413,7 @@
 <p>For these requirements, source lists may be appropriate.</p>
 </li>
 </ol>
-<h5>NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA and AIT Tendering Approaches</h5>
+<h6>NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA and AIT Tendering Approaches</h6>
 <p>5.050 (XX/XX/XX) For procurements under NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA or AIT, there are three tendering approaches.</p>
 <ol type="a">
 <li>Open Tendering - where a Notice of Proposed Procurement (NPP) is advertised, any individual, firm or other eligible supplier is free to submit a bid.
@@ -429,7 +429,7 @@
 <p>*A permanent list of suppliers is a source list.</p>
 </li>
 </ol>
-<h5>CKTEA</h5>
+<h6>CKTEA</h6>
 <p>5.067 (NEW) (XX/XX/XX) The CKTEA is an international trade agreement signed by the Government of the Republic of Korea and the Government of Canada covering the procurement of telecommunications equipment (see 4.011). Any questions on application of the CKTEA should be directed to the Strategic Policy Directorate (SPD), at telephone number 956-6497.</p>
 <p>5.068 (<strong>NEW</strong>) (XX/XX/XX) Under the CKTEA, a Covered Good is defined as:</p>
 <ul>
@@ -456,7 +456,7 @@
 </li>
 </ol>
 <p>5.069 (XX/XX/X) The bidder will certify Canadian and/or Korean content by signing a statement that the products offered meet the definition of Canadian and/or Korean Goods and Services. The certification forms are contained in the Standard Acquisition Clauses and Conditions (SACC) Manual under clause numbers K5001T, K5002T, K5003T, K5004T, K5005 and K5006T.</p>
-<h5>Canadian Content Policy</h5>
+<h6>Canadian Content Policy</h6>
 <p>5.071 (XX/XX/XX) The Canadian Content Policy applies to competitive procurements, publicly advertised, with an estimated value of $25,000 or more, except for the following:</p>
 <ol type="a">
 <li>government procurements subject to the NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> or CKTEA;</li>
@@ -464,18 +464,18 @@
 <li>procurements made by Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>) Supply Operations Offices located outside Canada; and</li>
 <li>Cabinet-mandated Sourcing, including Sourcing Relating to Shipbuilding, Ship Repair, Refit and Mid-Life Modernization</li>
 </ol>
-<h5>Procurement Review for Socio-Economic Benefits</h5>
+<h6>Procurement Review for Socio-Economic Benefits</h6>
 <p>5.094 (XX/XX/XX) The PSC divides procurements into the following categories:</p>
 <p>A. <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>/NAFTA/CKTEA requirements</p>
 <p>G. All other including requirements subject to AIT with the following exceptions: Foreign Military Sales, Security Services, Temporary Help Services, procurements under the Munitions Supply Program and requirements subject to the Shipbuilding Policy.</p>
 <p>Cases for detailed review by the PRC are normally selected from Category G. Although the PRC does not review procurements that are subject to <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> NAFTA and CKTEA , these must still be screened by the PSC.</p>
-<h5>Shipbuilding, Repair, Refit and Modernization</h5>
+<h6>Shipbuilding, Repair, Refit and Modernization</h6>
 <p>5.104 (XX/XX/XX) The <acronym title="Public Works and Government Services Canada">PWGSC</acronym> procedures for sourcing suppliers for work on Canadian government vessels derive from the government's Shipbuilding Procurement Policy. The objective of the policy is to encourage competition amongst Canadian shipyards. For all competitive shipbuilding requirements as defined in the Shipbuilding Procurement Policy, subject to AIT, contracting officers must ensure that the details of the restrictions or practices are highlighted in the Notice of Proposed Procurement (NPP)/solicitation documentation.</p>
 <p>The NPP/solicitation documentation must contain the following statement:</p>
 <p>"The sourcing strategy relating to this procurement will be limited to suppliers in the (as applicable) Region of Origin or the (as applicable) Area of Origin in accordance with the Shipbuilding Procurement Policy."</p>
 <p>For procurements below $2 million subject to the Shipbuilding Procurement Policy, the CAN must also contain these details.</p>
 <p>The following procedures (5.105 to 5.110) apply only when the procurement is not subject to NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> or CKTEA. NAFTA Chapter 10, Annex 1001.2b, paragraph 1.(a) and <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> Annex 4 exempts "shipbuilding and repair". The CKTEA covers telecommunications equipment.</p>
-<h5>Employment Equity</h5>
+<h6>Employment Equity</h6>
 <p>5.112 (XX/XX/XX) The eligibility of suppliers to bid on procurement opportunities may be limited by the Federal Contractors Program for Employment Equity. Contracts for requirements for goods and services valued at $200,000 or more must be awarded to vendors who:</p>
 <ol type="a">
 <li>have signed the Certificate of Commitment;</li>
@@ -490,20 +490,20 @@
 					Gatineau, Québec K1A 0J2</p>
 <p>OR fax at 613-953-8768.</p>
 <p>For requirements falling under the scope of NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> or CKTEA, the employment equity requirements only apply to vendors operating under Canadian jurisdiction</p>
-<h5>Supplier Qualifications</h5>
+<h6>Supplier Qualifications</h6>
 <p>5.116 (XX/XX/XX) Suppliers to the Canadian government must demonstrate to the satisfaction of the Canadian government that they have the legal, technical, financial and management competence to discharge the contract. The eligibility of suppliers to bid may be restricted by requiring bidders to meet pre-established qualification criteria. (See Section 6B)</p>
 <p>For procurements subject to NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA or any combinations of these agreements, interested potential bidders who do not meet such a specified standard must be able to apply for the qualification after the notice of procurement is advertised, and the process of qualification must be started promptly. No discrimination between foreign suppliers or between domestic or foreign suppliers shall be made when establishing qualification criteria.</p>
 <p>A particular area for attention is personnel security screening and/or organization's security clearance, where, due to the time it can take to process such requirements, it may be necessary to stipulate appropriate security screening requirements as a mandatory element of bids. (See 6C.270 and 7E.540)</p>
-<h5>Request for Proposal</h5>
+<h6>Request for Proposal</h6>
 <p>5.144 (XX/XX/XX) The preparation of proposals is often costly to industry. To keep the total cost to industry down while ensuring freedom of access to potential suppliers, consideration should be given to soliciting proposals in two steps.</p>
 <p>During the first step of this process, suppliers are requested to provide letters of interest and qualifications, from which a short list is developed. During the second step, suppliers on the short list are requested to submit detailed proposals.</p>
 <p>Suppliers not included on the short list can request the RFP and submit proposals.</p>
 <p>Such a process might be appropriate where many potential suppliers are known. Contracting officers should note, however, the special procedures required under NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> and CKTEA for selective tendering.</p>
-<h5>Standing Offer Forms</h5>
+<h6>Standing Offer Forms</h6>
 <p>5.160 (XX/XX/XX) The process of preparing an SO is subject to normal contracting policies and procedures including NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA, AIT, or the involvement of the PRC, where appropriate. For the purposes of internal review, approval and quality control only, SOs are approved and signed at the same level of authority as contracts.</p>
-<h4>Annex 5.3: CONTRACT AWARD PROCESS (CAP) CODES</h4>
+<h5>Annex 5.3: CONTRACT AWARD PROCESS (CAP) CODES</h5>
 <p>Listed below are the Solicitation Types, the permissible Contract Award Process (CAP) Codes and the reason for using a particular CAP Code. (Revised 01/01/96)</p>
-<h5>SOLICITATION TYPES</h5>
+<h6>SOLICITATION TYPES</h6>
 <p>N = North American Free Trade Agreement (NAFTA) <br/>
 					W = World Trade Organization - Agreement on Government Procurement (<acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>) <br/>
 					CK = Canada-Korea Agreement on the Procurement of Telecommunications Equipment <br/>
@@ -577,12 +577,12 @@
 <p>CAP CODE: 90<br/>
 					Solicitation Type: I</p>
 <p>Protection of human, animal, or plant life or health under AIT Article 506.11 (e)</p>
-<h4>SECTION 6B: DEFINING THE REQUIREMENT</h4>
+<h5>SECTION 6B: DEFINING THE REQUIREMENT</h5>
 <p>6B.090 (XX/XX/XX) A bid solicitation should not specify a product with no substitute. The salient physical, functional or other characteristics essential to the client's needs should be stated. Products known to be equivalent to a "brand name" can also be cited, but caution must be exercised to ensure that there is no conflict between the brand names specified and the description provided.</p>
 <p>For procurement subject to either the North American Free Trade Agreement (NAFTA), World Trade Organization - Agreement on Government Procurement (<acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>) or the Canada - Korea Procurement of Telecommunications Equipment Agreement (CKTEA), technical specifications shall not require or refer to a particular trademark or name, patent, design or type, specific origin or producer or supplier, unless there is no sufficiently precise or intelligible way of otherwise describing the procurement requirements and provided that, in such cases, words such as "or equivalent" are included in the bid documentation.</p>
 <p>6B.144 (XX/XX/XX) Where there is no alternative to specifying a product with no substitute, the solicitation should whenever possible include provision for equivalent products, and the criteria that will be used to determine equivalency.</p>
 <p>For procurements subject to NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA or AIT, provision for equivalent products must be made.</p>
-<h5>Economic Price Adjustments in Firm Price Contracts</h5>
+<h6>Economic Price Adjustments in Firm Price Contracts</h6>
 <p>6C.297 (XX/XX/XX) Under unstable market conditions, one or more elements of the cost of a good or service may be subject to significant fluctuations in price so that neither the buyer nor the seller would have confidence in accepting a fixed or firm price over an extended period of time. Contracting officers should seek to reduce the risk of uncertainty.</p>
 <p>Economic price adjustments should not normally be included in contracts with delivery schedules of less than 12 months, or contracts valued under $100,000.</p>
 <p>There are a number of possible actions:</p>
@@ -596,7 +596,7 @@
 <li>procuring the unstable element separately (in the construction industry, this technique is known as pretendering);</li>
 <li>isolating the unstable element in pricing the work and providing for price adjustment, both upward and downward, on it alone, in accordance with a reliable predetermined formula such as an established economic index.</li>
 </ul>
-<h5>Transportation Charges</h5>
+<h6>Transportation Charges</h6>
 <p>6E.621 (XX/XX/XX) All goods requirements with an estimated expenditure of $25,000 (including GST/HST) or more, and with transportation charges exceeding $1,500 are subject to a detailed analysis of such charges by the Traffic Management Directorate, with the following exceptions:</p>
 <ol type="a">
 <li>contracts for repair and overhaul, development, engineering services, technical studies and tooling;</li>
@@ -613,34 +613,34 @@
 <li>procurements covered by NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> or the CKTEA unless a non-competitive process under one of the Limited Tendering reasons in the Agreement is used.</li>
 </ol>
 <p>6E.663 (XX/XX/XX) The Procurement Plan must include the following elements:</p>
-<h5>DESCRIPTION</h5>
+<h6>DESCRIPTION</h6>
 <p>Give a brief description of the requirement.</p>
-<h5>ESTIMATED COST AND NAME OF CLIENT</h5>
-<h5>ANTICIPATED CONTRACT APPROVAL AUTHORITY REQUIRED</h5>
-<h5>SOURCING</h5>
+<h6>ESTIMATED COST AND NAME OF CLIENT</h6>
+<h6>ANTICIPATED CONTRACT APPROVAL AUTHORITY REQUIRED</h6>
+<h6>SOURCING</h6>
 <p>Identify applicable trade agreements (NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA, AIT and CLCAs) and any significant policies governing sourcing decisions (Set-aside Program for Aboriginal Business; Canadian Content; Transportation Equalization Program; Shipbuilding, Repair, Refit and Modernization, etc.)</p>
 <p>Explain the sourcing strategy i.e. GETS, GBO, other public advertising, source lists (one time, ongoing).</p>
 <p>Substantiate any decision to go sole source.</p>
-<h5>POLICY ISSUES</h5>
+<h6>POLICY ISSUES</h6>
 <p>Attach relevant Procurement Strategy Committee/Procurement Review Committee documents (see 5.090).</p>
 <p>Identify any other relevant socio-economic considerations.</p>
 <p>Outline any special or unusual aspects of the procurement.</p>
 <p>Recommend a course of action to resolve or handle any problems involving potential major risks or deviations from sourcing policy or other <acronym title="Public Works and Government Services Canada">PWGSC</acronym> policy. Where there are major risks inherent in the proposed approach, they must be examined in consultation with <acronym title="Public Works and Government Services Canada">PWGSC</acronym> financial and legal officers.</p>
-<h5>EVALUATION CRITERIA</h5>
+<h6>EVALUATION CRITERIA</h6>
 <p>Identify the evaluation criteria and the selection method to be used with any bid solicitation, including pricing basis, point rating or mandatory/desirable criteria for the technical evaluation.</p>
-<h5>MILESTONES</h5>
+<h6>MILESTONES</h6>
 <p>Give target dates for important milestones (e.g. bid solicitation, contract award, delivery schedule).</p>
-<h5>ADDITIONAL COMMENTS</h5>
+<h6>ADDITIONAL COMMENTS</h6>
 <p>Include any information that should be brought to the approval authority's attention.</p>
-<h5>CONTRACTING OFFICER</h5>
+<h6>CONTRACTING OFFICER</h6>
 <p>State the name, sector/region, division and telephone number of the officer responsible for the project.</p>
-<h5>COMMENTS</h5>
+<h6>COMMENTS</h6>
 <p>Leave two or three lines for comments by the approval authority.</p>
-<h4>Annex 6.1.8: CONTRACT APPROVAL AND SIGNING AUTHORITIES IN SUPPORT OF CLIENTS' PROGRAMS ONLY - OTHER THAN FOR CANADIAN COMMERCIAL CORPORATION</h4>
-<h4>4. Limited Tendering Reasons</h4>
+<h5>Annex 6.1.8: CONTRACT APPROVAL AND SIGNING AUTHORITIES IN SUPPORT OF CLIENTS' PROGRAMS ONLY - OTHER THAN FOR CANADIAN COMMERCIAL CORPORATION</h5>
+<h5>4. Limited Tendering Reasons</h5>
 <p>4.1 A new information field entitled Limited Tendering Reasons has been added after the "Non-competitive" field, to identify reasons for pursuing a non-competitive or limited competition procurement. This field will be used to identify one of the 15 Limited Tendering Reasons detailed in <strong>Annex B.</strong></p>
 <p>Architectural and engineering services requirements that were previously identified as being sourced using SPEC (Selection, Prequalification and Evaluation of Consultants) will now be identified as Limited Tendering Reason # 85, which makes reference to the TB Exception to the requirement to solicit bids for A&amp;ES that do not exceed $100,000 (TB Contracting Policy, Ref. 10.2.1 (b)).</p>
-<h4>Annex B</h4>
+<h5>Annex B</h5>
 <table class="basic">
 <caption>
 					LIMITED TENDERING REASONS<br/>
@@ -768,7 +768,7 @@
 <td headers="reference">TB Man. 10.2.1 (b)</td>
 </tr>
 </tbody></table>
-<h5>CKTEA</h5>
+<h6>CKTEA</h6>
 <p>(Note: Special procedures only apply to procurement covered by the CKTEA, but not by the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>)</p>
 <p>7A.006 (XX/XX/XX) When requirements consist of more than one good, the certification for Canadian and/or Korean content can be done in the following ways:</p>
 <ol type="a">
@@ -785,7 +785,7 @@
 <p>Solely Limited, per procedure 7A.007 a);</p>
 <p>Conditionally Limited, per procedure 7A.007 b); or,</p>
 <p>Open, per procedures 7A.007 c).</p>
-<h5>Publicly Advertised Procurement</h5>
+<h6>Publicly Advertised Procurement</h6>
 <p>7B.160 (XX/XX/XX) Public advertising using the Government Electronic Tendering Service (GETS) is Public Works and Government Services Canada's (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>) preferred notification process for competitive procurements. Procedures 5.047 and 5.048 identify when a different notification method may be considered .</p>
 <p>The GETS is the only recognized medium for public advertising under the Agreement on Internal Trade (AIT) and Canada -Korea Procurement of Telecommunications Equipment Agreement (CKTEA), whereas the GETS and the Government Business Opportunities (GBO) are the recognized media under the North American Free Trade Agreement (NAFTA), and the World Trade Organization - Agreement on Government Procurement (WTO-AGP). All Notices of Proposed Procurement (NPPs) for CKTEA and AIT procurements must be advertised on the GETS and all NPPs for NAFTA and/or <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> procurements must be simultaneously advertised on both the GETS and in the GBO. Contracting officers must indicate in the NPP which agreement or agreements apply, using the Agreement Type Code.</p>
 <p>For those contracting officers not on the Automated Buyer Environment (ABE) system, the following statements must be typed in manually, for all requirements, as part of the NPP or Advance Contract Award Notice (ACAN):</p>
@@ -796,7 +796,7 @@
 <p>For NAFTA and/or <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> procurements, the commencement of the publishing period must coincide with the publication of the notice in the GBO. Therefore, the publication of any notice on the GETS will be delayed as necessary to coincide with its publication in the GBO. The GBO is published on Tuesdays and Fridays, and the processing of a GBO notice will generally take up to 5 days.</p>
 <p>7B.186 (XX/XX/XX) MERX returns a confirmation of postings to <acronym title="Public Works and Government Services Canada">PWGSC</acronym>, on a daily basis. GTIS, upon receipt of the daily feed from MERX, puts the confirmations in a "readable" format and then arranges for the dissemination of this information to each area of procurement, for further distribution to each contracting officer. (See 7B.192)</p>
 <p>With the exception of procurements subject to NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA and AIT, contracting officers may send a copy of the NPP to suppliers when it is considered necessary to ensure adequate competition. However, these suppliers are still required to purchase the solicitation documents from MERX. A covering letter should also be sent to suppliers. (See Annex 7.6 for samples.)</p>
-<h5>Determining the Bidding Period</h5>
+<h6>Determining the Bidding Period</h6>
 <p>7B.211 (XX/XX/XX) For procurements that are not subject to NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> or the CKTEA, (whether publicly advertised or not) the bidding period should not be less than fifteen (15) calendar days either from the date the requirement is posted publicly or, in the case of procurements not publicly advertised, from the date the bid solicitations are released.</p>
 <p>When notices are advertised in more than one public medium (i.e. GETS and other public media) every effort should be made to ensure that the notices appear concurrently. Notices for procurements subject to NAFTA and/or <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> must be posted simultaneously on GETS and in the GBO for the specified minimum periods. (See 7B.183)</p>
 <p>A decision to reduce the prescribed bidding period is a business decision made by the contracting officer, dependent on the circumstances of the procurement and the established minimum periods. The contracting officer must ensure that there is sufficient documented support for the decision.</p>
@@ -814,11 +814,11 @@
 <li>10 calendar days when a state of urgency can be substantiated.</li>
 </ul>
 <p>NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> and the CKTEA specify minimum publication periods. Operational Policy Directorate can assist in determining whether a proposed reduction to the minimum bid period is within the provisions of the agreements. At that point, the business decision as to how much the bid period is to be reduced is to be made by the contracting officer.</p>
-<h5>Changes to a Bid Solicitation</h5>
+<h6>Changes to a Bid Solicitation</h6>
 <p>7C.256 (XX/XX/XX) A decision to extend the bidding period beyond the initially established closing date is a business decision that can be made by the contracting officer, based on the circumstances of the particular procurement. It may be possible to process an extension of the bidding period in a relatively short time frame (more or less 24 hours) where bids have been invited using source lists, or where the publicly advertised procurement is not subject to NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> or the CKTEA. However, since all notices related to publicly advertised solicitations subject to NAFTA and the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> must be published in the Government Business Opportunities (GBO) at the same time as it is published in GETS, the posting of such notices will be delayed until the GBO is ready for publication, which generally takes five (5) working days.</p>
-<h5>Canadian Content</h5>
-<h5>CKTEA</h5>
-<h5>Certification of the Bid</h5>
+<h6>Canadian Content</h6>
+<h6>CKTEA</h6>
+<h6>Certification of the Bid</h6>
 <p>7D.361 (XX/XX/XX) When requirements consist of more than one good, the evaluation of certification under the special procedures of the CKTEA can be done the following ways:</p>
 <ol type="a">
 <li>Aggregate: a minimum of 60 percent of the total bid price must consist of Canadian and/or Korean goods; or,</li>
@@ -828,7 +828,7 @@
 <p>An incidental service is any service that is included in a tender for the procurement of a Covered Good under this Agreement.</p>
 <p>A service provided by an individual based in Canada or Korea is considered a Canadian or Korean service, respectively. Where a requirement consists of only one service, which is being provided by more than one individual, the service will be considered Canadian or Korean if a minimum of 60 percent of the total bid price for the service is provided by individuals based in Canada or Korea respectively.</p>
 <p>A bid can be accepted in part without resubmission of a certification.</p>
-<h5>Application of the Special Procedures under the CKTEA</h5>
+<h6>Application of the Special Procedures under the CKTEA</h6>
 <p>(Note: When a procurement is covered by both the CKTEA and the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, the procedures under the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> are followed.)</p>
 <p>7D.362 (XX/XX/XX) Bids to which the special procedures under the CKTEA apply, will be evaluated as follows:</p>
 <ol type="a">
@@ -837,7 +837,7 @@
 </ol>
 <p>7D.363 (XX/XX/XX) The onus is on the supplier to demonstrate that its bid meets the definition of Canadian and/or Korean goods and services. The supplier must execute and submit the certification form with bid (see 5.069). When the Standard Acquisition Clauses and Conditions (SACC) Manual clauses K5003T, K5004T, K5005T or K5006T (Individual Item Evaluation) are used, the supplier must clearly identify the status of each individual product.</p>
 <p><acronym title="Public Works and Government Services Canada">PWGSC</acronym> may verify the validity of the certification. If the certification is found to be invalid, then the offered goods or services are deemed not to meet the definition of Canadian or Korean under the CKTEA. Verification of the certification shall in no way alter the price quoted or any substantive element of the bid.</p>
-<h5>Negotiations</h5>
+<h6>Negotiations</h6>
 <p>7D.449 (XX/XX/XX) For all procurements that are subject to the North American Free Trade Agreement (NAFTA), the World Trade Organization - Agreement on Government Procurements (<acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>), or the Canada - Korea Procurement of Telecommuniations Equipment Agreement (CKTEA), the contracting officer may only enter into negotiations if one of the two conditions specified in NAFTA or the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> is present; conditions under the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> apply to CKTEA-covered procurement). Negotiations must proceed in accordance with the steps outlined in these agreements. (Refer to NAFTA, Article 1014 (<a href="http://www.dfait-maeci.gc.ca/nafta-alena/chap10-e.asp#Section" rel="external">http://www.dfait-maeci.gc.ca/nafta-alena/chap10-e.asp#Section</a> B); or <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, Article XIV (<a href="http://www.wto.org/english/tratop_e/gproc_e/agrmnt_e.htm#Article" rel="external">http://www.wto.org/english/tratop_e/gproc_e/agrmnt_e.htm#Article</a> XIV), as appropriate. When both agreements apply, refer to NAFTA Article 1014.)</p>
 <p>7D.450 (XX/XX/XX) For procurements that are not subject to NAFTA, the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> or the CKTEA,</p>
 <ol type="a">
@@ -851,10 +851,10 @@
 <li>when an Invitation to Tender (ITT) was used, where there is more than one responsive bid, but neither the lowest bid nor the other bids represent fair value, the contracting officer must have determined before considering entering into negotiations, that it would not be more effective to cancel the solicitation and meet the requirement using another supply method. When urgency is a major factor, the results of the original ITT might be capable of being used as the basis for entering into negotiations with bidders;</li>
 <li>when an RFQ was used, negotiations should be avoided, with the exception that some negotiations may be necessary if the requirement was not adequately defined originally.</li>
 </ol>
-<h5>Bypassing a Supplier</h5>
+<h6>Bypassing a Supplier</h6>
 <p>7D.455 (XX/XX/XX) If it is proposed to bypass the supplier who would be awarded a contract based on the published evaluation criteria and selection method, approval to enter into the proposed contract must be sought at the appropriate non-competitive level. The award must be fully justified and documented on file.</p>
 <p>This procedure is not permitted for procurements subject to NAFTA, the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA or the Agreement on Internal Trade (AIT). For example, NAFTA Article 1015, 4 (c) states that "unless the entity decides in the public interest not to award the contract, the entity shall make the award to the supplier that has been determined to be fully capable of undertaking the contract and whose tender is either the lowest-priced tender or the tender determined to be the most advantageous in terms of the specific evaluation criteria set out in the notices or tender documentation." Provisions with the same effect exist in the other two agreements.</p>
-<h5>Cancelling and Reissuing a Bid Solicitation</h5>
+<h6>Cancelling and Reissuing a Bid Solicitation</h6>
 <p>7D.468 (XX/XX/XX) Contracting officers may reissue a bid solicitation, with the approval of the director (headquarters)/manager (regions) or above, where:</p>
 <ol type="a">
 <li>a significant change has occurred in a requirement before a contract is awarded;</li>
@@ -863,34 +863,34 @@
 </ol>
 <p>For procurements that are subject to NAFTA, the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA or the AIT, when there are no responsive bidders or the procurement is substantially modified, the bid solicitation must be cancelled.</p>
 <p>Contracting officers may reissue a bid solicitation, with the approval of the manager (headquarters)/division chief (regions) or above, where no bids were received in response to a competitive solicitation.</p>
-<h5>Forms of Contract Award</h5>
+<h6>Forms of Contract Award</h6>
 <p>7E.502 (<strong>NEW</strong>) (XX/XX/XX) Contracts awarded on the basis of the bid having met the definition of Canadian or Korean content under the CKTEA will include SACC Manual clause K5100C.</p>
 <p>7E.503 (XX/XX/XX) Contracts awarded on the basis of the bid having met the definition of Canadian content under the Canadian Content Policy will include SACC Manual clause K4100C.</p>
-<h5>Posting of Award Notices</h5>
+<h6>Posting of Award Notices</h6>
 <p>7F.718 (XX/XX/XX) For procurements that are subject to, NAFTA and <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, an Award Notice must be published on the GETS as well as in the Government Business Opportunity within seventy-two (72) days of awarding the contract. For procurements that are subject to the CKTEA, an Award Notice must be published on the GETS within seventy-two (72) days of awarding the contract. Although there are no minimum time periods identified for the AIT, the seventy-two (72)-day limit applies for reasons of consistency.</p>
 <p>Award notices are generated by ABE and sent to MERX once the contracting officer releases the procurement summary with the electronic coding sheet. An Award Notice will be generated for all solicitations that have been publicly advertised on MERX, regardless of the value of the resultant contract.</p>
-<h4>Annex 7.7</h4>
-<h5>REMARKS</h5>
+<h5>Annex 7.7</h5>
+<h6>REMARKS</h6>
 <p>23. If deviations from the provisions of the World Trade Organization - Agreement on Government Procurement (<acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>), the North American Free Trade Agreement (NAFTA), the Canada - Korea Procurement of Telecommunications Equipment Agreement (CKTEA) or the Agreement on Internal Trade (AIT) are recommended, provide reasons for the deviation.</p>
-<h5>Advance Contract Award Notice</h5>
+<h6>Advance Contract Award Notice</h6>
 <p>8.017 (XX/XX/XX) ACANs shall be posted for a minimum of fifteen (15) calendar-days on GETS. Where the procurement is subject to either the NAFTA or the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, the fifteen (15) calendar days shall commence on the date the ACAN is published in the GBO. For procurements covered by the CKTEA and the Agreement on Internal Trade, the publishing period commences with the publication of the ACAN on the GETS. (See 7B.183)</p>
 <p>If there are no challenges within this fifteen (15) calendar-day period, the contracting officer may proceed with the award.</p>
 <p>Notwithstanding the above, when a Statement of Capabilities is received after the specified date but before the award of the contract, the contracting officer must nevertheless consider the statement of capabilities prior to proceeding with the procurement. To do otherwise would contravene the Government Contracts Regulations.</p>
-<h4>SECTION 9A: PURCHASES FROM CORRECTIONAL SERVICES CANADA</h4>
+<h5>SECTION 9A: PURCHASES FROM CORRECTIONAL SERVICES CANADA</h5>
 <p>9A.4 (XX/XX/XX) Article 1018 2(d) of the North America Free Trade Agreement (NAFTA) allows for the exemption of procurements relating to goods or services of prison labour. A similar provision exists in the World Trade Organization - Agreement on Government Procurement (WTO-AGP), and the Canada - Korea Procurement of Telecommunications Equipment Agreement (CKTEA) and in the Agreement on Internal Trade (AIT), Article 507 (c).</p>
-<h4>SECTION 9B: UNITED STATES FOREIGN MILITARY SALES</h4>
+<h5>SECTION 9B: UNITED STATES FOREIGN MILITARY SALES</h5>
 <p>9B.13 (XX/XX/XX) <acronym title="Public Works and Government Services Canada">PWGSC</acronym> headquarters shall determine, before procurement through FMS is initiated, whether the provisions of the North American Free Trade Agreement (NAFTA), the World Trade Organization - Agreement on Government Procurement (WTO-AGP) or the Canada - Korea Procurement of Telecommunications Equipment Agreement (CKTEA) apply and shall take action accordingly. When these provisions do not apply, <acronym title="Public Works and Government Services Canada">PWGSC</acronym> shall determine whether there is an existing or potential source of supply in Canada and after consultations with DND, or any other client, shall establish whether in the circumstances, it would be more advantageous for the Government of Canada to procure in Canada or directly from the original equipment manufacturer in the U.S. or from the U.S. DOD.</p>
 <p>9B.16 (XX/XX/XX) <acronym title="Public Works and Government Services Canada">PWGSC</acronym> contracting officers shall determine the price and availability of material, which is reported by DND to be available through FMS/Defined Order and Blanket Cases and when the procurement in question is not subject to the procurement provisions of NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, or CKTEA.</p>
-<h4>SECTION 9D: DEFENCE INDUSTRY PRODUCTIVITY PROGRAM CONTRIBUTION</h4>
-<h5>AGREEMENT SERVICES</h5>
+<h5>SECTION 9D: DEFENCE INDUSTRY PRODUCTIVITY PROGRAM CONTRIBUTION</h5>
+<h6>AGREEMENT SERVICES</h6>
 <p>9D.1 (XX/XX/XX) Public Works and Government Services Canada (<acronym title="Public Works and Government Services Canada">PWGSC</acronym>) provides services relating to the preparation and management of contribution agreements for Defence Industry Productivity Program (DIPP) projects in accordance with the terms of the Memorandum of Agreement established between <acronym title="Public Works and Government Services Canada">PWGSC</acronym> and Industry Canada (IC) in 1981. Contribution agreements are not subject to the North American Free Trade Agreement (NAFTA), the World Trade Organization - Agreement on Government Procurement (WTO-AGP), the Canada-Korea Procurement of Telecommuniations Equipment Agreement (CKTEA) or the Agreement on Internal Trade (AIT).</p>
-<h4>SECTION 9J: SUPPLY ARRANGEMENTS</h4>
+<h5>SECTION 9J: SUPPLY ARRANGEMENTS</h5>
 <p>9J.2 (XX/XX/XX) Solicitations made under an SA, depending on the circumstances, may be subject to all North American Free Trade Agreement (NAFTA), World Trade Organization - Agreement on Government Procurement (WTO-AGP), the Canada-Korea Procurement of Telecommunications Equipment Agreement (CKTEA) and the Agreement for Internal Trade (AIT) procedures (see Chapter 4). An SA solicitation meeting the NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> and/or CKTEA requirements would be considered Selective Tendering not involving the use of a permanent list of qualified suppliers (see 5.050 (b)) and a solicitation meeting the AIT requirement would be considered as using a source list (see Article 506, AIT). For procurements covered under NAFTA, <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, CKTEA and AIT, the following procedures should be modified, if necessary, to take into account the obligations of the Agreements.</p>
-<h4>SECTION 9L: SET-ASIDE PROGRAM FOR ABORIGINAL BUSINESS - CONDUCTING SET-ASIDE PROCUREMENTS</h4>
+<h5>SECTION 9L: SET-ASIDE PROGRAM FOR ABORIGINAL BUSINESS - CONDUCTING SET-ASIDE PROCUREMENTS</h5>
 <p>9L.050 (XX/XX/XX) Procurements set aside for Aboriginal business are not subject to the provisions of either the North American Free Trade Agreement (NAFTA), Annex 1001.2b, Article 1(d) (<a href="http://www.dfait-maeci.gc.ca/nafta-alena" rel="external">http://www.dfait-maeci.gc.ca/nafta-alena</a><br/>
 					/chap10ac-e.asp#Annex 1001.2b) or World Trade Organization - Agreement on Government Procurement (WTO-AGP), Appendix I, article 1(d) (<a href="http://www.wto.org/english/tratop_e/gproc_e/can-note.doc" rel="external">http://www.wto.org/english/tratop_e/gproc_e/can-note.doc</a>), or the Canada-Korea Procurement of Telecommunications Equipment Agreement (CKTEA), Article 1, part 5 (see Annex 4.2), or Agreement on Internal Trade (AIT), Article 1802 (see Annex 4.7).</p>
 <p>9L.110 (XX/XX/XX) In support of the PSAB, departments may designate that a proportion of subcontracts on projects be reserved for Aboriginal business, or that bidders are to be encouraged through the use of incentives - e.g. additional evaluation points to engage Aboriginal businesses as subcontractors. The inclusion of Aboriginal businesses as subcontractors as an evaluation criterion must be clearly identified in the bid solicitation. This is not permitted for procurements subject to either NAFTA (Article 1006 - Prohibition of Offsets); <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> (Article XVI - Offsets) or CKTEA (Article 3 - Procurement Procedures). (See 9L.050)</p>
-<h4>SECTION 9M: LAND CLAIMS SET-ASIDE POLICY</h4>
+<h5>SECTION 9M: LAND CLAIMS SET-ASIDE POLICY</h5>
 <p>9M.010 (XX/XX/XX) The Land Claims Set-aside Policy establishes procedures for setting aside procurements covered by the North American Free Trade Agreement (NAFTA) and the World Trade Organization - Agreement on Government Procurement (WTO-AGP) that are subject to Comprehensive Land Claims Agreements, National Park Agreements, or Department of National Defence (DND) Co-operation Agreements. For procurement covered by the CKTEA, the procedures for procurement covered by the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> should be followed.</p>
 <p>9M.030 (XX/XX/XX) Determine whether a procurement is covered by both a land claims agreement and NAFTA, the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> and/or the CKTEA. (See 4.002, 4.009, 4.010 and 4.011 Respectively.)</p>
 <p>If a procurement is subject to NAFTA, the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> and/or the CKTEA, and one or more of the land claims agreements, the portion for delivery within the Comprehensive Land Claims Settlement Areas (CLCSA) should be procured separately from the portion for delivery outside of the CLCSA, where this is feasible.</p>
@@ -907,20 +907,20 @@
 <p>9M.060 (XX/XX/XX) Insert the following information (SACC clause A9110T) at the beginning of the bid solicitation document.</p>
 <p>"This procurement is set aside from <span aria-label="Blank placeholder" class="blankline"></span>  (insert as applicable: the North American Free Trade Agreement Annex 1001.2b, Article 1(d); World Trade Organization - Agreement on Government Procurement, Appendix I, article 1(d) or the Canada-Korea Procurement of Telecommunications Equipment Agreement (CKTEA), Article 1, part 5 (see Annex 4.2), and/or Agreement on Internal Trade (AIT), Article 1802 (see Annex 4.7).)</p>
 <p>Insert the applicable SACC clause(s) at the end of the bid solicitation document, but before any annexes or appendices. Refer to the Chart for the list of SACC clauses.</p>
-<h5>Coding</h5>
+<h6>Coding</h6>
 <p>9M.080 (XX/XX/XX) Procurements to which NAFTA, the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym> and/or the CKTEA are applied must be coded accordingly; procurements which were set-aside under this Land Claims Set-Aside Policy must be coded as LCSA and identified as a "set-asides for small and minority businesses" derogation.</p>
 <p>When a procurement has been divided and the same supplier is successful on both solicitations, separate contractual documents must be issued in order to satisfy system coding requirements for the respective agreement types.</p>
-<h5>Audits</h5>
+<h6>Audits</h6>
 <p>11.081 (XX/XX/XX) The authority for discretionary audits results from either the contractual terms, or statute ("Defence Production Act," section 19). If a contracting officer determines that a discretionary audit is required, a request is to be made to the Contractual Costing Services Directorate (CCSD). The cost of discretionary audits will be borne by CCSD.</p>
 <p>Procurement officers may refer any supplier certification of Canadian and/or Korean content to CCSD for audit of compliance to the policy.</p>
-<h4>Chapter 12 - Glossary</h4>
-<h5>Canadian Goods</h5>
+<h5>Chapter 12 - Glossary</h5>
+<h6>Canadian Goods</h6>
 <p>(1) For the purposes of the CKTEA, Canadian goods if it is considered so under Canada's "Determination of Country of Origin for the Purposes of Marking Goods (NAFTA Countries) Regulations". Article 8 of these Regulations, which provides for a NAFTA tariff preference override, cannot be used to determine whether a good is Canadian.</p>
 <p>(2) For the purposes of the Canadian Content Policy. With the exception of goods listed in 5.073, Canadian goods are those wholly manufactured or that originate in Canada or products containing imported components that have undergone sufficient change in Canada to be considered Canadian (See 5.072). (3) For the purposes of Taxes and Duties. Goods that are the growth, produce or manufacture of Canada or which are of foreign origin but are duty and tax paid and have thus been entered for consumption into Canada. (4) Addition to Canadian Goods Abroad. Goods that are exported from Canada for the purpose of being incorporated with foreign articles abroad. (5) Processing of Canadian Goods Abroad. Goods that are exported for a phase of production which cannot be completed in Canada. (XX/XX/XX) (marchandises canadiennes)</p>
-<h5>Procurement Review Committee (PRC)</h5>
+<h6>Procurement Review Committee (PRC)</h6>
 <p>The PRC carries out a detailed review of individual procurements of goods and services over $2M referred by the Procurement Strategy Committee (PSC), and recommends procurement strategies aimed at the achievement of socio-economic benefits. The reviews are conducted within parameters set by the PSC, in a manner that is fully consistent with the Treasury Board Policy on procurement review and subject to Canada's national commitments under the AIT, plus the international commitments under <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, NAFTA, CKTEA and other international trade rights and obligations. While PRC membership may vary slightly, there is core representation from the client, the contracting authority, Treasury Board Secretariat, Finance, Human Resources Development, National Research Council, Industry Canada, Atlantic Canada Opportunities Agency, Western Diversification, Federal Office of Regional Development (Quebec), Department of Indian and Northern Affairs, Environment Canada and International Trade for certain DND requirements. (XX/XX/XX) (Comité d'examen des acquisitions [CEA])</p>
-<h4>Annex 4.2: CANADA-KOREA AGREEMENT ON THE PROCUREMENT OF TELECOMMUNICATIONSEQUIPMENT (CKTEA)</h4>
-<h4>AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF KOREA AND THE GOVERNMENT OF CANADA ON THE PROCUREMENT OF TELECOMMUNICATIONSEQUIPMENT</h4>
+<h5>Annex 4.2: CANADA-KOREA AGREEMENT ON THE PROCUREMENT OF TELECOMMUNICATIONSEQUIPMENT (CKTEA)</h5>
+<h5>AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF KOREA AND THE GOVERNMENT OF CANADA ON THE PROCUREMENT OF TELECOMMUNICATIONSEQUIPMENT</h5>
 <p><strong>THE GOVERNMENT OF THE REPUBLIC OF KOREA</strong> (hereinafter "Korea"), of the one part, and <strong>THE GOVERNMENT OF CANADA</strong> (hereinafter "Canada"), of the other part (hereinafter collectively referred to as the "Parties" and singularly as a "Party"),</p>
 <p><strong>RECOGNIZING</strong> the vital role played by telecommunications services and infrastructures in promoting and sustaining economic growth;</p>
 <p><strong>REAFFIRMING</strong> the Parties' obligations under the World Trade Organization ("WTO") agreements, including the WTO Agreement on Government Procurement (the "AGP"), the Ministerial Declaration on Trade in Information Technology Products (the "ITA") and the WTO Fourth Protocol to the General Agreement on Trade in Services (the "GATS"), also referred to as the WTO Agreement on Basic Telecommunications ("the GBT Agreement");</p>
@@ -929,8 +929,8 @@
 <p><strong>SEEKING</strong> to extend reciprocal, transparent and non-discriminatory access for the Parties' telecommunications equipment manufacturers and service providers to procurement by entities covered by this Agreement; and</p>
 <p><strong>AFFIRMING</strong> that the competitiveness of suppliers and service providers, not government intervention, should be the principal determinant of industrial success and international trade;</p>
 <p><strong>HAVE AGREED</strong> as follows:</p>
-<h4>ARTICLE 1</h4>
-<h5>Objective, Definitions and Scope of the Agreement</h5>
+<h5>ARTICLE 1</h5>
+<h6>Objective, Definitions and Scope of the Agreement</h6>
 <p>1. The purpose of this Agreement is to secure reciprocal, transparent and non-discriminatory access for the Parties' suppliers and service providers to the procurement of goods and incidental services by the entities listed in Annex 1(a) and 1(b) (hereinafter collectively referred to as the "entities" and singularly as an "entity").</p>
 <p>2. For the purpose of this Agreement:</p>
 <ol type="a">
@@ -967,11 +967,11 @@
 <p>- procurement for the Departments of Transport, Fisheries and Oceans, and Communications respecting Federal Supply Classifications 36, 70 and 74.</p>
 </li>
 </ol>
-<h4>ARTICLE 2</h4>
-<h5>Market Access and Principles of Non-discrimination</h5>
+<h5>ARTICLE 2</h5>
+<h6>Market Access and Principles of Non-discrimination</h6>
 <p>With respect to the procurement of goods and incidental services by the entities, each Party shall provide to the goods and incidental services of the other Party, and to the suppliers of such goods and incidental services of the other Party, treatment no less favourable than that accorded to its own goods, incidental services and suppliers, and the goods, incidental services and suppliers of any third country.</p>
-<h4>ARTICLE 3</h4>
-<h5>Procurement Procedures</h5>
+<h5>ARTICLE 3</h5>
+<h6>Procurement Procedures</h6>
 <p>1. Subject to paragraph 2 of this Article, the Parties agree, for the entities' procurement covered by this Agreement, to incorporate into this Agreement by reference the following articles of the AGP, as amended from time to time, <em>mutatis mutandis</em>, except to the extent that the procedures and practices contained therein are modified by this Agreement:</p>
 <ul class="noBullet">
 <li>Article II Valuation of Contracts </li>
@@ -998,11 +998,11 @@
 <li>the private sector telecommunications operators in the territories of the Parties shall not be required or encouraged by the Parties, explicitly or implicitly, to impose, seek or consider offsets.</li>
 </ol>
 <p>4. A Party or an entity of a Party may limit suppliers who qualify to those that can demonstrate that accepting their bid will not result in incompatibility, technical difficulty or disproportionately high costs in the operation and maintenance of the network of the Party or the entity of the Party. Such a limitation of suppliers may not be applied to avoid maximum possible competition or to constitute a means of discriminating against suppliers of the other Party or protecting domestic suppliers.</p>
-<h4>ARTICLE 4</h4>
-<h5>Bid Challenge Procedures</h5>
+<h5>ARTICLE 4</h5>
+<h6>Bid Challenge Procedures</h6>
 <p>With respect to procurement by the entities, the Parties shall provide non- discriminatory, timely, transparent and effective procedures enabling suppliers and service providers to challenge alleged breaches of this Agreement arising in the context of procurement in which they have, or have had, an interest. Consultation and challenge procedures involving the entities and bodies reviewing bid challenges shall include, as a minimum, those procedures set out in Article XX of the AGP, <em>mutatis mutandis</em>. The entities shall normally follow the recommendations of their respective review bodies.</p>
-<h4>ARTICLE 5</h4>
-<h5>Consultations and Dispute Settlement</h5>
+<h5>ARTICLE 5</h5>
+<h6>Consultations and Dispute Settlement</h6>
 <p>1. Unless otherwise mutually agreed, the Parties shall meet no less than once a year to discuss any matter affecting the operation and implementation of this Agreement, including a review of the Annexes to this Agreement, with a view to updating the Annexes to reflect changes in the Parties' telecommunications services and equipment markets, as well as any other issue relating to this Agreement.</p>
 <p>2. Where necessary, either Party may request a consultation to discuss any aspect of this Agreement. When a Party requests consultations on any matter affecting the operation of this Agreement, such consultations shall be held not later than 30 days following the date on which the request is received, unless otherwise mutually agreed by the Parties.</p>
 <p>3. To the extent necessary to ensure effective implementation of this Agreement, the Parties shall, upon the request of either Party, exchange information on legislation, other measures or imminent changes affecting or likely to affect procurement policies or practices of entities covered by this Agreement.</p>
@@ -1010,11 +1010,11 @@
 <p>5. If either Party considers that any benefit accruing to it, directly or indirectly, under this Agreement is being nullified or impaired, it may request consultations under this Article.</p>
 <p>6. In the event of a dispute under this Agreement, the Parties shall endeavour to resolve the dispute by means of consultations within 90 days of the date of the initial request for consultations. The consultation period can be extended upon the mutual agreement of the Parties.</p>
 <p>7. If a dispute is not resolved through consultations between the Parties within 90 days of the date of the initial request for consultations or such other period of time as may be mutually agreed upon, either Party may initiate an arbitration proceeding. The arbitration proceeding shall be initiated and governed according to the Arbitration Procedures set forth in Annex 2 to this Agreement.</p>
-<h4>ARTICLE 6</h4>
-<h5>Application of Other Agreements</h5>
+<h5>ARTICLE 6</h5>
+<h6>Application of Other Agreements</h6>
 <p>The Parties affirm their rights and obligations pursuant to the WTO, the AGP and other multilateral agreements negotiated under the auspices of the WTO. In the event of any inconsistency between this Agreement and any agreement between the Parties other than those multilateral agreements mentioned above, this Agreement shall prevail to the extent of the inconsistency, except as otherwise provided in this Agreement or agreed by the Parties in writing.</p>
-<h4>ARTICLE 7</h4>
-<h5>Final Provisions</h5>
+<h5>ARTICLE 7</h5>
+<h6>Final Provisions</h6>
 <p>1. This Agreement shall enter into force on the first day of the month following the date on which the Parties have notified each other that their implementation process has been completed.</p>
 <p>2. The Parties may agree on any modification of, or addition to, this Agreement, including the updating of the list of the entities of the Parties due to, among other things, a change in the legal status of an entity, by mutual consent.</p>
 <p>3. When so agreed and approved in accordance with the applicable legal procedure of each Party, a modification or addition shall constitute an integral part of this Agreement.</p>
@@ -1023,12 +1023,12 @@
 <p>6. The provisions of this Agreement shall apply to the entities' successors.</p>
 <p><strong>IN WITNESS WHEREOF,</strong> the undersigned, being duly authorized by their respective Governments, have signed this Agreement.</p>
 <p><strong>DONE</strong> in duplicate at Ottawa, this 5th day of July 1999, in the English, French and Korean languages, each text being equally authentic.</p>
-<h4>FOR THE GOVERNMENT OF THE REPUBLIC OF KOREA</h4>
+<h5>FOR THE GOVERNMENT OF THE REPUBLIC OF KOREA</h5>
 <p><span aria-label="Blank placeholder" class="blankline"></span> </p>
-<h4>FOR THE GOVERNMENT OF CANADA</h4>
+<h5>FOR THE GOVERNMENT OF CANADA</h5>
 <p><span aria-label="Blank placeholder" class="blankline"></span> </p>
-<h3>ANNEX 1</h3>
-<h4>ENTITY COVERAGE</h4>
+<h4>ANNEX 1</h4>
+<h5>ENTITY COVERAGE</h5>
 <p><strong>ANNEX 1 </strong>a) - Korea</p>
 <p>Entities which procure in accordance with the provisions of this Agreement</p>
 <p>Korea Telecom (KT)</p>
@@ -1124,24 +1124,24 @@
 <li>Fisheries Prices Support Board </li>
 <li>National Battlefields Commission</li>
 </ul>
-<h3>ANNEX 2</h3>
-<h4>ARBITRATION PROCEDURES</h4>
+<h4>ANNEX 2</h4>
+<h5>ARBITRATION PROCEDURES</h5>
 <p>1. In the event of a dispute under this Agreement which the Parties are unable to resolve within 90 days of the date of the initial request for consultations or such other period of time as may be mutually agreed upon, either Party may initiate an arbitration proceeding, pursuant to Article 5, paragraph 7 of this Agreement. Such proceedings shall be subject to the procedures set out in this Annex.</p>
 <p>2. Within 60 days after receipt of a request for arbitration through diplomatic channels, an arbitral panel shall be constituted by each Party appointing one member to the arbitral panel. The two members shall then select a national of a third party country who, upon approval by the Parties, shall be appointed the Chairman of the arbitral panel. The Chairman shall be appointed within 60 days from the date of appointment of the other two members of the arbitral panel.</p>
 <p>3. If, within the periods specified in paragraph 2 of this Annex, the necessary appointments have not been made, either Party may, in the absence of any other agreement, invite the President of the International Court of Justice to make the necessary appointments. If the President is a national of either Party or is otherwise prevented from discharging the said function, the Vice President shall be invited to make the necessary appointments. If the Vice President is a national of either Party or is prevented from discharging the said function, the Member of the International Court of Justice next in seniority, who is not a national of either Party, shall be invited to make the necessary appointments.</p>
 <p>4. The arbitral panel shall determine its own procedures. The arbitral panel shall reach its decision by a majority of votes. Such decision shall be binding on both Parties. Unless otherwise agreed, the decision of the arbitral panel shall be rendered within 180 days of the appointment of the Chairman in accordance with paragraphs 2 or 3 of this Annex.</p>
 <p>5. Each Party shall bear the costs of its own member of the panel and of its representation in the arbitral proceedings; the costs related to the Chairman and any remaining costs shall be borne equally by the Parties. The arbitral panel may, however, in its decision direct that a higher proportion of costs shall be borne by either of the Parties, and this award shall be binding on both Parties.</p>
 <p>6. The Parties shall implement the panel decision. If either Party cannot agree on the manner for resolution of the dispute, it will notify the other Party within 30 days of the rendering of the panel decision. The non-complying Party may propose compensation or other remedial action to the other Party and to the panel. If the other Party cannot agree to such proposed compensation or other remedial action within 60 days after the rendering of the panel decision, it may propose to the panel the suspension or withdrawal of equivalent benefits under this Agreement. Such suspension or withdrawal shall take effect 30 days after it is proposed, unless the panel disapproves such action; in the latter event, the panel shall make a ruling binding on the Parties respecting suspension or withdrawal of equivalent benefits.</p>
-<h3>ANNEX 3</h3>
-<h4>PUBLICATIONS UTILIZED</h4>
+<h4>ANNEX 3</h4>
+<h5>PUBLICATIONS UTILIZED</h5>
 <p>Korea -</p>
 <p>Major daily newspapers of national circulation</p>
 <p>Planned internet homepage of KT<br/>
 					Contact point: The Quality Assurance and Logistics Support Group of KT</p>
 <p>Canada -</p>
 <p>Government Electronic Tendering System</p>
-<h3>ANNEX 4</h3>
-<h4>ORIGIN OF GOODS AND SERVICES</h4>
+<h4>ANNEX 4</h4>
+<h5>ORIGIN OF GOODS AND SERVICES</h5>
 <p>1. The Parties agree to review their existing non-preferential rules of origin regimes for the purpose of establishing mutually acceptable rules of origin governing the scope of goods subject to this Agreement, as referenced in Article 1.2(a), within 180 days after the signing of this Agreement. In establishing such rules of origin, the Parties shall take into account principles applied in the normal course of international trade, such as the use of changes in tariff classification to reflect substantial transformation.</p>
 <p>2. The Parties agree, for the entities' procurement covered by this Agreement, to incorporate into this Agreement by reference Article IV, paragraph 1 of the AGP.</p>
 <p>3. The Parties agree to examine the results of the work programme for the harmonization of rules of origin for goods currently underway under the Agreement on Rules of Origin in Annex 1A of the WTO Agreement and the negotiations regarding trade in services with the objective of adopting those results as the rules of origin for the purpose of implementing their commitments under this Agreement.</p>
@@ -1149,12 +1149,12 @@
 <p>5. Incidental services shall be deemed to originate in the territory of a Party if at least 50% of the value of such incidental services is provided by a person or persons of that Party.</p>
 <p>6. For the purposes of this Agreement, "person" has the same meaning as in Article XXVIII of the GATS.</p>
 <p>7. If a Party or an entity of a Party is unable to verify the origin of goods or services tendered in a procurement subject to this Agreement, pursuant to the rules of origin established by the Parties under this Annex, that Party or the entity of that Party may refuse to consider the tender.</p>
-<h3>NEW Annex 4.3: TREASURY BOARD POLICY IMPLEMENTING THE CKTEA</h3>
-<h4>POLICY IMPLEMENTING THEAGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF KOREA AND THE GOVERNMENT OF CANADAON THE PROCUREMENT OF TELECOMMUNICATIONS EQUIPMENT</h4>
-<h5>Purpose</h5>
+<h4>NEW Annex 4.3: TREASURY BOARD POLICY IMPLEMENTING THE CKTEA</h4>
+<h5>POLICY IMPLEMENTING THEAGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF KOREA AND THE GOVERNMENT OF CANADAON THE PROCUREMENT OF TELECOMMUNICATIONS EQUIPMENT</h5>
+<h6>Purpose</h6>
 <p>This policy describes how to implement the Agreement, dated July 5, 1999, between the Government of the Republic of Korea (Korea) and the Government of Canada (Canada) on the Procurement of Telecommunications Equipment (KC Telecom Agreement).</p>
 <p>The purpose of the KC Telecom Agreement is to secure reciprocal, transparent and non discriminatory access for Canadian and Korean suppliers and service providers to opportunities for the procurement of goods and incidental services required by the entities specified in Annex 1 of the KC Telecom Agreement.</p>
-<h5>Product Coverage</h5>
+<h6>Product Coverage</h6>
 <p>Under the KC Telecom Agreement, a Covered Good is defined as:</p>
 <p>iii)telecommunications (wireline and wireless) equipment and materials originating in the territories of Canada and Korea that are components of telecommunications networks, including switching, transmission, access and terminal equipment, or that are used in the development, configuration, installation, operation, maintenance, repair and management of telecommunications networks; and</p>
 <p>iv)research and development equipment, testing and measurement equipment and training equipment that are <strong>included in a tender</strong> for the procurement of telecommunications equipment and materials covered by the KC Telecom Agreement.</p>
@@ -1164,7 +1164,7 @@
 					N5820020 to <br/>
 					N5820700 Radio Transmitters, Receivers and Transceivers</p>
 <p>Other categories of FSC 58 may also be covered by the KC Telecom Agreement if the good could be considered a Covered Good as defined above. With the exception of items listed under FSC 58, procurement which may be considered procurement of a Covered Good in accordance with the above definition is also covered by the World Trade Organization Agreement on Government Procurement (WTOAGP). Procurement covered by both Agreements should follow procedures set out for the WTOAGP, as Canada has committed through the WTOAGP to open these procurements to Korea and the other WTOAGP members.</p>
-<h5>Implementation Procedures</h5>
+<h6>Implementation Procedures</h6>
 <p>The KC Telecom Agreement applies to any laws, regulations, procedures or practices of Korea and Canada relating to procurement:</p>
 <p>(d)by entities listed in Annex 1(a) in the case of Korea and in Annex 1(b) in the case of Canada;</p>
 <p>(e)of goods and incidental services; and</p>
@@ -1173,7 +1173,7 @@
 <p>(g)procurement of goods and services with a view to commercial resale or use in the production of goods for commercial sale;</p>
 <p>(h)procurement in respect of setasides for small and minority businesses; and,</p>
 <p id="PN-54rt2">(i)procurement for the Canadian Departments of Transport, Fisheries and Oceans, and Communications respecting Federal Supply Classifications (FSC) 36, 70 and 74 <sup><a href="#PN-54note2" title="For more information, see footnote 2">2</a></sup>.</p>
-<h5>Definitions</h5>
+<h6>Definitions</h6>
 <p>For the purpose of the KC Telecom Agreement:</p>
 <p>(j)A good is considered a Canadian or Korean Good, for the purpose of this Policy only, if it is considered so under Canada's "Determination of Country of Origin for the Purposes of Marking Goods (NAFTA Countries) Regulations". Article 8 of these Regulations, which provides for a NAFTA tariff preference override, cannot be used to determine whether a good is Canadian.</p>
 <p>(k)"Incidental Service" means any service that is included in a tender for the procurement of a Covered Good under this Agreement.</p>
@@ -1181,7 +1181,7 @@
 <p>(l)"Territory" means:</p>
 <p>iii)with respect to Korea, the territory of Korea as well as those maritime areas, including the seabed and subsoil adjacent to the outer limit of the territorial areas over which Korea exercises, in accordance with international law, sovereign rights or jurisdiction for the purpose of exploration and exploitation of natural resources of such areas.</p>
 <p>iv)with respect to Canada, the territory to which its customs laws apply, including any areas beyond the territorial seas of Canada within which, in accordance with international law and its domestic laws, Canada may exercise rights with respect to the seabed and subsoil and their natural resources.</p>
-<h5>Procurement Procedures</h5>
+<h6>Procurement Procedures</h6>
 <p>1. Subject to paragraph 2 below, Canada and Korea agree, for the procurement covered by the KC Telecom Agreement, to incorporate into the Agreement by reference the following articles of the <acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>, as amended from time to time, <em>mutatis mutandis</em>, except to the extent that the procedures and practices contained therein are modified by this Agreement:</p>
 <ul class="noBullet">
 <li>Article II Valuation of Contracts </li>
@@ -1217,26 +1217,26 @@
 <li>the private sector telecommunications operators in the territories of Canada and Korea shall not be required or encouraged by their governments, explicitly or implicitly, to impose, seek or consider offsets.</li>
 </ol>
 <p>4. Canada or Korea, or a Canadian or Korean government entity, may limit suppliers who qualify to those that can demonstrate that accepting their bid will not result in incompatibility, technical difficulty or disproportionately high costs in the operation and maintenance of the network of Canada or Korea, or a Canadian or Korean government entity. Such a limitation of suppliers may not be applied to avoid maximum possible competition or to constitute a means of discriminating against suppliers of the other country or protecting domestic suppliers.</p>
-<h5>Preparing a Bid Solicitation</h5>
+<h6>Preparing a Bid Solicitation</h6>
 <p>When requirements consist of more than one good, the KC Telecom Agreement permits the procurement officer to indicate in the bid solicitation that the bids will be evaluated in the following ways:</p>
 <ol type="a">
 <li><em>Aggregate</em>. Multi item requirements will be evaluated on an aggregate basis. In these cases, a minimum of sixty (60) percent of the total bid price must consist of Korean and/or Canadian Goods;</li>
 <li><em>Item by Item. </em>Multi item requirements will be certified on an item by item basis. In these cases, suppliers will be asked to identify separately, each item that meets the definition of Goods under the KC Telecom Agreement</li>
 </ol>
-<h5>Type of Bid</h5>
+<h6>Type of Bid</h6>
 <p>For a procurement to which the KC Telecom Agreement applies the procurement officer shall decide at the procurement planning stage whether a competition is:</p>
 <ol type="a">
 <li><em>Solely Limited</em>: The solicitation should be solely limited to suppliers who could offer Canadian or Korean Goods when the procurement officer has reason to believe that there exists in the marketplace, two or more such suppliers.</li>
 <li><em>Conditionally Limited</em>: The solicitation may be conditionally limited when the procurement officer is uncertain whether two or more suppliers of Canadian or Korean Goods exist.</li>
 <li><em>Open</em>: When the procurement officer has reason to believe that two or more suppliers of Canadian or Korean Goods do not exist, the solicitation shall be open to all bidders.</li>
 </ol>
-<h5>Certificationof the Bid</h5>
+<h6>Certificationof the Bid</h6>
 <p>Bidders are required under this Policy to submit a Certification with their bids attesting to the fact that:</p>
 <ol type="a">
 <li>in the case of a requirement for a single good, the Good is Canadian or Korean as defined in this policy; or,</li>
 <li>in the case of a requirement for multiple goods, or goods and services, a minimum of sixty (60) percent of the total bid price consists of Korean and/or Canadian Goods and Incidental Services, if applicable; such Certification will be supplied on an aggregate basis, addressing the total bid, or on an item by item basis depending upon instructions in the request for proposal.</li>
 </ol>
-<h5>Application of the Policy</h5>
+<h6>Application of the Policy</h6>
 <p>Bids to which the Agreement applies will be evaluated as follows:</p>
 <ol type="a">
 <li>For Solely Limited solicitations, only bids with valid certifications will be evaluated. The bid evaluation process can proceed where there is at least one bid with a valid certification, otherwise the procurement must be re-tendered.</li>
@@ -1250,8 +1250,8 @@
 <p>The onus is on the supplier to demonstrate that its bid meets the definition of Korean or Canadian Goods and Incidental Services. The supplier must execute and submit the Certification form with the bid.</p>
 <p>The Canadian government may verify the validity of the Certification. If the Certification is found to be invalid, then the offered goods or services are deemed not to meet the definition of Korean or Canadian Goods and Incidental Services under the Agreement.</p>
 <p>If a bidder is unable to verify the origin of goods or services tendered in a procurement subject to this Agreement, pursuant to Canada's "Determination of Country of Origin for the Purposes of Marking Goods (NAFTA Countries) Regulations", the Canadian government shall refuse to consider the tender.</p>
-<h3>ANNEX 1</h3>
-<h4>ENTITY COVERAGE</h4>
+<h4>ANNEX 1</h4>
+<h5>ENTITY COVERAGE</h5>
 <p><strong>ANNEX 1 </strong>a) Korea</p>
 <p>Entities which may procure in accordance with the provisions of the KC Telecom Agreement</p>
 <p>Korea Telecom (KT)</p>

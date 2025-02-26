@@ -1,12 +1,12 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-43U</h2>
+<h3 class="pn-content-title">Content of PN-43U</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This update replaces the original Policy Notification 43 of August 17, 1999. It contains: background; approach; implementation; a definition of coverage; delegated contracting authorities; and, a statement of client responsibilities.</p>
-<h4>Background</h4>
+<h5>Background</h5>
 <p>This Notification is designed to reduce the risk to government in contracting for Construction, and Architectural and Engineering (A&amp;E) Services (a definition of coverage is attached as <strong>Annex A</strong>). The contracts subject to this Policy can deal with complex technical, health and safety, and project management issues.</p>
 <p>The cornerstone of PN-43U is that for such contracts for which Public Works and Government Services Canada (PWGSC) is to be the contracting authority, the Supply Operations Service (SOS) contracting community will require the use of appropriate risk management approaches to ensure in advance that those projects are to be undertaken with an appropriate level of (i) contracting and (ii) technical expertise.</p>
-<h4>Approach</h4>
+<h5>Approach</h5>
 <p>1. When the Real Property Services Branch (RPSB) is the technical authority/project manager for a Construction or A&amp;E Services project, it is accepted that the appropriate level of technical expertise will be applied to the development and management of the project. SOS will, therefore, provide its full range of real property contracting services to RPS.</p>
 <p>2. Where an Other Government Department (OGD) intends to serve as the technical authority for a Construction or A&amp;E Services project, SOS will require that the risks inherent in the planned procurement be assessed prior to commencing contracting activities. The risk analysis is to include confirmation that the client has the required capacity (including the appropriate construction management capabilities and procedures), and accepts the related responsibilities. To guide contracting officers in conducting the risk analysis:</p>
 <ol type="a">
@@ -20,12 +20,12 @@
 </ul>
 </li>
 </ol>
-<h4>Implementation</h4>
+<h5>Implementation</h5>
 <p>Projects for which the client will be the technical authority should be accepted with caution. Clients may to be asked to describe in writing their planned application of technical expertise (client responsibilities) to a project; SOS contracting staff may accept that, or may deem it prudent to seek advice from their RPSB colleagues.</p>
 <p>Suggested client responsibilities are attached to this notice as Annex C.</p>
 <p>Development of a risk management framework to give more discretion to contracting staff - particularly in using approach 2(b) - is under way <em>(Industrial &amp; Commercial Products &amp; Standardization Services Sector - Real Property Contracting Directorate; Supply Program Management Sector - Risk Management and Quality Assurance Directorate)</em></p>
-<h3>Annex A</h3>
-<h4>Definition of Coverage</h4>
+<h4>Annex A</h4>
+<h5>Definition of Coverage</h5>
 <p>The following, based on the Government Contracts Regulations (GCR), defines the Construction and Architectural and Engineering Services covered in PN-43U:</p>
 <p>1. PN-43U applies to any contract that fits the GCR definition of a <strong>construction</strong> contract, as follows:</p>
 <p>"Construction contract" (marché de travaux publics) - means a contract entered into for the construction, repair, renovation or restoration of any work except a vessel and includes</p>
@@ -49,8 +49,8 @@
 <ul>
 <li>"Architectural and engineering service contract" (marché de services d'architectes et d'ingénieurs) - a contract for the provision of services in respect of the planning, design, preparation, or supervision of the construction, repair, renovation or restoration of a work.</li>
 </ul>
-<h3>Annex B</h3>
-<h4>Contracting Authorities Delegated by the Treasury Board ($'000)</h4>
+<h4>Annex B</h4>
+<h5>Contracting Authorities Delegated by the Treasury Board ($'000)</h5>
 <table class="basic" summary="This table shows Contracting Authorities Delegated by the Treasury Board ($'000) Construction, Contracting Authority, Electronic Bidding, Traditional Competitive, Non-Competitive">
 <caption>
 					Construction<br/>
@@ -138,10 +138,10 @@
 <td headers="nocomp2">40</td>
 </tr>
 </tbody></table>
-<h3>Annex C</h3>
-<h4>Client Responsibilities</h4>
+<h4>Annex C</h4>
+<h5>Client Responsibilities</h5>
 <p>I, as the Director responsible for the project identified as <span aria-label="Blank placeholder" class="blankline"></span> , hereby certify that the Project Manager named below is fully qualified as to education and experience and has the necessary authority to carry out the responsibilities listed hereunder. It is agreed that PWGSC's current contracting practices and procedures will be strictly adhered to on this project.</p>
-<h5>Responsibilities</h5>
+<h6>Responsibilities</h6>
 <p>The Project Manager is responsible:</p>
 <ol type="i">
 <li>to obtain all internal departmental approvals and funding necessary for the project prior to PWGSC's posting of the Notice of Proposed Procurement/Invitation to Tender;</li>

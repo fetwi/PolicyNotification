@@ -1,8 +1,8 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-62U3</h2>
+<h3 class="pn-content-title">Content of PN-62U3</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h4>Introduction</h4>
+<h5>Introduction</h5>
 <p>The purpose of Policy Notification (PN) 62U3 is to update the Department<br/>
 					of National Defence (DND) shipping instructions detailed in <em>Standard<br/>
 					Acquisitions Clauses and Conditions (SACC) Manual</em> clause D0035C.<br/>
@@ -17,14 +17,14 @@
 <p>Refer to <a href="#PN-62U3annexa">Annex A</a> of this document for changes to the clause D0035C. The changes<br/>
 					will be incorporated into Version 07-2 of the SACC Manual, to be released<br/>
 					in November 2007.</p>
-<h4>Contact </h4>
+<h5>Contact </h5>
 <p>Any inquiries are to be addressed to Veronica Nazareth, Acquisition<br/>
 					Policy and Process Directorate, by phone at 819-956-5024, or by e-mail<br/>
 					at <a href="mailto:veronica.nazareth@tpsgc-pwgsc.gc.ca" rel="external">veronica.nazareth@tpsgc-pwgsc.gc.ca</a>.</p>
-<h3 id="PN-62U3annexa">Annex A - <strong>REVISIONS TO SACC MANUAL</strong></h3>
-<h4>D0035C DND Shipping Instructions – International – Delivery<br/>
-					at Origin</h4>
-<h5>Remarks</h5>
+<h4 id="PN-62U3annexa">Annex A - <strong>REVISIONS TO SACC MANUAL</strong></h4>
+<h5>D0035C DND Shipping Instructions – International – Delivery<br/>
+					at Origin</h5>
+<h6>Remarks</h6>
 <p><strong>THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS</strong>.<br/>
 					Use this clause for the following types of Department<br/>
 					of National Defence (DND) contracts when the contractor is located outside<br/>
@@ -37,7 +37,7 @@
 <li>United States Foreign Military Sales.</li>
 </ul>
 <p>Clauses C2608C and C2610D may apply. </p>
-<h5>Text</h5>
+<h6>Text</h6>
 <ol>
 <li>Delivery will be FCA Free Carrier at<span aria-label="Blank placeholder" class="blankline"></span>  (<strong><em>Insert the<br/>
 						named place, e.g. Contractor's facility</em></strong>) Incoterms<br/>

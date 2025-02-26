@@ -1,27 +1,27 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-39U2</h2>
+<h3 class="pn-content-title">Contenu de l'AP-39U2</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>Date : Le 22 mars 2004</h3>
-<h4>Introduction</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>Date : Le 22 mars 2004</h4>
+<h5>Introduction</h5>
 <p>Travaux publics et Services gouvernementaux Canada (TPSGC) entreprend un examen approfondi de sa politique et de ses lignes directrices relatives aux préavis d'adjudication de contrats (PAC).  Le présent avis relatif aux politiques énonce la politique et les lignes directrices provisoires à suivre jusqu'à ce que l'examen soit terminé. </p>
 <p>Il n'y aura pas de révision formelle du Guide des approvisionnements à ce moment-ci.  Le Guide sera mis à jour lorsque la politique révisée sur les PAC sera élaborée et mise en oeuvre. </p>
 <p>Le présent avis entre en vigueur immédiatement, et élimine l'exigence obligatoire de publier un PAC.</p>
-<h4>Politique</h4>
+<h5>Politique</h5>
 <p>Un PAC doit être publié uniquement pour un besoin à l'égard duquel le Canada est disposé à accepter un énoncé de capacités d'un autre fournisseur.  Les agents de négociation des contrats doivent s'assurer que le Canada est en mesure d'accepter un énoncé de capacités avant de publier un PAC.  Lorsqu'il n'y a aucune possibilité qu'un autre fournisseur présente un énoncé de capacités ou que le Canada ne peut, pour des considérations liées aux programmes ou aux politiques, accepter un énoncé de capacités d'un autre fournisseur, on ne doit pas publier de PAC.</p>
 <p>Par conséquent, il n'est pas obligatoire d'utiliser un PAC pour les marchés à fournisseur unique, et il n'est pas nécessaire d'obtenir une approbation lorsqu'on décide de ne pas publier de PAC dans le cadre d'un besoin.</p>
 <p>Les marchés attribués sans PAC constitueraient de véritables achats à fournisseur exclusif effectués en vertu d'un pouvoir de passer des marchés non concurrentiels.</p>
 <p>Les avis d'adjudication de contrat continueront d'être transparents, et doivent par conséquent être publiés immédiatement après l'attribution du contrat.</p>
-<h4>Contexte</h4>
+<h5>Contexte</h5>
 <p>Le Secrétariat du Conseil du Trésor (SCT) publiera bientôt la dernière version de son Guide pour les gestionnaires – Pratiques exemplaires liées aux préavis d'adjudication de contrat. TPSGC entreprendra un examen approfondi de sa politique et de ses lignes directrices relatives aux PAC, qui tiendra compte des changements compris dans la version révisée du Guide pour les gestionnaires du SCT.  Le présent avis relatif aux politiques énonce la politique et les lignes directrices provisoires à suivre jusqu'à ce que l'examen soit terminé.</p>
-<h4>Renseignements</h4>
+<h5>Renseignements</h5>
 <p>Veuillez faire parvenir vos questions directement à Jane Carruthers, soit par téléphone au 819-956-6894 ou par courriel, à <a href="mailto:jane.carruthers@tpsgc-pwgsc.gc.ca" rel="external">jane.carruthers@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

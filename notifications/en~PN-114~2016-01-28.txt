@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-114</h2>
+<h3 class="pn-content-title">Content of PN-114</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of PN-114 is to encourage the use of paperless, electronic payment instruments by Public Works and Government Services (PWGSC) Acquisitions Program (AP) employees and any other person providing procurement services on behalf of AP.</p>
 <p>Acquisition cards can be used as both a procurement instrument and a payment instrument and may result in additional efficiencies. Therefore, at any stage of the procurement process but preferably during the requirements definition, contracting officers should analyze with the client what opportunities may exist in terms of using electronic payment instruments.</p>
 <p>This <abbr title="Policy Notification">PN</abbr> must be read in conjunction with the applicable policies from the Treasury Board Secretariat and <abbr title="Public Works and Government Services Canada">PWGSC</abbr> that set forth and define procurement and payment methods, tools and processes.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>The Government of Canada (GC) is continually striving to make its operations more efficient, and with recent technological advances and constant innovations offered by the payment industry, there are opportunities for further efficiencies in relation to payment instruments used to acquire goods and services.</p>
 <p>The current payment industry offers a variety of payment instruments, including electronic payments (e.g., direct deposit, acquisition card). These instruments can bring many benefits such as lower processing costs, expediency, and ease of use.</p>
-<h3>Summary of Requirements</h3>
+<h4>Summary of Requirements</h4>
 <p>When a payment is made to a contractor for goods and services acquired by GC, contracting officers are encouraged to use paperless, electronic payment instruments as described below in lieu of issuing a cheque.</p>
 <ol type="1">
 <li>Electronic Payment Instruments include:
@@ -37,21 +37,21 @@ The use of acquisition cards to purchase goods or a services offers many advanta
 </ul>
 </li>
 </ol>
-<h3>Summary of changes</h3>
+<h4>Summary of changes</h4>
 <p>In support of this PN, the <cite>Supply Manual</cite> is being amended as follows:</p>
 <ul>
 <li>Section 4.70.55 is updated and becomes section 4.70.55.10; a new section 4.70.55 Payment Instruments is created;</li>
 <li>The following new sections are being added: 4.70.55.5 Direct Deposit, 4.70.55.15 Electronic Data Interchange (EDI), 4.70.55.20 Wire Transfer, and 4.70.55.25 Large Value Transfer System (LVTS).</li>
 </ul>
 <p>Clauses H3027T and H3027C of the Standard Acquisition Clauses and Conditions (SACC) Manual are also being amended to include the electronic payment instruments discussed in this policy notification.</p>
-<h3>Glossary</h3>
+<h4>Glossary</h4>
 <p>For a glossary of terms, please see the <a href="http://www.gcpedia.gc.ca/wiki/Acquisitions_Program_Policy_Suite/Definitions" rel="external">Acquisitions Program Policy Suite Glossary.</a></p>
-<h3>Contact Information</h3>
+<h4>Contact Information</h4>
 <p>For any questions on the content included in this <abbr title="Policy Notification">PN</abbr>, please contact the Strategic Policy Directorate (SPD) within the Policy, Risks, Integrity and Strategic Management Sector (PRISMS) at <a href="mailto:TPSGC.PolPrograpprovisionnements-AcquisitionsProgramPolicy.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PolPrograpprovisionnements-AcquisitionsProgramPolicy.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>
 For any questions on the payment instruments, please contact the Receiver General at <a href="mailto:RGEnquire.RequetesRG@tpsgc-pwgsc.gc.ca" rel="external">RGEnquire.RequetesRG@tpsgc-pwgsc.gc.ca</a>.
 </p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-9b83bca71e301190c2a9b8e5c9bb12ff">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -69,7 +69,7 @@ For any questions on the payment instruments, please contact the Receiver Genera
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
+<h5 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-ee02c3eb3625f0ae2b80994686175bfe">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

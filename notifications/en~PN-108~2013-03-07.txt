@@ -1,10 +1,10 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-108</h2>
+<h3 class="pn-content-title">Content of PN-108</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Effective Date: March 7, 2013</h3>
+<h4>Effective Date: March 7, 2013</h4>
 <p>This <abbr title="Policy Notification">PN</abbr> was originally promulgated via a Communiqué to <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Procurement Staff on March 7, 2013.  This published version includes the following updates:  A revision to Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual Sections to include Clauses C3010T, C6001T, C9010C, C9011C, D6009C, M3025T, M3026T, M4506C and S3025T; and, revisions to Annex A, in French only, to make corrections to the text of General Conditions 2010A 01 – Interpretation.</p>
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>This is to inform contracting officers that, as of April 1, 2013, British Columbia (BC), Prince Edward Island (PEI), and Quebec will change the way their sales taxes are administered.</p>
 <ol type="1">
 <li><abbr title="Prince Edward Island">PEI</abbr> is harmonizing
@@ -16,7 +16,7 @@
 
 <br/>In provinces with no <abbr title="Harmonized Sales Tax">HST</abbr>, the Government of Canada will continue to be exempt from paying provincial sales taxes on purchases of goods and services in the name of Canada.  Government contractors must continue to pay the provincial sales tax as it applies to supplies of goods and services made in those provinces used or consumed in the performance of their contract.  The federal government is to pay the <abbr title="Quebec Sales Tax">QST</abbr> in Quebec.  For information on the details of the provincial taxes that are payable by the federal government, contracting officers may consult the document <a href="http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=19028&amp;section=text" rel="external">Summary of Reciprocal Taxation Agreements with Provinces and Territories</a>.</li>
 </ol>
-<h3>Transitional Rules</h3>
+<h4>Transitional Rules</h4>
 <p>Contracts that have been awarded prior to April 1, 2013 will not have to be amended as a result of the introduction of the <abbr title="Harmonized Sales Tax">HST</abbr> in <abbr title="Prince Edward Island">PEI</abbr> or the payment of the <abbr title="Quebec Sales Tax">QST</abbr>.  In the same way, contracts awarded prior to April 1, 2013 will not have to be re-approved as a result of the introduction of the <abbr title="Harmonized Sales Tax">HST</abbr> in <abbr title="Prince Edward Island">PEI</abbr> or the payment of the <abbr title="Quebec Sales Tax">QST</abbr>.</p>
 <p>In the case of <abbr title="British Columbia">BC</abbr>, funds that become unencumbered due to the elimination of the <abbr title="Harmonized Sales Tax">HST</abbr> cannot be used to acquire additional goods or services under a contract or contract amendment as taxes are not paid from departmental appropriations.</p>
 <p>In the case of <abbr title="Prince Edward Island">PEI</abbr> and <abbr title="British Columbia">BC</abbr>, transitional rules have been designed to ensure that the <abbr title="Goods and Services Tax">GST</abbr> and provincial retail tax systems do not overlap with the <abbr title="Harmonized Sales Tax">HST</abbr>.  They specify a number of key dates with respect to the timing for departments to account for the <abbr title="Goods and Services Tax">GST</abbr>/<abbr title="Harmonized Sales Tax">HST</abbr>.  The <a href="http://www.cra-arc.gc.ca/gncy/hrmnztn/menu-eng.html" rel="external">transitional rules</a> apply to transactions that occur during a period that includes the implementation date of April 1, 2013.</p>
@@ -26,20 +26,20 @@
 <li>The date on which the payment is due.</li>
 </ul>
 <p>Any questions regarding the payment of additional taxes as a result of the introduction of the <abbr title="Harmonized Sales Tax">HST</abbr> in <abbr title="Prince Edward Island">PEI</abbr> or the payment of the <abbr title="Quebec Sales Tax">QST</abbr> on existing contracts should be directed to the person responsible to authorize payments as per Section 33 of the <a href="http://laws-lois.justice.gc.ca/eng/acts/f-11/" rel="external"><cite>Financial Administration Act</cite></a>.</p>
-<h3>Creation of a New Source of Financial Authority</h3>
+<h4>Creation of a New Source of Financial Authority</h4>
 <p>Generally speaking, the Contract Price is paid from parliamentary appropriations (departmental budget), and the <abbr title="Goods and Services Tax">GST</abbr>/<abbr title="Harmonized Sales Tax">HST</abbr> is paid from a statutory, non-budgetary account called the Refundable Advance Account (RAA).  Unlike the <abbr title="Goods and Services Tax">GST</abbr>/<abbr title="Harmonized Sales Tax">HST</abbr>, the <abbr title="Quebec Sales Tax">QST</abbr> is not a federal tax and, as a result, may not be paid from the existing RAA vote G111.  This is why a new vote, G113, has been created.  This means that, for contracts where the place of supply is Quebec, all internal approval documents, including requisitions (<a class="gov" href="http://publiservice-app.tpsgc-pwgsc.gc.ca/forms/index.cfm?fuseaction=search.details&amp;lang=e&amp;display=5451" rel="external"><abbr title="Public Works and Government Services Canada-Travaux Publics et Services gouvernementaux Canada">PWGSC-TPSGC</abbr> 9200</a><span> (accessible only on the Government of Canada network)</span>), shall have to show three financial authorities: the appropriations for the Contract Price, G111 for the <abbr title="Goods and Services Tax">GST</abbr>, and G113 for the <abbr title="Quebec Sales Tax">QST</abbr>.  It should be noted that funds from G111 and G113 are distinct and are not automatically transferable.</p>
-<h3>Standard Acquisition Clauses and Conditions (SACC)</h3>
+<h4>Standard Acquisition Clauses and Conditions (SACC)</h4>
 <p>General conditions 2010A, 2010B, 2010C, 2029, 2030, 2035 and 2040 are currently being updated and will be available in the next <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> release on March 21, 2013.  Contracting officers will notice that the Invoice Submission and Taxes provisions have been amended, along with the addition of the concept of Applicable Taxes now defined in Section 01 Interpretation.  Please refer to <a href="#PN-108annex_a">Annex A</a> to view an example of the revisions that will be made to the general conditions listed above.</p>
 <p>The <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual">Standard Acquisition Clauses and Conditions (SACC) Manual</a> affected by these changes are being reviewed and will be updated in a future release.  See <a href="#PN-108affected_sacc_manual_sections">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</a> below for a complete list of the clauses that will be modified.</p>
 <p>All five standard procurement templates are also being reviewed to reflect these changes. They will be published on <a class="gov" href="http://www.gcpedia.gc.ca/wiki/Standard_Procurement_Templates-_APPD" rel="external">GCpedia</a><span> (accessible only on the Government of Canada network)</span> in the next <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#section-2">Standard Procurement Templates</a> release.  Refer to <a href="#PN-108annex_a">Annex A</a> for an example of the changes to the standard procurement templates.</p>
 <p>Questions regarding the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual should be sent to the following e-mail address: <a href="mailto:Outilsd'approvisionnement.ProcurementTools@tpsgc-pwgsc.gc.ca" rel="external">Outilsd'approvisionnement.ProcurementTools@tpsgc-pwgsc.gc.ca</a></p>
-<h3>General Considerations</h3>
+<h4>General Considerations</h4>
 <p>Contracting officers are reminded that amounts for tax have to be taken into consideration throughout the procurement process.  There is a legal obligation for contracting officers to estimate the cost of a procurement including Applicable Taxes for the purpose of determining the applicability of trade agreements.  It is also government policy that the cost of procurement includes Applicable Taxes for various purposes, including approval thresholds.  For that reason, contracting officers must make an estimation of the Applicable Taxes based on the place of supply rules.  An overview of the place of supply rules can be found in <a href="#PN-108annex_b">Annex B - Place of Supply Rules</a>.  Contracting officers must ensure that the approval documentation clearly identifies Applicable Taxes, including the specific authorities as the case may be (G111, G113).</p>
 <p>While tax is part of the approval process, it should not be part of the contract itself.  Tax is not created by the contract.  Tax is created by the invoice.  The supplier has the obligation to charge and remit tax.  Contracting officers do not have the authority to provide tax advice as this is the exclusive prerogative of the Canada Revenue Agency (CRA).  Contracting officers are encouraged not to include rates or amounts for Applicable Taxes in contracts as they could be construed as tax advice by suppliers.  The only exception is for amounts that have to appear on Page 1 of the contract:  the Total Estimated Cost, Revised Estimated Cost, and Increase (Decrease) boxes which will continue to include amounts corresponding to estimated Applicable Taxes.  Ancillary changes have also been made to forms to reflect the above.</p>
 <p>Because tax is not part of the contract, contracts should never be amended because of tax.  If a supplier charges more or a different tax than what was estimated at approval stage, contracting officers shall, if requested by the client department, re-approve the contract with appropriate financial authorities. As appropriate, the client department must submit a new requisition (<a class="gov" href="http://publiservice-app.tpsgc-pwgsc.gc.ca/forms/index.cfm?fuseaction=search.details&amp;lang=e&amp;display=5451" rel="external"><abbr title="Public Works and Government Services Canada-Travaux Publics et Services gouvernementaux Canada">PWGSC-TPSGC</abbr> 9200</a><span> (accessible only on the Government of Canada network)</span>).</p>
 <p>Every time an address is required in the procurement process or contract, the address shall indicate a precise geographical location in a province.  References to the National Capital Region (NCR) or a postal code are no longer acceptable.</p>
 <p>See <a href="#PN-108annex_c">Annex C - Tax rates as of April 1, 2013</a> for cumulative tables of the various tax rates.</p>
-<h3>Acquisitions Branch Contact:</h3>
+<h4>Acquisitions Branch Contact:</h4>
 <p>Olivier Lalande, Manager<br/>
 Policy Integration and Finance Division<br/>
 Acquisition Policy and Process Directorate<br/>
@@ -48,13 +48,13 @@ Acquisitions Branch<br/>
 Public Works and Government Services Canada<br/>
 819-956-0166<br/>
 <a href="mailto:olivier.lalande@pwgsc-tpsgc.gc.ca" rel="external">olivier.lalande@pwgsc-tpsgc.gc.ca</a></p>
-<h3 id="PN-108annex_a">Annex A – Examples of Revisions to General Conditions and Standard Procurement Templates</h3>
+<h4 id="PN-108annex_a">Annex A – Examples of Revisions to General Conditions and Standard Procurement Templates</h4>
 <p>General Conditions 2010A are provided as an example of the changes to General Conditions.</p>
-<h4>2010A 01 (2013-03-21) Interpretation</h4>
+<h5>2010A 01 (2013-03-21) Interpretation</h5>
 <p>"Applicable Taxes" means the Goods and Services Tax (GST), the Harmonized Sales Tax (HST), and any provincial tax, by law, payable by Canada such as, as of April 1, 2013, the Quebec Sales Tax (QST);</p>
 <p>"Contract Price" means the amount stated in the Contract to be payable to the Contractor for the Work, exclusive of Applicable Taxes;</p>
 <p>“Total Estimated Cost”, “Revised Estimated Cost”, “Increase (Decrease)”  on Page 1 of the Contract or Contract Amendment means an amount used for internal administrative purposes only that comprises the Contract Price, or the revised Contract Price, or the amount that would increase or decrease the Contract Price and the Applicable Taxes as evaluated by the Contracting Authority at contract award, and does not constitute tax advice on the part of Canada;</p>
-<h4>2010A 10 (2013-03-21) Invoice Submission</h4>
+<h5>2010A 10 (2013-03-21) Invoice Submission</h5>
 <ol type="1">
 <li>Invoices must be submitted in the Contractor's name. The Contractor must submit invoices for each delivery or shipment; invoices must only apply to the Contract. Each invoice must indicate whether it covers partial or final delivery.</li>
 <li>Invoices must show: 
@@ -69,8 +69,8 @@ Public Works and Government Services Canada<br/>
 <li>Applicable Taxes must be specified on all invoices as a separate item along with corresponding registration numbers from the tax authorities. All items that are zero-rated, exempt or to which these Applicable Taxes do not apply, must be identified as such on all invoices.</li>
 <li>By submitting an invoice, the Contractor certifies that the invoice is consistent with the Work delivered and is in accordance with the Contract.</li>
 </ol>
-<h4>2010A 11 (2013-03-21) Taxes</h4>
-<h5>General</h5>
+<h5>2010A 11 (2013-03-21) Taxes</h5>
+<h6>General</h6>
 <ol type="1">
 <li value="1">Federal government departments and agencies are required to pay Applicable Taxes.</li>
 <li value="2">Applicable Taxes will be paid by Canada as provided in the Invoice Submission section.  It is the sole responsibility of the Contractor to charge Applicable Taxes at the correct rate in accordance with applicable legislation.  The Contractor agrees to remit to appropriate tax authorities any amounts of Applicable Taxes paid or due.</li>
@@ -80,13 +80,13 @@ Public Works and Government Services Canada<br/>
 <br/>Pursuant to the <a href="http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html" rel="external"><cite>Income Tax Act</cite></a>, 1985, c. 1 (5th Supp.) and the <a href="http://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._945/index.html" rel="external"><cite>Income Tax Regulations</cite></a>, Canada must withhold 15 percent of the amount to be paid to the Contractor in respect of services provided in Canada if the Contractor is not a resident of Canada, unless the Contractor obtains a valid waiver from the Canada Revenue Agency. The amount withheld will be held on account for the Contractor in respect to any tax liability which may be owed to Canada.</li>
 </ol>
 <p>Higher Complexity Bid Solicitation and Resulting Contract Template (HC) is provided as an example of the changes to the standard procurement templates.</p>
-<h4>PART 3 – BID PREPARATION INSTRUCTIONS</h4>
-<h5>Section II: Financial Bid</h5>
+<h5>PART 3 – BID PREPARATION INSTRUCTIONS</h5>
+<h6>Section II: Financial Bid</h6>
 <p>1.1	Bidders must submit their financial bid in accordance with the <span aria-label="Blank placeholder" class="blankline"></span> <kbd><span class="description"><em>(insert: "Financial Bid Presentation Sheet detailed below" (or in Annex "X") OR "Pricing Schedule detailed below" (or in Annex "X" OR "Basis of Payment in Annex "X")</em></span></kbd>. The total amount of Applicable Taxes must be shown separately. <kbd><span class="description"><em>(Insert the "Financial Bid Presentation Sheet", the "Pricing Schedule" or the "Basis of Payment", if applicable)</em></span></kbd>.</p>
-<h4>PART 7 - RESULTING CONTRACT CLAUSES</h4>
+<h5>PART 7 - RESULTING CONTRACT CLAUSES</h5>
 <p><kbd><span class="description"><em><strong>Remark to Contracting Authority:</strong> Insert the applicable <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual clauses or approved clauses related to the basis of payment, limitation of expenditure, method of payment, audit, time verification and Applicable Taxes not covered in the general conditions.</em></span></kbd></p>
 <p>7.	Payment</p>
-<h3 id="PN-108annex_b">Annex B - Place of Supply Rules</h3>
+<h4 id="PN-108annex_b">Annex B - Place of Supply Rules</h4>
 <p>The place of supply rules that determine whether a supply is made in Canada are explained in chapter <a href="http://www.cra-arc.gc.ca/E/pub/gm/3-3/3-3-e.html" rel="external">3.3 Place of Supply</a> of Canada Revenue Agency (CRA)'s <abbr title="Goods and Services Tax">GST</abbr>/<abbr title="Harmonized Sales Tax">HST</abbr> Memoranda Series.</p>
 <p>The place of supply rules that determine in which province a supply is made determine whether, and at what rate, suppliers must charge the provincial taxes on their taxable supplies (other than zero-rated supplies) of goods and services that are made in Canada.</p>
 <p>The place of supply rules are explained in <abbr title="Canada Revenue Agency">CRA</abbr>'s <a href="http://www.cra-arc.gc.ca/E/pub/gm/b-103/b-103-e.html" rel="external"><abbr title="Goods and Services Tax">GST</abbr>/<abbr title="Harmonized Sales Tax">HST</abbr> Technical Information Bulletin B-103</a> (June 2012).  The bulletin constitutes <abbr title="Canada Revenue Agency">CRA</abbr>’s position on the place of supply rules even though it contains the mention “For discussion purposes only”.  This bulletin is an update of the June 2010 version that was circulated with <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/policy-notifications?pnid=PN-94#browse-previous-pn">PN-94 – Transition to Harmonized Sales Tax in Ontario and British Columbia, New Place of Supply Rules and Increase of Harmonized Sales Tax Rate in Nova Scotia</a>.</p>
@@ -121,9 +121,9 @@ Public Works and Government Services Canada<br/>
 
 <br/>As noted above, different, specific, place of supply rules apply for the supply of services in relation to <abbr title="Tangible Personal Property">TPP</abbr> or <abbr title="Real Property">RP</abbr> and for other specified services.  <a href="http://www.cra-arc.gc.ca/E/pub/gm/b-103/b-103-e.html" rel="external"><abbr title="Goods and Services Tax">GST</abbr>/<abbr title="Harmonized Sales Tax">HST</abbr> Technical Information Bulletin B-103</a> should be consulted for details.</li>
 </ol>
-<h3 id="PN-108annex_c">Annex C - Tax rates as of April 1, 2013</h3>
+<h4 id="PN-108annex_c">Annex C - Tax rates as of April 1, 2013</h4>
 <p><strong>Disclaimer:</strong>  The information in these tables is provided by the Acquisition Policy and Process Directorate, Policy, Risk, Integrity and Strategic Management Sector, Acquisitions Branch and is up-to-date as of April 1, 2013.  These tables are provided as a courtesy to help summarize the different rates in one convenient location but do not replace the authoritative sources (provincial or federal, as applicable).</p>
-<h4>Table 1 - Provinces with Harmonized Sales Tax</h4>
+<h5>Table 1 - Provinces with Harmonized Sales Tax</h5>
 <table>
 <tbody><tr>
 <th>Province</th>
@@ -162,7 +162,7 @@ Public Works and Government Services Canada<br/>
 <td>13%</td>
 </tr>
 </tbody></table>
-<h4>Table 2 - Province where the federal government is not exempted from paying the provincial sales tax</h4>
+<h5>Table 2 - Province where the federal government is not exempted from paying the provincial sales tax</h5>
 <table>
 <tbody><tr>
 <th>Province</th>
@@ -177,7 +177,7 @@ Public Works and Government Services Canada<br/>
 <td>14.975%</td>
 </tr>
 </tbody></table>
-<h4>Table 3 - Provinces and territories where the federal government is exempted from paying the provincial sales taxes</h4>
+<h5>Table 3 - Provinces and territories where the federal government is exempted from paying the provincial sales taxes</h5>
 <table>
 <tbody><tr>
 <th>Province/Territory</th>
@@ -230,7 +230,7 @@ Public Works and Government Services Canada<br/>
 </tbody></table>
 <a id="PN-108affected_sacc_manual_sections"></a> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
+<h5 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-b553fbc2a2d8da189af212072ebfcbca">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

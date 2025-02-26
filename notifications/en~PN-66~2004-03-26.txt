@@ -1,12 +1,12 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-66</h2>
+<h3 class="pn-content-title">Content of PN-66</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of PN-66 is to revise the policy and guidelines on extending the bid validity period and to incorporate additional terms to the standard instructions and conditions (9403 series) to inform bidders in the original solicitation of Canada's right to seek an extension of bid validity period, and of Canada's options to proceed to award with only those bidders who have agreed to the extension, or to cancel the solicitation, or cancel and reissue the solicitation, should any of the bidders not agree to extend the validity period of their bid.</p>
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>There are some exceptional circumstances where a contract cannot be awarded within the bid validity period stipulated in the solicitation. Accordingly, Supply Manual (SM) procedure 7D.463 dated March, 1997, has stated that contracting officers are to request an extension of the bid validity period from all responsive bidders, and if any of the responsive bidders declines to extend the bid period, the contract must be awarded to the "best assessed bidder" whose bid acceptance period has been extended and whose original prices remain in effect. </p>
-<h3>Revised Policy </h3>
+<h4>Revised Policy </h4>
 <p>SM procedure 7D.463 which addresses situations when the evaluation of bids is near completion, is revised to provide a legal basis for Canada to seek extensions of bid validity as per the revised standard instructions and conditions, and to give contracting officers the option of either proceeding to award to the "best assessed" bidder among the responsive bidders that have extended their bid, to the exclusion of those bidders that have declined, or to cancel the solicitation, or to cancel and reissue the solicitation, when it is appropriate to do so.</p>
 <ul class="noBullet">
 <li>7D.462 (31/03/97) (unchanged) If the evaluation is incomplete, and is unlikely to be complete within a reasonable period of time, and the bid acceptance period will expire before the evaluation is complete, the process should be halted, an assessment made to identify the cause of the extraordinary delay, corrections to the solicitation or evaluation made, and the requirement re-tendered.</li>
@@ -19,23 +19,23 @@
 <p>Contracting officers should note the revised standard instructions (9403 series) also now require that such a request to extend the bid validity period must be made within three (3) days prior to the date of bid expiry.</p>
 <ul class="noBullet">
 <li>
-<h4>Standard Instructions and Conditions (9403 and 9403-5), Section A</h4>
+<h5>Standard Instructions and Conditions (9403 and 9403-5), Section A</h5>
 </li>
 <li>Bids will remain open for acceptance for a period of not less than sixty (60) days from the closing date of the bid solicitation, unless otherwise indicated by Canada in such bid solicitation.</li>
 <li><em>Notwithstanding the bid validity period stipulated in this solicitation, Canada reserves the right to seek an extension from all responsive bidders, within a minimum of three (3) days prior to the end of such period. Bidders shall have the option to either accept or reject the extension.</em></li>
 <li><em>If the extension referred to above is accepted, in writing, by all those who submitted responsive bids, then Canada shall continue immediately with the evaluation of the bids and its approval processes.</em></li>
 <li><em>If the extension referred to above is not accepted, in writing, by all those who submitted responsive bids then Canada shall, at its sole discretion: either continue to evaluate the responsive bids of those who have accepted the extension and seek the necessary approvals; or cancel the solicitation; or cancel and reissue the solicitation.</em></li>
 <li>
-<h4>Standard Instructions and Conditions (9403-6) Standing Offers, Section A:</h4>
+<h5>Standard Instructions and Conditions (9403-6) Standing Offers, Section A:</h5>
 </li>
 <li>A SOCA document may be issued against any proposed Standing Offer up to sixty (60) days after the closing date of the RFSO, unless otherwise indicated by Canada in such RFSO.</li>
 <li><em>Notwithstanding the offer validity period stipulated in this RFSO, Canada reserves the right to seek an extension from all responsive offerors, within a minimum of three (3) days prior to the end of such period. Offerors shall have the option to either accept or reject the extension.</em></li>
 <li><em>If the extension referred to above is accepted, in writing, by all those who submitted responsive offers, then Canada shall continue immediately with the evaluation of the offers and its approval processes.</em></li>
 <li><em>If the extension referred to above is not accepted, in writing, by all those who submitted responsive offers then Canada shall, at its sole discretion: either continue to evaluate the responsive offers of those who have accepted the extension and seek the necessary approvals; or cancel the RFSO; or cancel and reissue the RFSO.</em></li>
 </ul>
-<h3>Implementation</h3>
+<h4>Implementation</h4>
 <p><strong>The revised policy is effective immediately. Revisions to the Supply Manual and the SACC Manual will be reflected in Version 04-1 to be published on May 14, 2004. Until then, contracting officers shall incorporate the appropriate terms of standard instructions and conditions (9403 series) into each of their solicitations.</strong></p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>SM procedures 7D.460 to 7D.463 address circumstances where the contracting officer is unable to award a contract within the bid validity period stipulated in the solicitation, and where an extension to the original bid validity period can be requested. Bidders who cannot or will not agree to extend the validity of their bids cannot be excluded from the competition, unless they have been informed in the solicitation of the Canada's right to seek an extension, and of its intentions in the event all bidders do not agree to this extension. The revised standard instructions and conditions (9403 series) now inform bidders of Canada's right to seek an extension of bid validity period, and that in the event an extension is not agreed to by all, Canada has the option to pursue the evaluation of the bids of those that have agreed to extend their bid validity period, to the exclusion of bidders who do not consent to the extension, or to either cancel the solicitation, or to cancel and reissue the solicitation.</p>
 <p>Contracting officers must carefully assess the potential need for extended bid validity periods at the planning stage of the procurement so that where such a need is identified (for example for requirements involving complex evaluations and/or Treasury Board approval) a longer bid validity period is addressed in the bid solicitation.</p>
 <p>It is also important for contracting officers to carefully monitor events during the bid evaluation period and contract approval process, in order to ensure contract award is made within the stipulated bid acceptance period. Therefore, the requirement to extend the bid validity period stipulated in the solicitation should thus become an exceptional circumstance. (Ref. SM 7D.460)</p>

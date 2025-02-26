@@ -1,12 +1,12 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-137</h2>
+<h3 class="pn-content-title">Content of PN-137</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>Policy Notification (PN) 137 is to inform Acquisitions Program on recent changes to contracting limits in Appendix C of the Treasury Board (TB) <cite>Contracting Policy</cite> and recent amendments to the <cite>Government Contracts Regulations</cite>. </p>
-<h3>Effective date</h3>
+<h4>Effective date</h4>
 <p>This policy notification is effective immediately. </p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>To modernize procurement policies and processes, the Treasury Board <cite>Appendix C: Contracts Directive</cite> has been updated and streamlined. </p>
 <p>The contracting limits within the Contracting Directive (Appendix C of <abbr title="Treasury Board">TB</abbr> <cite>Contracting Policy</cite>) <strong>Contracting limits</strong> as per <a class="gov" href="http://www.gcpedia.gc.ca/gcwiki/images/f/f1/Final_Appendix_C_-_Contracts_Directive_for_Publication_Apr_8%2C_2019_ENG.pdf" rel="external"><cite><strong>Appendix C: Contracts Directive</strong></cite></a><span> (accessible only on the Government of Canada network)</span> (<a class="gov" href="http://www.gcpedia.gc.ca/gcwiki/images/a/aa/Contracting_Limits_Guidelines_April_2019_ENG.pdf" rel="external">Guidance Tool</a><span> (accessible only on the Government of Canada network)</span>) has been updated to reflect:</p>
 <ul>
@@ -19,7 +19,7 @@
 <p>Traditional bidding is still a valid method but should only be used when warranted/justified.</p>
 </li>
 </ul>
-<h4>A.  Contracting Limits</h4>
+<h5>A.  Contracting Limits</h5>
 <p>In the <abbr title="Treasury Board">TB</abbr> <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=14494" rel="external"><cite>Appendix C: Contracts Directive</cite></a>, basic contract entry limits for construction, goods and services have been:</p>
 <ul>
 <li>Increased (except for specialized goods and services) to account for inflation;</li>
@@ -39,12 +39,12 @@
 <li>The <abbr title="Contract Request Summary">CRS</abbr> will stay with the <abbr title="Assistant Deputy Minister">ADM</abbr>; and</li>
 <li>The Memorandum must be sent to the Minister for approval.</li>
 </ol>
-<h4>B.  Amendments to Government Contracts Regulations and its impact for <abbr title="Public Works and Government Services Canada">PWGSC</abbr></h4>
-<h5>1.  Sole-source limits: </h5>
+<h5>B.  Amendments to Government Contracts Regulations and its impact for <abbr title="Public Works and Government Services Canada">PWGSC</abbr></h5>
+<h6>1.  Sole-source limits: </h6>
 <p>As part of this set of amendments, the $25,000 threshold for soliciting bids for services and construction contracts was increased to $40,000. The increase is to account for inflation since 1996, when the threshold was last amended. </p>
 <p>From a supplier’s perspective, this new threshold will likely reduce costs to some businesses by not requiring them to submit bids that may have otherwise been required. The threshold for goods contracts was not increased as it is consistent with Canada’s obligation to solicit bids under the <a href="https://www.cfta-alec.ca/canadian-free-trade-agreement/" rel="external"><cite>Canadian Free Trade Agreement</cite></a>.</p>
 <p>There are circumstances where competition for requirements below $40,000 may be appropriate. <abbr title="Public Works and Government Services Canada">PWGSC</abbr> delegated procurement authorities are expected to assess each situation to determine whether contracts should be competed below $40,000.</p>
-<h5>2.  Definitions of goods and services contracts </h5>
+<h6>2.  Definitions of goods and services contracts </h6>
 <p>The definitions of a goods contract and a services contract were amended in the <a href="https://laws-lois.justice.gc.ca/eng/regulations/SOR-87-402/FullText.html" rel="external"><cite>Government Contracts Regulations</cite></a> to identify printing as a service instead of a good. </p>
 <dl>
 <dt><strong>service contract</strong></dt>
@@ -52,11 +52,11 @@
 <dt><strong>goods contract</strong></dt>
 <dd>means a contract for the purchase of articles, commodities, equipment, goods, materials or supplies and includes a contract for the construction or repair of a vessel. <strong lang="fr-CA">(marché de fournitures)</strong></dd>
 </dl>
-<h3>Contact information</h3>
+<h4>Contact information</h4>
 
 For assistance with the application, please contact the Strategic Policy Sector at <a href="mailto:TPSGC.PAPolitiques-APPolicy.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PAPolitiques-APPolicy.PWGSC@tpsgc-pwgsc.gc.ca</a>.
       </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-270a9d7717eb47b496ba2403b69d2852">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

@@ -1,18 +1,18 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-91R1</h2>
+<h3 class="pn-content-title">Content of PN-91R1</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of Policy Notification 91R1 (PN-91R1) is to provide updated guidance on the debriefing process.</p>
-<h3>Effective date</h3>
+<h4>Effective date</h4>
 <p><abbr title="Policy Notification">PN</abbr>-91R1 and the related changes to the <cite>Supply Manual</cite>, <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual and Standard Procurement Templates are effective immediately.</p>
-<h3>Policy</h3>
+<h4>Policy</h4>
 <p>In addition to other changes, this <abbr title="Policy Notification">PN</abbr> includes specific direction on providing a feedback session instead of a debriefing when a solicitation is cancelled and reissued. When a solicitation is cancelled and reissued, it is very important that contracting officers provide the same information to all bidders/offerors/suppliers, in a generic format, to ensure fairness, openness and transparency throughout the procurement process.</p>
-<h3>Revisions to the <cite>Supply Manual</cite></h3>
+<h4>Revisions to the <cite>Supply Manual</cite></h4>
 <p>In support of this <abbr title="Policy Notification">PN</abbr>, the <cite>Supply Manual</cite> has been updated. To view the modified sections, please refer to <a href="#PN-91R1affected_supply_manual_sections">Affected <cite>Supply Manual</cite> Section(s)</a> below.</p>
-<h3>Revisions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h3>
+<h4>Revisions to the Standard Acquisition Clauses and Conditions (SACC) Manual</h4>
 <p>Changes have been made to the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr>. To view the modified clauses, please refer to <a href="#PN-91R1affected_sacc_manual_sections">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual Section(s)</a> below. Contracting officers are to incorporate these changes into their procurement documents.</p>
-<h3>Revisions to the Standard Procurement Templates</h3>
+<h4>Revisions to the Standard Procurement Templates</h4>
 <p>The following <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#TEMPLATES">standard procurement templates</a> have been revised. Contracting officers are to incorporate these changes in their procurement documents.</p>
 <ul>
 <li>February 2013 Low Dollar Value Bid Solicitation and Resulting Contract Template (Simple)</li>
@@ -21,11 +21,11 @@
 <li>February 2013 Request for Standing Offers Template (RFSO)</li>
 <li>February 2013 Request for Supply Arrangements Template (RFSA)</li>
 </ul>
-<h3>Contact Information</h3>
+<h4>Contact Information</h4>
 <p>Please direct any enquiries to the Policy, Risk, Integrity and Strategic Management (PRISM) Sector by email: <a href="mailto:dppapublications.appdpublications@tpsgc-pwgsc.gc.ca" rel="external">dppapublications.appdpublications@tpsgc-pwgsc.gc.ca</a>.</p>
 <p><a id="PN-91R1affected_supply_manual_sections"></a></p>
 <p><a id="PN-91R1affected_sacc_manual_sections"></a></p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-3e25809ecac5aa410c75cd4a74e1d4c3">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
@@ -33,7 +33,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
+<h5 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-d8afc2f1861b26839c7ff982589f8bf5">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">

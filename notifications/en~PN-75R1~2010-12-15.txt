@@ -1,14 +1,14 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-75R1</h2>
+<h3 class="pn-content-title">Content of PN-75R1</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>The purpose of Policy Notification (PN)-75R1 is to provide new direction to procurement personnel regarding contracts with task authorizations. The revised approach introduces new tools and  guidelines and includes changes to the <em>Supply Manual</em>(SM) and new clauses for the <em>Standard Acquisitions Clauses and  Conditions</em> (SACC) Manual.</p>
-<h3>Background</h3>
+<h4>Background</h4>
 <p>In the last few years, several government audits have  taken place that included reviews of contracts with task authorizations. These reviews raised issues relative to the  application of financial controls, separation of duties, contract amendments, employer-employee relationships, and adherence to contractual conditions. The Acquisitions Branch has decided to update  its procedures to improve the effectiveness and consistency with which  contracts with task authorizations are used and managed.</p>
-<h3>Effective Date</h3>
+<h4>Effective Date</h4>
 <p>This <abbr title="Policy Notification">PN</abbr> is effective immediately. However, for existing procurements where the Contract Planning and Advance Approval document  or Procurement Plan has already been submitted for approval, the implementation  of the new instructions within this <abbr title="Policy Notification">PN</abbr> is at the contracting officer's  discretion, unless otherwise advised by management.</p>
-<h3>Revisions to the current policy</h3>
+<h4>Revisions to the current policy</h4>
 <p>The following significant changes have been  made to the current policy on contracts with task authorizations:</p>
 <ol class="double-space" type="a">
 <li>Additional instructions are  provided to highlight the differences between contracts with task  authorizations, standing offers and supply arrangements. </li>
@@ -26,11 +26,11 @@
 </ol>
 <p><a href="#PN-75R1AnnexA">Annex A</a> contains all  the changes to the <em>Supply Manual</em>. The  previous procedures in 3.30, 3.35, 3.35.1, and Annex 3.4 have been replaced in  their entirety. Procedures 3.40, 3.45, 8.70.20 and two definitions of the Glossary have been revised. Procedure 6.25.40 has been deleted. </p>
 <p><a href="#PN-75R1AnnexB">Annex B</a> includes new and revised SACC Manual clauses.</p>
-<h3>Contact Persons</h3>
+<h4>Contact Persons</h4>
 <p>For more information on the <em>Supply Manual</em> changes, contact Veronica   Nazareth, by phone at 819-956-5024, or by e-mail at: <a href="mailto:veronica.nazareth@tpsgc-pwgsc.gc.ca" rel="external">veronica.nazareth@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>For more information on the new SACC Manual clauses, contact Anne Villeneuve by phone at 819-956-0458, or by e-mail at: <a href="mailto:anne.villeneuve@tpsgc-pwgsc.gc.ca" rel="external">anne.villeneuve@tpsgc-pwgsc.gc.ca</a>.</p>
-<h3 id="PN-75R1AnnexA">Annex A - Changes to the Supply Manual</h3>
-<h4>Chapter 3 - Procurement Strategy</h4>
+<h4 id="PN-75R1AnnexA">Annex A - Changes to the Supply Manual</h4>
+<h5>Chapter 3 - Procurement Strategy</h5>
 <p><strong>3.30	Methods of Supply</strong><br/>
 		(2011-01-11)</p>
 <p>Public Works and Government Services Canada (PWGSC) uses a variety  of approaches to meet procurement requirements.  This spectrum ranges from specific contracts which precisely define the  deliverables to be provided to a specific client by a specific date, to various  procurement instruments for use by a single or many departments and agencies,  for needs which are sometimes less well defined at the outset.</p>
@@ -199,15 +199,15 @@
 <li>it is more efficient for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>  to operate as the provider of the framework on behalf of other users/clients  and not necessarily as the contracting officer.</li>
 </ol>
 <p>(d) to (f) No change</p>
-<h4>Annex 3.4: Contracts with Task Authorizations - Process<br/>
-(2011-01-11) </h4>
+<h5>Annex 3.4: Contracts with Task Authorizations - Process<br/>
+(2011-01-11) </h5>
 <p>This annex includes the following appendices related to contracts with task authorizations:</p>
 <ol class="double-space">
 <li><a href="#PN-75R1aappendixA">Appendix A</a>: Guide to Preparing and Administering Task Authorizations – for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s  Clients</li>
 <li><a href="#PN-75R1aappendixB">Appendix B</a>: Record of Agreement template</li>
 </ol>
-<h4 id="PN-75R1aappendixA">Appendix A (to Annex 3.4):	A Guide to Preparing and Administering Task Authorizations - for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s Clients<br/>
-(2011-01-11) </h4>
+<h5 id="PN-75R1aappendixA">Appendix A (to Annex 3.4):	A Guide to Preparing and Administering Task Authorizations - for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s Clients<br/>
+(2011-01-11) </h5>
 <p><strong>1.0	Purpose</strong></p>
 <p>The purpose of the<em> Guide to Preparing  and Administering Task Authorizations</em> is to provide procedural guidance to  Public Works and Government Services Canada's (<abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s) clients when contracts  for services containing task authorizations are issued by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> and the client  is authorized to issue individual task authorizations (<abbr title="Task Authorization">TA</abbr>s). This guide incorporates advice on preparing  and administering <abbr title="Task Authorization">TA</abbr>s. Many of the  principles discussed in this document equally apply to other mechanisms by which  goods or services are ordered under a contract on an “as and when requested”  basis such as a service order. For the  Department of National Defence (DND) requirements, this guide supplements the  internal procedure for administering <abbr title="Task Authorization">TA</abbr>s documented in article 3.3.2 of <abbr title="Department of National Defence">DND</abbr>'s <em>Procurement  Administration Manual</em> (PAM).</p>
 <p><strong>2.0 Definitions</strong></p>
@@ -324,7 +324,7 @@
 <li>Ensure the price is fair and reasonable for the specific task and in accordance with the basis of payment in the contract.</li>
 <li>Ensure there are sufficient funds.</li>
 </ol>
-<h4 id="PN-75R1aappendixB">Appendix B (to Annex 3.4):	Record of Agreement Template - for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s Clients</h4>
+<h5 id="PN-75R1aappendixB">Appendix B (to Annex 3.4):	Record of Agreement Template - for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>'s Clients</h5>
 <p><strong>Remarks to the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Contracting Authority:</strong><br/>
 <em>(Delete the instructions before forwarding to the client the completed e-mail and Record of Agreement).</em></p>
 <ol class="double-space">
@@ -506,8 +506,8 @@
 <td class="alignCenter" headers="un_3">X</td>
 </tr>
 </tbody></table>
-<h4 id="PN-75R1Annex3_8">Annex 3.8: Comparison of Different Methods of Supply<br/>
-(2011-01-11) </h4>
+<h5 id="PN-75R1Annex3_8">Annex 3.8: Comparison of Different Methods of Supply<br/>
+(2011-01-11) </h5>
 <p>The table below provides a comparison between the different methods of supply used when the precise nature, timing and/or quantity of the need cannot be set out in advance.</p>
 <table class="basic">
 <caption>
@@ -589,10 +589,10 @@
 <td headers="un_7 un_11">Monitoring  and reporting by the client of contractor performance, and of client usage, in  accordance with the SA are a requirement of use by the client of the SA.</td>
 </tr>
 </tbody></table>
-<h4>Chapter 6 - Approvals and Authorities</h4>
+<h5>Chapter 6 - Approvals and Authorities</h5>
 <p><strong>6.25.40 Contracts with Task Authorizations</strong></p>
 <p>Deleted in its entirety.</p>
-<h4>Chapter 8 - Contract Management</h4>
+<h5>Chapter 8 - Contract Management</h5>
 <p id="PN-75R1a8_70_20"><strong>8.70.20 Administration of Contracts with Task Authorizations </strong><br/>
 		(2010-XX-XX)</p>
 <ol type="a">
@@ -623,12 +623,12 @@
 </ol>
 <p>When a task is completed, the committed amount may be reduced to reflect the actual expenditure, and such changes must be reflected in the record of task authorizations.</p>
 <p>See <a href="#PN-75R1a3_35_1_35">3.35.1.35</a> relative to the separation of duties in <abbr title="Task Authorization">TA</abbr>s.</p>
-<h4>Glossary</h4>
+<h5>Glossary</h5>
 <p><strong>task authorization</strong><br/>
        A <abbr title="Task Authorization">TA</abbr> is a structured  administrative tool enabling <abbr title="Public Works and Government Services Canada">PWGSC</abbr> or a client to authorize work by a  contractor on an “as and when requested” basis in accordance with the  conditions of the contract. <abbr title="Task Authorization">TA</abbr>s are not  individual contracts. (2010-XX-XX) <em><strong>(autorisation de tâches)</strong></em></p>
 <p><strong>task authorization  contracts</strong><br/>
        A contract with task authorizations (<abbr title="Task Authorization">TA</abbr>s)  is a method of supply for services under which all of the work or a portion of  the work will be performed on an “as and when requested basis” through  predetermined conditions including an administrative process involving task  authorizations. Contracts with <abbr title="Task Authorization">TA</abbr>s are  used in service contracting situations when there is a defined need by a client  to rapidly have access to one or more category of service(s) that are expected  to be needed on a repetitive basis during the period of the contract. Under contracts with <abbr title="Task Authorization">TA</abbr>s, the work to be  carried out can be defined but the exact nature and timeframes of the required  services, activities and deliverables will only be known as and when the  service(s) will be required during the period of the contract. (2010-XX-XX) <em>(<strong>contrat avec autorisation de tâches</strong>)</em></p>
-<h3 id="PN-75R1AnnexB">Annex B - Changes to the SACC Manual</h3>
+<h4 id="PN-75R1AnnexB">Annex B - Changes to the SACC Manual</h4>
 <p><strong>(REVISED) B9030C Minimum Work Guarantee - All the Work - Task Authorizations<br/>
 </strong></p>
 <p><strong>Remarks:</strong></p>

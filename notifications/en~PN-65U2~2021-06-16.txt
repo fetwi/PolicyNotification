@@ -1,12 +1,12 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-65U2</h2>
+<h3 class="pn-content-title">Content of PN-65U2</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of Policy Notification (PN)-65U2 is to inform Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) of changes to the Policy on Fairness Monitoring.</p>
-<h3>Effective date</h3>
+<h4>Effective date</h4>
 <p>This <abbr title="Policy Notification">PN</abbr> is effective immediately.</p>
-<h3>Overview</h3>
+<h4>Overview</h4>
 <p>The departmental <a class="gov" href="http://gcintranet.tpsgc-pwgsc.gc.ca/pm-dp/politique-policy/pfm-pse-eng.html" rel="external">Policy on Fairness Monitoring</a><span> (accessible only on the Government of Canada network)</span> took effect on October 10, 2020, replacing the Public Works and Government Services Canada (PWGSC) Policy on Fairness Monitoring dated June 21, 2012.</p>
 <p>The principal policy changes are as follows:</p>
 <ul>
@@ -19,12 +19,12 @@
 <li><a class="gov" href="http://publiservice-app.tpsgc.gc.ca/forms/index.cfm?fuseaction=search.details&amp;lang=e&amp;display=9713" rel="external">Fairness Monitoring Coverage Assessment and Recommendation Form <abbr title="Public Works and Government Services Canada">PWGSC</abbr>-<abbr lang="fr" title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> 587</a><span> (accessible only on the Government of Canada network)</span></li>
 <li><a class="gov" href="https://masource-mysource.spac-pspc.gc.ca/eng/services/dgs-dob/se-fm/Pages/default.aspx" rel="external">Fairness Monitoring Program intranet site</a><span> (accessible only on the Government of Canada network)</span></li>
 </ul>
-<h3>Revisions to the Supply Manual</h3>
+<h4>Revisions to the Supply Manual</h4>
 <p>In support of <abbr title="Policy Notification">PN</abbr>-65U2, the Supply Manual has been updated. For more details, refer to the Affected Supply Manual sections listed below.</p>
-<h3>Contact information</h3>
+<h4>Contact information</h4>
 <p>Questions regarding the application of <abbr title="Policy Notification">PN</abbr>-65U2 may be sent to the Fairness Monitoring Program at the following email: <a href="mailto:se-fm@tpsgc-pwgsc.gc.ca" rel="external">se-fm@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions regarding the Supply Manual can be sent to the following email: <a href="mailto:TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-df57a3d4083a8ab646e32f13ca7e762e">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

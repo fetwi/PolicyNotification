@@ -1,8 +1,8 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-124</h2>
-<h3>Objet </h3>
+<h3 class="pn-content-title">Contenu de l'AP-124</h3>
+<h4>Objet </h4>
 <p>La mesure de tarification provisoire (MTP) forme un processus uniformisé permettant aux agents de négociation des contrats de justifier, de documenter et de se faire autoriser le recours à certaines pratiques en matière de tarification, y compris l'utilisation de mesures incitatives, qui ne figurent pas au chapitre 10 du Guide des approvisionnements de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>.  </p>
 <p>
   La <abbr title="mesure de tarification provisoire">MTP</abbr> vise à :</p>
@@ -16,15 +16,15 @@
 <li>fournir une approche uniforme et transparente pour l'approbation des dérogations par rapport aux éléments du chapitre 10 du Guide des approvisionnements de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr></li>
 <li>informer <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> des occasions de réviser la politique et les directives de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> en matière de tarification contractuelle</li>
 </ul>
-<h3>Date d'entrée en vigueur</h3>
+<h4>Date d'entrée en vigueur</h4>
 <p>L'<abbr title="avis relatifs aux politiques">AP</abbr>-124 entre en vigueur dès maintenant.</p>
-<h3>Utilisation prévue</h3>
+<h4>Utilisation prévue</h4>
 <p>La présente mesure intérimaire s'applique à tous les nouveaux contrats et à toutes les nouvelles modifications comportant une négociation de prix lorsque <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> agit à titre d'autorité contractante.  </p>
-<h3>Autorités</h3>
+<h4>Autorités</h4>
 <p>La <abbr title="mesure de tarification provisoire">MTP</abbr> s'applique à l'intérieur des pouvoirs contractuels en place. Le pouvoir de recommander, d'autoriser et d'accepter des ententes de prix, y compris l'utilisation de mesures incitatives, qui ne sont pas traitées dans au chapitre 10 du Guide des approvisionnements de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>, relève de la délégation actuelle des autorités contractantes.  </p>
 <p>
   Pour obtenir de plus amples renseignements, consultez le chapitre 1 du Guide des approvisionnements de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> (voir la section <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-1#_1-40">1.40 Délégation ministérielle des pouvoirs</a>).</p>
-<h3>Historique</h3>
+<h4>Historique</h4>
 <p>Le présent avis relatif aux politiques est conforme à la <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/amd-dp/samd-dps/reponse-respond-fra.html" rel="external">réponse de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> à l'examen des principes relatifs aux coûts contractuels et de la politique sur les profits du gouvernement du Canada</a>. Il répond plus précisément au besoin immédiat de la collectivité de l'approvisionnement de pouvoir utiliser des mesures provisoires pour les pratiques d'établissement de prix qui ne sont pas traitées dans la politique de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> sur les profits avant l'établissement du cadre d'établissement des prix du Canada, qui comprend les éléments suivants :</p>
 <ul>
 <li>les principes des coûts contractuels, décrits à la section <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#1031-2">1031-2</a> du chapitre 3 du Guide des clauses et conditions uniformisées d'achat</li>
@@ -45,7 +45,7 @@
 <li>des tables rondes avec des représentants du comité consultatif de la collectivité de l'approvisionnement de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> (mars 2017)  </li>
 <li>les nouvelles pratiques d'approvisionnement en matière de soutien au sein du ministère de la Défense nationale (MDN), de Travaux publics et Services gouvernementaux Canada (TPSGC) et d'Innovation, Sciences et Développement économique Canada (ISDE) </li>
 </ul>
-<h3>Sommaire des modifications</h3>
+<h4>Sommaire des modifications</h4>
 <p>La <abbr title="mesure de tarification provisoire">MTP</abbr> permet à l'autorité contractante de tenir compte de l'ensemble des facteurs et des approches différentes dans l'optique d'offrir un meilleur rapport qualité-prix au Canada, conformément aux indications du <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-approvisionnements/chapitre-10">chapitre 10</a> du Guide des approvisionnements sur l'établissement de prix des contrats négociés. La <abbr title="mesure de tarification provisoire">MTP</abbr> s'applique à tous les nouveaux contrats et à toutes les nouvelles modifications comportant une négociation de prix.   </p>
 <p>
   Par exemple :</p>
@@ -68,15 +68,15 @@
 <li>les risques liés au paiement, la base de paiement et les clauses de vérification du contrat</li>
 <li>les techniques permettant de valider le rendement de l'entrepreneur, afin de soutenir l'administration du contrat </li>
 </ul>
-<h3>Guide des clauses et conditions uniformisées  d'achat (CCUA)</h3>
+<h4>Guide des clauses et conditions uniformisées  d'achat (CCUA)</h4>
 <p>Aucune modification n'a été apportée au Guide des clauses et conditions uniformisées d'achat.</p>
-<h3>Modèles uniformisés d'approvisionnement</h3>
+<h4>Modèles uniformisés d'approvisionnement</h4>
 <p>Aucune modification n'a été apportée aux modèles uniformisés d'approvisionnement. </p>
-<h3>Coordonnées </h3>
+<h4>Coordonnées </h4>
 <p>Pour obtenir le soutien de la Direction du soutien des prix (DSP), veuillez communiquer avec : <a href="mailto:dspvacassistance.ccaapdassistance@tpsgc-pwgsc.gc.ca" rel="external">dspvacassistance.ccaapdassistance@tpsgc-pwgsc.gc.ca</a></p>
 <p>Pour de plus amples renseignements sur l'avis  relatif aux politiques, veuillez communiquer avec : <a href="mailto:tpsgc.padgamtp-appbipm.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.padgamtp-appbipm.pwgsc@tpsgc-pwgsc.gc.ca</a></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
+<h5 class="field-label">Sections du Guide des approvisionnements visées</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-6ca8d30d313cd6b7d9a16676ee50ff2c">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

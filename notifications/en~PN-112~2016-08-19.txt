@@ -1,19 +1,19 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-112</h2>
+<h3 class="pn-content-title">Content of PN-112</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The purpose of this policy notification (PN) is to inform all Public Works and Government Services Canada (PWGSC) Acquisitions Program (AP) employees about the option available to them to electronically sign their contractual documents using their MyKey or Public Key Infrastructure (PKI) certificate.</p>
 <p>A brief description of the process is presented in <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-7#_7-1">section 7.1</a>, subsection c. of the Supply Manual.</p>
 <p>No changes are required to the <strong>Standard Acquisition Clauses and Conditions Manual</strong> or the <strong>Standard Procurement Templates</strong>.</p>
-<h3>Context</h3>
+<h4>Context</h4>
 <p>All <abbr title="Public Works and Government Services Canada">PWGSC</abbr> employees have a secure electronic credential known as MyKey (or a <abbr title="Public Key Infrastructure">PKI</abbr> certificate). This technology can be used to electronically sign contracts, standing offers and supply arrangements in conjunction with a <abbr title="Portable Document Format">PDF</abbr> writer software. While some <abbr title="Public Works and Government Services Canada">PWGSC</abbr> <abbr title="Acquisitions Program">AP</abbr> employees have already been electronically signing their contractual documents using this technology, others were not aware of this option.</p>
 <p>The Architecture Review Board of the Chief Information Officer Branch (CIOB) of <abbr title="Public Works and Government Services Canada">PWGSC</abbr> has assessed and determined that the use of MyKey (or a <abbr title="Public Key Infrastructure">PKI</abbr> certificate) to electronically sign a contractual document is an acceptable practice for <abbr title="Public Works and Government Services Canada">PWGSC</abbr> AP employees.</p>
-<h3 id="PN-11271">Changes to the Supply Manual</h3>
+<h4 id="PN-11271">Changes to the Supply Manual</h4>
 <p>In support of this policy notification, the Supply Manual has been updated. To view the modified sections, please refer to “Affected Supply Manual Sections” below.</p>
-<h3>For more information</h3>
+<h4>For more information</h4>
 <p>Please direct any enquiries to the Strategic Policy Sector by email at the following address: <a href="mailto:TPSGC.DPPApublications-APPDpublications.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.DPPApublications-APPDpublications.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-fb2f82727deecb41b204fd9440d35b01">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">

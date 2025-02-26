@@ -1,24 +1,24 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-62U1</h2>
+<h3 class="pn-content-title">Content of PN-62U1</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h4>Introduction</h4>
+<h5>Introduction</h5>
 <p>The purpose of Policy Notification (PN) 62U1 is to update the shipping instructions detailed in <em>Standard Acquisitions Clauses and Conditions</em> (SACC) Manual clause D0035D given that the Department of National Defence (DND) shipping contract with Transcar GMBH is expiring as of 01 September 2005.  All new and existing procurement documents that involve shipping to Europe on or after 01 September 2005 must include updated SACC clause <a href="#PN-62U1D0035D">D0035D</a>. </p>
 <p>In addition, please note that DND's Directorate of Logistics Business Management (DLBM) has undergone business reorganization and is now called the Directorate of Supply Chain Operations (DSCO).  Supply Manual (SM) paragraph <a href="#PN-62U1a6e_622">6E.622</a> and SACC Manual clauses <a href="#PN-62U1D0037D">D0037D</a> and <a href="#PN-62U1C2608D">C2608D</a> are modified accordingly.  All new and existing procurement documents that would include SACC clauses <a href="#PN-62U1D0037D">D0037D</a> or <a href="#PN-62U1C2608D">C2608D</a> should include the revised versions of these clauses.</p>
 <p>All changes are effective immediately and will be incorporated into the next edition of the SM and SACC Manual of December 2005.  See Annexes A and B below for a summary of the changes to the SM and SACC Manual highlighted in <strong>bold</strong> and <span>red text</span>.</p>
-<h4>Contact</h4>
+<h5>Contact</h5>
 <p><strong>N/A</strong></p>
-<h3>Annex A</h3>
-<h4>Changes to Supply Manual</h4>
-<h4>Chapter 6:  Process</h4>
-<h4>Transportation Information</h4>
+<h4>Annex A</h4>
+<h5>Changes to Supply Manual</h5>
+<h5>Chapter 6:  Process</h5>
+<h5>Transportation Information</h5>
 <p> <a id="PN-62U1a6e_622" name="a6e_622"></a></p>
 <p>6E.622  (xxxx-xx-xx)  FCA Free Carrier (... named place) Incoterms 2000 is to be used for all Department of National Defence (DND) sole source contracts, and all Repair and Overhaul (R&amp;O) contracts where transportation is not part of the competitive bid. DND will manage the inbound logistics (coordinate, arrange and pay for all inbound transportation) for these contracts.  For United States (U.S.) Foreign Military Sales contracts only (not all U.S. contracts) FOB Plant will continue to be used and DND will manage the inbound logistic on those contracts as well. <span>If the contractor is not located in Canada, include SACC clause <a href="#PN-62U1C2608D">C2608D</a> and when applicable, C2610D.</span></p>
 <p>The contractor is to deliver these goods FCA.  For these contracts the named place shall always be the contractor's facility, unless otherwise directed by DND.  The contracting officer shall include in the solicitation document and the contract one of the following SACC Manual transportation clauses: <a href="#PN-62U1D0035D">D0035D</a>, <a href="#PN-62U1D0037D">D0037D</a>, or D0038D.  These clauses direct the contractor to obtain shipping instructions from DND and how to do so. Contractors may also contact <span>DND Headquarters (Director - Supply Chain Operations [2-5], Materiel Distribution Operations) at 819-994-9288 or Inbound Logistics Headquarters at 1-877-447-7701 ext. 6101</span> should they have any transportation queries.</p>
-<h3>Annex B</h3>
-<h4>Changes to SACC Manual </h4>
+<h4>Annex B</h4>
+<h5>Changes to SACC Manual </h5>
 <p> <a id="PN-62U1D0035D" name="D0035D"></a></p>
-<h5>D0035D	(xxxx-xx-xx)	DND Shipping Instructions - International - Delivery at Origin</h5>
+<h6>D0035D	(xxxx-xx-xx)	DND Shipping Instructions - International - Delivery at Origin</h6>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Use the following clause for Department of National Defence (DND) sole source contracts, and all repair and overhaul contracts where transportation is not part of the competitive bid and when DND is responsible for shipping (clauses <a href="#PN-62U1C2608D">C2608D</a> and C2610D may apply). </p>
 <p>This clause does not apply to United States Foreign Military Sales procurements (see clause D0038D).  Within the brackets found in first paragraph, enter the location of the Contractor's plant.</p>
 <p><strong>Text:</strong></p>
@@ -89,7 +89,7 @@
 <li>For all UK and Ireland shipments, any items above the value of 600 GBP (pound sterling) being exported from the UK will require the shipment to be correctly cleared using Her Majesty's Customs &amp; Excise (HMCE) New Export Systems (NES).  Contractors must comply with HMCE requirements by registering with HMCE or by having a freight forwarder complete the entry.  A printed copy of the NES entry "Export Declaration" clearly displaying the "Declaration Unique Consignment Reference Number" must be provided by Contractors and attached to the consignment.  It is the Contractor's responsibility to ensure that this procedure is carried out for all stores whether they be initial purchase or repair and overhaul export items.  If this procedure is NOT adhered to completely &amp; properly, HMCE has instructed CFSU(E) that CFSU(E) cannot arrange shipping of the consignment without the required documentation.</li>
 </ol>
 <p> <a id="PN-62U1D0037D" name="D0037D"></a></p>
-<h5>D0037D	(xxxx-xx-xx)	DND Shipping Instructions - Canada - Delivery at Origin</h5>
+<h6>D0037D	(xxxx-xx-xx)	DND Shipping Instructions - Canada - Delivery at Origin</h6>
 <p><strong>Remarks: THIS CLAUSE IS TO APPEAR IN FULL TEXT IN PROCUREMENT DOCUMENTS.</strong> Use the following clause for Department of National Defence (DND) sole source contracts, and all repair and overhaul contracts where transportation is not part of the competitive bid, let in Canada when DND is responsible for shipping.</p>
 <p>Within the brackets in the first paragraph and (a) enter the location of the Contractor's plant.</p>
 <p><strong>Text:</strong></p>
@@ -116,7 +116,7 @@
 <li>Should delays by Canada delay delivery of the goods, ownership and risk shall transfer to Canada upon the expiry of thirty (30) days following the date on which a duly completed shipping application is received by Canada or its appointed forwarding agent, or thirty (30) days following the delivery date specified in the Contract, whichever is later.</li>
 </ol>
 <p> <a id="PN-62U1C2608D" name="C2608D"></a></p>
-<h5>C2608D	(xxxx-xx-xx)	Canadian Customs Documentation</h5>
+<h6>C2608D	(xxxx-xx-xx)	Canadian Customs Documentation</h6>
 <p><strong>Remarks:</strong> Use the following clause in bid solicitations and contracts when the Department of National Defence is to be the importer.  (Clause <a href="#PN-62U1D0035D">D0035D</a> or D0038D may apply.)</p>
 <p><strong>Text:</strong></p>
 <p><strong>General</strong></p>

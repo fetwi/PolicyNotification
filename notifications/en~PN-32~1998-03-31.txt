@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-32</h2>
+<h3 class="pn-content-title">Content of PN-32</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Effective April 1, 1998, a new procedure is being implemented to provide key information to the Minister, on approved procurements plans, revisions to procurement plans, and proposed awards. Regional and Sector Directors General are responsible for providing information on each procurement plan and award valued above the thresholds specified in Annex "A". A copy of the Procurement Information Form (PIF) that will be used for reporting to the Minister is also attached.</p>
 <p>The PIF is intended to provide only key information on procurement plans and awards; it is not intended to provide the level of detail that is required in a CPAA, a Formal Procurement Plan, or a Contract Request. The PIF is divided into two distinct sections, one for reporting the planning information and the other for reporting the award information. With the exception of the Client Reference No. which refers to a specific identifier that the clients may include on their requisition, the data fields are based on information that is commonly used in the procurement process.</p>
@@ -13,8 +13,8 @@
 <p>In light of this new reporting procedure, the requirement for distribution to senior management of procurement plans and contract award summaries valued at $1 million or more, and the procedures for reporting Contract Highlights are under review; however, they are at this time, unchanged.</p>
 <p>If you require additional information please contact Jean McCadden in Supply Policy Directorate at 819-956-0889.</p>
 <hr/>
-<h3>Annex A</h3>
-<h4>Thresholds for Reporting Using the Procurement Information Form</h4>
+<h4>Annex A</h4>
+<h5>Thresholds for Reporting Using the Procurement Information Form</h5>
 <p>A Procurement Information Form must be completed for all procurement plans and awards valued in excess of the contract entry authorities specified below.</p>
 <dl>
 <dt><strong>Electronic Bidding</strong></dt>

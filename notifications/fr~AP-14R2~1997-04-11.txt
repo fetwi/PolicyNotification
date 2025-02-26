@@ -1,27 +1,27 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-14R2</h2>
+<h3 class="pn-content-title">Contenu de l'AP-14R2</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 11 avril 1997</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 11 avril 1997</h4>
 <p>Le 30 décembre 1996, l'avis relatif aux politiques concernant la construction de navires, la réparation, le radoub et la modernisation était distribué. Cet avis incluait l'introduction de la clause A0240T.</p>
 <p>Suite à des discussions avec le conseiller juridique et la Direction maritime, quelques modifications ont été apportées à cette clause. La version révisée de cette clause (Annexe A) est jointe et sera incluse dans la prochaine modification du guide des CCUA, prévue pour juin 1997.</p>
 <p>Deux modifications ont été apportées à la Section 3 de la clause A0240T.</p>
 <p>1. Les espaces ont été ajoutés avant la note 1, permettant ainsi à l'autorité contractante d'inscrire le type de navire et le port d'attache.</p>
 <p>2. La note 1 est modifiée afin de clarifier les frais de déplacement de l'équipage qui s'appliquent seulement dans le cas des radoubs sans équipage et non pas lorsque la responsabilité pour l'entretien et la garde du navire relève de l'État.</p>
-<h3>Annexe B</h3>
+<h4>Annexe B</h4>
 <p><strong>Remarques</strong>: Les agents de négociation des contrats devront utiliser le plus récent tableau de l'est ou de l'ouest du Canada approuvé par le directeur de la Direction maritime pour préparer la liste des chantiers navals, où le travail pourrait potentiellement être entrepris, tel que requis à l'article 3 de cette clause. Les agents de négociation des contrats doivent inclure, à partir du tableau, les frais applicables de transfert des navires pour chaque chantier naval figurant sur la liste, en tenant compte de l'emplacement du port d'attache du navire et du travail de radoub avec ou sans équipage. Lorsque le tableau ne mentionne aucun port d'attache spécifique pour le navire ou le nom de chantiers navals où le travail pourrait potentiellement être entrepris, les agents de négociation des contrats doivent communiquer avec le directeur de la Direction maritime, à Place du Portage, Phase III - 6C2, au numéro de téléphone 819-956-0664 ou au numéro de télécopieur 819-956-0897, pour obtenir les données nécessaires.</p>
 <p>Les agents de négociation des contrats doivent inscrire le nombre de jours civils au paragraphe 2b) de cette clause.</p>
-<h4>A0240T FRAIS DE TRANSFERT DU NAVIRE</h4>
+<h5>A0240T FRAIS DE TRANSFERT DU NAVIRE</h5>
 <p>1. Le prix d'évaluation doit inclure les frais de transfert du navire du port d'attache jusqu'aux chantiers navals où le travail sera entrepris, et son retour au port d'attache, conformément à ce qui suit :</p>
 <p>2. a) Le soumissionnaire doit inscrire ci-dessous l'emplacement des chantiers navals où il propose d'entreprendre le travail ainsi que les frais applicables de transfert du navire, à partir de la liste fournie à l'article 3 de cette clause.</p>
-<h5>À REMPLIR PAR LE SOUMISSIONNAIRE :</h5>
+<h6>À REMPLIR PAR LE SOUMISSIONNAIRE :</h6>
 <p>Chantiers navals : <span aria-label="Espace réservé vide" class="blankline"></span> </p>
 <p>Frais applicables de transfert du navire : <span aria-label="Espace réservé vide" class="blankline"></span> </p>
 <p>b) Si l'emplacement des chantiers navals où le soumissionnaire a l'intention d'exécuter le travail n'apparait pas sur la liste fournie à l'article 3 de cette clause, le soumissionnaire devra alors en aviser, par écrit, l'autorité contractante dans les <span aria-label="Espace réservé vide" class="blankline"></span>  jours <strong>(l'agent de négociation des contrats doit inscrire le nombre de jours civils dans cet espace et supprimer cet énoncé)</strong> précédents la date de fermeture des soumissions, de l'emplacement proposé pour l'exécution du travail. L'autorité contractante accusera réception, par écrit, dans les <span aria-label="Espace réservé vide" class="blankline"></span>  jours <strong>(l'agent de négociation des contrats doit inscrire le nombre de jours civils dans cet espace et supprimer cet énoncé)</strong> précédents la date de fermeture des soumissions, au soumissionnaire de l'emplacement des chantiers navals et confirmera les frais applicables de transfert des navires.</p>

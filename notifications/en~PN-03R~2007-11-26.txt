@@ -1,22 +1,22 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-03R</h2>
+<h3 class="pn-content-title">Content of PN-03R</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h4>Introduction</h4>
+<h5>Introduction</h5>
 <p>The purpose of Policy Notification (PN) is to clarify when and how to apply the former public servant policies regarding pension and/or lump sum payments when contracting for services, and to introduce new clauses to be used in bid solicitations and requests for standing offers to ensure that former public servants self-identify.</p>
-<h4>Background</h4>
+<h5>Background</h5>
 <p>The <a href="http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/contracting/contractingpol_e.asp" rel="external">Treasury Board Contracting Policy</a> contains measures that apply to competitive or non-competitive contracts awarded to former public servants in receipt of a pension payable pursuant to the <em>Public Service Superannuation Act</em>, as indexed by the <em>Supplementary Retirement Benefits Act</em>, and/or a lump sum payment under a workforce reduction program or adjustment initiative.</p>
-<h4>Policy</h4>
+<h5>Policy</h5>
 <p>This PN, effective immediately, provides more detailed direction to all contracting officers when contracting for services, such as when to apply the former public servant policies regarding pension and fee abatement (reduction), as well as lump sum payments and the fee limit during the first year of a lump sum payment period.  Specific restrictions that apply to the approval of service contracts with former public servants have been clarified, and well as when to seek Treasury Board approval.</p>
 <p>When contracting for services, contracting officers must include clauses in bid solicitations and requests for standing offers (both competitive and non-competitive) to ensure that former public servants self-identify as to whether they are in receipt of a pension and/or lump sum payment.  Although it is not mandatory that former public servants provide this certification at bid closing, it must be provided before contract award/issuance of a standing offer.</p>
-<h4>Revisions</h4>
+<h5>Revisions</h5>
 <p>Refer to <a href="#PN-03Rannexa">Annex A</a> of this document for changes to the <em>Supply Manual</em>, which will be incorporated into an upcoming release.</p>
 <p>Refer to <a href="#PN-03Rannexb">Annex B</a> of this document for changes to the <em>Standard Acquisition Clauses and Conditions</em> Manual, which will be incorporated into Version 07-2, to be released November 30, 2007.  It should be noted that the applicable changes will also be incorporated into the departmental standard procurement templates on <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/lc-pl/index-eng.html" rel="external">Departmental Standard Procurement Documents</a> Website.</p>
-<h4>Contact</h4>
+<h5>Contact</h5>
 <p>N/A</p>
-<h3><a id="PN-03Rannexa" name="annexa"></a>Annex A</h3>
-<h4>Revisions to the Supply Manual</h4>
-<h5>Section 6A: Approval and Signing Authority Limits</h5>
+<h4><a id="PN-03Rannexa" name="annexa"></a>Annex A</h4>
+<h5>Revisions to the Supply Manual</h5>
+<h6>Section 6A: Approval and Signing Authority Limits</h6>
 <h6>Treasury Board Approval</h6>
 <p>6A.005 <span class="red">(xxxx-xx-xx) Treasury Board</span> (TB) approval is required for any contract or contract amendment exceeding the limits outlined in <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual">6A.020</a> below.</p>
 <p>6A.006 <span class="red">(xxxx-xx-xx)</span> TB approval is required for service contracts with former public servants in receipt of a pension <span class="red">payable pursuant to the <em>Public Service Superannuation Act</em>, as indexed pursuant to the <em>Supplementary Retirement Benefits Act</em>:</span></p>
@@ -32,7 +32,7 @@
 </ol>
 <p>6A.007 to 6A.011: No changes.</p>
 <hr/>
-<h5>Section 6D: Rules and Constraints</h5>
+<h6>Section 6D: Rules and Constraints</h6>
 <h6>Former Public Servants</h6>
 <p>6D.477<span class="red"> (xxxx-xx-xx) </span>Contracts with former public servants in receipt of a pension or of a lump sum payment must bear the closest public scrutiny and reflect fairness in spending public funds. <span class="red">(Refer to <a href="http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/contracting/contractingpol_e.asp" rel="external">Treasury Board Contracting Policy</a>)</span></p>
 <p>A former public servant may be:</p>
@@ -47,7 +47,7 @@
 <p>The exception is former ministers, for whom the prescribed waiting period is two years.</p>
 <p>The retirement waiting period does not apply to former members of the Canadian Forces or Royal Canadian Mounted Police.</p>
 <p>6D.479  (xxxx-xx-xx) Deleted.</p>
-<h5>Former Public Servants in Receipt of a Pension</h5>
+<h6>Former Public Servants in Receipt of a Pension</h6>
 <p class="red">6D.480 (xxxx-xx-xx) Competitive contracts must be awarded on the basis of lowest or best value bid without application of the fee abatement formula (see 6D.481); do not require a waiting period except under certain conditions (see 6D.478); and may be awarded even when there are fewer than two valid bids from individuals who are not former public servants.</p>
 <p>6D.481 (<span class="red">xxxx-xx-xx</span>) <span class="red">For non-competitive contracts with former public servants in receipt of a pension, the fee abatement formula below applies in the determination of the maximum fee payable.</span></p>
 <p class="red">For non-competitive contracts with former public servants in receipt of a pension AND a lump sum payment (see 6D.485), the application of the fee abatement formula is postponed to have it begin at the conclusion of the lump sum payment period.</p>
@@ -62,7 +62,7 @@
 					per diem = (60,000 + 18,000)/260 - 42,000/260 = $138.46</p>
 <p>No exceptions to the application of the formula or to the maximum rate allowed will be permitted without prior TB approval.</p>
 <p class="red">A "pension" in the context of the fee abatement formula is a pension or annual allowance paid under the <em>Public Service Superannuation Act </em>(PSSA) and any increases paid pursuant to the <em>Supplementary Retirement Benefits Act </em>as it affects the PSSA.  It does not include pensions payable pursuant to the <em>Canadian Forces Superannuation Act</em>, the <em>Defense Services Pension Continuation Act</em>, the <em>Royal Canadian Mounted Police Pension Continuation Act</em> and the <em>Royal Canadian Mounted Police Superannuation Act</em>, the <em>Members of Parliament Retiring Allowances Act</em> and that portion of pension payable pursuant to the <em>Canada Pension Plan Act</em>.</p>
-<h5 class="red">Former Public Servants in Receipt of a Lump Sum Payment</h5>
+<h6 class="red">Former Public Servants in Receipt of a Lump Sum Payment</h6>
 <p>6D.482 (<span class="red">xxxx-xx-xx</span>) In addition to the requirements of the contract fee abatement policy for former public servants in receipt of a pension (see <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6">6D.481</a>), the amount payable for professional fees when contracting with former public servants, whether they are in receipt of a pension or not, members of the Canadian Forces and members of the Royal Canadian Mounted Police, who have received a lump sum payment for employment termination under a <span class="red">workforce reduction program or adjustment initiative</span>, has been limited during the lump sum payment period.</p>
 <p class="red">The contract fee limit policy does not apply if the contract is not specifically for the services of the former public servant.</p>
 <p>For purposes of this policy, the "lump sum payment period" is defined as the period measured in weeks of salary, for which payment has been made to facilitate the transition to retirement or to other employment <span class="red">as a result of the implementation of various programs to reduce the Public Service</span>. The lump sum payment period does not include the period of severance pay, which is measured in a like manner.</p>
@@ -73,7 +73,7 @@
 <p>6D.485 <span class="red">(xxxx-xx-xx)  Non-competitive service contracts with former public servants in receipt of a pension and a lump sum payment are subject to the contract fee abatement policy (see 6D.482), however the application is postponed to have it begin at the conclusion of the lump sum payment period.</span></p>
 <p>6D.486 <span class="red">(xxxx-xx-xx) </span>Deleted.</p>
 <hr/>
-<h5>Section 6E - Process</h5>
+<h6>Section 6E - Process</h6>
 <h6>Formal Procurement Plan Process</h6>
 <p>6E.662 (<span class="red">xxxx-xx-xx</span>) A formal Procurement Plan is normally prepared for:</p>
 <ol type="a">
@@ -84,10 +84,10 @@
 <p>The exclusions are the supply of <span class="red">edible agricultural products </span>for foreign aid programs, and Canadian Commercial Corporation contracts.</p>
 <p>6E.663 (2006-12-15) No changes.</p>
 <hr/>
-<h3>Annex 6.1.1: Contract Approval and Signing Authorities in Support of Clients' Programs Only - Other than for Canadian Commercial Corporation</h3>
+<h4>Annex 6.1.1: Contract Approval and Signing Authorities in Support of Clients' Programs Only - Other than for Canadian Commercial Corporation</h4>
 <p class="red">(xxxx-xx-xx)</p>
-<h4>Approval Authorities</h4>
-<h5><span class="red">1.3 Former Public Servants in Receipt of a Pension</span></h5>
+<h5>Approval Authorities</h5>
+<h6><span class="red">1.3 Former Public Servants in Receipt of a Pension</span></h6>
 <p>Submissions (contract requests) granting approval to enter into a contract for the services of former public servants in receipt of a pension payable <span class="red">pursuant to the <em>Public Service Superannuation Act</em> as indexed pursuant to the <em>Supplementary Retirement Benefits Act</em> (see 6A.006 ), </span>as follows:</p>
 <ol type="a">
 <li>when the contract does not exceed $25,000 (non-competitive) or $100,000 (competitive): in accordance with Annex 6.1.2 for goods, services, construction, <span class="red">non-regulated</span> telecommunications, and A&amp;E services, or</li>
@@ -95,34 +95,34 @@
 <p><strong>Treasury Board</strong></p>
 </li>
 </ol>
-<h5><span class="red">1.4 Former Public Servants in Receipt of a Lump Sum Payment</span></h5>
+<h6><span class="red">1.4 Former Public Servants in Receipt of a Lump Sum Payment</span></h6>
 <p>Submissions (contract requests) granting approval to enter into or amend a contract<span class="red"> for the services</span> of former public servants in receipt of a lump sum payment pursuant to a <span class="red">workforce reduction program or adjustment initiative</span>, and the fee component will exceed $5,000 of either the individual contract or a combination of contracts, during the lump sum payment period (see 6D.483).</p>
 <p><strong>Treasury Board</strong></p>
 <hr/>
-<h3>Section 7A - Preparing a Bid Solicitation</h3>
-<h4>Former Public Servants</h4>
+<h4>Section 7A - Preparing a Bid Solicitation</h4>
+<h5>Former Public Servants</h5>
 <p>7A.095 <span class="red">(xxxx-xx-xx)  Former public servants must comply with the <em>Conflict of Interest and Post-Employment Code for the Public Service</em> or the <em>Values and Ethics Code for the Public Service</em> of Canada.  This is a term of all general conditions and forms part of all bid solicitations and requests for standing offers.</span></p>
 <p class="red">For service contracts, <em>Standard Acquisition Clauses and Conditions </em>(SACC) Manual clauses A3025T, A3026T, M3025T and M3026T (as applicable) must be used in all bid solicitations and requests for standing offers to ensure compliance with former public servant policies.  Bidders are required to self-identify as a former public servant, if applicable, and to make available to Canada any additional details of their status with respect to cash-out amounts and time equivalents, pension payment details and status of ownership.</p>
 <p class="red">7A.096 (xxxx-xx-xx) Former public servants must provide the required certification before contract award or issuance of a standing offer. This certification will be a condition precedent to contract award as opposed to a mandatory requirement for evaluation purposes. Canada will declare a bid non-responsive if the required certification(s) is not completed and submitted as requested.</p>
 <p class="red">All certifications that bidders provide to Canada are subject to verification by Canada during the bid evaluation period (before award of a contract) and after award of a contract to ensure compliance.</p>
 <hr/>
-<h3>Chapter 8 - ACAN/Negotiated Procurement</h3>
-<h4>Former Public Servants</h4>
+<h4>Chapter 8 - ACAN/Negotiated Procurement</h4>
+<h5>Former Public Servants</h5>
 <p class="red">8.034 (xxxx-xx-xx) Because of its transparency, electronic bidding demonstrates the fairness of the contracting process, contracting officers are encouraged to use this procedure to obtain bids or to announce, via an ACAN, proposed contract awards involving former public servants. It is also recommended in these situations that contracting officers consider using electronic bidding even if the contract's value is below the $25,000 threshold normally associated with the use of this methodology.</p>
 <p>8.035 to 8.040 No changes.</p>
-<h5>Negotiations</h5>
+<h6>Negotiations</h6>
 <p>8.045 (1994-06-23) No changes.</p>
 <p class="red">8.046 (xxxx-xx-xx)  The fee abatement formula (see <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-6">6D.481</a>) must be used in negotiations with former public servants in receipt of a pension, who have been retired for less than one year, in order to determine the maximum fee payable. If a rate lower than the one arrived at using the formula is negotiated and agreed to, the negotiated rate should be used.</p>
 <hr/>
-<h3>Chapter 12 – Glossary</h3>
-<h4>former public servant</h4>
+<h4>Chapter 12 – Glossary</h4>
+<h5>former public servant</h5>
 <ol type="a">
 <li><span class="red">as it applies to approval restrictions and the contract fee abatement policy</span>: an individual who has been employed in the Public Service and whose pensionable employment was with an organization listed in the schedules of the <em>Financial Administration Act</em>, branches designated as departments by the Governor in Council, departmental corporations, and those Crown corporations not included in the schedules and whose pension or annual allowance is paid under the <em>Public Service Superannuation Act</em> (PSSA) and the <em>Supplementary Retirement Benefits Act </em>as it affects the PSSA. </li>
 <li><span class="red">as it applies to the contract fee limit policy: any former member of a department as defined in the <em>Financial Administration Act</em>, a former member of the Canadian Forces or a former member of the Royal Canadian Mounted Police.  (xxxx-xx-xx) </span>(<em><strong>ancien fonctionnaire</strong></em>)</li>
 </ol>
-<h3><a id="PN-03Rannexb" name="annexb"></a>Annex B</h3>
-<h4>Revisions to SACC Manual</h4>
-<h5>A3025T Former Public Servant Certification</h5>
+<h4><a id="PN-03Rannexb" name="annexb"></a>Annex B</h4>
+<h5>Revisions to SACC Manual</h5>
+<h6>A3025T Former Public Servant Certification</h6>
 <h6>Remarks: </h6>
 <p>Use the following clause in all competitive bid solicitations for services requirements to identify any bidder who may be a former public servant for:</p>
 <ol type="a">
@@ -173,7 +173,7 @@
 <p>For all contracts awarded during the lump sum payment period, the total amount of fee that may be paid to a FPS who received a lump sum payment is $5,000, including the Goods and Services Tax or Harmonized Sales Tax.</p>
 <h6>Certification</h6>
 <p>By submitting a bid, the Bidder certifies that the information submitted by the Bidder in response to the above requirements is accurate and complete.</p>
-<h5>A3026T Former Public Servant Certification</h5>
+<h6>A3026T Former Public Servant Certification</h6>
 <h6>Remarks: </h6>
 <p>Use the following clause in all non competitive bid solicitations for services requirements for:</p>
 <ol type="a">
@@ -222,7 +222,7 @@
 <p>For all contracts awarded during the lump sum payment period, the total amount of fee that may be paid to a FPS who received a lump sum payment is $5,000, including the Goods and Services Tax or Harmonized Sales Tax.</p>
 <h6>Certification</h6>
 <p>By submitting a bid, the Bidder certifies that the information submitted by the Bidder in response to the above requirements is accurate and complete.</p>
-<h5>M3025T Former Public Servant Certification</h5>
+<h6>M3025T Former Public Servant Certification</h6>
 <h6>Remarks:</h6>
 <p>Use the following clause in all competitive requests for standing offers for services requirements to identify any offeror who may be a former public servant for:</p>
 <ol type="a">
@@ -265,7 +265,7 @@
 <p>For all contracts awarded during the lump sum payment period, the total amount of fee that may be paid to a FPS who received a lump sum payment is $5,000, including the Goods and Services Tax or Harmonized Sales Tax.</p>
 <h6>Certification</h6>
 <p>By submitting an offer, the Offeror certifies that the information submitted by the Offeror in response to the above requirements is accurate and complete.</p>
-<h5>M3026T Former Public Servant Certification</h5>
+<h6>M3026T Former Public Servant Certification</h6>
 <h6>Remarks:</h6>
 <p>Use the following clause in all non competitive requests for standing offers for services requirements for:</p>
 <ol type="a">

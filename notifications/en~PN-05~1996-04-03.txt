@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-05</h2>
+<h3 class="pn-content-title">Content of PN-05</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>For some time, we have been working together with staff from Indian and Northern Affairs Canada (INAC) to develop a procurement strategy for aboriginal business in order to meet the government's commitment to stimulate aboriginal business development. This strategy has now been approved and was recently announced by Minister Irwin.</p>
 <p>The strategy consists of a procurement policy for aboriginal business, changes to contracting policy and procurement review policy, supplier development activities and the elimination of administrative obstacles inhibiting aboriginal participation in federal procurement.</p>
@@ -9,8 +9,8 @@
 <p>The policy is being implemented officially April 1, 1996. Treasury Board Secretariat (TBS) and INAC have produced a Contracting Policy Notice, dated March 27, 1996, on this subject and we are preparing amendments for the Supply Manual. When a client department requests that a procurement be set-aside, we should respect the spirit and intent of the policy and do so.</p>
 <p>For further information, I have attached the following DIAND information concerning this strategy: a News Release Communique (Annex A); a Backgrounder (Annex B); and, an Information Sheet (Annex C). Additional questions may be directed to Tom Simper in Supply Policy Directorate at 819-956-0881.</p>
 <p>The ABE coding for set-asides is expected to be in place soon. In the meantime, under no circumstances should agreement type codes be used for set-aside requirements. Notification that the procurement is being set-aside should be written into the body of the notice of proposed procurement.</p>
-<h3>Annex A</h3>
-<h4>Procurement Measures for Aboriginal Business Announced</h4>
+<h4>Annex A</h4>
+<h5>Procurement Measures for Aboriginal Business Announced</h5>
 <p><strong><em>1-9563</em></strong></p>
 <p><em>OTTAWA (March 29, 1996)</em> -- The Honourable Ronald A. Irwin, Minister of Indian Affairs and Northern Development today announced new procurement measures designed to increase the participation of Aboriginal businesses in bidding for federal government contracts.</p>
 <p>"The federal government's primary motivation in this policy lies in our commitment to create jobs and ensure economic growth in Aboriginal communities which benefits all Canadians," said Minister Irwin.</p>
@@ -26,13 +26,13 @@
 <p>This news release is also available through the Internet at <a href="http://www.inac.gc.ca" rel="external">http://www.inac.gc.ca</a></p>
 <p><strong>For information</strong></p>
 <p><strong>N/A</strong></p>
-<h3>Annex B</h3>
-<h4>BACKGROUNDER</h4>
+<h4>Annex B</h4>
+<h5>BACKGROUNDER</h5>
 <p><strong>Background</strong></p>
 <p>The number of Aboriginal businesses has increased in recent times as more qualified Aboriginal college and university graduates enter the workforce. Today, there are more than 18,000 Aboriginal-owned businesses in Canada. However, the Aboriginal business sector has not participated in the area of federal government procurements to its fullest potential.</p>
 <p>The adoption of procurement policies to stimulate job creation and economic growth for Aboriginal communities was a Red Book commitment. The Department of Indian Affairs and Northern Development has assumed the lead for the Procurement Strategy for Aboriginal Business.</p>
 <p>Aboriginal and non-Aboriginal businesses have been consulted during the development of the Procurement Strategy for Aboriginal business.</p>
-<h4>Main components of procurement strategy</h4>
+<h5>Main components of procurement strategy</h5>
 <p><strong>Information and Promotion Activities:</strong> To increase awareness by Aboriginal business about federal contracting opportunities and increased awareness by federal procurement officers about Aboriginal firms</p>
 <p><strong>Aboriginal Population Set-Aside</strong>: All procurements over $5,000 for which Aboriginal populations are the primary recipients will be restricted exclusively to qualified Aboriginal firms where operation requirements, best value, prudence, probity (integrity) and sound contracting management can be assured.</p>
 <p><strong>Selective Set-Aside For Aboriginal Business:</strong> Federal government departments and agencies are mandated and encouraged to voluntarily set aside additional federal procurements under the Procurement Strategy where operational requirements, best value, prudence, probity (integrity) and sound contracting management can be assured.</p>
@@ -41,13 +41,13 @@
 <p>To qualify as an Aboriginal firm, a company will have to certify on each bid that it meets strict eligibility criteria based on Aboriginal majority (51 per cent) ownership and control, and for firms with 6 or more employees, that 33 per cent of the full-time employees are Aboriginal.</p>
 <p>The Procurement Strategy for Aboriginal Business will apply to all federal government departments and agencies.</p>
 <p>March 1996</p>
-<h3>Annex C</h3>
-<h4>Information Sheet</h4>
+<h4>Annex C</h4>
+<h5>Information Sheet</h5>
 <p><strong>Procurement Strategy for Aboriginal Business</strong></p>
 <p><strong>Background</strong></p>
 <p>The Government of Canada purchases $14 billion annually in construction, goods and services. It is estimated that 50 per cent of federal government purchases are made locally through regional buys across Canada, and 90 per cent of government contracts are under $100,000 in value.</p>
 <p>The Government of Canada is committed to doing more contracting with Aboriginal business, and a Procurement Strategy for Aboriginal Business is being implemented to achieve this objective.</p>
-<h4>Key Components of the Strategy</h4>
+<h5>Key Components of the Strategy</h5>
 <ul>
 <li>Information materials and sessions to familiarize Aboriginal businesses with federal contracting opportunities and procedures.</li>
 <li>Supplier promotion and marketing activities to publicize Aboriginal business capabilities.</li>
@@ -55,22 +55,22 @@
 <li>Set-aside measures enabling government departments to set aside contracts for competition exclusively among Aboriginal businesses.</li>
 <li>Policy changes encouraging joint venturing and sub-contracting with Aboriginal enterprises.</li>
 </ul>
-<h4>Set-Aside Program for Aboriginal Business</h4>
-<h4>The opportunity:</h4>
+<h5>Set-Aside Program for Aboriginal Business</h5>
+<h5>The opportunity:</h5>
 <p>The <em>Set-Aside Program for Aboriginal Business</em> is an important element of the overall strategy providing Aboriginal business with new opportunities:</p>
 <ul>
 <li>first opportunity to compete for contracts servicing Aboriginal populations;</li>
 <li>competition for other contracts which federal government departments may set aside for Aboriginal business;</li>
 <li>participation in contracts requiring sub-contracting to Aboriginal business.</li>
 </ul>
-<h4>Who's eligible?</h4>
+<h5>Who's eligible?</h5>
 <p><strong>Aboriginal businesses</strong> and <strong>joint ventures</strong> that satisfy Aboriginal ownership and Aboriginal employment requirements. These include:</p>
 <ul>
 <li><strong>Aboriginal businesses</strong> must be 51 per cent Aboriginal owned and controlled;</li>
 <li><strong>an Aboriginal business with a full-time labour force</strong> must have at least 33 per cent Aboriginal employees for firms with six or more full-time employees;</li>
 <li><strong>joint ventures of Aboriginal and non-Aboriginal</strong> businesses that are at least 51 per cent Aboriginal owned and controlled.</li>
 </ul>
-<h4>Information/Promotion/ Contract Security Activities</h4>
+<h5>Information/Promotion/ Contract Security Activities</h5>
 <p>Other key elements of the strategy will:</p>
 <ul>
 <li>increase Aboriginal businesses' awareness of the federal government's contracting procedures and opportunities</li>

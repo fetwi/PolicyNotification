@@ -1,22 +1,22 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-05U2</h2>
+<h3 class="pn-content-title">Contenu de l'AP-05U2</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 14 décembre 1999</h3>
-<h4>INTRODUCTION</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 14 décembre 1999</h4>
+<h5>INTRODUCTION</h5>
 <p>Des inquiétudes ont été exprimées sur le fait que les exigences en matière de contenu autochtone énoncées dans la Stratégie d'approvisionnement auprès des entreprises autochtones ne sont pas appliquées ou qu'elles le sont mal. Cette situation s'explique en partie parce que les directives concernant le contenu autochtone se trouvent dans une annexe de l'énoncé de politique principal. De plus, il s'impose d'apporter des précisions à cette politique.</p>
 <p>La politique actuelle est correcte en ce qui concerne le contenu autochtone. Elle précise que (Section 9L, Annexe 9.1) :</p>
 <ul>
 <li>« S'il s'agit d'un contrat (biens, services ou construction) pour lequel une entreprise présente une proposition qui suppose la sous-traitance, celle-ci doit certifier dans sa soumission qu'au moins 33 p. 100 de la valeur des travaux effectués en vertu du contrat seront réalisés par une ou plusieurs entreprises autochtones. La valeur des travaux effectués correspond à la valeur totale du contrat, moins les matériaux achetés directement par l'entrepreneur pour l'exécution du contrat. »</li>
 </ul>
-<h4>CHANGEMENTS APPORTÉS À LA POLITIQUE ACTUELLE ET EXPLICATIONS</h4>
+<h5>CHANGEMENTS APPORTÉS À LA POLITIQUE ACTUELLE ET EXPLICATIONS</h5>
 <p>A. La citation ci-dessus sera ramenée au début de la section principale de l'énoncé de politique.</p>
 <p>B. La politique énoncera clairement que le contenu autochtone doit représenter au moins 33 p. 100 de la valeur du contrat, moins le matériel acheté directement. Le contenu autochtone doit correspondre à la valeur réelle du travail exécuté et ne peut comprendre d'autres éléments comme des bénéfices.</p>
 <p>C. Les agents de négociation des marchés ont la responsabilité (et non le client ni le MAIN) de déterminer si les exigences en matière de contenu autochtone sont respectées. À cette fin, il sera peut-être nécessaire de faire une ventilation des prix.</p>

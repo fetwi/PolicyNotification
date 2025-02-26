@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-54R</h2>
+<h3 class="pn-content-title">Content of PN-54R</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The CKTEA is a bilateral agreement between Canada and Korea which covers federal government procurement of telecommunications goods and incidental services (services included in goods contracts). The CKTEA took effect on September 1, 2001.</p>
 <p>For implementation of the CKTEA, eight new SACC Manual clauses were introduced: K5000D; K5001T; K5002T; K5003T; K5004T; K5005T; K5006T; K5100C.</p>
@@ -11,9 +11,9 @@
 <p>The revisions will be incorporated into the next Supply Manual amendment, to be released 24 May 2002. The changes will be incorporated into the next SACC manual, to be released 24 May 2002.</p>
 <p>Any questions on the application of the CKTEA should be directed to the Strategic Policy Directorate (SPD), at telephone number 819-956-6497.</p>
 <hr/>
-<h3>SACC MANUAL</h3>
+<h4>SACC MANUAL</h4>
 <hr/>
-<h4>K5001T (XX/XX/XX) CKTEA Certification - Mandatory With Bid - Solely Limited - Single Item or Aggregate Basis</h4>
+<h5>K5001T (XX/XX/XX) CKTEA Certification - Mandatory With Bid - Solely Limited - Single Item or Aggregate Basis</h5>
 <p><strong>Remarks:</strong></p>
 <p>Use the following clause in all competitive bid solicitations in which the special procedures under the CKTEA are applicable (see Supply Manual), where competition is being solely limited to bids offering Canadian and/or Korean Goods and Services and where it is <strong>mandatory</strong> that bidders submit a certification with their bid. This clause is to be used for single item requirements and multi-item requirements that are being certified on an aggregate basis.</p>
 <p>This clause must be used in conjunction with clause K5000D, CKTEA Definitions.</p>
@@ -29,7 +29,7 @@
 <span aria-label="Blank placeholder" class="blankline"></span> <br/>
 					Date</p>
 <hr/>
-<h4>K5003T (XX/XX/XX) CKTEA Certification - Mandatory With Bid - Solely Limited - Multi-Item Requirements Listed in Bid</h4>
+<h5>K5003T (XX/XX/XX) CKTEA Certification - Mandatory With Bid - Solely Limited - Multi-Item Requirements Listed in Bid</h5>
 <p><strong>Remarks:</strong></p>
 <p>Use the following clause in all competitive bid solicitations in which the special procedures under the CKTEA are applicable (see Supply Manual), where competition is being solely limited to bids offering Canadian and/or Korean Goods and Services and where it is <strong>mandatory</strong> that bidders submit a certification with their bid. This clause is to be used for multi-item requirements that are being certified on an individual item basis and where the bidder will be required to indicate beside each item, listed in the bid, whether the item is Canadian or Korean.</p>
 <p>This clause must be used in conjunction with clause K5000D, CKTEA Definitions.</p>
@@ -46,7 +46,7 @@
 <span aria-label="Blank placeholder" class="blankline"></span> <br/>
 					Date</p>
 <hr/>
-<h4>K5004T (XX/XX/XX) CKTEA Certification - Mandatory With Bid - Solely Limited - Multi-Item Requirements Listed in Clause</h4>
+<h5>K5004T (XX/XX/XX) CKTEA Certification - Mandatory With Bid - Solely Limited - Multi-Item Requirements Listed in Clause</h5>
 <p>Remarks:</p>
 <p>Use the following clause in all competitive bid solicitations in which the special procedures under the CKTEA are applicable (see Supply Manual), where competition is being solely limited to bids offering Canadian and/or Korean Goods and Services and where it is <strong>mandatory</strong> that bidders submit a certification with their bid. This clause is to be used for multi-item requirements that are being certified on an individual item basis and where the bidder is to list in the clause those items in its bid that are to be considered Canadian or Korean Goods and Services.</p>
 <p>This clause must be used in conjunction with clause K5000D, CKTEA Definitions.</p>
@@ -70,7 +70,7 @@
 <span aria-label="Blank placeholder" class="blankline"></span> <br/>
 					Date</p>
 <hr/>
-<h4>K5011T (XX/XX/XX) CKTEA Certification - Not Mandatory With Bid - Solely Limited - Single Item or Aggregate Basis</h4>
+<h5>K5011T (XX/XX/XX) CKTEA Certification - Not Mandatory With Bid - Solely Limited - Single Item or Aggregate Basis</h5>
 <p><strong>Remarks:</strong></p>
 <p>Use the following clause in all competitive bid solicitations in which the special procedures under the CKTEA are applicable (see Supply Manual), where competition is being solely limited to bids offering Canadian and/or Korean Goods and Services and where it is <strong>not mandatory</strong> that bidders submit a certification with their bid. This clause is to be used for single item requirements and multi-item requirements that are being certified on an aggregate basis.</p>
 <p>This clause must be used in conjunction with clause K5000D, CKTEA Definitions.</p>
@@ -86,7 +86,7 @@
 <span aria-label="Blank placeholder" class="blankline"></span> <br/>
 					Date</p>
 <hr/>
-<h4>K5013T (XX/XX/XX) CKTEA Certification - Not Mandatory With Bid - Solely Limited - Multi-Item Requirements Listed in Bid</h4>
+<h5>K5013T (XX/XX/XX) CKTEA Certification - Not Mandatory With Bid - Solely Limited - Multi-Item Requirements Listed in Bid</h5>
 <p><strong>Remarks:</strong></p>
 <p>Use the following clause in all competitive bid solicitations in which the special procedures under the CKTEA are applicable (see Supply Manual), where competition is being solely limited to bids offering Canadian and/or Korean Goods and Services and where it is <strong>not mandatory</strong> that bidders submit a certification with their bid. This clause is to be used for multi-item requirements that are being certified on an individual item basis and where the bidder will be required to indicate beside each item, listed in the bid, whether the item is Canadian or Korean.</p>
 <p>This clause must be used in conjunction with clause K5000D, CKTEA Definitions.</p>
@@ -103,7 +103,7 @@
 <span aria-label="Blank placeholder" class="blankline"></span> <br/>
 					Date</p>
 <hr/>
-<h4>K5014T (XX/XX/XX) CKTEA Certification - Not Mandatory With Bid - Solely Limited - Multi-Item Requirements Listed in Clause</h4>
+<h5>K5014T (XX/XX/XX) CKTEA Certification - Not Mandatory With Bid - Solely Limited - Multi-Item Requirements Listed in Clause</h5>
 <p><strong>Remarks:</strong></p>
 <p>Use the following clause in all competitive bid solicitations in which the special procedures under the CKTEA are applicable (see Supply Manual), where competition is being solely limited to bids offering Canadian and/or Korean Goods and Services and where it is <strong>not mandatory</strong> that bidders submit a certification with their bid. This clause is to be used for multi-item requirements that are being certified on an individual item basis and where the bidder is to list in the clause those items in its bid that are to be considered Canadian or Korean Goods and Services.</p>
 <p>This clause must be used in conjunction with clause K5000D, CKTEA Definitions.</p>
@@ -124,7 +124,7 @@
 <span aria-label="Blank placeholder" class="blankline"></span> <br/>
 					Date</p>
 <hr/>
-<h4>Supply Manual</h4>
+<h5>Supply Manual</h5>
 <p><strong>Supply Manual Changes</strong></p>
 <p>5.069 (10/12/01) The bidder will certify Canadian and/or Korean content by signing a statement that the products offered meet the definition of Canadian and/or Korean Goods and Services. The certification forms are contained in the <em>Standard Acquisition Clauses and Conditions</em> (SACC) Manual under clause numbers K5001T, K5002T, K5003T, K5004T, K5005T, K5011T, K5013T, K5014T and K5006T.</p>
 <p>7A.007 (10/12/01) For procurement to which the special procedures under the CKTEA applies, the contracting officer shall decide, at the procurement planning stage, whether the procurement will be:</p>

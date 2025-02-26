@@ -1,17 +1,17 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-121</h2>
-<h3>Objet</h3>
+<h3 class="pn-content-title">Contenu de l'AP-121</h3>
+<h4>Objet</h4>
 <p>L’avis relatif au politique (AP) 121 vise à encourager l’utilisation des cartes d’achat (Visa, MasterCard) comme option supplémentaire pour l’achat de biens et de services dans le cadre des offres à commandes et des arrangements en matière d’approvisionnement (OC/AMA). Les cartes d’achat peuvent être utilisées au lieu du formulaire 942 (Commande subséquente à une offre à commandes) à titre d’outil d’approvisionnement. Cela signifie que l’exigence relative à l’utilisation du formulaire 942 pour demander des biens ou des services n’est maintenant plus obligatoire, mais optionnelle.</p>
 <p>Les exigences relatives aux renseignements à fournir conformément aux <a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=14676" rel="external">Lignes directrices sur la divulgation proactive des marchés</a> du Conseil du Trésor pour les transactions de plus de 10 000 $ demeurent inchangées et doivent être respectées.</p>
 <p>Le présent <abbr title="avis relatif au politique">AP</abbr> contient des renseignements sur les modifications apportées à des clauses figurant dans le modèle uniformisé de demande d’offre à commandes (DOC), et dans le Guide des clauses et conditions uniformisées d’achat (CCUA), pour permettre l’utilisation des cartes d’achat à titre d’instrument d’approvisionnement dans le cadre des <abbr title="offres à commandes">OC</abbr>s/<abbr title="arrangements en matière d’approvisionnement">AMA</abbr>s. Le Guide des approvisionnements est également modifié afin de tenir compte de l’élargissement de la portée de l’utilisation des cartes d’achat.</p>
 <p>Le présent <abbr title="avis relatif au politique">AP</abbr> renforce le fait que les cartes d’achat peuvent être utilisées comme un instrument d’approvisionnement et comme un instrument de paiement, ce qui pourrait se traduire par des gains d’efficience dans bien des cas.</p>
 <p>Le présent <abbr title="avis relatif au politique">AP</abbr> doit être lu conjointement avec les politiques du Secrétariat du Conseil du Trésor et de Travaux publics et Services gouvernementaux Canada (TPSGC), lesquelles établissent et définissent les méthodes, outils et processus d’approvisionnement et de paiement.</p>
-<h3>Date d’entrée en vigueur</h3>
+<h4>Date d’entrée en vigueur</h4>
 <p>La politique entre en vigueur immédiatement.</p>
 <p>Les <abbr title="offres à commandes">OC</abbr>s/<abbr title="arrangements en matière d’approvisionnement">AMA</abbr>s existants de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> seront modifiés afin de permettre l’utilisation des cartes d’achat comme équivalent à l’émission du formulaire existant et permettre l’achat ou le paiement de biens et de services, s’il y a lieu.</p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>Par le passé, <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> a encouragé l’utilisation de cartes d’achat uniquement en tant qu’instrument pour le paiement de biens et de services par le biais de diverses communications comme l’<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/avis-relatifs-aux-politiques?pnid=AP-114#parcourir-ap-precedents">Avis relatif aux politiques 114</a>. Un examen a déterminé que les cartes d’achat permettraient de réaliser plus d’économies si elles étaient utilisées à titre d’instrument d’approvisionnement ou d’instrument de paiement pour des achats à valeur réduite, à risques réduits et à volume élevé.</p>
 <p>À titre d’instrument d’approvisionnement, les cartes d’achat :</p>
 <ul>
@@ -30,7 +30,7 @@
 <li>abaissent les coûts de traitement des opérations par achat</li>
 <li>peuvent permettre d’obtenir des rabais en fonction de la vitesse avec laquelle la facture liée à la carte d’achat est réglée</li>
 </ul>
-<h3>Résumé des changements</h3>
+<h4>Résumé des changements</h4>
 <ul>
 <li>Modèles uniformisés d’approvisionnement : <br/>
 	À l’appui de cet <abbr title="avis relatif au politique">AP</abbr>, deux articles de la Partie 7A - Offre à commandes et clauses du contrat subséquent du modèle uniformisé d’offre à commandes ont été mises à jour. Le modèle modifié peut être trouvé sur la page <a class="gov-auth-link" href="http://www.gcpedia.gc.ca/wiki/Mod%C3%A8les_uniformis%C3%A9s_d%E2%80%99approvisionnement" rel="external">Modèles uniformisés d’approvisionnement</a><span> (accessible uniquement sur le réseau du gouvernement du Canada)</span>. Aucune modification n’est requise dans le modèle uniformisé d’arrangement en matière d’approvisionnement.
@@ -56,11 +56,11 @@
 </ul>
 </li>
 </ul>
-<h3>Personnes-ressources</h3>
+<h4>Personnes-ressources</h4>
 <p>Les demandes de renseignements relatives à cet <abbr title="avis relatif au politique">AP</abbr> peuvent être envoyées par courriel à l’adresse suivante : 
 	<a href="mailto:polprograpprovisionnements.acquisitionsprogrampolicy@tpsgc-pwgsc.gc.ca" rel="external">polprograpprovisionnements.acquisitionsprogrampolicy@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
+<h5 class="field-label">Sections du Guide des approvisionnements visées</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-753d387d5cb9a32f8572b9bb6246373f">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -72,7 +72,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
+<h5 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-6758c37efc010357d081fab76dfe26c1">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

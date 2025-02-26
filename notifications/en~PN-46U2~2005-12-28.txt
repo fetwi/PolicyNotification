@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-46U2</h2>
+<h3 class="pn-content-title">Content of PN-46U2</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <ol>
 <li>Treasury Board Secretariat has provided notice (CPN 2005-3)<br/>
@@ -13,11 +13,11 @@
 </ol>
 <blockquote><p>Note:	Based on the strength of the Canadian dollar, there has been a decrease in the trade thresholds. </p>
 </blockquote>
-<h3>World Trade Organization Agreement on Government Procurement  (<acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>)</h3>
+<h4>World Trade Organization Agreement on Government Procurement  (<acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>)</h4>
 <p><strong>Goods:</strong> Departments and Agencies - C$245,000<br/>
 <strong>Services:</strong> Departments and Agencies - C$245,000<br/>
 <strong>Construction:</strong> Departments and Agencies - C$9,400,000</p>
-<h3>North American Free Trade Agreement (NAFTA)</h3>
+<h4>North American Free Trade Agreement (NAFTA)</h4>
 <dl>
 <dt><strong>Goods:</strong></dt>
 <dd>Departments and Agencies - C$32,400</dd>
@@ -30,7 +30,7 @@
 <dd>Enterprises (Crown Corporations) - C$13,400,000</dd>
 </dl>
 <p>The thresholds for the Agreement on Internal Trade remain unchanged at $25,000 for goods and $100,000 for services and construction.</p>
-<h3>Changes to Supply Manual</h3>
+<h4>Changes to Supply Manual</h4>
 <p>These changes will be reflected in next amendment of the Supply Manual, expected to be released in June 2006.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

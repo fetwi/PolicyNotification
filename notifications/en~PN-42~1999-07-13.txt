@@ -1,9 +1,9 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-42</h2>
+<h3 class="pn-content-title">Content of PN-42</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p><strong><em>Note: although it is being issued using the Policy Notification process, this is an Interim Guideline, rather than a new or modified policy.</em></strong></p>
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>Third Party Procurement (TPP), generally speaking, takes place when a supplier to the government, in the course of performing a contract with the government, buys goods and services, using money that the government is paying under the main contract.</p>
 <p><abbr title="Third Party Procurement">TPP</abbr> is not new. Whether for goods, general services, construction, or A&amp;E services, such buying by principal contractors has always taken place - such as:</p>
 <ul>
@@ -14,7 +14,7 @@
 <p>The question is if, and when, restrictions should be put on a main supplier's "freedom" to buy goods and services. This guideline is designed to assist in that decision process, and has been developed based on extensive discussions with all Regions and Sectors.</p>
 <p>In order to make sure that it is useful to procurement staff, <abbr title="Public Works and Government Services Canada">PWGSC</abbr> experience with this Interim Guideline will be reviewed after three months, and discussions subsequently held with industry, in order to issue (if necessary) a permanent policy statement. Users are invited to provide suggestions for addition and change to John Read, Director, Special Projects, SPMS, by e-mail or at 819-956-2651.</p>
 <p>Following the Interim Guidelines below, is a general discussion of <abbr title="Third Party Procurement">TPP</abbr>; the Guidelines; and, their use.</p>
-<h4>Interim Guidelines</h4>
+<h5>Interim Guidelines</h5>
 <ol type="a">
 <li>During the planning of a procurement, consideration must be given, as to whether there need to be any restrictions on a main supplier's ability to carry out <abbr title="Third Party Procurement">TPP</abbr>.</li>
 <li>The <abbr title="Third Party Procurement">TPP</abbr> Planning Map (Annex A) and detailed <abbr title="Third Party Procurement">TPP</abbr> Factors (Annex B) are the framework for decision-making. Procurement staff should take the time to familiarize themselves with the various items included in each of the Factors.</li>
@@ -23,7 +23,7 @@
 <li>A main supplier must not be required or authorized to carry out <abbr title="Third Party Procurement">TPP</abbr>, for the purpose of avoiding government procurement obligations under Land Claim Agreements, trade agreements, the Government Contracts Regulations, Treasury Board delegations of authority, or other legal or policy requirements.</li>
 </ol>
 <p>Procurement staff are cautioned particularly about situations where it is clear that the main contractor will be carrying out specific procurement on behalf of the government (e.g. a contract to provide LAN services, which specifies that the main contractor will be responsible for replacing a department's desktop computers). According to the Department of Justice, an agent (a contractor) who acts on the instructions of its principal for the benefit of its principal cannot shield the procurement from the trade agreements. Factors such as: whose money is paying for the goods or services; who is setting the specifications; and, who will own the goods or on whose behalf the services are being rendered, would be considered to determine whether the procurement is a government procurement and subject to the trade agreements.</p>
-<h4>Discussion</h4>
+<h5>Discussion</h5>
 <ol type="i">
 <li>It is important to emphasize that <strong>the reason for issuing this <abbr title="Third Party Procurement">TPP</abbr> guideline is not to correct a problem. </strong>Rather, it is to prevent problems from occurring.</li>
 <li>The challenge for <abbr title="Public Works and Government Services Canada">PWGSC</abbr>, is to find the best way to meet a client's operational requirements, without restricting unduly business opportunities for potential suppliers, and recognizing the resource constraints that exist increasingly for both <abbr title="Public Works and Government Services Canada">PWGSC</abbr> and its clients. Decisions must be made, in the context of the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> common service procurement mandate, and recognizing the commitments that Canada has made, in the Land Claims and trade agreements.</li>
@@ -95,7 +95,7 @@
 <li>Furniture (Department-wide) - purchase of modular furniture, to be paid for and owned by the government, for government accommodation in a federal building on Front Street the clear mandate of <abbr title="Public Works and Government Services Canada">PWGSC</abbr> for furniture procurement, as a good, yields high risk if the procurement is left to the private sector; the government should procure.</li>
 <li>Projectiles - not just everyone can buy military ammunition.</li>
 </ol>
-<h3>Annex B</h3>
+<h4>Annex B</h4>
 <ol type="i">
 <li><strong>Ownership</strong>
 <ul>

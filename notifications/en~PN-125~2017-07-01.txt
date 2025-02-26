@@ -1,12 +1,12 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-125</h2>
+<h3 class="pn-content-title">Content of PN-125</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of Policy Notification PN-125 is to inform all PWGSC Acquisitions Program (AP) employees and contracting officers of the replacement of the Agreement on Internal Trade (AIT) with the <a href="https://www.cfta-alec.ca/wp-content/uploads/2017/06/CFTA-Consolidated-Text-Final-Print-Text-English.pdf" rel="external">Canadian Free Trade Agreement (CFTA)</a>, and its effect on trade commitments regarding procedural rules and scope of coverage.</p>
-<h3>Effective date</h3>
+<h4>Effective date</h4>
 <p>This policy notification is effective July 1, 2017. The <abbr title="Canadian Free Trade Agreement">CFTA</abbr> will apply to all procurements commenced on or after July 1, 2017, while the <abbr title="Agreement on Internal Trade">AIT</abbr> will continue to apply to all procurements commenced prior to the <abbr title="Canadian Free Trade Agreement">CFTA</abbr>’s effective date of July 1, 2017. The procurement process commences after an entity has decided on its requirement (see Article 1210: Entry into Force and Article 1211: Termination of the Agreement on Internal Trade).</p>
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>Trade agreements help to foster competition and innovation by enabling Canadian suppliers to compete on a more even playing field with firms in other jurisdictions based on principles that promote open, fair and transparent competition. These principles include:</p>
 <ul>
 <li>non-discrimination according to country, province, or territory of origin </li>
@@ -14,15 +14,15 @@
 <li>competitive procurement</li>
 <li>fair procurement processes</li>
 </ul>
-<h3>Overview</h3>
+<h4>Overview</h4>
 <p>The <abbr title="Canadian Free Trade Agreement">CFTA</abbr> replaces the <abbr title="Agreement on Internal Trade">AIT</abbr>, which has been in force since 1995, and will apply to the federal government as well as all provinces and territories. The <abbr title="Canadian Free Trade Agreement">CFTA</abbr> improves on the <abbr title="Agreement on Internal Trade">AIT</abbr> and will have significant benefits. The coverage and procedural rules of the <abbr title="Canadian Free Trade Agreement">CFTA</abbr> are set out in Chapter 5 of the Agreement, while exceptions are outlined in Annex 520.1: Party-Specific Exceptions, which includes the schedules of Canada, the provinces and territories. Annex 520.1 uses a negative list approach, where exceptions to the obligations of the Chapter are specifically listed in the schedules. The procedural rules of the <abbr title="Canadian Free Trade Agreement">CFTA</abbr> have been aligned, to a large extent, with those in Canada’s international trade agreements (ITAs), including the World Trade Organization – Agreement on Government Procurement (WTO-AGP). Currently, the procurement thresholds for the <abbr title="Canadian Free Trade Agreement">CFTA</abbr> also remain the same as for the <abbr title="Agreement on Internal Trade">AIT</abbr>. It is therefore expected that the obligations of <abbr title="Canadian Free Trade Agreement">CFTA</abbr> will have a minimal impact on federal procurement activities. However, as with all trade agreements, the entire Government Procurement Chapter should be consulted to identify Canada’s obligations and exceptions.</p>
-<h4>Procedural obligations</h4>
+<h5>Procedural obligations</h5>
 <p>Procedural obligations are found in the text of the Government Procurement Chapter and have been aligned, to a large extent, with those in <abbr title="international trade agreements">ITA</abbr>s such as the <abbr title="World Trade Organization – Agreement on Government Procurement">WTO-AGP</abbr>. Procedural rules cover, for example, contract valuation, general exceptions, notices, the content of tender documentation, the circumstances for the use of limited tendering, the publication of award information, and the use of technical specifications. </p>
-<h4>Covered entities</h4>
+<h5>Covered entities</h5>
 <p>All federal departments and agencies are covered by the <abbr title="Canadian Free Trade Agreement">CFTA</abbr> Procurement Chapter unless excluded in Annex 520.1: Party-Specific Exceptions. Consult both sections within Annex 520.1’s Schedule of Canada: Section A (Excluded Entities) and Section B (Exclusions and Notes).</p>
-<h4>Goods, services and construction services</h4>
+<h5>Goods, services and construction services</h5>
 <p>All goods, services and construction services are covered by the <abbr title="Canadian Free Trade Agreement">CFTA</abbr> Procurement Chapter unless specified in the Schedule of Canada under Section B: Exceptions and Notes (Annex 520.1: Party-Specific Exceptions).</p>
-<h4>Thresholds</h4>
+<h5>Thresholds</h5>
 <table class="table">
 <caption>Thresholds for the <abbr title="Agreement on Internal Trade">AIT</abbr> and <abbr title="Canadian Free Trade Agreement">CFTA</abbr> ($CAN)</caption>
 <tbody><tr>
@@ -51,9 +51,9 @@
 </tr>
 </tbody></table>
 <p><abbr title="Canadian Free Trade Agreement">CFTA</abbr>'s thresholds will be adjusted for inflation every two years commencing on January 1, 2018, and will be published on the Treasury Board Secretariat’s Contracting Policy Notices (<a href="https://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/ContPolNotices/2015/15-03-eng.asp" rel="external">Trade Agreements: Thresholds Update</a>) webpage.</p>
-<h4>Exceptions</h4>
+<h5>Exceptions</h5>
 <p>Certain exceptions are listed in Chapter 8 (General Exceptions). All other exceptions are listed in Article Article 504:11: Non-Application, Article 520: Exceptions, and in the Schedule of Canada (Annex 520.1: Party-Specific Exceptions).</p>
-<h3>Summary of changes</h3>
+<h4>Summary of changes</h4>
 <p>While the <abbr title="Canadian Free Trade Agreement">CFTA</abbr> is similar to the <abbr title="Agreement on Internal Trade">AIT</abbr> in terms of coverage and procedural rules, there are a few key differences regarding government procurement. For example, the <abbr title="Canadian Free Trade Agreement">CFTA</abbr>:</p>
 <ul>
 <li>has broader coverage than the <abbr title="Agreement on Internal Trade">AIT</abbr>, using a negative list approach that covers all government procurement with the exception of entities, goods, and services that are specifically listed in the market access schedules for Canada and each province and territory</li>
@@ -67,10 +67,10 @@
 <li>maintaining the <abbr title="Agreement on Internal Trade">AIT</abbr>’s thresholds; although note that these thresholds will now be revised every two years to adjust for inflation</li>
 </ul>
 <p>Note: The <abbr title="Canadian Free Trade Agreement">CFTA</abbr> does not apply to procurement that is part of a small business set-aside program provided that the program is fair, open, transparent, and does not discriminate on the basis of origin or location within Canada of goods, services, or suppliers.</p>
-<h3>Contact information</h3>
+<h4>Contact information</h4>
 <p>For assistance with the application of the trade agreements, contracting officers may contact Natalie Dupont in the Trade Agreement Unit of the Strategic Policy Sector, either by telephone at 819-420-1710, or by email: <a href="mailto:Natalie.Dupont@tpsgc-pwgsc.gc.ca" rel="external">Natalie.Dupont@tpsgc-pwgsc.gc.ca</a></p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected Supply Manual sections</h4>
+<h5 class="field-label">Affected Supply Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-5e0728d69e3a7203d0e6157d837a773e">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -156,7 +156,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h4>
+<h5 class="field-label">Affected <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual sections</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-c3f3c92bb566daa4f25bfd5310da166a">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

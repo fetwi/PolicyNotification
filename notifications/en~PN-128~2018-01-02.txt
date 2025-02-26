@@ -1,12 +1,12 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-128</h2>
+<h3 class="pn-content-title">Content of PN-128</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h3>Purpose</h3>
+<h4>Purpose</h4>
 <p>The purpose of Policy Notification (PN)-128 is to inform all Public Works and Government Services Canada (PWGSC) Acquisitions Program's contracting officers of the implementation of an additional receiving method using Canada Post Corporation’s epost Connect service in the Bid Receiving Unit (BRU), Headquarters (HQ), located in the National Capital Region (NCR). The ability for contracting officers to offer to suppliers the use of the epost Connect service as a delivery method to <abbr title="Bid Receiving Unit">BRU</abbr>s located within Acquisitions Program's regional offices will be provided through amendment(s) to this <abbr title="Policy Notification">PN</abbr>.</p>
-<h3>Effective date</h3>
+<h4>Effective date</h4>
 <p>This <abbr title="Policy Notification">PN</abbr> is effective January 2, 2018.</p>
-<h3>Solicitations where the epost Connect service may be used</h3>
+<h4>Solicitations where the epost Connect service may be used</h4>
 <p>Contracting officers may consider offering the epost Connect service in solicitations where
     <abbr title="Bid Receiving Unit">BRU</abbr>
 <abbr title="Headquarters">HQ</abbr>
@@ -16,7 +16,7 @@
     <abbr title="Policy Notification">PN</abbr> and the standard procurement templates issued by
     <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Strategic Policy Development and Integration Directorate covering the low, medium and high complexity goods and services, are used and are updated as per this
     <abbr title="Policy Notification">PN</abbr>. </p>
-<h3>Exceptions</h3>
+<h4>Exceptions</h4>
 <p>Canada Post Corporation's epost Connect service for delivery to the
     <abbr title="Bid Receiving Unit">BRU</abbr>
 <abbr title="Headquarters">HQ</abbr>
@@ -33,7 +33,7 @@
 </li>
 <li>procurements for which bids, offers or arrangements will contain information exceeding Protected B level </li>
 </ul>
-<h3>Expected results</h3>
+<h4>Expected results</h4>
 <p>This initiative will allow suppliers to submit bids, offers and arrangements to
     <abbr title="Bid Receiving Unit">BRU</abbr>
 <abbr title="Headquarters">HQ</abbr>
@@ -47,7 +47,7 @@
 <li>contribute to
         <abbr title="Public Works and Government Services Canada">PWGSC</abbr>’s ongoing efforts to modernize procurement processes, so that these are simpler, less administratively burdensome and include practices that support socio-economic goals, such as greening operations</li>
 </ul>
-<h3>Process and responsibility</h3>
+<h4>Process and responsibility</h4>
 <p>The introduction of the use of epost Connect service will provide suppliers with an additional choice on how to submit their bids, offers or arrangements, as the case may be. When contracting officers permit suppliers to submit their bids, offers or arrangements using the epost Connect service, suppliers may choose not to use the service, and instead submit by other existing means, such as counter service, fax, mail, courier, and bid box unless otherwise specified in the solicitation.</p>
 <p>The use of the epost Connect service will only enhance the role
     <abbr title="Bid Receiving Unit">BRU</abbr> fulfills in the contracting process in support of Acquisitions Program activities. In addition to receiving bids, offers and arrangements submitted through the use of epost Connect service,
@@ -59,14 +59,14 @@
     <abbr title="Bid Receiving Unit">BRU</abbr>
 <abbr title="Headquarters">HQ</abbr>
 <abbr title="National Capital Region">NCR</abbr> are planned for late fall 2017. Annex D provides answers to questions raised during the pilot project implementation of epost Connect service.</p>
-<h3>Summary of changes</h3>
-<h4>Standard Acquisition Clauses and Conditions Manual changes:</h4>
+<h4>Summary of changes</h4>
+<h5>Standard Acquisition Clauses and Conditions Manual changes:</h5>
 <p>In support of <abbr title="Policy Notification">PN</abbr>-128, annex A outlines the modifications, in a strike out format, to sections 05, 06, 07 and 08 of Standard Instructions 2003, 2006 and 2008. It is provided to show the modifications that are introduced as options for use by contracting officers within the standard procurement templates. The online version of the
     <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual on Buyandsell.gc.ca website will be updated to include these modifications when the use of the epost Connect service is offered within solicitations throughout
     <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Acquisitions Program's regional offices.</p>
-<h4>Supply Manual changes:</h4>
+<h5>Supply Manual changes:</h5>
 <p>In support of <abbr title="Policy Notification">PN</abbr>-128, annex B contains the modifications to be made to the Supply Manual to allow contracting officers to offer in solicitations the use of the epost Connect service to suppliers for the delivery of bids, offers, and arrangements.</p>
-<h4>Standard procurement templates changes:</h4>
+<h5>Standard procurement templates changes:</h5>
 <p>In support of <abbr title="Policy Notification">PN</abbr>-128, annex C provides the modifications to the following standard procurement templates published by the Strategic Policy Development and Integration Directorate:</p>
 <ul>
 <li>High Complexity Bid Solicitation and Resulting Contract Template (HC) </li>
@@ -74,7 +74,7 @@
 <li>Request for Standing Offers (RFSO) Template </li>
 <li>Request for Supply Arrangements (RFSA) Template </li>
 </ul>
-<h3>Contact persons</h3>
+<h4>Contact persons</h4>
 <p>Questions related to the epost Connect service initiative can be sent by email to the following address: <a href="mailto:tpsgc.dgareceptiondessoumissions-abbidreceiving.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.dgareceptiondessoumissions-abbidreceiving.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Questions related to Policy Notification <abbr title="Policy Notification">PN</abbr>-128, the Standard Procurement Templates and
     <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual can be sent by email to the following address:  

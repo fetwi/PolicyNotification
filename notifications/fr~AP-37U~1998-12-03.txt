@@ -1,24 +1,24 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-37U</h2>
+<h3 class="pn-content-title">Contenu de l'AP-37U</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 3 décembre 1998</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 3 décembre 1998</h4>
 <p>Vous devez lire cette mise à jour de concert avec l'Avis relatif aux politiques n<sup>o</sup>37.</p>
 <p>Depuis son introduction le 11 septembre dernier, le PAJAT s'est montré un outil efficace et opportun dans le traitement des demandes de modifications urgentes. Nous possédons maintenant une meilleure appréciation de l'information requise et de la façon dont elle doit être présentée. Le format présenté ci-dessous devra servir de norme pour la soumission des demandes futures relatives au PAJAT :</p>
-<h4>OBJET :</h4>
+<h5>OBJET :</h5>
 <ul>
 <li>Nom/Référence du projet.</li>
 <li>Demande de modification d'une valeur de X $.</li>
 <li>Pour l'approbation du ministre ou du Sous-ministre adjoint (SMA).</li>
 </ul>
-<h4>CONTEXTE :</h4>
+<h5>CONTEXTE :</h5>
 <ul>
 <li>description du projet.</li>
 <li>client.</li>
@@ -29,31 +29,31 @@
 <li>méthode d'approvisionnement (p. ex. concurrentielle, fournisseur unique, SPEC);</li>
 <li>liste des soumissionnaires précédents, par ordre de classement, avec le prix proposé.</li>
 </ul>
-<h4>MODIFICATIONS PRÉCÉDENTES :</h4>
+<h5>MODIFICATIONS PRÉCÉDENTES :</h5>
 <ul>
 <li>Valeur et motif de toute modification précédente.</li>
 <li>Questions de responsabilité (p. ex. demande du client).</li>
 </ul>
-<h4>MODIFICATION PROPOSÉE :</h4>
+<h5>MODIFICATION PROPOSÉE :</h5>
 <ul>
 <li>Valeur et motif.</li>
 <li>Questions de responsabilité, s'il y a lieu (p. ex. la nécessité d'une modification est-elle due à une nouvelle demande du client?; la Couronne est-elle responsable à cause d'un retard?; la responsabilité est-elle partagée entre l'entrepreneur et la Couronne?).</li>
 <li>Si l'ampleur des travaux augmente, pourquoi modifier le contrat plutôt que de lancer un nouvel appel d'offres? comment nous sommes-nous assurés que la valeur est juste et raisonnable?</li>
 </ul>
-<h4>CONSÉQUENCES DE NE PAS RECEVOIR L'AUTORISATION IMMÉDIATE D'ALLER DE L'AVANT :</h4>
+<h5>CONSÉQUENCES DE NE PAS RECEVOIR L'AUTORISATION IMMÉDIATE D'ALLER DE L'AVANT :</h5>
 <ul>
 <li>Impacts sur le projet, le client, conséquences politiques s'il y en a, etc.</li>
 <li>Définir et donner des précisions quantitatives.</li>
 </ul>
-<h4>COÛTS ET TAXES :</h4>
+<h5>COÛTS ET TAXES :</h5>
 <ul>
 <li>Précisions sur les coûts et le financement [p. ex. montant du contrat initial de X $; modifications précédentes de X $; modification proposée de X $; montant prévu du contrat final de X $ (taxes comprises ou en sus)].</li>
 </ul>
-<h4>AUTRE :</h4>
+<h5>AUTRE :</h5>
 <ul>
 <li>Toute autre circonstance atténuante ou tout autre fait pertinent.</li>
 </ul>
-<h4>ESPACE POUR LA SIGNATURE D'APPROBATION DU MINISTRE :</h4>
+<h5>ESPACE POUR LA SIGNATURE D'APPROBATION DU MINISTRE :</h5>
 <ul>
 <li>Le Sous-ministre (SM), la Direction générale de la vérification et de l'examen (DGVE), le directeur général (DG)/Directeur général régional (DGR) reçoivent toujours une copie conforme après que l'approbation a été donnée;</li>
 <li>De façon informelle, le cabinet du SMA transmet une réponse de vive voix à la personne-ressource du secteur/région. </li>

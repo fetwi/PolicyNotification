@@ -1,14 +1,14 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-91</h2>
-<h3>Introduction</h3>
+<h3 class="pn-content-title">Contenu de l'AP-91</h3>
+<h4>Introduction</h4>
 <p>L'avis relatif aux politiques (AP)-91 vise à mettre à  jour les instructions à l'intention des agents de négociation des contrats sur  la marche à suivre pour aviser les soumissionnaires, les offrants ou les  fournisseurs non retenus et leur fournir un compte rendu, ainsi que la  divulgation d'information.</p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>Ces modifications découlent de l'examen des pratiques  d'approvisionnement du gouvernement réalisé par le Bureau de l'ombudsman de  l'approvisionnement (BOA). Le <abbr title="Bureau de l'ombudsman de l'approvisionnement">BOA</abbr> est une organisation indépendante ayant un  mandat pangouvernemental, qui est défini dans la <em>Loi sur le ministère des Travaux publics et des Services  gouvernementaux</em>. Dans le cadre de son mandat, le <abbr title="Bureau de l'ombudsman de l'approvisionnement">BOA</abbr> examine les pratiques  d'acquisition de biens et de services des ministères fédéraux pour en évaluer  l'équité, l'ouverture et la transparence, et pour formuler des recommandations  visant à les améliorer. Cet examen a permis de faire des recommandations sur la  manière d'améliorer le processus des comptes rendus en se fondant sur les  commentaires reçus des fournisseurs et de la collectivité de  l'approvisionnement.</p>
-<h3>Date d'entrée en  vigueur</h3>
+<h4>Date d'entrée en  vigueur</h4>
 <p>Le présent <abbr title="Avis relatifs aux politiques">AP</abbr> entre en vigueur  immédiatement.</p>
-<h3>Révision à la politique actuelle</h3>
+<h4>Révision à la politique actuelle</h4>
 <p>Selon les  recommandations du <abbr title="Bureau de l'ombudsman de l'approvisionnement">BOA</abbr>, les instructions sur la marche à suivre en matière de  compte rendu ont été révisées afin de renforcer les liens entre les  fournisseurs et le gouvernement. Les changements importants suivants sont  apportés aux procédures :</p>
 <ol class="double-space" type="a">
 <li>Les fournisseurs seront informés de leur option de  demander un compte rendu en incluant dans chaque demande de soumissions et avis  de projet de marché de l'information sur les contraintes de temps, les  procédures et la personne ressource.</li>
@@ -26,12 +26,12 @@
 <li>Appendice B : Lettre  de refus adressée aux soumissionnaires, offrants ou fournisseurs non retenus – soumission,  offre ou arrangement <strong>non recevable</strong></li>
 </ul>
 <p><a href="#AP-91ann-c">Annexe C</a> : comprend les changements effectués à la section 2,  Modèles, du guide des <em>Clauses et  conditions uniformisées d'achat</em> : 2T-LDV1, 2T-MED1, 2T-HIGH1, 2T-RFSO1  et 2T-RFSA1, en ajoutant l'information pertinente sur les « comptes  rendus ».</p>
-<h4>Personnes-ressources</h4>
+<h5>Personnes-ressources</h5>
 <p>Pour plus de renseignements, communiquer avec Heather Bartlett, par téléphone au 819-956-0912 ou par courriel à : <a href="mailto:heather.bartlett@tpsgc-pwgsc.gc.ca" rel="external">heather.bartlett@tpsgc-pwgsc.gc.ca</a>;  ou avec Anne Gauthier, par téléphone au 819-956-1025,  ou par courriel à <a href="mailto:Anne.Gauthier2@tpsgc-pwgsc.gc.ca" rel="external">Anne.Gauthier2@tpsgc-pwgsc.gc.ca</a>.</p>
-<h3 id="AP-91ann-a">Annexe A</h3>
-<h4>Changements  au nouveau guide des approvisionnements</h4>
+<h4 id="AP-91ann-a">Annexe A</h4>
+<h5>Changements  au nouveau guide des approvisionnements</h5>
 <p><em>Le système de numérotation des articles ci-dessous correspond à  celui du nouveau Guide des approvisionnements, dont la parution est prévue en  janvier 2010.</em></p>
-<h5>Chapitre 4 – Processus de demandes de soumissions</h5>
+<h6>Chapitre 4 – Processus de demandes de soumissions</h6>
 <h6 id="AP-91a-4-10-15">4.10.15 Demande de soumissions</h6>
 <p>(2010-xx-xx)</p>
 <ol class="double-space" type="a">
@@ -111,7 +111,7 @@
 <li value="3">Si l'annulation  intervient après la date de clôture, les fournisseurs devraient être informés  dans un délai de 10 jours civils suivant l'annulation de la demande.</li>
 </ol>
 <p>*****************</p>
-<h5 id="AP-91a-7">Chapitre 7 – Attribution de  contrats et émission d'offres à commandes et d'arrangements en matière  d'approvisionnement</h5>
+<h6 id="AP-91a-7">Chapitre 7 – Attribution de  contrats et émission d'offres à commandes et d'arrangements en matière  d'approvisionnement</h6>
 <h6 id="AP-91a-7-35">7.35 Avis aux  soumissionnaires, offrants, fournisseurs non retenus</h6>
 <p>(2010-xx-xx)</p>
 <p>Les agents de négociation des contrats devraient  informer les soumissionnaires, les offrants ou les fournisseurs qu'ils n'ont  pas été retenus dès que possible après l'attribution du contrat ou l'émission  d'une offre à commandes ou d'un arrangement en matière d'approvisionnement. Des  exemples de lettres de regret sont fournis à <a href="#AP-91ann-7-1">Annexe 7.1</a>.</p>
@@ -183,10 +183,10 @@
     <p><em>Il peut se présenter  des situations où les dispositions relatives à la divulgation d'information,  telles que décrites ci-haut, ne peuvent être appliquées. De telles situations  doivent être traitées au cas par cas et nécessiteront l'approbation du  gestionnaire ou d'une autorité supérieure, selon l'autorité d'approbation,  avant d'émettre la <abbr title="Demande d'offres à commandes">DOC</abbr> ou la <abbr title="Demande d'arrangements en matière d'approvisionnement">DAMA</abbr></em>.</p>
 </li>
 </ol>
-<h3 id="AP-91ann-b">Annexe B</h3>
-<h4 id="AP-91ann-7-1">Annexe 7.1 : Modèles  de lettres de regret</h4>
+<h4 id="AP-91ann-b">Annexe B</h4>
+<h5 id="AP-91ann-7-1">Annexe 7.1 : Modèles  de lettres de regret</h5>
 <p>(2010-xx-xx)</p>
-<h5 id="AP-91ann-7-1-a"><strong>Appendice  A : Lettre  de regret adressée aux soumissionnaires, offrants ou fournisseurs non retenus –  soumission, offre ou arrangement recevable</strong></h5>
+<h6 id="AP-91ann-7-1-a"><strong>Appendice  A : Lettre  de regret adressée aux soumissionnaires, offrants ou fournisseurs non retenus –  soumission, offre ou arrangement recevable</strong></h6>
 <p><strong><em>Remarque  à l'agent de négociation des contrats</em></strong><em> : Étant donné que la méthodologie d'évaluation  diffère pour chaque achat, la lettre devra être modifiée selon les besoins  individuels. La lettre a été rédigée en supposant que le soumissionnaire,  l'offrant ou le fournisseur, bien que non retenu, sa soumission, offre ou  arrangement a toutefois été déclaré recevable puisqu'il a satisfait à toutes  les exigences obligatoires. Les agents de négociation des contrats devraient  utiliser l'autre lettre de regret figurant à l'Appendice B si la soumission, l'offre ou l'arrangement a  été déclaré non recevable.</em></p>
 <p><span aria-label="Espace réservé vide" class="blankline"></span> (<strong><em>inscrire l'adresse du ministère</em></strong>)</p>
 <p><span aria-label="Espace réservé vide" class="blankline"></span> (<strong><em>inscrire la date</em></strong>)</p>
@@ -223,7 +223,7 @@ Autorité contractante</p>
 <p>Téléphone : <span aria-label="Espace réservé vide" class="blankline"></span> -<span aria-label="Espace réservé vide" class="blankline"></span> -<span aria-label="Espace réservé vide" class="blankline"></span> </p>
 <p>Courriel :   <span aria-label="Espace réservé vide" class="blankline"></span>  @tpsgc-pwgsc.gc.ca</p>
 <p>c.c. : <span aria-label="Espace réservé vide" class="blankline"></span> <em>(<strong>insérer les  noms des personnes devant recevoir une copie</strong>)</em></p>
-<h5 id="AP-91ann-7-1-b"><strong>Appendice B</strong> : <strong>Lettre de regret  adressée au soumissionnaire, offrant ou fournisseur non retenu – soumission,  offre ou arrangement non recevable</strong></h5>
+<h6 id="AP-91ann-7-1-b"><strong>Appendice B</strong> : <strong>Lettre de regret  adressée au soumissionnaire, offrant ou fournisseur non retenu – soumission,  offre ou arrangement non recevable</strong></h6>
 <p><strong><em>Remarque  à l'agent de négociation des contrats</em></strong><em> : Étant donné que la méthodologie d'évaluation  diffère pour chaque achat, la lettre devra être modifiée selon les besoins  individuels. La lettre a été rédigée en supposant que la soumission, l'offre ou  l'arrangement a été déclaré non recevable puisqu'il n'a pas satisfait à une ou  plusieurs des exigences obligatoires. Les agents de négociation des contrats  devraient utiliser l'autre lettre de regret figurant à l'Appendice A si la  soumission, l'offre ou l'arrangement a été déclaré recevable, mais n'a pas été  classé au premier rang.</em></p>
 <p><span aria-label="Espace réservé vide" class="blankline"></span>  (<strong><em>insérer la date</em></strong>)</p>
 <p><span aria-label="Espace réservé vide" class="blankline"></span>  (<strong><em>insérer l'adresse du ministère</em></strong>)</p>
@@ -266,18 +266,18 @@ Autorité contractante</p>
 <p>Téléphone : <span aria-label="Espace réservé vide" class="blankline"></span> -<span aria-label="Espace réservé vide" class="blankline"></span> -<span aria-label="Espace réservé vide" class="blankline"></span> </p>
 <p>Courriel : <span aria-label="Espace réservé vide" class="blankline"></span>  @tpsgc-pwgsc.gc.ca</p>
 <p>c.c. : <span aria-label="Espace réservé vide" class="blankline"></span> <em>(<strong>insérer les  noms des personnes devant recevoir une copie</strong>)</em></p>
-<h3 id="AP-91ann-c">Annexe C</h3>
-<h4>Modifications  apportées au guide des <abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr></h4>
-<h5>2T-LDV1 Modèle  de demande de soumissions et de contrat subséquent de faible valeur</h5>
+<h4 id="AP-91ann-c">Annexe C</h4>
+<h5>Modifications  apportées au guide des <abbr title="Clauses et conditions uniformisées d'achat">CCUA</abbr></h5>
+<h6>2T-LDV1 Modèle  de demande de soumissions et de contrat subséquent de faible valeur</h6>
 <p>Modifications au modèle  2T-LDV1 comme suit :</p>
 <ol>
 <li>Modifier la Partie 1 - Renseignements et Instructions  - afin d'ajouter le nouvel article comme suit :</li>
 </ol>
 <p><strong><em>Remarque à l'intention de l'autorité  contractante :</em></strong><em> Consulter les articles 7.35, 7.40 et 7.45 du  Guide des approvisionnements, ainsi que l'<abbr title="Avis relatifs aux politiques">AP</abbr>-91, Comptes rendus et lettres de  regret.</em></p>
-<h5>8. Séances de compte rendu</h5>
+<h6>8. Séances de compte rendu</h6>
 <p>Après l'attribution du contrat, les soumissionnaires  peuvent demander un compte rendu sur les résultats de la demande de  soumissions. Les soumissionnaires devraient en faire la demande à l'autorité  contractante dans les 15 jours ouvrables, suivant la réception de l'avis les  informant que leur soumission n'a pas été retenue. Le compte rendu peut être  fourni par écrit, par téléphone ou en personne.</p>
 <p>*****************</p>
-<h5>2T-MED1 Modèle de demande de soumissions et de contrat  subséquent de complexité moyenne</h5>
+<h6>2T-MED1 Modèle de demande de soumissions et de contrat  subséquent de complexité moyenne</h6>
 <p>Modifications au modèle  2T-MED1 comme suit :</p>
 <p>1. Modifier la Table des matières afin d'ajouter le nouvel  article comme suit :</p>
 <h6>Partie 1 - Renseignements  généraux</h6>
@@ -294,7 +294,7 @@ Autorité contractante</p>
 <h6>6. Séances de compte rendu</h6>
 <p>Après l'attribution du contrat, les soumissionnaires  peuvent demander un compte rendu sur les résultats de la demande de  soumissions. Les soumissionnaires devraient en faire la demande à l'autorité  contractante dans les 15 jours ouvrables, suivant la réception de l'avis les  informant que leur soumission n'a pas été retenue. Le compte rendu peut être  fourni par écrit, par téléphone ou en personne.</p>
 <p>*****************</p>
-<h5>2T-HIGH1 Modèle de demande de soumissions et de contrat subséquent  pour les besoins plus complexes</h5>
+<h6>2T-HIGH1 Modèle de demande de soumissions et de contrat subséquent  pour les besoins plus complexes</h6>
 <p>Modifications au modèle 2T-HIGH1 comme suit :</p>
 <p>1. Modifier la Table des matières afin d'ajouter le  nouvel article comme suit :</p>
 <h6>Partie  1 - Renseignements généraux</h6>
@@ -309,7 +309,7 @@ Autorité contractante</p>
 <h6>4. <strong>Séances de compte rendu</strong></h6>
 <p>Après l'attribution du contrat, les soumissionnaires  peuvent demander un compte rendu sur les résultats de la demande de  soumissions. Les soumissionnaires devraient en faire la demande à l'autorité  contractante dans les 15 jours ouvrables, suivant la réception de l'avis les  informant que leur soumission n'a pas été retenue. Le compte rendu peut être  fourni par écrit, par téléphone ou en personne.</p>
 <p>*****************</p>
-<h5>2T-RFSO1 Modèle de demande d'offres à commandes</h5>
+<h6>2T-RFSO1 Modèle de demande d'offres à commandes</h6>
 <p>Modifications au modèle  2T-RFSO1 comme suit :</p>
 <p>1. Modifier la Table des matières afin d'ajouter le  nouvel article comme suit :</p>
 <h6>Partie 1 - Renseignements  généraux</h6>
@@ -326,7 +326,7 @@ Autorité contractante</p>
 <h6>5. <strong>Séances de compte rendu</strong></h6>
 <p>Après l'émission d'une offre à commandes, les offrants  peuvent demander un compte rendu sur les résultats de la demande d'offre à  commandes. Les offrants devraient en faire la demande au responsable de l'offre à commande dans les 15 jours ouvrables,  suivant la réception de l'avis les informant que leur offre n'a pas été retenue.  Le compte rendu peut être fourni par écrit, par téléphone ou en personne.</p>
 <p>*****************</p>
-<h5>2T-<abbr title="Request for Supply Arrangements">RFSA</abbr>1 <strong>Modèle de demandes d'arrangements en matière  d'approvisionnement</strong></h5>
+<h6>2T-<abbr title="Request for Supply Arrangements">RFSA</abbr>1 <strong>Modèle de demandes d'arrangements en matière  d'approvisionnement</strong></h6>
 <p>Modifications  au modèle 2T-RFSA1 comme suit :</p>
 <p>1. Modifier la Table des matières afin d'ajouter le  nouvel article comme suit :</p>
 <h6>Partie 1 - Renseignements  généraux</h6>

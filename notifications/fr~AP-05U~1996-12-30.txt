@@ -1,41 +1,41 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-05U</h2>
+<h3 class="pn-content-title">Contenu de l'AP-05U</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 30 décembre 1996</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 30 décembre 1996</h4>
 <p>En décembre 1995, le Cabinet a approuvé un programme conçu pour accroître la participation des entreprises autochtones au processus d'approvisionnement du gouvernement. Un des objectifs du programme est l'augmentation du nombre de contrats attribués aux entreprises autochtones.</p>
 <p>Le 27 mars 1996, le ministre des Affaires indiennes et du Nord canadien, monsieur Ron Irwin, annonçait l'élaboration de la stratégie d'acquisitions auprès des entreprises autochtones (SAEA) qui englobait le Programme des marchés réservés aux entreprises autochtones (PMREA).</p>
 <p>Le 27 mars 1996, l'avis 1996-2 de la Politique sur les marchés du Conseil du Trésor établissait les paramètres généraux de la stratégie d'acquisitions auprès des entreprises autochtones, y compris l'exclusivité obligatoire et facultative de contrats pour les entreprises autochtones.</p>
 <p>L'avis de la Politique sur les marchés et l'annonce du ministre, Monsieur Irwin, ont été suivis de la publication d'un avis relatif aux politiques (5) le 3 avril 1996. Cet avis était accompagné d'un document, d'un feuillet d'information ainsi que d'un communiqué de presse portant sur la stratégie.</p>
 <p>L'avis 1996-6 de la Politique sur les marchés du Conseil du Trésor, en date du 19 septembre 1996, décrivait dans les détails les responsabilités des ministères pour l'établissement et le suivi d'objectifs annuels à l'appui du programme. Ces objectifs portent, entre autres, sur la valeur et le nombre de contrats attribués à des entreprises autochtones, sur les activités de promotion des fournisseurs et sur une augmentation de la proportion des entreprises autochtones inscrites sur les listes de fournisseurs des ministères.</p>
-<h3>Programme des marchés réservés aux entreprises autochtones</h3>
-<h4>1. Exclusivité obligatoire et facultative</h4>
+<h4>Programme des marchés réservés aux entreprises autochtones</h4>
+<h5>1. Exclusivité obligatoire et facultative</h5>
 <p>1.1 Le Programme des marchés réservés aux entreprises autochtones définit 2 catégories de contrats réservés, ceux qui le sont obligatoirement et ceux qui peuvent être réservés facultativement. Les contrats de plus de 5 000 $ pour la fourniture de produits, de services ou de travaux de construction destinés en grande partie à des populations autochtones doivent obligatoirement être réservés. D'autres contrats peuvent aussi être désignés par les ministères clients comme étant réservés aux entreprises autochtones.</p>
 <p>1.2<strong> La décision de réserver un contrat revient au ministère client.</strong> <acronym title="Travaux publics et Services gouvernementaux Canada">TPSGC</acronym> ne déclarera pas unilatéralement qu'un contrat est réservé. Toutefois, s'il reçoit une demande pour un contrat non réservé et que les produits, services ou travaux de construction visés par le contrat sont destinés à une population autochtone, l'agent d'achat devrait communiquer avec le ministère client pour attirer son attention sur ce point. Si le client déclare qu'il ne veut pas que le contrat soit réservé, une note à cet effet doit être inscrite au dossier du contrat, et le processus contractuel est repris.</p>
 <p>1.3 Il serait bon que les agents d'achat aident les ministères clients à atteindre leurs objectifs de rendement dans le cadre du programme, en attirant leur attention sur les contrats qui pourraient être réservés lorsqu'ils savent qu'il y a des fournisseurs autochtones qualifiés dans ce secteur.</p>
-<h4>2. Marchés réservés et ententes sur la revendication territoriale globale</h4>
+<h5>2. Marchés réservés et ententes sur la revendication territoriale globale</h5>
 <p>2.1 Les contrats assujettis au Programme des marchés réservés aux entreprises autochtones peuvent aussi être soumis aux exigences d'ententes sur la revendication territoriale globale. Dans la mesure où le fait de réserver un marché aux entreprises autochtones ne va pas à l'encontre des obligations du Canada dans le cadre d'une entente sur la revendication territoriale globale, les exigences des ententes et celles du programme des marchés réservés peuvent s'appliquer. Toutefois, en cas de conflits, les exigences des ententes ont préséance. Dans la plupart des cas, l'entente exige simplement que le groupe de revendication soit informé du projet de marché. Dans d'autres cas, les exigences de l'entente peuvent être plus larges. Les agents d'achat devraient alors consulter la Direction de la politique des approvisionnements (Joanne Degrève - 819-956-0929) pour connaître toute l'étendue des obligations d'achat aux termes des ententes de revendication territoriale globale.</p>
-<h4>3. Marchés réservés et accords commerciaux</h4>
+<h5>3. Marchés réservés et accords commerciaux</h5>
 <p>3.1 Les marchés réservés aux entreprises autochtones ne sont pas assujettis aux dispositions de l'<acronym title="Accord de libre-échange nord-américain">ALENA</acronym> (article 1.d, annexe 1001.2b) ni à celles de l'Accord relatif aux marchés publics de l'Organisation mondiale du commerce (AMPOMC) (article 1.d des remarques générales, à l'annexe I). On ne sait pas encore comment les contrats réservés et les dispositions de l'Accord sur le commerce intérieur seront intégrés. Jusqu'à ce que la Division du droit commercial d'Industrie Canada ait émis un avis sur le sujet, nous recommandons aux agents d'achat de respecter le plus possible les dispositions de l'Accord sur le commerce intérieur dans l'attribution des marchés réservés.</p>
 <p>3.2 Lorsqu'un besoin a fait l'objet d'un appel d'offres adressé à des entreprises autochtones et qu'aucune entreprise autochtone n'a présenté une soumission recevable, un nouvel appel d'offres doit être lancé en exclusivité aux entreprises autochtones (après que les changements nécessaires ont été apportés au document d'appel d'offres), ou selon les exigences établies dans les accords commerciaux, en tenant compte des seuils applicables, etc., qui s'appliquent à l'achat, lorsque le contrat n'est pas réservé. C'est aussi la démarche à adopter si le contrat n'est pas attribué à une entreprise autochtone, pour éviter que ne soient compromis les principes de la meilleure valeur, de la prudence, de la probité, etc.</p>
-<h4>4. Marchés réservés et contenu canadien</h4>
+<h5>4. Marchés réservés et contenu canadien</h5>
 <p>4.1 On peut appliquer simultanément la politique des marchés réservés et celle du contenu canadien.</p>
 <p>4.2 Lorsqu'on applique la politique du contenu canadien à un marché réservé, il faut savoir que deux niveaux d'attestation sont exigés; le premier consiste à juger de l'admissibilité des soumissionnaires, c'est-à-dire que les soumissionnaires doivent fournir une attestation de leur statut d'entreprise autochtone.</p>
 <p>4.3 Une fois qu'il a été décidé que le contrat sera réservé aux entreprises autochtones, les soumissionnaires étant tenus de fournir une attestation de leur statut d'entreprise autochtone, les agents d'achat doivent ensuite appliquer la politique du contenu canadien comme pour tout autre contrat, dans le contexte du groupe de fournisseurs admissibles, soit le groupe des entreprises autochtones. Les agents d'achat doivent décider, en se fondant sur leurs connaissances de ce groupe d'entreprises, s'il y a suffisamment d'entreprises pour lancer une invitation à soumissionner restreinte (3 entreprises autochtones ou plus sont en mesure de fournir des biens ou services canadiens), une invitation restreinte de façon conditionnelle (il y a peut-être 3 fournisseurs autochtones ou plus de produits ou services canadiens), ou une invitation ouverte (le nombre des entreprises autochtones capables de fournir des biens ou services canadiens est trop faible; l'invitation est lancée à toutes les entreprises autochtones, indépendamment de l'origine des biens et des services fournis).</p>
 <p>4.4 Les soumissions présentées pour l'exécution de contrats réservés aux entreprises autochtones comprenant une disposition sur le contenu canadien doivent d'abord être examinées pour vérifier que le soumissionnaire a fourni l'attestation de son admissibilité à titre d'entreprise autochtone. Les soumissions qui répondent à cette exigence d'attestation sont ensuite évaluées en fonction des critères établis pour le contenu canadien.</p>
-<h4>5. Plans de sous-traitance</h4>
+<h5>5. Plans de sous-traitance</h5>
 <p>5.1 Dans le but d'appuyer la stratégie d'acquisitions auprès des entreprises autochtones, les ministères peuvent décider de réserver à des entreprises autochtones une partie des contrats de sous-traitance qui seront attribués dans le cadre de projets ou d'encourager les soumissionnaires, au moyen d'incitatifs (points supplémentaires accordés, à l'évaluation, pour la sous-traitance à des entreprises autochtones). Toutefois, il doit être clairement indiqué dans l'invitation à soumissionner que le recours aux entreprises autochtones constitue un critère d'évaluation des soumissions.</p>
 <p>Ce critère ne peut pas s'appliquer dans le cas de contrats assujettis à l'<acronym title="Accord de libre-échange nord-américain">ALENA</acronym> (Article 1006 - Interdiction des compensations) ou à l'<acronym title="Accord relatif aux marchés publics de l'Organisation mondiale du commerce">AMPOMC</acronym> (Article XVI - Compensations). (Voir le point 3. Marchés réservés et accords commerciaux.)</p>
-<h4>6. Principes de saine gestion des contrats</h4>
+<h5>6. Principes de saine gestion des contrats</h5>
 <p>6.1 Un élément fondamental du Programme des marchés réservés aux entreprises autochtones est l'application des principes de saine gestion des contrats. Les agents de négociation des contrats doivent toujours tenir compte des principes de la meilleure valeur, de la prudence, de la probité et des exigences opérationnelles dans la planification de leur stratégie de gestion des contrats réservés.</p>
-<h4>7. Information du <acronym title="Ministère des Affaires indiennes et du Nord canadien">MAINC</acronym></h4>
+<h5>7. Information du <acronym title="Ministère des Affaires indiennes et du Nord canadien">MAINC</acronym></h5>
 <p>7.1 Une fois qu'ils ont reçu et accepté une demande pour réserver un contrat aux entreprises autochtones, les agents de négociation des contrats doivent en informer la Direction de l'accès aux marchés fédéraux du Ministère des Affaires indiennes et du Nord canadien (MAINC).</p>
 <p>7.2 L'avis doit être envoyé au <acronym title="Ministère des Affaires indiennes et du Nord canadien">MAINC</acronym>, à l'adresse suivante :</p>
 <p>Directeur<br/>
@@ -49,7 +49,7 @@
 					Acheteur (nom et numéros de tél. et de télécopieur).</p>
 <p>Lorsqu'il s'agit d'un contrat à fournisseur unique, l'avis envoyé au <acronym title="Ministère des Affaires indiennes et du Nord canadien">MAINC</acronym> doit aussi indiquer le nom et l'adresse du fournisseur proposé.</p>
 <p>7.3 Une fois que le contrat est attribué, l'agent d'achat doit communiquer, dans les quinze jours qui suivent, à  la Direction de l'accès aux marchés fédéraux du <acronym title="Ministère des Affaires indiennes et du Nord canadien">MAINC</acronym> le nom de l'entrepreneur retenu, le numéro du contrat et sa valeur totale approximative.</p>
-<h4>8. Processus de sélection dans le cadre du Programme des marchés réservés aux entreprises autochtones</h4>
+<h5>8. Processus de sélection dans le cadre du Programme des marchés réservés aux entreprises autochtones</h5>
 <p>8.1 Les contrats visés par le programme peuvent être attribués en régime concurrentiel ou non concurrentiel, conformément aux politiques courantes du gouvernement en matière de marchés. Un appel d'offres peut être lancé auprès des entreprises autochtones conformémentaux politiques et procédures de <acronym title="Travaux publics et Services gouvernementaux Canada">TPSGC</acronym>.</p>
 <p>8.2 <acronym title="Travaux publics et Services gouvernementaux Canada">TPSGC</acronym> travaille actuellement à modifier son système d'information sur les fournisseurs (SIF) pour qu'il soit possible de reconnaître les entreprises qui se sont déclarées entreprises autochtones (version 3.1 du système ABE). On compte verser dans le système les données d'inscription des fournisseurs ou d'attribution de contrats afin de pouvoir par la suite vérifier s'il y a des entreprises autochtones à qui l'on pourrait attribuer des contrats éventuels, dresser des listes de fournisseurs pour tous nos besoins (biens, services ou travaux de construction), listes qui pourraient servir à la sélection de fournisseurs à tour de rôle comme le permet le système automatisé de rotation des fournisseurs (SARF).</p>
 <p>8.3 Les systèmes qui sont utilisés pour les marchés immobiliers (ACCORD et SPEC) ne seront pas modifiés comme les précédents pour assurer la rotation des fournisseurs. Toutefois, on y intégrera des fonctions de suivi et de production de rapports sur les marchés réservés.</p>
@@ -63,9 +63,9 @@
 <li>« Ce marché a été réservé en vertu du Programme des marchés réservés aux entreprises autochtones (PMREA) du gouvernement fédéral. Seules les entreprises autochtones, aux termes de la définition du <acronym title="Programme des marchés réservés aux entreprises autochtones">PMREA</acronym>, peuvent contester la stratégie du marché proposé pour attribuer le contrat à l'entreprise autochtone proposée. » (PAC).</li>
 </ul>
 <p>Un code désignant le type d'accord a été ajouté au SIOS et dans <em>Marchés publics</em> pour les appels d'offres lancés dans le cadre du Programme des marchés réservés. Les agents d'achat doivent s'assurer de bien indiquer ce code pour tous les marchés réservés aux entreprises autochtones. On a aussi apporté des modifications similaires à l'environnement automatisé de l'acheteur (ABE) pour permettre aux agents d'achat d'enregistrer les contrats réservés aux étapes applicables du cycle d'achat.</p>
-<h4>9. Entité légale</h4>
+<h5>9. Entité légale</h5>
 <p>9.1 La description d'une entreprise comme entreprise autochtone ne change pas le fait que pour conclure un contrat avec le gouvernement du Canada, le contrat doit être signé entre le gouvernement du Canada et l'entité légale qui a le pouvoir de contracter. Si une incertitude persiste concernant le statut juridique de l'entreprise autochtone, les agents d'achat doivent consulter un conseiller juridique afin de s'assurer que l'entrepreneur pressenti est apte à signer une entente applicable.</p>
-<h4>10. Attestation des soumissionnaires</h4>
+<h5>10. Attestation des soumissionnaires</h5>
 <p>10.1 On ne tiendra aucune liste permanente des entreprises autochtones déjà certifiées. Chaque soumission présentée dans le cadre du programme devra être accompagnée d'un formulaire d'attestation certifiant que le soumissionnaire satisfait, à la date de présentation de la soumission, et continuera de satisfaire, pendant toute la durée du contrat, aux exigences du programme, conformément à la définition établie à la date de présentation de la soumission.</p>
 <p>10.2 Pour que les soumissionnaires puissent remplir l'attestation, il faut inclure dans tous les documents de soumission un exemplaire des <em>Exigences relatives au Programme de marchés réservés aux entreprises autochtones</em> (annexe A) qui comprennent une définition d'entreprise autochtone et d'Autochtone (aussi à l'annexe A) et le formulaire d'attestation que les soumissionnaires doivent signer et annexer à leur soumission pour être admissibles aux marchés réservés aux entreprises autochtones.</p>
 <p>10.3 La clause K9025T doit être incorporée aux documents d'appel d'offres pour les contrats assujettis au programme. Tout contrat résultant attribué à une entreprise en raison de son statut d'entreprise autochtone doit renfermer la clause K9025C. La clause K9026D - Exhaustivité de la convention, doit également être utilisée lorsque les Conditions générales ne comprennent pas une modalité d'exhaustivité de la convention (par exemple, l'article 36 de la DSS-MAS 9601. Les clauses K9025T, K9025C et K9026D figurent à l'annexe B. Elles seront ajoutées sous peu au guide des CCUA.</p>
@@ -73,7 +73,7 @@
 <p>10.5 Il n'incombe pas à l'autorité contractante de vérifier l'attestation du soumissionnaire. Si par contre elle doutait de la validité de l'attestation, elle pourrait confier le dossier à la Direction de l'accès aux marchés fédéraux du <acronym title="Ministère des Affaires indiennes et du Nord canadien">MAINC</acronym> qui demandera à Conseils et Vérification Canada (CVC) de faire une vérification. (Se reporter au point 10.4, Vérification de l'attestation des fournisseurs.)</p>
 <p>10.6 Le formulaire d'attestation du soumissionnaire prévoit des recours si, après vérification, l'attestation se révèle être invalide avant l'attribution d'un contrat, ou si l'entrepreneur ne respecte pas son engagement à continuer de satisfaire aux exigences du programme. Il peut s'agir de déclarer non recevable la soumission présentée ou même de résilier le contrat ou de retirer à l'entrepreneur les travaux qui lui avaient été confiés. On peut même envisager comme mesure de retirer au fournisseur le privilège de soumissionner à titre d'entreprise autochtone ou toute autre mesure prévue dans le contrat ou dans la politique sur le rendement des fournisseurs. Il est recommandé que les agents d'achat consultent le conseiller juridique du Secteur ou de la Région et la Direction de l'accès aux marchés fédéraux du <acronym title="Ministère des Affaires indiennes et du Nord canadien">MAINC</acronym> avant de décider des mesures à prendre.</p>
 <p>10.7 S'il s'avère, après que le contrat a été attribué, que l'entrepreneur n'a pas maintenu son statut d'entreprise autochtone pendant toute la durée du contrat, l'agent d'achat doit vérifier si les dispositions de la politique sur le rendement des fournisseurs ne pourraient pas s'ajouter aux dispositions particulières établies dans le formulaire d'attestation ou les remplacer.</p>
-<h4>11. Vérification de l'attestation des soumissionnaires</h4>
+<h5>11. Vérification de l'attestation des soumissionnaires</h5>
 <p>11.1 Les soumissionnaires doivent attester, dans leur soumission, qu'ils sont des entreprises autochtones conformément à la définition établie dans le cadre du Programme des marchés réservés aux entreprises autochtones. L'attestation comprend un engagement de la part de l'entreprise de continuer à satisfaire, pendant toute la durée du contrat, aux critères qui définissent une entreprise autochtone.</p>
 <p>11.2 Les attestations des soumissionnaires seront vérifiées avant et après l'attribution du contrat. Ces vérifications seront menées par <acronym title="Conseils et Vérification Canada">CVC</acronym>, pour le compte du <acronym title="Ministère des Affaires indiennes et du Nord canadien">MAINC</acronym>.</p>
 <p>11.3 La vérification préalable sera effectuée de façon aléatoire et se limitera habituellement aux contrats de plus de 2 millions de dollars. Le <acronym title="Ministère des Affaires indiennes et du Nord canadien">MAINC</acronym> informera les agents d'achat des contrats qui doivent faire l'objet d'une vérification préalable au plus tard à la date de clôture des soumissions (voir le point 7, Information du <acronym title="Ministère des Affaires indiennes et du Nord canadien">MAINC</acronym>). Il faut prévoir environ 10 jours ouvrables pour ces vérifications. Lorsque le contrat doit être attribué de façon expéditive, il faut en informer le <acronym title="Ministère des Affaires indiennes et du Nord canadien">MAINC</acronym> qui déterminera s'il est possible de le soustraire à la vérification préalable.</p>
@@ -82,11 +82,11 @@
 <p>Si tous les soumissionnaires sont éliminés à la suite de la vérification des attestations, il faut lancer un nouvel appel d'offres, pour un marché réservé ou non, après avoir consulté le ministère client. La décision d'attribuer le contrat à l'entrepreneur suivant ou de lancer un nouvel appel d'offres doit être prise de façon ponctuelle en tenant compte des principes de saine gestion des contrats.</p>
 <p>11.6 Une fois que le contrat est attribué, il faut effectuer une nouvelle vérification de l'attestation de l'entrepreneur pour confirmer que celui-ci continue de satisfaire aux exigences liées au statut d'entreprise autochtone (voir le point 7, Information du <acronym title="Ministère des Affaires indiennes et du Nord canadien">MAINC</acronym>) pendant toute la durée du contrat. Ce genre de vérification se fera de façon aléatoire, mais si les agents d'achat jugent qu'elle s'impose, ils peuvent en faire la demande auprès du <acronym title="Ministère des Affaires indiennes et du Nord canadien">MAINC</acronym>.</p>
 <p>11.7 Les agents d'achat ne doivent pas oublier que l'attestation des soumissionnaires certifiant leur statut d'entreprise autochtone prévoit des recours contre les entrepreneurs dont l'attestation se révèle invalide ou qui n'ont pas continué de satisfaire aux exigences établies pour le maintien de leur statut d'entreprise autochtone. Ils auront peut-être à appliquer ces recours s'ils sont informés qu'une vérification a permis d'établir qu'une attestation est invalide ou que l'entrepreneur a manqué à son engagement. Il est recommandé que les agents d'achat consultent le conseiller juridique du Secteur ou de la Région et la Direction de l'accès aux marchés fédéraux du <acronym title="Ministère des Affaires indiennes et du Nord canadien">MAINC</acronym> avant de décider des mesures à prendre.</p>
-<h4>12. Contestation des soumissions</h4>
+<h5>12. Contestation des soumissions</h5>
 <p>12.1 Des procédures de contestation des soumissions ont été établies dans le cadre des accords commerciaux nationaux et internationaux et de plusieurs ententes de revendication territoriale globale. On travaille encore à l'élaboration de procédures similaires qui permettraient aux soumissionnaires de contester le processus de soumission et d'attribution dans le cas des marchés réservés. Entretemps, les contestations doivent être traitées selon les procédures établies pour les plaintes formulées par les fournisseurs.</p>
-<h4>13. Autres politiques</h4>
+<h5>13. Autres politiques</h5>
 <p>13.1 Le présent avis ne doit limiter en rien l'application d'autres politiques, procédures ou obligations.</p>
-<h4>14. Documents de référence</h4>
+<h5>14. Documents de référence</h5>
 <ol>
 <li>Politique du Conseil du Trésor sur les marchés - avis 1996-2 - 27 mars 1996</li>
 <li>Politique du Conseil du Trésor sur les marchés - avis 1996-6 - 19 septembre 1996</li>
@@ -95,7 +95,7 @@
 <p><strong>Personne-ressource :</strong></p>
 <p>Direction de la politique des approvisionnements<br/>
 					Tom Simper 819-956-0881</p>
-<h4>Aide-mémoire - Marchés réservés</h4>
+<h5>Aide-mémoire - Marchés réservés</h5>
 <p>1. Le client a-t-il indiqué qu'il s'agissait d'un marché réservé? Si non, procéder selon les procédures et politiques d'achat habituelles. Si oui, voir ci-après.</p>
 <p>2. Si le contrat est assujetti à une entente de revendication territoriale globale, vérifier dans quelle mesure les exigences de l'entente et celles de la politique des marchés réservés sont compatibles. En cas d'incompatibilité, les exigences de l'entente ont préséance (Section 2).</p>
 <p>3. Le client a-t-il indiqué une exigence de sous-traitance aux entreprises autochtones? (Section 5)</p>
@@ -111,8 +111,8 @@
 <p>13. Attribuer le contrat en se basant sur les critères d'évaluation établis et sur les résultats de la vérification préalable, s'il y a lieu.</p>
 <p>14. Informer le <acronym title="Ministère des Affaires indiennes et du Nord canadien">MAINC</acronym> de l'attribution du contrat dans les 15 jours. (Section 7.3)</p>
 <p>15. Gestion du contrat, y compris la transmission au <acronym title="Ministère des Affaires indiennes et du Nord canadien">MAINC</acronym> de tout changement au statut d'entreprise autochtone de l'entrepreneur ou de toute demande pour faire vérifier le maintien du statut d'entreprise autochtone de l'entrepreneur (vérification postérieure). (Section 11.7)</p>
-<h3>Annexe A</h3>
-<h4>Exigences relatives au programme de marchés réservés aux entreprises autochtones</h4>
+<h4>Annexe A</h4>
+<h5>Exigences relatives au programme de marchés réservés aux entreprises autochtones</h5>
 <p>Qui est admissible?</p>
 <p><strong>Une entreprise autochtone</strong>, qui peut être</p>
 <ul>
@@ -144,18 +144,18 @@
 <p>Il n'est pas nécessaire de fournir une preuve d'admissibilité au moment de la présentation dela soumission. Toutefois, l'entreprise doit être prête à fournir cette preuve en cas de vérification.</p>
 <p>Les conséquences civiles des fausses déclarations dans les documents de soumission, de la non-conformité avec les exigences du Programme ou de la non-production d'une preuve satisfaisante pour le Canada en ce qui a trait aux exigences du Programme peuvent prendre la forme d'une saisie du dépôt de soumission, du blocage des retenues, de l'interdiction de participer à de nouveaux appels d'offre du Programme et (ou) de la résiliation du contrat. Dans le cas où le contrat serait résilié à cause d'une fausse déclaration ou du non-respect des exigences du Programme, le Canada se réserve le droit de retenir les services d'un autre entrepreneur pour parachever les travaux et tous les frais additionnels assumés par le Canada devront alors, à la demande du Canada, être remboursés par l'entreprise.</p>
 <p><strong>Quelle sorte de preuve peut être exigée de l'entreprise?</strong></p>
-<h4>Propriété et contrôle</h4>
+<h5>Propriété et contrôle</h5>
 <p><strong>La preuve de propriété et de contrôle exigée d'une entreprise ou d'une coentreprise autochtone</strong> peut comprendre les documents de constitution en société, le registre des actionnaires ou des membres, les contrats de société de personnes, les accords de coentreprise, l'enregistrement du nom commercial, les arrangements bancaires, les documents de régie, les procès-verbaux des réunions du conseil d'administration et des comités de gestion, ou d'autres documents juridiques.</p>
 <p>La propriété d'une entreprise autochtone désigne la « propriété bénéficiaire », c'est-à-dire la propriété effective de l'entreprise. Le Canada peut examiner divers facteurs pour vérifier si des Autochtones contrôlent vraiment ou effectivement l'entreprise autochtone. (Voir à l'annexe A la liste des facteurs que peut examiner le Canada.)</p>
-<h4>Emploi et employés</h4>
+<h5>Emploi et employés</h5>
 <p>Si l'entreprise autochtone a six employés ou plus à la date de présentation de l'attestation et qu'elle est tenue par le Canada de prouver qu'au moins 33 p. 100 des employés à plein temps sont autochtones, elle doit, à la demande du Canada, présenter immédiatement un formulaire d'attestation employeur-employé, dûment rempli, pour chaque employé autochtone à plein temps.</p>
 <p><strong>Les pièces justificatives à présenter pour prouver qu'un employé travaille à plein temps et pour attester du nombre d'employés à plein temps</strong> peuvent comprendre les registres des salaires, ou les fiches de paie individuelles, les offres d'emploi écrites ou les données sur les salaires conservées aux fins de l'impôt sur le revenu, de même que toute information se rapportant à la caisse de retraite ou à d'autres régimes de prestations.</p>
 <p><strong>Un employé à plein temps</strong>, selon la définition du Programme, est quelqu'un qui figure sur la liste de paie, a droit à tous les avantages dont bénéficient les autres employés à plein temps dans l'entreprise, tels qu'un régime de pension, des vacances payées et des congés de maladie, et qui travaille au moins 30 heures par semaine. C'est le nombre d'employés à plein temps figurant sur la liste de paie de l'entreprise à la date de présentation de la soumission qui détermine le rapport du nombre d'Autochtones au nombre total d'employés de l'entreprise aux fins de la détermination de l'admissibilité au Programme.</p>
 <p>Les propriétaires autochtones et les employés autochtones à plein temps doivent être prêts à prouver leur statut. La <em>Attestation propriétaire-employé, </em>à remplir par chaque propriétaire autochtone et chaque employé à plein temps autochtone, comprend une déclaration de satisfaction aux critères d'admissibilité et une déclaration de véracité et d'intégralité de l'information. La Attestation inclut également un consentement à la vérification de l'information présentée.</p>
-<h4>Sous-traitance</h4>
+<h5>Sous-traitance</h5>
 <p><strong>La justification du pourcentage des travaux effectués par les sous-traitants</strong> peut se faire au moyen des contrats conclus entre l'entrepreneur et les sous-traitants, des factures et des paiements par chèque.</p>
 <p><strong>Les pièces à produire pour prouver qu'un sous-traitant est une entreprise autochtone</strong> (lorsque cela est nécessaire pour respecter la teneur autochtone minimum du contrat) sont les même que celles que doit présenter l'entrepreneur principal pour prouver qu'il représente une entreprise autochtone.</p>
-<h4>Définition d'un autochtone aux fins du programme de marchés réservés aux entreprises autochtones</h4>
+<h5>Définition d'un autochtone aux fins du programme de marchés réservés aux entreprises autochtones</h5>
 <p><strong><em>Un Autochtone est un Indien, un Métis ou un Inuit</em></strong></p>
 <p><strong><em>qui réside ordinairement au Canada</em></strong></p>
 <p><strong>Les pièces à produire comme preuve du statut d'Autochtone</strong> sont notamment les suivantes :</p>
@@ -166,7 +166,7 @@
 </ul>
 <p><strong>Comme preuve de résidence au Canada,</strong> on peut produire un permis de conduire provincial ou territorial, un bail ou tout autre document pertinent.</p>
 <p>Pour plus de détails sur le Programme de marchés réservés aux entreprises autochtones, communiquez avec la Direction de l'accès aux marchés fédéraux du ministère des Affaires indiennes et du Nord canadien au 819-997-8383 ou 819-997-8746 ou, par télécopieur, au 819-994-0445.</p>
-<h4>Attestation aux fins du programme de marchés réservés aux entreprises autochtones</h4>
+<h5>Attestation aux fins du programme de marchés réservés aux entreprises autochtones</h5>
 <p>Un soumissionnaire qui présente,<br/>
 					au titre du Programme, une soumission ou une proposition en réponse<br/>
 					à un appel d'offres doit remplir et présenter le présent<br/>
@@ -200,8 +200,8 @@
 <p>Titre __</p>
 <p>Pour __</p>
 <p>Nom de l'entreprise __</p>
-<h3>Appendice A</h3>
-<h4>Programme de marchés réservés aux entreprises autochtones</h4>
+<h4>Appendice A</h4>
+<h5>Programme de marchés réservés aux entreprises autochtones</h5>
 <p>Les facteurs pouvant servir à déterminer si les Autochtones détiennent au moins 51 p. 100 des intérêts et du contrôle de l'entreprise autochtone sont les suivants :</p>
 <ul>
 <li>Comptes du capital social et de capitaux propres, c.-à-d. : actions privilégiées, valeurs convertibles, catégories d'actions ordinaires, bons de souscription d'actions, options</li>
@@ -227,16 +227,16 @@
 <li>Garanties faites par l'entreprise autochtone</li>
 <li>Conventions accessoires</li>
 </ul>
-<h3>Aide gouvernementale au développement économique des autochtones par les marchés publics</h3>
-<h4>Formulaire d'attestation employeur-employé</h4>
-<h5>Programme de marchés réservés aux entreprises autochtones</h5>
+<h4>Aide gouvernementale au développement économique des autochtones par les marchés publics</h4>
+<h5>Formulaire d'attestation employeur-employé</h5>
+<h6>Programme de marchés réservés aux entreprises autochtones</h6>
 <p>1. Je, soussigné __ (<strong>Nom</strong>), suis propriétaire et (ou) employé à plein temps de __ (<strong>Nom de l'entreprise)</strong>, et autochtone, selon la définition du document intitulé « Exigences relatives au Programme de marchés réservés aux entreprises autochtones ».</p>
 <p>2. Je certifie que l'énoncé susvisé est vrai et je consens à sa vérification sur demande du Canada.</p>
 <p>Date __</p>
 <p>Signature du propriétaire et (ou) de l'employé __</p>
 <p>Place __</p>
-<h3>Annexe B</h3>
-<h4>Stratégie d'achat auprès des entreprises autochtones - Clauses d'achat</h4>
+<h4>Annexe B</h4>
+<h5>Stratégie d'achat auprès des entreprises autochtones - Clauses d'achat</h5>
 <p><strong>Remarques : Le texte de cette clause doit figurer en entier dans les documents d'achat.</strong> La clause qui suit doit être utilisée dans les documents d'appels d'offres portant sur des marchés assujettis au Programme des marchés réservés aux entreprises autochtones. Lorsque les Conditions générales devant être citées dans l'appel d'offres et le contrat ne contiennent pas de disposition sur l'exhaustivité de la convention, la clause K9026D - Exhaustivité de la convention doit également être utilisée.</p>
 <p><strong>K9025T (30/12/96) Programme des marchés réservés aux entreprises autochtones</strong></p>
 <p>Ce marché est réservé aux entreprises autochtones en vertu du Programme des marchés réservés aux entreprises autochtones du governement fédéral. Les sommissionaires doivent remplir et signer le document intitulé <em>Attestation aux fins du Programme des marchés réservés aux entreprises autochtones</em>, qui se trouve à l'annexe « X » - <em>Exigences relatives au Programme des marchés réservés aux entreprises autochtones</em>, et le joindre à leur proposition. <strong>La présentation de cette attestation dûment remplie est une condition de validité des soumissions. La proposition des soumissionnaires qui n'y joindront pas cette attestation sera jugée irrecevable.</strong></p>

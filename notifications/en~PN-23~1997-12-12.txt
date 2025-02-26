@@ -1,30 +1,30 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-23</h2>
+<h3 class="pn-content-title">Content of PN-23</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>Policies and procedures for issuing Notices of Termination for Convenience have been revised to allow contracting officers to issue an initial Notice of Termination on the basis of written instruction from client departments, prior to receipt of the formalized amendment to the requisition and without seeking legal advice. The initial Notice of Termination which directs the contractor to stop all work and incur no further expense affects a legally binding termination. Following issuance of the initial Notice of Termination a confirming Notice of Termination must be issued; the confirming Notice cannot be issued until the formal requisition amendment is received, and a legal opinion has been sought.</p>
 <p>Policies and procedures for Terminations by Mutual Consent and Terminations for Default have also been revised to reflect housekeeping changes.</p>
 <p>Related changes to the <em>Supply Manual</em>, attached as <strong>Annex A</strong>, will be included in amendment 98-2.</p>
 <p>Related changes to the <em>Standard Acquisition Clauses and Conditions</em> Manual, attached as <strong>Annex B</strong>, will be included in amendment 98-2.</p>
-<h3>ANNEX A</h3>
-<h4>Chapter 11 - Contract Management</h4>
+<h4>ANNEX A</h4>
+<h5>Chapter 11 - Contract Management</h5>
 <p>Procedures 11.131, 11.132, 11.140, 11.141, 11.145, 11.146, 11.148, 11.150 - 11.152, 11.154 - 11.157, and 11.195 have been revised to reflect the new Termination for Convenience policies;</p>
 <p>Procedures 11.160, and 11.166 - 11.168 have been revised to reflect housekeeping changes.</p>
 <p>Chapter 6 - Developing the Procurement Strategy, Section 6E - Process</p>
 <p>Procedure 6.507 (n) has been revised to reflect the involvement of Legal Services in the new Termination for Convenience procedures.</p>
-<h3>ANNEX B</h3>
+<h4>ANNEX B</h4>
 <p>SACC Manual clauses J0001C, J0002C, J0003C, J0004D, J0005D, J0200C, J0205C, J0500C, and/or the related introductory remarks, have been introduced/modified to reflect the changes to the Termination for Convenience policies:</p>
 <p>SACC Manual clauses J1000C, J1001C, J1003C, J1004C, J1005C, and J2000C have been revised to reflect housekeeping changes and to ensure that termination clauses make reference to services as well as supplies.</p>
 <p>These changes take effect immediately.</p>
 <p>For your information, copies of only the SACC Manual clauses that have been revised, and updated versions of the Terminations and Legal Services Sections of the Supply Manual are attached.</p>
 <p>For more information, please contact Jean McCadden (956-0889).</p>
-<h3>ANNEX A</h3>
-<h4>CHANGES TO THE SUPPLY MANUAL</h4>
-<h4>CHAPTER 11 - CONTRACT MANAGEMENT</h4>
-<h4>Terminations</h4>
+<h4>ANNEX A</h4>
+<h5>CHANGES TO THE SUPPLY MANUAL</h5>
+<h5>CHAPTER 11 - CONTRACT MANAGEMENT</h5>
+<h5>Terminations</h5>
 <p>11.130 (23/06/94) These procedures do not apply to CCC contracts or contracts for the U.S. or other foreign governments.</p>
 <p><em>To determine which type of termination might be involved, see 11.131 (Termination for Convenience of the Crown), see 11.133 (Termination for Default) and see 11.135 (Termination by Mutual Consent). Refer to Standard Acquisition Clauses and Conditions (SACC) Manual subsection 5J for termination clauses.</em></p>
-<h4>Termination for Convenience of the Crown</h4>
+<h5>Termination for Convenience of the Crown</h5>
 <p>11.131 (__/__/97) Occasionally the Crown may wish to terminate a contract for convenience. (See 11.146.) This may be due to curtailment of funds, discontinuation of a government program, or other circumstances which make the acquisition of the product or service unnecessary. The General Conditions contain a section titled "Termination for Convenience" which becomes applicable as soon as the "Notice of Termination" is received by the contractor.</p>
 <p>11.132 (__/__/97) Termination for Convenience is to be applied where:</p>
 <ol type="a">
@@ -32,7 +32,7 @@
 <li>a Termination for Default cannot be considered because the contractor is not in default; and,</li>
 <li>a Termination by Mutual Consent would not be more advantageous to the Crown.</li>
 </ol>
-<h4>Termination for Default</h4>
+<h5>Termination for Default</h5>
 <p>11.133 (23/06/94) Termination for Default applies when the contractor breaches the contract, usually through non-performance or delayed delivery. "Default by Contractor" in the General Conditions provides the basis for Termination for Default. (See 11.180.)</p>
 <p>11.134 (23/06/94) Termination for Default is to be applied where:</p>
 <ol type="a">
@@ -46,32 +46,32 @@
 <li><em>samples were not provided on time; or</em></li>
 <li><em>no action was taken by the Crown after the first default by the contractor.</em></li>
 </ul>
-<h4>Termination by Mutual Consent</h4>
+<h5>Termination by Mutual Consent</h5>
 <p>11.135 (23/06/94) On rare occasions both parties may agree to termination without claims or penalties, usually where the client has requested full or partial termination of a contract, the contractor has incurred minor or no expenses and is willing to forego a claim, and the matter may be settled at no cost to the Crown. (See 11.195.)</p>
 <p>11.136 (23/06/94) Termination by Mutual Consent will not be actioned where it is in the interest of the Crown to issue a default termination or when additional costs are claimed by the contractor following the reduction or cancellation of all or a portion of the contract.</p>
-<h4>Contractor's Request for Termination</h4>
+<h5>Contractor's Request for Termination</h5>
 <p>11.137 (23/06/94) When a contractor requests termination because of anticipated losses in performing the contract, consent will not be granted. Instead, the contractor should be instructed that the obligations in the contract must be fulfilled. The contractor may, on completion of the contract, request an "extra payment" for additional costs incurred or losses suffered, if some responsibility for the additional cost or for the loss can be ascribed to the Crown. (See 11.031.)</p>
 <p>If the contractor refuses to carry out the contractual obligations, termination for default should be instituted.</p>
-<h4>Financial Security Issues</h4>
+<h5>Financial Security Issues</h5>
 <p>11.138 (15/09/97) If the contract is secured by a security deposit (government guaranteed bonds, bills of exchange, irrevocable standby letters of credit) it should not be terminated without the prior advice of Legal Services.</p>
 <p>11.139 (23/06/94) If the contract is secured by surety bonds, it is not to be terminated as this would also terminate the existing contractual relationship with the bonding company. When a contractor fails to perform a contract, or when a claim is received for non-payment of labour or material, and a payment bond is in place, contracting officers must immediately inform the surety company in writing, requesting that corrective action be taken. Contracting officers must not enter into negotiations with the contractor or claimant.</p>
-<h4>Involvement of Legal Services</h4>
+<h5>Involvement of Legal Services</h5>
 <p>11.140 (__/__/97) The following terminations shall not be issued without a written legal opinion: all Terminations for Default, Terminations by Mutual Consent, and confirming Notices of Terminations for Convenience.</p>
 <p>In seeking the opinion of Legal Services, the contracting officer must submit the contract file with a chronological, typed index of the documents forming the basis for the termination request, together with a short note outlining the events leading to termination. Based on this information, Legal Services will render an opinion and advise as to the appropriate method of termination.</p>
 <p>Note: A legal opinion is not required for initial Notices of Termination for Convenience. The issuance of an initial Notice of Termination for Convenience may only be taken in response to the client's written instructions.</p>
 <p><em>While a legal opinion prior to the issuance of any termination is desirable, in the interest of limiting costs incurred by the Crown the initial Notices of Termination for Convenience (SACC Manual Clauses J0200C and J0205C) do not require a legal opinion and may be issued by the Contracting Officer in accordance with 11.145.</em></p>
-<h4>Involvement of the Contract Claims Resolution Board</h4>
+<h5>Involvement of the Contract Claims Resolution Board</h5>
 <p>11.141 (__/__/97) The Senior Claims Officer (SCO), CCRB must be involved immediately in the claim settlement process resulting from contracts that are partially or completely terminated for convenience. Accordingly, the contracting officer must contact the SCO as soon as the initial Notice of Termination (SACC Manual Clauses J0200C and J0205C) is issued, and is to provide the SCO with a copy of each initial and confirming Notice of Termination. CCRB's facsimile number is 819-956-6705.</p>
-<h4>Adjustment to Source Lists</h4>
+<h5>Adjustment to Source Lists</h5>
 <p>11.142 (23/06/94) Terminations for Convenience of the Crown should not result in any adjustment of the source lists, while Terminations by Mutual Consent may require correction of source lists. Terminations for Default usually are cause for the deletion or suspension of the contractor from the source list.</p>
-<h4>Standing Offers</h4>
+<h5>Standing Offers</h5>
 <p>11.143 (23/06/94) Standing Offers are not contracts in the legal sense, and either party may withdraw from a Standing Offer by simple notification to the other party. However, call-ups received by a supplier prior to the date of its formal withdrawal must be fulfilled in accordance with the terms of the Standing Offer.</p>
-<h4>PWGSC Offices Outside Canada</h4>
+<h5>PWGSC Offices Outside Canada</h5>
 <p>11.144 (23/06/94) Termination procedures for contracts awarded by <acronym title="Public Works and Government Services Canada">PWGSC</acronym> offices outside Canada may differ from those for contracts issued in Canada, and the termination procedures serve only as a general guide.</p>
 <p><em>For example, if problems arise in such cases, the Director, <acronym title="Public Works and Government Services Canada">PWGSC</acronym> Washington, will obtain guidance from the SCO and, if necessary, obtain legal advice for the outside offices from Legal Services.</em></p>
-<h4>Signing Authority</h4>
+<h5>Signing Authority</h5>
 <p>11.145 (__/__/97) Initial and confirming Notices of Termination shall be approved and signed by a contracting officer with the signing authority (as indicated in Annex 6.1.3) for the total contract value at the time of the termination.</p>
-<h4>Termination for Convenience</h4>
+<h5>Termination for Convenience</h5>
 <p>11.146 (__/__/97) The contracting officer and the SCO are responsible for the following termination activities:</p>
 <table class="basic">
 <tbody><tr>
@@ -175,30 +175,30 @@
 <p>When the information is received, the contracting officer will forward it, together with any recommendations, to the client.</p>
 <p>Normally, the client's first request will be to cancel all or a portion of a contract, in which case the contracting officer must immediately issue an initial Notice of Termination in accordance with 11.150 if the termination is due to curtailment of funds, discontinuance of a government program or circumstances that make the acquisition of the product or service unnecessary.</p>
 <p>An initial Notice of Termination must be followed by the issuance of a confirming Notice of Termination.</p>
-<h4>Notice of Termination</h4>
+<h5>Notice of Termination</h5>
 <p>11.150 (__/__/97) On receiving the client's initial written instructions to cancel all or part of a contract for the convenience of the Crown (see 11.131) the contracting officer must immediately issue an initial Notice of Termination for Convenience to advise the contractor to "stop work" (see SACC Manual clause J0200C for a complete termination or clause J0205C for a partial termination). Following the issuance of the initial Notice of Termination for Convenience a confirming Notice of Termination must be issued (see SACC Manual Clauses J0001C or J0002C). The confirming Notice of Termination cannot be issued until the formal requisition amendment is received, and a legal opinion has been sought. The contracting officer must also contact and provide the Senior Claims Officer with a copy of the initial Notice of Termination.</p>
 <p><em>To expedite the termination action and minimize potential costs to the Crown the contracting officer is authorized to issue an initial Notice of Termination for Convenience prior to receipt of the formalized amendment to the requisition, and without seeking legal advice (see 11.140).</em></p>
-<h4>Suspension of the Work - Stop Work Order</h4>
+<h5>Suspension of the Work - Stop Work Order</h5>
 <p>11.151 (__/__/97) When a client wishes to suspend the work of a contract rather than cancel it, SACC Manual clause J0500C titled "Suspension of the Work - Stop Work Order" is to be used. The suspension of the work of a contract allows the Client to obtain a review of the contract status before deciding the type and extent of termination (including a termination for default). Should a client wish to reinstate a contract after a Suspension of the Work - Stop Work Order has been issued, the Stop Work Order must be rescinded. (See SACC Manual clause J0501C "Stop Work Order, Rescission of"). In this event, it may be necessary to adjust the delivery terms and/or contract price. It is the responsibility of the contracting officer to determine the reasonableness of all claims for additional costs which the contractor may make. Amendments to cover payment of such costs shall be approved in accordance with the contract amendment approval and signing authorities (Annex 6.1.5).</p>
-<h4>No Claim is Involved</h4>
+<h5>No Claim is Involved</h5>
 <p>11.152 (__/__/97) When a contractor advises the contracting officer that a claim will not be submitted following the receipt of an initial Notice of Termination, the contracting officer is to prepare a confirming Notice of Termination, for approval by Legal Services, which includes SACC Manual clause J0003C and eliminates the funding for the terminated items. (See SACC Manual clause J0003C) This Notice of Termination is then forwarded to the contractor for acceptance. Since no claim is made, the SCO is not involved in this process.</p>
-<h4>Client's Decision</h4>
+<h5>Client's Decision</h5>
 <p>11.153 (23/06/94) It is the client's responsibility to decide at what stage a full or partial termination should take place. Formal amendments to the requisition confirming the decision to terminate must be provided as quickly as possible.</p>
 <p>11.154 (__/__/97) The contracting officer must not issue a confirming Notice of Termination for Convenience until an amendment to the client's requisition has been received.</p>
 <p>The contracting officer should ensure that sufficient funds remain in the amended requisition to cover the estimated claim costs and costs resulting from post-termination activity carried out by the contractor. This includes the cost of producing the claim, segregation, packing, secured storage or residual inventory of material, parts assemblies, tools, equipment, etc., prior to disposal procedure.</p>
-<h4>Confirming Notice of Termination</h4>
+<h5>Confirming Notice of Termination</h5>
 <p>11.155 (__/__/97) As soon as the requisition amendment is received, the contracting officer will prepare and on advice from Legal Services send the contractor the confirming Notice of Termination or the confirming Notice of Partial Termination, using the standard clauses provided in Subsection 5J of the SACC Manual.</p>
 <p>11.156 (__/__/97) After the confirming Notice of Termination or Partial Termination is issued, the contracting officer will immediately send one copy of the notice to the SCO.</p>
 <p><em>In order to avoid further costs to the Crown and hardship to the contractor, a confirming</em> <em>Notice of Termination must be issued as promptly as possible to finalize the implications of an initial Notice of Termination.</em></p>
-<h4>Adjustment of Funds</h4>
+<h5>Adjustment of Funds</h5>
 <p>11.157 (__/__/97) The funds in the contract should not be adjusted when the confirming Notice of Termination is issued. The contract funds are adjusted only after a settlement offer has been made to a contractor.</p>
 <p><em>The funding will be adjusted by the SCO at the time that the Settlement and Release document is prepared for the approval and signature of the, Director, CCRB.</em></p>
-<h4>Adjustment to the Price of the Non-Terminated Portion of the Contract</h4>
+<h5>Adjustment to the Price of the Non-Terminated Portion of the Contract</h5>
 <p>11.158 (23/06/94) Whenever a contractor requests an upward adjustment to the cost or unit price of the non-terminated portion of a contract, the resulting claim for adjustment is to be referred to the SCO for review prior to reaching any agreement with the contractor concerning such upward cost or price adjustment.</p>
-<h4>Termination File</h4>
+<h5>Termination File</h5>
 <p>11.159 (23/06/94) For non-complex, fully terminated contracts, the contracting officer is to transfer the complete procurement file to the SCO, if a claim is involved.</p>
 <p>For complex procurements or partial terminations where the non-terminated portion of the file is still active, the contracting officer will prepare a termination case file including copies of the contract, amendments, specifications, pricing details, documents, correspondence and any other information relevant to the termination, and send it to the SCO.</p>
-<h4>Informing the Contractor</h4>
+<h5>Informing the Contractor</h5>
 <p>11.160 (__/__/97) If a claim is involved, the contracting officer is to forward three sets of <acronym title="Public Works and Government Services Canada">PWGSC</acronym> Prime Contractor termination claim forms and the "Procedures Manual on Termination of Contracts," to the contractor.</p>
 <p>These may be obtained from the SCO: each set of claim forms includes the following.</p>
 <p><em>CCRB-1 - Settlement Proposal for Fixed Price Contracts</em></p>
@@ -213,10 +213,10 @@
 <p>You are hereby requested to forward your completed claim within a two month period from the date of this letter. In order to assist you in meeting that date, we would be pleased to provide guidance and explanations necessary to ensure proper action is taken by your company and that the correct information is included in the forms.</p>
 <p>Please note that all communications and documents with respect to your claim should be directed to (<em>give appropriate name and address of the responsible contracting officer</em>)."</p>
 <p>11.162 (23/06/94) After the termination claim forms are forwarded, the contractor must be contacted by telephone to ensure that the forms have been received and that the necessary action is being taken on the contractor's part to submit a claim. If the contractor has any questions concerning the presentation of the claim, or the details of the termination settlement procedures, the contracting officer may advise the contractor to contact the SCO directly. When the contractor has completed the forms, the signed original and one copy are returned to the contracting officer. On receipt of the contractor's claim, one copy is to be forwarded promptly to the SCO, who shall then become responsible for the resolution of the claim.</p>
-<h4>Audit of Claims</h4>
+<h5>Audit of Claims</h5>
 <p>11.163 (03/06/96) Upon receipt of a claim, the SCO will determine the need for an audit. If the SCO concludes that an audit is required, the SCO will prepare the terms of reference for the audit and arrange for its completion by Consulting and Audit Canada.</p>
 <p><em>When an audit is performed, the SCO reviews the cost factors reported by the auditor and reconciles the contractor's claim with the auditor's report and the Inventory Verification Report form (CCRB-50). The cost implications of any inventory adjustments must be discussed with the auditor as well as with the contractor.</em></p>
-<h4>Inventories</h4>
+<h5>Inventories</h5>
 <p>11.164 (23/06/94) If the claim from a termination for convenience involves inventory that is rendered surplus by the termination, the contracting officer must send copies of the termination inventory schedules to the client in order to obtain instructions as to disposition, which will be either: </p>
 <ol type="a">
 <li>
@@ -228,11 +228,11 @@
 <p>The Report of Surplus must be signed by the director general or director concerned, to certify that: the inventories are reasonable in relation to the requirements of the terminated portion of the relevant contract; that their use is not required for other existing <acronym title="Public Works and Government Services Canada">PWGSC</acronym> contracts, due to the nature of the goods; and consequently, that disposal is recommended. The contracting officer will forward the signed Report of Surplus to CADC.</p>
 <p>In due course, the contracting officer receives a Final Inventory Certificate (FIC) from CADC, signed by the CADC inspector or assessor and the contractor.</p>
 <p><em>By signing the FIC, the contractor agrees to the final quantities for disposal and, at the same time, agrees to retain and be responsible for the residual inventories for 90 days, at no cost, on behalf of CADC. At the time of receipt of the FIC, the contracting officer is relieved of the responsibility for the residual inventory. Any proceeds realized from the sale of the surplus inventory are credited, on behalf of the client, to the Consolidated Revenue Fund or to the revolving fund, as applicable.</em></p>
-<h4>Settlement Offer</h4>
+<h5>Settlement Offer</h5>
 <p>11.166 (__/__/97) Upon receipt of the audit report, the SCO will prepare a proposed settlement offer. This offer informs the contractor of the amount of settlement the SCO is prepared to recommend to the Director, CCRB, for approval.</p>
 <p>11.167 (__/__/97) If the contractor accepts the proposed settlement offer, the SCO will prepare a Settlement and Release, form DSS-MAS 9223-1, and submit it to Legal Services for review, the Director, CCRB, for approval and signature, and then to the contractor for acceptance. When the contractor's written acknowledgement is received, the original is placed on the CCRB file and a copy forwarded to the contracting officer, for the contract file.</p>
 <p>11.168 (__/__/97) If the contractor rejects the proposed settlement, the SCO will advise the contractor to submit the case directly, in writing, to the Director, CCRB so that the case may be handled in accordance with CCRB's procedures for handling disputes (see 11.201).</p>
-<h4>Termination for Default</h4>
+<h5>Termination for Default</h5>
 <p>11.180 (23/06/94) The decision to terminate a contract for default should be made only after all other possible solutions have been explored. In all cases, the advice of Legal Services must be obtained at an early stage to ensure that any proposed action will not prejudice the Crown's legal position and that the termination is legally enforceable.</p>
 <p><em>Failure to take action may prejudice Crown interests.</em></p>
 <p><em>If a contract is secured by surety bonds, termination of the contract may change the existing contractual relationship with the bonding company.</em></p>
@@ -259,9 +259,9 @@
 <p>Upon receipt of a notice of bankruptcy or insolvency, the settlement procedure outlined in 11.112 is to be followed.</p>
 </li>
 </ol>
-<h4>Action to Terminate</h4>
+<h5>Action to Terminate</h5>
 <p>11.182 (23/06/94) The procedures for termination are the same as for Termination for Convenience, (see 11.146)</p>
-<h4>Action to Recover Loss or Damage</h4>
+<h5>Action to Recover Loss or Damage</h5>
 <p>11.183 (23/06/94) After termination, the contracting officer will determine the actual amount or best estimate of loss or damage suffered by the Crown, and the distribution of the damages to be recovered from the contractor.</p>
 <p><em>Estimates of loss or damage should include any amount in excess of the contract price which the Crown may be obliged to pay in procuring the goods or services elsewhere.</em></p>
 <p>11.184 (15/09/97) The contracting officer must refer claims to Legal Services when a contract is secured by a security deposit (government guaranteed bonds, bills of exchange, irrevocable standby letters of credit) or when the Crown has a claim against a contractor that is related to a work package for which the contractor has a claim against the Crown.</p>
@@ -269,17 +269,17 @@
 <p>11.185 (23/06/94) When a contractor agrees with the proposed settlement, the recommendation to recover monies will be submitted to CCSD, or, in the case of a CCC contract, the Director, Finance and Resources Administration (FRA). CCSD or the Director, FRA, will issue an invoice to the contractor for the monetary recovery.</p>
 <p>If payment is not received within 60 days of date of issue of the invoice, CCSD or the Director, FRA, will advise the contracting officer to take appropriate follow-up action with the contractor. When normal follow-up procedures have not been successful, the matter must be referred to Legal Services.</p>
 <p>11.186 (23/06/94) Claims must not be removed from departmental records until satisfied by payment or a properly authorized deletion action.</p>
-<h4>Contract Payment under Surety Bond</h4>
+<h5>Contract Payment under Surety Bond</h5>
 <p>11.187 (23/06/94) When a surety bond is being enforced, payments will be issued as follows:</p>
 <ol type="a">
 <li>Performance bond - upon completion of the contract to the satisfaction of the Crown, the bonding company may be paid all amounts to which the contractor would be entitled under the terms of the contract.</li>
 <li>Payment bond - the bonding company shall not be reimbursed for the payment of creditors from any funds held by the Crown until the work is complete and the surety company has fully discharged its obligations under the bond.</li>
 </ol>
-<h4>Termination by Mutual Consent</h4>
+<h5>Termination by Mutual Consent</h5>
 <p>11.195 (__/__/97) On receiving the client's request for termination by Mutual Consent, the contracting officer shall request the contractor to confirm that no claim is involved and shall refer the matter to Legal Services in accordance with 11.140.</p>
 <p><em>Since no claim is made, the SCO is not involved in this process.</em></p>
-<h3>SECTION 6E: PROCESS</h3>
-<h4>Legal Services</h4>
+<h4>SECTION 6E: PROCESS</h4>
+<h5>Legal Services</h5>
 <p>6.506 (23/06/94) Contracting officers must be aware that solicitor/client privilege exists for the legal opinions given by Legal Services, and that such opinions should not be disclosed without knowledge and recommendation of counsel.</p>
 <p>6.507 (__/__/97) Contracting officers must seek advice from Legal Services in the following circumstances:</p>
 <ol type="a">
@@ -306,8 +306,8 @@
 <p>Legal Services must be involved before any binding action that is included in these mandatory items (such as the entry into, the termination of, or a modification to, a contract) is taken by the contracting officer. Normally, consultation is most appropriate before issuing a bid solicitation.</p>
 </li>
 </ol>
-<h3>ANNEX B</h3>
-<h4>CHANGES TO THE SACC MANUAL</h4>
+<h4>ANNEX B</h4>
+<h5>CHANGES TO THE SACC MANUAL</h5>
 <p><strong>J0001C (__/__/97) Termination for Convenience - Confirming Notice</strong></p>
 <p><strong>Remarks:</strong> Use the following text to confirm a telegraphic, facsimile or other written initial Notice of Termination for Convenience (see J0200C) where the entire contract is terminated and when a claim may be expected.</p>
 <p>A confirming Notice of Termination for Convenience shall be prepared by the Contracting Officer and shall be submitted to the Legal Advisor for review. Such Notice shall not be issued to the contractor until the Legal Advisor has applied and signed the "Reviewed by Legal Services" stamp on the confirming notice.</p>

@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-46U3</h2>
+<h3 class="pn-content-title">Content of PN-46U3</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <ol>
 <li>Treasury Board Secretariat has provided notice (Contracting Policy Notice 2007-05) of the amendment of previously established thresholds for the international trade agreements. The new thresholds in Canadian dollars are applicable for two years, from January 1, 2008, to December 31, 2009.</li>
@@ -9,7 +9,7 @@
 <p><strong>Note: Based on the strength of the Canadian dollar, there has been a decrease in the trade thresholds.</strong></p>
 </li>
 </ol>
-<h3>World Trade Organization Agreement on Government Procurement  (<acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>)</h3>
+<h4>World Trade Organization Agreement on Government Procurement  (<acronym title="World Trade Organization - Agreement on Government Procurement">WTO-AGP</acronym>)</h4>
 <table border="0" class="basic">
 <tbody><tr>
 <th scope="row">Goods</th>
@@ -27,7 +27,7 @@
 <td>C$8,300,000</td>
 </tr>
 </tbody></table>
-<h3>North American Free Trade Agreement (NAFTA)</h3>
+<h4>North American Free Trade Agreement (NAFTA)</h4>
 <table border="0" class="basic">
 <tbody><tr>
 <th id="PN-46U3h1">Goods</th>
@@ -71,7 +71,7 @@
 </tr>
 </tbody></table>
 <p>The thresholds for the Agreement on Internal Trade remain unchanged at $25,000 for goods and $100,000 for services and construction.</p>
-<h3>Changes to Supply Manual</h3>
+<h4>Changes to Supply Manual</h4>
 <p>These changes will be reflected in next amendment of the <em>Supply Manual</em>, expected to be released in April 2008.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">

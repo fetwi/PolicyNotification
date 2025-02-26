@@ -1,24 +1,24 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-136</h2>
-<h3>Objet</h3>
+<h3 class="pn-content-title">Contenu de l'AP-136</h3>
+<h4>Objet</h4>
 <p>L’Avis relatif aux politiques (AP) 136 a pour objet d’informer les agents de négociation des contrats du Programme des approvisionnements de Travaux publics et Services gouvernementaux Canada (TPSGC) de la mise en œuvre de l’Accord de partenariat transpacifique global et progressiste (PTPGP).</p>
-<h3>Date d’entrée en vigueur</h3>
+<h4>Date d’entrée en vigueur</h4>
 <p>Le présent <abbr title="Avis relatif aux politiques">AP</abbr> entre en vigueur le 30 décembre 2018. Les obligations en matière d’approvisionnement gouvernemental du <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> entrent en vigueur le 30 décembre 2018. Le Guide des clauses et conditions uniformisées d’achat (CCUA) et le Guide des approvisionnements seront mis à jour ultérieurement afin de refléter ces obligations.</p>
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>Le <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> est un accord de libre-échange entre le Canada, l’Australie, le Brunei, le Chili, le Japon, la Malaisie, le Mexique, la Nouvelle Zélande, le Pérou, Singapour et le Vietnam. Il a été signé le 8 mars 2018, après la communication des États-Unis de leur intention de ne pas ratifier le Partenariat transpacifique (PTP). Le <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> est une zone d’échanges commerciaux qui représente un marché commercial de 495 millions de personnes et dont le produit intérieur brut (PIB) combiné est de 13,5 billions $ CA, soit 13,5 % du <abbr title="produit intérieur brut">PIB</abbr> mondial.</p>
 <p>Cet accord donne aux fournisseurs des pays signataires l’accès aux marchés publics des autres pays du <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr>. À l’instar d’autres accords de libre-échange, le chapitre sur les marchés publics comprend des obligations procédurales fondées sur les principes de non-discrimination et de concurrence ouverte, équitable et transparente.</p>
-<h3>Aperçu</h3>
+<h4>Aperçu</h4>
 <p>Le <a href="http://international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/cptpp-ptpgp/text-texte/index.aspx?lang=fra" rel="external"><abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr></a> incorpore le <abbr title="Partenariat transpacifique">PTP</abbr> par renvoi. Les dispositions sur les marchés publics du <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> sont par conséquent établies au <a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/tpp-ptp/text-texte/15.aspx?lang=fra" rel="external">chapitre 15 du <abbr title="Partenariat transpacifique">PTP</abbr></a> et à l’<a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/tpp-ptp/text-texte/15-a3.aspx?lang=fra" rel="external">annexe 15-A du <abbr title="Partenariat transpacifique">PTP</abbr></a>, qui constitue la liste des engagements en matière d’accès aux marchés publics du Canada. Le <a href="http://international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/cptpp-ptpgp/text-texte/cptpp-ptpgp.aspx?lang=fra" rel="external">texte du <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr></a> précise l’incorporation du <abbr title="Partenariat transpacifique">PTP</abbr>, ainsi que la suspension de certaines dispositions qui n’ont pas d’effet sur les approvisionnements de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>. </p>
 <p>Les obligations, le format et les seuils du <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> sont similaires à ceux de l’Accord sur les marchés publics de l'Organisation mondiale du commerce (AMP-OMC). L’étendue d’application du <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> est déterminée de la même manière que tous les autres accords de libre-échange signés par le Canada, c.-à.-d. un achat est assujetti au <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> si : sa valeur est égale ou supérieure au seuil pertinent; le type de besoin y est assujetti; l'entité pour laquelle l'achat est effectué y est assujettie; et aucune exception particulière n'est applicable (p. ex. construction navale) ni invoquée (p. ex. sécurité nationale). Ainsi, le <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> n’emporte aucun effet anticipé significatif sur les approvisionnements fédéraux. Toutefois, comme pour tout accord de libre-échange, la consultation du chapitre sur les marchés publics est recommandée pour confirmer les obligations, l’étendue d’application et les exceptions applicables au Canada.</p>
-<h4>Entités visées</h4>
+<h5>Entités visées</h5>
 <p>Les renseignements sur les entités visées se trouvent aux passages suivants de l’<a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/tpp-ptp/text-texte/15-a3.aspx?lang=fra" rel="external">annexe 15-A – Liste du Canada</a> :</p>
 <ul>
 <li>ministères et organismes gouvernementaux fédéraux visés, à la Section A</li>
 <li>sociétés d’État visées, à la Section C.</li>
 </ul>
-<h4>Biens, services et services de construction</h4>
+<h5>Biens, services et services de construction</h5>
 <p>Les renseignements sur l’étendue d’application des biens, des services et des services de construction se trouvent à l’<a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/tpp-ptp/text-texte/15-a3.aspx?lang=fra" rel="external">annexe 15-A – Liste du Canada</a> :</p>
 <ul>
 <li>tous les biens sont visés sauf indication contraire à la Section D;</li>
@@ -26,7 +26,7 @@
 <li>la couverture des services de construction est établie à la Section F;</li>
 <li>les exceptions sont énumérées à la Section G, ainsi que dans les notes sur les sections A à F.</li>
 </ul>
-<h4>Seuils</h4>
+<h5>Seuils</h5>
 <p>Les seuils du <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> sont les mêmes que ceux de l’<abbr title="Accord sur les marchés publics de l'Organisation mondiale du commerce">AMP-OMC</abbr>.</p>
 <table>
 <caption>Seuils du <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> du 30 décembre 2018 au 31 décembre 2019 (en $ CA)</caption>
@@ -52,9 +52,9 @@
 </tr>
 </tbody></table>
 <p>Les seuils seront révisés tous les deux ans à compter du 1er janvier 2020 et seront publiés à la page <a href="https://www.canada.ca/fr/secretariat-conseil-tresor/services/avis-politique/2017-6.html" rel="external">Accords commerciaux : Mise à jour des seuils</a> du Secrétariat du Conseil du Trésor (SCT).</p>
-<h4>Obligations procédurales</h4>
+<h5>Obligations procédurales</h5>
 <p>Les obligations procédurales découlant du <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> sont énoncées au <a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/tpp-ptp/text-texte/15.aspx?lang=fra" rel="external">chapitre 15 – Marchés publics</a>. Les règles procédurales visent, par exemple, l’évaluation des contrats, les exceptions générales, les avis, la teneur de la documentation relative aux appels d’offres, les circonstances permettant le recours aux appels d’offres restreints et la publication des renseignements sur l’attribution de contrats. Les obligations procédurales découlant du <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> sont essentiellement les mêmes que celles de l’<abbr title="Accord sur les marchés publics de l'Organisation mondiale du commerce">AMP-OMC</abbr>.</p>
-<h4>Exceptions</h4>
+<h5>Exceptions</h5>
 <p>Les articles suivants devraient être consultés concernant les exceptions qui peuvent s’appliquer :</p>
 <ul>
 <li>l’article 15.2 – Portée, du <a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/tpp-ptp/text-texte/15.aspx?lang=fra" rel="external">chapitre 15 – Marchés publics</a>;</li>
@@ -62,26 +62,26 @@
 <li>les notes de l’<a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/tpp-ptp/text-texte/15-a3.aspx?lang=fra" rel="external">annexe 15-A – Liste du Canada</a>;</li>
 <li>l’article 29.2 – Exceptions concernant la sécurité, du <a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/tpp-ptp/text-texte/29.aspx?lang=fra" rel="external">chapitre 29 – Exceptions et dispositions générales</a>.</li>
 </ul>
-<h3>Sommaire des différences</h3>
+<h4>Sommaire des différences</h4>
 <p>L’étendue d’application et les règles procédurales du <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> sont semblables à celles de l’<abbr title="Accord sur les marchés publics de l'Organisation mondiale du commerce">AMP-OMC</abbr> et n’auront pas d’impact significatif sur les processus d’approvisionnement de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>.</p>
 <p>Il existe toutefois dans le <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> quelques obligations, dispositions et procédures qui se distinguent des autres accords internationaux de libre-échange et dont il faut tenir compte :</p>
-<h4>Exception au titre de la sécurité nationale (ESN)</h4>
+<h5>Exception au titre de la sécurité nationale (ESN)</h5>
 <p>Contrairement à plusieurs des accords de libre-échange du Canada, l’<abbr title="Exception au titre de la sécurité nationale">ESN</abbr> du <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> ne figure pas au chapitre sur les marchés publics. Elle paraît plutôt à titre d’exception générale au Partenariat à l’article 29.2, Exceptions concernant la sécurité, du <a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/tpp-ptp/text-texte/29.aspx?lang=fra" rel="external">chapitre 29 – Exceptions et dispositions générales</a>. Bien que l’<abbr title="Exception au titre de la sécurité nationale">ESN</abbr> du <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> ne soit pas formulée de la même façon que l’<abbr title="Exception au titre de la sécurité nationale">ESN</abbr> habituellement rattachée à l’approvisionnement, il n’y a pas de différence en substance au plan des dispositions. Par conséquent, il n’y aura donc pas d’impact sur les processus d’approvisionnement de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>.</p>
-<h4>Services</h4>
+<h5>Services</h5>
 <p>L’étendue d’application du <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> en matière de services est plus considérable que les autres accords internationaux de libre-échange signés par le Canada. À titre d’exemple, pour la première fois dans les accords internationaux de libre-échange signés par le Canada, le <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> couvre tous les « services de crédit-bail ou de location sans opérateurs » des ministères et organismes gouvernementaux fédéraux et des sociétés d’État plutôt que de s’en tenir à certains services de cette nature.</p>
 <p>Les agents des achats doivent se reporter à la Section E de l’<a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/tpp-ptp/text-texte/15-a3.aspx?lang=fra" rel="external">annexe 15-A – Liste du Canada</a> pour déterminer si un service est visé par le <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr>.</p>
-<h4>Évaluation des achats</h4>
+<h5>Évaluation des achats</h5>
 <p>Selon l’article 15.2(9) du <a href="http://www.international.gc.ca/trade-commerce/trade-agreements-accords-commerciaux/agr-acc/tpp-ptp/text-texte/15.aspx?lang=fra" rel="external">chapitre 15 – Marchés publics</a> du <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr>, si la valeur maximale totale estimée d’un marché, pour sa durée entière, n’est pas connue, le marché doit être présumé être un marché assujetti au <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr>, à moins d’être autrement exclu par l’accord. Cette exigence remplace le dispositif moins contraignant d’autres accords internationaux de libre-échange qui suggèrent des méthodes d’évaluation des marchés pour lesquels il n’est pas possible de préciser un prix total (p. ex. multiplication par 48 les versements mensuels estimés, etc.).</p>
 <p>Sur le plan opérationnel, dans le cas d’achats dont la valeur maximale totale estimée n’est pas connue et ne peut être déterminée, mais dont la valeur maximale totale n’est certainement pas égale ou supérieure au(x) seuil(s) de l’accord commercial applicable, les agents de négociation des contrats doivent inclure des dispositions contractuelles de limitation de responsabilité étatique à un niveau inférieur à ce seuil. Une fois cette mesure prise, l’achat peut alors être considéré comme n’étant pas assujetti à l’accord ou aux  accords de libre-échange.</p>
 <p>Dans les cas d’achats dont la valeur maximale totale estimée n’est pas connue et ne peut être déterminée, mais dont la valeur maximale totale peut être égale ou supérieure au(x) seuil(s) de l’accord de libre-échange applicable, l’achat doit être considérée par l’agent comme assujetti par les accords de libre-échange applicables, sauf exception.</p>
-<h4>Achats financés par une organisation internationale</h4>
+<h5>Achats financés par une organisation internationale</h5>
 <p>Dans le cadre du <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr>, lorsqu’un achat est financé par une organisation internationale ou par des dons, prêts ou autre aide internationaux ou étrangers, et que le financement s’accompagne de procédures ou de conditions précises d’acquisition qui ne restreignent pas la participation des fournisseurs, l’achat est assujetti  aux dispositions du <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> portant sur le traitement national et la non-discrimination énoncés à l’article 15.4.1, mais à aucune autre disposition du <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr>. Ces achats ne sont assujettis d’aucune manière aux autres accords internationaux de libre-échange.</p>
 <p>Cette obligation a pour effet que, pour de telles acquisitions, ni la Politique sur le contenu canadien ni d’autres préférences intérieures ne peuvent s’appliquer. </p>
 <p>A l’inverse, lorsqu’un achat est financé par une organisation internationale ou par des dons, prêts ou autre aide internationaux ou étrangers, et que le financement s’accompagne de procédures ou de conditions précises d’acquisition qui restreignent la participation des fournisseurs, l’acquisition n’est assujettie ni au <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> ni à un quelconque autre accord international de libre-échange.</p>
 <p>Lorsqu’un achat est financé par une organisation internationale ou par des dons, prêts ou autre aide internationaux ou étrangers auxquels les procédures ou conditions de passation des marchés de l’organisation internationale ou du bailleur de fonds ne s’appliquent pas, l’achat est couvert par les accords commerciaux internationaux applicables, sauf exception.</p>
-<h3>Coordonnées</h3>
+<h4>Coordonnées</h4>
 <p>Pour obtenir de l’aide concernant l’application du <abbr title="partenariat transpacifique global et progressiste">PTPGP</abbr> ou tout autre accord commercial, les agents de négociation des contrats peuvent communiquer avec l’Unité des accords commerciaux du Secteur de la politique stratégique à l’adresse <a href="mailto:tpsgc.paaccordscommerciaux-aptradeagreements.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.paaccordscommerciaux-aptradeagreements.pwgsc@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
+<h5 class="field-label">Sections du Guide des approvisionnements visées</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-42e5b8bd861d55c9192aa7a8344d7415">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">
@@ -95,7 +95,7 @@
 </ul></div> </div>
 </div>
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h4>
+<h5 class="field-label">Items du Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr> visés</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-ca457d0af74cd4038a6500165d5e36fa">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">

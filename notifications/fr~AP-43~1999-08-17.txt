@@ -1,15 +1,15 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-43</h2>
+<h3 class="pn-content-title">Contenu de l'AP-43</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 17 août 1999</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 17 août 1999</h4>
 <p>1. Le Service des approvisionnements (AC et régions) <b>n'aura pas</b> recours à ses pouvoirs délégués de passation des marchés pour (i) les services de construction et (ii) les services d'AG, à moins que la Direction générale des services immobiliers (DGSI) ne soit le client et (ou) le responsable technique du projet.</p>
 <p>Les marchés qu'on pourrait conclure en faisant appel aux pouvoirs visant <b>ces deux types particuliers</b> de services, sont appelés, dans le présent Avis de politique, marchés immobiliers.</p>
 <p>Les autres ministères qui demandent directement à la Direction de l'attribution des marchés immobiliers (DAMI**) de passer des marchés immobiliers, dont des marchés de conception-construction, doivent être informés de recourir aux services de la DGSI; ils ne pourront pas recevoir l'avantage des pouvoirs de passation des marchés immobiliers de la DAMI sauf s'ils passent par la DGSI. Épaulé au besoin par son gestionnaire, l'agent de négociation des marchés de la DAMI <b>doit</b> informer l'autre ministère que sa demande ne sera pas acceptée et en expliquer les motifs.</p>
@@ -24,7 +24,7 @@
 <p><i>Ces trois mesures sont provisoires et leur application vise à réduire le risque pour l'État de ce mode de passation de marchés, en attendant une discussion en profondeur de la question. Les gestionnaires et le personnel de la DAMI sont encouragés à s'entretenir de ces mesures provisoires à l'interne et avec leurs clients, afin d'établir leurs effets à long terme probables et possibles sur les besoins en marchés immobiliers.</i></p>
 <p><i>Le Secteur de la gestion du programme des approvisionnements (SGPA) (Projets spéciaux) se charge de préciser les paramètres particuliers des délégations des pouvoirs de passation des marchés du Conseil du Trésor qui concernent les marchés immobiliers et d'autres formes de marchés avant la fin septembre, moment où une proposition d'intervention nouvelle sera présentée au Conseil de la politique des approvisionnements qui en discutera à fond.</i></p>
 <p><i>À ce stade, TPSGC (la DAMI comme porte-parole) communiquera (à l'interne et aux autres ministères - le CCCTM [Construction] sera un centre de diffusion) les objectifs et les avantages d'une organisation de services communs pour la passation de marchés immobiliers, notamment les avantages d'une relation sans lien de dépendance, l'application d'une connaissance et d'une expertise de spécialiste en matière de marchés et la gestion du processus d'appel d'offres, dont la corrélation avec les accords commerciaux et leur cadre correspondant.</i></p>
-<h4>JUSTIFICATION</h4>
+<h5>JUSTIFICATION</h5>
 <ol type="a">
 <li>Les marchés immobiliers (ceux pour lesquels on a recours à des pouvoirs délégués pour les services de construction et d'AG) traitent de bien des questions de conception technique, de santé et de sécurité qui nécessitent l'exercice d'une diligence raisonnable, d'après une connaissance professionnelle et technique des questions et des responsabilités.</li>
 <li>Lorsque la DAMI conclut un marché au nom d'un client, il est important de faire observer que, pendant toute la durée du projet, TPSGC (en dernier ressort, le ministre) demeure l'autorité contractante enregistrée et demeure donc responsable de la gestion du marché, les responsabilités légales concomitantes lui incombant. Cette obligation redditionnelle signifie que TPSGC doit compter sur l'expertise technique de son client tout au long d'un projet immobilier, de sa conception jusqu'à sa réalisation, en passant par une surveillance continue. Cette expertise technique est constituée, entre autres, des capacités essentielles suivantes : rédiger des énoncés de projet, évaluer des avant-projets de conception faits par des spécialistes, gérer et surveiller des travaux de construction et évaluer le rendement d'experts-conseils et d'entrepreneurs.</li>
@@ -39,7 +39,7 @@
 </li>
 <li>Avant donc de prodiguer ces conseils, lorsqu'il y a lieu de croire que peuvent entrer en jeu des aspects techniques d'un achat, le personnel de la DAMI du SA pourra souhaiter consulter les experts techniques compétents de la DGSI. Cette consultation devient inutile, lorsqu'il s'agit de questions contractuelles.</li>
 </ol>
-<h4>RAPPEL DES FAITS</h4>
+<h5>RAPPEL DES FAITS</h5>
 <p>Il existe deux scénarios selon lesquels la DAMI conclut un marché prévoyant l'acquisition de services de construction ou d'AG.</p>
 <p>Le premier concerne la DAMI et la DGSI. La DAMI, l'organisation qui passe les marchés immobiliers à la DGSA, fournit une expertise dans l'administration du marché, en en gérant les conditions. À titre de responsable technique, la DGSI gère les activités de l'expert-conseil (pendant l'étape de la conception) et de l'entrepreneur (pendant l'étape de la construction), pour s'assurer que le projet est conçu selon les codes et les normes applicables et que les travaux sont exécutés en conformité absolue avec les plans et devis.</p>
 <p>Le deuxième scénario concerne la DAMI et un autre ministère. Comme dans le premier scénario, la DAMI fournit l'expertise en passation de marchés, mais c'est l'autre ministère qui joue le rôle de responsable technique, qui s'assure que la conception est bien faite et que les travaux sont exécutés conformément aux plans et devis.</p>

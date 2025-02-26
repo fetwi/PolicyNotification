@@ -1,14 +1,14 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-43U2</h2>
-<h3>But</h3>
+<h3 class="pn-content-title">Contenu de l'AP-43U2</h3>
+<h4>But</h4>
 <p>Le présent avis relatif aux politiques (AP)-43U2 vise à rajuster les taux des services de passation de marchés de la Direction de l'attribution des marchés immobiliers pour tenir compte des taux de rémunération figurant dans les conventions collectives signées/ratifiées récemment, de même qu'à mettre à jour le modèle de protocole d'entente (PE) et l'annexe C du <abbr title="protocole d’entente">PE</abbr>, intitulée Passation de marchés de services immobiliers avec Travaux publics et Services gouvernementaux Canada et datée d'avril 2018.</p>
-<h3>Date d'entrée en vigueur</h3>
+<h4>Date d'entrée en vigueur</h4>
 <p>Le présent avis relatif aux politiques entre en vigueur immédiatement.</p>
-<h3>Introduction</h3>
+<h4>Introduction</h4>
 <p>Le présent avis relatif aux politiques (AP)-43U2 remplace l'<abbr title="avis relatif aux politiques">AP</abbr>-43U1, Exercice des pouvoirs de passation de marchés pour des services de construction et d'architecture et de génie publié le 25 mars 2015.</p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>Le présent
     <abbr title="avis relatif aux politiques">AP</abbr> a été publié en 1999. Il a été mis à jour en mars 2001 puis a fait l'objet d'une nouvelle mise à jour en avril 2009 et en mars 2015. Il visait à réduire les risques encourus par le gouvernement à l'égard de la passation de marchés pour des services d'architecture et de génie (A et G) et de construction, car ces besoins peuvent traiter de questions complexes au niveau technique et sur les plans de la santé, de la sécurité et de la gestion de projet.</p>
 <p>Puisque les pouvoirs de passation de marchés pour les services d'<abbr title="architecture et de génie">A et G</abbr> et de construction n'avaient autrefois été délégués qu'à l'ancien ministère des Travaux publics (avant sa fusion avec le ministère des Approvisionnements et Services) pour qu'il les exerce en ayant recours à ses propres ressources techniques, il était jugé que l'exercice de ces pouvoirs accrus par tout autre ministère pouvait entraîner des risques non seulement pour le ministère en question, mais également pour le ministère des Travaux publics.</p>
@@ -21,15 +21,15 @@
 <p>Lorsque l'évaluation était positive, le directeur du ministère client responsable du projet devait signer un court document énonçant les responsabilités du ministère client, permettant ainsi au
     <abbr title="Programme des approvisionnements">PA</abbr> d'aller de l'avant avec la demande. Lorsque l'évaluation était négative, le ministère client était avisé par écrit des raisons pour lesquelles les services de passation de marchés ne seraient pas offerts par le
     <abbr title="Programme des approvisionnements">PA</abbr>. Le ministère client devait alors apporter des modifications à l'interne ou se prévaloir des services techniques des <abbr title="Services immobiliers">SI</abbr> pour procéder à la réalisation du projet.</p>
-<h3>Mise en œuvre</h3>
+<h4>Mise en œuvre</h4>
 <p>Lorsque les Services immobiliers (SI) agissent à titre de responsable technique ou de gestionnaire de projet dans le cadre d'un projet de services d'<abbr title="architecture et de génie">A et G</abbr> ou de construction, il est admis que le niveau de compétence technique sera appliqué pour l'élaboration et la gestion du projet. La Direction de l'attribution des marchés immobiliers (DAMI) du
     <abbr title="Programme des approvisionnements">PA</abbr> devra donc fournir aux <abbr title="Services immobiliers">SI</abbr> l'éventail complet de ses services d'attribution de marchés immobiliers.</p>
 <p>Lorsqu'un ministère client entend assumer le rôle de responsable technique ou de gestionnaire de projet pour un marché de services d'<abbr title="architecture et de génie">A et G</abbr> ou de construction mis en place par le ministre de Travaux publics et Services gouvernementaux Canada, le ministère client est exclusivement responsable d'évaluer et de déterminer s'il possède la capacité requise (dont les compétences et les processus appropriés pour gérer les activités de construction). Le partage des responsabilités entre le responsable technique et l'autorité contractante est clairement défini dans l'annexe C intitulée <a class="gov" href="http://www.gcpedia.gc.ca/wiki/Exercice_des_pouvoirs_de_passation_de_march%C3%A9s_pour_des_services_de_construction_et_d%27architecture_et_de_g%C3%A9nie#Passation_de_march.C3.A9s_de_services_immobiliers_avec_Travaux_publics_et_Services_gouvernementaux_Canada_.28PDF.29_:" rel="external">Passation de marchés de services immobiliers avec Travaux publics et Services gouvernementaux Canada</a><span> (accessible uniquement sur le réseau du gouvernement du Canada)</span>. Le ministère client et la
     <abbr title="Direction de l'attribution des marchés immobiliers">DAMI</abbr> collaboreront pour officialiser un protocole d'entente propre au projet/programme. Ce protocole d'entente confirmera que le client possède la capacité nécessaire et qu'il accepte d'assumer les responsabilités connexes. Le protocole d'entente doit être signé avant que
     <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> accepte d'entreprendre les services ou les travaux indiqués dans la demande.</p>
-<h3>Résumé des changements</h3>
+<h4>Résumé des changements</h4>
 <p>Les documents relatifs à l'exercice des pouvoirs de passation de marchés pour des services de construction et d'architecture et de génie ont été mis à jour. L'annexe C, intitulée <a class="gov" href="http://www.gcpedia.gc.ca/wiki/Exercice_des_pouvoirs_de_passation_de_march%C3%A9s_pour_des_services_de_construction_et_d%27architecture_et_de_g%C3%A9nie#Passation_de_march.C3.A9s_de_services_immobiliers_avec_Travaux_publics_et_Services_gouvernementaux_Canada_.28PDF.29_:" rel="external">Passation de marchés de services immobiliers avec Travaux publics et Services gouvernementaux Canada</a><span> (accessible uniquement sur le réseau du gouvernement du Canada)</span>, a remplacé intégralement l'annexe B, intitulée Passation de marchés de services immobiliers avec Travaux publics et Services gouvernementaux Canada, et le <a class="gov" href="http://www.gcpedia.gc.ca/wiki/Exercice_des_pouvoirs_de_passation_de_march%C3%A9s_pour_des_services_de_construction_et_d%27architecture_et_de_g%C3%A9nie#Protocole_d.E2.80.99entente_.28PDF.29:" rel="external">modèle de protocole d'entente</a><span> (accessible uniquement sur le réseau du gouvernement du Canada)</span> a été mis à jour.</p>
-<h3>Ressources</h3>
+<h4>Ressources</h4>
 <p>Les demandes de renseignements doivent être acheminées à la Direction de l'attribution des marchés immobiliers, à l'adresse <a href="mailto:tpsgc.pasgacadami-apcaamsrpcd.pwgsc@tpsgc-pwgsc.gc.ca" rel="external">tpsgc.pasgacadami-apcaamsrpcd.pwgsc@tpsgc-pwgsc.gc.ca</a></p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-hidden">
 </div><div class="field field-name-field-assoc-sacc-items-view field-type-viewfield field-label-hidden">
 </div>

@@ -1,6 +1,6 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-10</h2>
+<h3 class="pn-content-title">Content of PN-10</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>The Minister was sworn in as the Minister of Public Works and Government Services on July 12, 1996.</p>
 <p>The name of our Department is now the Department of Public Works and Government Services, and the applicable legislation under which contracting activities are conducted is the <em>Department of Public Works and Government Services Act</em>, S.C., 1996, c.16.</p>
@@ -9,27 +9,27 @@
 <p>In the interim, the attached modified incorporation by reference clauses should be used (Annex A). These clauses will be released to the Automated Buyer Environment (ABE) and PASS systems with the next SACC release, which is expected October 30, 1996.</p>
 <p>References to form numbers - e.g. DSS-MAS 9601, within the body of clauses, will not be changed, since these are the specific identifiers of the clauses in question. New clauses will refer to the new Department where applicable.</p>
 <p>Additional questions may be directed to Tom Simper in Supply Policy Directorate at 819-956-0881.</p>
-<h3>Annex A</h3>
+<h4>Annex A</h4>
 <p><strong>Remarks:</strong> The following clause is to be used in all bid solicitations in conjunction with clauses A0000C, Standard Instructions and Conditions" and K0000D, "Conditions". Procurement officers are to specify, where indicated, the applicable set of Standard Instructions and Conditions, including title, number and date. For Standing Offers, refer to clause M0000T.</p>
-<h4>A0000T Standard Instructions and Conditions</h4>
-<h5>REVISION OF DEPARTMENTAL NAME</h5>
+<h5>A0000T Standard Instructions and Conditions</h5>
+<h6>REVISION OF DEPARTMENTAL NAME</h6>
 <p>Reference to the Minister of Supply and Services or to the Department of Supply and Services contained in any term, condition or clause of this solicitation shall be interpreted as a reference to the Minister of Public Works and Government Services or to the Department of Public Work and Government Services, as the case may be.</p>
-<h5>STANDARD ACQUISITION CLAUSES AND CONDITIONS MANUAL</h5>
+<h6>STANDARD ACQUISITION CLAUSES AND CONDITIONS MANUAL</h6>
 <p>All instructions, general terms, conditions and clauses identified herein by title, number and date are set out in the Standard Acquisition Clauses and Conditions (SACC) Manual, issued by the Department of Public Works and Government Services (DPWGS), bearing Catalogue No. P60-4/1-1991E and revised as of May 1, 1996.</p>
 <p>The SACC Manual may be obtained from the Public Relations and Print Contract Services Sector - Publishing, telephone 819-956-4802, and may also be viewed on the Open Bidding Service (OBS), telephone 1-800-361-4637, and at all DPWGS procurement offices.</p>
-<h5>STANDARD INSTRUCTIONS AND CONDITIONS</h5>
+<h6>STANDARD INSTRUCTIONS AND CONDITIONS</h6>
 <p>Standard Instructions and Conditions in DSS-MAS <span aria-label="Blank placeholder" class="blankline"></span>  (<span aria-label="Blank placeholder" class="blankline"></span> ) set out in the SACC Manual are hereby incorporated by reference into and form part of this solicitation. Submission of a bid constitutes acknowledgement that the Bidder has read and agrees to be bound by such instructions.</p>
-<h5>TERMS AND CONDITIONS OF SOLICITATION AND RESULTING CONTRACT</h5>
+<h6>TERMS AND CONDITIONS OF SOLICITATION AND RESULTING CONTRACT</h6>
 <p>Pursuant to the <em>Department of Public Works and Government Services Act</em>, S.C., 1996, c.16, the general terms, conditions and clauses identified herein by title, number and date, are hereby incorporated by reference into and form part of this solicitation, bid and any resulting contract, as though expressly set out herein, subject to any other express terms and conditions herein contained.</p>
 <hr/>
 <p><strong>Remarks:</strong> The following clause is to be used in all contract documents in conjunction with clauses A0000T,"Standard Instructions and Conditions" and K0000D, "Conditions". For Standing Offers, refer to clause M0000C.</p>
-<h4>A0000C Standard Instructions and Conditions</h4>
-<h5>REVISION OF DEPARTMENTAL NAME</h5>
+<h5>A0000C Standard Instructions and Conditions</h5>
+<h6>REVISION OF DEPARTMENTAL NAME</h6>
 <p>Reference to the Minister of Supply and Services or to the Department of Supply and Services contained in any term, condition or clause of this solicitation shall be interpreted as a reference to the Minister of Public Works and Government Services or to the Department of Public Work and Government Services, as the case may be.</p>
-<h5>STANDARD ACQUISITION CLAUSES AND CONDITIONS MANUAL</h5>
+<h6>STANDARD ACQUISITION CLAUSES AND CONDITIONS MANUAL</h6>
 <p>All instructions, general terms, conditions and clauses identified herein by title, number and date are set out in the Standard Acquisition Clauses and Conditions (SACC) Manual, issued by the Department of Public Works and Government Services (DPWGS), bearing Catalogue No. P60-4/1-1991E and revised as of May 1, 1996.</p>
 <p>The SACC Manual may be obtained from the Public Relations and Print Contract Services Sector - Publishing, telephone 819-956-4802, and may also be viewed on the Open Bidding Service (OBS), telephone 1-800-361-4637, and at all DPWGS procurement offices.</p>
-<h5>TERMS AND CONDITIONS OF CONTRACT</h5>
+<h6>TERMS AND CONDITIONS OF CONTRACT</h6>
 <p>Pursuant to the <em>Department of Public Works and Government Services Act</em>, S.C., 1996, c.16,</p>
 <ol type="a">
 <li>the general terms, conditions and clauses identified herein by title, number and date, are hereby incorporated by reference into and form part of this contract, as though expressly set out herein, subject to any other express terms and conditions herein contained.</li>
@@ -37,15 +37,15 @@
 </ol>
 <hr/>
 <p><strong>Remarks:</strong> The following clause is to be used in all Requests for a Standing Offer in conjunction with clause K0000D "Conditions."</p>
-<h4>M0000T Standard Instructions and Conditions</h4>
-<h5>REVISION OF DEPARTMENTAL NAME</h5>
+<h5>M0000T Standard Instructions and Conditions</h5>
+<h6>REVISION OF DEPARTMENTAL NAME</h6>
 <p>Reference to the Minister of Supply and Services or to the Department of Supply and Services contained in any term, condition or clause of this solicitation shall be interpreted as a reference to the Minister of Public Works and Government Services or to the Department of Public Work and Government Services, as the case may be.</p>
-<h5>STANDARD ACQUISITION CLAUSES AND CONDITIONS MANUAL</h5>
+<h6>STANDARD ACQUISITION CLAUSES AND CONDITIONS MANUAL</h6>
 <p>All instructions, general terms, conditions and clauses identified herein by title, number and date are set out in the Standard Acquisition Clauses and Conditions (SACC) Manual, issued by the Department of Public Works and Government Services (DPWGS), bearing Catalogue No. P60-4/1-1991E and revised as of May 1, 1996.</p>
 <p>The SACC Manual may be obtained from the Public Relations and Print Contract Services Sector - Publishing, telephone 819-956-4802, and may also be viewed on the Open Bidding Service, telephone  1-800-361-4637, and at all DPWGS procurement offices.</p>
-<h5>STANDARD INSTRUCTIONS AND CONDITIONS</h5>
+<h6>STANDARD INSTRUCTIONS AND CONDITIONS</h6>
 <p>Standard Instructions and Conditions - Standing Offers, DSS-MAS 9403-6, in force on the bid closing date and set out in the SACC Manual, are hereby incorporated by reference into and form part of this Request for a Standing Offer. Submission of a Standing Offer constitutes acknowledgement that the Offeror has read and agrees to be bound by such instructions.</p>
-<h5>TERMS AND CONDITIONS - STANDING OFFER</h5>
+<h6>TERMS AND CONDITIONS - STANDING OFFER</h6>
 <p>Pursuant to the <em>Department of Public Works and Government Services Act</em>, S.C.,1996, c.16,</p>
 <ol type="a">
 <li>the general terms, conditions and clauses identified herein by number, date and title, and</li>
@@ -53,13 +53,13 @@
 </ol>
 <hr/>
 <p><strong>Remarks:</strong> The following clause is to be used in all standing offers in conjunction with clause K0000D "Conditions."</p>
-<h4>M0000C Standard Instructions and Conditions</h4>
-<h5>REVISION OF DEPARTMENTAL NAME</h5>
+<h5>M0000C Standard Instructions and Conditions</h5>
+<h6>REVISION OF DEPARTMENTAL NAME</h6>
 <p>Reference to the Minister of Supply and Services or to the Department of Supply and Services contained in any term, condition or clause of this solicitation shall be interpreted as a reference to the Minister of Public Works and Government Services or to the Department of Public Work and Government Services, as the case may be.</p>
-<h5>STANDARD ACQUISITION CLAUSES AND CONDITIONS MANUAL</h5>
+<h6>STANDARD ACQUISITION CLAUSES AND CONDITIONS MANUAL</h6>
 <p>All instructions, general terms, conditions and clauses identified herein by title, number and date are set out in the Standard Acquisition Clauses and Conditions (SACC) Manual, issued by the Department of Public Works and Government Services (DPWGS), bearing Catalogue No. P60-4/1-1991E and revised as of May 1, 1996.</p>
 <p>The SACC Manual may be obtained from the Public Relations and Print Contract Services Sector - Publishing, telephone 819-956-4802, and may also be viewed on the Open Bidding Service, telephone 1-800-361-4637, and at all DPWGS procurement offices.</p>
-<h5>TERMS AND CONDITIONS - STANDING OFFER</h5>
+<h6>TERMS AND CONDITIONS - STANDING OFFER</h6>
 <p>Pursuant to the <em>Department of Public Works and Government Services Act</em>, S.C.,1996, c.16,</p>
 <ol type="a">
 <li>the general terms, conditions and clauses identified herein by number, date and title, and</li>

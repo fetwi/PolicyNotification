@@ -1,16 +1,16 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-49U</h2>
+<h3 class="pn-content-title">Contenu de l'AP-49U</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>Date : Le 7 janvier 2008</h3>
-<h4>Introduction :</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>Date : Le 7 janvier 2008</h4>
+<h5>Introduction :</h5>
 <p>À la suite des observations formulées par les ministères, la Politique du Conseil du Trésor sur le titre de propriété intellectuelle découlant des marchés d'acquisition de l'État a été modifiée, en vertu de l'Avis sur la Politique des marchés (APM) 2007-3, afin d'autoriser les ministères à déterminer les cas d'absence de titre de propriété intellectuelle découlant des marchés. Désormais, les marchés pourront donc ne contenir aucune modalité sur les droits de propriété intellectuelle (DPI). Ainsi, diverses modifications ont été apportées à la façon dont les ministères clients peuvent traiter les DPI.</p>
 <p>Nota : Le ministère client doit déterminer l'étendue des DPI dont l'État est titulaire.</p>
 <p>De plus, des modifications ont été apportées aux catégories de PI quant aux rapports sur les marchés excédant le seuil des achats en régime de concurrence afin d'établir les catégories suivantes :</p>
@@ -28,13 +28,13 @@
 <li>D : Organisation non assujettie à la Politique sur le titre de propriété intellectuelle</li>
 </ul>
 <p>Ces modifications seront intégrées dans l'environnement automatisé de l'acheteur (EAA).</p>
-<h4>Révisions</h4>
+<h5>Révisions</h5>
 <p>Se référer à l'Annexe A de ce document pour consulter les changements apportés au <em>Guide des approvisionnements</em>.  Les changements mentionnés ci-dessous feront partis de la prochaine modification du <em>Guide des approvisionnements</em>.</p>
-<h4>Personne-ressource</h4>
+<h5>Personne-ressource</h5>
 <p><strong>S/O</strong></p>
-<h3>Annexe A - Révisions au guide des approvisionnements</h3>
-<h4>Section 6B : Définition de l'achat</h4>
-<h5>Propriété intellectuelle</h5>
+<h4>Annexe A - Révisions au guide des approvisionnements</h4>
+<h5>Section 6B : Définition de l'achat</h5>
+<h6>Propriété intellectuelle</h6>
 <h6>6B.174 (2008-<span><em>xx-xx</em></span>)</h6>
 <p>Le ministère client peut traiter de différentes manières les DPI :</p>
 <p>Marchés de recherche-développement (R-D)</p>

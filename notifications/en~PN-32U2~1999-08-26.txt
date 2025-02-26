@@ -1,13 +1,13 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
-<h2 class="pn-content-title">Content of PN-32U2</h2>
+<h3 class="pn-content-title">Content of PN-32U2</h3>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <p>This policy notification relates to a revised procedure for the routing and processing of Procurement Information Forms (PIFs) to the Minister. It is effective immediately and replaces the current <em>routing process</em> for PIFs. All other aspects of PN-32, 32U and 32U1 remain active and applicable.</p>
-<h3>Issues:</h3>
+<h4>Issues:</h4>
 <p>Firstly, the Minister has confirmed that his office requires 48-hours (see note below) to review PIFs for procurement plans, awards and amendments that have not been previously approved. The current policy is not clear on this point with the result that it has been commonly misinterpreted that the entire PIF process was to be completed within 48-hours.</p>
 <p>Secondly, there have been problems identified with the consistency and accuracy of completed PIF documents. Each error or omission (such as items not checked off, items left out or unclear entries) causes a hold to be placed on the PIF until the oversight is corrected.</p>
 <p>Thirdly, providing PIFs in a timely and accurate manner is a condition of the Delegation Instrument from the Minister and should be respected as such.</p>
-<h3>Revised PIF Procedure:</h3>
+<h4>Revised PIF Procedure:</h4>
 <ul>
 <li><strong>Managers will review PIFs for completeness and accuracy;</strong></li>
 <li><strong>E-mail the completely PIFs directly to the PIF Account (<em>NCR-SPMS PIF</em>), with a cc to their DG. The Manager's and DG's name <em>must</em> appear in the e-mail address. Supply Management Directorate (SMD), formerly Operational Support Directorate (OSD), which maintains the PIF account, will forward the PIF to the ADM's Office;</strong></li>

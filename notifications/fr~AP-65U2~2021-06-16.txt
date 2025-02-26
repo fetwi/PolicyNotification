@@ -1,12 +1,12 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-65U2</h2>
-<h3>Objet</h3>
+<h3 class="pn-content-title">Contenu de l'AP-65U2</h3>
+<h4>Objet</h4>
 <p>L’Avis relatif aux politiques (AP)-65U2 vise à informer le Programme des approvisionnements (PA) de Travaux publics et Services gouvernementaux Canada (TPSGC) des changements apportés à la Politique sur la surveillance de l’équité.</p>
-<h3>Date d’entrée en vigueur</h3>
+<h4>Date d’entrée en vigueur</h4>
 <p>Le présent <abbr title="Avis relatif aux politiques">AP</abbr> entre en vigueur immédiatement. </p>
-<h3>Aperçu</h3>
+<h4>Aperçu</h4>
 <p>La <a class="gov" href="http://gcintranet.tpsgc-pwgsc.gc.ca/pm-dp/politique-policy/pfm-pse-fra.html" rel="external">Politique sur la surveillance de l’équité</a><span> (accessible uniquement sur le réseau du gouvernement du Canada)</span> ministérielle est entrée en vigueur le 10 octobre 2020 et remplace la Politique sur la surveillance de l’équité de Travaux publics et Services gouvernementaux Canada (TPSGC) datée du 21 juin 2012.</p>
 <p>Voici les principaux changements à la politique :</p>
 <ul>
@@ -19,13 +19,13 @@
 <li><a class="gov" href="http://publiservice-app.tpsgc.gc.ca/forms/index.cfm?fuseaction=search.details&amp;lang=f&amp;display=9734" rel="external">Formulaire d’évaluation et de recommandation de la surveillance de l’équité <abbr lang="en" title="Public Works and Government Services Canada">PWGSC</abbr>-<abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> 587-1</a><span> (accessible uniquement sur le réseau du gouvernement du Canada)</span></li>
 <li><a class="gov" href="https://masource-mysource.spac-pspc.gc.ca/fra/services/dgs-dob/se-fm/Pages/default.aspx" rel="external">Site intranet du Programme de surveillance de l’équité</a><span> (accessible uniquement sur le réseau du gouvernement du Canada)</span></li>
 </ul>
-<h3>Révisions apportées au Guide des approvisionnements</h3>
+<h4>Révisions apportées au Guide des approvisionnements</h4>
 <p>À l’appui de l’<abbr title="Avis relatif aux politiques">AP</abbr>-65U2, le Guide des approvisionnements a été mis à jour. Pour plus de détails, veuillez consulter les sections du Guide des approvisionnements visées ci-dessous.</p>
 <p>Aucune modification n’a été apportée au Guide des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr>.</p>
-<h3>Coordonnées des personnes-ressources</h3>
+<h4>Coordonnées des personnes-ressources</h4>
 <p>Les questions concernant l’application du présent <abbr title="Avis relatif aux politiques">AP</abbr>-65U2 peuvent être envoyées à l’équipe du Programme de surveillance de l’équité par courriel, à l’adresse suivante : <a href="mailto:se-fm@tpsgc-pwgsc.gc.ca" rel="external">se-fm@tpsgc-pwgsc.gc.ca</a>.</p>
 <p>Les questions concernant le Guide des approvisionnements peuvent être transmises à l’adresse de courriel suivante : <a href="mailto:TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca" rel="external">TPSGC.PASPSPublications-APSPSPublications.PWGSC@tpsgc-pwgsc.gc.ca</a>.</p> </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
+<h5 class="field-label">Sections du Guide des approvisionnements visées</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-84c64e5a3036c5de9b3cf6cb18d9578a">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first">

@@ -1,26 +1,26 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-120</h2>
-<h3>But</h3>
+<h3 class="pn-content-title">Contenu de l'AP-120</h3>
+<h4>But</h4>
 <p>Le but de cet avis relatif aux politiques (AP) 120 est de fournir des directives à jour aux agents de négociation des contrats concernant l’utilisation admissible du processus de passation de contrats non concurrentiels pour les besoins de moins de 25 000 $ (c.-à-d. besoins de faible valeur). </p>
-<h3>Date d’entrée en vigueur</h3>
+<h4>Date d’entrée en vigueur</h4>
 <p>À compter d’aujourd’hui, les agents de négociation des contrats doivent noter le processus de passation de contrats non concurrentiel pour les besoins de faible valeur comme indiqué ci-dessous. Le Guide des approvisionnements a été modifié afin d’inclure les changements. </p>
-<h3>Contexte</h3>
+<h4>Contexte</h4>
 <p>Le Règlement sur les marchés de l’État (RME) exige la tenue d’un processus d’appel d’offres avant qu’un contrat soit établi. Cependant, le <abbr title="Règlement sur les marchés de l’État">RME</abbr> a apporté des exceptions à cette règle. L’une de ces exceptions s’applique lorsque la dépense prévue (c.-à-d. la valeur du contrat) ne dépasse pas 25 000 $. Veuillez noter que les besoins pour les biens d’une valeur de 25 000 $ ou plus pourraient être assujettis aux obligations de l’Accord sur le commerce intérieur (p. ex. concurrence ouverte).</p>
 <p>Le Guide des approvisionnements encourage les agents de négociation des contrats à solliciter des demandes pour des besoins de faible valeur lorsqu’il est rentable de le faire. Le Guide des approvisionnements a été modifié afin d’harmoniser nos pratiques d’approvisionnement avec l’exception du <abbr title="Règlement sur les marchés de l’État">RME</abbr> et l’objectif de faciliter l’achat de biens de fournisseurs par les organisations du gouvernement fédéral ainsi que la vente de biens des fournisseurs au gouvernement du Canada dans le cadre de la modernisation de l’approvisionnement.</p>
-<h3>Politiques</h3>
+<h4>Politiques</h4>
 <p>Les agents de négociation des contrats peuvent établir des contrats non concurrentiels sans appel d’offres pour les besoins de moins de 25 000 $. Aucune modification n’a été apportée aux éléments suivants : l’autorisation légale d’utiliser une exception aux appels d’offres conformément au <abbr title="Règlement sur les marchés de l’État">RME</abbr>, les dispositions des accords commerciaux du Canada et des accords commerciaux internationaux limitant les appels d’offres, ou les dispositions d’approvisionnement en vertu des Ententes sur les revendications territoriales globales.</p>
-<h3>Modifications au Guide des approvisionnements</h3>
+<h4>Modifications au Guide des approvisionnements</h4>
 <p>À l’appui de cet <abbr title="avis relatif aux politiques">AP</abbr>, le Guide des approvisionnements a été modifié. Le paragraphe suivant de la section 3.15 Processus de passation de contrats non concurrentiels a été supprimé :</p>
 <ol start="3" type="a">
 <li>6.b)(i) du <abbr title="Règlement sur les marchés de l’État">RME</abbr> précise que, lorsque le montant estimatif de la dépense ne dépasse pas 25 000 $, les contrats peuvent être attribués sans solliciter des demandes de soumissions. Cependant, les agents de négociation des contrats doivent solliciter des demandes de soumissions lorsqu’il est économique de le faire.</li>
 </ol>
 <p>Consulter les « Sections visées du Guide des approvisionnements » ci-dessous pour consulter l’ensemble de la section révisée.</p>
-<h3>Personnes-ressources</h3>
+<h4>Personnes-ressources</h4>
 <p>Les demandes de renseignements concernant le présent <abbr title="avis relatif aux politiques">AP</abbr> peuvent être envoyées par courriel à l’adresse suivante : <br/><a href="mailto:PolPrograpprovisionnements.AcquisitionsProgramPolicy@tpsgc-pwgsc.gc.ca" rel="external">PolPrograpprovisionnements.AcquisitionsProgramPolicy@tpsgc-pwgsc.gc.ca</a>.</p>
 </div><div class="field field-name-field-assoc-sm-items-view field-type-viewfield field-label-above">
-<h4 class="field-label">Sections du Guide des approvisionnements visées</h4>
+<h5 class="field-label">Sections du Guide des approvisionnements visées</h5>
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_1 view-dom-id-d829aaf1b726aad767c255139957f2a6">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">

@@ -1,20 +1,20 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-49</h2>
+<h3 class="pn-content-title">Contenu de l'AP-49</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : le 15 novembre 2000</h3>
-<h4>Contexte</h4>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : le 15 novembre 2000</h4>
+<h5>Contexte</h5>
 <p>La politique révisée sur le<em>Titre de propriété intellectuelle découlant des marchés d'acquisition de l'État</em>, parrainée par Industrie Canada, a été approuvée par le Conseil du Trésor (CT) le 1<sup>er</sup>juin 2000. Cette politique révisée, qui annule et remplace la politique de 1991, qui était moins bien élaborée, respecte un engagement du Livre rouge, qui consiste à raffermir, pour le secteur privé, la possibilité d'exploiter commercialement les droits de propriété intellectuelle (DPI) élaborés dans le cadre des contrats conclus avec le gouvernement fédéral.</p>
 <p>La Direction de la politique des approvisionnements (DPA) fait partie du groupe de travail qui a élaboré la nouvelle politique. Notre objectif a consisté à nous assurer que cette politique pourra être mise en œuvre et à y intégrer les justifications pour ce qui est de la démarche adoptée par Travaux publics et Services gouvernementaux Canada (TPSGC) dans l'application de la politique de 1991 dans les contrats. La DPA, en collaboration avec les Services juridiques, a ébauché des clauses types pour la propriété intellectuelle (PI) pour assister les ministères lors de la révision de leurs modalités contractuelles et assurer une conformité avec la politique révisée. On s'attend à ce que la révision de la politique produise des incidences minimes sur la fonction organisationnelle des services communs d'approvisionnement, puisque les changements les plus importants se rapportent aux exceptions permettant à l'État de détenir les DPI. Comme dans la politique de 1991, la décision quant à la  propriété des droits revient au  ministère client.</p>
 <p>La démarche adoptée en 1991 consistait à reconnaître que les ministères passaient essentiellement des marchés pour exercer leurs opérations, que la politique ne devait pas les obliger à faire des compromis dans leurs activités pour favoriser l'exploitation commerciale des DPI et que ces droits devaient être commercialisés par le secteur privé. Nous en avons conclu que nous devions tâcher de permettre à l'entrepreneur d'être propriétaire de ces droits, tout en continuant de faire en sorte que les ministères puissent utiliser des DPI dans leurs propres opérations, essentiellement comme si l'État en était propriétaire. Les méthodes appliquées ont consisté à adopter, par défaut, le principe de l'attribution des droits de propriété à l'entrepreneur dans les Conditions générales - Recherche et développement (DSS-MAS 9624) et à inscrire des modalités de PI donnant à l'État des droits assez vastes pour utiliser ces droits. En donnant à l'État le droit d'utiliser la PI essentiellement comme s'il en était propriétaire, on espérait que les clients hésiteraient moins à permettre à l'entrepreneur d'en être propriétaire, dans l'intérêt de leurs opérations.</p>
-<h4>Politique</h4>
+<h5>Politique</h5>
 <p>La nouvelle politique est essentiellement identique à l'ancienne (1991), puisqu'on continue de supposer qu'il est préférable que le secteur commercialise la PI et qu'il doit être propriétaire des droits, en général, pour pouvoir commercialiser la PI. Dans la nouvelle politique, on adopte une démarche beaucoup plus rigoureuse que dans l'ancienne. Bien que l'ancienne politique permette effectivement aux ministères de revendiquer la propriété des DPI élaborée dans le cadre d'un contrat, lorsqu'ils souhaitent le faire, la nouvelle politique impose une liste restreinte d'exceptions à la règle qui veut que l'entrepreneur soit propriétaire de ces droits. À l'annexe A ci-joint figure un tableau qui compare les exceptions permettant à l'État de détenir les DPI, entre la politique de 1991 et celle de 2000. En vertu de la nouvelle politique, si le ministère souhaite conserver le titre de PI dans une situation qui n'est pas prévue dans les exceptions , il doit soumettre une présentation au CT pour obtenir l'exception voulue.</p>
 <p>On peut consulter la politique du Conseil du Trésor à l'adresse suivante :<br/>
 <a href="http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/Contracting/ownprop_f.html" rel="external">http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/Contracting/ownprop_f.html</a></p>
@@ -22,17 +22,17 @@
 <a href="http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/ContPolNotices/cpn_00-2_f.html" rel="external">http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/ContPolNotices/cpn_00-2_f.html</a></p>
 <p>On peut consulter le Guide de mise en œuvre (incluant les clauses types) à l'adresse suivante :<br/>
 <a href="http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/contracting/tipaucpc_ig_f.html" rel="external">http://www.tbs-sct.gc.ca/pubs_pol/dcgpubs/contracting/tipaucpc_ig_f.html</a></p>
-<h4>Mise en œuvre de la politique</h4>
+<h5>Mise en œuvre de la politique</h5>
 <p>On met actuellement en œuvre la nouvelle politique selon une démarche échelonnée. Toutes les décisions prises, quant à la propriété des droits, le 1<sup>er</sup>octobre 2000 ou après cette date et toutes les Demandes de proposition (DP) et tous les contrats émis le 31 décembre 2000 ou après cette date doivent respecter la nouvelle politique. Cette démarche échelonnée vise à donner suffisamment de temps pour offrir une formation et une orientation grâce auxquelles on pourra appliquer efficacement la politique. On sait que certains projets dont les délais d'exécution sont très longs pourront donner lieu à des problèmes, lorsque la décision sur la propriété des droits est prise avant le 1<sup>er</sup>octobre 2000, mais que le contrat n'est pas attribué avant le 1<sup>er</sup>janvier 2001 ou passé cette date. Les ministères qui décident d'être propriétaires des droits en vertu d'une exception à la politique de 1991 et qui ne peuvent justifier leur décision d'après les exceptions à la politique de 2000 doivent soumettre une présentation au CT pour justifier leur décision.</p>
 <p>La nouvelle politique exige que les ministères recueillent l'information sur l'application des exceptions permettant à l'État de détenir les droits. Le rapport sur la PI fera maintenant partie des rapports du CT sur les marchés. La Direction des systèmes d'approvisionnement de la Direction générale du service des approvisionnements travaille actuellement à la mise en œuvre des exigences en matière de rapport, qu'on prévoit établir à partir du 1<sup>er</sup>janvier 2001. L'agent de négociation de contrats pourra alors préciser si la PI revient à l'entrepreneur ou à l'État (et, dans ce cas, en le justifiant par l'exception voulue), en faisant un choix dans une liste déroulante du système de l'Environnement automatisé de l'acheteur.</p>
-<h4>Guide des approvisionnements</h4>
+<h5>Guide des approvisionnements</h5>
 <p>Le lecteur trouvera à l'annexe B les révisions apportées au Guide des approvisionnements. Ces révisions seront reproduites dans la prochaine modification de ce guide, qui devrait sortir au cours du premier trimestre 2001.</p>
-<h4>Guide des Clauses et conditions uniformisées d'achat (CCUA)</h4>
+<h5>Guide des Clauses et conditions uniformisées d'achat (CCUA)</h5>
 <p>La DPA et les Services juridiques modifient présentement le guide des CCUA afin de produire les nouvelles modalités de PI (Conditions générales, Conditions générales supplémentaires et clauses), qui permettront aux agents de négociation de contrats de continuer d'exercer leurs activités avec un minimum d'inconvénients, mais en tenant compte de l'expérience que TPSGC a acquise au cours des huit dernières années. Il est projeté de publier ces modalités révisées dans la prochaine sortie du guide des CCUA, prévue au cours du premier trimestre 2001.</p>
 <p><em><strong>Remarque : </strong>Des changements à un certain nombre de clauses relatives à la propriété intellectuelle apparaîtront dans la modification 00-2 du guide des CCUA, qui sortira en décembre prochain. Ces modifications sont d'ordre administratif seulement; par conséquent ellesul&gt;ne représententpas les nouvelles clauses mentionnées ci-dessus.</em></p>
 <p>D'ici là, les agents de négociation de contrats doivent continuer de se servir des modalités actuelles du guide des CCUA, y compris celles concernant les marchés immobiliers. Les modalités actuelles permettent aux agents de négociation de contrats d'assembler les marchés qui sont conformes à la politique révisée. Un tableau de concordance entre les modalités de la PI existantes et les clauses types est reproduite à l'annexe C, qui permettra aux agents de négociation de contrats de traiter avec les clients et de structurer les marchés. Suivant l'habitude, lorsqu'un ministère client a des besoins particuliers qui ne sont pas satisfaits dans l'application des clauses normalisées, on doit demander conseil aux Services juridiques. On pourra s'inspirer, dans ces cas, du libellé des clauses types.</p>
 <p>Pour les demandes d'achat dans lesquelles le ministère client a décidé de s'approprier la PI d'après la politique révisée 2000, plutôt que selon la politique de 1991, la clause K3200T révisée est reproduite à l'annexe D. Lorsque le ministère client indique une raison pour justifier l'attribution des droits de propriété à l'État d'après la politique de 1991, on doit reproduire dans le contrat la version actuelle de la clause K3200T du guide des CCUA.</p>
-<h3>ANNEXE A</h3>
+<h4>ANNEXE A</h4>
 <table class="basic">
 <caption>
 					Exceptions permettant à l'État d'être propriétaire des DPI<br/>
@@ -85,8 +85,8 @@
 <td headers="policy1991"><strong>« Autres »</strong> (les ministères peuvent établir leurs propres exceptions)</td>
 </tr>
 </tbody></table>
-<h3>ANNEXE B</h3>
-<h4>Révisions apportées au Guide des approvisionnements</h4>
+<h4>ANNEXE B</h4>
+<h5>Révisions apportées au Guide des approvisionnements</h5>
 <p>6.174 (xx/xx/xx)<strong>Politique</strong>:<strong>objectifs et principes sous-jacents</strong></p>
 <p><em>« 10. À l'instar de la politique de 1991, la nouvelle politique vise à accroître la possibilité de commercialiser la PI. Elle reconnaît que l'exploitation de la PI à des fins commerciales peut contribuer à l'expansion économique et à la création d'emplois en conférant aux entrepreneurs le droit de propriété sur la PI qu'ils créent dans l'exécution des travaux qui leur incombent aux termes des marchés d'acquisition de l'État et elle reconnaît également que l'État devra parfois conserver la PI pour agir dans l'intérêt public plus général.</em></p>
 <p><em>11. Elle reconnaît de plus que l'objectif de la commercialisation de la PI découlant des marchés de l'État s'inscrit dans le cadre de la Politique sur les marchés du gouvernement et de ses dispositions concernant les objectifs socio-économiques.</em></p>
@@ -117,13 +117,13 @@
 <li>L'État conserve les droits d'auteurs;</li>
 <li>L'entrepreneur conserve tous les DPI, y compris les droits d'auteur;</li>
 </ul>
-<h4>Propriété intellectuelle</h4>
+<h5>Propriété intellectuelle</h5>
 <p>7.070 (xx/xx/xx) Dans l'appel d'offres, on doit indiquer clairement, à l'intention des soumissionnaires intéressés, le titre de PI, tel que déterminé par le ministère-client . On peut se servir des clauses du guide des CCUA, de pair avec les Conditions générales et les Conditions générales supplémentaires, pour répondre aux exigences du client (cf. l'annexe 7.5). Dans le cas de marchés à faible valeur pour lesquels les Conditions générales DSS-MAS 9329 ou DSS-MAS 9628 sont utilisées, le contrat est habituellement muet sur le sujet de la PI. Par conséquent, l'entrepreneur retient les titres de toute PI qu'il met au point.</p>
 <p>7.570 (xx/xx/xx) Sauf si le ministère client a modifié sa position depuis le lancement de l'appel d'offres, pour ce qui est des DPI, l'agent de négociation de contrats doit reproduire, dans le contrat, les clauses qu'on trouve dans l'appel d'offres<strong>, à l'exception de la clause K3200T, qui doit être reproduite dans l'appel d'offres</strong>(cf. l'annexe 7.5).</p>
 <p>7.575 (xx/xx/xx) À compter du 1<sup>er</sup>janvier 2001, chaque ministère devra tenir un registre de tous les marchés dont la valeur excède le seuil prévu dans le<em>Règlement sur les marchés de l'État.</em>Chaque ministère devra indiquer les marchés pour lesquels l'entrepreneur détient le titre de PI et pour lesquels l'État détient le titre de PI ainsi que l'exception invoquée (soit les raisons indiquées dans la clause K3200T).On cumulera ces rapports avec celui du CT sur les marchés.</p>
-<h4>Annexe 7.5 : CLAUSES SUR LA PROPRIÉTÉ INTELLECTUELLE</h4>
+<h5>Annexe 7.5 : CLAUSES SUR LA PROPRIÉTÉ INTELLECTUELLE</h5>
 <p> On publiera une modification de la présente annexe à la date de diffusion des nouvelles clauses.</p>
-<h3>ANNEXE C</h3>
+<h4>ANNEXE C</h4>
 <p><strong>Tableau de concordance entre les modalités actuelles de PI et les clauses types</strong></p>
 <p><strong>1A : Contrats de recherche et de développement</strong></p>
 <p><strong>Décision du client : L'entrepreneur détient les DPI</strong></p>
@@ -529,7 +529,7 @@
 <td headers="clause17">Fondement du titre du Canada sur les droits de propriété intellectuelle</td>
 </tr>
 </tbody></table>
-<h3>ANNEXE D</h3>
+<h4>ANNEXE D</h4>
 <p><strong>K3200T (xx/xx/xx) Fondement du titre du Canada sur les droits de propriété intellectuelle</strong></p>
 <p><strong>Remarques</strong>:<em>Utiliser cette clause dans tous les appels d'offres dans lesquels le ministère client a décidé que le Canada détiendra tout droit de propriété intellectuelle découlant des travaux visés par le contrat. L'agent de négociation des contrats insérera le nom du ministère ou organisme client et au moinsl'undes motifs suivants justifiant le titre du Canada, motif que lui indiquera le ministère ou l'organisme client</em>: (<strong>ne pas inclure le numéro de l'exception</strong>)</p>
 <p>(6.1) la sécurité nationale;</p>

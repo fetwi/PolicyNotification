@@ -1,23 +1,23 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Imprimer</span></button>
 <div class="pn-content">
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
-<h2 class="pn-content-title">Contenu de l'AP-39U</h2>
+<h3 class="pn-content-title">Contenu de l'AP-39U</h3>
 <div class="critical">
-<h3>Historique : ***</h3>
+<h4>Historique : ***</h4>
 <p>L'historique des avis relatifs aux politiques  est fourni pour fin de consultation seulement.</p>
 <p>Les changements ont été incorporés dans la version indiquée ci-dessous, soit du Guide des approvisionnements (GDA) et(ou) du guide des Clauses et conditions uniformisées d'achat (CCUA).</p>
 <p>Une fois les changements effectués, le <acronym title="Guide des approvisionnements">GDA</acronym> et(ou) le guide des <acronym title="Clauses et conditions uniformisées">CCUA</acronym> ont préséance sur les avis.</p>
 <p>Pour toutes questions au sujet de cet avis, veuillez communiquer avec la « Personne ressource » telle qu'identifiée dans la « <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/arp-pns/historique-historic-fra.html#toc">Table des matières - Historique</a> ».</p>
 </div>
-<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h3>DATE : Le 13 mars 2000</h3>
+<!-- ====== /app-acq/arp-pns/ssi/hist-disclaimer3-fra.html ====== --><h4>DATE : Le 13 mars 2000</h4>
 <p>Au sein du gouvernement, on attache beaucoup d'importance à la question du recours à des fournisseurs uniques. Le Comité permanent des comptes publics y a pour sa part consacré beaucoup de temps et a soulevé plusieurs préoccupations. En novembre 1999, le vérificateur général du Canada a publié un deuxième rapport sur le recours à des fournisseurs uniques de services, si bien que TPSGC a dû réexaminer sa politique sur les PAC.</p>
 <p>Un examen général de la politique sur les PAC, qui est actuellement en cours, donnera lieu à un certain nombre de changements dans un avenir rapproché. Entre-temps, voici quelques rappels:</p>
 <p>1. Nous incitons le personnel des approvisionnements à étayer suffisamment les PAC pour permettre aux fournisseurs éventuels de déterminer s'ils sont en mesure d'accomplir les travaux requis. Les PAC devraient contenir la description et la valeur estimative des travaux (ou un aperçu de leur portée, si un montant exact influera sur les négociations avec l'entrepreneur proposé).</p>
 <p>2. Le personnel des approvisionnements doit afficher un PAC durant 15 jours civils (voir l'AP-39).</p>
 <p>3. L'Avis de Politique sur les marchés du Conseil du Trésor 1999-3 affirme que le Préavis ne devrait pas dissuader les opposants éventuels. Par exemple, il ne faut pas écrire "ceci n'est pas une invitation à soumissionner concurrentielle..." ou faire une déclaration en ce sens." Il faut donc que l'énoncé <strong>LA PRÉSENTE N'EST PAS UNE INVITATION À SOUMISSIONNER EN RÉGIME DE CONCURRENCE</strong> soit supprimé lorsque le spécimen de PAC qui figure à l'annexe 8.1 du <i>Guide des approvisionnements</i> est utilisé. Un spécimen de PAC révisé est annexé (<strong>Annexe A</strong>).</p>
 <hr/>
-<h4>Annexe A</h4>
-<h5>Annexe 8.1 : SPÉCIMEN DE PRÉAVIS D'ADJUDICATION DE CONTRAT</h5>
+<h5>Annexe A</h5>
+<h6>Annexe 8.1 : SPÉCIMEN DE PRÉAVIS D'ADJUDICATION DE CONTRAT</h6>
 <p><strong>PRÉAVIS D'ADJUDICATION DE CONTRAT (PAC)</strong></p>
 <p><strong>NUMÉRO DE DOSSIER DE TPSGC : <span aria-label="Espace réservé vide" class="blankline"></span> </strong></p>
 <p><strong>NOM DE L'AGENT DE NÉGOCIATION: <span aria-label="Espace réservé vide" class="blankline"></span> </strong></p>
