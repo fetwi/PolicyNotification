@@ -1,11 +1,10 @@
 
-PN-43U2 line added to content
-PN-150 archived in table and sacc version changed to no change
-
-PN-150U1 added to table, line added to content and archived in table
-PN-152R1 changed to archived
-PN-11R2 was changed from archived to live by client (it was changed back to archived)
-PN-106	French URL is not consistent and French ID is in English (was PN-106, changed to AP-106)
-PN-11R3	French ID is in English (was PN-11R3, changed to AP-11R3)
-PN-50R	No French available, translation was added
-PN-19	This record was duplicated
+PN-43U2     line added to content
+PN-150      archived in table and sacc version changed to no change
+PN-150U1    added to table, line added to content and archived in table
+PN-152R1    changed to archived
+PN-11R2     was changed from archived to live by client (it was changed back to archived)
+PN-106      French URL is not consistent and French ID is in English (was PN-106, changed to AP-106)
+PN-11R3     French ID is in English (was PN-11R3, changed to AP-11R3)
+PN-50R      No French available, translation was added
+PN-19       This record was duplicated
