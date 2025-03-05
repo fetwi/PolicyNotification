@@ -1,6 +1,7 @@
 <button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <div class="pn-content">
 <h3 class="pn-content-title">Content of PN-150</h3>
+<p>Note that this PN has been archived on December 13, 2024. All its consolidated information is now available in <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/supply-manual/chapter-2-annexes#_2-8">Annex 2.8</a> of the Supply Manual.</p>
 <div class="field field-name-field-body field-type-text-long field-label-hidden">
 <h4>Purpose</h4>
 <p>The purpose of Policy Notification (PN)-150 is to inform Public Works and Government Services Canada (PWGSC) Acquisitions Program contracting officers of new contract clauses that contain new obligations for contractors with respect to forced labour.</p>
