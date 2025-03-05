@@ -28,7 +28,7 @@ for filename in os.listdir(directory):
             for a_tag in soup.find_all('a', href=True):
                 if a_tag['href'] in link_replacements:
                     a_tag['href'] = link_replacements[a_tag['href']]
-                    a_tag.string = (a_tag.string or '') + " (archived)"
+                    a_tag.string = "ARCHIVED: " + (a_tag.string or '') 
 
             # Write the modified content back to the file
             with open(filepath, 'w', encoding='utf-8') as file:
