@@ -8,7 +8,7 @@ directory = os.path.join(dir_path, "notifications")
 
 # Read the link replacements from the CSV file
 link_replacements = {}
-csv_file_path = os.path.join(dir_path, "linkreplaceEN.csv")
+csv_file_path = os.path.join(dir_path, "linkreplaceFR.csv")
 with open(csv_file_path, 'r', encoding='utf-8') as csvfile:
     csvreader = csv.reader(csvfile)
     for row in csvreader:
@@ -28,7 +28,8 @@ for filename in os.listdir(directory):
             for a_tag in soup.find_all('a', href=True):
                 if a_tag['href'] in link_replacements:
                     a_tag['href'] = link_replacements[a_tag['href']]
-                    a_tag.string = "ARCHIVED: " + (a_tag.string or '') 
+                    if "archiv" not in (a_tag.get_text() or '').lower():
+                        a_tag.insert(0, "ARCHIVÉE : ")
 
             # Write the modified content back to the file
             with open(filepath, 'w', encoding='utf-8') as file:

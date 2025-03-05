@@ -25,7 +25,7 @@
 <p>FACTEURS À PRENDRE EN CONSIDÉRATION CONCERNANT L’ÉLABORATION D’UNE DEMANDE DE SOUMISSIONS AU MOYEN DU SYSTÈME D’ACHATSCANADA (SAP ARIBA)</p>
 <ol>
 <li><p>Les acheteurs doivent seulement ajouter un renvoi aux <abbr title="Instructions uniformisées">IU</abbr> 2003ACB pour les approvisionnements au moyen du système d’AchatsCanada (SAP Ariba).</p>
-<p>REMARQUE : Tous les renvois, y compris les hyperliens, vers le <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2003">Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> 2003 - Instructions uniformisées - biens ou services - besoins concurrentiels</a> doivent être supprimés du document de la demande de soumissions et remplacés par une référence aux <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2003ACB"><abbr title="Instructions uniformisées">IU</abbr> 2003ACB dans le Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr></a>.</p>
+<p>REMARQUE : Tous les renvois, y compris les hyperliens, vers le <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond-1#2003">ARCHIVÉE : Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr> 2003 - Instructions uniformisées - biens ou services - besoins concurrentiels</a> doivent être supprimés du document de la demande de soumissions et remplacés par une référence aux <a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond-1#2003ACB">ARCHIVÉE : <abbr title="Instructions uniformisées">IU</abbr> 2003ACB dans le Guide des <abbr title="clauses et conditions uniformisées d’achat">CCUA</abbr></a>.</p>
 </li>
 <li>Dans les documents de la demande de soumissions, les acheteurs doivent indiquer que les soumissions seront acceptées uniquement au moyen du système d’AchatsCanada (SAP Ariba).</li>
 <li><p>Prendre note du texte ci-après s’il y a lieu (il ne s’agit toutefois pas d’une liste exhaustive des clauses à insérer dans la demande de soumissions conformément aux <abbr title="Instructions uniformisées">IU</abbr> 2003ACB).</p>
@@ -58,7 +58,7 @@
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-f2fc9fcc17e3b881abe643261414860b">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond#2003ACB">1.2003ACB: Instructions uniformisées d’AchatsCanada - biens ou services - besoins concurrentiels</a> </li>
+<a href="https://achatscanada.canada.ca/fr/notre-processus-d-achat/politiques-et-lignes-directrices/guide-des-clauses-et-cond-1#2003ACB">ARCHIVÉE : 1.2003ACB: Instructions uniformisées d’AchatsCanada - biens ou services - besoins concurrentiels</a> </li>
 </ul></div> </div>
 </div>
 </div>

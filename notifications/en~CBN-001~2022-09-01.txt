@@ -25,7 +25,7 @@
 <p>CONSIDERATIONS FOR DEVELOPING A SOLICITATION IN CANADABUYS (SAP ARIBA)</p>
 <ol>
 <li><p>Buyers must only include the reference to <abbr title="Standard Instructions">SI</abbr> 2003ACB for procurements in CanadaBuys (SAP Ariba).</p>
-<p>NOTE: All references including hyperlinks to the <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#2003"><abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual 2003 – Standard Instructions - Goods or Services - Competitive Requirements</a> must be removed in the solicitation document, and replaced with a reference to the <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#2003ACB"><abbr title="Standard Instructions">SI</abbr> 2003ACB in the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual</a>.</p>
+<p>NOTE: All references including hyperlinks to the <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual-1#2003">ARCHIVED: <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual 2003 – Standard Instructions - Goods or Services - Competitive Requirements</a> must be removed in the solicitation document, and replaced with a reference to the <a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual-1#2003ACB">ARCHIVED: <abbr title="Standard Instructions">SI</abbr> 2003ACB in the <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> Manual</a>.</p>
 </li>
 <li>Buyers must indicate that bids will only be accepted through CanadaBuys (SAP Ariba) in the solicitation documents. </li>
 <li><p>Note the following text for consideration, as applicable (this is not an exhaustive list of solicitation wording to reflect the use of <abbr title="Standard Instructions">SI</abbr> 2003ACB).</p>
@@ -61,7 +61,7 @@
 <div class="view view-policy-notification view-id-policy_notification view-display-id-attachment_2 view-dom-id-185bcf8434d85ec9f21f0a5835c6ec50">
 <div class="view-content">
 <div class="item-list"> <ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual#2003ACB">1.2003ACB: CanadaBuys Standard Instructions - Goods or Services - Competitive Requirements</a> </li>
+<a href="https://canadabuys.canada.ca/en/how-procurement-works/policies-and-guidelines/standard-acquisition-clauses-and-conditions-manual-1#2003ACB">ARCHIVED: 1.2003ACB: CanadaBuys Standard Instructions - Goods or Services - Competitive Requirements</a> </li>
 </ul></div> </div>
 </div>
 </div>
